@@ -1,0 +1,382 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cn" lang="cn">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>FC2 - 免费主页 访问分析 博客 服务器租赁 SEO对策 等 -</title>
+<meta name="description" content="FC2是为您提供免费博客、个人主页、访问分析等快乐网络生活的门户网站。位居日本第二的博客，深受从初学者到专业用户的喜爱！并同时提供30种以上各种各样的服务。" />
+<meta name="keywords" content="FC2，blog，博客，个人主页，免费，访问分析，计数器，揭示板，BBS，图标，服务器租赁，购物中心，购物车，手机，邮件表格，成人" />
+<link rel="canonical" href="//fc2id.com/cn/" />
+
+<meta name="author" content="FC2,Inc." />
+<meta name="copyright" content="Copyright (c) 1999- FC2, Inc. All Rights Reserved." />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<link rel="shortcut icon" href="//static.fc2id.com/share/image/favicon.ico" />
+
+<link rel="stylesheet" type="text/css" href="//static.fc2id.com/share/css/common.css" />
+
+<link rel="stylesheet" type="text/css" href="//static.fc2id.com/share_cn/fc2parts/css/share.css" />
+
+<link rel="stylesheet" type="text/css" href="//static.fc2id.com/fc2com/css/fc2com_default_cn_140313.css" />
+
+<link rel="stylesheet" type="text/css" href="//static.fc2id.com/fc2com/css/fc2com_default_foreign.css" />
+
+
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="//static.fc2id.com/fc2com/cn/css/ie.css" media="all" />
+<![endif]-->
+
+<script type="text/javascript" src="//static.fc2id.com/fc2com/js/jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="//static.fc2id.com/fc2com/js/tab_panel.js"></script>
+<script type="text/javascript" src="//static.fc2id.com/share/fc2parts/js/common_design.js"></script>
+
+
+<script src="//static.fc2id.com/fc2com/js/sp_cn.js?130128" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="//static.fc2id.com/fc2com/css/sp.css" />
+</head>
+
+<body>
+<div id="spbar">
+<!-- fc2comnew -->
+<!-- header_box -->
+<div id="sh_header_box">
+	<div id="sh_header_col">
+		<div class="sh_search">
+		</div>
+		<div class="sh_langselect">
+			<ul>
+	<li><select onchange="javascript:location.replace('https://' + document.domain + '/' + this.options[this.selectedIndex].value);"><option value="">Language</option><option value="ja/">日本語</option><option value="en/">English</option><option value="tw/">繁體中文</option><option value="cn/">简体中文</option><option value="th/">ภาษาไทย</option><option value="ko/">한국어</option><option value="de/">Deutsch</option><option value="es/">Español</option><option value="ru/">Русский</option><option value="fr/">Français</option><option value="id/">Indonesia</option><option value="pt/">Português</option><option value="vi/">Tiếng Việt</option></select></li>			</ul>
+		</div>
+		<div class="sh_header_nav">
+			<ul>
+								<!-- <li><a href="http://id.fc2.com/?done=id&switch_language=ja">FC2ID</a></li> -->
+			</ul>
+		</div>
+	</div>
+</div>
+<!-- /header_box -->
+
+<div id="container" class="clear">
+			<div id="header" class="whenIE7below">
+	<h1><a href="//fc2id.com/cn/">FC2 total Web Sloutions</a></h1>
+	</div>
+	
+
+
+<!-- main -->
+	<div id="main" class="clear">
+<!-- content -->
+		<div id="content">
+<!-- content_body -->
+			<div class="content_body clear">
+				<div id="inf_box">
+					<ul class="tab">
+						<li class="left_side
+																																				">
+						网站公告</li>
+																																				<li class="middle_tab
+																																				">
+						最新日记						</li>
+																																			</ul>
+					<ul class="panel">
+						<li class="p_body">
+							<script src="//fc2id.com/cn/notice.js" type="text/javascript"></script>
+						</li>
+						<li class="p_body" style="display:none;">
+							<script src="//fc2id.com/cn/newentry.js" type="text/javascript"></script>
+						</li>
+					</ul>
+				</div>
+			</div>
+<!-- /content_body -->
+
+<!-- content_body -->
+			<div class="content_body">
+				<h2 id="pagetop" class="sh_heading_main_b"><span>所有服务</span></h2>
+
+
+
+				<div class="service_body">
+					<dl>
+						<dt>
+						<a id="service_blog" class="service_img" href="http://fc2blog.us/" title="进入FC2博客">&nbsp;</a><a href="http://fc2blog.us/" title="进入FC2博客">博客</a>
+						</dt>
+						<dd>简单易用、样板丰富！</dd>
+					</dl>
+					<dl>
+						<dt>
+						<a id="service_video" class="service_img" href="http://yantavideo.asia/" title="进入FC2视频">&nbsp;</a><a href="http://yantavideo.asia/" title="进入FC2视频">视频</a>
+						</dt>
+						<dd>随意上传、观看喜欢的视频。</dd>
+					</dl>
+					<dl>
+						<dt>
+						<a id="service_livechat" class="service_img" href="http://fc2livecn.com/" title="进入FC2 Live">&nbsp;</a><a href="http://fc2livecn.com/" title="进入FC2 Live">Live</a>
+						</dt>
+						<dd>可选择节目直播或私人聊天。</dd>
+					</dl>
+					<dl>
+						<dt><a id="service_contents" class="service_img" href="http://contents.fc2.com/language_change.php?lang=cn" title="FC2 电子市场" onclick="_gaq.push(['_trackEvent', 'service_link', 'contents', 'icon',, true]);">&nbsp;</a><a href="http://contents.fc2.com/language_change.php?lang=cn" title="FC2 电子市场" onclick="_gaq.push(['_trackEvent', 'service_link', 'contents', 'txt',, true]);">电子市场</a></dt>
+						<dd>可立即通过点数购买/出售的电子商品</dd>
+					</dl>
+					<dl>
+						<dt><a id="service_analysis" class="service_img" href="http://analyzer.fc2id.com/cn/" title="进入FC2访问分析">&nbsp;</a><a href="http://analyzer.fc2id.com/cn/" title="进入FC2访问分析">访问分析</a>
+						</dt>
+						<dd>访问者大透析！并有可爱的分析图标哦！</dd>
+					</dl>
+					<dl>
+						<dt><a id="service_ranking" class="service_img" href="http://ranking.fc2id.com/?lang=cn" title="进入FC2访问流量排行榜">&nbsp;</a><a href="http://ranking.fc2id.com/?lang=cn" title="进入FC2访问流量排行榜">访问流量排行榜</a>
+						</dt>
+						<dd>网站流量流向一目了然！</dd>
+					</dl>
+					<dl>
+						<dt><a id="service_counter" class="service_img" href="http://counter.fc2id.com/cn/" title="进入FC2计数器">&nbsp;</a><a href="http://counter.fc2id.com/cn/" title="进入FC2计数器">计数器</a>
+						</dt>
+						<dd>多种样式任意选择，并可可防止反复统计。</dd>
+					</dl>
+					<dl>
+						<dt><a id="service_clap" class="service_img" href="http://clap.fc2id.com/cn/" title="进入FC2拍手">&nbsp;</a><a href="http://clap.fc2id.com/cn/" title="进入FC2拍手">拍手</a></dt>
+						<dd>简单表示支持与鼓励。并有回礼画面。</dd>
+					</dl>
+					<dl>
+						<dt><a id="service_bbs" class="service_img" href="http://bbs.fc2bbs.net/cn/" title="进入FC2 BBS">&nbsp;</a><a href="http://bbs.fc2bbs.net/cn/" title="进入FC2 BBS">BBS</a></dt>
+						<dd>同好大集合！聊你喜欢的话题！</dd>
+					</dl>
+					<dl>
+						<dt><a id="service_knowhow" class="service_img" href="http://fc2knowhow.net/cn/" title="进入FC2 KnowHow">&nbsp;</a><a href="http://fc2knowhow.net/cn/" title="进入FC2 KnowHow">Knowhow</a></dt>
+						<dd>彼此共享、编辑各种小知识、小窍门！</dd>
+					</dl>
+					<dl>
+						<dt><a id="service_sns" class="service_img" href="http://sns.fc2sns.net/cn/" title="进入FC2 SNS">&nbsp;</a><a href="http://sns.fc2sns.net/cn/" title="进入FC2 SNS">SNS</a></dt>
+						<dd>创立、管理自己的朋友圈。结交更多新朋友！</dd>
+					</dl>
+					<dl>
+						<dt><a id="service_apps" class="service_img" href="http://fc2apps.net/" title="进入FC2 Apps">&nbsp;</a><a href="http://fc2apps.net/" title="进入FC2 Apps">Apps</a>
+						</dt>
+						<dd>最适合智能手机使用的FC2专用应用程序。</dd>
+					</dl>
+					<dl>
+						<dt><a id="service_wifi" class="service_img" href="http://wifi.fc2.net/" title="進入FC2 WiFi">&nbsp;</a><a href="http://wifi.fc2.net/" title="進入FC2 WiFi">WiFi</a></dt>
+						<dd>随时随地免费WiFi无线上网</dd>
+					</dl>
+					<dl>
+						<dt><a id="service_r" class="service_img" href="http://r.fc2id.com/cn/" title="进入FC2图片缩小">&nbsp;</a><a href="http://r.fc2id.com/cn/" title="进入FC2图片缩小">图片缩小</a>
+						</dt>
+						<dd>将图片缩小至理想尺寸。</dd>
+					</dl>
+				</div><!-- /service_body -->
+
+
+
+
+
+
+
+
+
+
+
+
+			</div><!-- /content_body -->
+		</div><!-- /content -->
+<!-- header_ad 300x250 -->
+		<ul class="ad_300x250">
+			<li>
+			
+<!-- FC2管理用 -->
+<img src="//media.fc2.com/counter_img.php?id=2930" width="1" height="1">
+<!-- FC2管理用 -->
+
+			</li>
+		</ul>
+<!-- /header_ad 300x250 -->
+	</div><!-- /main -->
+
+<!-- menu -->
+	<div id="menu">
+		<h3 class="sh_regist_cn"><a href="http://id.fc2id.com/signup.php?switch_language=cn" onclick="_gaq.push(['_trackEvent', 'regist', 'click', 'regist_btn',, true]);"><img width="200" height="47" alt="申请FC2ID（免费）" src="//static.fc2id.com/share/fc2footermenu/blank.gif" /></a></h3>
+		<p class="sh_login_text" align="center">登录FC2ID，快乐就是这么简单！</p>
+		<h3 class="sh_login_cn"><a href="http://id.fc2id.com/?done=id&amp;switch_language=cn" onclick="_gaq.push(['_trackEvent', 'login', 'click', 'login_btn',, true]);"><img width="200" height="47" alt="登录" src="//static.fc2id.com/share/fc2footermenu/blank.gif" /></a></h3>
+		<p class="sh_login_text" align="center">已申请FC2ID的用户</p>
+
+		<div align="center">
+	
+	
+																						
+				</div>
+
+<br />
+			<!--fc2.com/home -->
+		<script type="text/javascript">
+		var ord = window.ord || Math.floor(Math.random() * 1e16);
+		document.write('<script type="text/javascript" src="https://ad.doubleclick.net/N4403/adj/fc2.com/home;sect=home;sz=160x600;ord=' + ord + '?"><¥/script>');
+		</script>
+		<noscript>
+		<a href="https://ad.doubleclick.net/N4403/jump/fc2.com/home;sect=home;sz=160x600;ord=[timestamp]?">
+		<img src="https://ad.doubleclick.net/N4403/ad/fc2.com/home;sect=home;sz=160x600;ord=[timestamp]?" width="160" height="600" />
+		</a>
+		</noscript>
+		<img src="//media.fc2.com/counter_img.php?id=2658" width="1" height="1">
+		</div><!-- /menu -->
+
+<!-- header_ad 468x60 -->
+	<div id="ad_banner468x60">
+
+   <!-- fc2.com/home -->
+   <script type="text/javascript">
+     var ord = window.ord || Math.floor(Math.random() * 1e16);
+     document.write('<script type="text/javascript" src="https://ad.doubleclick.net/N4403/adj/fc2.com/home;sect=home;sz=468x60;ord=' + ord + '?"><¥/script>');
+   </script>
+   <noscript>
+   <a href="https://ad.doubleclick.net/N4403/jump/fc2.com/home;sect=home;sz=468x60;ord=[timestamp]?">
+   <img src="https://ad.doubleclick.net/N4403/ad/fc2.com/home;sect=home;sz=468x60;ord=[timestamp]?" width="468" height="60" />
+   </a>
+   </noscript>
+   <img src="//media.fc2.com/counter_img.php?id=2660" width="1" height="1">
+
+	</div>
+<!-- /header_ad 468x60 -->
+</div><!-- /container -->
+
+
+<link rel="stylesheet" type="text/css" href="//static.fc2id.com/share/fc2parts/css/fc2footer_languages.css" />
+<!--Chinese Common Footer Start-->
+<div id="footer_global">
+	<div id="fc2menu_global">
+		<p class="fc2top"><a href="//fc2id.com/cn/" title="FC2主页"><img src="//static.fc2id.com/share/fc2footermenu/blank.gif" width="101" height="38" alt="FC2" /></a></p>
+		<ul><!--
+			--><li>
+				<dl>
+					<dt><a href="http://fc2blog.us/" title="FC2博客">博客</a></dt>
+					<dd>初学者者也可轻松掌握！多种样板随意换！</dd>
+				</dl>
+				<dl>
+					<dt><a href="http://yantavideo.asia/" title="FC2 视频">视频</a></dt>
+					<dd>立即上传分享您的视频！支持手机观看！</dd>
+				</dl>
+				<dl>
+					<dt><a href="http://fc2livecn.com/" title="FC2 Live">Live</a></dt>
+					<dd>可进行Live直播/可2人私人聊天</dd>
+				</dl>
+			</li>
+			<li>
+				<dl>
+					<dt><a href="http://analyzer.fc2cn.com/cn/" title="FC2 访问分析">访问分析</a></dt>
+					<dd>可分析多达120个网页！具有排除自己访问数的功能。</dd>
+				</dl>
+				<dl>
+					<dt><a href="http://ranking.fc2cn.com/cn/" title="FC2 访问流量排行榜">访问流量排行榜</a></dt>
+					<dd>通过访问来源、人气排行榜可了解网站内容的人气走势。</dd>
+				</dl>
+				<dl>
+					<dt><a href="http://counter.fc2cn.com/cn/" title="FC2 计数器">计数器</a></dt>
+					<dd>多种可选外观，并附带防止重复统计的功能。</dd>
+				</dl>
+			</li>
+			<li>
+				<dl>
+					<dt><a href="http://clap.fc2cn.com/cn/" title="FC2拍手">拍手</a></dt>
+					<dd>简单送出鼓励！还可设置回礼画面！</dd>
+				</dl>
+				<dl>
+					<dt><a href="http://bbs.fc2bbs.net/cn/" title="FC2 BBS">BBS</a></dt>
+					<dd>与来访者自由交流！垃圾信息防范功能安全、有效！</dd>
+				</dl>
+				<dl>
+					<dt><a href="http://fc2knowhow.net/cn/" title="FC2 Knowhow">Knowhow</a></dt>
+					<dd>可与大家共同分享、编辑有用的小窍门！</dd>
+				</dl>
+			</li>
+			<li>
+				<dl>
+					<dt><a href="http://sns.fc2sns.net/cn/" title="FC2 SNS">SNS</a></dt>
+					<dd>可建立自己的SNS！不断扩大自己的朋友圈。</dd>
+				</dl>
+				<dl>
+					<dt><a href="http://fc2apps.net/" title="FC2 Apps">Apps</a></dt>
+					<dd>智能手机也可使用FC2服务！</dd>
+				</dl>
+				<dl>
+					<dt><a href="http://wifi.fc2.net/cn/" title="FC2 WiFi">WiFi</a></dt>
+					<dd>随时随地免费WiFi无线上网</dd>
+				</dl>
+			</li>
+			<li>
+				<dl>
+					<dt><a href="http://r.fc2cn.com/cn/" title="FC2 缩图">缩图</a></dt>
+					<dd>可将您的图片缩小至理想尺寸。</dd>
+				</dl>
+			</li>
+
+		</ul>
+	</div><!-- /fc2menu_global -->
+	<div id="footer_outline">
+		<ul>
+			<li><a href="//fc2id.com/cn/company.html" rel="nofollow" title="公司简介">公司简介</a></li><!--
+			--><li><a href="https://fc2form.net/form/?id=851803" rel="nofollow" title="联系我们">联系我们</a></li><!--
+			--><li><a href="//fc2id.com/cn/privacy.html" rel="nofollow" title="隐私权保护政策">隐私权保护政策</a></li><!--
+			--><li><a href="//help.fc2id.com/copyrights/tos/cn" rel="nofollow" title="著作权">著作权</a></li><!--
+			--><li><a href="http://fc2idmanualcn.blog125.fc2blog.us/" rel="nofollow" title="帮助">帮助</a></li><!--
+			--><li><a href="//help.fc2id.com/common/tos/cn/" rel="nofollow" title="FC2使用条款">FC2使用条款</a></li>
+		</ul>
+		<p class="copyright">Copyright (c) 1999 FC2 inc. All Rights Reserved.</p>
+	</div><!-- /footer_outline -->
+</div><!-- /footer_global -->
+<!--Chinese Common Footer End-->
+<div style="display:none;" id="sh_fc2footer_fix"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38220905-2']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-12020025-9']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+</div>
+
+
+</body>
+</html>

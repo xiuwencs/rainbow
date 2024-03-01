@@ -1,0 +1,938 @@
+<!DOCTYPE html>
+<html xml:lang="en-CA" lang="en-CA" dir="ltr" xmlns:fb="http://ogp.me/ns/fb#">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# dailymotionapp: http://ogp.me/ns/fb/dailymotionapp#">
+        <script type="text/javascript">
+        window.dm_times = {
+            start: (new Date()).getTime()
+        };
+    </script>
+                                
+            <link rel="stylesheet" href="http://static1.dmcdn.net/css/gen/pack/common.ltr.css.v6d2638cb776922052">
+                        
+                
+    <link rel="stylesheet" href="http://static1.dmcdn.net/css/gen/pack/what-to-watch.ltr.css.v6f415efd1e0da5e92">
+
+        <script type="text/javascript">
+                (function(q,v,r){var d=v.userAgent.toLowerCase(),f=r.documentElement;q.DM_ENV={_add:function(g,h){if(!this[g]){this[g]=h}else{for(var b in h){this[g][b]=h[b]}}PubSub.publish("envs:added",g)}};var a={},x=function(){};x.prototype={subscribe:function(h,g,b){(a[h]=a[h]||[]).push([b||q,g]);return this},unsubscribe:function(k,h){for(var b=(a[k]||[]).length,g=b-1;g>=0;g--){if(!h||h===a[k][g][1]){a[k].splice(g,1)}}return this},publish:function(h){for(var g=0,b=(a[h]||[]).length;g<b;g++){a[h][g][1].apply(a[h][g][0],Array.prototype.slice.call(arguments,1))}return this}};q.PubSub=q.PubSub||new x();f.className+=("ontouchstart" in f)?"":" no-touch";var n=function(b){return d.indexOf(b)>-1},p="gecko",u="webkit",y="safari",e="opera",j="trident",l=f,i=n(j)&&/(rv)(?::| )([\w.]+)/.exec(d),t=[(!(/opera|webtv/i.test(d))&&/msie\s([\d]+)/.test(d))?("ie ie"+RegExp.$1):n("firefox/2")?p+" ff2":n("firefox/3.5")?p+" ff3 ff3_5":n("firefox/3")?p+" ff3":n("gecko/")?p:n("opera")?e+(/version\/(\d+)/.test(d)?" "+e+RegExp.$1:(/opera(\s|\/)(\d+)/.test(d)?" "+e+RegExp.$2:"")):n("konqueror")?"konqueror":n("chrome")?u+" chrome":n("iron")?u+" iron":n("applewebkit/")?u+" "+y+(/version\/(\d+)/.test(d)?" "+y+RegExp.$1:""):n("mozilla/")?p:"",n("j2me")?"mobile":n("iphone")?"iphone":n("ipod")?"ipod":n("mac")?"mac":n("darwin")?"mac":n("webtv")?"webtv":n("win")?"win":n("freebsd")?"freebsd":(n("x11")||n("linux"))?"linux":"","js"];c=t.join(" ");if(i){c+=" ie"+i[2].split(".")[0]}l.className+=" "+c;q.DM_Flash=(function(){var B="undefined",h="object",k="Shockwave Flash",b="ShockwaveFlash.ShockwaveFlash",s="application/x-shockwave-flash";var A=v.userAgent.toLowerCase(),g=v.platform.toLowerCase(),z=[0,0,0],o=null;if(typeof v.plugins!=B&&typeof v.plugins[k]==h){o=v.plugins[k].description;if(o&&!(typeof v.mimeTypes!=B&&v.mimeTypes[s]&&!v.mimeTypes[s].enabledPlugin)){o=o.replace(/^.*\s+(\S+\s+\S+$)/,"$1");z[0]=parseInt(o.replace(/^(.*)\..*$/,"$1"),10);z[1]=parseInt(o.replace(/^.*\.(.*)\s.*$/,"$1"),10);z[2]=/[a-zA-Z]/.test(o)?parseInt(o.replace(/^.*[a-zA-Z]+(.*)$/,"$1"),10):0}}else{if(typeof window.ActiveXObject!=B){try{var w=new ActiveXObject(b);if(w){o=w.GetVariable("$version");if(o){o=o.split(" ")[1].split(",");z=[parseInt(o[0],10),parseInt(o[1],10),parseInt(o[2],10)]}}}catch(m){}}}return{VERSION:{major:z[0],minor:z[1],release:z[2]},__preModule:true}})();if(typeof q.DM_Flash.VERSION!=="undefined"){if(q.DM_Flash.VERSION.major>0){l.className+=" flash"}else{l.className+=" no-flash"}}q.RESOURCE_PLANNER_LIST=[];q.DM_ResourcePlanner={add:function(g,b){RESOURCE_PLANNER_LIST.push([g,b])},get:function(){return RESOURCE_PLANNER_LIST},__preModule:true}})(window,navigator,document);    </script>
+
+    
+    
+                    <script type="text/javascript">
+            DMAssetsMap={"@popup.js":"6d2887e86e07b1002","@form.js":"d1281ea950df3b8d2","\/js\/lib\/dm\/notify.js":"a3abf9a4ea4ab7ed2","\/js\/lib\/dm\/masscast\/iframed\/masthead.js":"3d2dd923b29098232","\/js\/lib\/dm\/masscast\/iframed\/minipreview.js":"1c4001bb8f80695d2","\/js\/lib\/dm\/masscast\/iframed\/expand300x250.js":"6f46db1af3f0b5af2","\/js\/lib\/dm\/masscast\/iframed\/expandanddisplay.js":"78bd0304fbe8ab992","\/js\/lib\/dm\/masscast\/iframed\/pushdown.js":"00861b4b6142c41c2","\/js\/views\/shared\/user\/subscribe.js":"cd67c19691b8fe5f2","\/js\/lib\/dm\/social-auth.js":"adf948282b4ddec12","@store.js":"6b84eefaf94697792","@tipsy.js":"09a8740710419b282","@smartalert.js":"0c9c5909b0781d5c2","\/js\/views\/shared\/smartalert\/registration_confirmation.js":"81e2af264fc2f9302","\/js\/views\/shared\/smartalert\/push_signup.js":"eb0dea23b2c61d5b2","\/js\/lib\/dm\/search_videos.js":"28f2226f181335c22","\/js\/lib\/dm\/tour.js":"381253f2c8a4133b2","\/js\/lib\/dm\/alert.js":"116393ebf4a945142","\/js\/lib\/bower\/chromecast-sender\/dist\/dm-chromecast-sender.js":"1d2f88a84f155c652","\/js\/lib\/select2.js":"a0f85737024729782","\/css\/views\/shared\/select2-patched.ltr.css":"50e53148a72c5ea62","\/js\/views\/shared\/tour\/welcome.js":"3add764ab530a3bf2","\/js\/views\/shared\/social\/connectbutton.js":"22b8c60ec8a041b92","\/js\/lib\/bower\/momentjs\/moment.js":"d3dead2a72abd6b32","@pickadatetime.js":"9d653d6322bec92a2","@pickadatetime.rtl.css":"e4a448cdfa8797942","@pickadatetime.ltr.css":"fbed4528f149d1f72","\/js\/lib\/plugins\/jquery.pickadate\/translations\/bg_BG.js":"0bd9884f585b5b6d2","\/js\/lib\/plugins\/jquery.pickadate\/translations\/bs_BA.js":"d606446252e3b5922","\/js\/lib\/plugins\/jquery.pickadate\/translations\/cs_CZ.js":"a52fc45b7455b52a2","\/js\/lib\/plugins\/jquery.pickadate\/translations\/da_DK.js":"8af51e2850c975d72","\/js\/lib\/plugins\/jquery.pickadate\/translations\/de_DE.js":"5dcfd8dfd25466c42","\/js\/lib\/plugins\/jquery.pickadate\/translations\/el_GR.js":"1e3416c349b6e2f82","\/js\/lib\/plugins\/jquery.pickadate\/translations\/es_ES.js":"db64859c6b8388d32","\/js\/lib\/plugins\/jquery.pickadate\/translations\/et_EE.js":"c89b8aa9de27a5f72","\/js\/lib\/plugins\/jquery.pickadate\/translations\/eu_ES.js":"8897f2f75dca7e342","\/js\/lib\/plugins\/jquery.pickadate\/translations\/fi_FI.js":"ef940cd3ef2a38902","\/js\/lib\/plugins\/jquery.pickadate\/translations\/fr_FR.js":"5436c4320cd32e7c2","\/js\/lib\/plugins\/jquery.pickadate\/translations\/he_IL.js":"80850f5be5f9b78d2","\/js\/lib\/plugins\/jquery.pickadate\/translations\/hr_HR.js":"7d90b064326ccfb22","\/js\/lib\/plugins\/jquery.pickadate\/translations\/hu_HU.js":"a75eb87ca5b2ae592","\/js\/lib\/plugins\/jquery.pickadate\/translations\/id_ID.js":"9199ba2e9749cc9c2","\/js\/lib\/plugins\/jquery.pickadate\/translations\/it_IT.js":"6be20cfdc4ef97972","\/js\/lib\/plugins\/jquery.pickadate\/translations\/ko_KR.js":"75897c031ebe821a2","\/js\/lib\/plugins\/jquery.pickadate\/translations\/nl_NL.js":"4842603717b2a5f02","\/js\/lib\/plugins\/jquery.pickadate\/translations\/no_NO.js":"b3c899de0ee761952","\/js\/lib\/plugins\/jquery.pickadate\/translations\/pl_PL.js":"0d15b315a28da4eb2","\/js\/lib\/plugins\/jquery.pickadate\/translations\/pt_BR.js":"e877f81c9235a1eb2","\/js\/lib\/plugins\/jquery.pickadate\/translations\/pt_PT.js":"57151af45534ed732","\/js\/lib\/plugins\/jquery.pickadate\/translations\/ro_RO.js":"ea24b7f8006f052d2","\/js\/lib\/plugins\/jquery.pickadate\/translations\/ru_RU.js":"4dc7d775ca4861dc2","\/js\/lib\/plugins\/jquery.pickadate\/translations\/sk_SK.js":"a9baf9f6f40294182","\/js\/lib\/plugins\/jquery.pickadate\/translations\/sv_SE.js":"dd561dbce88d1d162","\/js\/lib\/plugins\/jquery.pickadate\/translations\/th_TH.js":"461c7eb1140bc26e2","\/js\/lib\/plugins\/jquery.pickadate\/translations\/tr_TR.js":"3e1ecb5320f1a82c2","\/js\/lib\/plugins\/jquery.pickadate\/translations\/uk_UA.js":"d61bd981a6899b332","\/js\/lib\/plugins\/jquery.pickadate\/translations\/zh_CN.js":"dcf75301ff2a901a2","\/js\/lib\/plugins\/jquery.pickadate\/translations\/ja_JP.js":"68e8a86e48804d242","\/js\/lib\/plugins\/jquery.pickadate\/translations\/vi_VN.js":"e1f4fa085fd3fb512","\/js\/views\/shared\/user\/widgetfactory.js":"64436fa60a50345b2","\/css\/views\/shared\/user\/widgetfactory.scss":"1b625fc3fbcfe26e2","\/css\/views\/shared\/flag.css":"fd642b622e23d52c2"};
+        </script>
+    
+    
+    <title>What to Watch | Dailymotion</title>
+    <meta name="description" content="Find and watch recommended videos for you, staff picks, and popular content from the best creators and channels on Dailymotion." />
+
+            <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta name="language" content="en-CA" />
+                    <meta property="fb:app_id" content="96937694899" />
+        
+        <meta name="y_key" content="a87a0d996fe5f70f" />
+        <meta name="msvalidate.01" content="42E38E6C5CF3C253563039FCD6F3F775" />
+
+        
+                    <meta name="robots" content="NOODP"/>
+                    <meta property="og:title" content="What to Watch | Dailymotion"/>
+                    <meta property="og:description" content="Find and watch recommended videos for you, staff picks, and popular content from the best creators and channels on Dailymotion."/>
+                    <meta property="og:url" content="http://www.dailymotion.com/ca-en"/>
+                    <meta property="og:image" content="http://static1.dmcdn.net/images/dailymotion-logo-ogtag.png.v2779e025da411e7f2"/>
+                    <meta property="og:image:secure_url" content="https://static1-ssl.dmcdn.net/images/dailymotion-logo-ogtag.png.v2779e025da411e7f2"/>
+                    <meta property="og:image:type" content="image/png"/>
+                    <meta property="og:image:width" content="550"/>
+                    <meta property="og:image:height" content="550"/>
+                    <meta property="og:site_name" content="Dailymotion"/>
+                    <meta property="og:type" content="website"/>
+                    <meta name="twitter:app:name:iphone" value="Dailymotion"/>
+                    <meta name="twitter:app:id:iphone" value="336978041"/>
+                    <meta name="twitter:app:url:iphone" value="dailymotion://home"/>
+                    <meta name="twitter:app:name:ipad" value="Dailymotion"/>
+                    <meta name="twitter:app:id:ipad" value="336978041"/>
+                    <meta name="twitter:app:url:ipad" value="dailymotion://home"/>
+                    <meta name="twitter:app:name:googleplay" value="Dailymotion"/>
+                    <meta name="twitter:app:id:googleplay" value="com.dailymotion.dailymotion"/>
+                    <meta name="twitter:app:url:googleplay" value="dailymotion://home"/>
+                    <meta property="al:ios:url" content="dailymotion://home"/>
+                    <meta property="al:ios:app_store_id" content="336978041"/>
+                    <meta property="al:ios:app_name" content="Dailymotion"/>
+                    <meta property="al:android:url" content="dailymotion://home"/>
+                    <meta property="al:android:package" content="com.dailymotion.dailymotion"/>
+                    <meta property="al:android:app_name" content="Dailymotion"/>
+        
+        
+    
+                    
+                <link rel="apple-touch-icon" sizes="57x57" href="http://static1.dmcdn.net/images/favicons/apple-touch-icon-57x57.png.v00a3ffef73cc84eb2" />
+        <link rel="apple-touch-icon" sizes="60x60" href="http://static1.dmcdn.net/images/favicons/apple-touch-icon-60x60.png.vfd0613c66bd849a92" />
+        <link rel="apple-touch-icon" sizes="72x72" href="http://static1.dmcdn.net/images/favicons/apple-touch-icon-72x72.png.v21ae0abae918ffc62" />
+        <link rel="apple-touch-icon" sizes="76x76" href="http://static1.dmcdn.net/images/favicons/apple-touch-icon-76x76.png.v276527afd2bde0782" />
+        <link rel="apple-touch-icon" sizes="114x114" href="http://static1.dmcdn.net/images/favicons/apple-touch-icon-114x114.png.v56431871e03893de2" />
+        <link rel="apple-touch-icon" sizes="120x120" href="http://static1.dmcdn.net/images/favicons/apple-touch-icon-120x120.png.v5fd996dd6c8fca0b2" />
+        <link rel="apple-touch-icon" sizes="144x144" href="http://static1.dmcdn.net/images/favicons/apple-touch-icon-144x144.png.vdde8b2df60e42a522" />
+        <link rel="apple-touch-icon" sizes="152x152" href="http://static1.dmcdn.net/images/favicons/apple-touch-icon-152x152.png.v5e25b43b4f3b21ff2" />
+        <link rel="apple-touch-icon" sizes="180x180" href="http://static1.dmcdn.net/images/favicons/apple-touch-icon-180x180.png.vb6e46c5ab4fb87402" />
+        <link rel="icon" type="image/png" href="http://static1.dmcdn.net/images/favicons/favicon-32x32.png.vb5b47df6329123922" sizes="32x32" />
+        <link rel="icon" type="image/png" href="http://static1.dmcdn.net/images/favicons/android-chrome-192x192.png.vc10f8463d147b2b72" sizes="192x192" />
+        <link rel="icon" type="image/png" href="http://static1.dmcdn.net/images/favicons/favicon-96x96.png.ve72532475582d6572" sizes="96x96" />
+        <link rel="icon" type="image/png" href="http://static1.dmcdn.net/images/favicons/favicon-16x16.png.v680d4fe841b83a8f2" sizes="16x16" />
+        <link rel="manifest" href="http://static1.dmcdn.net/images/favicons/manifest.json.v08017f63e9443c102" />
+        <link rel="mask-icon" href="http://static1.dmcdn.net/images/favicons/safari-pinned-tab.svg.v316a826cd4ccaeaa2" color="#0066dc" />
+        <meta name="msapplication-config" content="http://static1.dmcdn.net/images/favicons/browserconfig.xml.vff4f0022f7e98b962" />
+        <meta name="msapplication-TileColor" content="#0066dc" />
+        <meta name="msapplication-TileImage" content="http://static1.dmcdn.net/images/favicons/mstile-144x144.png.vdde8b2df60e42a522" />
+        <meta name="theme-color" content="#0066dc" />
+
+    
+            <link rel="canonical" href="http://www.dailymotion.com/ca-en" />
+            <link rel="alternate" hreflang="ar_AA" href="/aa-ar" />
+            <link rel="alternate" hreflang="es_AR" href="/ar" />
+            <link rel="alternate" hreflang="de_AT" href="/at" />
+            <link rel="alternate" hreflang="en_AU" href="/au" />
+            <link rel="alternate" hreflang="fr_BE" href="/be-fr" />
+            <link rel="alternate" hreflang="nl_BE" href="/be-nl" />
+            <link rel="alternate" hreflang="pt_BR" href="/br" />
+            <link rel="alternate" hreflang="en_CA" href="/ca-en" />
+            <link rel="alternate" hreflang="fr_CA" href="/ca-fr" />
+            <link rel="alternate" hreflang="de_CH" href="/ch-de" />
+            <link rel="alternate" hreflang="fr_CH" href="/ch-fr" />
+            <link rel="alternate" hreflang="it_CH" href="/ch-it" />
+            <link rel="alternate" hreflang="zh_CN" href="/cn" />
+            <link rel="alternate" hreflang="de_DE" href="/de" />
+            <link rel="alternate" hreflang="en_EN" href="/en" />
+            <link rel="alternate" hreflang="es_ES" href="/es" />
+            <link rel="alternate" hreflang="fr_FR" href="/fr" />
+            <link rel="alternate" hreflang="en_GB" href="/gb" />
+            <link rel="alternate" hreflang="el_GR" href="/gr" />
+            <link rel="alternate" hreflang="id_ID" href="/id" />
+            <link rel="alternate" hreflang="en_IE" href="/ie" />
+            <link rel="alternate" hreflang="en_IN" href="/in" />
+            <link rel="alternate" hreflang="it_IT" href="/it" />
+            <link rel="alternate" hreflang="ja_JP" href="/jp" />
+            <link rel="alternate" hreflang="ko_KR" href="/kr" />
+            <link rel="alternate" hreflang="fr_MA" href="/ma" />
+            <link rel="alternate" hreflang="es_MX" href="/mx" />
+            <link rel="alternate" hreflang="nl_NL" href="/nl" />
+            <link rel="alternate" hreflang="en_PH" href="/ph" />
+            <link rel="alternate" hreflang="en_PK" href="/pk" />
+            <link rel="alternate" hreflang="pl_PL" href="/pl" />
+            <link rel="alternate" hreflang="pt_PT" href="/pt" />
+            <link rel="alternate" hreflang="ro_RO" href="/ro" />
+            <link rel="alternate" hreflang="ru_RU" href="/ru" />
+            <link rel="alternate" hreflang="en_SG" href="/sg" />
+            <link rel="alternate" hreflang="fr_TN" href="/tn" />
+            <link rel="alternate" hreflang="tr_TR" href="/tr" />
+            <link rel="alternate" hreflang="zh_TW" href="/tw" />
+            <link rel="alternate" hreflang="en_US" href="/us" />
+            <link rel="alternate" hreflang="vi_VN" href="/vn" />
+            <link rel="alternate" hreflang="ms_MY" href="/my" />
+            <link rel="alternate" hreflang="th_TH" href="/th" />
+            <link rel="alternate" hreflang="fr_CI" href="/ci" />
+            <link rel="alternate" hreflang="fr_SN" href="/sn" />
+            <link rel="alternate" hreflang="en_ZA" href="/za" />
+            <link rel="alternate" hreflang="en_NG" href="/ng" />
+            <link rel="alternate" hreflang="ar_SA" href="/sa" />
+            <link rel="alternate" hreflang="ar_AE" href="/ae" />
+            <link rel="alternate" hreflang="ar_EG" href="/eg" />
+            <link rel="alternate" hreflang="en_HK" href="/hk" />
+        <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Search videos on Dailymotion" />
+
+    <link rel="alternate" href="android-app://com.dailymotion.dailymotion/dailymotion/home" />
+
+                        
+<!-- Taboola ad sdk  -->
+<script type="text/javascript">
+DM_ResourcePlanner.add(
+    'taboola',
+    function()
+    {
+        window._taboola = window._taboola || [];
+        _taboola.push({video:'auto'});
+
+        !function (e, f, u, i)
+        {
+            if (!document.getElementById(i))
+            {
+                e.async = 1;
+                e.src = u;
+                e.id = i;
+                f.parentNode.insertBefore(e, f);
+            }
+        }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/dailymotion-network/loader.js',
+        'tb_loader_script');
+    }
+)
+</script>
+<!-- /Taboola ad sdk -->
+    
+            <script type="text/javascript"> window.videolist_has_ads = true; </script>
+        
+    <script type="text/javascript">
+        DM_Context={"global_request":{"requestURI":"\/ca-en","objectFactory":{}},"is_ajax":false,"request":{"requestURI":"\/ca-en","objectFactory":{}},"reader":null,"real_user":null,"uri":"\/ca-en","route_name":"home","is_logged":false,"is_web_crawler":false,"version":"ca-en","content_version":"ca-en","site_version":"en_CA","locale":"en_ca","language":"en","content_language":"en","rfc1766_language":"en-CA","direction":"ltr","country_name":"canada","country":"ca","geoip_country":"ca","geoip_as":"AS25820","device":"desktop","page_type":"home","page_channel":"","traffic_segment":52,"time_and_day":"15:10-Tuesday","ga":{"property_id":"UA-64443-1","data":{"hitType":"pageview","metric1":1,"page":"\/home","dimension4":52,"dimension7":"signed out","dimension8":"ca","dimension6":"http:\/\/www.dailymotion.com\/ca-en"}},"browser_language":"zh-cn","env":"prod","domain":"dailymotion.com","v1st":null,"view_id":"ee06bbf07e2f3b9c9fd9e46980c0ef3d014ee705","dm_version":"daily-2.271.3004-prod","homepage_with_family_filter":false,"reader_is_admin":false,"reader_has_history":false,"reader_has_family_filter":true,"is_search":false};
+        Stringified_DM_Context={"is_ajax":"false","reader":null,"real_user":null,"uri":"\/ca-en","is_logged":"false","is_web_crawler":"false","version":"ca-en","content_version":"ca-en","site_version":"en_CA","locale":"en_ca","language":"en","content_language":"en","rfc1766_language":"en-CA","direction":"ltr","country_name":"canada","country":"ca","geoip_country":"ca","geoip_as":"AS25820","device":"desktop","page_type":"home","page_channel":"","traffic_segment":"52","time_and_day":"15:10-Tuesday","ga":{"property_id":"UA-64443-1","data":{"hitType":"pageview","metric1":1,"page":"\/home","dimension4":52,"dimension7":"signed out","dimension8":"ca","dimension6":"http:\/\/www.dailymotion.com\/ca-en"}},"browser_language":"zh-cn","env":"prod","domain":"dailymotion.com","v1st":null,"view_id":"ee06bbf07e2f3b9c9fd9e46980c0ef3d014ee705","dm_version":"daily-2.271.3004-prod","homepage_with_family_filter":"false","reader_is_admin":"false","reader_has_history":"false","reader_has_family_filter":"true","is_search":"false"};
+        STATIC_BASE_URL = "http://static1.dmcdn.net";
+        __webpack_manifest__ = {"2":"video.1380e08a5030776eeb9d.js","3":"browse.9da1454d6646aeb6156c.js","4":"about.9b4fff3315889a1f478c.js","6":"videos.a4941721f95eccacf417.js","7":"what-to-watch.3b469c804a36ac2d1d2b.js","10":"routing_router.7e08bd641fa22146e7e9.js","11":"video_page-edit.3a25babe8d6a351c7ee6.js","12":"error_page-404.de7b5b27c52890608934.js","14":"page-channel.991ec3c641fef67d1463.js","15":"live_chat.b3aa5ac157027c30b1ee.js","16":"error_page-500.b415939dda440b0c952b.js","17":"following.70d430fd046dc5977800.js","18":"page-events.c6f439db61bc674f156d.js","19":"user_widget.befc446efbad6339038f.js"};
+        EB_WEB_ENDPOINT = "webed.dm.gg";
+            
+    
+                    masscast_async_call= "http://mc.dailymotion.com/masscast/2/dailymotion.ca/home/__RAND__@Top3,x70,x28,x29?WIN7=1&z=0&DMSYNDICATION=0&DMLANGNAV=zh_CN&DMAPIPLAYER=0&DMROUTE=home&_RM_HTML_DMROUTE_=home&DMLOGGED=0&DMEXPLICIT=0&DMCHANNEL=home&_RM_HTML_DMCHANNEL_=home&DMDURATION=0&_RM_HTML_DMDURATION_=0&DMLANG=en&DMTYPE=prod&DMV3=1&DMHANDSET=desktop&DMCAPPINGNONE=1";
+        masscast_async_ads1_call = "http://mc.dailymotion.com/masscast/2/dailymotion.web/ads1/__RAND__@Top3,x70,x28,x29?WIN7=1&z=0&DMSYNDICATION=0&DMLANGNAV=zh_CN&DMAPIPLAYER=0&DMROUTE=home&_RM_HTML_DMROUTE_=home&DMLOGGED=0&DMEXPLICIT=0&DMCHANNEL=home&_RM_HTML_DMCHANNEL_=home&DMDURATION=0&_RM_HTML_DMDURATION_=0&DMLANG=en&DMTYPE=prod&DMV3=1&DMHANDSET=desktop&DMCAPPINGNONE=1";
+    
+    PREFETCH_CONF = {
+        resources: [
+            'http://static1.dmcdn.net/js/build/common.d8a7de82e5a94b52e676.js',
+            'http://static1.dmcdn.net/js/build/videos.a4941721f95eccacf417.js',
+            'http://static1.dmcdn.net/css/gen/pack/video.ltr.css.va7ce2093f6c03f9c2'
+        ]
+    };
+
+    RESOURCE_PRIORITY_MAP = {
+        critical: ['ad', 'pixelle'],
+        high: ['image']
+    };
+         document.createElement('ins');
+    
+    
+    
+            
+        
+        
+        
+                
+                                            RUMBeaconUrl = "http://tofu.dmcdn.net/track/rum";
+                            RUMEnabled = true;
+                            DM_LoginCookie = "lri";
+                            DM_Widget_PageItem_Search_language = "en";
+                            DM_Widget_PageItem_Autocomplete_locale = "en_ca";
+                            DM_Widget_PageItem_Search_autocomplete_enabled = 1;
+                            DM_Widget_PageItem_Search_algolia_enabled = 0;
+                            MastheadSWFRevisionURL = "http://static1.dmcdn.net/flash/masthead/masthead.swf.vaea7cde4af6d51e82";
+                            facebook_enabled = true;
+                            DisableOASVideosUploadedFrom = ["PK","IQ","IR","LY","SY","PS","IL"];
+                    
+
+
+    </script>
+        <script type="text/javascript">
+        dm_times.env_top = (new Date()).getTime();
+    </script>
+</head>
+<body id="bodyall" class="      lt_site
+ pg_wtw">
+
+    
+    
+<script type="text/javascript">DM_ENV._add("DM_Facebook", {"messages":{"permissions":{"email":"We need your email to create an account. Please <a class=\"js-fb-permissions link\" data-scopes=\"email\">share this permission.","friendsList":"\"It's better with friends\". Import your Facebook friends to discover and share even more great videos with your friends. Once you've imported your friends you can view, manage or delete them at any time.","connectAndFriendsList":"Associate your account with Facebook to discover and share great videos with your friends. Import your Facebook friend list to connect with your friends on Dailymotion. Once you've imported your friends you can view, manage or delete them at any time.","declineFriendsList":"No problem, you can skip this step or if you've changed your mind <a class=\"js-fb-permissions link\" data-scopes=\"user_friends\">re-authorize access<\/a> to your friends list","declineManagePages":"We need <span class=\"strong\">manage_pages<\/span> permissions to create the videotab. Please share this permission","declineManagePagesLogin":"You have to link your Facebook account to use the videotab feature"},"videotab":{"selectYourAccount":"Choose your Facebook Page","activate":"Activate the VideoTab","noPagesMsg":"You are not administrator of a Page on Facebook.","errorFromFbApi":"Error while fetching data from Facebook","unlinkWarning":"If the Facebook VideoTab is activated on one of your Facebook Page, this action will unlink and delete the tab.","connectAndUnlink":"Connect on Facebook to unlink the VideoTab"},"buttons":{"importFriendsList":"Import your Facebook friends","managePages":"Associate your account with Facebook to add the videotab on your Facebook page"}}});</script>    <script type="text/javascript">DM_ENV._add("DM_Widget_PageItem_RegisterForm", {"msg":{"accountCreated":"Welcome on board","wait":"Your account has been successfully created","popupTitle":"Account creation"}});</script>    <script type="text/javascript">DM_ENV._add("DM_Widget_PageItem_AuthenticationForm", {"msg":{"register_next":"Next","sign_in":"Sign In"}});</script>
+                                        
+        
+        <div id="mc_x28" class="mc mc_hide "></div>
+    
+                                    
+        
+        <div id="mc_x29" class="mc mc_hide "></div>
+    
+        
+    
+                        
+
+<div class="sd_header">
+    <div class="sd_header__login">
+                                
+
+    
+        
+        
+    
+
+    
+        
+        
+    
+    
+    
+    
+                                        
+    
+    
+    <span class="js-ajaxlink font-sm sign_in no_icon_loading " data-css-class="font-sm sign_in no_icon_loading " data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:&quot;true&quot;}" data-href="/pageitem/authenticationContainer?request=/login?" data-event-location="header" data-event-feature="signinsignup">Sign In</span>
+
+            </div>
+
+                <div class="sd_header__navigation hidden-sm">
+            <i class="icon-hamburger "></i>
+                                                                                    <div class="badge badge--count navigation-notification notification badge--sm clickable unlogged">
+                *
+    </div>
+
+        </div>
+    
+        <a class="sd_header__logo" href="/" title="Home">
+        <img width="130px" height="27px" alt="logo Dailymotion" src="http://static1.dmcdn.net/images/header/logo.svg.vfe44cd7bde0eb7282" />
+                    <h1>What to Watch | Dailymotion</h1>
+            </a>
+
+                                        
+    <div class="sd_header__search hidden-sm" itemscope itemtype="http://schema.org/WebSite"><meta itemprop="url" content="http://www.dailymotion.com/ca-en"/><form itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" action="/" name="header_search" method="get"><meta itemprop="target" content="http://www.dailymotion.com/ca-en/relevance/universal/search/{search}/1"/><input type="hidden" name="search_copy" value="" /><input type="hidden" name="locale" value="ca-en" /><input id="search_hitmap" type="hidden" name="hitmap" value="" /><input itemprop="query-input" style="" id="input_search" tabindex="1" placeholder="Video, channel…" type="text" name="search" autocomplete="off" spellcheck="false" value="" data-event-debug="{&quot;event&quot;:&quot;search_input_charachter_typed&quot;}" required /><button type="submit" name="submit_button"><i class="icon-search neutral-2_color"></i></button></form></div>
+        <div class="sd_header__buttons">
+                                                                        
+
+    
+        
+        
+    
+                            
+        
+    
+
+    
+        
+        
+    
+    
+    
+    
+                                        
+    
+    
+    <a class="js-ajaxlink btn btn-sm sd_header__upload js-header-upload-button " data-css-class="btn btn-sm sd_header__upload js-header-upload-button " data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:&quot;true&quot;}" href="/pageitem/authenticationContainer?request=/signin&urlback=%2Fupload?" data-event-location="header" data-event-feature="upload">            <i class="icon-upload "></i>
+            <span class="hidden-sm hidden-md hidden-xl ">Upload</span>
+            <span class="hidden-sm hidden-md hidden-lg ">Upload</span>
+        </a>
+
+            </div>
+</div>
+            
+            
+
+
+<div class="navigation-panel" id="navigation-panel">
+    <nav class="pdg-btm-lg" role="navigation">
+                    <div class="nav-section sign-in-block" id="navigation-sign-in-block">
+                <div class="mrg-btm-lg">Create an account or sign in for a tailor-made video experience</div>
+                                
+
+    
+        
+        
+    
+
+    
+        
+        
+    
+    
+    
+    
+                                        
+    
+    
+    <span class="js-ajaxlink btn btn-primary" data-css-class="btn btn-primary" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:&quot;true&quot;}" data-href="/pageitem/authenticationContainer?request=/login?" data-event-location="burger_menu" data-event-feature="signinsignup">Sign Up / Sign In</span>
+
+            </div>
+            <div class="nav-section" data-content="Recommended for you">
+                <a class="link-on-hvr" href="/ca-en">What to Watch</a>
+            </div>
+            <div class="nav-section" data-content="Categories">
+                <div class="sub-menu-title navigation-sub-trigger selected">
+                    Categories
+                    <span class="pull-start icon-arrow_down nav-icon"></span>
+                </div>
+                <ul class="nav-sub-menu open" id="navigation-channels-list">
+                                            <li class="list-placeholder"></li>
+                                            <li class="list-placeholder"></li>
+                                            <li class="list-placeholder"></li>
+                                            <li class="list-placeholder"></li>
+                                            <li class="list-placeholder"></li>
+                                    </ul>
+                <a class="link-on-hvr more-link " href="/ca-en/browse" data-link="All categories">All Categories</a>
+            </div>
+                <div class="nav-section" data-content="Suggested channels">
+            <div class="sub-menu-title navigation-sub-trigger selected">
+                Who to Follow
+                <span class="pull-start icon-arrow_down nav-icon"></span>
+            </div>
+            <div class="nav-sub-menu open">
+                <ul class="avatar-list" id="navigation-suggested-users">
+                                            <li class="list-placeholder">
+                            <div class="avatar-placeholder brd-rad-sm"></div>
+                        </li>
+                                            <li class="list-placeholder">
+                            <div class="avatar-placeholder brd-rad-sm"></div>
+                        </li>
+                                            <li class="list-placeholder">
+                            <div class="avatar-placeholder brd-rad-sm"></div>
+                        </li>
+                                            <li class="list-placeholder">
+                            <div class="avatar-placeholder brd-rad-sm"></div>
+                        </li>
+                                            <li class="list-placeholder">
+                            <div class="avatar-placeholder brd-rad-sm"></div>
+                        </li>
+                                    </ul>
+            </div>
+        </div>
+            </nav>
+</div>
+    
+    <div id="topwrapper" >
+        <div class="topwrapper_content_wrapper"></div><div id="wrapper" class=""><div id="top_banner"><div class="ad-tag     " data-ad-name="leaderboard_HP" data-ad-size="728x90"></div><script>
+        if (typeof window.IsDisplayAllowed !== 'undefined' && window.IsDisplayAllowed)
+        {
+            DM_ResourcePlanner.add('ad', function() {
+                if ($('.sortable_Right').length > 0) {
+                    $('body').addClass('has-skyscraper');
+                }
+                $('#top_banner').css('width', 'auto');
+                (deployads = window.deployads || []).push({});
+            });
+        }
+        </script></div><!--[if lt IE 8]><div class="sd_oldie_notice js-oldie"><img height="30" width="30" src="http://static1.dmcdn.net/images/8bit/updateie6_icon_8bit.png"><h3>
+		Looking for a safer and more improved viewing experience? Take the time to <a href="#" target="_blank">upgrade</a> to a browser that's more up-to-date and secure.	</h3><span class="icon-close js-oldie-close"></span></div><![endif]--><div id="content"  ><script type="text/javascript">DM_ENV._add("Pg_WhatToWatch", {"blacklistError":"An error occured"});</script><ul class="mo_tabs mo_tabs--centered mo_tabs--following"><li class="pull-start mrg-end-lg active"><a class="js-tab-content tab-content  link" href="/">What to watch</a></li><li class="pull-start mrg-end-lg"><a class="js-tab-content tab-content  alt-link" href="/following">Following</a></li></ul><div class="row"><div class="col-8 main-container pl_wtw_page"><div class="row"><div preview_class="col-4" class=" pl_wtw_video media col-8" data-size="300x169" data-video-id="338545478" data-video="x5lk7d2" data-position="0"><div class="pl_wtw_blacklist-menu"><button class="wtw-item-menu-trigger js-tipsy icon-arrow_down" data-tipsy-options="{&quot;target&quot;:&quot;#tipsy-blacklist-338545478&quot;,&quot;gravity&quot;:&quot;ne&quot;,&quot;trigger&quot;:&quot;hover&quot;,&quot;tooltip_type&quot;:&quot;tipsy-button-dropdown force-arrow&quot;,&quot;showCallback&quot;:&quot;Pg_WhatToWatch.showBlackListCallback&quot;,&quot;hideCallback&quot;:&quot;Pg_WhatToWatch.hideBlacklistCallback&quot;}" data-video-id="338545478" data-video="x5lk7d2"></button><div class="hidden" id="tipsy-blacklist-338545478"><ul class="wtw-item-blacklist-menu" data-video-id="338545478"><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=v-338545478?">Hide this</span></li><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=u-ZigSharko?">Hide all activity from ZigSharko</span></li></ul></div></div><script type="text/javascript">DM_ENV._add("Sd_Video_Preview", {"nowPlayingLabel":"now playing","watchlaterAdd":"Add to watch later","watchlaterAdded":"Added to watch later"});</script><div class="sd_video_preview media-img span-4 mrg-end-lg" data-id="x5lk7d2" data-playable="x5lk7d2" data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="id_x5lk7d2 preview_link js-track " href="/video/x5lk7d2_the-best-zig-sharko-new-compilation-best-episodes_kids" data-context="/ca-en?source_value=featured"  data-xid="x5lk7d2"><div class="badge badge--duration">
+                20:13
+    </div><img class="preview" alt="The Best Zig &amp; Sharko New Compilation -  Best episodes" title="The Best Zig &amp; Sharko New Compilation -  Best episodes"         src="http://s2.dmcdn.net/jRlui/300x169-XEi.jpg"    /><div data-spr=http://s1.dmcdn.net/jRkHq/320x-mCq.jpg class="psprite pmode8"></div><span class="wl_chkbx js-wl_chkbx js-tipsy js-tipsy-ballon " title="Add to watch later" ><span class="watch_later icon-time font-lg"></span><div class="clear"></div></span><div class="play"></div></a></div><div class="media-block"><h2 data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="link" href="http://www.dailymotion.com/video/x5lk7d2_the-best-zig-sharko-new-compilation-best-episodes_kids" data-context="/ca-en?source_value=featured" title="The Best Zig &amp; Sharko New Compilation -  Best episodes">The Best Zig &amp; Sharko New Compilation -  Best episodes</a></h2><div class="info"><span class="ellipsis">by                 <a class="link-on-hvr author js-channel-tip" data-user-uri="/ZigSharko" href="/ZigSharko">Zig &amp; Sharko</a></span></div><div class="reason js-reason font-xs" id="what-to-watch_0_reason"><span class="staff-pick" data-source="staff-pick">Staff picks</span><a class="link-on-hvr" href="/ca-en/channel/kids">Kids</a></div></div></div><div preview_class="col-4" class=" pl_wtw_video media col-8" data-size="300x169" data-video-id="338538992" data-video="x5lk2cw" data-position="1"><div class="pl_wtw_blacklist-menu"><button class="wtw-item-menu-trigger js-tipsy icon-arrow_down" data-tipsy-options="{&quot;target&quot;:&quot;#tipsy-blacklist-338538992&quot;,&quot;gravity&quot;:&quot;ne&quot;,&quot;trigger&quot;:&quot;hover&quot;,&quot;tooltip_type&quot;:&quot;tipsy-button-dropdown force-arrow&quot;,&quot;showCallback&quot;:&quot;Pg_WhatToWatch.showBlackListCallback&quot;,&quot;hideCallback&quot;:&quot;Pg_WhatToWatch.hideBlacklistCallback&quot;}" data-video-id="338538992" data-video="x5lk2cw"></button><div class="hidden" id="tipsy-blacklist-338538992"><ul class="wtw-item-blacklist-menu" data-video-id="338538992"><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=v-338538992?">Hide this</span></li><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=u-OggyOfficial?">Hide all activity from OggyOfficial</span></li></ul></div></div><div class="sd_video_preview media-img span-4 mrg-end-lg" data-id="x5lk2cw" data-playable="x5lk2cw" data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="id_x5lk2cw preview_link js-track " href="/video/x5lk2cw_oggy-and-the-cockroaches-new-compilation-2017-season-3_kids" data-context="/ca-en?source_value=featured"  data-xid="x5lk2cw"><div class="badge badge--duration">
+                26:53
+    </div><img class="preview" alt="Oggy and the Cockroaches - New compilation 2017  #SEASON 3" title="Oggy and the Cockroaches - New compilation 2017  #SEASON 3"         src="http://s2.dmcdn.net/jRibf/300x169-dKm.jpg"    /><div data-spr=http://s1.dmcdn.net/jRixX/320x-uKQ.jpg class="psprite pmode8"></div><span class="wl_chkbx js-wl_chkbx js-tipsy js-tipsy-ballon " title="Add to watch later" ><span class="watch_later icon-time font-lg"></span><div class="clear"></div></span><div class="play"></div></a></div><div class="media-block"><h2 data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="link" href="http://www.dailymotion.com/video/x5lk2cw_oggy-and-the-cockroaches-new-compilation-2017-season-3_kids" data-context="/ca-en?source_value=featured" title="Oggy and the Cockroaches - New compilation 2017  #SEASON 3">Oggy and the Cockroaches - New compilation 2017  #SEASON 3</a></h2><div class="info"><span class="ellipsis">by                 <a class="link-on-hvr author js-channel-tip" data-user-uri="/OggyOfficial" href="/OggyOfficial">Oggy Official</a></span></div><div class="reason js-reason font-xs" id="what-to-watch_1_reason"><span class="staff-pick" data-source="staff-pick">Staff picks</span><a class="link-on-hvr" href="/ca-en/channel/kids">Kids</a></div></div></div><div preview_class="col-4" class=" pl_wtw_video media col-8" data-size="300x169" data-video-id="338558056" data-video="x5lkh2g" data-position="2"><div class="pl_wtw_blacklist-menu"><button class="wtw-item-menu-trigger js-tipsy icon-arrow_down" data-tipsy-options="{&quot;target&quot;:&quot;#tipsy-blacklist-338558056&quot;,&quot;gravity&quot;:&quot;ne&quot;,&quot;trigger&quot;:&quot;hover&quot;,&quot;tooltip_type&quot;:&quot;tipsy-button-dropdown force-arrow&quot;,&quot;showCallback&quot;:&quot;Pg_WhatToWatch.showBlackListCallback&quot;,&quot;hideCallback&quot;:&quot;Pg_WhatToWatch.hideBlacklistCallback&quot;}" data-video-id="338558056" data-video="x5lkh2g"></button><div class="hidden" id="tipsy-blacklist-338558056"><ul class="wtw-item-blacklist-menu" data-video-id="338558056"><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=v-338558056?">Hide this</span></li><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=u-cover-video?">Hide all activity from cover-video</span></li></ul></div></div><div class="sd_video_preview media-img span-4 mrg-end-lg" data-id="x5lkh2g" data-playable="x5lkh2g" data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="id_x5lkh2g preview_link js-track " href="/video/x5lkh2g_miley-cyrus-digs-deep-for-upcoming-album_music" data-context="/ca-en?source_value=featured"  data-xid="x5lkh2g"><div class="badge badge--duration">
+                00:41
+    </div><img class="preview" alt="Miley Cyrus digs deep for upcoming album" title="Miley Cyrus digs deep for upcoming album"         src="http://s1.dmcdn.net/jRoyB/300x169-vir.jpg"    /><div data-spr=http://s1.dmcdn.net/jRozO/320x-nQ5.jpg class="psprite pmode8"></div><span class="wl_chkbx js-wl_chkbx js-tipsy js-tipsy-ballon " title="Add to watch later" ><span class="watch_later icon-time font-lg"></span><div class="clear"></div></span><div class="play"></div></a></div><div class="media-block"><h2 data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="link" href="http://www.dailymotion.com/video/x5lkh2g_miley-cyrus-digs-deep-for-upcoming-album_music" data-context="/ca-en?source_value=featured" title="Miley Cyrus digs deep for upcoming album">Miley Cyrus digs deep for upcoming album</a></h2><div class="info"><span class="ellipsis">by                 <a class="link-on-hvr author js-channel-tip" data-user-uri="/cover-video" href="/cover-video">Cover Video</a></span></div><div class="reason js-reason font-xs" id="what-to-watch_2_reason"><span class="staff-pick" data-source="staff-pick">Staff picks</span><a class="link-on-hvr" href="/ca-en/channel/music">Music</a></div></div></div><div preview_class="col-4" class=" pl_wtw_video media col-8" data-size="300x169" data-video-id="338429181" data-video="x5lhpml" data-position="3"><div class="pl_wtw_blacklist-menu"><button class="wtw-item-menu-trigger js-tipsy icon-arrow_down" data-tipsy-options="{&quot;target&quot;:&quot;#tipsy-blacklist-338429181&quot;,&quot;gravity&quot;:&quot;ne&quot;,&quot;trigger&quot;:&quot;hover&quot;,&quot;tooltip_type&quot;:&quot;tipsy-button-dropdown force-arrow&quot;,&quot;showCallback&quot;:&quot;Pg_WhatToWatch.showBlackListCallback&quot;,&quot;hideCallback&quot;:&quot;Pg_WhatToWatch.hideBlacklistCallback&quot;}" data-video-id="338429181" data-video="x5lhpml"></button><div class="hidden" id="tipsy-blacklist-338429181"><ul class="wtw-item-blacklist-menu" data-video-id="338429181"><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=v-338429181?">Hide this</span></li><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=u-basketballinsiders?">Hide all activity from basketballinsiders</span></li></ul></div></div><div class="sd_video_preview media-img span-4 mrg-end-lg" data-id="x5lhpml" data-playable="x5lhpml" data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="id_x5lhpml preview_link js-track " href="/video/x5lhpml_who-is-the-best-draft-fit-for-the-suns-basketball-insiders_sport" data-context="/ca-en?source_value=featured"  data-xid="x5lhpml"><div class="badge badge--duration">
+                02:07
+    </div><img class="preview" alt="Who Is The Best Draft Fit For The Suns? - Basketball Insiders" title="Who Is The Best Draft Fit For The Suns? - Basketball Insiders"         src="http://s2.dmcdn.net/jQpcz/300x169-L2t.jpg"    /><div data-spr=http://s2.dmcdn.net/jQpey/320x-dtA.jpg class="psprite pmode8"></div><span class="wl_chkbx js-wl_chkbx js-tipsy js-tipsy-ballon " title="Add to watch later" ><span class="watch_later icon-time font-lg"></span><div class="clear"></div></span><div class="play"></div></a></div><div class="media-block"><h2 data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="link" href="http://www.dailymotion.com/video/x5lhpml_who-is-the-best-draft-fit-for-the-suns-basketball-insiders_sport" data-context="/ca-en?source_value=featured" title="Who Is The Best Draft Fit For The Suns? - Basketball Insiders">Who Is The Best Draft Fit For The Suns? - Basketball Insiders</a></h2><div class="info"><span class="ellipsis">by                 <a class="link-on-hvr author js-channel-tip" data-user-uri="/basketballinsiders" href="/basketballinsiders">Basketball Insiders</a></span></div><div class="reason js-reason font-xs" id="what-to-watch_3_reason"><span class="staff-pick" data-source="staff-pick">Staff picks</span><a class="link-on-hvr" href="/ca-en/channel/sport">Sports</a></div></div></div><div preview_class="col-4" class=" pl_wtw_video media col-8" data-size="300x169" data-video-id="338429180" data-video="x5lhpmk" data-position="4"><div class="pl_wtw_blacklist-menu"><button class="wtw-item-menu-trigger js-tipsy icon-arrow_down" data-tipsy-options="{&quot;target&quot;:&quot;#tipsy-blacklist-338429180&quot;,&quot;gravity&quot;:&quot;ne&quot;,&quot;trigger&quot;:&quot;hover&quot;,&quot;tooltip_type&quot;:&quot;tipsy-button-dropdown force-arrow&quot;,&quot;showCallback&quot;:&quot;Pg_WhatToWatch.showBlackListCallback&quot;,&quot;hideCallback&quot;:&quot;Pg_WhatToWatch.hideBlacklistCallback&quot;}" data-video-id="338429180" data-video="x5lhpmk"></button><div class="hidden" id="tipsy-blacklist-338429180"><ul class="wtw-item-blacklist-menu" data-video-id="338429180"><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=v-338429180?">Hide this</span></li><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=u-basketballinsiders?">Hide all activity from basketballinsiders</span></li></ul></div></div><div class="sd_video_preview media-img span-4 mrg-end-lg" data-id="x5lhpmk" data-playable="x5lhpmk" data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="id_x5lhpmk preview_link js-track " href="/video/x5lhpmk_who-is-the-best-draft-fit-for-the-lakers-basketball-insiders_sport" data-context="/ca-en?source_value=featured"  data-xid="x5lhpmk"><div class="badge badge--duration">
+                02:13
+    </div><img class="preview" alt="Who Is The Best Draft Fit For The Lakers? - Basketball Insiders" title="Who Is The Best Draft Fit For The Lakers? - Basketball Insiders"         src="http://s1.dmcdn.net/jQpcG/300x169-VvZ.jpg"    /><div data-spr=http://s2.dmcdn.net/jQpff/320x-dXu.jpg class="psprite pmode8"></div><span class="wl_chkbx js-wl_chkbx js-tipsy js-tipsy-ballon " title="Add to watch later" ><span class="watch_later icon-time font-lg"></span><div class="clear"></div></span><div class="play"></div></a></div><div class="media-block"><h2 data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="link" href="http://www.dailymotion.com/video/x5lhpmk_who-is-the-best-draft-fit-for-the-lakers-basketball-insiders_sport" data-context="/ca-en?source_value=featured" title="Who Is The Best Draft Fit For The Lakers? - Basketball Insiders">Who Is The Best Draft Fit For The Lakers? - Basketball Insiders</a></h2><div class="info"><span class="ellipsis">by                 <a class="link-on-hvr author js-channel-tip" data-user-uri="/basketballinsiders" href="/basketballinsiders">Basketball Insiders</a></span></div><div class="reason js-reason font-xs" id="what-to-watch_4_reason"><span class="staff-pick" data-source="staff-pick">Staff picks</span><a class="link-on-hvr" href="/ca-en/channel/sport">Sports</a></div></div></div><div preview_class="col-4" class=" pl_wtw_video media col-8" data-size="300x169" data-video-id="338554724" data-video="x5lkehw" data-position="5"><div class="pl_wtw_blacklist-menu"><button class="wtw-item-menu-trigger js-tipsy icon-arrow_down" data-tipsy-options="{&quot;target&quot;:&quot;#tipsy-blacklist-338554724&quot;,&quot;gravity&quot;:&quot;ne&quot;,&quot;trigger&quot;:&quot;hover&quot;,&quot;tooltip_type&quot;:&quot;tipsy-button-dropdown force-arrow&quot;,&quot;showCallback&quot;:&quot;Pg_WhatToWatch.showBlackListCallback&quot;,&quot;hideCallback&quot;:&quot;Pg_WhatToWatch.hideBlacklistCallback&quot;}" data-video-id="338554724" data-video="x5lkehw"></button><div class="hidden" id="tipsy-blacklist-338554724"><ul class="wtw-item-blacklist-menu" data-video-id="338554724"><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=v-338554724?">Hide this</span></li><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=u-ODN?">Hide all activity from ODN</span></li></ul></div></div><div class="sd_video_preview media-img span-4 mrg-end-lg" data-id="x5lkehw" data-playable="x5lkehw" data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="id_x5lkehw preview_link js-track " href="/video/x5lkehw_terror-suspects-still-at-large-after-gare-du-nord-evacuation_news" data-context="/ca-en?source_value=featured"  data-xid="x5lkehw"><div class="badge badge--duration">
+                01:10
+    </div><img class="preview" alt="Terror suspects still at large after Gare du Nord evacuation" title="Terror suspects still at large after Gare du Nord evacuation"         src="http://s2.dmcdn.net/jRm_4/300x169-_TL.jpg"    /><div data-spr=http://s1.dmcdn.net/jRm-9/320x-Zb3.jpg class="psprite pmode8"></div><span class="wl_chkbx js-wl_chkbx js-tipsy js-tipsy-ballon " title="Add to watch later" ><span class="watch_later icon-time font-lg"></span><div class="clear"></div></span><div class="play"></div></a></div><div class="media-block"><h2 data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="link" href="http://www.dailymotion.com/video/x5lkehw_terror-suspects-still-at-large-after-gare-du-nord-evacuation_news" data-context="/ca-en?source_value=featured" title="Terror suspects still at large after Gare du Nord evacuation">Terror suspects still at large after Gare du Nord evacuation</a></h2><div class="info"><span class="ellipsis">by                 <a class="link-on-hvr author js-channel-tip" data-user-uri="/ODN" href="/ODN">ODN</a></span></div><div class="reason js-reason font-xs" id="what-to-watch_5_reason"><span class="staff-pick" data-source="staff-pick">Staff picks</span><a class="link-on-hvr" href="/ca-en/channel/news">News</a></div></div></div><div preview_class="col-4" class=" pl_wtw_video media col-8" data-size="300x169" data-video-id="338429179" data-video="x5lhpmj" data-position="6"><div class="pl_wtw_blacklist-menu"><button class="wtw-item-menu-trigger js-tipsy icon-arrow_down" data-tipsy-options="{&quot;target&quot;:&quot;#tipsy-blacklist-338429179&quot;,&quot;gravity&quot;:&quot;ne&quot;,&quot;trigger&quot;:&quot;hover&quot;,&quot;tooltip_type&quot;:&quot;tipsy-button-dropdown force-arrow&quot;,&quot;showCallback&quot;:&quot;Pg_WhatToWatch.showBlackListCallback&quot;,&quot;hideCallback&quot;:&quot;Pg_WhatToWatch.hideBlacklistCallback&quot;}" data-video-id="338429179" data-video="x5lhpmj"></button><div class="hidden" id="tipsy-blacklist-338429179"><ul class="wtw-item-blacklist-menu" data-video-id="338429179"><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=v-338429179?">Hide this</span></li><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=u-basketballinsiders?">Hide all activity from basketballinsiders</span></li></ul></div></div><div class="sd_video_preview media-img span-4 mrg-end-lg" data-id="x5lhpmj" data-playable="x5lhpmj" data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="id_x5lhpmj preview_link js-track " href="/video/x5lhpmj_who-is-the-best-draft-fit-for-the-celtics-basketball-insiders_sport" data-context="/ca-en?source_value=featured"  data-xid="x5lhpmj"><div class="badge badge--duration">
+                02:52
+    </div><img class="preview" alt="Who Is The Best Draft Fit For The Celtics? - Basketball Insiders" title="Who Is The Best Draft Fit For The Celtics? - Basketball Insiders"         src="http://s2.dmcdn.net/jQpbc/300x169-Gpq.jpg"    /><div data-spr=http://s2.dmcdn.net/jQphf/320x-NNt.jpg class="psprite pmode8"></div><span class="wl_chkbx js-wl_chkbx js-tipsy js-tipsy-ballon " title="Add to watch later" ><span class="watch_later icon-time font-lg"></span><div class="clear"></div></span><div class="play"></div></a></div><div class="media-block"><h2 data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="link" href="http://www.dailymotion.com/video/x5lhpmj_who-is-the-best-draft-fit-for-the-celtics-basketball-insiders_sport" data-context="/ca-en?source_value=featured" title="Who Is The Best Draft Fit For The Celtics? - Basketball Insiders">Who Is The Best Draft Fit For The Celtics? - Basketball Insiders</a></h2><div class="info"><span class="ellipsis">by                 <a class="link-on-hvr author js-channel-tip" data-user-uri="/basketballinsiders" href="/basketballinsiders">Basketball Insiders</a></span></div><div class="reason js-reason font-xs" id="what-to-watch_6_reason"><span class="staff-pick" data-source="staff-pick">Staff picks</span><a class="link-on-hvr" href="/ca-en/channel/sport">Sports</a></div></div></div><div preview_class="col-4" class=" pl_wtw_video media col-8" data-size="300x169" data-video-id="338550600" data-video="x5lkbbc" data-position="7"><div class="pl_wtw_blacklist-menu"><button class="wtw-item-menu-trigger js-tipsy icon-arrow_down" data-tipsy-options="{&quot;target&quot;:&quot;#tipsy-blacklist-338550600&quot;,&quot;gravity&quot;:&quot;ne&quot;,&quot;trigger&quot;:&quot;hover&quot;,&quot;tooltip_type&quot;:&quot;tipsy-button-dropdown force-arrow&quot;,&quot;showCallback&quot;:&quot;Pg_WhatToWatch.showBlackListCallback&quot;,&quot;hideCallback&quot;:&quot;Pg_WhatToWatch.hideBlacklistCallback&quot;}" data-video-id="338550600" data-video="x5lkbbc"></button><div class="hidden" id="tipsy-blacklist-338550600"><ul class="wtw-item-blacklist-menu" data-video-id="338550600"><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=v-338550600?">Hide this</span></li><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=u-LBC?">Hide all activity from LBC</span></li></ul></div></div><div class="sd_video_preview media-img span-4 mrg-end-lg" data-id="x5lkbbc" data-playable="x5lkbbc" data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="id_x5lkbbc preview_link js-track " href="/video/x5lkbbc_why-does-the-daily-mail-love-may-s-copycat-labour-policy-asks-james-o-brien_news" data-context="/ca-en?source_value=featured"  data-xid="x5lkbbc"><div class="badge badge--duration">
+                01:34
+    </div><img class="preview" alt="Why Does The Daily Mail Love May&#039;s Copycat Labour Policy, Asks James O&#039;Brien" title="Why Does The Daily Mail Love May&#039;s Copycat Labour Policy, Asks James O&#039;Brien"         src="http://s1.dmcdn.net/jRlLc/300x169-a1n.jpg"    /><div data-spr=http://s2.dmcdn.net/jRlOL/320x-HSt.jpg class="psprite pmode8"></div><span class="wl_chkbx js-wl_chkbx js-tipsy js-tipsy-ballon " title="Add to watch later" ><span class="watch_later icon-time font-lg"></span><div class="clear"></div></span><div class="play"></div></a></div><div class="media-block"><h2 data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="link" href="http://www.dailymotion.com/video/x5lkbbc_why-does-the-daily-mail-love-may-s-copycat-labour-policy-asks-james-o-brien_news" data-context="/ca-en?source_value=featured" title="Why Does The Daily Mail Love May&#039;s Copycat Labour Policy, Asks James O&#039;Brien">Why Does The Daily Mail Love May&#039;s Copycat Labour Policy, Asks James O&#039;Brien</a></h2><div class="info"><span class="ellipsis">by                 <a class="link-on-hvr author js-channel-tip" data-user-uri="/LBC" href="/LBC">LBC</a></span></div><div class="reason js-reason font-xs" id="what-to-watch_7_reason"><span class="staff-pick" data-source="staff-pick">Staff picks</span><a class="link-on-hvr" href="/ca-en/channel/news">News</a></div></div></div><div preview_class="col-4" class=" pl_wtw_video media col-8" data-size="300x169" data-video-id="337092065" data-video="x5kp1wh" data-position="8"><div class="pl_wtw_blacklist-menu"><button class="wtw-item-menu-trigger js-tipsy icon-arrow_down" data-tipsy-options="{&quot;target&quot;:&quot;#tipsy-blacklist-337092065&quot;,&quot;gravity&quot;:&quot;ne&quot;,&quot;trigger&quot;:&quot;hover&quot;,&quot;tooltip_type&quot;:&quot;tipsy-button-dropdown force-arrow&quot;,&quot;showCallback&quot;:&quot;Pg_WhatToWatch.showBlackListCallback&quot;,&quot;hideCallback&quot;:&quot;Pg_WhatToWatch.hideBlacklistCallback&quot;}" data-video-id="337092065" data-video="x5kp1wh"></button><div class="hidden" id="tipsy-blacklist-337092065"><ul class="wtw-item-blacklist-menu" data-video-id="337092065"><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=v-337092065?">Hide this</span></li><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=u-ratebuk?">Hide all activity from ratebuk</span></li></ul></div></div><div class="sd_video_preview media-img span-4 mrg-end-lg" data-id="x5kp1wh" data-playable="x5kp1wh" data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;popular&quot;}}"><a class="id_x5kp1wh preview_link js-track " href="/video/x5kp1wh_person-working-on-an-macbook_tech" data-context="/ca-en?source_value=popular"  data-xid="x5kp1wh"><div class="badge badge--duration">
+                02:27
+    </div><img class="preview" alt="Person Working on an MacBook" title="Person Working on an MacBook"         src="http://s1.dmcdn.net/ixvGw/300x169-ZGp.jpg"    /><div data-spr=http://s2.dmcdn.net/ixvAF/320x-kaK.jpg class="psprite pmode8"></div><span class="wl_chkbx js-wl_chkbx js-tipsy js-tipsy-ballon " title="Add to watch later" ><span class="watch_later icon-time font-lg"></span><div class="clear"></div></span><div class="play"></div></a></div><div class="media-block"><h2 data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;popular&quot;}}"><a class="link" href="http://www.dailymotion.com/video/x5kp1wh_person-working-on-an-macbook_tech" data-context="/ca-en?source_value=popular" title="Person Working on an MacBook">Person Working on an MacBook</a></h2><div class="info"><span class="ellipsis">by                 <a class="link-on-hvr author js-channel-tip" data-user-uri="/ratebuk" href="/ratebuk">Ratebuk</a></span></div><div class="reason js-reason font-xs" id="what-to-watch_8_reason"><span class="trending" data-source="trending">Trending</span></div></div></div><div preview_class="col-4" class=" pl_wtw_video media col-8" data-size="300x169" data-video-id="338429178" data-video="x5lhpmi" data-position="9"><div class="pl_wtw_blacklist-menu"><button class="wtw-item-menu-trigger js-tipsy icon-arrow_down" data-tipsy-options="{&quot;target&quot;:&quot;#tipsy-blacklist-338429178&quot;,&quot;gravity&quot;:&quot;ne&quot;,&quot;trigger&quot;:&quot;hover&quot;,&quot;tooltip_type&quot;:&quot;tipsy-button-dropdown force-arrow&quot;,&quot;showCallback&quot;:&quot;Pg_WhatToWatch.showBlackListCallback&quot;,&quot;hideCallback&quot;:&quot;Pg_WhatToWatch.hideBlacklistCallback&quot;}" data-video-id="338429178" data-video="x5lhpmi"></button><div class="hidden" id="tipsy-blacklist-338429178"><ul class="wtw-item-blacklist-menu" data-video-id="338429178"><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=v-338429178?">Hide this</span></li><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=u-basketballinsiders?">Hide all activity from basketballinsiders</span></li></ul></div></div><div class="sd_video_preview media-img span-4 mrg-end-lg" data-id="x5lhpmi" data-playable="x5lhpmi" data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="id_x5lhpmi preview_link js-track " href="/video/x5lhpmi_who-is-the-best-draft-fit-for-the-76ers-basketball-insiders_sport" data-context="/ca-en?source_value=featured"  data-xid="x5lhpmi"><div class="badge badge--duration">
+                02:49
+    </div><img class="preview" alt="Who Is The Best Draft Fit For The 76ers? - Basketball Insiders" title="Who Is The Best Draft Fit For The 76ers? - Basketball Insiders"         src="http://s1.dmcdn.net/jQpbB/300x169-ZSY.jpg"    /><div data-spr=http://s1.dmcdn.net/jQpbt/320x-LxC.jpg class="psprite pmode8"></div><span class="wl_chkbx js-wl_chkbx js-tipsy js-tipsy-ballon " title="Add to watch later" ><span class="watch_later icon-time font-lg"></span><div class="clear"></div></span><div class="play"></div></a></div><div class="media-block"><h2 data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="link" href="http://www.dailymotion.com/video/x5lhpmi_who-is-the-best-draft-fit-for-the-76ers-basketball-insiders_sport" data-context="/ca-en?source_value=featured" title="Who Is The Best Draft Fit For The 76ers? - Basketball Insiders">Who Is The Best Draft Fit For The 76ers? - Basketball Insiders</a></h2><div class="info"><span class="ellipsis">by                 <a class="link-on-hvr author js-channel-tip" data-user-uri="/basketballinsiders" href="/basketballinsiders">Basketball Insiders</a></span></div><div class="reason js-reason font-xs" id="what-to-watch_9_reason"><span class="staff-pick" data-source="staff-pick">Staff picks</span><a class="link-on-hvr" href="/ca-en/channel/sport">Sports</a></div></div></div><div preview_class="col-4" class=" pl_wtw_video media col-8" data-size="300x169" data-video-id="338338812" data-video="x5lfrwc" data-position="10"><div class="pl_wtw_blacklist-menu"><button class="wtw-item-menu-trigger js-tipsy icon-arrow_down" data-tipsy-options="{&quot;target&quot;:&quot;#tipsy-blacklist-338338812&quot;,&quot;gravity&quot;:&quot;ne&quot;,&quot;trigger&quot;:&quot;hover&quot;,&quot;tooltip_type&quot;:&quot;tipsy-button-dropdown force-arrow&quot;,&quot;showCallback&quot;:&quot;Pg_WhatToWatch.showBlackListCallback&quot;,&quot;hideCallback&quot;:&quot;Pg_WhatToWatch.hideBlacklistCallback&quot;}" data-video-id="338338812" data-video="x5lfrwc"></button><div class="hidden" id="tipsy-blacklist-338338812"><ul class="wtw-item-blacklist-menu" data-video-id="338338812"><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=v-338338812?">Hide this</span></li><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=u-ODE?">Hide all activity from ODE</span></li></ul></div></div><div class="sd_video_preview media-img span-4 mrg-end-lg" data-id="x5lfrwc" data-playable="x5lfrwc" data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="id_x5lfrwc preview_link js-track " href="/video/x5lfrwc_ridley-scott-s-secret-plans-for-the-future-of-alien_lifestyle" data-context="/ca-en?source_value=featured"  data-xid="x5lfrwc"><div class="badge badge--duration">
+                06:51
+    </div><img class="preview" alt="Ridley Scott&#039;s secret plans for the future of Alien" title="Ridley Scott&#039;s secret plans for the future of Alien"         src="http://s2.dmcdn.net/jP9Qu/300x169--Xm.jpg"    /><div data-spr=http://s1.dmcdn.net/jP9Vz/320x-Gn9.jpg class="psprite pmode8"></div><span class="wl_chkbx js-wl_chkbx js-tipsy js-tipsy-ballon " title="Add to watch later" ><span class="watch_later icon-time font-lg"></span><div class="clear"></div></span><div class="play"></div></a></div><div class="media-block"><h2 data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="link" href="http://www.dailymotion.com/video/x5lfrwc_ridley-scott-s-secret-plans-for-the-future-of-alien_lifestyle" data-context="/ca-en?source_value=featured" title="Ridley Scott&#039;s secret plans for the future of Alien">Ridley Scott&#039;s secret plans for the future of Alien</a></h2><div class="info"><span class="ellipsis">by                 <a class="link-on-hvr author js-channel-tip" data-user-uri="/ODE" href="/ODE">ODE</a></span></div><div class="reason js-reason font-xs" id="what-to-watch_10_reason"><span class="staff-pick" data-source="staff-pick">Staff picks</span><a class="link-on-hvr" href="/ca-en/channel/lifestyle">Lifestyle & How-to</a></div></div></div><div preview_class="col-4" class=" pl_wtw_video media col-8" data-size="300x169" data-video-id="338381048" data-video="x5lgohk" data-position="11"><div class="pl_wtw_blacklist-menu"><button class="wtw-item-menu-trigger js-tipsy icon-arrow_down" data-tipsy-options="{&quot;target&quot;:&quot;#tipsy-blacklist-338381048&quot;,&quot;gravity&quot;:&quot;ne&quot;,&quot;trigger&quot;:&quot;hover&quot;,&quot;tooltip_type&quot;:&quot;tipsy-button-dropdown force-arrow&quot;,&quot;showCallback&quot;:&quot;Pg_WhatToWatch.showBlackListCallback&quot;,&quot;hideCallback&quot;:&quot;Pg_WhatToWatch.hideBlacklistCallback&quot;}" data-video-id="338381048" data-video="x5lgohk"></button><div class="hidden" id="tipsy-blacklist-338381048"><ul class="wtw-item-blacklist-menu" data-video-id="338381048"><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=v-338381048?">Hide this</span></li><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=u-glorykickboxing?">Hide all activity from glorykickboxing</span></li></ul></div></div><div class="sd_video_preview media-img span-4 mrg-end-lg" data-id="x5lgohk" data-playable="x5lgohk" data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="id_x5lgohk preview_link js-track " href="/video/x5lgohk_glory-43-new-york-tickets-on-sale_sport" data-context="/ca-en?source_value=featured"  data-xid="x5lgohk"><div class="badge badge--duration">
+                00:30
+    </div><img class="preview" alt="GLORY 43 New York: Tickets on Sale!" title="GLORY 43 New York: Tickets on Sale!"         src="http://s1.dmcdn.net/jQTLP/300x169-nK7.jpg"    /><div data-spr=http://s2.dmcdn.net/jQSD6/320x-5Vw.jpg class="psprite pmode8"></div><span class="wl_chkbx js-wl_chkbx js-tipsy js-tipsy-ballon " title="Add to watch later" ><span class="watch_later icon-time font-lg"></span><div class="clear"></div></span><div class="play"></div></a></div><div class="media-block"><h2 data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="link" href="http://www.dailymotion.com/video/x5lgohk_glory-43-new-york-tickets-on-sale_sport" data-context="/ca-en?source_value=featured" title="GLORY 43 New York: Tickets on Sale!">GLORY 43 New York: Tickets on Sale!</a></h2><div class="info"><span class="ellipsis">by                 <a class="link-on-hvr author js-channel-tip" data-user-uri="/glorykickboxing" href="/glorykickboxing">GLORY</a></span></div><div class="reason js-reason font-xs" id="what-to-watch_11_reason"><span class="staff-pick" data-source="staff-pick">Staff picks</span><a class="link-on-hvr" href="/ca-en/channel/sport">Sports</a></div></div></div><div preview_class="col-4" class=" pl_wtw_video media col-8" data-size="300x169" data-video-id="338554483" data-video="x5lkeb7" data-position="12"><div class="pl_wtw_blacklist-menu"><button class="wtw-item-menu-trigger js-tipsy icon-arrow_down" data-tipsy-options="{&quot;target&quot;:&quot;#tipsy-blacklist-338554483&quot;,&quot;gravity&quot;:&quot;ne&quot;,&quot;trigger&quot;:&quot;hover&quot;,&quot;tooltip_type&quot;:&quot;tipsy-button-dropdown force-arrow&quot;,&quot;showCallback&quot;:&quot;Pg_WhatToWatch.showBlackListCallback&quot;,&quot;hideCallback&quot;:&quot;Pg_WhatToWatch.hideBlacklistCallback&quot;}" data-video-id="338554483" data-video="x5lkeb7"></button><div class="hidden" id="tipsy-blacklist-338554483"><ul class="wtw-item-blacklist-menu" data-video-id="338554483"><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=v-338554483?">Hide this</span></li><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=u-GolfMagic?">Hide all activity from GolfMagic</span></li></ul></div></div><div class="sd_video_preview media-img span-4 mrg-end-lg" data-id="x5lkeb7" data-playable="x5lkeb7" data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="id_x5lkeb7 preview_link js-track " href="/video/x5lkeb7_game-improvement-irons-test-2017-golfmagic-com_sport" data-context="/ca-en?source_value=featured"  data-xid="x5lkeb7"><div class="badge badge--duration">
+                02:49
+    </div><img class="preview" alt="Game Improvement Irons Test 2017 | GolfMagic.com" title="Game Improvement Irons Test 2017 | GolfMagic.com"         src="http://s2.dmcdn.net/jRnNa/300x169-F2-.jpg"    /><div data-spr=http://s2.dmcdn.net/jRnFT/320x-g8r.jpg class="psprite pmode8"></div><span class="wl_chkbx js-wl_chkbx js-tipsy js-tipsy-ballon " title="Add to watch later" ><span class="watch_later icon-time font-lg"></span><div class="clear"></div></span><div class="play"></div></a></div><div class="media-block"><h2 data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="link" href="http://www.dailymotion.com/video/x5lkeb7_game-improvement-irons-test-2017-golfmagic-com_sport" data-context="/ca-en?source_value=featured" title="Game Improvement Irons Test 2017 | GolfMagic.com">Game Improvement Irons Test 2017 | GolfMagic.com</a></h2><div class="info"><span class="ellipsis">by                 <a class="link-on-hvr author js-channel-tip" data-user-uri="/GolfMagic" href="/GolfMagic">GolfMagic.com</a></span></div><div class="reason js-reason font-xs" id="what-to-watch_12_reason"><span class="staff-pick" data-source="staff-pick">Staff picks</span><a class="link-on-hvr" href="/ca-en/channel/sport">Sports</a></div></div></div><div preview_class="col-4" class=" pl_wtw_video media col-8" data-size="300x169" data-video-id="338347646" data-video="x5lfypq" data-position="13"><div class="pl_wtw_blacklist-menu"><button class="wtw-item-menu-trigger js-tipsy icon-arrow_down" data-tipsy-options="{&quot;target&quot;:&quot;#tipsy-blacklist-338347646&quot;,&quot;gravity&quot;:&quot;ne&quot;,&quot;trigger&quot;:&quot;hover&quot;,&quot;tooltip_type&quot;:&quot;tipsy-button-dropdown force-arrow&quot;,&quot;showCallback&quot;:&quot;Pg_WhatToWatch.showBlackListCallback&quot;,&quot;hideCallback&quot;:&quot;Pg_WhatToWatch.hideBlacklistCallback&quot;}" data-video-id="338347646" data-video="x5lfypq"></button><div class="hidden" id="tipsy-blacklist-338347646"><ul class="wtw-item-blacklist-menu" data-video-id="338347646"><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=v-338347646?">Hide this</span></li><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=u-madetelevision?">Hide all activity from madetelevision</span></li></ul></div></div><div class="sd_video_preview media-img span-4 mrg-end-lg" data-id="x5lfypq" data-playable="x5lfypq" data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="id_x5lfypq preview_link js-track " href="/video/x5lfypq_everyday-yoga-season-3-episode-1_lifestyle" data-context="/ca-en?source_value=featured"  data-xid="x5lfypq"><div class="badge badge--duration">
+                21:54
+    </div><img class="preview" alt="Everyday Yoga - Season 3, Episode 1" title="Everyday Yoga - Season 3, Episode 1"         src="http://s2.dmcdn.net/jQAze/300x169-WfA.jpg"    /><div data-spr=http://s2.dmcdn.net/jQC7s/320x-Uk_.jpg class="psprite pmode8"></div><span class="wl_chkbx js-wl_chkbx js-tipsy js-tipsy-ballon " title="Add to watch later" ><span class="watch_later icon-time font-lg"></span><div class="clear"></div></span><div class="play"></div></a></div><div class="media-block"><h2 data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="link" href="http://www.dailymotion.com/video/x5lfypq_everyday-yoga-season-3-episode-1_lifestyle" data-context="/ca-en?source_value=featured" title="Everyday Yoga - Season 3, Episode 1">Everyday Yoga - Season 3, Episode 1</a></h2><div class="info"><span class="ellipsis">by                 <a class="link-on-hvr author js-channel-tip" data-user-uri="/madetelevision" href="/madetelevision">madetelevision</a></span></div><div class="reason js-reason font-xs" id="what-to-watch_13_reason"><span class="staff-pick" data-source="staff-pick">Staff picks</span><a class="link-on-hvr" href="/ca-en/channel/lifestyle">Lifestyle & How-to</a></div></div></div><div preview_class="col-4" class=" pl_wtw_video media col-8" data-size="300x169" data-video-id="338543074" data-video="x5lk5ia" data-position="14"><div class="pl_wtw_blacklist-menu"><button class="wtw-item-menu-trigger js-tipsy icon-arrow_down" data-tipsy-options="{&quot;target&quot;:&quot;#tipsy-blacklist-338543074&quot;,&quot;gravity&quot;:&quot;ne&quot;,&quot;trigger&quot;:&quot;hover&quot;,&quot;tooltip_type&quot;:&quot;tipsy-button-dropdown force-arrow&quot;,&quot;showCallback&quot;:&quot;Pg_WhatToWatch.showBlackListCallback&quot;,&quot;hideCallback&quot;:&quot;Pg_WhatToWatch.hideBlacklistCallback&quot;}" data-video-id="338543074" data-video="x5lk5ia"></button><div class="hidden" id="tipsy-blacklist-338543074"><ul class="wtw-item-blacklist-menu" data-video-id="338543074"><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=v-338543074?">Hide this</span></li><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=u-LBC?">Hide all activity from LBC</span></li></ul></div></div><div class="sd_video_preview media-img span-4 mrg-end-lg" data-id="x5lk5ia" data-playable="x5lk5ia" data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="id_x5lk5ia preview_link js-track " href="/video/x5lk5ia_caller-puts-clegg-under-pressure-over-2nd-referendum-plan_news" data-context="/ca-en?source_value=featured"  data-xid="x5lk5ia"><div class="badge badge--duration">
+                04:49
+    </div><img class="preview" alt="Caller Puts Clegg Under Pressure Over 2nd Referendum Plan" title="Caller Puts Clegg Under Pressure Over 2nd Referendum Plan"         src="http://s1.dmcdn.net/jRiE0/300x169-G7j.jpg"    /><div data-spr=http://s2.dmcdn.net/jRiRV/320x-TsX.jpg class="psprite pmode8"></div><span class="wl_chkbx js-wl_chkbx js-tipsy js-tipsy-ballon " title="Add to watch later" ><span class="watch_later icon-time font-lg"></span><div class="clear"></div></span><div class="play"></div></a></div><div class="media-block"><h2 data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="link" href="http://www.dailymotion.com/video/x5lk5ia_caller-puts-clegg-under-pressure-over-2nd-referendum-plan_news" data-context="/ca-en?source_value=featured" title="Caller Puts Clegg Under Pressure Over 2nd Referendum Plan">Caller Puts Clegg Under Pressure Over 2nd Referendum Plan</a></h2><div class="info"><span class="ellipsis">by                 <a class="link-on-hvr author js-channel-tip" data-user-uri="/LBC" href="/LBC">LBC</a></span></div><div class="reason js-reason font-xs" id="what-to-watch_14_reason"><span class="staff-pick" data-source="staff-pick">Staff picks</span><a class="link-on-hvr" href="/ca-en/channel/news">News</a></div></div></div><div preview_class="col-4" class=" pl_wtw_video media col-8" data-size="300x169" data-video-id="338351956" data-video="x5lg21g" data-position="15"><div class="pl_wtw_blacklist-menu"><button class="wtw-item-menu-trigger js-tipsy icon-arrow_down" data-tipsy-options="{&quot;target&quot;:&quot;#tipsy-blacklist-338351956&quot;,&quot;gravity&quot;:&quot;ne&quot;,&quot;trigger&quot;:&quot;hover&quot;,&quot;tooltip_type&quot;:&quot;tipsy-button-dropdown force-arrow&quot;,&quot;showCallback&quot;:&quot;Pg_WhatToWatch.showBlackListCallback&quot;,&quot;hideCallback&quot;:&quot;Pg_WhatToWatch.hideBlacklistCallback&quot;}" data-video-id="338351956" data-video="x5lg21g"></button><div class="hidden" id="tipsy-blacklist-338351956"><ul class="wtw-item-blacklist-menu" data-video-id="338351956"><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=v-338351956?">Hide this</span></li><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=u-ODE?">Hide all activity from ODE</span></li></ul></div></div><div class="sd_video_preview media-img span-4 mrg-end-lg" data-id="x5lg21g" data-playable="x5lg21g" data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="id_x5lg21g preview_link js-track " href="/video/x5lg21g_michael-fassbender-laughed-a-lot-at-alien-covenant_lifestyle" data-context="/ca-en?source_value=featured"  data-xid="x5lg21g"><div class="badge badge--duration">
+                05:52
+    </div><img class="preview" alt="Michael Fassbender &#039;laughed a lot&#039; at Alien: Covenant" title="Michael Fassbender &#039;laughed a lot&#039; at Alien: Covenant"         src="http://s2.dmcdn.net/jQDKU/300x169-BCd.jpg"    /><div data-spr=http://s1.dmcdn.net/jQDIN/320x-14s.jpg class="psprite pmode8"></div><span class="wl_chkbx js-wl_chkbx js-tipsy js-tipsy-ballon " title="Add to watch later" ><span class="watch_later icon-time font-lg"></span><div class="clear"></div></span><div class="play"></div></a></div><div class="media-block"><h2 data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="link" href="http://www.dailymotion.com/video/x5lg21g_michael-fassbender-laughed-a-lot-at-alien-covenant_lifestyle" data-context="/ca-en?source_value=featured" title="Michael Fassbender &#039;laughed a lot&#039; at Alien: Covenant">Michael Fassbender &#039;laughed a lot&#039; at Alien: Covenant</a></h2><div class="info"><span class="ellipsis">by                 <a class="link-on-hvr author js-channel-tip" data-user-uri="/ODE" href="/ODE">ODE</a></span></div><div class="reason js-reason font-xs" id="what-to-watch_15_reason"><span class="staff-pick" data-source="staff-pick">Staff picks</span><a class="link-on-hvr" href="/ca-en/channel/lifestyle">Lifestyle & How-to</a></div></div></div><div preview_class="col-4" class=" pl_wtw_video media col-8" data-size="300x169" data-video-id="337749341" data-video="x5l3525" data-position="16"><div class="pl_wtw_blacklist-menu"><button class="wtw-item-menu-trigger js-tipsy icon-arrow_down" data-tipsy-options="{&quot;target&quot;:&quot;#tipsy-blacklist-337749341&quot;,&quot;gravity&quot;:&quot;ne&quot;,&quot;trigger&quot;:&quot;hover&quot;,&quot;tooltip_type&quot;:&quot;tipsy-button-dropdown force-arrow&quot;,&quot;showCallback&quot;:&quot;Pg_WhatToWatch.showBlackListCallback&quot;,&quot;hideCallback&quot;:&quot;Pg_WhatToWatch.hideBlacklistCallback&quot;}" data-video-id="337749341" data-video="x5l3525"></button><div class="hidden" id="tipsy-blacklist-337749341"><ul class="wtw-item-blacklist-menu" data-video-id="337749341"><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=v-337749341?">Hide this</span></li><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=u-ben-phillips1?">Hide all activity from ben-phillips1</span></li></ul></div></div><div class="sd_video_preview media-img span-4 mrg-end-lg" data-id="x5l3525" data-playable="x5l3525" data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="id_x5l3525 preview_link js-track " href="/video/x5l3525_i-duct-tape-my-friend-to-the-roof-prank_fun" data-context="/ca-en?source_value=featured"  data-xid="x5l3525"><div class="badge badge--duration">
+                06:38
+    </div><img class="preview" alt="I DUCT TAPE MY FRIEND TO THE ROOF! --PRANK--" title="I DUCT TAPE MY FRIEND TO THE ROOF! --PRANK--"         src="http://s1.dmcdn.net/jLBKM/300x169-FQU.jpg"    /><div data-spr=http://s2.dmcdn.net/jLA8_/320x-We6.jpg class="psprite pmode8"></div><span class="wl_chkbx js-wl_chkbx js-tipsy js-tipsy-ballon " title="Add to watch later" ><span class="watch_later icon-time font-lg"></span><div class="clear"></div></span><div class="play"></div></a></div><div class="media-block"><h2 data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="link" href="http://www.dailymotion.com/video/x5l3525_i-duct-tape-my-friend-to-the-roof-prank_fun" data-context="/ca-en?source_value=featured" title="I DUCT TAPE MY FRIEND TO THE ROOF! --PRANK--">I DUCT TAPE MY FRIEND TO THE ROOF! --PRANK--</a></h2><div class="info"><span class="ellipsis">by                 <a class="link-on-hvr author js-channel-tip" data-user-uri="/ben-phillips1" href="/ben-phillips1">Ben Phillips</a></span></div><div class="reason js-reason font-xs" id="what-to-watch_16_reason"><span class="staff-pick" data-source="staff-pick">Staff picks</span><a class="link-on-hvr" href="/ca-en/channel/fun">Comedy & Entertainment</a></div></div></div><div preview_class="col-4" class=" pl_wtw_video media col-8" data-size="300x169" data-video-id="338424617" data-video="x5lhm3t" data-position="17"><div class="pl_wtw_blacklist-menu"><button class="wtw-item-menu-trigger js-tipsy icon-arrow_down" data-tipsy-options="{&quot;target&quot;:&quot;#tipsy-blacklist-338424617&quot;,&quot;gravity&quot;:&quot;ne&quot;,&quot;trigger&quot;:&quot;hover&quot;,&quot;tooltip_type&quot;:&quot;tipsy-button-dropdown force-arrow&quot;,&quot;showCallback&quot;:&quot;Pg_WhatToWatch.showBlackListCallback&quot;,&quot;hideCallback&quot;:&quot;Pg_WhatToWatch.hideBlacklistCallback&quot;}" data-video-id="338424617" data-video="x5lhm3t"></button><div class="hidden" id="tipsy-blacklist-338424617"><ul class="wtw-item-blacklist-menu" data-video-id="338424617"><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=v-338424617?">Hide this</span></li><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=u-ben-phillips1?">Hide all activity from ben-phillips1</span></li></ul></div></div><div class="sd_video_preview media-img span-4 mrg-end-lg" data-id="x5lhm3t" data-playable="x5lhm3t" data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="id_x5lhm3t preview_link js-track " href="/video/x5lhm3t_i-overdosed-my-bro-with-helium-prank_fun" data-context="/ca-en?source_value=featured"  data-xid="x5lhm3t"><div class="badge badge--duration">
+                08:37
+    </div><img class="preview" alt="I OVERDOSED my bro with HELIUM! --PRANK!--" title="I OVERDOSED my bro with HELIUM! --PRANK!--"         src="http://s1.dmcdn.net/jQphd/300x169-UTQ.jpg"    /><div data-spr=http://s2.dmcdn.net/jQnqN/320x-8f3.jpg class="psprite pmode8"></div><span class="wl_chkbx js-wl_chkbx js-tipsy js-tipsy-ballon " title="Add to watch later" ><span class="watch_later icon-time font-lg"></span><div class="clear"></div></span><div class="play"></div></a></div><div class="media-block"><h2 data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="link" href="http://www.dailymotion.com/video/x5lhm3t_i-overdosed-my-bro-with-helium-prank_fun" data-context="/ca-en?source_value=featured" title="I OVERDOSED my bro with HELIUM! --PRANK!--">I OVERDOSED my bro with HELIUM! --PRANK!--</a></h2><div class="info"><span class="ellipsis">by                 <a class="link-on-hvr author js-channel-tip" data-user-uri="/ben-phillips1" href="/ben-phillips1">Ben Phillips</a></span></div><div class="reason js-reason font-xs" id="what-to-watch_17_reason"><span class="staff-pick" data-source="staff-pick">Staff picks</span><a class="link-on-hvr" href="/ca-en/channel/fun">Comedy & Entertainment</a></div></div></div><div preview_class="col-4" class=" pl_wtw_video media col-8" data-size="300x169" data-video-id="336454594" data-video="x5kbe0y" data-position="18"><div class="pl_wtw_blacklist-menu"><button class="wtw-item-menu-trigger js-tipsy icon-arrow_down" data-tipsy-options="{&quot;target&quot;:&quot;#tipsy-blacklist-336454594&quot;,&quot;gravity&quot;:&quot;ne&quot;,&quot;trigger&quot;:&quot;hover&quot;,&quot;tooltip_type&quot;:&quot;tipsy-button-dropdown force-arrow&quot;,&quot;showCallback&quot;:&quot;Pg_WhatToWatch.showBlackListCallback&quot;,&quot;hideCallback&quot;:&quot;Pg_WhatToWatch.hideBlacklistCallback&quot;}" data-video-id="336454594" data-video="x5kbe0y"></button><div class="hidden" id="tipsy-blacklist-336454594"><ul class="wtw-item-blacklist-menu" data-video-id="336454594"><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=v-336454594?">Hide this</span></li><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=u-lucasasilva2017?">Hide all activity from lucasasilva2017</span></li></ul></div></div><div class="sd_video_preview media-img span-4 mrg-end-lg" data-id="x5kbe0y" data-playable="x5kbe0y" data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;popular&quot;}}"><a class="id_x5kbe0y preview_link js-track " href="/video/x5kbe0y_trailer-need-for-speed-game-pc-ps4-xbox-one_videogames" data-context="/ca-en?source_value=popular"  data-xid="x5kbe0y"><div class="badge badge--duration">
+                00:34
+    </div><img class="preview" alt="Trailer Need for Speed Game - PC PS4 Xbox One" title="Trailer Need for Speed Game - PC PS4 Xbox One"         src="http://s2.dmcdn.net/i2YCx/300x169-fqp.jpg"    /><div data-spr=http://s2.dmcdn.net/jA59m/320x-7kY.jpg class="psprite pmode8"></div><span class="wl_chkbx js-wl_chkbx js-tipsy js-tipsy-ballon " title="Add to watch later" ><span class="watch_later icon-time font-lg"></span><div class="clear"></div></span><div class="play"></div></a></div><div class="media-block"><h2 data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;popular&quot;}}"><a class="link" href="http://www.dailymotion.com/video/x5kbe0y_trailer-need-for-speed-game-pc-ps4-xbox-one_videogames" data-context="/ca-en?source_value=popular" title="Trailer Need for Speed Game - PC PS4 Xbox One">Trailer Need for Speed Game - PC PS4 Xbox One</a></h2><div class="info"><span class="ellipsis">by                 <a class="link-on-hvr author js-channel-tip" data-user-uri="/lucasasilva2017" href="/lucasasilva2017">TOM</a></span></div><div class="reason js-reason font-xs" id="what-to-watch_18_reason"><span class="trending" data-source="trending">Trending</span></div></div></div><div preview_class="col-4" class=" pl_wtw_video media col-8" data-size="300x169" data-video-id="337034415" data-video="x5kntf3" data-position="19"><div class="pl_wtw_blacklist-menu"><button class="wtw-item-menu-trigger js-tipsy icon-arrow_down" data-tipsy-options="{&quot;target&quot;:&quot;#tipsy-blacklist-337034415&quot;,&quot;gravity&quot;:&quot;ne&quot;,&quot;trigger&quot;:&quot;hover&quot;,&quot;tooltip_type&quot;:&quot;tipsy-button-dropdown force-arrow&quot;,&quot;showCallback&quot;:&quot;Pg_WhatToWatch.showBlackListCallback&quot;,&quot;hideCallback&quot;:&quot;Pg_WhatToWatch.hideBlacklistCallback&quot;}" data-video-id="337034415" data-video="x5kntf3"></button><div class="hidden" id="tipsy-blacklist-337034415"><ul class="wtw-item-blacklist-menu" data-video-id="337034415"><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=v-337034415?">Hide this</span></li><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=u-TrailersyEstrenos?">Hide all activity from TrailersyEstrenos</span></li></ul></div></div><div class="sd_video_preview media-img span-4 mrg-end-lg" data-id="x5kntf3" data-playable="x5kntf3" data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="id_x5kntf3 preview_link js-track " href="/video/x5kntf3_the-dark-tower-official-trailer-hd_shortfilms" data-context="/ca-en?source_value=featured"  data-xid="x5kntf3"><div class="badge badge--duration">
+                03:15
+    </div><img class="preview" alt="The Dark Tower - Official Trailer (HD)" title="The Dark Tower - Official Trailer (HD)"         src="http://s1.dmcdn.net/jFlts/300x169-WR3.jpg"    /><div data-spr=http://s2.dmcdn.net/jFlZT/320x-nym.jpg class="psprite pmode8"></div><span class="wl_chkbx js-wl_chkbx js-tipsy js-tipsy-ballon " title="Add to watch later" ><span class="watch_later icon-time font-lg"></span><div class="clear"></div></span><div class="play"></div></a></div><div class="media-block"><h2 data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="link" href="http://www.dailymotion.com/video/x5kntf3_the-dark-tower-official-trailer-hd_shortfilms" data-context="/ca-en?source_value=featured" title="The Dark Tower - Official Trailer (HD)">The Dark Tower - Official Trailer (HD)</a></h2><div class="info"><span class="ellipsis">by                 <a class="link-on-hvr author js-channel-tip" data-user-uri="/TrailersyEstrenos" href="/TrailersyEstrenos">Trailers y Estrenos</a></span></div><div class="reason js-reason font-xs" id="what-to-watch_19_reason"><span class="staff-pick" data-source="staff-pick">Staff picks</span><a class="link-on-hvr" href="/ca-en/channel/shortfilms">Movies</a></div></div></div><div preview_class="col-4" class=" pl_wtw_video media col-8" data-size="300x169" data-video-id="338420256" data-video="x5lhiqo" data-position="20"><div class="pl_wtw_blacklist-menu"><button class="wtw-item-menu-trigger js-tipsy icon-arrow_down" data-tipsy-options="{&quot;target&quot;:&quot;#tipsy-blacklist-338420256&quot;,&quot;gravity&quot;:&quot;ne&quot;,&quot;trigger&quot;:&quot;hover&quot;,&quot;tooltip_type&quot;:&quot;tipsy-button-dropdown force-arrow&quot;,&quot;showCallback&quot;:&quot;Pg_WhatToWatch.showBlackListCallback&quot;,&quot;hideCallback&quot;:&quot;Pg_WhatToWatch.hideBlacklistCallback&quot;}" data-video-id="338420256" data-video="x5lhiqo"></button><div class="hidden" id="tipsy-blacklist-338420256"><ul class="wtw-item-blacklist-menu" data-video-id="338420256"><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=v-338420256?">Hide this</span></li><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=u-ODNandfinally?">Hide all activity from ODNandfinally</span></li></ul></div></div><div class="sd_video_preview media-img span-4 mrg-end-lg" data-id="x5lhiqo" data-playable="x5lhiqo" data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="id_x5lhiqo preview_link js-track " href="/video/x5lhiqo_the-man-building-every-football-league-stadium-out-of-lego_fun" data-context="/ca-en?source_value=featured"  data-xid="x5lhiqo"><div class="badge badge--duration">
+                01:15
+    </div><img class="preview" alt="The man building every Football League stadium out of LEGO" title="The man building every Football League stadium out of LEGO"         src="http://s1.dmcdn.net/jQkqD/300x169-udE.jpg"    /><div data-spr=http://s1.dmcdn.net/jQkok/320x-xz_.jpg class="psprite pmode8"></div><span class="wl_chkbx js-wl_chkbx js-tipsy js-tipsy-ballon " title="Add to watch later" ><span class="watch_later icon-time font-lg"></span><div class="clear"></div></span><div class="play"></div></a></div><div class="media-block"><h2 data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="link" href="http://www.dailymotion.com/video/x5lhiqo_the-man-building-every-football-league-stadium-out-of-lego_fun" data-context="/ca-en?source_value=featured" title="The man building every Football League stadium out of LEGO">The man building every Football League stadium out of LEGO</a></h2><div class="info"><span class="ellipsis">by                 <a class="link-on-hvr author js-channel-tip" data-user-uri="/ODNandfinally" href="/ODNandfinally">And Finally</a></span></div><div class="reason js-reason font-xs" id="what-to-watch_20_reason"><span class="staff-pick" data-source="staff-pick">Staff picks</span><a class="link-on-hvr" href="/ca-en/channel/fun">Comedy & Entertainment</a></div></div></div><div preview_class="col-4" class=" pl_wtw_video media col-8" data-size="300x169" data-video-id="338526154" data-video="x5ljsga" data-position="21"><div class="pl_wtw_blacklist-menu"><button class="wtw-item-menu-trigger js-tipsy icon-arrow_down" data-tipsy-options="{&quot;target&quot;:&quot;#tipsy-blacklist-338526154&quot;,&quot;gravity&quot;:&quot;ne&quot;,&quot;trigger&quot;:&quot;hover&quot;,&quot;tooltip_type&quot;:&quot;tipsy-button-dropdown force-arrow&quot;,&quot;showCallback&quot;:&quot;Pg_WhatToWatch.showBlackListCallback&quot;,&quot;hideCallback&quot;:&quot;Pg_WhatToWatch.hideBlacklistCallback&quot;}" data-video-id="338526154" data-video="x5ljsga"></button><div class="hidden" id="tipsy-blacklist-338526154"><ul class="wtw-item-blacklist-menu" data-video-id="338526154"><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=v-338526154?">Hide this</span></li><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=u-DW_English?">Hide all activity from DW_English</span></li></ul></div></div><div class="sd_video_preview media-img span-4 mrg-end-lg" data-id="x5ljsga" data-playable="x5ljsga" data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="id_x5ljsga preview_link js-track " href="/video/x5ljsga_the-most-beautiful-porsche-dw-english_auto" data-context="/ca-en?source_value=featured"  data-xid="x5ljsga"><div class="badge badge--duration">
+                03:35
+    </div><img class="preview" alt="The most beautiful Porsche | DW English" title="The most beautiful Porsche | DW English"         src="http://s1.dmcdn.net/jRaDx/300x169-7cG.jpg"    /><div data-spr=http://s2.dmcdn.net/jRaB4/320x-GPn.jpg class="psprite pmode8"></div><span class="wl_chkbx js-wl_chkbx js-tipsy js-tipsy-ballon " title="Add to watch later" ><span class="watch_later icon-time font-lg"></span><div class="clear"></div></span><div class="play"></div></a></div><div class="media-block"><h2 data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="link" href="http://www.dailymotion.com/video/x5ljsga_the-most-beautiful-porsche-dw-english_auto" data-context="/ca-en?source_value=featured" title="The most beautiful Porsche | DW English">The most beautiful Porsche | DW English</a></h2><div class="info"><span class="ellipsis">by                 <a class="link-on-hvr author js-channel-tip" data-user-uri="/DW_English" href="/DW_English">DW (English)</a></span></div><div class="reason js-reason font-xs" id="what-to-watch_21_reason"><span class="staff-pick" data-source="staff-pick">Staff picks</span><a class="link-on-hvr" href="/ca-en/channel/auto">Cars</a></div></div></div><div preview_class="col-4" class=" pl_wtw_video media col-8" data-size="300x169" data-video-id="338526794" data-video="x5ljsy2" data-position="22"><div class="pl_wtw_blacklist-menu"><button class="wtw-item-menu-trigger js-tipsy icon-arrow_down" data-tipsy-options="{&quot;target&quot;:&quot;#tipsy-blacklist-338526794&quot;,&quot;gravity&quot;:&quot;ne&quot;,&quot;trigger&quot;:&quot;hover&quot;,&quot;tooltip_type&quot;:&quot;tipsy-button-dropdown force-arrow&quot;,&quot;showCallback&quot;:&quot;Pg_WhatToWatch.showBlackListCallback&quot;,&quot;hideCallback&quot;:&quot;Pg_WhatToWatch.hideBlacklistCallback&quot;}" data-video-id="338526794" data-video="x5ljsy2"></button><div class="hidden" id="tipsy-blacklist-338526794"><ul class="wtw-item-blacklist-menu" data-video-id="338526794"><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=v-338526794?">Hide this</span></li><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=u-madetelevision?">Hide all activity from madetelevision</span></li></ul></div></div><div class="sd_video_preview media-img span-4 mrg-end-lg" data-id="x5ljsy2" data-playable="x5ljsy2" data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="id_x5ljsy2 preview_link js-track " href="/video/x5ljsy2_the-liverpool-sound-season-1-episode-29_music" data-context="/ca-en?source_value=featured"  data-xid="x5ljsy2"><div class="badge badge--duration">
+                44:00
+    </div><img class="preview" alt="The Liverpool Sound - Season 1, Episode 29" title="The Liverpool Sound - Season 1, Episode 29"         src="http://s1.dmcdn.net/jRadp/300x169-FYy.jpg"    /><div data-spr=http://s2.dmcdn.net/jRbDO/320x-cLV.jpg class="psprite pmode8"></div><span class="wl_chkbx js-wl_chkbx js-tipsy js-tipsy-ballon " title="Add to watch later" ><span class="watch_later icon-time font-lg"></span><div class="clear"></div></span><div class="play"></div></a></div><div class="media-block"><h2 data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="link" href="http://www.dailymotion.com/video/x5ljsy2_the-liverpool-sound-season-1-episode-29_music" data-context="/ca-en?source_value=featured" title="The Liverpool Sound - Season 1, Episode 29">The Liverpool Sound - Season 1, Episode 29</a></h2><div class="info"><span class="ellipsis">by                 <a class="link-on-hvr author js-channel-tip" data-user-uri="/madetelevision" href="/madetelevision">madetelevision</a></span></div><div class="reason js-reason font-xs" id="what-to-watch_22_reason"><span class="staff-pick" data-source="staff-pick">Staff picks</span><a class="link-on-hvr" href="/ca-en/channel/music">Music</a></div></div></div><div preview_class="col-4" class=" pl_wtw_video media col-8" data-size="300x169" data-video-id="338538733" data-video="x5lk25p" data-position="23"><div class="pl_wtw_blacklist-menu"><button class="wtw-item-menu-trigger js-tipsy icon-arrow_down" data-tipsy-options="{&quot;target&quot;:&quot;#tipsy-blacklist-338538733&quot;,&quot;gravity&quot;:&quot;ne&quot;,&quot;trigger&quot;:&quot;hover&quot;,&quot;tooltip_type&quot;:&quot;tipsy-button-dropdown force-arrow&quot;,&quot;showCallback&quot;:&quot;Pg_WhatToWatch.showBlackListCallback&quot;,&quot;hideCallback&quot;:&quot;Pg_WhatToWatch.hideBlacklistCallback&quot;}" data-video-id="338538733" data-video="x5lk25p"></button><div class="hidden" id="tipsy-blacklist-338538733"><ul class="wtw-item-blacklist-menu" data-video-id="338538733"><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=v-338538733?">Hide this</span></li><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=u-BarcroftAnimals?">Hide all activity from BarcroftAnimals</span></li></ul></div></div><div class="sd_video_preview media-img span-4 mrg-end-lg" data-id="x5lk25p" data-playable="x5lk25p" data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="id_x5lk25p preview_link js-track " href="/video/x5lk25p_dwarf-dog-mikeygus-will-melt-your-heart-cute-as-fluff_animals" data-context="/ca-en?source_value=featured"  data-xid="x5lk25p"><div class="badge badge--duration">
+                02:30
+    </div><img class="preview" alt="Dwarf Dog MikeyGus Will Melt Your Heart: CUTE AS FLUFF" title="Dwarf Dog MikeyGus Will Melt Your Heart: CUTE AS FLUFF"         src="http://s2.dmcdn.net/jRgBc/300x169-2ud.jpg"    /><div data-spr=http://s2.dmcdn.net/jRgJs/320x-PRD.jpg class="psprite pmode8"></div><span class="wl_chkbx js-wl_chkbx js-tipsy js-tipsy-ballon " title="Add to watch later" ><span class="watch_later icon-time font-lg"></span><div class="clear"></div></span><div class="play"></div></a></div><div class="media-block"><h2 data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="link" href="http://www.dailymotion.com/video/x5lk25p_dwarf-dog-mikeygus-will-melt-your-heart-cute-as-fluff_animals" data-context="/ca-en?source_value=featured" title="Dwarf Dog MikeyGus Will Melt Your Heart: CUTE AS FLUFF">Dwarf Dog MikeyGus Will Melt Your Heart: CUTE AS FLUFF</a></h2><div class="info"><span class="ellipsis">by                 <a class="link-on-hvr author js-channel-tip" data-user-uri="/BarcroftAnimals" href="/BarcroftAnimals">Barcroft Animals</a></span></div><div class="reason js-reason font-xs" id="what-to-watch_23_reason"><span class="staff-pick" data-source="staff-pick">Staff picks</span><a class="link-on-hvr" href="/ca-en/channel/animals">Animals</a></div></div></div><div preview_class="col-4" class=" pl_wtw_video media col-8" data-size="300x169" data-video-id="338350618" data-video="x5lg10a" data-position="24"><div class="pl_wtw_blacklist-menu"><button class="wtw-item-menu-trigger js-tipsy icon-arrow_down" data-tipsy-options="{&quot;target&quot;:&quot;#tipsy-blacklist-338350618&quot;,&quot;gravity&quot;:&quot;ne&quot;,&quot;trigger&quot;:&quot;hover&quot;,&quot;tooltip_type&quot;:&quot;tipsy-button-dropdown force-arrow&quot;,&quot;showCallback&quot;:&quot;Pg_WhatToWatch.showBlackListCallback&quot;,&quot;hideCallback&quot;:&quot;Pg_WhatToWatch.hideBlacklistCallback&quot;}" data-video-id="338350618" data-video="x5lg10a"></button><div class="hidden" id="tipsy-blacklist-338350618"><ul class="wtw-item-blacklist-menu" data-video-id="338350618"><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=v-338350618?">Hide this</span></li><li class="wtw-tipsy-link"><span class="js-ajaxlink alt-link" data-css-class="alt-link" data-action="popup" data-target="" data-action-options="{&quot;popupAdditionalClass&quot;:&quot;signin_popup&quot;,&quot;noFooter&quot;:true}" data-href="/pageitem/authenticationContainer?urlback=/?bl=u-madetelevision?">Hide all activity from madetelevision</span></li></ul></div></div><div class="sd_video_preview media-img span-4 mrg-end-lg" data-id="x5lg10a" data-playable="x5lg10a" data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="id_x5lg10a preview_link js-track " href="/video/x5lg10a_drop-the-puck-season-3-episode-33_sport" data-context="/ca-en?source_value=featured"  data-xid="x5lg10a"><div class="badge badge--duration">
+                44:15
+    </div><img class="preview" alt="Drop The Puck - Season 3, Episode 33" title="Drop The Puck - Season 3, Episode 33"         src="http://s2.dmcdn.net/jQCTL/300x169-VX_.jpg"    /><div data-spr=http://s1.dmcdn.net/jQF6n/320x-9fg.jpg class="psprite pmode8"></div><span class="wl_chkbx js-wl_chkbx js-tipsy js-tipsy-ballon " title="Add to watch later" ><span class="watch_later icon-time font-lg"></span><div class="clear"></div></span><div class="play"></div></a></div><div class="media-block"><h2 data-event-debug="{&quot;event&quot;:&quot;wtw_video_click&quot;,&quot;ga&quot;:{&quot;label&quot;:&quot;featured&quot;}}"><a class="link" href="http://www.dailymotion.com/video/x5lg10a_drop-the-puck-season-3-episode-33_sport" data-context="/ca-en?source_value=featured" title="Drop The Puck - Season 3, Episode 33">Drop The Puck - Season 3, Episode 33</a></h2><div class="info"><span class="ellipsis">by                 <a class="link-on-hvr author js-channel-tip" data-user-uri="/madetelevision" href="/madetelevision">madetelevision</a></span></div><div class="reason js-reason font-xs" id="what-to-watch_24_reason"><span class="staff-pick" data-source="staff-pick">Staff picks</span><a class="link-on-hvr" href="/ca-en/channel/sport">Sports</a></div></div></div><div class="load-more load-more--wtw"><button class="btn btn-load"><span>More</span><i class="icon-loading"></i></button></div></div></div><div class="col-4 sidebar pdg-end-lg"><div class="hidden-sm hidden-md mrg-top-lg mrg-btm-lg"><div class="ad-tag     " data-ad-name="half_page_HP" data-ad-size="300x600"></div><script>
+        if (typeof window.IsDisplayAllowed !== 'undefined' && window.IsDisplayAllowed)
+        {
+            DM_ResourcePlanner.add('ad', function() {
+                if ($('.sortable_Right').length > 0) {
+                    $('body').addClass('has-skyscraper');
+                }
+                $('#top_banner').css('width', 'auto');
+                (deployads = window.deployads || []).push({});
+            });
+        }
+        </script></div><article class="mrg-btm-lg js-recommendedusers" style="display: none;"><div class="page-subtitle"><a href="/ca-en/users/no-explicit/list/recommended/1">Who to follow</a></div><div id="recommendedusers_ph"></div><a class="link-on-hvr more-link" href="/ca-en/users/no-explicit/list/recommended/1">
+                All channels
+            </a></article><article class="mrg-btm-lg trending_videos"><div class="page-subtitle"><a href="/ca-en/trending/1">Most popular</a></div><div itemprop="associatedMedia" itemscope itemtype="http://schema.org/MediaObject" class="sd_video_itemrelated js-video-itemrelated media mrg-btm-lg col-sm-3 col-lg-12 col-4" data-position="" data-video-id="338322670"><a
+                data-context="/ca-en"
+        data-algorithm=""
+        title="Boomer and Carton: Matt Harvey suspended"
+        itemprop="url"
+        href="/video/x5lfffy_boomer-and-carton-matt-harvey-suspended_sport"
+        class="id_338322670 video_title row"
+        
+    ><div class="media-img col-sm-12 col-lg-6 col-2"><div class="sd_video_preview sd_video_preview--sm" data-id="x5lfffy" data-playable="x5lfffy"><span class="id_x5lfffy preview_link js-track " data-context="/ca-en"  data-xid="x5lfffy"><div class="badge badge--duration">
+                03:42
+    </div><img class="preview" alt="Boomer and Carton: Matt Harvey suspended" title="Boomer and Carton: Matt Harvey suspended"         data-lg="trending_videos" data-src="http://s2.dmcdn.net/jP0r8/x240-F_r.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="    /><div data-spr=http://static2.dmcdn.net/static/video/076/223/338322670:jpeg_preview_sprite.jpg?20170509055608 class="psprite pmode8"></div><span class="wl_chkbx js-wl_chkbx js-tipsy js-tipsy-ballon " title="Add to watch later" ><span class="watch_later icon-time font-lg"></span><div class="clear"></div></span><div class="play"></div></span></div></div><div class="media-block col-sm-12 col-lg-6 col-2"><div class="sd_video_itemrelated--title" itemprop="name">Boomer and Carton: Matt Harvey suspended </div><span class="foreground2 video_owner font-sm hidden-sm hidden-md"  title="CBS Sports">
+                                by <span class="foreground no_advertising js-channel-tip" data-user-uri="/cbssports" data-owner-url="/cbssports">CBS Sports</span></span></div></a></div><div itemprop="associatedMedia" itemscope itemtype="http://schema.org/MediaObject" class="sd_video_itemrelated js-video-itemrelated media mrg-btm-lg col-sm-3 col-lg-12 col-4" data-position="" data-video-id="337410754"><a
+                data-context="/ca-en"
+        data-algorithm=""
+        title="EXCLUSIVE: Ariel Winter Is Praised for Her Body Confidence by Co-Stars Sofia Vergara &amp; Julie Bowen"
+        itemprop="url"
+        href="/video/x5kvvsy_exclusive-ariel-winter-is-praised-for-her-body-confidence-by-co-stars-sofia-vergara-julie-bowen_tv"
+        class="id_337410754 video_title row"
+        
+    ><div class="media-img col-sm-12 col-lg-6 col-2"><div class="sd_video_preview sd_video_preview--sm" data-id="x5kvvsy" data-playable="x5kvvsy"><span class="id_x5kvvsy preview_link js-track " data-context="/ca-en"  data-xid="x5kvvsy"><div class="badge badge--duration">
+                01:55
+    </div><img class="preview" alt="EXCLUSIVE: Ariel Winter Is Praised for Her Body Confidence by Co-Stars Sofia Vergara &amp; Julie Bowen" title="EXCLUSIVE: Ariel Winter Is Praised for Her Body Confidence by Co-Stars Sofia Vergara &amp; Julie Bowen"         data-lg="trending_videos" data-src="http://s2.dmcdn.net/jIX6R/x240-Hve.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="    /><div data-spr=http://static2.dmcdn.net/static/video/457/014/337410754:jpeg_preview_sprite.jpg?20170509150605 class="psprite pmode8"></div><span class="wl_chkbx js-wl_chkbx js-tipsy js-tipsy-ballon " title="Add to watch later" ><span class="watch_later icon-time font-lg"></span><div class="clear"></div></span><div class="play"></div></span></div></div><div class="media-block col-sm-12 col-lg-6 col-2"><div class="sd_video_itemrelated--title" itemprop="name">EXCLUSIVE: Ariel Winter Is Praised for Her Body Confidence by Co-Stars Sofia Vergara &amp; Julie Bowen </div><span class="foreground2 video_owner font-sm hidden-sm hidden-md"  title="Entertainment Tonight">
+                                by <span class="foreground no_advertising js-channel-tip" data-user-uri="/EntertainmentTonight" data-owner-url="/EntertainmentTonight">Entertainment Tonight</span></span></div></a></div><div itemprop="associatedMedia" itemscope itemtype="http://schema.org/MediaObject" class="sd_video_itemrelated js-video-itemrelated media mrg-btm-lg col-sm-3 col-lg-12 col-4" data-position="" data-video-id="337116647"><a
+                data-context="/ca-en"
+        data-algorithm=""
+        title="Brad Pitt Reveals He&#039;d Been Drinking Too Much &#039;Running&#039; From His Feelings"
+        itemprop="url"
+        href="/video/x5kpkvb_brad-pitt-reveals-he-d-been-drinking-too-much-running-from-his-feelings_tv"
+        class="id_337116647 video_title row"
+        
+    ><div class="media-img col-sm-12 col-lg-6 col-2"><div class="sd_video_preview sd_video_preview--sm" data-id="x5kpkvb" data-playable="x5kpkvb"><span class="id_x5kpkvb preview_link js-track " data-context="/ca-en"  data-xid="x5kpkvb"><div class="badge badge--duration">
+                01:49
+    </div><img class="preview" alt="Brad Pitt Reveals He&#039;d Been Drinking Too Much &#039;Running&#039; From His Feelings" title="Brad Pitt Reveals He&#039;d Been Drinking Too Much &#039;Running&#039; From His Feelings"         data-lg="trending_videos" data-src="http://s1.dmcdn.net/jGLE_/x240-YQL.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="    /><div data-spr=http://static2.dmcdn.net/static/video/746/611/337116647:jpeg_preview_sprite.jpg?20170509150605 class="psprite pmode8"></div><span class="wl_chkbx js-wl_chkbx js-tipsy js-tipsy-ballon " title="Add to watch later" ><span class="watch_later icon-time font-lg"></span><div class="clear"></div></span><div class="play"></div></span></div></div><div class="media-block col-sm-12 col-lg-6 col-2"><div class="sd_video_itemrelated--title" itemprop="name">Brad Pitt Reveals He&#039;d Been Drinking Too Much &#039;Running&#039; From His Feelings </div><span class="foreground2 video_owner font-sm hidden-sm hidden-md"  title="Entertainment Tonight">
+                                by <span class="foreground no_advertising js-channel-tip" data-user-uri="/EntertainmentTonight" data-owner-url="/EntertainmentTonight">Entertainment Tonight</span></span></div></a></div><div itemprop="associatedMedia" itemscope itemtype="http://schema.org/MediaObject" class="sd_video_itemrelated js-video-itemrelated media mrg-btm-lg col-sm-3 col-lg-12 col-4" data-position="" data-video-id="338312565"><a
+                data-context="/ca-en"
+        data-algorithm=""
+        title="‘He’s threatening a witness’: CNN legal analyst slams Trump’s ‘disturbing’ Sally Yates tweets"
+        itemprop="url"
+        href="/video/x5lf7n9_he-s-threatening-a-witness-cnn-legal-analyst-slams-trump-s-disturbing-sally-yates-tweets_news"
+        class="id_338312565 video_title row"
+        
+    ><div class="media-img col-sm-12 col-lg-6 col-2"><div class="sd_video_preview sd_video_preview--sm" data-id="x5lf7n9" data-playable="x5lf7n9"><span class="id_x5lf7n9 preview_link js-track " data-context="/ca-en"  data-xid="x5lf7n9"><div class="badge badge--duration">
+                08:54
+    </div><img class="preview" alt="‘He’s threatening a witness’: CNN legal analyst slams Trump’s ‘disturbing’ Sally Yates tweets" title="‘He’s threatening a witness’: CNN legal analyst slams Trump’s ‘disturbing’ Sally Yates tweets"         data-lg="trending_videos" data-src="http://s1.dmcdn.net/jPwgU/x240-iOU.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="    /><div data-spr=http://static2.dmcdn.net/static/video/565/213/338312565:jpeg_preview_sprite.jpg?20170508153607 class="psprite pmode8"></div><span class="wl_chkbx js-wl_chkbx js-tipsy js-tipsy-ballon " title="Add to watch later" ><span class="watch_later icon-time font-lg"></span><div class="clear"></div></span><div class="play"></div></span></div></div><div class="media-block col-sm-12 col-lg-6 col-2"><div class="sd_video_itemrelated--title" itemprop="name">‘He’s threatening a witness’: CNN legal analyst slams Trump’s ‘disturbing’ Sally Yates tweets </div><span class="foreground2 video_owner font-sm hidden-sm hidden-md"  title="SarahBurris">
+                                by <span class="foreground no_advertising js-channel-tip" data-user-uri="/sarahburris" data-owner-url="/sarahburris">SarahBurris</span></span></div></a></div><div itemprop="associatedMedia" itemscope itemtype="http://schema.org/MediaObject" class="sd_video_itemrelated js-video-itemrelated media mrg-btm-lg col-sm-3 col-lg-12 col-4" data-position="" data-video-id="338355357"><a
+                data-context="/ca-en"
+        data-algorithm=""
+        title="Live with Dr.Shahid Masood | 8-May-2017 | PM Nawaz | COAS | Dawn Leaks | Ghulam Mustafa"
+        itemprop="url"
+        href="/video/x5lg4nx_live-with-dr-shahid-masood-8-may-2017-pm-nawaz-coas-dawn-leaks-ghulam-mustafa_news"
+        class="id_338355357 video_title row"
+        
+    ><div class="media-img col-sm-12 col-lg-6 col-2"><div class="sd_video_preview sd_video_preview--sm" data-id="x5lg4nx" data-playable="x5lg4nx"><span class="id_x5lg4nx preview_link js-track " data-context="/ca-en"  data-xid="x5lg4nx"><div class="badge badge--duration">
+                35:03
+    </div><img class="preview" alt="Live with Dr.Shahid Masood | 8-May-2017 | PM Nawaz | COAS | Dawn Leaks | Ghulam Mustafa" title="Live with Dr.Shahid Masood | 8-May-2017 | PM Nawaz | COAS | Dawn Leaks | Ghulam Mustafa"         data-lg="trending_videos" data-src="http://s2.dmcdn.net/jQJoJ/x240-zin.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="    /><div data-spr=http://static2.dmcdn.net/static/video/753/553/338355357:jpeg_preview_sprite.jpg?20170508184530 class="psprite pmode8"></div><span class="wl_chkbx js-wl_chkbx js-tipsy js-tipsy-ballon " title="Add to watch later" ><span class="watch_later icon-time font-lg"></span><div class="clear"></div></span><div class="play"></div></span></div></div><div class="media-block col-sm-12 col-lg-6 col-2"><div class="sd_video_itemrelated--title" itemprop="name">Live with Dr.Shahid Masood | 8-May-2017 | PM Nawaz | COAS | Dawn Leaks | Ghulam Mustafa </div><span class="foreground2 video_owner font-sm hidden-sm hidden-md"  title="newsonepk">
+                                by <span class="foreground no_advertising js-channel-tip" data-user-uri="/newsonepk" data-owner-url="/newsonepk">newsonepk</span></span></div></a></div></article><div class="ad-tag     " data-ad-name="halfpage_HP_2" data-ad-size="300x600"></div><script>
+        if (typeof window.IsDisplayAllowed !== 'undefined' && window.IsDisplayAllowed)
+        {
+            DM_ResourcePlanner.add('ad', function() {
+                if ($('.sortable_Right').length > 0) {
+                    $('body').addClass('has-skyscraper');
+                }
+                $('#top_banner').css('width', 'auto');
+                (deployads = window.deployads || []).push({});
+            });
+        }
+        </script></div><div id="mc_x70" class="mc mc_hide "></div></div></div><div id="bottom_banner"></div></div>                                            </div>
+
+                        
+
+
+<div class="back-to-top">
+    <i class="icon-arrow_up"></i>
+</div>
+
+<div class="sd_footer">
+    <div class="sd_footer__wrapper">
+        <div class="row">
+                                        <ul class="col-2 col-sm-2">
+                    <li class="ellipsis">Dailymotion</li>
+                                            <li class="ellipsis">
+                                                                                                                <a href="/ca-en/about" title="About">About</a>
+                                                                            </li>
+                                            <li class="ellipsis">
+                                                                                                                <a href="http://press.dailymotion.com" title="Press">Press</a>
+                                                                            </li>
+                                            <li class="ellipsis">
+                                                                                                                <a href="http://jobs.dailymotion.com/en/home" title="Jobs">Jobs</a>
+                                                                            </li>
+                                            <li class="ellipsis">
+                                                                                                                <a href="http://blog.dailymotion.com/en" title="Blog">Blog</a>
+                                                                            </li>
+                                            <li class="ellipsis">
+                                                                                                                <a href="/archived/index.html" title="All videos">All videos</a>
+                                                                            </li>
+                                    </ul>
+                            <ul class="col-2 col-sm-2">
+                    <li class="ellipsis">Participate</li>
+                                            <li class="ellipsis">
+                                                                                                                <a href="http://advertising.dailymotion.com/" target="_blank" title="Advertise">Advertise</a>
+                                                                            </li>
+                                            <li class="ellipsis">
+                                                                                                                <a href="/monetization" title="Monetize">Monetize</a>
+                                                                            </li>
+                                    </ul>
+                            <ul class="col-2 col-sm-2">
+                    <li class="ellipsis">Help</li>
+                                            <li >
+                                                                                                                                                                            <a href="#" class="js-family-filter-toggle" title="Age Gate  ON">Age Gate  <span>ON</span></a>
+                                                                            </li>
+                                            <li class="ellipsis">
+                                                                                                                <a href="https://faq.dailymotion.com/hc/en-us" title="Help Center">Help Center</a>
+                                                                            </li>
+                                            <li class="ellipsis">
+                                                                                                                <a href="https://faq.dailymotion.com/hc/en-us/requests/new?" title="Contact">Contact</a>
+                                                                            </li>
+                                    </ul>
+                            <ul class="col-2 col-sm-2">
+                    <li class="ellipsis">Legal</li>
+                                            <li class="ellipsis">
+                                                                                                                <a href="/legal/terms" title="Terms of use">Terms of use</a>
+                                                                            </li>
+                                            <li class="ellipsis">
+                                                                                                                <a href="/legal/privacy" title="Privacy policy">Privacy policy</a>
+                                                                            </li>
+                                            <li class="ellipsis">
+                                                                                                                <a href="/legal/prohibited" title="Prohibited content">Prohibited content</a>
+                                                                            </li>
+                                            <li class="ellipsis">
+                                                                                                                <a href="/legal/copyright" title="Copyright notification">Copyright notification</a>
+                                                                            </li>
+                                            <li class="ellipsis">
+                                                                                                                <a href="/legal/childprotection" title="Child protection">Child protection</a>
+                                                                            </li>
+                                    </ul>
+                            <ul class="col-2 col-sm-2">
+                    <li class="ellipsis">Extras</li>
+                                            <li class="ellipsis">
+                                                                                                                <a href="http://games.dailymotion.com" title="Dailymotion Games">Dailymotion Games</a>
+                                                                            </li>
+                                            <li class="ellipsis">
+                                                                                                                <a href="/ca-en/everywhere" title="Dailymotion Everywhere">Dailymotion Everywhere</a>
+                                                                            </li>
+                                            <li class="ellipsis">
+                                                                                                                <a href="/stream" title="Dailymotion Stream">Dailymotion Stream</a>
+                                                                            </li>
+                                            <li class="ellipsis">
+                                                                                                                <a href="/ca-en/extras/jukebox" title="Jukebox">Jukebox</a>
+                                                                            </li>
+                                            <li class="ellipsis">
+                                                                                                                <a href="/ca-en/extras" title="more …">more …</a>
+                                                                            </li>
+                                    </ul>
+                            <ul class="col-2 col-sm-2">
+                    <li class="ellipsis">Developers</li>
+                                            <li class="ellipsis">
+                                                                                                                <a href="http://developer.dailymotion.com" title="Developer Area">Developer Area</a>
+                                                                            </li>
+                                            <li class="ellipsis">
+                                                                                                                <a href="http://developer.dailymotion.com/api" title="Data API">Data API</a>
+                                                                            </li>
+                                            <li class="ellipsis">
+                                                                                                                <a href="http://developer.dailymotion.com/player" title="Player API">Player API</a>
+                                                                            </li>
+                                    </ul>
+            
+                        <div class="sd_footer__flags hidden"></div>
+
+        </div>
+
+        <div class="sd_footer__bottom">
+            <div class="sd_footer__credits">
+                <span>© 2005 - 2017 Dailymotion</span>
+                    
+        
+        
+    
+    
+    
+    
+                                        
+    
+    
+    <span class="js-ajaxlink dmco_flag dmco_flag_ca language_en" data-css-class="dmco_flag dmco_flag_ca language_en" data-action="toggleOrUpdate" data-target=".sd_footer__flags" data-action-options="null" data-href="/controller/Shared_Footer_LocaleSelector?" title="Change your language" id="selected_locale"><span>Country:</span><span class="current_flag flag_ca"></span><span>canada<span class="icon-arrow_down"></span></span></span>
+
+            </div>
+            <div class="sd_footer__follow_us">
+                <a class="icon-instagram" href="http://www.instagram.com/dailymotion" target="_blank" title="Instagram Dailymotion">
+                <a class="icon-facebook" href="http://www.facebook.com/dailymotion" target="_blank" title="Facebook Dailymotion"></a>
+                <a class="icon-twitter" href="http://www.twitter.com/DailymotionCA" target="_blank" title="Twitter Dailymotion"></a>
+                <a class="icon-rss" href="/rss/ca" target="_blank" title="RSS Dailymotion"></a>
+                <div>Follow us</div>
+            </div>
+        </div>
+    </div>
+</div>
+            
+                    <script type="text/javascript">
+            PubSub.subscribe('dm:related:algo', function(algo)
+            {
+                window.liftigniterData = {
+                    relatedAlgorithm: algo
+                }
+            });
+            DM_ResourcePlanner.add(
+                'stat',
+                function()
+                {
+                    if (!window.liftigniterData) {
+                        setTimeout(arguments.callee, 2000)
+                        return;
+                    }
+                    (function(w,d,s,p,v,e,r) {w['$igniter_var']=v;w[v]=w[v]||function(){(w[v].q=w[v].q||[]).push(
+                    arguments)};w[v].l=1*new Date();e=d.createElement(s),r=d.getElementsByTagName(s)[0];e.async=1;
+                    e.src=p+'?ts='+(+new Date()/3600000|0);
+                    r.parentNode.insertBefore(e,r)})(window,document,'script','//cdn.petametrics.com/ih1aak4h3agrsu97.js','$p');
+                    $p("init", "ih1aak4h3agrsu97");
+                    $p("send", "pageview");
+                }
+            );
+        </script>
+    
+    
+            <script type="text/javascript">
+            DM_ResourcePlanner.add(
+                'taboola',
+                function()
+                {
+                    window._taboola = window._taboola || [];
+                    _taboola.push({flush: true});
+                }
+            );
+        </script>
+    
+
+        <script type="text/javascript">
+        dm_times.script_bottom = (new Date()).getTime();
+    </script>
+
+    <script type="text/javascript">DM_ENV._add("DM_Utils", {"DM_CloseLabel":"close","DM_NoLabel":"No","DM_YesLabel":"Yes","DM_Closex28Label":"Skip Ad","DM_PaidLabel":"paid","nowPlayingLabel":"now playing","Select2_OneMatches":"One result is available, press enter to select it","Select2_Matches":"results are available, use up and down arrow keys to navigate","Select2_NoMatches":"No matches found","Select2_InputTooShort":"Minimal number of characters is:","Select2_InputTooLong":"Maximal number of characters is:","Select2_SelectionTooBig":"You can only select","Select2_Items":"items","Select2_LoadMore":"Loading more results...","Select2_Searching":"Searching..."});</script>
+    <script type="text/javascript">
+            
+        
+    
+
+    
+
+        
+
+    
+    
+    
+
+    
+                
+                            DM_ENV._add('Pg_WhatToWatch', {"currentChannel":null});
+                            DM_ENV._add('DM_Widget_Page', {"authenticationLink":"\/pageitem\/authenticationContainer"});
+                            DM_ENV._add('DM_SocialAuth', {"isAuthenticated":false});
+                            DM_ENV._add('DM_Facebook', {"appId":"96937694899","graphVersion":"v2.6","isFacebookMapped":false});
+                            DM_ENV._add('DM_GooglePlus', {"_CLIENT_ID":"1095600231293-ih62cdtmregosipj9cbasor4tpb632mr.apps.googleusercontent.com","_API_KEY":"AIzaSyB9ONkKacqhJtSwlnSAf_5UySR5TOOeEp0"});
+                            DM_ENV._add('DM_HapYak', {"cssPath":"http:\/\/static1.dmcdn.net\/css\/gen\/views\/shared\/video\/annotations.ltr.css.v3314b624a986040c2","siteVersion":"ca-en","baseUrl":"\/\/hapyak.dmcdn.net","readerId":""});
+                            DM_ENV._add('DM_TourLoader', {"readerEndedWelcomeTour":null});
+                            DM_ENV._add('DM_ResourcePlanner', {"delayResources":true});
+                    
+
+    </script>
+
+    
+            <script type="text/javascript"> window.adpositions = ["Top","Middle","Skin","InterstitialOPP"];  </script>
+    <script type="text/javascript" src="http://static1.dmcdn.net/js/build/common.d8a7de82e5a94b52e676.js"></script>
+    <script type="text/javascript">
+                        function unblockWrapper()
+                        {
+                            var unblock_script=document.createElement("script");
+                            var unblock_url=location.protocol+"//d3avqv6zaxegeu.cloudfront.net/dm.js";
+                            unblock_script.type="text/javascript";
+                            unblock_script.src=unblock_url;
+                            unblock_script.id = "unblock_script";
+                            unblock_script.async=true;
+                            unblock_script.setAttribute("data-client-id", "eRxwwCNdNHCDqGg");
+
+                            if (document.getElementById("unblock_script"))
+                            {
+                                document.getElementsByTagName("head")[0].appendChild(unblock_script);
+                            }
+                            else if(document.getElementsByTagName("head").length>0)
+                            {
+                                document.getElementsByTagName("head")[0].appendChild(unblock_script);
+                            }
+                            else if(document.getElementsByTagName("body").length>0)
+                            {
+                                document.getElementsByTagName("body")[0].appendChild(unblock_script);
+                            }
+                        }
+
+                        DM_ResourcePlanner.add(
+                            "ad-unblock-plugin",
+                            function() {
+                                unblockWrapper();
+                            }
+                        );
+                    </script>
+
+    <script type="text/javascript" src="http://static1.dmcdn.net/js/build/what-to-watch.3b469c804a36ac2d1d2b.js"></script>
+
+        
+        
+<div id="fb-root">
+    <script type="text/javascript">
+    // Load the SDK asynchronously
+    (function(d, s, id){
+        if (window.facebook_enabled)
+        {
+            DM_ResourcePlanner.add(
+                'social',
+                function() {
+                    var js, fjs = d.getElementsByTagName(s)[0];
+                    if (d.getElementById(id)) {return;}
+                    js = d.createElement(s); js.id = id;
+                    js.src = "//connect.facebook.net/en_US/sdk.js";
+                    fjs.parentNode.insertBefore(js, fjs);
+                }
+            );
+       }
+   }(document, 'script', 'facebook-jssdk'));
+    </script>
+</div>
+    <div class="sd_gplusasyncloader">
+    <script type="text/javascript">
+    (function () {
+        DM_ResourcePlanner.add(
+            'social',
+            function() {
+                var po = document.createElement('script');
+                po.type = 'text/javascript';
+                po.async = true;
+                po.src = 'https://plus.google.com/js/client:plusone.js?onload=ggAsynInit';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(po, s);
+        });
+    })();
+    </script>
+</div>
+        
+            
+<div id="external_scripts">
+    <div id="ads_container">
+    
+<!-- Sortable ad sdk  -->
+<script type="text/javascript">
+DM_ResourcePlanner.add(
+    'ad',
+    function()
+    {
+        var myscript = document.createElement('script');
+        myscript.src = '//tags-cdn.deployads.com/a/dailymotion.com.js';
+        myscript.setAttribute('async', 'true');
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(myscript, s);
+    }
+)
+</script>
+<!-- /Sortable ad sdk -->
+</div>
+    <div id="stats_container">
+
+    
+    
+                
+<script src="http://static1.dmcdn.net/js/gen/lib/dm/ga.js.v2a02ea2165b82b382" type="text/javascript" charset="utf-8"></script>
+
+<script>
+(function()
+{
+    if (typeof DM_Context !== 'undefined')
+    {
+        var canTrack = true;
+        if (DM_Context.route_name === 'jukebox_widget')
+        {
+            if (top.location.href.indexOf('/widget/jukebox?') === -1)
+            {
+                canTrack = false;
+            }
+        }
+        else if (DM_Context.route_name === 'user_widget')
+        {
+            canTrack = false;
+        }
+
+        if (canTrack)
+        {
+            ga('send', DM_Context.ga.data);
+        }
+    }
+})()
+</script>
+            
+            
+<!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "4000005" });
+DM_ResourcePlanner.add(
+  'stat',
+  function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  }
+)
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=4000005&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+            
+                            
+        
+
+
+        
+    
+
+        
+        
+
+        
+
+
+</div>
+    <div id="dmp_container">
+        <!-- Source: /controltag?confid=IfwB8IQs&site=Dailymotion%20UK&edit=1 -->
+<script class="kxct" data-id="IfwB8IQs" data-timing="async" data-version="1.9" type="text/javascript">
+window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+
+DM_ResourcePlanner.add('ad-plugin', function()
+{
+    var k = document.createElement('script');
+        k.type='text/javascript';
+        k.async=true;
+
+    var m,
+        src = (m = location.href.match(/\bkxsrc=([^&]+)/)) && decodeURIComponent(m[1]);
+
+    k.src = /^https?:\/\/([^\/]+\.)?krxd\.net(:\d{1,5})?\//i.test(src)
+        ? src
+        : src === "disable"
+            ? ""
+            : (location.protocol === "https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=IfwB8IQs";
+
+    var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(k,s);
+
+    function retrieve(n)
+    {
+        var m, k='kx'+n;
+
+        if (window.localStorage) {
+            return window.localStorage[k] || "";
+        } else if (navigator.cookieEnabled) {
+            m = document.cookie.match(k+'=([^;]*)');
+            return (m && unescape(m[1])) || "";
+        } else {
+            return '';
+        }
+    }
+
+    Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+    setCookie('krux_segments', Krux.segments);
+});
+
+</script>
+<!-- END Krux Controltag -->
+</div>
+</div>
+    
+            
+    
+        <script type="text/javascript">window.bottomBOOMR && bottomBOOMR();</script>
+
+    
+    <!-- twig -->
+</body>
+</html>

@@ -1,0 +1,772 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[5052,2,1] published at 2017-05-09 21:02:02 from #110 by system-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>北美微博广场</title>
+
+<link href="/css/style_c.css" type="text/css" rel="stylesheet" />
+
+<link href="/css/colorbox.css" type="text/css" rel="stylesheet" />
+<link href="/css/wb_us_add.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="/js/jquery.masonry.min.js"></script>
+<script type="text/javascript" src="/js/jquery.infinitescroll.js"></script>
+<script type="text/javascript" src="/js/jquery.scrollTo.js"></script>
+<script type="text/javascript" src="/js/jquery.lazyload.js"></script>
+<script type="text/javascript" src="/js/jquery.colorbox.min.js"></script>
+<script type="text/javascript" src="/js/doT.min.js"></script>
+
+<script type="text/javascript" src="http://i.sso.sina.com.cn/js/ssologin.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/widgets.css"/>
+<script type="text/javascript" src="http://news.sina.com.cn/js/87/20110714/205/sinalib.js"></script>
+<script type="text/javascript" src="/js/widgets.js"></script>
+
+<style type="text/css">
+
+#sponsorAdDiv {position: absolute;left: 0px;top: 0px;z-index: 3;overflow: auto;}
+
+.wbListModule .wb_focus{float:left;border:none;margin:0;padding:0 2px 0 0;width:161px;}
+.newsModule ul{width:351px;border:none}
+.wb_focus_b{padding-top:5px;*padding-top:2px;_padding-top:4px;font-size:12px;line-height:16px;color:#a2a1a1;word-wrap:break-word;}
+.wb_focus .info{margin:3px 0 0 118px;_margin-top:15px;color:#787777;word-wrap:break-word;}
+
+</style>
+
+<!-- Active Run JS -->
+<script type="text/javascript">AC_FL_RunContent = 0;</script>
+<script type="text/javascript" src="http://ui.sina.com/assets/js/AC_RunActiveContent.js"></script>
+<!-- END . Active Run JS -->
+
+</head>
+<body>
+<div class="topBar">
+    <div class="topBarInner clearfix">
+        <div class="topBarLeft l">
+            <a href="http://home.sina.com/" title="北美新浪"><i class="icon usaIcon"></i>北美新浪</a><a href="http://help.weibo.com/?refer=didao" title="微博帮手" target="_blank"><i class="icon wbIcon"></i>微博帮手</a><span><i class="icon loginIcon"></i>登录即可访问微博主站</span>
+        </div>
+        <div class="topBarRight r">
+        	<a href="http://us.weibo.com/app/fbconnect" title="通知facebook好友" target="_blank"><i class="icon fbIcon"></i>通知facebook好友</a><!--<a href="#" class="icon btn openBtn" title="开通微博">开通微博</a><a href="#" class="icon btn loginBtn" title="登入微博">登入微博</a>-->
+            <!--已登录 start-->
+            <div class="l login_even">
+
+            </div>
+            <!--已登录 end-->
+        </div>
+    </div>
+</div>
+
+<div class="topAd"><div style="height:90px;"><script type="text/javascript" src="http://dailynews.sina.com/bg/ads/weibo/728_90/15.js"></script></div></div>
+
+<div class="header clearfix">
+	<div class="logo l"><a href="http://weibo.com/" title="新浪微博"><img src="http://ui.sina.com/pub/weibo/0522/sina_logo.png" alt="新浪微博"></a></div>
+    <div class="mainMenu r">
+    	<a href="http://home.sina.com/" title="北美首页"><span>北美首页</span></a>
+    	<a href="http://dailynews.sina.com/gb/" title="新闻"><span>新闻</span></a>
+    	<a href="http://dailynews.sina.com/gb/news/daily.html" title="滚动"><span>滚动</span></a>
+    	<a href="http://chinanews.sina.com/gb/" title="大陆"><span>大陆</span></a>
+    	<a href="http://dailynews.sina.com/gb/tw/" title="台湾"><span>台湾</span></a>
+    	<a href="http://dailynews.sina.com/gb/usa/" title="美国"><span>美国</span></a>
+    	<a href="http://dailynews.sina.com/gb/sports/" title="体育"><span>体育</span></a>
+    	<a href="http://finance.sina.com/gb/" title="财经"><span>财经</span></a>
+    	<a href="http://us.weibo.com/" title="微博" class="current"><span>微博</span></a>
+    	<a href="http://ent.sina.com/gb/" title="娱乐"><span>娱乐</span></a>
+    	<a href="http://dailynews.sina.com/gb/picture/" title="图片"><span>图片</span></a>
+    	<a href="http://dailynews.sina.com/gb/bbs/" title="论坛"><span>论坛</span></a>
+    	<a href="http://immigration.sina.com/gb/" title="移民"><span>移民</span></a>
+        <a href="http://us.weibo.com/travel/" title="旅游"><span>旅游</span></a>
+    	<a href="http://magazine.sina.com/gb/" title="杂志"><span>杂志</span></a>
+    	<a href="http://books.sina.com/gb/" title="书味"><span>书味</span></a>
+    	<a href="http://blogus.sina.com/gb/" title="博客"><span>博客</span></a>
+    	<a href="http://food.sina.com/gb/" title="美食"><span>美食</span></a>
+    </div>
+</div>
+<div class="secondMenu">
+    <div class="secondMenuInner clearfix">
+        <div class="secondMenuList">
+            <a href="http://us.weibo.com/" title="微博广场" class="current">微博广场</a>
+            <a href="http://us.weibo.com/view" title="瀑布流版">瀑布流版</a>
+            <a href="http://us.weibo.com/information" title="广场速报">广场速报</a>
+            <a href="http://weibous.sina.com/gb/selective/index.html" title="每日精选">每日精选</a>
+            <a href="http://topic.t.sina.com.cn/dailynews/sinausweibo_ent/index.shtml" title="娱乐">娱乐</a>
+        </div>
+        <div class="links r"><script type="text/javascript" src="http://dailynews.sina.com/gb/ads/weibo/text/23.js"></script></div>
+    </div>
+</div>
+
+<div class="main">
+	<div class="blk1">
+    	<div class="blk1Top"></div>
+        <div class="blkCenter">
+        	<div class="blk1Content clearfix">
+            	<div class="blk1ContentLeft l">
+                	<div class="moduleTR suggestModule">
+                    	<div class="moduleTL">
+                        	<div class="moduleBR">
+                            	<div class="moduleBL">
+                                    <h2>猜你喜欢</h2>
+                                    <ul class="moduleCon">
+                                    		<li class="clearfix">
+	    <div class="face"><a href="http://weibo.com/timcook" target="_blank" title="TimCook的新浪微博" target="_blank"><img src="http://tva4.sinaimg.cn/crop.392.289.982.982.50/0061Rd1Cjw8es09dezhj1j31d41aohc7.jpg" width="62" height="62" alt="TimCook的新浪微博"></a></div>
+	    <div class="info"><p><a href="http://weibo.com/timcook" target="_blank">TimCook</a></p><p><a href="http://weibo.com/timcook" class="arial" target="_blank">粉丝数(907895)</a></p></div>
+		</li>
+		<li class="clearfix">
+	    <div class="face"><a href="http://weibo.com/yamibuy" target="_blank" title="美国亚米网的新浪微博" target="_blank"><img src="http://tva1.sinaimg.cn/crop.0.0.180.180.50/b7fc1b1fjw8f8sdpx6f2zj2050050wef.jpg" width="62" height="62" alt="美国亚米网的新浪微博"></a></div>
+	    <div class="info"><p><a href="http://weibo.com/yamibuy" target="_blank">美国亚米网</a></p><p><a href="http://weibo.com/yamibuy" class="arial" target="_blank">粉丝数(43684)</a></p></div>
+		</li>
+		<li class="clearfix">
+	    <div class="face"><a href="http://weibo.com/u/5994570998" target="_blank" title="北美新浪旅游的新浪微博" target="_blank"><img src="http://tva1.sinaimg.cn/crop.4.3.91.91.50/006xGBL0jw8f9rokivo9hj302s02s0sl.jpg" width="62" height="62" alt="北美新浪旅游的新浪微博"></a></div>
+	    <div class="info"><p><a href="http://weibo.com/u/5994570998" target="_blank">北美新浪旅游</a></p><p><a href="http://weibo.com/u/5994570998" class="arial" target="_blank">粉丝数(198019)</a></p></div>
+		</li>
+		<li class="clearfix">
+	    <div class="face"><a href="http://weibo.com/weilonglv" target="_blank" title="拉斯维加斯威龙东方度假村的新浪微博" target="_blank"><img src="http://tva4.sinaimg.cn/crop.231.0.1647.1647.50/006xzLX5gw1f9lbgcfbenj31kw1a20zw.jpg" width="62" height="62" alt="拉斯维加斯威龙东方度假村的新浪微博"></a></div>
+	    <div class="info"><p><a href="http://weibo.com/weilonglv" target="_blank">拉斯维加斯威龙东方度假村</a></p><p><a href="http://weibo.com/weilonglv" class="arial" target="_blank">粉丝数(1546)</a></p></div>
+		</li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="sideAd"><div style="height:250px;overflow:hidden;"><script type="text/javascript" src="http://dailynews.sina.com/bg/ads/weibo/300_250/16.js"></script></div>
+                    </div>
+
+                    <div class="wb_focus clearfix">
+                        <div class="l">
+                            <div class="face">
+                                <a target="_blank" href="http://weibo.com/sinaus" target="_blank">
+                                    <img width="102" height="102" alt="北美新浪" src="http://ui.sina.com/pub/weibo/0522/us_logo.jpg">
+                                </a>
+                            </div>
+                            <div class="btn_focus">
+                                  <a title="" href="javascript:void(0);" class="add_focus" rel="1733879143">
+                                      <em>                                         
+                                          <span class="img_bg addImg"></span><span class="text">加关注</span>
+                                      </em>
+                                  </a>
+                              </div>
+
+                            <!--div onclick="weiboFollow(1733879143, this)" class="btn_focus">
+                                <a class="add_focus" href="javascript:void(0);" title="" style="display: none;"><em><span class="img_bg"><span class="addImg"></span></span><span class="text">加关注</span></em></a>
+                                <a style="" class="add_focus" href="javascript:void(0);" title="" rel="1733879143"><em><span class="img_bg"><span class="addImg"></span></span><span class="text">已关注</span></em></a>
+                            </div-->
+                        </div>
+                        <div class="info">
+                            <a class="name" href="http://weibo.com/sinaus" target="_blank">北美新浪<img class="approve" alt="新浪个人认证 " title="新浪个人认证 " src="http://ui.sina.com/pub/weibo/0522/transparent.gif"></a>
+                            <p class="addr">海外，美国</p>
+                            <p>博客：<a class="arial" target="_blank" href="http://home.sina.com">http://home.sina.com</a><br>新闻、资讯、时尚、趣图、 笑话，还有微博上最流行的。一旦关注，别无所求。</p>
+                        </div>
+                    </div>
+                </div>
+
+            	<div class="blk1ContentRight r">
+                	<div class="blk1ContentRightT clearfix">
+                    	<div class="moduleTR infoModule l">
+                    	<div class="moduleTL">
+                        	<div class="moduleBR">
+                            	<div class="moduleBL">
+                                    <h2>资讯精选</h2>
+                                    <div class="infoCon">
+                                    	<div class="le_list" style="height:176px">
+    <div class="list_face l"><a " target="_blank" href="http://weibo.com/sinaus" title="北美新浪的新浪微博"><img width="50" height="50" alt="北美新浪的新浪微博" src="http://tva2.sinaimg.cn/crop.0.0.180.180.50/6758e567jw1e8qgp5bmzyj2050050aa8.jpg"></a></div>
+    <div class="le_c">
+        <p class="content"><a title="北美新浪的新浪微博" class="blue arial" target="_blank" href="http://weibo.com/sinaus">北美新浪</a>：#美国生活#【65岁以上美国人仍工作 比例创新高】根据美国政府公布的数据，4月份，在65岁以上的美国人中，有19%仍在工作，这是自1962年以来最高点。　　这项数字在1985年曾降到10%的谷底，但自此之后即不断攀升，成为长期的趋势。4月份统计数字，创55年来新高。　　由于美国人口越来越老化，且预期寿 ​</p>
+        <p class="link"><a href="http://weibo.com/1733879143/F2hKRxekc" class="arial" target="_blank">http://weibo.com/1733879143/F2hKRxekc</a></p>
+        <p class="info">
+            <span class="r">
+                <a target="_blank" href="http://weibo.com/1733879143/F2hKRxekc?type=repost">转发<em class="arial">(8)</em></a>
+                <i class="w_vline">|</i>
+                <a target="_blank" href="http://weibo.com/1733879143/F2hKRxekc">收藏</a>
+                <i class="w_vline">|</i>
+                <a target="_blank" href="http://weibo.com/1733879143/F2hKRxekc">评论<em class="arial">(7)</em></a>
+            </span>
+        </p>
+    </div>
+	</div>
+	<div class="le_list" style="height:176px">
+    <div class="list_face l"><a " target="_blank" href="http://weibo.com/chinataiwan" title="中国台湾网的新浪微博"><img width="50" height="50" alt="中国台湾网的新浪微博" src="http://tva2.sinaimg.cn/crop.0.0.188.188.50/65e1a554jw1ev74bagwzij2059059aa1.jpg"></a></div>
+    <div class="le_c">
+        <p class="content"><a title="中国台湾网的新浪微博" class="blue arial" target="_blank" href="http://weibo.com/chinataiwan">中国台湾网</a>：【蓝委批蔡英文：应找出解决方法，不要只会推特发文】台湾未接获第70届WHA邀请函，国民党立院党团今举行记者会表示非常遗憾。国民党立委李彦秀表示，中国大陆态度明显，目前球在蔡英文手上，蔡英文虽在推特上发文10次，也许“选举”时可以透过网络宣扬理念，蔡英文应找出解决方法，不要只会谴责。 ​</p>
+        <p class="link"><a href="http://weibo.com/1709286740/F2jhwCBjK" class="arial" target="_blank">http://weibo.com/1709286740/F2jhwCBjK</a></p>
+        <p class="info">
+            <span class="r">
+                <a target="_blank" href="http://weibo.com/1709286740/F2jhwCBjK?type=repost">转发<em class="arial">(16)</em></a>
+                <i class="w_vline">|</i>
+                <a target="_blank" href="http://weibo.com/1709286740/F2jhwCBjK">收藏</a>
+                <i class="w_vline">|</i>
+                <a target="_blank" href="http://weibo.com/1709286740/F2jhwCBjK">评论<em class="arial">(91)</em></a>
+            </span>
+        </p>
+    </div>
+	</div>
+
+                                    	<div class="le_list le_last" style="height:176px">
+    <div class="list_face l"><a target="_blank" href="http://weibo.com/wellgousa" title="WellGo北美电影发行的新浪微博"><img width="50" height="50" alt="WellGo北美电影发行的新浪微博" src="http://tva2.sinaimg.cn/crop.0.1.106.106.50/8fd574dcjw8evkhobdyydj202y032dfs.jpg"></a></div>
+    <div class="le_c">
+        <p class="content"><a title="WellGo北美电影发行的新浪微博" class="blue arial" target="_blank" href="http://weibo.com/wellgousa">WellGo北美电影发行</a>：多浪漫的经典…
+"我根本没有办法选择喜不喜欢你"
+
+全北美#2017最甜电影喜欢你# 
+现正热映中！[心][心][心]
+
+“一屋 两人 三餐 四季”
+
+你不会知道我有多么的喜欢你 因为连我自己也说不清楚 我为什么会如此喜欢你 落幕的夕阳很美 如果没有你 也是孤独的 而人只有孤独才能时刻保持清醒 世界上没有谁会一 ​</p>
+        <p class="link"><a href="http://weibo.com/2413130972/F2kGJxQgh" class="arial" target="_blank">http://weibo.com/2413130972/F2kGJxQgh</a></p>
+        <p class="info">
+            <span class="r">
+                <a target="_blank" href="http://weibo.com/2413130972/F2kGJxQgh?type=repost">转发<em class="arial">(0)</em></a>
+                <i class="w_vline">|</i>
+                <a target="_blank" href="http://weibo.com/2413130972/F2kGJxQgh">收藏</a>
+                <i class="w_vline">|</i>
+                <a target="_blank" href="http://weibo.com/2413130972/F2kGJxQgh">评论<em class="arial">(0)</em></a>
+            </span>
+        </p>
+    </div>
+	</div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="moduleTR wbExpressModule r">
+                    	<div class="moduleTL">
+                        	<div class="moduleBR">
+                            	<div class="moduleBL">
+                                    <h2>微博快递</h2>
+                                    <div class="infoCon">
+                                    	<div class="le_list" style="height:270px">
+    <div class="list_face l"><a target="_blank" href="http://weibo.com/u/5426587993" title="美帝人民也蛮拼的的新浪微博"><img width="50" height="50" alt="美帝人民也蛮拼的的新浪微博" src="http://tva3.sinaimg.cn/crop.0.1.509.509.50/005VfpqNjw8eohv6a8l3ej30e50e8glx.jpg"></a></div>
+    <div class="le_c">
+        <p class="content"><a title="美帝人民也蛮拼的的新浪微博" class="blue arial" target="_blank" href="http://weibo.com/u/5426587993">美帝人民也蛮拼的</a>：#生活便利贴#7个能让胸部变得越来越坚挺「让胸部从A罩杯变D罩杯」丰胸瑜伽。 ​</p>
+        <!--p class="link"><a href="http://weibo.com/5426587993/F2liU6QJu" class="arial" target="_blank">http://weibo.com/5426587993/F2liU6QJu</a></p-->
+        <p class="info">
+            <span class="r">
+                <a target="_blank" href="http://weibo.com/5426587993/F2liU6QJu?type=repost">转发<em class="arial">(0)</em></a>
+                <i class="w_vline">|</i>
+                <a target="_blank" href="http://weibo.com/5426587993/F2liU6QJu">收藏</a>
+                <i class="w_vline">|</i>
+                <a target="_blank" href="http://weibo.com/5426587993/F2liU6QJu">评论<em class="arial">(1)</em></a>
+            </span>
+        </p>
+    </div>
+	</div>
+
+                                        	<div class="le_list le_last" style="height:270px">
+    <div class="list_face l"><a target="_blank" href="http://weibo.com/u/5734938853" title="吃吃喝喝玩遍北美的新浪微博"><img width="50" height="50" alt="吃吃喝喝玩遍北美的新浪微博" src="http://tva3.sinaimg.cn/crop.81.0.340.340.50/006g7dzLjw8exfadzpq8dj30dw09gq55.jpg"></a></div>
+    <div class="le_c">
+        <p class="content"><a title="吃吃喝喝玩遍北美的新浪微博" class="blue arial" target="_blank" href="http://weibo.com/u/5734938853">吃吃喝喝玩遍北美</a>：处女座在想自己怎么还没累死... ​</p>
+        <!--p class="link"><a href="http://weibo.com/5734938853/F2ktjorEP" class="arial" target="_blank">http://weibo.com/5734938853/F2ktjorEP</a></p-->
+        <p class="info">
+            <span class="r">
+                <a target="_blank" href="http://weibo.com/5734938853/F2ktjorEP?type=repost">转发<em class="arial">(23)</em></a>
+                <i class="w_vline">|</i>
+                <a target="_blank" href="http://weibo.com/5734938853/F2ktjorEP">收藏</a>
+                <i class="w_vline">|</i>
+                <a target="_blank" href="http://weibo.com/5734938853/F2ktjorEP">评论<em class="arial">(17)</em></a>
+            </span>
+        </p>
+    </div>
+	</div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="blk1ContentRightB">
+                    	<div class="moduleTR1 wbListModule">
+                            <div class="moduleTL1">
+                                <div class="moduleBR">
+                                    <div class="moduleBL">
+                                        <div class="wbFocusWrap clearfix">
+
+	<div class="wb_focus clearfix">	
+	  <div class="wb_focus_t clearfix">
+	      <div class="l">
+	          <div class="face">
+	              <a href="http://weibo.com/letvusa" target="_blank" title="乐视美国的新浪微博"><img width="50" height="50" src="http://tvax4.sinaimg.cn/crop.23.14.970.970.50/005OyJ0Bly8ff82bxe5jlj30t80t7q5k.jpg" alt="乐视美国的新浪微博"></a>
+	          </div>
+	      </div>
+	      <div class="info">
+	          <a href="http://weibo.com/letvusa" class="name" target="_blank">乐视美国</a>
+	          <p class="addr">海外 美国</p>
+	          <div class="btn_focus">
+	          	<a title="" href="javascript:void(0);" class="add_focus" rel="5327757129">
+                <em>                                         
+                    <span class="img_bg addImg"></span><span class="text">加关注</span>
+                </em>
+              </a>
+
+	              <!--a title="" href="javascript:void(0);" class="add_focus"><em><span class="img_bg"><span class="addImg"></span></span><span class="text">加关注</span></em></a>
+	              <a title="" href="javascript:void(0);" class="add_focus" style="display: none;"><em><span class="img_bg"><span class="addImg"></span></span><span class="text">已关注</span></em></a-->
+	          </div>
+	      </div>
+	  </div>
+	  <div class="wb_focus_b">
+	  	<!--p class="blog"><span class="l">博客：</span><a href="" target="_blank" class="arial l"></a></p-->
+	      <p style="word-wrap:break-word; ">北美第一华语内容点播平台 | 最懂华人智能电子产品 | LeEco.com/Chinese | 客服热线 (855) 665-3326</p>
+	  </div>
+	</div>
+
+	<div class="wb_focus clearfix">	
+	  <div class="wb_focus_t clearfix">
+	      <div class="l">
+	          <div class="face">
+	              <a href="http://weibo.com/dealam" target="_blank" title="北美找丢网的新浪微博"><img width="50" height="50" src="http://tva1.sinaimg.cn/crop.56.50.201.201.50/783296a3jw8fasfhzpb3wj208c08cta1.jpg" alt="北美找丢网的新浪微博"></a>
+	          </div>
+	      </div>
+	      <div class="info">
+	          <a href="http://weibo.com/dealam" class="name" target="_blank">北美找丢网</a>
+	          <p class="addr">海外</p>
+	          <div class="btn_focus">
+	          	<a title="" href="javascript:void(0);" class="add_focus" rel="2016581283">
+                <em>                                         
+                    <span class="img_bg addImg"></span><span class="text">加关注</span>
+                </em>
+              </a>
+
+	              <!--a title="" href="javascript:void(0);" class="add_focus"><em><span class="img_bg"><span class="addImg"></span></span><span class="text">加关注</span></em></a>
+	              <a title="" href="javascript:void(0);" class="add_focus" style="display: none;"><em><span class="img_bg"><span class="addImg"></span></span><span class="text">已关注</span></em></a-->
+	          </div>
+	      </div>
+	  </div>
+	  <div class="wb_focus_b">
+	  	<!--p class="blog"><span class="l">博客：</span><a href="http://www.dealam.com/cn" target="_blank" class="arial l">http://www.dealam.com/cn</a></p-->
+	      <p style="word-wrap:break-word; ">北美找丢网 - DealAm.com：北美华人最火、最有影响力的购物折扣信息网站，24小时更新北美最新最热的deals。 
+请访问：…</p>
+	  </div>
+	</div>
+
+	<div class="wb_focus clearfix">	
+	  <div class="wb_focus_t clearfix">
+	      <div class="l">
+	          <div class="face">
+	              <a href="http://weibo.com/firstrade" target="_blank" title="Firstrade第一证券的新浪微博"><img width="50" height="50" src="http://tva4.sinaimg.cn/crop.0.0.179.179.50/642e99c7gw1f77pk0mrx6g2050050dfn.gif" alt="Firstrade第一证券的新浪微博"></a>
+	          </div>
+	      </div>
+	      <div class="info">
+	          <a href="http://weibo.com/firstrade" class="name" target="_blank">Firstrade第一证券</a>
+	          <p class="addr">海外</p>
+	          <div class="btn_focus">
+	          	<a title="" href="javascript:void(0);" class="add_focus" rel="1680775623">
+                <em>                                         
+                    <span class="img_bg addImg"></span><span class="text">加关注</span>
+                </em>
+              </a>
+
+	              <!--a title="" href="javascript:void(0);" class="add_focus"><em><span class="img_bg"><span class="addImg"></span></span><span class="text">加关注</span></em></a>
+	              <a title="" href="javascript:void(0);" class="add_focus" style="display: none;"><em><span class="img_bg"><span class="addImg"></span></span><span class="text">已关注</span></em></a-->
+	          </div>
+	      </div>
+	  </div>
+	  <div class="wb_focus_b">
+	  	<!--p class="blog"><span class="l">博客：</span><a href="http://www.firstrade.com/content/zh-cn/welcome/" target="_blank" class="arial l">http://www.firstrade.com/content/zh-cn/welcome/</a></p-->
+	      <p style="word-wrap:break-word; ">领先美股网络券商，FINRA & SIPC会员。高品质专业服务始于1985年， 致力为国人打造一流投资美股体验。</p>
+	  </div>
+	</div>
+
+	<div class="wb_focus clearfix">	
+	  <div class="wb_focus_t clearfix">
+	      <div class="l">
+	          <div class="face">
+	              <a href="http://weibo.com/sogotrade" target="_blank" title="SogoTrade美股券商的新浪微博"><img width="50" height="50" src="http://tva2.sinaimg.cn/crop.8.19.159.159.50/66036504gw1ei7grv5rwqj2050059glk.jpg" alt="SogoTrade美股券商的新浪微博"></a>
+	          </div>
+	      </div>
+	      <div class="info">
+	          <a href="http://weibo.com/sogotrade" class="name" target="_blank">SogoTrade美股券商</a>
+	          <p class="addr">海外 美国</p>
+	          <div class="btn_focus">
+	          	<a title="" href="javascript:void(0);" class="add_focus" rel="1711498500">
+                <em>                                         
+                    <span class="img_bg addImg"></span><span class="text">加关注</span>
+                </em>
+              </a>
+
+	              <!--a title="" href="javascript:void(0);" class="add_focus"><em><span class="img_bg"><span class="addImg"></span></span><span class="text">加关注</span></em></a>
+	              <a title="" href="javascript:void(0);" class="add_focus" style="display: none;"><em><span class="img_bg"><span class="addImg"></span></span><span class="text">已关注</span></em></a-->
+	          </div>
+	      </div>
+	  </div>
+	  <div class="wb_focus_b">
+	  	<!--p class="blog"><span class="l">博客：</span><a href="http://www.SogoTrade.com/chinese" target="_blank" class="arial l">http://www.SogoTrade.com/chinese</a></p-->
+	      <p style="word-wrap:break-word; ">开设了一个新的SogoTrade帐户即可 100次免费交易
+
+转帐户到SogoTrade可 免费 获得高达100美元过户补偿费！</p>
+	  </div>
+	</div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="blkBot"></div>
+    </div>
+
+    <div class="mainAd"><div style="height:90px;overflow:hidden;"><script type="text/javascript" src="http://dailynews.sina.com/bg/ads/weibo/728_90/17.js"></script></div></div>
+
+	<div class="blk2">
+    	<div class="blkTop"></div>
+        <div class="blkCenter">
+        	<div class="blk2Content">
+            	<div class="blk2ContentT clearfix">
+                	<div class="moduleTR topicModule l">
+                    	<div class="moduleTL">
+                        	<div class="moduleBR">
+                            	<div class="moduleBL">
+                                    <h2>热门话题</h2>
+                                    <!--<ul>
+                                    <li><a href="http://focus.weibo.com/dailynews/JZBQS2015/" title="" target="_blank">美2名记者直播中被枪杀</a></li><li><a href="http://focus.weibo.com/dailynews/TJBZ2015/" title="" target="_blank">天津危化品仓库发生巨大爆炸</a></li><li><a href="http://focus.weibo.com/dailynews/MGDXDSBL/" title="" target="_blank">美共和党首场电视辩论</a></li><li><a href="http://focus.weibo.com/dailynews/CHNstudent/" title="" target="_blank">美国大学去年开除8000名中国留学生</a></li><li><a href="http://focus.weibo.com/dailynews/WGZQS/" title="" target="_blank">诗人汪国真去世 习近平曾引用其诗句</a></li>
+
+                                    </ul>-->
+<!---------------- New Hot Topic Starts ---------------> 
+
+                                   <div class="HotTopicCon">
+
+                                        <div class="HotTopicWrap">
+                                           <div class="HotTopic">
+    <a href="http://weibo.com/p/1008080b1fa688fb309187d1d0fbef8d94edcc?k=%E7%BE%8E%E5%B8%9D%E9%9C%87%E6%83%8A%E4%BA%86&from=501&_from_=huati_topic" target="_blank"><span>美帝震惊了</span></a>
+</div>
+
+<div class="HotTopic">
+    <a href="http://weibo.com/p/1008080796fa5ca17c23111bb35592c7844767?from=faxian_huati&amp;mod=mfenlei" target="_blank"><span>美国趣闻</span></a>
+</div>
+
+<div class="HotTopic">
+    <a href="http://weibo.com/p/1008081dbd301ac43933f6a79cd72600cbdccc?from=faxian_huati&amp;mod=mfenlei" target="_blank"><span>美国爆料</span></a>
+</div>
+
+<div class="HotTopic">
+    <a href="http://weibo.com/p/10080801d2dae95339c7e82bfd246030896f3e?k=%E7%8E%AF%E7%90%83%E8%A7%81%E9%97%BB&from=501&_from_=huati_topic" target="_blank"><span>环球见闻</span></a>
+</div>
+
+<div class="HotTopic">
+    <a href="http://weibo.com/p/100808d1d7b2c7a2e8255a2868ac8866dbb138?k=%E5%8C%97%E7%BE%8E%E5%8D%8E%E4%BA%BA&from=501&_from_=huati_topic" target="_blank"><span>北美华人</span></a>
+</div>
+<div class="HotTopic">
+    <a href="http://weibo.com/p/100808ead6568f3cbc07c3655e31652d7696dc?k=%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87&from=501&_from_=huati_topic" target="_blank"><span>人民币汇率</span></a>
+</div>
+<div class="HotTopic">
+    <a href="http://weibo.com/p/1008081c7ec2451ad84a74b69eb3689792adbe?k=%E7%A1%85%E8%B0%B7%E5%BF%AB%E8%AE%AF&from=501&_from_=huati_topic" target="_blank"><span>硅谷快讯</span></a>
+<div class="HotTopic">
+    <a href="http://weibo.com/p/100808ad121adb26fec51496bc67c427db7021?k=%E7%BE%8E%E5%9B%BD%E7%94%9F%E6%B4%BB&from=501&_from_=huati_topic" target="_blank"><span>美国生活</span></a>
+</div>
+</div>
+                                        </div> 
+
+									</div>
+
+                              <!---------------- New Hot Topic Ends --------------->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                	<div class="moduleTR newsModule r">
+                    	<div class="moduleTL">
+                        	<div class="moduleBR">
+                            	<div class="moduleBL">
+                                    <h2>即时新闻滚动</h2>
+                                    <div class="more"><a href="http://dailynews.sina.com/gb/news/daily.html" title="更多">更多<span class="icon"></span></a></div>
+                                    <div class="newsUl clearfix">
+                                    <ul class="l">
+			<li><a href="http://dailynews.sina.com/gb/news/int/phoenixtv/20170509/01507854782.html" title="印度警方没收的90万升酒失踪？回应：被老鼠喝了">印度警方没收的90万升酒失踪？回应：被老鼠喝了</a></li>
+		<li><a href="http://dailynews.sina.com/gb/news/int/chinanews/20170509/01297854726.html" title="英男子忌口谷胶 东京飞悉尼飞机餐仅有一根香蕉">英男子忌口谷胶 东京飞悉尼飞机餐仅有一根香蕉</a></li>
+		<li><a href="http://dailynews.sina.com/gb/chn/chnpolitics/phoenixtv/20170508/06407853358.html" title="DNA研究称湖南古墓主人是伏羲氏或是乌龙">DNA研究称湖南古墓主人是伏羲氏或是乌龙</a></li>
+		<li><a href="http://dailynews.sina.com/gb/chn/chnlocal/xinhuanet/20170506/18257851027.html" title="女子给待宰猪喂水被诉 法官:表达同情不是犯罪">女子给待宰猪喂水被诉 法官:表达同情不是犯罪</a></li>
+		<li><a href="http://dailynews.sina.com/gb/news/int/chinanews/20170506/18447851041.html" title="说不出分手？没时间写信？ 这些事都能找人代劳">说不出分手？没时间写信？ 这些事都能找人代劳</a></li>
+
+</ul>
+<ul class="l">
+			<li><a href="http://dailynews.sina.com/gb/news/int/xinhuanet/20170506/05087850648.html" title="上厕所没带纸咋办？印度人的清洁方式亮了">上厕所没带纸咋办？印度人的清洁方式亮了</a></li>
+		<li><a href="http://dailynews.sina.com/gb/chn/chnpolitics/phoenixtv/20170505/05297849706.html" title="又是桩奇葩案？男子卖2只自家养的鹦鹉被判5年">又是桩奇葩案？男子卖2只自家养的鹦鹉被判5年</a></li>
+		<li><a href="http://dailynews.sina.com/gb/chn/chnlocal/sinacn/20170504/04437847975.html" title="女子在家中装考勤机“管理”老公：晚归罚100">女子在家中装考勤机“管理”老公：晚归罚100</a></li>
+		<li><a href="http://dailynews.sina.com/gb/news/int/phoenixtv/20170503/22147847314.html" title="俄军“猫水手”随舰出征叙利亚 作战任务：抓老鼠">俄军“猫水手”随舰出征叙利亚 作战任务：抓老鼠</a></li>
+		<li><a href="http://dailynews.sina.com/gb/news/int/kwongwah/20170503/00097845804.html" title="全球首例  印度夫妇用Skype离婚">全球首例  印度夫妇用Skype离婚</a></li>
+
+</ul>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            	<div class="blk2ContentB clearfix">
+
+                	<div class="blk2ContentBL l">
+                    	<div class="sideAd"><div style="height:250px;overflow:hidden;"><script type="text/javascript" src="http://dailynews.sina.com/bg/ads/weibo/300_250/20.js"></script></div></div>
+                    </div>
+
+                    <div class="blk2ContentBR r">
+                    	<div class="adLinks clearfix"><script type="text/javascript" src="http://dailynews.sina.com/bg/ads/weibo/text/21.js"></script></div>
+
+                        <div class="moduleTR newsRankModule r">
+                    	<div class="moduleTL">
+                        	<div class="moduleBR">
+                            	<div class="moduleBL">
+                                    <h2>新闻点击排行</h2>
+                                    <div class="search">
+
+<SCRIPT LANGUAGE="JavaScript">
+	<!-- Hide 
+	function ShowDateFile(){
+
+		if(document.forms.old_cheese.Year.selectedIndex==0) { alert("请选择年份"); return false;}
+		if(document.forms.old_cheese.Month.selectedIndex==0){ alert("请选择月份"); return false;}
+		if(document.forms.old_cheese.Day.selectedIndex==0)  { alert("请选择日期"); return false;}
+
+		year = document.forms.old_cheese.Year.options[document.forms.old_cheese.Year.selectedIndex].value;
+		month= document.forms.old_cheese.Month.options[document.forms.old_cheese.Month.selectedIndex].value;
+		day  = document.forms.old_cheese.Day.options[document.forms.old_cheese.Day.selectedIndex].value;
+
+		if(year==2009 && month=='01'){alert("新闻排行往日从2009-03-22开始！"); return false;}
+		if(year==2009 && month=='02'){alert("新闻排行往日从2009-03-22开始！"); return false;}
+		if(year==2009 && month=='03' && day<22){alert("新闻排行往日从2009-03-22开始！"); return false;}
+		loadpos="http://dailynews.sina.com/gb/topnews/"+year+"/"+month+day+".html";
+
+		controlWindow=window.open(loadpos,"_blank");
+		return false;
+	}
+	//--> 
+	</SCRIPT>
+
+<form method="POST" action="--WEBBOT-SELF--" name='old_cheese'>
+往日排行查询：<select name="Year" size="1">
+<option value="ChooseYear">选择年</option>
+
+		<option value="2017" selected>2017</option>
+
+		<option value="2016">2016</option>
+
+		<option value="2015">2015</option>
+
+		<option value="2014">2014</option>
+
+		<option value="2013">2013</option>
+
+		<option value="2012">2012</option>
+
+		<option value="2011">2011</option>
+
+		<option value="2010">2010</option>
+
+		<option value="2009">2009</option>
+
+</select>
+<select name="Month" size="1">
+<option value="ChooseMonth">选择月</option>
+
+		<option value="01">01</option>
+
+		<option value="02">02</option>
+
+		<option value="03">03</option>
+
+		<option value="04">04</option>
+
+		<option value="05" selected>05</option>
+
+		<option value="06">06</option>
+
+		<option value="07">07</option>
+
+		<option value="08">08</option>
+
+		<option value="09">09</option>
+
+		<option value="10">10</option>
+
+		<option value="11">11</option>
+
+		<option value="12">12</option>
+
+</select>
+<select name="Day" size="1">
+<option value="ChooseDate">选择日</option>
+
+		<option value="01">01</option>
+
+		<option value="02">02</option>
+
+		<option value="03">03</option>
+
+		<option value="04">04</option>
+
+		<option value="05">05</option>
+
+		<option value="06">06</option>
+
+		<option value="07">07</option>
+
+		<option value="08">08</option>
+
+		<option value="09" selected>09</option>
+
+		<option value="10">10</option>
+
+		<option value="11">11</option>
+
+		<option value="12">12</option>
+
+		<option value="13">13</option>
+
+		<option value="14">14</option>
+
+		<option value="15">15</option>
+
+		<option value="16">16</option>
+
+		<option value="17">17</option>
+
+		<option value="18">18</option>
+
+		<option value="19">19</option>
+
+		<option value="20">20</option>
+
+		<option value="21">21</option>
+
+		<option value="22">22</option>
+
+		<option value="23">23</option>
+
+		<option value="24">24</option>
+
+		<option value="25">25</option>
+
+		<option value="26">26</option>
+
+		<option value="27">27</option>
+
+		<option value="28">28</option>
+
+		<option value="29">29</option>
+
+		<option value="30">30</option>
+
+		<option value="31">31</option>
+
+</select>
+<input type=button value="查看" onclick="ShowDateFile();return false;">
+</form>
+
+                                    </div>
+                                    <div class="newsUl clearfix">
+                                    	<ul class="l">
+	  			 <li><span class="topNum">01</span><a href="http://dailynews.sina.com/gb/news/usa/intnews/chinapress/20170503/01147845921.html" title="骆家辉早已离婚 小三害的？" target="_blank">骆家辉早已离婚 小三害的？</a></li>
+			 <li><span class="topNum">02</span><a href="http://dailynews.sina.com/gb/ent/hktwstar/kwongwah/20170507/00097851318.html" title="王祖贤卖萌秀近照 50岁素颜美肌似少女" target="_blank">王祖贤卖萌秀近照 50岁素颜美肌似少女</a></li>
+			 <li><span class="topNum">03</span><a href="http://dailynews.sina.com/gb/ent/chnstar/sinacn/20170506/23587851301.html" title="网曝孙莉即将临盆 黄磊医院包VIP房雇10人看护" target="_blank">网曝孙莉即将临盆 黄磊医院包VIP房雇10人看护</a></li>
+			 <li><span >04</span><a href="http://dailynews.sina.com/gb/news/usa/usnews/chinesedaily/20170506/06377850746.html" title="川普健保　加州业者批：吃垮政府" target="_blank">川普健保　加州业者批：吃垮政府</a></li>
+			 <li><span >05</span><a href="http://dailynews.sina.com/gb/ent/hktwstar/kwongwah/20170507/00197851331.html" title="范冰冰公开照片 “入行被黑最惨一次”" target="_blank">范冰冰公开照片 “入行被黑最惨一次”</a></li>
+
+	</ul>
+	<ul class="l">
+	  			<li><span>06</span><a href="http://dailynews.sina.com/gb/news/int/chinanews/20170505/18347850106.html" title="捕捉死亡瞬间 女摄影师按下最后快门后遇难（图）" target="_blank">捕捉死亡瞬间 女摄影师按下最后快门后遇难（…</a></li>			
+			<li><span>07</span><a href="http://dailynews.sina.com/gb/news/int/kwongwah/20170505/23457850369.html" title="15年寻求公义 少女遭35暴徒轮奸 醒来14家人全死包括女婴" target="_blank">15年寻求公义 少女遭35暴徒轮奸 醒来14家…</a></li>			
+			<li><span>08</span><a href="http://dailynews.sina.com/gb/chn/chnmilitary/xinhuanet/20170425/19087835271.html" title="直击国产航母下水：摔碎香槟酒 两舷喷绚丽彩带（图）" target="_blank">直击国产航母下水：摔碎香槟酒 两舷喷绚丽彩…</a></li>			
+			<li><span>09</span><a href="http://dailynews.sina.com/gb/news/int/cna/20170506/23447851293.html" title="买豪宅移民美国  川普亲家再涉利益冲突" target="_blank">买豪宅移民美国  川普亲家再涉利益冲突</a></li>			
+			<li><span>10</span><a href="http://dailynews.sina.com/gb/chn/chnlocal/sinacn/20170507/02037851410.html" title="完胜老干妈？这款中国辣醬在美国炒到10万天价" target="_blank">完胜老干妈？这款中国辣醬在美国炒到10万天…</a></li>			
+
+	</ul>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="blkBot"></div>
+    </div>
+
+    <div class="mainAd" id="scrollto"><div style="height:90px;overflow:hidden;"><script type="text/javascript" src="http://dailynews.sina.com/bg/ads/weibo/728_90/18.js"></script></div></div>
+
+    <div class="blk3">
+    	<div class="blkTop"></div>
+        <div class="blkCenter">
+        	<h2 class="tit">赏心悦目的微博</h2>
+            <div class="blk3Content">
+              <div class="wbList clearfix" id="container"></div>
+                <div class='loading'></div>
+                <div class="page"></div>
+            </div>
+        </div>
+        <div class="blkBot"></div>
+    </div>
+</div>
+
+<div class="bottomAd"><div style="height:90px;overflow:hidden;"><script type="text/javascript" src="http://dailynews.sina.com/bg/ads/weibo/728_90/19.js"></script></div></div>
+
+<div class="footer">
+	<div class="footerInner clearfix">
+    	<div class="footerLeft l">
+        	<div class="footerLinks">
+            	<a href="http://ir.weibo.com/" target="_blank">About Weibo</a> | <a href="http://corp.sina.com.cn/eng/" target="_blank">About SINA.com</a> | <a href="http://mediakit.sina.com/" target="_blank">Advertising on SINA.com</a> | <a href="http://english.sina.com/" target="_blank">SINA English</a> | <a href="http://mediakit.sina.com/#index07" target="_blank">Term of Use</a> | <a href="http://mediakit.sina.com/#index06" target="_blank">Privacy Policy</a>
+            </div>
+            <div class="copyRight">Copyright &copy; 2015 <span class="blue">Weibo Corp.</span> All Rights Reserved</div>
+        </div>
+        <div class="footerRight r"><img src="http://ui.sina.com/pub/weibo/0522/footerPic.png"></div>
+    </div>
+</div>
+
+<script type="text/javascript" src="/js/usWeibo.js"></script>
+
+<nav id="page-nav"><a href="/api/data/p/1/c/2"></a></nav>
+
+<div id="floatAd-left" style="position:fixed; z-index: 9999999; top:100px; left:0px;">
+<img id="close-left" style="position:fixed; top: 100px; z-index:99999999; left:0px;cursor: pointer;" src="http://ui.sina.com/2014/0806/closebutton.png">
+<script src="http://dailynews.sina.com/bg/ads/weibo/index/160_600/40.js"></script>
+</div>
+
+<div id="floatAd-right" style="position:fixed; z-index: 9999999; top:100px; right:0px;">
+<img id="close-right" style="position:fixed; top: 100px; z-index:99999999; right:0px;cursor: pointer;" src="http://ui.sina.com/2014/0806/closebutton.png">
+<script src="http://dailynews.sina.com/bg/ads/weibo/index/160_600/41.js"></script>
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+	if(navigator.userAgent.indexOf("MSIE 6.0") > 0)	{
+	    //是IE6
+	    $("#floatAd-left").hide();
+	    $("#floatAd-right").hide();
+	}
+
+    $("#close-left").click(function(){
+        $("#floatAd-left").hide();
+    })
+    $("#close-right").click(function(){
+        $("#floatAd-right").hide();
+    })
+});
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  //--Aggregate GA--//
+  ga('create', 'UA-42804763-1', 'sina.com');
+  ga('send', 'pageview');
+
+  //--Individual WeiBo Channel--//
+  ga('create', 'UA-41491586-1', {'name': 'WeiBoChannel'});
+  ga('WeiBoChannel.send', 'pageview');
+
+</script>
+
+</body>
+</html>

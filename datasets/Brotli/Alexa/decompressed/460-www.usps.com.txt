@@ -1,0 +1,1880 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+    <title>Welcome | USPS</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- PULLING IN EXISTING USPS CSS -->
+    <link href="/assets/css/home/usps.css" rel="stylesheet" type="text/css">
+    <link type="text/css" href="/assets/css/home/customer.css" rel="stylesheet">
+    <link href="/assets/css/home/elements.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="/assets/css/home/stylesheet.css" />
+    <link rel="stylesheet" href="/assets/css/home/homepage-blades.css" type="text/css" />
+    <link rel="stylesheet" href="/assets/css/home/navigation-sb.css" type="text/css" />
+    <link rel="icon" type="image/x-icon" href="/assets/images/home/favicon.ico">
+    <meta name="keywords" content="Quick Tools, Shipping Services, Mailing Services, Village Post Office, Ship Online, Flat Rate, Postal Store, Ship a Package, Send Mail, Manage Your Mail,  Business Solutions, Find Locations, Calculate a Price, Look Up a Zip Code, Track Packages, Print a Label, Stamps">
+    <meta name="description" content="Welcome to USPS.com. Find information on our most convenient and affordable shipping and mailing services. Use our quick tools to find locations, calculate prices, look up a Zip Code, and get Track &amp; Confirm info.">
+	<style>
+	@media only screen and (min-width:863px){
+		.hero-wrapper {
+			background-image: url(/assets/images/home/premium/coa-flat.jpg) !important;
+		}
+	}
+		.mobile-image-content {
+			margin-left: 1%;
+		}
+		
+	@media only screen and (min-width: 958px){
+		.homepage-text-section {
+			width: 400px;
+			margin-left: 6% !important;
+		}
+	}
+	@media only screen and (max-width: 958px){
+		.homepage-hero-image {
+			background: url(/assets/images/home/premium/coa-flat.jpg) no-repeat top center !important;
+			height: 300px;
+		}
+		.hero-wrapper-link {
+			height: 300px !important;
+		}
+	}
+
+	@media only screen and (max-width: 958px) {
+		.homepage-hero-image {
+			background: url(/assets/images/home/premium/coa-flat.jpg) no-repeat top center !important;
+			height: 400px;
+		}
+	}
+	@media only screen and (max-width: 500px) {
+		h1.mobile-hero-image-header {
+			width: 200px;
+		}
+		.mobile-hero-image-text {
+			font-family: "HelveticaNeueW02-55Roma", "Helvetica Neue", Helvetica;
+			font-size: 14px;
+			line-height: 18px;
+		}
+	}
+
+	@media only screen and (max-width: 400px) {
+		h1.mobile-hero-image-header {
+			width: 150px;
+		}
+	}
+	p.hero-image-text {
+		margin-bottom: 5px !important;
+	}
+
+	p.mobile-hero-image-text {
+		margin-bottom: 5px !important;
+	}
+	.hero-wrapper .button--primary {
+		z-index: 0;
+	}
+	</style>
+</head>
+
+<body>
+
+	<div id="utility-header">
+
+     <div id="utility-header">
+        <style type="text/css">
+            #utility-bar {
+                display: none;
+            }
+			
+		@media only screen and (min-width: 959px) {
+		  .alert-bar {
+			position: relative !important;
+		  }
+		}
+		.alert-bar p {
+		  margin: 0 !important;
+		  width: 100% !important;
+		  line-height: 20px;
+		  max-width: 1400px;
+		  text-align: center;
+		  font-size: 12px;
+		  color: #FFFFFF;
+		  font-family: "HelveticaNeueW02-75Bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+			font-weight: normal;
+		  padding-top: 5px;
+		  padding-bottom: 10px;
+		  text-transform: uppercase;
+		}
+
+		.alert-bar a {
+		  color: white;
+		  text-decoration: none;
+		  font-size: 12px;
+		  color: #FFFFFF;
+		  font-family: "HelveticaNeueW02-75Bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+			font-weight: normal;
+		  white-space: normal !important;
+		}
+        </style>
+        <div id="skip-content2" style="height:0px;overflow:hidden;">
+            <a href="#maincontent" id="skip-nav2" style="height: 0.1rem;">Skip to Main Content</a>
+        </div>
+		<script type="text/javascript" src="https://www.usps.com/ContentTemplates/common/scripts/OneLinkUsps.js"></script>
+
+        <div class="utility-links">
+            <div id="nav-tool-multilingual-header" class="nav-tool-header" style="display:inline !important;">
+                <a href="#" class="anchor" tabindex="0" name="anchor-login" id="multiling-anchor"
+                 style="display:inline !important;">
+                    English
+                    </a>
+                <div id="lang_select" class="nav-window-header" style="height: 0px; overflow: hidden;">
+                    <div class="content">
+                        <div class="multi-option">
+                            <a href="javascript:OneLink('en');" class="multi-lang-link">English</a>
+                        </div>
+                        <div class="multi-option odd">
+                            <a href="javascript:OneLink('es');" class="multi-lang-link">Espa&ntilde;ol</a>
+                        </div>
+                        <div class="multi-option last">
+                            <a href="javascript:OneLink('zh');" class="multi-lang-link chinese">&nbsp;</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <a id="link-customer" href="https://www.usps.com/help/welcome.htm">Customer &nbsp;Service</a>
+            <a id="link-myusps" href="https://www.usps.com/myusps/welcome.htm">My &nbsp;USPS</a>
+            <a id="login-register-header" class="link-reg" href="https://reg.usps.com/entreg/LoginAction_input?app=Phoenix&amp;appURL=https://www.usps.com/"><span>Register / Sign in</span></a>
+            <div id="link-cart" style="display: inline-block;"></div>
+        </div>
+    </div>
+	</div>
+<script>var appID = "Phoenix";</script>
+
+
+    <div class="global-navigation">
+<!-- Not necessary for Home
+       <link href="/global-elements/header/css/usps-elements.css" rel="stylesheet" type="text/css" />
+	   <link type="text/css" rel="stylesheet" href="/global-elements/header/css/utility-header.css">
+-->
+
+        <div class="mobile-header mobile-title">
+            <div class="mobile-header search-trigger">
+                <a href="#"></a>
+            </div>
+            <div class="mobile-header usps_logo">
+                <a href="https://www.usps.com/welcome.htm"></a>
+            </div>
+            <div class="mobile-header mobile-menu-trigger">
+                <a href="#"></a>
+            </div>
+        </div>
+
+        <div id="global-menu" class="menu" style="top: 0px;">
+
+            <div class="menu-wrap">
+                <div id="msign" class="mobile-utility">
+                    <div class="mobile-sign">
+                        <a href="https://reg.usps.com/entreg/LoginAction_input?app=Phoenix&amp;appURL=">Sign In</a>
+                    </div>
+                </div>
+                <nav class="site-nav">
+                    <ol class="menu--tier-one">
+                        <li class="usps-logo">
+                            <a href="https://www.usps.com/welcome.htm">
+                                <img src="/global-elements/header/images/utility-header/logo-sb.svg">
+                            </a>
+                        </li>
+                        <li class="menu--tier-one-category--quick-tools">
+                            <a href="#" class="quick-tools--trigger menu--tier-one-link menu--item"><span>Quick Tools</span></a>
+                        </li>
+                        <li class="menu--tier-one-category--mail-ship">
+                            <a href="https://www.usps.com/ship/welcome.htm" class="menu--tier-one-link menu--item"><span>Mail &amp; Ship</span><span class="tier_one_chevron">Open/Close Menu</span></a>
+                            <ol class="menu--tier-two">
+                                <li class="touchscreen-only">
+                                    <a href="https://www.usps.com/ship/welcome.htm" class="menu--tier-two-link">Mail &amp; Ship</a>
+                                </li>
+                                <li>
+                                    <a href="https://cns.usps.com/" class="menu--tier-two-link">Click-N-Ship</a>
+                                </li>
+                                <li>
+                                    <a href="https://store.usps.com/store/" class="menu--tier-two-link">Order Stamps &amp; Supplies</a>
+                                </li>
+                                <li>
+                                    <a href="https://postcalc.usps.com/" class="menu--tier-two-link">Calculate a Price</a>
+                                </li>
+                                <li>
+                                    <a href="https://tools.usps.com/go/ScheduleAPickupAction!input.action" class="menu--tier-two-link">Schedule a Pickup</a>
+                                </li>
+                                <li>
+                                    <a href="https://tools.usps.com/go/ZipLookupAction_input" class="menu--tier-two-link">Look Up a ZIP Code</a>
+                                </li>
+                                <li>
+                                    <a href="https://tools.usps.com/go/POLocatorAction!input.action" class="menu--tier-two-link">Find USPS Locations</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.usps.com/ship/welcome.htm" class="menu--tier-two-link">Learn about Mail &amp; Shipping</a>
+                                </li>
+                            </ol>
+                        </li>
+                        <li class="menu--tier-one-category--track-manage">
+                            <a href="https://www.usps.com/manage/welcome.htm" class="menu--tier-one-link menu--item"><span>Track &amp; Manage</span><span class="tier_one_chevron">Open/Close Menu</span></a>
+                            <ol class="menu--tier-two">
+                                <li class="touchscreen-only">
+                                    <a href="https://www.usps.com/manage/welcome.htm" class="menu--tier-two-link">Track &amp; Manage</a>
+                                </li>
+                                <li>
+                                    <a href="https://tools.usps.com/go/TrackConfirmAction_input" class="menu--tier-two-link">Tracking</a>
+                                </li>
+                                <li>
+                                    <a href="https://my.usps.com/" class="menu--tier-two-link">My USPS</a>
+                                </li>
+                                <li>
+                                    <a href="https://retail-pi.usps.com/retailpi/actions/index.action" class="menu--tier-two-link">Intercept a Package</a>
+                                </li>
+                                <li>
+                                    <a href="https://redelivery.usps.com/redelivery/" class="menu--tier-two-link">Schedule a Redelivery</a>
+                                </li>
+                                <li>
+                                    <a href="https://holdmail.usps.com/holdmail/" class="menu--tier-two-link">Hold Mail</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.usps.com/manage/forward.htm" class="menu--tier-two-link">Forward Mail</a>
+                                </li>
+                                <li>
+                                    <a href="https://moversguide.usps.com/?referral=MG80" class="menu--tier-two-link">Change of Address</a>
+                                </li>
+                                <li>
+                                    <a href="https://poboxes.usps.com/" class="menu--tier-two-link">Rent or Renew PO Box</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.usps.com/manage/welcome.htm" class="menu--tier-two-link">Learn about Managing Mail</a>
+                                </li>
+                            </ol>
+                        </li>
+                        <li class="menu--tier-one-category--postal-store">
+                            <a href="https://store.usps.com/store/" class="menu--tier-one-link menu--item"><span>Postal Store</span><span class="tier_one_chevron">Open/Close Menu</span></a>
+                            <ol class="menu--tier-two">
+                                <li class="touchscreen-only">
+                                    <a href="https://store.usps.com/store/" class="menu--tier-two-link">Postal Store</a>
+                                </li>
+                                <li>
+                                    <a href="https://store.usps.com/store/browse/category.jsp?categoryId=buy-stamps"
+                                     class="menu--tier-two-link">Stamps</a>
+                                </li>
+                                <li>
+                                    <a href="https://store.usps.com/store/browse/category.jsp?categoryId=shipping-supplies"
+                                     class="menu--tier-two-link">Shipping Supplies</a>
+                                </li>
+                                <li>
+                                    <a href="https://store.usps.com/store/browse/category.jsp?categoryId=cards-envelopes"
+                                     class="menu--tier-two-link">Cards &amp; Envelopes</a>
+                                </li>
+                                <li>
+                                    <a href="https://store.usps.com/store/browse/category.jsp?categoryId=stamp-collectors"
+                                     class="menu--tier-two-link">Collectors</a>
+                                </li>
+                                <li>
+                                    <a href="https://store.usps.com/store/pse/" class="menu--tier-two-link">Personalized Stamped Envelopes</a>
+                                </li>
+                                <li>
+                                    <a href="https://store.usps.com/store/browse/category.jsp?categoryId=stamp-gifts"
+                                     class="menu--tier-two-link">Gifts</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.usps.com/shop/money-orders.htm" class="menu--tier-two-link">Money Orders</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.usps.com/shop/returns-exchanges.htm" class="menu--tier-two-link">Returns &amp;  Exchanges</a>
+                                </li>
+                            </ol>
+                        </li>
+                        <li class="menu--tier-one-category--business">
+                            <a href="https://www.usps.com/business/welcome.htm" class="menu--tier-one-link menu--item"><span>Business</span><span class="tier_one_chevron">Open/Close Menu</span></a>
+                            <ol class="menu--tier-two">
+                                <li class="touchscreen-only">
+                                    <a href="https://www.usps.com/business/welcome.htm" class="menu--tier-two-link">Business</a>
+                                </li>
+                                <li>
+                                    <a href="https://dbcalc.usps.com/" class="menu--tier-two-link">Calculate a  Business Price</a>
+                                </li>
+                                <li>
+                                    <a href="https://eddm.usps.com/eddm/customer/routeSearch.action" class="menu--tier-two-link">Every Door Direct Mail</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.usps.com/business/business-shipping.htm" class="menu--tier-two-link">Shipping For Business</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.usps.com/business/advertise-with-mail.htm" class="menu--tier-two-link">Advertise with Mail</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.usps.com/business/postage-options.htm" class="menu--tier-two-link">Postage Options</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.usps.com/business/return-services.htm" class="menu--tier-two-link">Returns Services</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.usps.com/business/international-shipping.htm" class="menu--tier-two-link">Take Your Business Global</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.usps.com/business/manage-mail.htm" class="menu--tier-two-link">Manage Business Mail</a>
+                                </li>
+                            </ol>
+                        </li>
+                        <li class="menu--tier-one-category--international">
+                            <a href="https://www.usps.com/international/welcome.htm" class="menu--tier-one-link menu--item"><span>International</span><span class="tier_one_chevron">Open/Close Menu</span></a>
+                            <ol class="menu--tier-two">
+                                <li class="touchscreen-only">
+                                    <a href="https://www.usps.com/international/welcome.htm" class="menu--tier-two-link">International</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.usps.com/international/international-how-to.htm" class="menu--tier-two-link">Print &amp; Ship International</a>
+                                </li>
+                                <li>
+                                    <a href="https://ircalc.usps.com/" class="menu--tier-two-link">Calculate International Prices</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.usps.com/international/mail-shipping-services.htm" class="menu--tier-two-link">International Mail Services</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.usps.com/international/preparing-international-shipments.htm"
+                                     class="menu--tier-two-link">Preparing International Shipments</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.usps.com/international/customs-forms.htm" class="menu--tier-two-link">Complete Customs Forms</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.usps.com/ship/apo-fpo-dpo.htm?pov=international" class="menu--tier-two-link">Military &amp; Diplomatic Mail</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.usps.com/international/money-transfers.htm" class="menu--tier-two-link">Send Money Abroad</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.usps.com/international/passports.htm" class="menu--tier-two-link">Passports</a>
+                                </li>
+                            </ol>
+                        </li>
+                        <li class="menu--tier-one-category--help">
+                            <a href="https://www.usps.com/help/welcome.htm" class="menu--tier-one-link menu--item"><span>Help</span><span class="tier_one_chevron">Open/Close Menu</span></a>
+                            <ol class="menu--tier-two">
+                                <li class="touchscreen-only">
+                                    <a href="https://www.usps.com/help/welcome.htm" class="menu--tier-two-link">Help</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.usps.com/help/missing-mail.htm" class="menu--tier-two-link">Find Missing Mail</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.usps.com/help/claims.htm" class="menu--tier-two-link">File a Claim</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.usps.com/help/refunds.htm" class="menu--tier-two-link">Request a Refund</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.usps.com/help/contact-us.htm" class="menu--tier-two-link">Contact Us</a>
+                                </li>
+                                <li>
+                                    <a href="http://faq.usps.com/" class="menu--tier-two-link">FAQs</a>
+                                </li>
+                            </ol>
+                        </li>
+                        <li class="menu--tier-one-category--search">
+                            <a href="#" class="menu--tier-one-link menu--item"><span>Search USPS.com</span></a>
+                            <ol class="menu--tier-two">
+                            </ol>
+                        </li>
+                        <li class="menu--tier-one-category--expand">
+
+                        </li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+<!--
+    <div class="alert-bar" style="">
+        <p>We are temporarily experiencing technical difficulties causing transactional payment
+            failures. We apologize for the inconvenience. <a href="#"><span style="">Read&nbsp;more</span></a></p>
+    </div>
+
+    <div class="alert-bar" style="">
+        <p><a href="http://about.usps.com/news/service-alerts/welcome.htm">Due to Winter Storm Stella, postal services may be interrupted in impacted areas. The Postal Service will continue to monitor. <span style="">Read&nbsp;more</span></a></p>
+    </div>
+-->	
+	
+<script src="/global-elements/lib/script/requirejs/require.js"></script>
+<script type="text/javascript" src="/global-elements/header/script/login.js"></script>
+
+ <div class="search--wrapper-hidden" id='search--display' style="display:none">
+<div class="search-close"><a href="#"><img src="/global-elements/header/images/utility-header/close_x.svg" alt="close search"></a></div>
+	<span aria-hidden="false" class="input--wrap-label">
+		<label class="visuallyhidden" for="styleguide-header--search-track">Search USPS.com</label>
+	</span>
+<form method="get" class="search global-header--search" action="https://search.usps.com/search?client=responsive_ecom&output=xml_no_dtd&proxystylesheet=responsive_ecom&sort=date:D:L:d1&wc=200&wc_mc=1&oe=UTF-8&ie=UTF-8&ud=1&exclude_apps=1&site=usps_com%7Cfaq%7Cabout%7Cpostal_explorer&ulang=en&access=p&entqr=3&entqrm=0&filter=0">
+
+	<span aria-hidden="false" class="input--wrap">
+		<input autocomplete="on" placeholder="Search or Enter a Tracking Number" class="search--track-input input--field q" id="global-header--search-track" maxlength="256" name="q" type="text">
+		<input value="Search" class="input--search search--submit" type="submit">
+	</span>
+</form>
+
+        <div class="empty-search">
+            <p>Top Searches</p>
+            <ul>
+                <li><a href="http://search.usps.com/search?client=responsive_ecom&amp;output=xml_no_dtd&amp;proxystylesheet=responsive_ecom&amp;sort=date:D:L:d1&amp;wc=200&amp;wc_mc=1&amp;oe=UTF-8&amp;ie=UTF-8&amp;ud=1&amp;exclude_apps=1&amp;site=usps_com%7Cfaq%7Cabout%7Cpostal_explorer&amp;ulang=en&amp;access=p&amp;entqr=3&amp;entqrm=0&amp;filter=0&amp;q=PO%20Boxes">PO BOXES</a></li>
+                <li><a href="http://search.usps.com/search?client=responsive_ecom&amp;output=xml_no_dtd&amp;proxystylesheet=responsive_ecom&amp;sort=date:D:L:d1&amp;wc=200&amp;wc_mc=1&amp;oe=UTF-8&amp;ie=UTF-8&amp;ud=1&amp;exclude_apps=1&amp;site=usps_com%7Cfaq%7Cabout%7Cpostal_explorer&amp;ulang=en&amp;access=p&amp;entqr=3&amp;entqrm=0&amp;filter=0&amp;q=Passports">PASSPORTS</a></li>
+                <li><a href="http://search.usps.com/search?client=responsive_ecom&amp;output=xml_no_dtd&amp;proxystylesheet=responsive_ecom&amp;sort=date:D:L:d1&amp;wc=200&amp;wc_mc=1&amp;oe=UTF-8&amp;ie=UTF-8&amp;ud=1&amp;exclude_apps=1&amp;site=usps_com%7Cfaq%7Cabout%7Cpostal_explorer&amp;ulang=en&amp;access=p&amp;entqr=3&amp;entqrm=0&amp;filter=0&amp;q=Free%20Boxes">FREE BOXES</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div id="shortcuts-menu-wrapper">
+
+        <div id="shortcuts-menu" style="">
+            <div class="quicktools-container">
+                <div class="shortcuts-close">
+                    <a href="#">
+                        <img src="/global-elements/header/images/utility-header/close_x.svg" alt="close shortcuts">
+                    </a>
+                </div>
+                <div class="shortcuts-title">
+                    <h2>Quick Tools</h2>
+                </div>
+
+                <div class="short-container">
+                    <div class="shortcut sc-track">
+                        <a href="https://tools.usps.com/go/TrackConfirmAction_input">
+                            <span></span> Track a
+                            <br />Package
+                        </a>
+                    </div>
+                    <div class="shortcut sc-myusps">
+                        <a href="https://my.usps.com/">
+                            <span></span> My USPS </a>
+                    </div>
+                    <div class="shortcut sc-loc">
+                        <a href="https://tools.usps.com/go/POLocatorAction!input.action">
+                            <span></span> Find USPS
+                            <br /> Locations </a>
+                    </div>
+                    <div class="shortcut sc-buy">
+                        <a href="https://store.usps.com/store/browse/category.jsp?categoryId=buy-stamps">
+                            <span></span> Buy Stamps </a>
+                    </div>
+                    <div class="shortcut sc-pick">
+                        <a href="https://tools.usps.com/go/ScheduleAPickupAction!input.action">
+                            <span></span> Schedule
+                            <br /> a Pickup </a>
+                    </div>
+                    <div class="shortcut sc-calc">
+                        <a href="https://postcalc.usps.com/">
+                            <span></span> Calculate
+                            <br /> a Price </a>
+                    </div>
+                    <div class="shortcut sc-zip">
+                        <a href="https://tools.usps.com/go/ZipLookupAction_input">
+                            <span></span> Look Up a
+                            <br /> ZIP&nbsp;Code<sup>&trade;</sup>
+                        </a>
+                    </div>
+                    <div class="shortcut sc-hold">
+                        <a href="https://holdmail.usps.com/holdmail/">
+                            <span></span> Hold Mail </a>
+                    </div>
+                    <div class="shortcut sc-change">
+                        <a href="https://moversguide.usps.com/?referral=MG82">
+                            <span></span> Change
+                            <br />My Address </a>
+                    </div>
+                    <div class="shortcut sc-pobox">
+                        <a href="https://poboxes.usps.com/">
+                            <span></span> Rent/Renew
+                            <br />a PO Box </a>
+                    </div>
+                    <div class="shortcut sc-boxes">
+                        <a href="https://store.usps.com/store/browse/subcategory.jsp?categoryId=free-shipping-supplies&amp;categoryNavIds=shipping-supplies%3Afree-shipping-supplies">
+                            <span></span> Free Boxes </a>
+                    </div>
+                </div>
+                <div class="shortcuts-menu-bg"></div>
+            </div>
+
+            <div class="mobile-quicktools" style="display:none;">
+                <div class="quicktools-title-close qt-close">
+                    <a href="#">
+                        <p class="qt--close">Close Tools</p>
+                    </a>
+                </div>
+                <div class='qt-scroll'>
+                    <div class="quicktools-open">
+                        <div class="quick--search">
+                            <form name="quick-tools--form-trackconfirm" id="quick-tools--form-trackconfirm" action="https://tools.usps.com/go/TrackConfirmAction">
+                                <span aria-hidden="false" class="input--wrap-label">
+            <label class="visuallyhidden" for="styleguide-header--search-track">Enter a Tracking Number</label>
+          </span>
+                                <span aria-hidden="false" class="input--wrap">
+            <input name="tLabels" autocomplete="off" placeholder="Enter a Tracking Number" class="input--field" id="quick-tools--input" maxlength="256" name="q" type="text">
+            <input value="Search" class="quick-tools--track--submit input--search search--submit" type="submit">
+          </span>
+                            </form>
+                        </div>
+                        <div class="shortcut sc-myusps">
+                            <a href="https://my.usps.com/">
+                                <span></span> My USPS
+                            </a>
+                        </div>
+                        <div class="shortcut sc-buy">
+                            <a href="https://store.usps.com/store/browse/category.jsp?categoryId=buy-stamps">
+                                <span></span> Buy Stamps </a>
+                        </div>
+                        <div class="shortcut sc-loc">
+                            <a href="https://tools.usps.com/go/POLocatorAction!input.action">
+                                <span></span> Find USPS
+                                <br /> Locations
+                            </a>
+                        </div>
+                        <div class="shortcut sc-pick">
+                            <a href="https://tools.usps.com/go/ScheduleAPickupAction!input.action">
+                                <span></span> Schedule
+                                <br /> a Pickup </a>
+                        </div>
+
+                    </div>
+                    <div class="quicktools-full">
+                        <div class="shortcut sc-zip">
+                            <a href="https://tools.usps.com/go/ZipLookupAction_input">
+                                <span></span> Look Up a
+                                <br /> ZIP&nbsp;Code<sup>&trade;</sup>
+                            </a>
+                        </div>
+
+                        <div class="shortcut sc-calc">
+                            <a href="https://postcalc.usps.com/">
+                                <span></span> Calculate
+                                <br /> a Price </a>
+                        </div>
+
+                        <div class="shortcut sc-hold">
+                            <a href="https://holdmail.usps.com/holdmail/">
+                                <span></span> Hold Mail </a>
+                        </div>
+                        <div class="shortcut sc-change">
+                            <a href="https://moversguide.usps.com/?referral=MG82">
+                                <span></span> Change
+                                <br />My Address </a>
+                        </div>
+                        <div class="shortcut sc-pobox">
+                            <a href="https://poboxes.usps.com/">
+                                <span></span> Rent/Renew
+                                <br />a PO Box </a>
+                        </div>
+                        <div class="shortcut sc-boxes">
+                            <a href="https://store.usps.com/store/browse/subcategory.jsp?categoryId=free-shipping-supplies&amp;categoryNavIds=shipping-supplies%3Afree-shipping-supplies">
+                                <span></span> Free Boxes </a>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="qt-more" style="display:none;">
+                    <a href="#">
+                        <p class="full">More Tools</p>
+                    </a>
+                </div>
+                <div class="qt-boot" style="display:none;">
+                    <a href="#">
+                        <p class="full">Close Tools</p>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="quicktools-title" style="display:none;">
+        <a href="#">
+            <p>Quick Tools</p>
+        </a>
+    </div>
+
+
+
+
+
+<div id="ge-overlay" style="display:none;" class=""></div>
+
+
+
+
+
+<script src="/global-elements/lib/script/requirejs/require.js"></script>
+<script type="text/javascript" src="/global-elements/lib/script/jquery/dist/jquery.min.js"></script>
+<script src="/global-elements/lib/script/modernizr/modernizr.js"></script>
+<script type="text/javascript">
+	var GlobalJQueryv1_11 = jQuery.noConflict(true);
+
+
+    GlobalJQueryv1_11(function() {
+
+        var locked = false;
+
+        function lockScroll() {
+            // lock scroll position, but retain settings for later
+
+            GlobalJQueryv1_11("html").addClass("noscroll");
+            GlobalJQueryv1_11("body").addClass("noscroll");
+
+            locked = true;
+        }
+
+        function unlockScroll() {
+            // un-lock scroll position
+
+            GlobalJQueryv1_11("html").removeClass("noscroll");
+            GlobalJQueryv1_11("body").removeClass("noscroll");
+
+            locked = false;
+        };
+
+        function resetContent() {
+            GlobalJQueryv1_11('#ge-overlay').removeClass('active');
+
+            GlobalJQueryv1_11('.quicktools-title p').removeClass('full');
+
+            GlobalJQueryv1_11(".menu--tier-one-category--search").removeClass('active');
+
+            unlockScroll();
+        };
+
+        function positionSearchOverlay() {
+            var mq = window.matchMedia("(min-width: 700px)");
+
+            if (mq.matches) {
+                var topOff = GlobalJQueryv1_11(
+                        '.menu--tier-one-category--search a.menu--tier-one-link.menu--item').offset()
+                    .top +
+                    GlobalJQueryv1_11('.menu--tier-one-category--search a.menu--tier-one-link.menu--item').height() -
+                    7;
+                var leftOff = GlobalJQueryv1_11(
+                        'li.menu--tier-one-category--search a.menu--tier-one-link.menu--item').offset()
+                    .left - 522;
+                GlobalJQueryv1_11('#search--display.active').css("top", topOff);
+                GlobalJQueryv1_11('#search--display.active').css("left", leftOff);
+
+                /*
+                document.ontouchstart = function(e) {
+                    e.preventDefault();
+                }
+                */
+            } else {
+                document.ontouchstart = function(e) {
+                    return true;
+                }
+            }
+        };
+
+        function touchFixTabletLandscape() {
+            var mq = window.matchMedia("(min-width: 700px)");
+
+            if (mq.matches) {
+                if (GlobalJQueryv1_11("html").hasClass("touch")) {
+                    //alert("stuff");
+                    //The script below should be wrapped in a Modernizr check for touchstart  and also something to check that we are on a tablet, otherwise the logic below will impact the mobile nav.
+
+                    GlobalJQueryv1_11(".menu--tier-one-category--mail-ship .menu--tier-one-link, .menu--tier-one-category--help .menu--tier-one-link, .menu--tier-one-category--international .menu--tier-one-link, .menu--tier-one-category--business .menu--tier-one-link, .menu--tier-one-category--postal-store .menu--tier-one-link, .menu--tier-one-category--track-manage .menu--tier-one-link")
+                        .on("touchstart click", function(event) {
+                            //prevent the default link navigation
+                            event.preventDefault();
+
+                            //caching link selector for performance
+                            GlobalJQueryv1_11this = GlobalJQueryv1_11(this);
+
+                            //check if link has been triggeed once. if so user is probably trying to go to top level link so navigate there
+                            if (GlobalJQueryv1_11this.data('clicked-once')) {
+                                //window.location = GlobalJQueryv1_11this.attr('href');
+
+                                GlobalJQueryv1_11this.find(".menu--tier-two").css("opacity", 0);
+
+                            } else {
+                                //find the submenu and display it, then set that weve clicked this once
+                                GlobalJQueryv1_11this.find(".menu--tier-two").toggleClass("active");
+
+                                GlobalJQueryv1_11this.find(".menu--tier-two.active").css("opacity", 1);
+
+                                GlobalJQueryv1_11this.data('clicked-once', true);
+                                //touchFixTabletLandscape();
+                            }
+                        });
+                } else {}
+            } else {}
+        };
+
+        function closeAll() {
+            GlobalJQueryv1_11('.qt-close').removeClass('active');
+            GlobalJQueryv1_11('.quicktools-open').css("height", "0px");
+            GlobalJQueryv1_11('.quicktools-full').css('height', '0px');
+            GlobalJQueryv1_11('.quicktools-title a p').text('Quick Tools').removeClass('partial');
+            GlobalJQueryv1_11('#global-menu.menu').removeClass('active');
+
+            GlobalJQueryv1_11('.quicktools-open').removeClass('active');
+            GlobalJQueryv1_11('.mobile-header .search-trigger').removeClass('active');
+
+            GlobalJQueryv1_11('.mobile-header .mobile-menu-trigger').removeClass('active');
+            GlobalJQueryv1_11('#ge-overlay').removeClass('active');
+            GlobalJQueryv1_11('.mobile-quicktools').removeClass('active');
+            //unlockScroll();
+        }
+
+        touchFixTabletLandscape();
+
+        GlobalJQueryv1_11(window).resize(function() {
+            resetContent();
+            positionSearchOverlay();
+
+            var mq = window.matchMedia("(min-width: 966px)");
+            if (mq.matches) {
+                GlobalJQueryv1_11('#search--display').removeClass("active");
+                GlobalJQueryv1_11('#search--display').css("display", 'none');
+
+                GlobalJQueryv1_11("#shortcuts-menu").removeClass("active");
+            }
+        });
+
+        GlobalJQueryv1_11(window).bind('orientationchange', function(event) {
+            resetContent();
+            positionSearchOverlay();
+            window.location.reload();
+            touchFixTabletLandscape();
+        });
+
+
+        //START SEARCH
+        GlobalJQueryv1_11('li.menu--tier-one-category--search a.menu--tier-one-link').on('click', function(e) {
+            GlobalJQueryv1_11('li.menu--tier-one-category--search').trigger('click');
+
+            GlobalJQueryv1_11("#ge-overlay").addClass("active");
+
+            positionSearchOverlay();
+        });
+
+
+        GlobalJQueryv1_11(".menu--tier-one-category--search, .menu--tier-one-category--search a, .search-close").on('click', function(e) {
+            GlobalJQueryv1_11(".menu--tier-one-category--search").toggleClass("active");
+            GlobalJQueryv1_11('#search--display').toggleClass("active");
+
+            positionSearchOverlay();
+
+            if (GlobalJQueryv1_11('#search--display').hasClass('active')) {
+
+                GlobalJQueryv1_11('#ge-overlay').addClass('active');
+                lockScroll();
+            } else {
+                GlobalJQueryv1_11('#ge-overlay').removeClass('active');
+                unlockScroll();
+                GlobalJQueryv1_11('.menu--tier-one-category--search').removeClass('active');
+
+            };
+
+            if (GlobalJQueryv1_11('#search--display').hasClass('active')) {
+                GlobalJQueryv1_11('.q').focus();
+            }
+
+            positionSearchOverlay()
+        });
+
+        //mobile search trigger
+        GlobalJQueryv1_11('.search-trigger a').on('click', function(e) {
+            GlobalJQueryv1_11('#global-menu').removeClass('active');
+
+            GlobalJQueryv1_11('.quicktools-title p').removeClass('full');
+
+            GlobalJQueryv1_11('.mobile-quicktools').removeClass('active');
+
+            GlobalJQueryv1_11('.mobile-header.mobile-menu-trigger').removeClass('active');
+
+            if (GlobalJQueryv1_11('.mobile-header .search-trigger').hasClass('active')) {
+
+                GlobalJQueryv1_11('.mobile-header .search-trigger').removeClass('active');
+                GlobalJQueryv1_11('#search--display').css('display', 'none');
+                GlobalJQueryv1_11('#ge-overlay').removeClass('active');
+                closeAll();
+                unlockScroll();
+                //console.log('if');
+
+            } else {
+                positionSearchOverlay();
+
+                GlobalJQueryv1_11('.mobile-header .search-trigger').addClass('active');
+                GlobalJQueryv1_11('#search--display').css('display', 'block');
+                GlobalJQueryv1_11('#ge-overlay').addClass('active');
+
+                GlobalJQueryv1_11('#search--input').focus();
+
+                lockScroll();
+                //console.log('else');
+            }
+        });
+
+        // short cuts
+        GlobalJQueryv1_11(".quick-tools--trigger").on('touchstart click', function(e) {
+            GlobalJQueryv1_11("#shortcuts-menu").addClass("active");
+            GlobalJQueryv1_11("#ge-overlay").addClass('active');
+
+            if (locked) {
+                unlockScroll();
+            } else {
+                lockScroll();
+                GlobalJQueryv1_11('#search--display').removeClass("active");
+                GlobalJQueryv1_11('#search--display').css("display", 'none');
+            }
+        });
+
+        GlobalJQueryv1_11(".quicktools-container .shortcuts-close a").on('touchstart click', function(
+            e) {
+            GlobalJQueryv1_11("#shortcuts-menu").removeClass("active");
+            GlobalJQueryv1_11("#ge-overlay").removeClass('active');
+
+            if (locked) {
+                unlockScroll();
+            } else {
+                lockScroll();
+                GlobalJQueryv1_11('#search--display').removeClass("active");
+                GlobalJQueryv1_11('#search--display').css("display", 'none');
+            }
+        });
+
+
+        GlobalJQueryv1_11('#ge-overlay').on('touchstart click', function(e) {
+
+            GlobalJQueryv1_11("#shortcuts-menu").removeClass('active');
+
+            GlobalJQueryv1_11(".search--wrapper-hidden").removeClass('active');
+
+            GlobalJQueryv1_11('#search--display').css('display', 'none');
+            GlobalJQueryv1_11('#search--display').removeClass('active');
+            GlobalJQueryv1_11('.menu--tier-one-category--search').removeClass('active');
+
+
+            GlobalJQueryv1_11('.mobile-header.search-trigger').removeClass('active');
+
+            GlobalJQueryv1_11("#ge-overlay").removeClass('active');
+            //GlobalJQueryv1_11('#ge-overlay').addClass('non-active');
+            if (locked) {
+                unlockScroll();
+            } else {
+                lockScroll();
+            }
+
+            var mq = window.matchMedia("(max-width: 700px)");
+            if (mq.matches) {
+                GlobalJQueryv1_11('.mobile-header .search-trigger').removeClass('active');
+                GlobalJQueryv1_11('.mobile-quicktools').removeClass('active');
+
+                GlobalJQueryv1_11('.mobile-quicktools.active').removeAttr('style');
+                GlobalJQueryv1_11('.quicktools-open').removeClass('active');
+                GlobalJQueryv1_11('.quicktools-open').css('height', '0px');
+                GlobalJQueryv1_11('.quicktools-full').css('height', '0px');
+                GlobalJQueryv1_11('.quicktools-title a p').text('Quick Tools').removeClass('full');
+                GlobalJQueryv1_11('.qt-close').removeClass('active');
+                GlobalJQueryv1_11('.mobile-quicktools').removeClass('active');
+                GlobalJQueryv1_11('.qt-boot').css('display', 'none').removeClass('active');
+                GlobalJQueryv1_11('.mobile-quicktools.active').removeAttr('style');
+                //GlobalJQueryv1_11('#ge-overlay').removeClass('active');
+            }
+        });
+
+        GlobalJQueryv1_11('.section--show-hide').on('taphold click', function() {
+
+            if (!GlobalJQueryv1_11(this).hasClass('active')) {
+                GlobalJQueryv1_11('.section--show-hide').removeClass('active');
+            }
+
+            GlobalJQueryv1_11(this).toggleClass('active');
+
+            GlobalJQueryv1_11('html, body').animate({
+                scrollTop: GlobalJQueryv1_11(this).offset().top
+            }, 500);
+
+        });
+
+        //working
+        //Mobile menu trigger displays dropdown mobile menu with commented out code for overlay
+        GlobalJQueryv1_11('.mobile-header .mobile-menu-trigger').on('click', function(e) {
+
+            GlobalJQueryv1_11('.quicktools-title p').removeClass('full');
+
+            if (GlobalJQueryv1_11('#global-menu.menu').hasClass('active')) {
+                closeAll();
+                GlobalJQueryv1_11('.mobile-header .mobile-menu-trigger').removeClass('active');
+                GlobalJQueryv1_11('.ge-overlay').addClass('active');
+
+                //added code to reset open menu
+                e.preventDefault();
+                GlobalJQueryv1_11('.ge_parent').removeAttr('style').removeClass('ge_parent');
+                //console.log('chevron remove');
+
+                unlockScroll();
+            } else {
+
+                GlobalJQueryv1_11('.menu--tier-one-category--search').removeClass('active');
+                GlobalJQueryv1_11('.mobile-header .search-trigger').removeClass('active');
+                GlobalJQueryv1_11('#search--display').removeClass("active");
+                GlobalJQueryv1_11('#search--display').css("display", 'none');
+
+                closeAll();
+                GlobalJQueryv1_11('#global-menu.menu').addClass('active');
+                GlobalJQueryv1_11('.mobile-header .mobile-menu-trigger').addClass('active');
+                GlobalJQueryv1_11('.ge-overlay').addClass('active');
+
+                lockScroll();
+            }
+        });
+
+        //menu active in mobile
+
+        GlobalJQueryv1_11('[placeholder]').focus(function() {
+            var input = GlobalJQueryv1_11(this);
+            if (input.val() == input.attr('placeholder')) {
+                input.val('');
+                //input.removeClass('placeholder');
+            }
+        }).blur(function() {
+            var input = GlobalJQueryv1_11(this);
+            if (input.val() == '' || input.val() == input.attr('placeholder')) {
+                //input.addClass('placeholder');
+                input.val(input.attr('placeholder'));
+            }
+        }).blur();
+        GlobalJQueryv1_11('[placeholder]').parents('form').submit(function() {
+            GlobalJQueryv1_11(this).find('[placeholder]').each(function() {
+                var input = GlobalJQueryv1_11(this);
+                if (input.val() == input.attr('placeholder')) {
+                    input.val('');
+                }
+            })
+        });
+
+
+        if (!GlobalJQueryv1_11('.mobile-panels:hidden').length == 1) {
+
+            // if menu item is clicked and it isn't chevron follow link
+            GlobalJQueryv1_11('.menu .menu--tier-one li:has(ol)').not('.menu--tier-two li a').on('click',
+                function(e) {
+                    if (!GlobalJQueryv1_11(this).hasClass('ge_parent')) {
+                        e.preventDefault();
+                        tpOff = 0;
+                        GlobalJQueryv1_11('.ge_parent').removeClass('ge_parent');
+                        GlobalJQueryv1_11(this).addClass('ge_parent');
+                        GlobalJQueryv1_11('#global-menu').animate({
+                            scrollTop: tpOff
+                        }, 10);
+                        //console.log('Reset');
+                        if (GlobalJQueryv1_11(this).offset().top - 50 < 0) {
+                            tpOff = (GlobalJQueryv1_11(this).offset().top - 50) * -1;
+                        } else {
+                            tpOff = GlobalJQueryv1_11(this).offset().top - 50;
+                        }
+                        //console.log(tpOff);
+                        GlobalJQueryv1_11('#global-menu').animate({
+                            scrollTop: tpOff
+                        }, 300);
+                    } else {
+                        e.preventDefault();
+                        GlobalJQueryv1_11(this).removeClass('ge_parent');
+                        GlobalJQueryv1_11('#global-menu').animate({
+                            scrollTop: 0
+                        }, 10);
+
+                    }
+                });
+            GlobalJQueryv1_11('.menu--tier-one-link span').not('.tier_one_chevron').on('click', function(
+                e) {
+                window.location = GlobalJQueryv1_11(this).parent().attr('href');
+            });
+            GlobalJQueryv1_11('.menu--tier-two li a').on('click', function(e) {
+                window.location = GlobalJQueryv1_11(this).attr('href');
+            });
+
+            //homepage hero wrapper
+            /*GlobalJQueryv1_11('.hero-wrapper').on('click', function(e) {
+                window.location = GlobalJQueryv1_11('#buyNow').attr('href');
+            });*/
+
+            //click on overlay, remove parent class and close menu
+            GlobalJQueryv1_11("#ge-overlay").on('touchstart click', function(e) {
+                GlobalJQueryv1_11('.ge_parent').removeClass('ge_parent');
+
+                GlobalJQueryv1_11('#global-menu.menu').removeClass('active');
+                //GlobalJQueryv1_11('#global-menu.menu').addClass('non-active');
+                GlobalJQueryv1_11('#ge-overlay').removeClass('mobile-active');
+
+                GlobalJQueryv1_11('.menu--tier-one-category--search').toggleClass('active');
+                //GlobalJQueryv1_11(".search--wrapper-hidden").removeClass('active');
+            });
+        }
+
+        GlobalJQueryv1_11("#ge-overlay, .search--wrapper-hidden").bind(
+            'touchmove',
+            function(e) {
+                e.preventDefault();
+            }
+        );
+
+
+        // mobile quicktools
+        GlobalJQueryv1_11(".quicktools-title, .qt-more").on('touchstart click', function(e) {
+            e.preventDefault();
+            var qt1 = GlobalJQueryv1_11('.quicktools-open').css('height');
+            var qt2 = GlobalJQueryv1_11('.quicktools-full').css('height');
+            //alert('qt1');
+            //console.log(qt2);
+
+            if ((GlobalJQueryv1_11(window).width() < 373)) {
+
+                // if qt1 and qt2 are closed (height = 0)
+                if ((qt1 == '0px') && (qt2 == '0px')) {
+                    closeAll();
+                    GlobalJQueryv1_11('.quicktools-open').addClass('active');
+                    GlobalJQueryv1_11('.quicktools-open').css('height', '100%');
+                    GlobalJQueryv1_11('.quicktools-full').css('height', '100%');
+                    GlobalJQueryv1_11('.quicktools-title a p').addClass('full').text('Close Tools');
+                    GlobalJQueryv1_11('.mobile-quicktools').addClass('active');
+                    GlobalJQueryv1_11('.mobile-quicktools.active').css('height', '94%');
+                    GlobalJQueryv1_11('.qt-boot').css('display', 'block').addClass('active');
+                    GlobalJQueryv1_11('.qt-close').addClass('active');
+
+                    lockScroll();
+                    GlobalJQueryv1_11('#ge-overlay').addClass('active');
+
+                }
+
+                // if qt1 and qt2 are not closed (height = 0)
+                if ((qt1 != '0px') && (qt2 != '0px')) {
+                    GlobalJQueryv1_11('.quicktools-open').removeClass('active');
+                    GlobalJQueryv1_11('.quicktools-open').css('height', '0');
+                    GlobalJQueryv1_11('.quicktools-full').css('height', '0');
+                    GlobalJQueryv1_11('.quicktools-title a p').text('QuickTools').removeClass('full');
+                    GlobalJQueryv1_11('.qt-close').removeClass('active');
+                    GlobalJQueryv1_11('.mobile-quicktools').removeClass('active');
+                    closeAll();
+                    GlobalJQueryv1_11('.qt-boot').css('display', 'none').removeClass('active');
+
+                    GlobalJQueryv1_11('.qt-close').removeClass('active');
+
+                    unlockScroll();
+                    GlobalJQueryv1_11('#ge-overlay').removeClass('active');
+                    GlobalJQueryv1_11('.mobile-quicktools.active').removeAttr('style');
+
+                }
+            }
+
+            if ((GlobalJQueryv1_11(window).width() > 480) && ((GlobalJQueryv1_11(window).width() <= 736))) {
+                // if qt1 and qt2 are closed (height = 0)
+                if ((qt1 == '0px') && (qt2 == '0px')) {
+                    closeAll();
+                    GlobalJQueryv1_11('.quicktools-open').addClass('active');
+                    GlobalJQueryv1_11('.quicktools-open').css('height', '100%');
+                    GlobalJQueryv1_11('.quicktools-full').css('height', '100%');
+                    GlobalJQueryv1_11('.quicktools-title a p').addClass('full').text('Close Tools');
+                    GlobalJQueryv1_11('.mobile-quicktools').addClass('active');
+                    GlobalJQueryv1_11('.mobile-quicktools.active').css('height', '94%');
+                    GlobalJQueryv1_11('.qt-boot').css('display', 'block').addClass('active');
+                    //GlobalJQueryv1_11('.qt-boot').css('display', 'block').addClass('reactive');                    
+                    GlobalJQueryv1_11('.qt-close').addClass('active');
+
+                    lockScroll();
+                    GlobalJQueryv1_11('#ge-overlay').addClass('active');
+                }
+
+                // if qt1 and qt2 are not closed (height = 0)
+                if ((qt1 != '0px') && (qt2 != '0px')) {
+                    GlobalJQueryv1_11('.quicktools-open').removeClass('active');
+                    GlobalJQueryv1_11('.quicktools-open').css('height', '0');
+                    GlobalJQueryv1_11('.quicktools-full').css('height', '0');
+                    GlobalJQueryv1_11('.quicktools-title a p').text('QuickTools').removeClass('full');
+                    GlobalJQueryv1_11('.qt-close').removeClass('active');
+                    GlobalJQueryv1_11('.mobile-quicktools').removeClass('active');
+                    closeAll();
+                    GlobalJQueryv1_11('.qt-boot').css('display', 'none').removeClass('active');
+
+                    GlobalJQueryv1_11('.qt-close').removeClass('active');
+
+                    unlockScroll();
+                    GlobalJQueryv1_11('#ge-overlay').removeClass('active');
+                    GlobalJQueryv1_11('.mobile-quicktools.active').removeAttr('style');
+
+                }
+            }
+
+
+            if ((GlobalJQueryv1_11(window).width() <= 538) && (GlobalJQueryv1_11(window).width() > 373)) {
+
+                // if qt1 and qt2 are closed (height = 0)
+                if ((qt1 == '0px') && (qt2 == '0px')) {
+                    closeAll();
+                    //console.log('close all');
+                    //console.log('0');
+                    GlobalJQueryv1_11('.quicktools-open').addClass('active');
+                    GlobalJQueryv1_11('.quicktools-open').css('height', '100%');
+                    GlobalJQueryv1_11('.quicktools-title a p').addClass('partial').text('More Tools');
+                    GlobalJQueryv1_11('.qt-close').addClass('active');
+                    GlobalJQueryv1_11('.mobile-quicktools').addClass('active');
+                    GlobalJQueryv1_11('#ge-overlay').addClass('active');
+                    GlobalJQueryv1_11('.qt-more').css('display', 'block').addClass('active');
+                    lockScroll();
+                } else if ((qt1 != '0px') && (qt2 == '0px')) {
+                    // if qt1 and qt2 are closed (height = 0)
+                    //console.log('1-0');
+                    GlobalJQueryv1_11('.quicktools-full').css("height", "100%");
+                    GlobalJQueryv1_11('.quicktools-title a p').addClass('full').text('Close Tools');
+                    GlobalJQueryv1_11('.quicktools-full').addClass('active');
+                    GlobalJQueryv1_11('.qt-more').css('display', 'none').removeClass('active');
+                    GlobalJQueryv1_11('.qt-boot').css('display', 'block').addClass('active');
+                    GlobalJQueryv1_11('.mobile-quicktools.active').css('height', '94%');
+                } else if ((qt1 != '0px') && (qt2 != '0px')) {
+                    // if qt1 and qt2 are open (height = 0)
+                    //console.log('1-1');
+                    GlobalJQueryv1_11('.mobile-quicktools.active').removeAttr('style');
+                    GlobalJQueryv1_11('.quicktools-open').removeClass('active');
+                    GlobalJQueryv1_11('.quicktools-open').css('height', '0px');
+                    GlobalJQueryv1_11('.quicktools-full').css('height', '0px');
+                    GlobalJQueryv1_11('.quicktools-title a p').text('Quick Tools').removeClass('full');
+                    GlobalJQueryv1_11('.qt-close').removeClass('active');
+                    GlobalJQueryv1_11('.mobile-quicktools').removeClass('active');
+                    GlobalJQueryv1_11('.qt-boot').css('display', 'none').removeClass('active');
+                    GlobalJQueryv1_11('.mobile-quicktools.active').removeAttr('style');
+                    GlobalJQueryv1_11('#ge-overlay').removeClass('active');
+
+                    unlockScroll();
+                }
+            }
+
+            if ((GlobalJQueryv1_11(window).width() > 538) && (GlobalJQueryv1_11(window).width() < 959)) {
+                // if qt1 and qt2 are closed (height = 0)
+                if ((qt1 == '0px') && (qt2 == '0px')) {
+                    closeAll();
+                    GlobalJQueryv1_11('.quicktools-open').addClass('active');
+                    GlobalJQueryv1_11('.quicktools-open').css('height', '100%');
+                    GlobalJQueryv1_11('.quicktools-full').css('height', '100%');
+                    GlobalJQueryv1_11('.quicktools-title a p').addClass('full').text('Close Tools');
+                    GlobalJQueryv1_11('.mobile-quicktools').addClass('active');
+                    lockScroll();
+                    GlobalJQueryv1_11('#ge-overlay').addClass('active');
+                    GlobalJQueryv1_11('.qt-boot').css('display', 'block').addClass('active');
+
+                }
+
+                // if qt1 and qt2 are not closed (height = 0)
+                if ((qt1 != '0px') && (qt2 != '0px')) {
+                    GlobalJQueryv1_11('.quicktools-open').removeClass('active');
+                    GlobalJQueryv1_11('.quicktools-open').css('height', '0');
+                    GlobalJQueryv1_11('.quicktools-full').css('height', '0');
+                    GlobalJQueryv1_11('.quicktools-title a p').text('QuickTools').removeClass('full');
+                    GlobalJQueryv1_11('.qt-close').removeClass('active');
+                    GlobalJQueryv1_11('.mobile-quicktools').removeClass('active');
+                    GlobalJQueryv1_11('.qt-boot').css('display', 'none').removeClass('active');
+                    closeAll();
+                    unlockScroll();
+                    GlobalJQueryv1_11('#ge-overlay').removeClass('active');
+                    GlobalJQueryv1_11('.mobile-quicktools.active').removeAttr('style');
+
+                }
+
+            }
+
+        });
+
+        GlobalJQueryv1_11('.qt-close, .qt-boot').on('click', function(e) {
+            e.preventDefault();
+            GlobalJQueryv1_11('.quicktools-open').removeClass('active');
+            GlobalJQueryv1_11('.quicktools-open').css('height', '0px');
+            GlobalJQueryv1_11('.quicktools-full').css('height', '0px');
+            GlobalJQueryv1_11('.quicktools-title a p').text('QuickTools').removeClass('full');
+            GlobalJQueryv1_11('.qt-close').removeClass('active');
+            GlobalJQueryv1_11('.mobile-quicktools.active').removeAttr('style');
+            GlobalJQueryv1_11('.mobile-quicktools').removeClass('active');
+
+            GlobalJQueryv1_11('.qt-boot').css('display', 'none').removeClass('active');
+
+            unlockScroll();
+            GlobalJQueryv1_11('#ge-overlay').removeClass('active');
+
+        });
+        // end mobile quicktools
+
+
+        //place language selector
+        //assign bg color to language
+        if (GlobalJQueryv1_11("html").hasClass("no-touch")) {
+            GlobalJQueryv1_11('.utility-links #nav-tool-multilingual-header').hover(function(e) {
+                placeLanguage();
+                GlobalJQueryv1_11('.utility-links #lang_select').addClass('active');
+                GlobalJQueryv1_11('.utility-links .nav-tool-header a.anchor').addClass('highlight');
+            }, function(e) {
+                GlobalJQueryv1_11('.utility-links #lang_select').removeClass('active');
+                GlobalJQueryv1_11('.utility-links .nav-tool-header a.anchor').removeClass('highlight');
+            });
+            GlobalJQueryv1_11('#lang_select .content div').hover(function(e) {
+                GlobalJQueryv1_11('.utility-links .nav-tool-header a.anchor').addClass('highlight');
+            }, function(e) {
+                GlobalJQueryv1_11('.utility-links .nav-tool-header a.anchor').removeClass('highlight');
+            });
+        }
+
+        if (GlobalJQueryv1_11("html").hasClass("touch")) {
+            GlobalJQueryv1_11('.utility-links #nav-tool-multilingual-header').on('touchstart click', function(e) {
+                placeLanguage();
+                GlobalJQueryv1_11('.utility-links #lang_select').toggleClass('active');
+                GlobalJQueryv1_11('.utility-links .nav-tool-header a.anchor').toggleClass('highlight');
+            });
+            GlobalJQueryv1_11('#lang_select .content div').on('click', function(e) {
+                GlobalJQueryv1_11('.utility-links .nav-tool-header a.anchor').toggleClass('highlight');
+                GlobalJQueryv1_11('.nav-window-header').toggleClass('active');
+
+            });
+            GlobalJQueryv1_11('.nav-tool-header .anchor').on('click', function(e) {
+                GlobalJQueryv1_11('.nav-window-header').toggleClass('active');
+                GlobalJQueryv1_11('.utility-links .nav-tool-header a.anchor').toggleClass('highlight');
+            });
+        }
+
+
+        function placeLanguage() {
+            var lft = GlobalJQueryv1_11('.utility-links #nav-tool-multilingual-header').offset().left;
+            var tp = GlobalJQueryv1_11('.utility-links #nav-tool-multilingual-header').offset().top;
+            GlobalJQueryv1_11("div#lang_select").offset({
+                top: tp + 20,
+                left: lft
+            });
+        }
+		
+		
+
+ 
+
+        GlobalJQueryv1_11(".homepage-blades li").on("click", function() {
+            var GlobalJQueryv1_11blade = GlobalJQueryv1_11(this);
+            var GlobalJQueryv1_11link = GlobalJQueryv1_11blade.find(".toggle");
+            var GlobalJQueryv1_11blades = GlobalJQueryv1_11(".homepage-blades li");
+            var expandText = "Expand";
+            var closeText = "Close";
+
+            if (GlobalJQueryv1_11blade.hasClass("active")) {
+                GlobalJQueryv1_11blades.removeClass();
+                GlobalJQueryv1_11blade.removeClass("active").siblings("li").removeClass("compressed");
+            } else {
+                GlobalJQueryv1_11blades.removeClass();
+                GlobalJQueryv1_11blade.addClass("active").siblings("li").removeClass("active").addClass(
+                    "compressed").find(".toggle").html(expandText);
+            }
+
+            GlobalJQueryv1_11link.html(GlobalJQueryv1_11blade.hasClass("active") ? closeText : expandText);
+
+        });
+
+	//promo rotation
+	var GlobalJQueryv1_11imageOne = GlobalJQueryv1_11(".firstImage");
+	var GlobalJQueryv1_11imageTwo = GlobalJQueryv1_11(".secondImage");
+	GlobalJQueryv1_11imageOne.html(shuffle(GlobalJQueryv1_11imageOne.children().get()));
+	GlobalJQueryv1_11imageTwo.html(shuffle(GlobalJQueryv1_11imageTwo.children().get()));
+
+	function shuffle(o){
+		for(var j, x, i = o.length; i; j = parseInt(Math.random() * i), x = o[--i], o[i] = o[j], o[j] = x);
+		return o;
+	};
+	GlobalJQueryv1_11('.firstImageContentWrapper').removeClass('chosen');
+	GlobalJQueryv1_11('.secondImageContentWrapper').removeClass('chosen');
+	GlobalJQueryv1_11('.firstImageContentWrapper:first-of-type').addClass('chosen');
+	GlobalJQueryv1_11('.secondImageContentWrapper:first-of-type').addClass('chosen');
+
+	
+
+		});
+
+	
+
+    </script>
+
+	<style>
+.global-footer--logo-link {
+    background: transparent url(/global-elements/footer/images/logo-mini-sb.png) top left;
+}
+.secondImage {
+    vertical-align: top;
+}
+
+
+.secondImageContentWrapper,.firstImageContentWrapper {
+	opacity: 0;
+	display:none;
+}
+
+.secondImageContentWrapper.chosen,.firstImageContentWrapper.chosen {
+	display:inline-block !important;
+	opacity: 1!important;
+	webkit-transition: opacity .25s ease .1s;
+	-moz-transition: opacity .25s ease .1s;
+	-o-transition: opacity .25s ease .1s;
+	-ms-transition: opacity .25s ease .1s;
+	transition: opacity .25s ease .1s;
+}
+.global-footer--social li {
+	padding: 10px 20px 0 0 !important;
+    vertical-align: middle !important;
+}
+</style>
+
+
+		
+</script>
+
+
+  <link href="/global-elements/header/script/search/easy-autocomplete.min.css" rel="stylesheet" type="text/css"/>
+
+  <!--	<script src="/global-elements/lib/script/modernizr/modernizr.js"></script>--><script src="/global-elements/lib/script/requirejs/require.js"></script>
+<script src="/global-elements/header/script/header-init-search.js"></script>
+<script type="text/javascript" src="https://www.usps.com/assets/script/component-guide-init-search-alt.js"></script>
+   <div class="page-wrapper" id="maincontent">
+       <div class="hero-wrapper">
+            <a href="https://moversguide.usps.com/?referral=MG84" class="hero-wrapper-link">
+            <div class="homepage-hero-image">
+                <div class="image-content">
+                    <div class="homepage-text-section">
+                        <h1 class="hero-image-header">Making a Move?</h1>
+                        <p class="hero-image-text">Moving is hard enough, so make one part of it easier by changing your address online in a few simple steps.</p>
+						<p class="mobile-hero-image-text"><span aria-label="Get Started changing your address" class="button--primary">Get Started</span></p>
+                    </div>
+                </div>
+                <div class="mobile-image-content">
+                    <h1 class="mobile-hero-image-header">Making a Move?</h1>
+                    <p class="mobile-hero-image-text">Moving is hard enough, so make one part of it easier by changing your address online in a few simple steps.</p>
+					<p class="mobile-hero-image-text"><span aria-label="Get Started changing your address" class="button--primary">Get Started</span></p>
+                    </p>
+                </div>
+            </div>
+            </a>
+        </div>
+<!--
+		<div class="hero-wrapper">
+            <a href="http://usps.com/tracking" class="hero-wrapper-link">
+            <div class="homepage-hero-image">
+                <div class="image-content">
+                    <div class="homepage-text-section">
+                        <h1 class="hero-image-header">Stay Posted <br>with text alerts</h1>
+                        <p class="hero-image-text">Text your tracking number to <span>2usps (28777)</span><br> for delivery alerts sent right to your phone.*</p>
+                        <p class="hero-disclaimer">*Exceptions apply. See usps.com/tracking for details.</p>
+                    </div>
+                </div>
+                <div class="mobile-image-content">
+                    <h1 class="mobile-hero-image-header">Stay <br>Posted with <br>Text Alerts</h1>
+                    <p class="mobile-hero-image-text">Text your tracking number to <span>2usps (28777)</span> for delivery alerts sent right to your phone.*</p>
+                    </p>
+                    <p class="mobile-hero-disclaimer">*Exceptions apply. See usps.com/tracking for details.</p>
+                </div>
+            </div>
+            </a>
+        </div>
+-->
+        <div class="qm-con">
+            <div class="quickMenu">
+
+                <div class="trackContainer quickMenuItem">
+                    <div class="quickMenuItemWrapper">
+                        <div class="quickMenuItemHeader">
+                            <h2 id="trackingHeader" class="quickMenuHeader">Track a Package</h2>
+                        </div>
+                        <form name="quick-tools--form-trackconfirm" id="content--form-trackconfirm" action="https://tools.usps.com/go/TrackConfirmAction">
+                            <div class="quickMenuItemBody">
+                                <span aria-hidden="false" class="input--wrap-label">
+                             <label class="visuallyhidden" for="styleguide-header--search-track">Enter a Tracking Number</label>
+                        </span>
+                                <span aria-hidden="false" class="">
+        <input name="tLabels" autocomplete="off" placeholder="Enter up to 35 tracking numbers, separated by commas" class=" quickMenuInput input--field" id="quick-tools--input" maxlength="256" name="q" type="text">
+      </span>
+
+                            </div>
+                            <div class="quickMenuItemFooter">
+                                <input value="Track Package" class="input--search button--primary" type="submit"
+                                 id="trackButton" >
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+                <div class="shipContainer quickMenuItem">
+                    <div class="quickMenuItemWrapper">
+                        <div class="quickMenuItemHeader">
+                            <h2 id="shippingHeader" class="quickMenuHeader">Click-N-Ship<sup>&reg;</sup></h2>
+                        </div>
+                        <div class="quickMenuItemBody">
+                            <p id="quickMenuShipText" class="quickMenuText">Create and print shipping labels with your USPS<sup>&reg;</sup> account.</p>
+                        </div>
+                        <div class="quickMenuItemFooter">
+                            <a href="https://cns.usps.com/" id="quickMenuButtonShip" class="button--primary">Create a Label</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="stampContainer quickMenuItem">
+                    <div class="quickMenuItemWrapper">
+                        <div class="quickMenuItemHeader">
+                            <h2 id="stampHeader" class="quickMenuHeader">Stamps and Supplies</h2>
+                        </div>
+                        <div class="quickMenuItemBody">
+                            <p id="stampText" class="quickMenuText">Get supplies for your mailing and shipping needs.</p>
+                        </div>
+                        <div class="quickMenuItemFooter">
+                            <a href="https://store.usps.com/store/browse/category.jsp?categoryId=buy-stamps"
+                             id="stampButton" class="button--primary">Buy Stamps</a>
+                            <a href="https://store.usps.com/store/browse/category.jsp?categoryId=shipping-supplies"
+                             id="orderButton" class="button--primary">Order Boxes</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Home Page Blades (Desktop) -->
+        <div class="homepage-blades">
+            <ul>
+                <li class="homepage-blade-1">
+                    <a href="javascript:;" class="toggle">Expand</a>
+                    <div class="col_content">
+                        <h3>PO Boxes<sup>&trade;</sup> Online</h3>
+                        <p>Find or renew a PO Box<sup>&trade;</sup> online.</p>
+                        <p><a href="https://poboxes.usps.com/poboxonline/search/landingPage.do">Get a New PO Box <i class="link-carat"></i></a></p>
+                        <p><a href="https://reg.usps.com/login?app=POBO&appURL=https://poboxes.usps.com:443/poboxonline%2Fpages%2FmyAccount.do">Manage Your PO Box <i class="link-carat"></i></a></p>
+                        <div class="col_content_expand">
+                            <p>A PO Box<sup>&trade;</sup> is a secure and efficient way to manage your personal
+                                or business mail. Rent one today or click Manage Your PO Box to pay for,
+                                renew, or make changes to your existing one.</p>
+                            <a href="https://poboxes.usps.com/poboxonline/search/landingPage.do" class="button--primary">Get a New PO Box</a>
+                            <a href="https://reg.usps.com/login?app=POBO&appURL=https://poboxes.usps.com:443/poboxonline%2Fpages%2FmyAccount.do"
+                             class="button--primary">Manage Your PO Box</a>
+                        </div>
+                    </div>
+                </li>
+                <li class="homepage-blade-2">
+                    <a href="javascript:;" class="toggle">Expand</a>
+                    <div class="col_content">
+                        <h3>Apply for a Passport</h3>
+                        <p>Many Post Offices accept passport applications.</p>
+                        <p><a href="/international/passports.htm">Get a New Passport <i class="link-carat"></i></a></p>
+                        <p><a href="/international/passports.htm#echo--tab-link-1">Renew Your Passport <i class="link-carat"></i></a></p>
+                        <div class="col_content_expand">
+                            <p>Locate the nearest Post Office<sup>&trade;</sup> that accepts passport applications and follow these easy steps.</p>
+                            <ol class="pseudo-list">
+                                <li><span class="num">1</span> <span>Apply early or <a href="/international/passports.htm" target="_blank">Get a Passport in a Hurry <i class="link-carat"></i></a></span></li>
+                                <li><span class="num">2</span> <span>Gather the required documents, forms, and fees <a href="https://travel.state.gov/content/passports/en/passports/apply.html" target="_blank">Find the Right Forms <i class="link-carat"></i></a></span></li>
+                                <li><span class="num">3</span> <span>Make an appointment at a Post Office that accepts passport applications. <a href="https://tools.usps.com/go/POLocatorAction!input.action?address=&radius=&locationTypeQ=passport&tAddress=&tAddress1Ams=&tAddress2Ams=&tCityAms=&tStateAms=&tZipAms=&tCarrierRouteAms=&sWithin=&sServices=&hoursSelected=&collectionBoxSelected=&collectionHoursSelected=&servicesSelectedBusinessOffice=&servicesSelectedOffice1=&servicesSelectedPassportOffice=&servicesSelectedOffice2=&servicesSelectedOffice3=&approvedProvidersSelected=&allLocationsSelected1=&allLocationsSelected2=">Find a Post Office<i class="link-carat"></i></a></span></li>
+                            </ol>
+                        </div>
+                    </div>
+                </li>
+                <li class="homepage-blade-3">
+                    <a href="javascript:;" class="toggle">Expand</a>
+                    <div class="col_content">
+                        <h3>Grow Your Business</h3>
+                        <p>Explore USPS<sup>&reg;</sup> shipping and mailing solutions that can help grow
+                            your business.</p>
+                        <p><a href="https://www.usps.com/business/welcome.htm">Explore Services <i class="link-carat"></i></a></p>
+                        <p><a href="/business/every-door-direct-mail.htm">Every Door Direct Mail <i class="link-carat"></i></a></p>
+                        <div class="col_content_expand">
+                            <p>From marketing to shipping, USPS has the tools, resources, and insights to
+                                help grow your business.</p>
+                            <p><a class="button--primary explore-services-btn" href="/business/welcome.htm">Explore Services</a></p>
+                            <p>Every Door Direct Mail<sup>&reg;</sup> (EDDM<sup>&reg;</sup>) service is an easy, cost-effective way to reach
+                                potential customers with mail.</p>
+                            <p><a class="button--primary" href="https://eddm.usps.com/eddm/customer/routeSearch.action">Get Started with EDDM</a></p>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+        <div id="ge-overlay" style="display:none;"></div>        
+
+        <!-- Home Page Blades (Mobile) -->
+        <div class="mobile-panels">
+            <div class="section--show-hide">
+                <!--<div class="expansion-hitzone"></div>-->
+                <div class="section-title">PO Boxes Online</div>
+                <p><a href="https://poboxes.usps.com/poboxonline/search/landingPage.do">Get a New PO Box <i class="link-carat"></i></a></p>
+                <p><a href="https://reg.usps.com/login?app=POBO&appURL=https://poboxes.usps.com:443/poboxonline%2Fpages%2FmyAccount.do">Manage Your PO Box <i class="link-carat"></i></a></p>
+                <div class="panel">
+                    <p>A PO Box<sup>&trade;</sup> is a secure and efficient way to manage your personal
+                        or business mail. Rent one today or click Manage Your PO Box to pay for, renew,
+                        or make changes to your existing one.</p>
+                    <span class='panel-btn'><a href="https://poboxes.usps.com/poboxonline/search/landingPage.do" class="button--primary">Get a New PO Box</a></span>
+                    <span class='panel-btn'><a href="https://reg.usps.com/login?app=POBO&appURL=https://poboxes.usps.com:443/poboxonline%2Fpages%2FmyAccount.do" class="button--primary">Manage Your PO Box</a></span>
+                </div>
+
+            </div>
+            <div class="section--show-hide">
+                <!--<div class="expansion-hitzone"></div>-->          
+                <div class="section-title">Apply for a Passport</div>
+                        <p><a href="/international/passports.htm">Get a New Passport <i class="link-carat"></i></a></p>
+                        <p><a href="/international/passports.htm#echo--tab-link-1">Renew Your Passport <i class="link-carat"></i></a></p>
+                <div class="panel">
+                    <p>Locate the nearest Post Office that accepts passport applications and follow
+                        these easy steps.</p>
+                    <ol class="pseudo-list">
+                        <li><span class="num">1</span> <span>Apply early or <a href="https://travel.state.gov/content/passports/en/passports/services/expedited.html" target="_blank">Get a Passport in a Hurry <i class="link-carat"></i></a></span></li>
+                        <li><span class="num">2</span> <span>Gather the required documents, forms, and fees <a href="https://travel.state.gov/content/passports/en/passports/apply.html" target="_blank">Find the Right Forms <i class="link-carat"></i></a></span></li>
+                        <li><span class="num">3</span> <span>Make an appointment at a Post Office that accepts passport applications. <a href="https://tools.usps.com/go/POLocatorAction!input.action?address=&radius=&locationTypeQ=passport&tAddress=&tAddress1Ams=&tAddress2Ams=&tCityAms=&tStateAms=&tZipAms=&tCarrierRouteAms=&sWithin=&sServices=&hoursSelected=&collectionBoxSelected=&collectionHoursSelected=&servicesSelectedBusinessOffice=&servicesSelectedOffice1=&servicesSelectedPassportOffice=&servicesSelectedOffice2=&servicesSelectedOffice3=&approvedProvidersSelected=&allLocationsSelected1=&allLocationsSelected2=">Find a Post Office <i class="link-carat"></i></a></span></li>
+                    </ol>
+
+                </div>
+            </div>
+            <div class="section--show-hide">
+                <!--<div class="expansion-hitzone"></div>-->        
+                <div class="section-title">Grow Your Business</div>
+                <p><a href="https://www.usps.com/business/welcome.htm">Explore Services <i class="link-carat"></i></a></p>
+                <p><a href="/business/every-door-direct-mail.htm">Every Door Direct Mail <i class="link-carat"></i></a></p>
+                <div class="panel">
+                    <p>From marketing to shipping, USPS has the tools, resources, and insights to help
+                        grow your business.</p>
+                    <span class='panel-btn'><a class="button--primary explore-services-btn" href="https://www.usps.com/business/advertise-with-mail.htm">Explore Services</a></span>
+                    <p>Every Door Direct Mail<sup>&reg;</sup> (EDDM<sup>&reg;</sup>) service is an easy, cost-effective way to reach
+                        potential customers with mail.</p>
+                    <span class='panel-btn'><a class="button--primary" href="ttps://eddm.usps.com/eddm/customer/routeSearch.action">Get Started with EDDM</a></span>
+                </div>
+            </div>
+        </div>
+	
+	<div class="bot-promos">
+
+            <div class="homepage-rotating-photo-container">
+
+            <div class="firstImage">
+				
+<!--			
+				
+				
+                    					
+					<div class="firstImageContentWrapper chosen">
+                        <a href="https://informeddelivery.usps.com" aria-label="Sign up for Informed Delivery account">
+                            <img class="photoContainer" alt="Image of a woman staring at her smartphone while smiling." src="/assets/images/homepage/rotating-promos/nd/USPS-homepage-informed-delivery-550x250.jpg"
+                            />
+                        </a>
+                        <h2 class="imageHeader">Informed Delivery<sup>&reg;</sup></h2>
+                        <p class="imageText">See your mail, even while traveling or if it is on hold.
+                            <span class="imageLink"><a href="https://informeddelivery.usps.com" aria-label="Sign up for Informed Delivery account">Sign&nbsp;Up&nbsp;Now&nbsp;</a></span></p>
+                    </div>
+
+
+                    <div class="firstImageContentWrapper">
+                        <a href="https://moversguide.usps.com/?referral=MG83" aria-label="Change Your Address online now">
+                            <img class="photoContainer" alt="Image of a man sitting in a chair using a laptop with packing boxes in the background." src="/assets/images/homepage/rotating-promos/nd/USPS-homepage-change-address-550x250.jpg"
+                            />
+                        </a>
+                        <h2 class="imageHeader">Change Your Address</h2>
+                        <p class="imageText">Making a move? Update your address online.
+                            <span class="imageLink"><a href="https://moversguide.usps.com/?referral=MG83" aria-label="Change Your Address online now">Go&nbsp;Now&nbsp;</a></span></p>
+                    </div>
+				<div class="firstImageContentWrapper">
+                    <a href="https://my.usps.com/" aria-label="Sign up for My USPS account">
+                        <img class="photoContainer" alt="A coffee cup sits next to a day planner." src="/assets/images/homepage/rotating-promos/nd/USPS-homepage-myusps-550x250.jpg"
+                            />
+                    </a>
+					<h2 class="imageHeader">My USPS<sup>&#8482;</sup></h2>
+                    <p class="imageText">Easy package status updates. No tracking numbers necessary.
+                        <span class="imageLink"><a href="https://my.usps.com" aria-label="Sign up for My USPS account">Sign&nbsp;Up&nbsp;Now&nbsp;</a></span></p>
+                </div>
+				-->
+					<div class="firstImageContentWrapper chosen">
+                        <a href="https://informeddelivery.usps.com" aria-label="Sign up for Informed Delivery account">
+                            <img class="photoContainer" alt="Image of a woman staring at her smart-phone while smiling." src="/assets/images/homepage/rotating-promos/nd/USPS-homepage-informed-delivery-550x250.jpg"
+                            />
+                        </a>
+                        <h2 class="imageHeader">Informed Delivery<sup>&reg;</sup></h2>
+                        <p class="imageText">See your mail, even while traveling or if it is on hold.
+                            <span class="imageLink"><a href="https://informeddelivery.usps.com" aria-label="Sign up for Informed Delivery account">Sign&nbsp;Up&nbsp;Now&nbsp;</a></span></p>
+                    </div>
+					<div class="firstImageContentWrapper">
+                        <a href="https://store.usps.com/store/browse/category.jsp?categoryId=buy-stamps" aria-label="Buy stamps online">
+                            <img class="photoContainer" alt="Image of the gifts of friendship stamp" src="/assets/images/homepage/rotating-promos/nd/usps_gifts_price.jpg"
+                            />
+                        </a>
+                        <h2 class="imageHeader">Current Stamp Pricing</h2>
+                        <p class="imageText">First-Class<sup>&#8482;</sup> Forever: <strong>$0.49</strong>. Postcard: <strong>$0.34</strong>.
+                            <span class="imageLink"><a href="https://store.usps.com/store/browse/category.jsp?categoryId=buy-stamps" aria-label="Buy stamps online">Go&nbsp;Now&nbsp;</a></span></p>                    
+                    </div>					
+				<!--
+				<div class="firstImageContentWrapper">
+                    <a href="https://my.usps.com/" aria-label="Sign up for My USPS account">
+                        <img class="photoContainer" alt="Image of the My USPS application open on a laptop." src="/assets/images/homepage/rotating-promos/nd/usps-home-myusps-2.jpg"
+                            />
+                    </a>
+					<h2 class="imageHeader">My USPS<sup>&#8482;</sup></h2>
+                    <p class="imageText">Easy package status updates. No tracking numbers necessary.
+                        <span class="imageLink"><a href="https://my.usps.com" aria-label="Sign up for My USPS account">Sign&nbsp;Up&nbsp;Now&nbsp;</a></span></p>
+                </div>
+				-->
+            </div>
+
+				
+				
+                <div class="secondImage">
+				<!--	<div class="secondImageContentWrapper chosen">
+                        <a href="/taxes/welcome.htm" aria-label="See fast secure ways to mail tax returns.">
+                            <img class="photoContainer" alt="Image of a calendar planner." src="/assets/images/homepage/rotating-promos/nd/USPS-homepage-tax-day-550x250.jpg"
+                            />
+                        </a>
+                        <h2 class="imageHeader">Tax Day is April 18th</h2>
+                        <p class="imageText">Find the right USPS products and services.
+                            <span class="imageLink"><a href="/taxes/welcome.htm" aria-label="See fast secure ways to mail tax returns.">Go&nbsp;Now&nbsp;</a></span></p>                    
+                    </div>
+					<div class="secondImageContentWrapper">
+                        <a href="https://store.usps.com/store/browse/category.jsp?categoryId=buy-stamps" aria-label="Buy stamps online">
+                            <img class="photoContainer" alt="Image of the gifts of friendship stamp" src="/assets/images/homepage/rotating-promos/nd/usps_gifts_price.jpg"
+                            />
+                        </a>
+                        <h2 class="imageHeader">Current Stamp Pricing</h2>
+                        <p class="imageText">First-Class<sup>&#8482;</sup> Forever: <strong>$0.49</strong>. Postcard: <strong>$0.34</strong>.
+                            <span class="imageLink"><a href="https://store.usps.com/store/browse/category.jsp?categoryId=buy-stamps" aria-label="Buy stamps online">Go&nbsp;Now&nbsp;</a></span></p>                    
+                    </div>
+					<div class="secondImageContentWrapper">
+                        <a href="http://about.usps.com/news/events-calendar/2017-postal-holidays.htm" aria-label="View Postal Holidays">
+                            <img class="photoContainer" alt="Patriotic image of a female child holding a flag during a parade featuring the United States Armed Forces." src="/assets/images/home/promo_2_holidays.jpg"
+                            />
+                        </a>
+                        <h2 class="imageHeader">Postal Holidays</h2>
+                        <p class="imageText">Memorial Day is Monday, May 29th.</p>                    
+                    </div>
+				-->
+					<div class="secondImageContentWrapper">
+                        <a href="http://about.usps.com/news/electronic-press-kits/bog/welcome.htm" aria-label="View USPS Board of Governors">
+                            <img class="photoContainer" alt="Image of an U.S. flag." src="/assets/images/homepage/rotating-promos/nd/flag.jpg"
+                            />
+                        </a>
+                        <h2 class="imageHeader">USPS BOARD OF GOVERNORS</h2>
+                        <p class="imageText">Tune in to the Temporary Emergency Committee meeting on Wednesday, May 10th at 8 am.</p>                    
+                    </div>
+					
+					
+<!--
+                    <div class="secondImageContentWrapper">
+                        <a href="https://store.usps.com/store/browse/category.jsp?categoryId=buy-stamps" aria-label="Buy stamps online">
+                            <img class="photoContainer" alt="Image of the Coastal Birds Postcard stamp and the Love Forever stamp." src="/assets/images/homepage/rotating-promos/nd/USPS-homepage-price-of-a-stamp-550x250.jpg"
+                            />
+                        </a>
+                        <h2 class="imageHeader">Current Stamp Pricing</h2>
+                        <p class="imageText">First-Class<sup>&#8482;</sup> Forever: <strong>$0.49</strong>. Postcard: <strong>$0.34</strong>.
+                            <span class="imageLink"><a href="https://store.usps.com/store/browse/category.jsp?categoryId=buy-stamps" aria-label="Buy stamps online">Go&nbsp;Now&nbsp;</a></span></p>                    
+                    </div>
+
+
+	                <div class="secondImageContentWrapper">
+                        <a href="/stamps/john-fitzgerald-kennedy.htm" aria-label="Buy John Fitzgerald Kennedy Stamp">
+                            <img class="photoContainer" alt="Image of the John Fitzgerald Kennedy Stamp" src="/assets/images/homepage/rotating-promos/nd/USPS-homepage-stamp-jfk-550x250.jpg"
+                            />
+                        </a>
+                        <h2 class="imageHeader">John Fitzgerald Kennedy</h2>
+                        <p class="imageText">Celebrate the life and impact of the 35th president of the United States.
+                            <span class="imageLink"><a href="/stamps/john-fitzgerald-kennedy.htm" aria-label="Buy John Fitzgerald Kennedy Stamp">Go&nbsp;Now&nbsp;</a></span></p>                    
+                    </div>
+-->
+<!--
+	                <div class="secondImageContentWrapper">
+                        <a href="/stamps/wpa-posters.htm" aria-label="Buy WPA Poster Stamp">
+                            <img class="photoContainer" alt="Image of the WPA Poster Stamp" src="/assets/images/homepage/rotating-promos/nd/usps_wpa_feature.jpg"
+                            />
+                        </a>
+                        <h2 class="imageHeader">WPA Posters Forever<sup>&reg;</sup> Stamps</h2>
+                        <p class="imageText">Celebrate the posters that inspired Americans during one of the nation's darkest periods.
+                            <span class="imageLink"><a href="/stamps/wpa-posters.htm" aria-label="Buy WPA Posters Stamp">Shop&nbsp;Now&nbsp;</a></span></p>                    
+                    </div>
+-->
+					
+                </div>
+
+            </div>
+
+        </div>
+
+ 
+    </div>
+    <div style="clear: both;"></div>
+	
+	
+	<!-- Responsive Global Footer -->
+	<div id="global-footer--wrap" class="global-footer--wrap">
+<link type="text/css" rel="stylesheet" href="/global-elements/footer/css/main-sb.css">
+<link type="text/css" rel="stylesheet" href="/global-elements/footer/css/footer-sb.css">
+		
+			<!--[if lte IE 8]>
+			<link href="/global-elements/footer/css/main.ie.sb.css" rel="stylesheet" type="text/css" />
+			<link href="/global-elements/footer/css/footer.ie.sb.css" rel="stylesheet" type="text/css" />
+			<![endif]-->
+		
+		<script type="text/javascript">
+		var MTIProjectId='f3e4655b-fd06-4b8b-8a25-01c859692612';
+		(function() {
+			var mtiTracking = document.createElement('script');
+			mtiTracking.type='text/javascript';
+			mtiTracking.async='true';
+			mtiTracking.src=('https:'==document.location.protocol?'https:':'http:')+'//fast.fonts.net/t/trackingCode.js';
+			(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild( mtiTracking );
+		})();
+		</script>
+<footer class="global-footer">
+<a href="https://www.usps.com/" class="global-footer--logo-link"></a>
+<nav class="global-footer--navigation">
+<ol style="display: inline;">
+<li style="color:#333366;" class="global-footer--navigation-category">
+						Helpful Links
+						<ol class="global-footer--navigation-options">
+<li>
+<a href="https://www.usps.com/help/welcome.htm">Contact Us</a>
+</li>
+<li>
+<a href="https://www.usps.com/globals/site-index.htm">Site Index</a>
+</li>
+<li>
+<a href="http://faq.usps.com/">FAQs</a>
+<li style="margin-top: 15px;width: 100%;color:#333366;" class="global-footer--navigation-category">
+									USPS Jobs
+									<ol class="global-footer--navigation-options">
+<li>
+<a href="http://about.usps.com/careers/welcome.htm">Careers</a>
+</li>
+</ol>
+</li>
+</li>
+</ol>
+</li>
+</ol>
+<ol style="display:inline;">
+<li style="color:#333366;" class="global-footer--navigation-category">
+						On About.USPS.com
+						<ol class="global-footer--navigation-options">
+<li>
+<a href="http://about.usps.com/">About USPS Home</a>
+</li>
+<li>
+<a href="http://about.usps.com/news/welcome.htm">Newsroom</a>
+</li>
+<li>
+<a href="http://about.usps.com/news/service-alerts/welcome.htm">USPS Service Updates</a>
+</li>
+<li>
+<a href="http://about.usps.com/forms-publications/welcome.htm">Forms &amp; Publications</a>
+</li>
+<li>
+<a href="https://www.usps.com/gov-services/gov-services.htm">Government Services</a>
+</li>
+</ol>
+</li>
+<li style="color:#333366;" class="global-footer--navigation-category">
+						Other USPS Sites
+						<ol class="global-footer--navigation-options">
+<li>
+<a href="https://gateway.usps.com/">Business Customer Gateway</a>
+</li>
+<li>
+<a href="https://postalinspectors.uspis.gov/">Postal Inspectors</a>
+</li>
+<li>
+<a href="http://www.uspsoig.gov/">Inspector General</a>
+</li>
+<li>
+<a href="http://pe.usps.gov/">Postal Explorer</a>
+</li>
+<li>
+<a href="http://www.postalmuseum.si.edu/">National Postal Museum</a>
+</li>
+<li>
+<a href="https://www.usps.com/webtools/welcome.htm">Resources for Developers</a>
+</li>
+<li>
+<a href="https://ribbs.usps.gov/">RIBBS</a>
+</li>
+<li>
+<a href="https://www.usps.com/datadial">USPS Customer Data Dial</a>
+</li>
+<li>
+<a href="https://www.usps.com/cybersafe">CyberSafe at USPS</a>
+</li>
+</ol>
+</li>
+<li style="color:#333366;" class="global-footer--navigation-category">
+						Legal Information
+						<ol class="global-footer--navigation-options">
+<li>
+<a href="http://about.usps.com/who-we-are/privacy-policy/privacy-policy-highlights.htm">Privacy Policy</a>
+</li>
+<li>
+<a href="http://about.usps.com/termsofuse.htm">Terms of Use</a>
+</li>
+<li>
+<a href="http://about.usps.com/who-we-are/foia/welcome.htm">FOIA</a>
+</li>
+<li>
+<a href="http://about.usps.com/who-we-are/no-fear-act/welcome.htm">No FEAR Act EEO Data</a>
+</li>
+</ol>
+</li>
+</ol>
+</nav>
+		
+			<div class="global-footer--copyright">Copyright &copy; <script type="text/javascript">document.write(new Date().getFullYear());</script> USPS.  All Rights Reserved.</div>
+		
+<ul class="global-footer--social">
+<li>
+    <a style="text-decoration: none;" href="https://www.facebook.com/USPS?rf=108501355848630">
+        <img alt="Image of Facebook social media icon." src="/global-elements/footer/images/social-facebook_1.png">
+    </a>
+</li>
+<li>
+    <a style="text-decoration: none;" href="https://twitter.com/usps">
+	  <img alt="Image of Twitter social media icon." src="/global-elements/footer/images/social-twitter_2.png">
+    </a></li>
+<li>
+	<a style="text-decoration: none;" href="http://www.pinterest.com/uspsstamps/">
+        <img alt="Image of Pinterest social media icon." src="/global-elements/footer/images/social-pinterest_6.png">
+    </a>
+</li>
+<li>
+    <a style="text-decoration: none;" href="https://www.youtube.com/usps">
+     <img alt="Image of Youtube social media icon." src="/global-elements/footer/images/social-youtube_3.png">
+    </a> 
+</li>
+</ul>
+
+</footer>
+</div><style type="text/css">
+footer.global-footer ol {
+  display: inline;
+}
+</style>
+
+<script type="text/javascript">
+var env = "prod";
+if ((document.location.hostname.indexOf("local") != -1) || (document.location.hostname.indexOf("dusps") != -1) || (document.location.hostname.indexOf("dev") != -1) || (document.location.hostname.indexOf("tusps") != -1) || (document.location.hostname.indexOf("sit") != -1) || (document.location.hostname.indexOf("qusps") != -1) || (document.location.hostname.indexOf("cat") != -1) || (document.location.hostname.indexOf("stage") != -1)) {
+	document.write("<script type=\"text\/javascript\" src=\"\/global-elements\/footer\/\script/unvanitizer.js\"><\/script>");
+	env = "dev";
+}
+
+
+
+</script>
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MVCC8H"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MVCC8H');</script>
+<!-- End Google Tag Manager -->
+
+
+<!-- Responsive Global Footer END -->
+	
+	
+
+</body>
+
+</html>

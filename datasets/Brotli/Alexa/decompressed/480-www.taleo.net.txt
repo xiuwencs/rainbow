@@ -1,0 +1,904 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en-US">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<script type="text/javascript">
+   var _U = "undefined";
+   var g_HttpRelativeWebRoot = "/ocom/";
+   var SSContributor = false;
+   var SSForceContributor = false;
+   var SSHideContributorUI = false;
+   var ssUrlPrefix = "/us/";
+   var ssUrlType = "2";
+   
+   var g_navNode_Path = new Array();
+       g_navNode_Path[0] = '8';
+       g_navNode_Path[1] = 'ocomen-productsandservices';
+       g_navNode_Path[2] = 'ocomen_applications';
+       g_navNode_Path[3] = 'ocomen_oa-taleo';
+       g_navNode_Path[4] = 'ocomen_taleo-enterprise';
+       g_navNode_Path[5] = 'ocomen_ote-overview';
+   var g_ssSourceNodeId = "ocomen_ote-overview";
+   var g_ssSourceSiteId = "ocomen";
+</script>
+
+
+  <script id="ssInfo" type="text/xml" warning="DO NOT MODIFY!">
+  <ssinfo >
+    <fragmentinstance  id="fragment14" fragmentid="Universal_Localization_Fragment" library="server:UNIVERSAL_LOCALIZATION_FRAG">
+    </fragmentinstance>
+    <fragmentinstance  id="fragment16" fragmentid="Universal_Localization_Fragment" library="server:UNIVERSAL_LOCALIZATION_FRAG">
+    </fragmentinstance>
+    <fragmentinstance  id="fragment17" fragmentid="Universal_Localization_Fragment" library="server:UNIVERSAL_LOCALIZATION_FRAG">
+    </fragmentinstance>
+    <fragmentinstance  id="fragment18" fragmentid="universal-search-fragment" library="server:UNIVERSAL-SEARCH-FRAGMET-LIB">
+      
+    </fragmentinstance>
+    <fragmentinstance  id="fragment22" fragmentid="Universal_Localization_Fragment" library="server:UNIVERSAL_LOCALIZATION_FRAG">
+    </fragmentinstance>
+    <fragmentinstance  id="fragment23" fragmentid="ocom-commonassets" library="server:OCOM-FRAGMENT-LIBRARAY">
+      
+    </fragmentinstance>
+    <fragmentinstance  id="fragment24" fragmentid="ExternalNavigationHorizontal" library="server:EXTERNALNAVHORIZONTALLIB">
+    </fragmentinstance>
+    <fragmentinstance  id="fragment25" fragmentid="ExternalNavVertical" library="server:EXTERNAL_NAV_VERTICAL">
+    </fragmentinstance>
+    <fragmentinstance  id="fragment27" fragmentid="Universal_Localization_Fragment" library="server:UNIVERSAL_LOCALIZATION_FRAG">
+    </fragmentinstance>
+    <fragmentinstance  id="fragment28" fragmentid="Universal_Localization_Fragment" library="server:UNIVERSAL_LOCALIZATION_FRAG">
+    </fragmentinstance>
+    <fragmentinstance  id="fragment29" fragmentid="ExternalBreadCrumb" library="server:EXTERNAL_BREADCRUMB">
+    </fragmentinstance>
+    <fragmentinstance  id="fragment32" fragmentid="universal-metatag" library="server:UNIVERSAL-FRAGMENTS">
+    </fragmentinstance>
+    <fragmentinstance  id="fragment35" fragmentid="universal-webcache-integration" library="server:UNIVERSAL-WEBCACHE-INTEGRATION">
+      
+    </fragmentinstance>
+    <fragmentinstance  id="fragment37" fragmentid="Universal_Localization_Fragment" library="server:UNIVERSAL_LOCALIZATION_FRAG">
+    </fragmentinstance>
+    <fragmentinstance  id="fragment39" fragmentid="universal-addthis-print-email" library="server:UNIVERSAL-FRAGMENTS">
+      
+    </fragmentinstance>
+    <fragmentinstance  id="fragment42" fragmentid="ExternalNavMosaicTabsTop" library="server:EXTERNAL_NAV_MOSAIC_TABS_TOP">
+    </fragmentinstance>
+    <fragmentinstance  id="fragment43" fragmentid="sitecatalyst-mosaic-standard" library="server:SITECATALYST-MOSAIC-STANDARD">
+      
+    </fragmentinstance>
+      <fragmentinstance  id="fragment44" fragmentid="mosaic-header-content" library="server:MOSAIC-HEADER-CONTENT">
+        
+      </fragmentinstance>
+      <fragmentinstance  id="fragment45" fragmentid="UniversalSiteStudioManager" library="server:UNIVERSAL_SITE_STUDIO_MANAGER">
+      </fragmentinstance>
+      <fragmentinstance  id="fragment46" fragmentid="ocomheader" library="server:OCOMHEADER">
+        
+      </fragmentinstance>
+      <fragmentinstance  id="fragment47" fragmentid="ATGChat" library="server:ATG_CHAT">
+        
+      </fragmentinstance>
+      <fragmentinstance  id="fragment48" fragmentid="ocomfooter" library="server:OCOMFOOTER">
+        
+      </fragmentinstance>
+      <fragmentinstance  id="fragment49" fragmentid="ocom-commonassets" library="server:OCOM-FRAGMENT-LIBRARAY">
+        
+      </fragmentinstance>
+      <fragmentinstance  id="fragment50" fragmentid="x1-xdomain-pixel" library="server:X1-XDOMAIN-PIXEL">
+        
+      </fragmentinstance>
+
+  </ssinfo>
+  </script>
+  
+  <!-- SS_BEGIN_SNIPPET(fragment49,ocom-commonassets-droppoint)-->
+				
+				
+			<!-- SS_END_SNIPPET(fragment49,ocom-commonassets-droppoint)-->
+
+  <!--[if IE]>
+  <STYLE type=text/css>
+    .logo_align{margin-bottom: 4px; margin-left:0px;}
+    .search_position{margin:7px 3px 14px 16px;}
+    #panelDiv_search .contentBg{padding:15px 5px 5px 5px; } 
+    ul#navigation div.submenu {border-bottom:1px solid #b7b7b7;}
+    ul#navigation div.submenu .bottomleft{background:none; width:15px; height:30px; float:left;  margin-left:-16px; margin-bottom:-42px; }
+    ul#navigation div.submenu .bottomcenter{background:none; height:30px;  margin-left:15px; margin-right:15px; float:left; width:380px;} 
+    ul#navigation div.submenu .bottomright{background:none; width:15px; height:30px; float:left; }
+    ul#navigation div.submenu .partner_bottomleft{ background:none; width:15px; height:30px;  float:left; margin-left:-16px; margin-bottom:-42px; clear:left; margin-top:15px;}
+    ul#navigation div.submenu .partner_bottomcenter{  background:none; width:382px; height:30px; margin-left:15px;  float:center;}
+    ul#navigation div.submenu .partner_bottomright{  background:none; width:15px; height:30px; float:right; margin-right:-15px;}
+    </STYLE>
+  <![endif]--><!--[if IE 6]>
+    <style type="text/css">
+    #panelDiv_search .BottomleftCurv{background:none; width:15px; height:30px; float:left;}
+    #panelDiv_search .centerBottom{background:none;width:153px;height:30px;float:left;}
+    #panelDiv_search .BottomrightCurv{background:none;width:15px;height:30px;float:right;}
+    #panelDiv_search .contentBg{border-bottom:1px solid #ababab;}
+    #navigation{width:971px;}
+    </style>
+    <![endif]-->
+
+<!--SS_BEGIN_SNIPPET(fragment32,code)-->			<!--SS_END_SNIPPET(fragment32,code)-->
+
+<!--SS_BEGIN_SNIPPET(fragment29,1)--><!--SS_END_SNIPPET(fragment29,1)-->
+
+<!--SS_BEGIN_SNIPPET(fragment32,head_tags)-->
+
+
+												     
+     	
+
+
+
+
+	
+<title>Oracle Taleo Enterprise Cloud Service | Applications | Oracle</title>
+<meta name="Title" content="Oracle Taleo Enterprise Cloud Service | Applications | Oracle">
+<meta name="Description" content="Oracle Taleo Enterprise Cloud Service meets the talent management needs of the largest and most demanding enterprises with global consistency and local flexibility.">
+<meta name="Keywords" content="Oracle Taleo Enterprise Cloud Service, Applications, Oracle">
+<meta name="robots" content="INDEX, FOLLOW">
+<meta name="country" content="">
+<meta name="Language" content="en">
+<meta name="Updated Date" content="2/11/15 5:28 PM">
+
+			<!--SS_END_SNIPPET(fragment32,head_tags)-->
+
+<!--SS_BEGIN_SNIPPET(fragment35,code)-->
+			<!--SS_END_SNIPPET(fragment35,code)-->
+
+  <style type="text/css">
+  #Wrapper_FixedWidth {min-width:974px;width:974px;margin-top:15px;}
+  .header {height:140px; *height:130px;}
+   .menu-otn {display:none;}
+  </style>
+<!--SS_BEGIN_SNIPPET(fragment42,1)-->
+				
+			<!--SS_END_SNIPPET(fragment42,1)-->
+
+<!-- SS_BEGIN_SNIPPET(fragment45,includes)-->			<!-- SS_END_SNIPPET(fragment45,includes)--><!-- SS_BEGIN_SNIPPET(fragment47,1)-->
+				
+			<!-- SS_END_SNIPPET(fragment47,1)--><!-- SS_BEGIN_SNIPPET(fragment49,ocom-commonassets)--><link rel="stylesheet" type="text/css" href="/us/assets/ocom-mosaic.css" />
+<link rel="stylesheet" type="text/css" href="/us/assets/master-mosaic.css" />
+<script language="JavaScript" type="text/javascript" src="/us/assets/jquery.js"></script>
+<script language="JavaScript" type="text/javascript" src="/us/assets/oraclelib-mosaic.js"></script>
+
+    <script async="async" type="text/javascript" src='//consent.truste.com/notice?domain=oracle.com&c=teconsent&js=bb&noticeType=bb&text=true' crossorigin></script>
+<!--[if IE]>
+  <STYLE>
+    .logo_align{margin-bottom: 4px; margin-left:0px;}
+    .search_position{margin:7px 3px 14px 16px;}
+    #panelDiv_search .contentBg{padding:30px 5px 5px 5px; } 
+    ul#navigation div.submenu {border-bottom:1px solid #b7b7b7;}
+    ul#navigation div.submenu .bottomleft{background:none; width:15px; height:30px; float:left;  margin-left:-16px; margin-bottom:-42px; }
+    ul#navigation div.submenu .bottomcenter{background:none; height:30px;  margin-left:15px; margin-right:15px; float:left; width:380px;} 
+    ul#navigation div.submenu .bottomright{background:none; width:15px; height:30px; float:left; }
+    ul#navigation div.submenu .partner_bottomleft{ background:none; width:15px; height:30px;  float:left; margin-left:-16px; margin-bottom:-42px; clear:left; margin-top:15px;}
+	ul#navigation div.submenu .partner_bottomcenter{  background:none; width:382px; height:30px; margin-left:15px;  float:center;}
+	ul#navigation div.submenu .partner_bottomright{  background:none; width:15px; height:30px; float:right; margin-right:-15px;}
+  </STYLE>
+<![endif]-->
+<!--[if IE 6]>
+  <style>
+  #panelDiv_search .BottomleftCurv{background:none; width:15px; height:30px; float:left;}
+  #panelDiv_search .centerBottom{background:none;width:153px;height:30px;float:left;}
+  #panelDiv_search .BottomrightCurv{background:none;width:15px;height:30px;float:right;}
+  #panelDiv_search .contentBg{border-bottom:1px solid #ababab;}
+  #navigation{width:971px;}
+  </style>
+<![endif]-->
+ <!--Brightcove script line and lightbox code--> 
+<div id="bcVideoPlayer" style="display: none;">&nbsp;</div>
+<div class="lightbox_overlay" id="lightbox_brightcove" onClick="showclose();" style="display: none; z-index: 30000;"><!--spacer-->&nbsp;</div>
+			<!-- SS_END_SNIPPET(fragment49,ocom-commonassets)--></head>
+<body class="f01 f01v0 f01bg">
+<a name="top"></a>
+	<div class="f01bg"></div>
+	<div class="f01v0w1">
+    <!--############################# --><!--####### START CONTENT ####### --><!--############################# -->
+
+    
+<!-- SS_BEGIN_SNIPPET(fragment46,ocomheader)-->				
+		<!-- U01v0 --> <!--div class="u01" id="u01" data-menusrc="/us/mosaicmenu/index.html"-->
+<div class="u01" id="u01" data-menusrc="/us/assets/MENUCONTENT-EN">
+<div class="u01tools" data-trackas="header">
+<div class="u01logo"><a data-lbl="logo" href="https://www.oracle.com/index.html">Oracle</a></div>
+<ul class="u01navtools">
+    <li><a data-lbl="country" class="menu-otn" href="/us/mosaicmenu/index.html#otn-menu-countryselect">Country</a></li>
+    <li><a data-lbl="country" class="menu-ocom menu-multicol" href="https://www.oracle.com/corporate/region/index.html#ocom-menu-countryselect">Country</a></li>
+    <li><a data-lbl="communities" href="https://www.oracle.com/communities/index.html#menu-communities">Communities</a></li>
+    <li><a data-lbl="i-am-a" href="https://www.oracle.com/corporate/role/index.html#menu-iam">I am a...</a></li>
+    <li><a data-lbl="i-want-to" href="https://www.oracle.com/corporate/task/index.html#menu-iwant">I want to...</a></li>
+</ul>
+<ul class="u01pfile" data-lbl="welcome">
+    <li id="pfile-wlcm">Welcome</li>
+    <li id="pfile-acct"><a data-lbl="account" href="https://profile.oracle.com/myprofile/account/secure/update-account.jspx?nexturl=">Account</a></li>
+    <li id="pfile-sout"><a data-lbl="signout" href="javascript:sso_sign_out();">Sign Out</a></li>
+    <li id="pfile-regs"><a data-lbl="signin" href="http://www.oracle.com/webapps/redirect/signon?nexturl=">Sign In/Register</a></li>
+    <li id="pfile-help"><a data-lbl="help" href="/us/corporate/contact/about-your-account-070507.html">Help</a></li>
+</ul>
+<div class="u01search">
+<form data-errormsg="No Search Term Entered. Please Try Again" action="https://www.oracle.com/search/results" method="get" name="searchForm" class="u01searchform">
+    <input type="hidden" value="1" name="Nty" />                   
+    <input type="hidden" value="S3" name="Ntk" />                  
+    <input value="Search" name="Ntt" class="textcnt autoclear" id="txtSearch" />                  
+    <input type="submit" value="Submit Search" class="u01searchbttn" />
+</form>
+</div>
+</div>
+<ul class="u01nav" data-trackas="hnav">
+    <li><a class="u01nav" data-trackas="hnav" data-lbl="productsandservices" href="https://www.oracle.com/products/index.html#menu-products-n-services">
+    <h3>Products</h3>
+    </a></li>
+    <li><a class="u01nav" data-trackas="hnav" data-lbl="solutions" href="https://www.oracle.com/solutions/index.html#menu-solutions">
+    <h3>Solutions</h3>
+    </a></li>
+    <li><a class="u01nav" data-trackas="hnav" data-lbl="downloads" href="https://www.oracle.com/downloads/index.html#menu-downloads">
+    <h3>Downloads</h3>
+    </a></li>
+    <li><a class="u01nav" data-trackas="hnav" data-lbl="store" href="https://shop.oracle.com/#menu-store">
+    <h3>Store</h3>
+    </a></li>
+    <li><a class="u01nav" data-trackas="hnav" data-lbl="support" href="https://www.oracle.com/support/index.html#menu-support">
+    <h3>Support</h3>
+    </a></li>
+    <li><a class="u01nav" data-trackas="hnav" data-lbl="training" href="http://education.oracle.com/#menu-training">
+    <h3>Training</h3>
+    </a></li>
+    <li><a class="u01nav" data-trackas="hnav" data-lbl="partners" href="http://www.oracle.com/partners/index.html#menu-partners">
+    <h3>Partners</h3>
+    </a></li>
+    <li><a class="u01nav" data-trackas="hnav" data-lbl="about" href="https://www.oracle.com/corporate/index.html#menu-about">
+    <h3>About</h3>
+    </a></li>
+    <li><a class="u01btn" data-trackas="hnav" data-lbl="oracletechnologynetwork" href="http://www.oracle.com/technetwork/index.html#menu-otn">
+    <h3>OTN</h3>
+    </a></li>
+</ul>
+</div>
+<!-- /U01v0 -->
+ 
+			<!-- SS_END_SNIPPET(fragment46,ocomheader)-->
+<!--SS_BEGIN_SNIPPET(fragment29,2)-->
+	
+	<!--**override root for testing purposes:**-->
+	<!--** Header Logo ** -->
+	<!--** Header Search ** -->
+	<!--** Welcome SignIn ** -->
+	 
+	
+	<!--** Footer ** -->
+	
+<!--** Header Logo ** -->
+                
+    
+
+  <!-- MOSAIC -->
+<!-- Communities-->
+
+<!-- User Category -->
+ 
+<!-- User Intrest -->
+<!-- Navigation starts here -->
+     
+          
+                    
+        
+        
+          
+
+        
+      
+      
+     
+    
+     
+        
+            
+            
+       
+        
+      
+     
+     
+        
+<!-- User Community SC code -->
+
+<!-- User Category SC code -->
+
+ 
+<!-- User Interest SC code -->
+
+
+	
+	    <div id="breadCrumb">
+	    <div class="breadCrumb_Left"></div>
+	    <div class="breadCrumb_Center">
+	    <div style="position:relative;">
+	    <span class="breadCrumb_Content">
+			    <a href="/us/products/index.html" onclick="navTrack('ocom','en','breadcrumb','ocomen-productsandservices');">Products and Services</a>
+			    <span class="rightarrow"><img src="http://www.oracleimg.com/ocom/groups/systemobject/@mktg_admin/documents/digitalasset/066625.gif" alt="" /></span>
+			    <a href="/us/products/applications/index.html" onclick="navTrack('ocom','en','breadcrumb','ocomen_applications');">Oracle Applications</a>
+			    <span class="rightarrow"><img src="http://www.oracleimg.com/ocom/groups/systemobject/@mktg_admin/documents/digitalasset/066625.gif" alt="" /></span>
+			    <a href="/us/products/applications/taleo/index.html" onclick="navTrack('ocom','en','breadcrumb','ocomen_oa-taleo');">Taleo Cloud Service</a>
+			    <span class="rightarrow"><img src="http://www.oracleimg.com/ocom/groups/systemobject/@mktg_admin/documents/digitalasset/066625.gif" alt="" /></span>
+			    <a href="/us/products/applications/taleo/enterprise/index.html" onclick="navTrack('ocom','en','breadcrumb','ocomen_taleo-enterprise');">Taleo Enterprise Cloud Service</a>
+			    <span class="rightarrow"><img src="http://www.oracleimg.com/ocom/groups/systemobject/@mktg_admin/documents/digitalasset/066625.gif" alt="" /></span>
+			    <span class="active">Overview</span>
+	    </span>
+	    </div>
+	    </div>
+	    <div class="breadCrumb_Right"></div>
+	    </div>
+
+			<!--SS_END_SNIPPET(fragment29,2)-->	
+      <!-- SS_BEGIN_SNIPPET(fragment47,2)-->
+				
+			<!-- SS_END_SNIPPET(fragment47,2)-->	  
+   <!--F02v1 -->
+
+    <div class="f02 f02v1">
+      <div class="f02w1">
+        <div class="f02w2 f02col">
+          <!-- C01v0 -->
+<div class="c01 c01v0">
+<div class="c01w4">
+<div class="c01w5">
+<div class="c01z1">&nbsp;</div>
+</div>
+<div class="c01w7">
+<div class="c01w1">
+<h1>Oracle Taleo Enterprise Cloud Service</h1>
+<h3>Talent Management for the Enterprise</h3>
+<p>Leading organizations worldwide use Oracle Taleo Enterprise Cloud Service to hire the best people, align them to corporate objectives, and develop their skills to drive superior business results. Oracle Taleo Enterprise Cloud Service meets the talent management needs of the largest and most demanding enterprises with global consistency and local flexibility.</p>
+<ul class="listicons">
+    <li class="licon-pdf"><a target="_blank" href="/us/media1/taleo-enterprise-cloud-service-ep-1697013.pdf">Data Sheet (PDF)</a></li>
+</ul>
+</div>
+<div class="c01w2">
+<ul class="c01medimgs">
+    <li><a href="/us/taleo-enterprise-gallery-1663127.html?iframe=true&amp;width=800&amp;height=600#im01t0-flat-trcs1-1659459.jpg"><img alt="Oracle Taleo Enterprise Cloud Service" src="/us/products/applications/im07t1-angle-trcs1-1659461.png" /></a></li>
+    <li><a href="/us/taleo-enterprise-gallery-1663127.html?iframe=true&amp;width=800&amp;height=600#im01t0-flat-tocs3-1659425.jpg"><img alt="Oracle Taleo Enterprise Cloud Service" src="/us/products/applications/im07t1-flat-tocs3-1659427.png" /></a></li>
+    <li><a href="/us/taleo-enterprise-gallery-1663127.html?iframe=true&amp;width=800&amp;height=600#im01t0-flat-tpmcs2-1659434.jpg"><img alt="Oracle Taleo Enterprise Cloud Service" src="/us/products/applications/im07t1-flat-tpmcs2-1659436.png" /></a></li>
+    <li><a href="/us/taleo-enterprise-gallery-1663127.html?iframe=true&amp;width=800&amp;height=600#im01t0-flat-tgmcs2-1659402.jpg"><img alt="Oracle Taleo Enterprise Cloud Service" src="/us/products/applications/im07t1-flat-tgmcs2-1659404.png" /></a></li>
+</ul>
+</div>
+<div class="c01cta"><a target="_blank" href="https://go.oracle.com/LP=718?elqCampaignId=1448"><span>Request a Live Demo</span></a></div>
+</div>
+</div>
+<div class="c01w6">
+<div class="c01z2">&nbsp;</div>
+</div>
+</div>
+<!-- /C01v0 -->
+<!--SS_BEGIN_SNIPPET(fragment42,2)-->
+	
+				
+			
+			
+							
+							
+						<!-- CT01v0 -->
+			<div class="ct01 ct01v0">
+				<ul class="ct01tabs">
+						<li class='ct01ctab'><a href="/us/products/applications/taleo/enterprise/overview/index.html" onclick="navTrack('ocomen','men','tab','Products and Services:Oracle Applications:Taleo Cloud Service:Overview');"><span>Overview</span></a><div></div></li>
+						<li ><a href="/us/products/applications/taleo/enterprise/resources/index.html" onclick="navTrack('ocomen','men','tab','Products and Services:Oracle Applications:Taleo Cloud Service:Resources');"><span>Resources</span></a><div></div></li>
+				</ul>
+				<div class="ct01w1">
+				<div class="ct01z1"></div>
+				<div class="ct01w2">
+
+
+
+
+
+
+
+			<!--SS_END_SNIPPET(fragment42,2)-->
+<script type="text/javascript">
+window['MULTIDDOCNAMECONFIG'] = { 
+show_addrowbutton: false, 
+primaryurl: 'OCOM-LT-2COL-MOSAIC?MainBanner=1662582&MainContent=1662743&RHS1=&RHS2=&RHS3=&RHS4=&RHS5=&RHS6=&RHS7=&RHS8=&RHS9=&RHS10=&RHS11=&RHS12=&RHS13=&RHS14=&RHS15=&RHS16=&RHS17=', 
+rows: [ 
+{ 
+createnewxml_defaultmetadata_default: 'dDocTitle%3DRHS', 
+browse_querytext_default: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_default: true, 
+show_browsebutton_default: true, 
+
+createnewxml_defaultmetadata_override: 'dDocTitle%3DRHS', 
+browse_querytext_override: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_override: true, 
+show_browsebutton_override: true, 
+
+show_deletebutton: true 
+}, 
+{ 
+createnewxml_defaultmetadata_default: 'dDocTitle%3DRHS', 
+browse_querytext_default: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_default: true, 
+show_browsebutton_default: true, 
+
+createnewxml_defaultmetadata_override: 'dDocTitle%3DRHS', 
+browse_querytext_override: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_override: true, 
+show_browsebutton_override: true, 
+
+show_deletebutton: true 
+}, 
+{ 
+createnewxml_defaultmetadata_default: 'dDocTitle%3DRHS', 
+browse_querytext_default: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_default: true, 
+show_browsebutton_default: true, 
+
+createnewxml_defaultmetadata_override: 'dDocTitle%3DRHS', 
+browse_querytext_override: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_override: true, 
+show_browsebutton_override: true, 
+
+show_deletebutton: true 
+}, 
+{ 
+createnewxml_defaultmetadata_default: 'dDocTitle%3DRHS', 
+browse_querytext_default: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_default: true, 
+show_browsebutton_default: true, 
+
+createnewxml_defaultmetadata_override: 'dDocTitle%3DRHS', 
+browse_querytext_override: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_override: true, 
+show_browsebutton_override: true, 
+
+show_deletebutton: true 
+}, 
+{ 
+createnewxml_defaultmetadata_default: 'dDocTitle%3DRHS', 
+browse_querytext_default: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_default: true, 
+show_browsebutton_default: true, 
+
+createnewxml_defaultmetadata_override: 'dDocTitle%3DRHS', 
+browse_querytext_override: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_override: true, 
+show_browsebutton_override: true, 
+
+show_deletebutton: true 
+}, 
+{ 
+createnewxml_defaultmetadata_default: 'dDocTitle%3DRHS', 
+browse_querytext_default: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_default: true, 
+show_browsebutton_default: true, 
+
+createnewxml_defaultmetadata_override: 'dDocTitle%3DRHS', 
+browse_querytext_override: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_override: true, 
+show_browsebutton_override: true, 
+
+show_deletebutton: true 
+}, 
+{ 
+createnewxml_defaultmetadata_default: 'dDocTitle%3DRHS', 
+browse_querytext_default: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_default: true, 
+show_browsebutton_default: true, 
+
+createnewxml_defaultmetadata_override: 'dDocTitle%3DRHS', 
+browse_querytext_override: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_override: true, 
+show_browsebutton_override: true, 
+
+show_deletebutton: true 
+}, 
+{ 
+createnewxml_defaultmetadata_default: 'dDocTitle%3DRHS', 
+browse_querytext_default: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_default: true, 
+show_browsebutton_default: true, 
+
+createnewxml_defaultmetadata_override: 'dDocTitle%3DRHS', 
+browse_querytext_override: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_override: true, 
+show_browsebutton_override: true, 
+
+show_deletebutton: true 
+}, 
+{ 
+createnewxml_defaultmetadata_default: 'dDocTitle%3DRHS', 
+browse_querytext_default: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_default: true, 
+show_browsebutton_default: true, 
+
+createnewxml_defaultmetadata_override: 'dDocTitle%3DRHS', 
+browse_querytext_override: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_override: true, 
+show_browsebutton_override: true, 
+
+show_deletebutton: true 
+}, 
+{ 
+createnewxml_defaultmetadata_default: 'dDocTitle%3DRHS', 
+browse_querytext_default: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_default: true, 
+show_browsebutton_default: true, 
+
+createnewxml_defaultmetadata_override: 'dDocTitle%3DRHS', 
+browse_querytext_override: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_override: true, 
+show_browsebutton_override: true, 
+
+show_deletebutton: true 
+}, 
+{ 
+createnewxml_defaultmetadata_default: 'dDocTitle%3DRHS', 
+browse_querytext_default: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_default: true, 
+show_browsebutton_default: true, 
+
+createnewxml_defaultmetadata_override: 'dDocTitle%3DRHS', 
+browse_querytext_override: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_override: true, 
+show_browsebutton_override: true, 
+
+show_deletebutton: true 
+}, 
+{ 
+createnewxml_defaultmetadata_default: 'dDocTitle%3DRHS', 
+browse_querytext_default: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_default: true, 
+show_browsebutton_default: true, 
+
+createnewxml_defaultmetadata_override: 'dDocTitle%3DRHS', 
+browse_querytext_override: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_override: true, 
+show_browsebutton_override: true, 
+
+show_deletebutton: true 
+}, 
+{ 
+createnewxml_defaultmetadata_default: 'dDocTitle%3DRHS', 
+browse_querytext_default: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_default: true, 
+show_browsebutton_default: true, 
+
+createnewxml_defaultmetadata_override: 'dDocTitle%3DRHS', 
+browse_querytext_override: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_override: true, 
+show_browsebutton_override: true, 
+
+show_deletebutton: true 
+}, 
+{ 
+createnewxml_defaultmetadata_default: 'dDocTitle%3DRHS', 
+browse_querytext_default: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_default: true, 
+show_browsebutton_default: true, 
+
+createnewxml_defaultmetadata_override: 'dDocTitle%3DRHS', 
+browse_querytext_override: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_override: true, 
+show_browsebutton_override: true, 
+
+show_deletebutton: true 
+}, 
+{ 
+createnewxml_defaultmetadata_default: 'dDocTitle%3DRHS', 
+browse_querytext_default: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_default: true, 
+show_browsebutton_default: true, 
+
+createnewxml_defaultmetadata_override: 'dDocTitle%3DRHS', 
+browse_querytext_override: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_override: true, 
+show_browsebutton_override: true, 
+
+show_deletebutton: true 
+},
+{ 
+createnewxml_defaultmetadata_default: 'dDocTitle%3DRHS', 
+browse_querytext_default: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_default: true, 
+show_browsebutton_default: true, 
+
+createnewxml_defaultmetadata_override: 'dDocTitle%3DRHS', 
+browse_querytext_override: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_override: true, 
+show_browsebutton_override: true, 
+
+show_deletebutton: true 
+},  
+{ 
+createnewxml_defaultmetadata_default: 'dDocTitle%3DRHS', 
+browse_querytext_default: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_default: true, 
+show_browsebutton_default: true, 
+
+createnewxml_defaultmetadata_override: 'dDocTitle%3DRHS', 
+browse_querytext_override: 'xWebsiteObjectType <Matches> `Data File`', 
+show_createnewxmlbutton_override: true, 
+show_browsebutton_override: true, 
+
+show_deletebutton: true 
+}                    
+] 
+}; 
+</script>
+
+						<!-- C19v0 -->
+<div class="c19 c19v0">
+<div class="c19w1">
+<h5>Stay Connected:</h5>
+<ul class="scl-icons">
+    <li class="scl-facebook"><a href="http://www.facebook.com/#!/OracleApps">Facebook</a></li>
+    <li class="scl-linkedin"><a href="http://www.linkedin.com/company/oracle">LinkedIn</a></li>
+    <li class="scl-twitter"><a href="http://twitter.com/oracle">Twitter</a></li>
+    <li class="scl-youtube"><a href="http://www.youtube.com/Oracle">YouTube</a></li>
+</ul>
+</div>
+</div>
+<div class="f02 f02v2">
+<div class="f02w1">
+<div class="f02w2 f02col">
+<p><strong>Oracle Taleo Enterprise Cloud Service allows you to:</strong></p>
+<ul class="obullets">
+    <li>Gain strategic talent insights with a single view of talent across all processes</li>
+    <li>Find, hire, and onboard the best talent available</li>
+    <li>Align your people to organizational objectives, measure performance, and provide critical coaching and feedback every day</li>
+    <li>Improve the quality of your workforce, help employees develop career paths,  and create actionable development plans</li>
+    <li>Build your leadership pipeline, deepen bench strength, and ensure business continuity</li>
+</ul>
+<div class="cn01">
+<h4>Tools for Evaluating</h4>
+<ul class="listicons">
+    <li class="licon-pdf"><a href="/us/media1/talent-intel-key-us-bus-success-1674360.pdf" target="BLANK">White paper:  Talent Intelligence and Management &ndash; Key to US Business Success (PDF)</a></li>
+    <li class="licon-pdf"><a href="/us/media1/business-leaders-talent-mgmt-1657101.pdf" target="_blank">White paper: The New Business of Business Leaders:  Talent Management (PDF)</a></li>
+</ul>
+</div>
+<!-- /CN01v0 --></div>
+<div class="f02w3 f02col"><!-- /Related Products -->
+<div class="cn01 cn01v1">
+<h4>Oracle Taleo Enterprise Cloud Service Products</h4>
+<ul>
+    <li><a href="/us/products/applications/taleo/enterprise/development-planning/overview/index.html" target="">Oracle Taleo Development Planning Cloud Service</a></li>
+    <li><a href="/us/products/applications/taleo/enterprise/goals-management/overview/index.html" target="">Oracle Taleo Goals Management Cloud Service</a></li>
+    <li><a href="/us/products/applications/taleo/enterprise/learn/overview/index.html" target="">Oracle Taleo Learn Cloud Service</a></li>
+    <li><a href="/us/products/applications/taleo/enterprise/onboarding/overview/index.html" target="">Oracle Taleo Onboarding Cloud Service</a></li>
+    <li><a href="/us/products/applications/taleo/enterprise/performance-management/overview/index.html" target="">Oracle Taleo Performance Management Cloud Service</a></li>
+    <li><a href="/us/products/applications/taleo/enterprise/succession-planning/overview/index.html" target="">Oracle Taleo Succession Planning Cloud Service</a></li>
+    <li><a href="/us/products/applications/taleo/enterprise/social-sourcing/overview/index.html" target="">Oracle Taleo Social Sourcing Cloud Service</a></li>
+    <li><a href="https://www.oracle.com/applications/human-capital-management/talent-management/acquisition/index.html">HCM Talent Acquisition</a></li>
+    <li><a href="https://www.oracle.com/applications/human-capital-management/workforce-rewards/compensation/index.html">HCM Workforce Rewards</a></li>
+</ul>
+</div>
+<div class="cn01 cn01v1">
+<h4>Related Products</h4>
+<ul>
+    <li><a href="/us/products/applications/ebusiness/overview/index.html">Oracle E-Business Suite</a></li>
+    <li><a href="/us/products/applications/fusion/index.html" target="">Oracle Fusion Applications</a></li>
+    <li><a href="/us/products/applications/peoplesoft-enterprise/overview/index.html">PeopleSoft</a></li>
+</ul>
+</div>
+<!-- CN01v0 -->  <!-- /CN01v0 --></div>
+</div>
+</div>
+<!-- /F02v1 -->
+					
+
+
+   
+  
+
+
+
+		</div>
+	</div>
+
+	<div class="ct01w3">
+		<div class="ct01z2"></div>
+		<div class="ct01z3"></div>
+	</div>
+	
+</div>
+<!-- /CT01v0 -->
+
+
+
+		</div>
+		<div class="f02w3 f02col">
+    
+                                      
+       <script language="javascript"> 
+var url = location.href;
+var arr = url.split('/');
+var str ='ocom:/';
+for(var i=3;i<arr.length-1;i++) {str = str  + arr[i] + '/';}
+    var s_channel=str;
+ 
+var url1 = '/';
+for(var i=3;i<arr.length;i++) {
+url1 = url1  + arr[i] + ((i != arr.length-1)? '/' : '');
+}
+
+</script>
+</script> <script type='text/javascript' src='//static.atgsvcs.com/js/atgsvcs.js'></script> <script type='text/javascript'>
+  ATGSvcs.setUOID(200106303424);
+</script>
+<div id="atgchat-body">&nbsp;</div>
+<!-- /S09v1 --> <!-- S09v0 -->
+<div class="s09 s09v0">
+<div class="s09w1"><a href="#contact_us" style="background-image: url(/us/s09-operator1-1592223.png);" data-lbl="heretohelp" alt="We're Here to Help">We're Here to Help</a></div>
+<div class="s09w2" id="contact_us">
+<div class="s09w3">
+<h4>Engage a Sales Expert</h4>
+<ul>
+    <li class="s09phone">1-800-633-0738</li>
+    <li class="s09arrow"><a onclick="navTrack('ocom','en','rhs-contact','callmenow-oracle');" href="javascript:startCallback('0i2wzK12842','customer data')">Have Oracle call you</a></li>
+    <li class="s09globe"><a target="_blank" onclick="navTrack('ocom','en','rhs-contact','global contacts');" href="/us/corporate/contact/global-070511.html">Global contacts</a></li>
+</ul>
+<!-- div class="s09bttn"><a onClick="javascript:OpenChatWindow('en');" href="javascript:void 0;">Live Sales Chat</a></div -->
+</div>
+</div>
+<!-- /S09v0 --></div>
+
+                   
+                                      
+       <!--  Banner start
+<div class="BannerBelowContact"><a href="" target="_blank"><img alt="The Business Impact of Talent Intelligence" src="/us/corporate/acquisitions/taleo/talent-mgmt-infogrphc-bnr-1896560.jpg " /></a></div>
+  Banner end -->
+
+                   
+                                      
+       <!-- Taleo Demo Banner start http://www.oracle.com/us/taleo-demo-request-1725620.html -->
+<div class="BannerBelowContact"><a target="_blank" href="https://go.oracle.com/LP=718?elqCampaignId=1448"><img width="182" height="150" src="/us/corporate/acquisitions/taleo/taleo-demo-bnr-182-1733126.jpg" alt="Request a demo of Oracle Taleo Cloud Services" /></a></div>
+<!-- Taleo Demo Banner end -->
+
+                   
+
+        </div>
+      </div>
+    </div><!--/F02v1 --><!--############################# --><!--######## END CONTENT ######## --><!--############################# -->
+  </div>
+
+  <div class="addThisPrintEmail">
+    
+<!--SS_BEGIN_SNIPPET(fragment39,1)--> &nbsp;&nbsp;&nbsp;
+	<a href="javascript:mailpage()"><img height="16" alt="E-mail this page" src="/us/assets/email.gif" width="19" border="0" /></a> <span style="MARGIN-BOTTOM: 2px">
+	<a href="javascript:mailpage()">E-mail this page</a></span>&nbsp;&nbsp;&nbsp;
+	<a onclick="printerView()" href="javascript: void 0;"><img height="16" alt="Printer View" src="/us/assets/print_icon.gif" width="19" border="0" />&nbsp;Printer View</a>
+			<!--SS_END_SNIPPET(fragment39,1)-->
+
+    </div>
+</div>
+
+  <div id="Wrapper_FixedWidth_Footer">
+
+    <!-- SS_BEGIN_SNIPPET(fragment48,ocomfooter)-->				
+		<!-- U06v1 -->
+<div data-closeff="Close Info" data-openff="Open Info" data-trackas="ffooter" class="u06v1" id="u06v1">
+<div class="u06v1z1">&nbsp;</div>
+<div class="u06v1w1">
+<div class="u06v1w2">
+<ul>
+    <h5>Oracle Cloud</h5>
+    <li><a data-lbl="cloud:learn-about-oracle-cloud" href="https://www.oracle.com/cloud/index.html">Learn About Oracle Cloud Computing</a></li>
+    <li><a data-lbl="cloud:get-a-free-trial" target="_blank" href="https://cloud.oracle.com/tryit?intcmp=ocom-ft">Get a Free Trial</a></li>
+    <li><a data-lbl="cloud:learn-about-daas" href="https://www.oracle.com/cloud/daas.html">Learn About DaaS</a></li>
+    <li><a data-lbl="cloud:learn-about-saas" href="https://www.oracle.com/cloud/saas.html">Learn About SaaS</a></li>
+    <li><a data-lbl="cloud:learn-about-paas" href="https://www.oracle.com/cloud/paas.html">Learn About PaaS</a></li>
+    <li><a data-lbl="cloud:learn-about-iaas" href="https://www.oracle.com/cloud/iaas.html">Learn About IaaS</a></li>
+    <li><a data-lbl="cloud:learn-about-private-cloud" href="https://www.oracle.com/cloud/private-cloud.html">Learn About Private Cloud</a></li>
+    <li><a data-lbl="cloud:learn-about-managed-cloud" href="https://www.oracle.com/cloud/managed-cloud.html">Learn About Managed Cloud</a></li>
+</ul>
+</div>
+<div class="u06v1w2">
+<ul>
+    <h5>Java</h5>
+    <li><a data-lbl="java:learn-about-java" href="https://www.oracle.com/java/index.html">Learn About Java</a></li>
+    <li><a data-lbl="java:download-java-for-consumers" target="_blank" href="http://java.com/download">Download Java for Consumers</a></li>
+    <li><a data-lbl="java:download-java-for-developers" href="/technetwork/java/javase/downloads/index.html">Download Java for Developers</a></li>
+    <li><a data-lbl="java:java-resources-for-developers" href="/technetwork/java/index.html">Java Resources for Developers</a></li>
+    <li><a data-lbl="java:java-cloud-service" target="_blank" href="https://cloud.oracle.com/java">Java Cloud Service</a></li>
+    <li><a data-lbl="java:java-magazine" href="/technetwork/java/javamagazine/index.html"><em>Java Magazine</em></a></li>
+</ul>
+</div>
+<div class="u06v1w2">
+<ul>
+    <h5>Customers and Events</h5>
+    <li><a data-lbl="customers-and-events:explore-and-read-customer-stories" href="http://www.oracle.com/us/corporate/customers/overview/index.html">Explore and Read Customer Stories</a></li>
+    <li><a data-lbl="customers-and-events:all-oracle-events" target="_blank" href="http://events.oracle.com/search/search?group=Events&amp;keyword=">All Oracle Events</a></li>
+    <li><a data-lbl="customers-and-events:oracle-openworld" target="_blank" href="https://www.oracle.com/openworld/index.html">Oracle OpenWorld</a></li>
+    <li><a data-lbl="customers-and-events:javaone" target="_blank" href="https://www.oracle.com/javaone/index.html">JavaOne</a></li>
+</ul>
+<br />
+<ul>
+    <h5>Email Subscriptions</h5>
+    <li><a data-lbl="email-subscriptions:subscription-center" href="https://go.oracle.com/subscriptions?l_code=en-us&amp;src1=OW:O:FO">Subscription Center</a></li>
+</ul>
+</div>
+<div class="u06v1w2">
+<ul>
+    <h5>Communities</h5>
+    <li><a data-lbl="communities:blogs" href="https://blogs.oracle.com/">Blogs</a></li>
+    <li><a data-lbl="communities:discussion-forums" target="_blank" href="https://community.oracle.com/welcome">Discussion Forums</a></li>
+    <li><a data-lbl="communities:wikis" target="_blank" href="https://wikis.oracle.com">Wikis</a></li>
+    <li><a data-lbl="communities:oracle-aces" href="/technetwork/community/oracle-ace/index.html">Oracle ACEs</a></li>
+    <li><a data-lbl="communities:user-groups" href="/us/corporate/customers/user-groups/index.html">User Groups</a></li>
+    <li><a data-lbl="communities:social-media-channels" href="/us/social-media/twitter/index.html">Social Media Channels</a></li>
+</ul>
+</div>
+<div class="u06v1w2">
+<ul>
+    <h5>Services and Store</h5>
+    <li><a data-lbl="services-and-store:log-in-to-my-oracle-support" href="/us/support/software/premier/my-oracle-support-068523.html">Log In to My Oracle Support</a></li>
+    <li><a data-lbl="services-and-store:training-and-certification" target="_blank" href="https://education.oracle.com/">Training and Certification</a></li>
+    <li><a data-lbl="services-and-store:become-a-partner" target="_blank" href="/partners/en/join-now/index.html">Become a Partner</a></li>
+    <li><a data-lbl="services-and-store:find-a-partner-solution" href="https://solutions.oracle.com/scwar/scr/index.html">Find a Partner Solution</a></li>
+    <li><a data-lbl="services-and-store:purchase-from-the-oracle-store" target="_blank" href="https://shop.oracle.com/">Purchase from the Oracle Store</a></li>
+    <li>
+    <div class="u06callout">
+    <h5>Contact and Chat</h5>
+    <strong>US Sales: +1.800.633.0738 </strong><br />
+    <a data-lbl="contact-and-chat:global-contacts" href="https://www.oracle.com/corporate/contact/global.html">Global Contacts</a><br />
+    <a data-lbl="contact-and-chat:oracle-support" target="" href="/us/support/contact/index.html">Oracle Support</a><br />
+    <a data-lbl="contact-and-chat:partner-support" href="/partners/en/most-popular-resources/partner-business-center-1954023.html">Partner Support</a><br />
+    <!-- <strong>E-Mail:</strong> <a data-lbl="contact-and-chat:email" href="mailto:help@oracle.com">help@oracle.com</a></div> --></div>
+    </li>
+</ul>
+</div>
+</div>
+<div class="u06v1z2">&nbsp;</div>
+</div>
+<!-- /U06v1 --><!-- U06v0 -->
+<div data-trackas="footer" id="u06"><hr />
+<h3><a data-lbl="integrated cloud applications and platform services" href="https://www.oracle.com/corporate/index.html">Integrated Cloud Applications and Platform Services</a></h3>
+<ul class="u06-links">
+    <li><a data-lbl="copyright" href="https://www.oracle.com/legal/copyright.html">&copy;&nbsp;Oracle</a></li>
+    <li><a data-lbl="subscribe" href="https://go.oracle.com/subscriptions?l_code=en-us&amp;src1=OW:O:FO">Subscribe</a></li>
+    <li><a data-lbl="careers" href="https://www.oracle.com/corporate/careers/index.html">Careers</a></li>
+    <li><a data-lbl="contact us" href="https://www.oracle.com/corporate/contact/index.html">Contact Us</a></li>
+    <li><a data-lbl="site maps" href="https://www.oracle.com/sitemap.html">Site Maps</a></li>
+    <li><a data-lbl="legal notices" href="https://www.oracle.com/legal/privacy/index.html">Legal Notices</a></li>
+    <li><a data-lbl="terms of use" href="https://www.oracle.com/legal/terms.html">Terms of Use</a></li>
+    <li><a data-lbl="privacy rights" href="https://www.oracle.com/legal/privacy/index.html">Privacy</a></li>
+    <li>
+    <div id="teconsent">&nbsp;</div>
+    </li>
+    <li><a data-lbl="ad choices" href="https://www.oracle.com/legal/privacy/privacy-policy.html#advertising">Ad Choices</a></li>
+    <li class="u06-mobile"><a data-lbl="oracle mobile" href="/us/corporate/mobile-application/index.html">Oracle Mobile</a></li>
+</ul>
+<ul class="scl-icons">
+    <li class="scl-facebook"><a data-lbl="facebook" title="Oracle on Facebook" href="/us/social-media/facebook/index.html">Facebook</a></li>
+    <li class="scl-linkedin"><a data-lbl="linkedIn" title="Oracle on LinkedIn" href="/us/social-media/linkedin/index.html">LinkedIn</a></li>
+    <li class="scl-twitter"><a data-lbl="twitter" title="Follow Oracle on Twitter" href="/us/social-media/twitter/index.html">Twitter</a></li>
+    <li class="scl-googleplus"><a data-lbl="google plus" target="_blank" title="Follow Oracle on Google+" href="https://plus.google.com/115607918987921226255">Google+</a></li>
+    <li class="scl-youtube"><a data-lbl="youtube" target="_blank" title="Watch Oracle on YouTube" href="http://www.youtube.com/oracle/">YouTube</a></li>
+    <li class="scl-feed"><a data-lbl="oracle rss feed" title="Oracle RSS Feeds" href="/us/syndication/feeds/index.html">Oracle RSS Feed</a></li>
+</ul>
+</div>
+<!-- /U06v0 -->
+ 
+			<!-- SS_END_SNIPPET(fragment48,ocomfooter)-->
+
+  </div>
+<!-- SS_BEGIN_SNIPPET(fragment45,ui)-->			<!-- SS_END_SNIPPET(fragment45,ui)--> 
+
+<!--SS_BEGIN_SNIPPET(fragment43,sitecatalyst-mosaic-standard)--><!-- Start SiteCatalyst code -->
+<script language="JavaScript" src="http://www.oracleimg.com/us/assets/metrics/ora_ocom.js"></script>
+<!-- End SiteCatalyst code -->
+			<!--SS_END_SNIPPET(fragment43,sitecatalyst-mosaic-standard)-->
+ <!-- SS_BEGIN_SNIPPET(fragment50,x1-xdomain-pixel)-->
+				
+			<!-- SS_END_SNIPPET(fragment50,x1-xdomain-pixel)-->
+<!--SS_BEGIN_SNIPPET(fragment35,universal-webcache-integration)-->
+				
+				
+			<!--SS_END_SNIPPET(fragment35,universal-webcache-integration)-->
+ <!--Brightcove script line and lightbox code-->
+  <script language="JavaScript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js" type="text/javascript">
+  </script>
+
+  <div id="bcVideoPlayer" style="DISPLAY: none"></div>
+
+  <div class="lightbox_overlay" id="lightbox_brightcove" style="DISPLAY: none; Z-INDEX: 30000" onclick="showclose();">
+    <!--spacer-->&nbsp;
+  </div>
+</body>
+</html>

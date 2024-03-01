@@ -1,0 +1,2493 @@
+<!doctype html><html class="a-no-js" data-19ax5a9jf="dingo"><!-- sp:feature:head-start -->
+<head><script>var aPageStart = (new Date()).getTime();</script><meta charset="utf-8">
+<script type='text/javascript'>var ue_t0=ue_t0||+new Date();</script><!-- sp:feature:cs-optimization -->
+<meta http-equiv='x-dns-prefetch-control' content='on'><link rel='dns-prefetch' href='//images-na.ssl-images-amazon.com'><link rel='dns-prefetch' href='//m.media-amazon.com'><link rel='dns-prefetch' href='//completion.amazon.com'><script type='text/javascript'>
+var ue_csm = window,
+    ue_hob = +new Date();
+(function(d){var e=d.ue=d.ue||{},f=Date.now||function(){return+new Date};e.d=function(b){return f()-(b?0:d.ue_t0)};e.stub=function(b,a){if(!b[a]){var c=[];b[a]=function(){c.push([c.slice.call(arguments),e.d(),d.ue_id])};b[a].replay=function(b){for(var a;a=c.shift();)b(a[0],a[1],a[2])};b[a].isStub=1}};e.exec=function(b,a){return function(){if(1==window.ueinit)try{return b.apply(this,arguments)}catch(c){ueLogError(c,{attribution:a||"undefined",logLevel:"WARN"})}}}})(ue_csm);
+
+
+    var ue_err_chan = 'jserr-rw';
+(function(d,e){function h(f,b){if(!(a.ec>a.mxe)&&f){a.ter.push(f);b=b||{};var c=f.logLevel||b.logLevel;c&&c!==k&&c!==m&&c!==n&&c!==p||a.ec++;c&&c!=k||a.ecf++;b.pageURL=""+(e.location?e.location.href:"");b.logLevel=c;b.attribution=f.attribution||b.attribution;a.erl.push({ex:f,info:b})}}function l(a,b,c,e,g){d.ueLogError({m:a,f:b,l:c,c:""+e,err:g,fromOnError:1,args:arguments},g?{attribution:g.attribution,logLevel:g.logLevel}:void 0);return!1}var k="FATAL",m="ERROR",n="WARN",p="DOWNGRADED",a={ec:0,ecf:0,
+pec:0,ts:0,erl:[],ter:[],mxe:50,startTimer:function(){a.ts++;setInterval(function(){d.ue&&a.pec<a.ec&&d.uex("at");a.pec=a.ec},1E4)}};l.skipTrace=1;h.skipTrace=1;h.isStub=1;d.ueLogError=h;d.ue_err=a;e.onerror=l})(ue_csm,window);
+
+
+var ue_id = '79PJJ0FT95ANE4TQB90S',
+    ue_url = '/gp/uedata',
+    ue_navtiming = 1,
+    ue_mid = 'A2EUQ1WTGCTBG2',
+    ue_sid = '145-8981527-6943311',
+    ue_sn = 'www.amazon.ca',
+    ue_furl = 'fls-na.amazon.ca',
+    ue_surl = '//unagi-na.amazon.com/1/events/com.amazon.csm.nexusclient.prod',
+    ue_fcsn = 1,
+    ue_urt = 3,
+    ue_rpl_ns = 'cel-rpl',
+    ue_fpf = '//fls-na.amazon.ca/1/batch/1/OP/A2EUQ1WTGCTBG2:145-8981527-6943311:79PJJ0FT95ANE4TQB90S$uedata=s:',
+
+    ue_swi = 1;
+function ue_viz(){(function(c,e,a){function k(b){if(c.ue.viz.length<p&&!l){var a=b.type;b=b.originalEvent;/^focus./.test(a)&&b&&(b.toElement||b.fromElement||b.relatedTarget)||(a=e[m]||("blur"==a||"focusout"==a?"hidden":"visible"),c.ue.viz.push(a+":"+(+new Date-c.ue.t0)),"visible"==a&&(ue.isl&&uex("at"),l=1))}}for(var l=0,f,g,m,n=["","webkit","o","ms","moz"],d=0,p=20,h=0;h<n.length&&!d;h++)if(a=n[h],f=(a?a+"H":"h")+"idden",d="boolean"==typeof e[f])g=a+"visibilitychange",m=(a?a+"V":"v")+"isibilityState";
+k({});d&&e.addEventListener(g,k,0);c.ue&&d&&(c.ue.pageViz={event:g,propHid:f})})(ue_csm,document,window)};
+
+(function(a,g){function v(a){return a&&a.replace&&a.replace(/^\s+|\s+$/g,"")}function p(a){return"undefined"===typeof a}function t(d,c,e,h){var g=h||+new Date,m;a.ueam&&a.ueam(c,d,h);if(c||p(e)){if(d)for(m in h=c?f("t",c)||f("t",c,{}):a.ue.t,h[d]=g,e)e.hasOwnProperty(m)&&f(m,c,e[m]);return g}}function f(d,c,e){var f=a.ue,g=c&&c!=f.id?f.sc[c]:f;g||(g=f.sc[c]={});"id"==d&&e&&(f.cfa2=1);return g[d]=e||g[d]}function w(d,c,e,f,g){e="on"+e;var m=c[e];"function"===typeof m?d&&(a.ue.h[d]=m):m=function(){};
+c[e]=g?function(a){f(a);m(a)}:function(a){m(a);f(a)};c[e]&&(c[e].isUeh=1)}function A(d,c,e){function h(c,e){var b=[c],D=0,g={},m,h;e?(b.push("m=1"),g[e]=1):g=a.ue.sc;for(h in g)if(g.hasOwnProperty(h)){var k=f("wb",h),l=f("t",h)||{},q=f("t0",h)||a.ue.t0,n;if(e||2==k){k=k?D++:"";b.push("sc"+k+"="+h);for(n in l)3>=n.length&&!p(l[n])&&null!==l[n]&&b.push(n+k+"="+(l[n]-q));b.push("t"+k+"="+l[d]);if(f("ctb",h)||f("wb",h))m=1}}!x&&m&&b.push("ctb=1");return b.join("&")}function z(c,b,e,d){if(c){var f=a.ue_err,
+h;d&&a.ue.log||(h=new Image,a.ue.iel.push(h),h.src=c);E?a.ue_fpf&&g.encodeURIComponent&&c&&(d=new Image,c=""+a.ue_fpf+g.encodeURIComponent(c)+":"+(+new Date-a.ue_t0),a.ue.iel.push(d),d.src=c):a.ue.log&&(h=g.chrome&&"ul"==b,a.ue.log(c,"uedata",a.ue_svi?{n:1,img:!d&&h?1:0}:{n:1}),a.ue.ielf.push(c));f&&!f.ts&&f.startTimer();a.ue.b&&(f=a.ue.b,a.ue.b="",z(f,b,e,1))}}function m(c){if(!ue.collected){var b=c.timing,e=c.navigation,d=ue.t;b&&(d.na_=b.navigationStart,d.ul_=b.unloadEventStart,d._ul=b.unloadEventEnd,
+d.rd_=b.redirectStart,d._rd=b.redirectEnd,d.fe_=b.fetchStart,d.lk_=b.domainLookupStart,d._lk=b.domainLookupEnd,d.co_=b.connectStart,d._co=b.connectEnd,d.sc_=b.secureConnectionStart,d.rq_=b.requestStart,d.rs_=b.responseStart,d._rs=b.responseEnd,d.dl_=b.domLoading,d.di_=b.domInteractive,d.de_=b.domContentLoadedEventStart,d._de=b.domContentLoadedEventEnd,d._dc=b.domComplete,d.ld_=b.loadEventStart,d._ld=b.loadEventEnd,b=d.na_,c="function"!==typeof c.now||p(b)?0:new Date(b+c.now())-new Date,d.ntd=c+a.ue.t0);
+e&&(d.ty=e.type+a.ue.t0,d.rc=e.redirectCount+a.ue.t0);ue.collected=1}}function s(b){var c=n&&n.navigation?n.navigation.type:y,d=c&&2!=c,e=a.ue.bfini;a.ue.cfa2||(e&&1<e&&(b+="&bfform=1",d||(a.ue.isBFT=e-1)),2==c&&(b+="&bfnt=1",a.ue.isBFT=a.ue.isBFT||1),a.ue.ssw&&a.ue.isBFT&&(p(a.ue.isNRBF)&&(c=a.ue.ssw(a.ue.oid),c.e||p(c.val)||(a.ue.isNRBF=1<c.val?0:1)),p(a.ue.isNRBF)||(b+="&nrbf="+a.ue.isNRBF)),a.ue.isBFT&&!a.ue.isNRBF&&(b+="&bft="+a.ue.isBFT));return b}if(c||p(e)){for(var q in e)e.hasOwnProperty(q)&&
+f(q,c,e[q]);t("pc",c,e);q=f("id",c)||a.ue.id;var b=a.ue.url+"?"+d+"&v="+a.ue.v+"&id="+q,x=f("ctb",c)||f("wb",c),n=g.performance||g.webkitPerformance,k,l;x&&(b+="&ctb="+x);1<a.ueinit&&(b+="&ic="+a.ueinit);!a.ue._fi||"at"!=d||c&&c!=q||(b+=a.ue._fi());if(!("ld"!=d&&"ul"!=d||c&&c!=q)){if("ld"==d){try{g.onbeforeunload&&g.onbeforeunload.isUeh&&(g.onbeforeunload=null)}catch(w){}if(g.chrome)for(l=0;l<ue.ulh.length;l++)B("beforeunload",ue.ulh[l]);(l=document.ue_backdetect)&&l.ue_back&&l.ue_back.value++;a._uess&&
+(k=a._uess());a.ue.isl=1}ue._bf&&(b+="&bf="+ue._bf());a.ue_navtiming&&n&&n.timing&&(f("ctb",q,"1"),1==a.ue_navtiming&&t("tc",y,y,n.timing.navigationStart));n&&m(n);a.ue.t.hob=a.ue_hob;a.ue.t.hoe=a.ue_hoe;a.ue.ifr&&(b+="&ifr=1")}t(d,c,e);e="ld"==d&&c&&f("wb",c);var u;e||q==a.ue.oid||F((f("t",c)||{}).tc||+f("t0",c),+f("t0",c));a.ue_mbl&&a.ue_mbl.cnt&&!e&&(b+=a.ue_mbl.cnt());e?f("wb",c,2):"ld"==d&&(r.lid=v(q));for(u in a.ue.sc)if(1==f("wb",u))break;if(e){if(a.ue.s)return;b=h(b,null)}else l=h(b,null),
+l!=b&&(l=s(l),a.ue.b=l),k&&(b+=k),b=h(b,c||a.ue.id);b=s(b);if(a.ue.b||e)for(u in a.ue.sc)2==f("wb",u)&&delete a.ue.sc[u];k=0;ue._rt&&(b+="&rt="+ue._rt());e||(a.ue.s=0,(k=a.ue_err)&&0<k.ec&&k.pec<k.ec&&(k.pec=k.ec,b+="&ec="+k.ec+"&ecf="+k.ecf),k=f("ctb",c),f("t",c,{}));b&&a.ue.tag&&0<a.ue.tag().length&&(b+="&csmtags="+a.ue.tag().join("|"),a.ue.tag=a.ue.tagC());b&&a.ue.viz&&0<a.ue.viz.length&&(b+="&viz="+a.ue.viz.join("|"),a.ue.viz=[]);b&&!p(a.ue_pty)&&(b+="&pty="+a.ue_pty+"&spty="+a.ue_spty+"&pti="+
+a.ue_pti);b&&a.ue.tabid&&(b+="&tid="+a.ue.tabid);b&&a.ue.aftb&&(b+="&aftb=1");b&&a.ue.sbf&&(b+="&sbf=1");!a.ue._ui||c&&c!=q||(b+=a.ue._ui());a.ue.a=b;z(b,d,k,e)}}function s(a,c,e){e=e||g;e.addEventListener?e.addEventListener(a,c,!1):e.attachEvent&&e.attachEvent("on"+a,c)}function B(a,c,e){e=e||g;e.removeEventListener?e.removeEventListener(a,c,!1):e.detachEvent&&e.detachEvent("on"+a,c)}function C(){function d(){a.onUl()}function c(a){return function(){e[a]||(e[a]=1,A(a))}}var e=a.ue.r,f,p;a.onLd=c("ld");
+a.onLdEnd=c("ld");a.onUl=c("ul");f={stop:c("os")};g.chrome?(s("beforeunload",d),ue.ulh.push(d)):f[G]=a.onUl;for(p in f)f.hasOwnProperty(p)&&w(0,g,p,f[p]);a.ue_viz&&ue_viz();s("load",a.onLd);t("ue")}function F(d,c){a.ue_mbl&&a.ue_mbl.ajax&&a.ue_mbl.ajax(d,c);a.ue.tag("ajax-transition")}a.ueinit=(a.ueinit||0)+1;var r={t0:g.aPageStart||a.ue_t0,id:a.ue_id,url:a.ue_url,rid:a.ue_id,a:"",b:"",h:{},r:{ld:0,oe:0,ul:0},s:1,t:{},sc:{},iel:[],ielf:[],fc_idx:{},viz:[],v:"0.793.2",d:a.ue&&a.ue.d,log:a.ue&&a.ue.log,
+clog:a.ue&&a.ue.clog,onflush:a.ue&&a.ue.onflush,onunload:a.ue&&a.ue.onunload,stub:a.ue&&a.ue.stub,lr:a.ue&&a.ue.lr,exec:a.ue&&a.ue.exec,event:a.ue&&a.ue.event,onSushiUnload:a.ue&&a.ue.onSushiUnload,onSushiFlush:a.ue&&a.ue.onSushiFlush,ulh:[],cfa2:0},E=a.ue_fpf?1:0,G="beforeunload",y;r.oid=v(r.id);r.lid=v(r.id);a.ue=r;a.ue._t0=a.ue.t0;a.ue.tagC=function(){var a={};return function(c){c&&(a[c]=1);c=[];for(var e in a)a.hasOwnProperty(e)&&c.push(e);return c}};a.ue.tag=a.ue.tagC();a.ue.ifr=g.top!==g.self||
+g.frameElement?1:0;ue.attach=s;ue.detach=B;ue.reset=function(d,c){d&&(a.ue_cel&&a.ue_cel.reset(),a.ue.t0=+new Date,a.ue.rid=d,a.ue.id=d,a.ue.fc_idx={},a.ue.viz=[])};a.uei=C;a.ueh=w;a.ues=f;a.uet=t;a.uex=A;C()})(ue_csm,window);
+
+
+ue.stub(ue,"log");ue.stub(ue,"onunload");ue.stub(ue,"onflush");
+(function(b){var a=b.ue;a.cv={};a.cv.scopes={};a.count=function(c,b,d){var e={},f=a.cv;e.counter=c;e.value=b;e.t=a.d();d&&d.scope&&(f=a.cv.scopes[d.scope]=a.cv.scopes[d.scope]||{},e.scope=d.scope);if(void 0===b)return f[c];f[c]=b;c=0;d&&d.bf&&(c=1);a.clog&&0===c?a.clog(e,"csmcount",{bf:c}):a.log&&a.log(e,"csmcount",{c:1,bf:c})};a.count("baselineCounter2",1);a&&a.event&&(a.event({requestId:b.ue_id||"rid",server:b.ue_sn||"sn",marketplaceId:b.ue_mid||"mid"},"csm","csm.CSMBaselineEvent.3"),a.event({server:ue_csm.ue_sn||
+"sn"},"csm","csm.CSMBaselineRawEvent.3"),a.count("nexusBaselineCounter",1,{bf:1}))})(ue_csm);
+
+
+var ue_hoe = +new Date();
+</script>
+
+<!-- 12zj0w8wpgtmnulpw45ntrm0lh53nzpladzt19dv2mofjbhy --><!-- sp:feature:aui-assets -->
+<link rel="stylesheet" href="https://images-na.ssl-images-amazon.com/images/I/51ilsA4kpHL._RC|010Q14DPSqL.css,31UnHJU99yL.css,019QJXy+TaL.css,11FQDXHaMgL.css,11Wrw8ni2NL.css,11g4ZqMHAkL.css,21Pd9HarLOL.css,015uc33ipFL.css,21gWnx45PiL.css,018Tc5FIgWL.css,11U6TmZEZFL.css,01pVbSC-RPL.css,11Fd9tJOdtL.css,21ULbzscqzL.css,11WgRxUdJRL.css,01TvogYZ+AL.css,01G4hnpC1nL.css,01SHjPML6tL.css,11JSiRuDLmL.css,01LNZ6vG2wL.css,31CtRvGpsfL.css_.css?AUIClients/AmazonUI#not-trident.96511-T1" />
+<script>
+(function(f,h,H,t){function u(a,b){p&&p.count&&p.count("aui:"+a,0===b?0:b||(p.count("aui:"+a)||0)+1)}function n(a){try{return a.test(navigator.userAgent)}catch(b){return!1}}function v(a,b,c){a.addEventListener?a.addEventListener(b,c,!1):a.attachEvent&&a.attachEvent("on"+b,c)}function q(a,b,c,e){b=b&&c?b+a+c:b||c;return e?q(a,b,e):b}function z(a,b,c){try{Object.defineProperty(a,b,{value:c,writable:!1})}catch(e){a[b]=c}return c}function I(){return setTimeout(U,0)}function ka(a,b){var c=a.length,e=c,
+g=function(){e--||(J.push(b),K||(I(),K=!0))};for(g();c--;)V[a[c]]?g():(w[a[c]]=w[a[c]]||[]).push(g)}function la(a,b,c,e,g){var d=h.createElement(a?"script":"link");v(d,"error",e);g&&v(d,"load",g);if(a){d.type="text/javascript";d.async=!0;if(a=c)a=-1!==b.indexOf("images/I")||/AUIClients/.test(b);a&&d.setAttribute("crossorigin","anonymous");d.src=b}else d.rel="stylesheet",d.href=b;h.getElementsByTagName("head")[0].appendChild(d)}function W(a,b){return function(c,e){function g(){la(b,c,d,function(b){L?
+u("resource_unload"):d?(d=!1,u("resource_retry"),g()):(u("resource_error"),a.log("Asset failed to load: "+c));b&&b.stopPropagation?b.stopPropagation():f.event&&(f.event.cancelBubble=!0)},e)}if(X[c])return!1;X[c]=!0;u("resource_count");var d=!0;return!g()}}function ma(a,b,c){for(var e={name:a,guard:function(c){return b.guardFatal(a,c)},logError:function(c,d,e){b.logError(c,d,e,a)}},g=[],d=0;d<c.length;d++)A.hasOwnProperty(c[d])&&(g[d]=M.hasOwnProperty(c[d])?M[c[d]](A[c[d]],e):A[c[d]]);return g}function x(a,
+b,c,e,g){return function(d,h){function l(){var a=null;e?a=h:"function"===typeof h&&(p.start=N(),a=h.apply(f,ma(d,k,m)),p.end=N());if(b){A[d]=a;a=d;for(V[a]=!0;(w[a]||[]).length;)w[a].shift()();delete w[a]}p.done=!0}var k=g||this;"function"===typeof d&&(h=d,d=void 0);b&&(d=(d||"__NONAME__").replace(/^prv:/,""),O.hasOwnProperty(d)&&k.error(q(", reregistered by ",q(" by ",d+" already registered",O[d]),k.attribution),d),O[d]=k.attribution);for(var m=[],n=0;n<a.length;n++)m[n]=a[n].replace(/^prv:/,"");
+var p=Y[d||"anon"+ ++na]={depend:m,registered:N(),namespace:k.namespace};c?l():ka(m,k.guardFatal(d,l));return{decorate:function(a){M[d]=k.guardFatal(d,a)}}}}function Z(a){return function(){return{execute:x(arguments,!1,a,!1,this),register:x(arguments,!0,a,!1,this)}}}function aa(a){return function(b,c){c||(c=b,b=void 0);var e=this.attribution;return function(){B.push({attribution:e,name:b,logLevel:a});var g=c.apply(this,arguments);B.pop();return g}}}function C(a,b){this.load={js:W(this,!0),css:W(this)};
+z(this,"namespace",b);z(this,"attribution",a)}function ba(){h.body?m.trigger("a-bodyBegin"):setTimeout(ba,20)}function y(a,b){if(b){for(var c=a.className.split(" "),e=c.length;e--;)if(c[e]===b)return;a.className+=" "+b}}function ca(a,b){for(var c=a.className.split(" "),e=[],g;void 0!==(g=c.pop());)g&&g!==b&&e.push(g);a.className=e.join(" ")}function da(a){try{return a()}catch(b){return!1}}function D(){if(E){var a=f.innerWidth?{w:f.innerWidth,h:f.innerHeight}:{w:k.clientWidth,h:k.clientHeight};5<Math.abs(a.w-
+P.w)||50<a.h-P.h?(P=a,Q=4,(a=l.mobile||l.tablet?450<a.w&&a.w>a.h:1250<=a.w)?y(k,"a-ws"):ca(k,"a-ws")):Q--&&(ea=setTimeout(D,16))}}function oa(a){(E=void 0===a?!E:!!a)&&D()}function pa(){return E}"use strict";t=f.AmazonUIPageJS||f.P;var p=f.ue;p&&p.tag&&(p.tag("aui"),p.tag("aui:aui_build_date:3.17.7.1-2017-05-04"));var F=H.now=H.now||function(){return+new H},N=function(a){return a&&a.now?a.now.bind(a):F}(f.performance),J=[],K=!1,U;U=function(){for(var a=I(),b=F();J.length;)if(J.shift()(),50<F()-b)return;
+clearTimeout(a);K=!1};n(/OS 6_[0-9]+ like Mac OS X/i)&&v(f,"scroll",I);var V={},w={},X={},L=!1;v(f,"beforeunload",function(){L=!0;setTimeout(function(){L=!1},1E4)});var O={},A={},M={},Y={},na=0,R,B=[],fa=f.onerror;f.onerror=function(a,b,c,e,g){g&&"object"===typeof g||(g=Error(a,b,c),g.columnNumber=e,g.stack=b||c||e?q(String.fromCharCode(92),g.message,"at "+q(":",b,c,e)):void 0);var d=B.pop()||{};g.attribution=q(":",g.attribution||d.attribution,d.name);g.logLevel=d.logLevel;g.attribution&&console&&
+console.log&&console.log([g.logLevel||"ERROR",a,"thrown by",g.attribution].join(" "));B=[];fa&&(d=[].slice.call(arguments),d[4]=g,fa.apply(f,d))};C.prototype={logError:function(a,b,c,e){b={message:b,logLevel:c||"ERROR",attribution:q(":",this.attribution,e)};if(f.ueLogError)return f.ueLogError(a||b,a?b:null),!0;console&&console.error&&(console.log(b),console.error(a));return!1},error:function(a,b,c,e){a=Error(q(":",e,a,c));a.attribution=q(":",this.attribution,b);throw a;},guardError:aa(),guardFatal:aa("FATAL"),
+log:function(a,b,c){return this.logError(null,a,b,c)},declare:x([],!0,!0,!0),register:x([],!0),execute:x([]),AUI_BUILD_DATE:"3.17.7.1-2017-05-04",when:Z(),now:Z(!0),trigger:function(a,b,c){var e=F();this.declare(a,{data:b,pageElapsedTime:e-(f.aPageStart||NaN),triggerTime:e});c&&c.instrument&&R.when("prv:a-logTrigger").execute(function(b){b(a)})},handleTriggers:function(){this.log("handleTriggers deprecated")},attributeErrors:function(a){return new C(a)},_namespace:function(a,b){return new C(a,b)}};
+var m=z(f,"AmazonUIPageJS",new C);R=m._namespace("PageJS","AmazonUI");R.declare("prv:p-debug",Y);m.declare("p-recorder-events",[]);m.declare("p-recorder-stop",function(){});z(f,"P",m);ba();if(h.addEventListener){var ga;h.addEventListener("DOMContentLoaded",ga=function(){m.trigger("a-domready");h.removeEventListener("DOMContentLoaded",ga,!1)},!1)}var k=h.documentElement,S=function(){var a=["O","ms","Moz","Webkit"],b=h.createElement("div");return{testGradients:function(){b.style.cssText=("background-image:-webkit-gradient(linear,left top,right bottom,from(#9f9),to(white));background-image:"+
+a.join("linear-gradient(left top,#9f9, white);background-image:")).slice(0,-17);return-1<b.style.backgroundImage.indexOf("gradient")},test:function(c){var e=c.charAt(0).toUpperCase()+c.substr(1);c=(a.join(e+" ")+e+" "+c).split(" ");for(e=c.length;e--;)if(""===b.style[c[e]])return!0;return!1},testTransform3d:function(){var a=!1;f.matchMedia&&(a=f.matchMedia("(-webkit-transform-3d)").matches);return a}}}();t=k.className;var ha=/(^| )a-mobile( |$)/.test(t),ia=/(^| )a-tablet( |$)/.test(t),l={audio:function(){return!!h.createElement("audio").canPlayType},
+video:function(){return!!h.createElement("video").canPlayType},canvas:function(){return!!h.createElement("canvas").getContext},svg:function(){return!!h.createElementNS&&!!h.createElementNS("http://www.w3.org/2000/svg","svg").createSVGRect},offline:function(){return navigator.hasOwnProperty&&navigator.hasOwnProperty("onLine")&&navigator.onLine},dragDrop:function(){return"draggable"in h.createElement("span")},geolocation:function(){return!!navigator.geolocation},history:function(){return!(!f.history||
+!f.history.pushState)},webworker:function(){return!!f.Worker},autofocus:function(){return"autofocus"in h.createElement("input")},inputPlaceholder:function(){return"placeholder"in h.createElement("input")},textareaPlaceholder:function(){return"placeholder"in h.createElement("textarea")},localStorage:function(){return"localStorage"in f&&null!==f.localStorage},orientation:function(){return"orientation"in f},touch:function(){return"ontouchend"in h},gradients:function(){return S.testGradients()},hires:function(){var a=
+f.devicePixelRatio&&1.5<=f.devicePixelRatio||f.matchMedia&&f.matchMedia("(min-resolution:144dpi)").matches;u("hiRes"+(ha?"Mobile":ia?"Tablet":"Desktop"),a?1:0);return a},transform3d:function(){return S.testTransform3d()},touchScrolling:function(){return n(/Windowshop|android.([3-9]|[L-Z])|OS ([5-9]|[1-9][0-9]+)(_[0-9]{1,2})+ like Mac OS X|Chrome|Silk|Firefox|Trident.+?; Touch/i)},ios:function(){return n(/OS [1-9][0-9]*(_[0-9]*)+ like Mac OS X/i)&&!n(/trident|Edge/i)},android:function(){return n(/android.([1-9]|[L-Z])/i)&&
+!n(/trident|Edge/i)},mobile:function(){return ha},tablet:function(){return ia}},r;for(r in l)l.hasOwnProperty(r)&&(l[r]=da(l[r]));for(var T="textShadow textStroke boxShadow borderRadius borderImage opacity transform transition".split(" "),G=0;G<T.length;G++)l[T[G]]=da(function(){return S.test(T[G])});var E=!0,ea=0,P={w:0,h:0},Q=4;D();v(f,"resize",function(){clearTimeout(ea);Q=4;D()});var ja={getItem:function(a){try{return f.localStorage.getItem(a)}catch(b){}},setItem:function(a,b){try{return f.localStorage.setItem(a,
+b)}catch(c){}}};ca(k,"a-no-js");y(k,"a-js");!n(/OS [1-8](_[0-9]*)+ like Mac OS X/i)||f.navigator.standalone||n(/safari/i)||y(k,"a-ember");t=[];for(r in l)l.hasOwnProperty(r)&&l[r]&&t.push("a-"+r.replace(/([A-Z])/g,function(a){return"-"+a.toLowerCase()}));y(k,t.join(" "));k.setAttribute("data-aui-build-date","3.17.7.1-2017-05-04");m.register("p-detect",function(){return{capabilities:l,localStorage:l.localStorage&&ja,toggleResponsiveGrid:oa,responsiveGridEnabled:pa}});n(/UCBrowser/i)||(m.declare("prv:ember-weblab-type",
+"desktop"),l.localStorage&&y(k,ja.getItem("a-font-class")));m.declare("a-event-revised-handling",!1);m.declare("a-fix-event-off",!1)})(window,document,Date);
+(window.AmazonUIPageJS ? AmazonUIPageJS : P).when('af').execute(function() {
+  (window.AmazonUIPageJS ? AmazonUIPageJS : P).load.js('https://images-na.ssl-images-amazon.com/images/I/61tHvuwljLL.js?AUIClients/AmazonUIjQuery');
+});
+(window.AmazonUIPageJS ? AmazonUIPageJS : P).when('sp.load.js').execute(function() {
+  (window.AmazonUIPageJS ? AmazonUIPageJS : P).load.js('https://images-na.ssl-images-amazon.com/images/I/11IYhapguOL._RC|61-anKG688L.js,012FVc3131L.js,31pYyxAZJRL.js,31Qll8kfk9L.js,516fQ5+zVmL.js,11UpGvgfZkL.js,01xMsWWFUQL.js,11KkQiUpBPL.js,113pP0Sfh0L.js,2165o9D43oL.js,01PoLXBDXWL.js,61F9FmTULWL.js,01BBu+b9t0L.js,01rpauTep4L.js_.js?AUIClients/AmazonUI');
+});
+</script>
+<!-- sp:feature:nav-inline-css -->
+<style>.nav-sprite-v1 .nav-sprite, .nav-sprite-v1 .nav-icon {
+  background-image: url(https://images-na.ssl-images-amazon.com/images/G/15/gno/sprites/nav-sprite-global_bluebeacon-1x_optimized._CB530517411_.png);
+  background-position: 0 1000px;
+  background-repeat: repeat-x;
+}
+.nav-spinner {
+  background-image: url(https://images-na.ssl-images-amazon.com/images/G/15/javascripts/lib/popover/images/snake._CB402380282_.gif);
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.nav-timeline-icon, .nav-access-image, .nav-timeline-prime-icon {
+  background-image: url();
+  background-repeat: no-repeat;
+}
+</style><!-- nav-config-asset-injection CA::desktop::standard::101729:C::auiDebug=0::isSecure=1 navc-Yl6ulU0iuHhY4+jfNIRe8yxcvSpSGGGrWxA/p8q1V1Cw5AN7SXAio8XqQ4ppn4t2 rid-98SYDZAPE3AN6RC1H4X8 seq-306 (Tue May  9 06:12:39 2017) **CACHED-BY-NCCC** -->
+<link rel="stylesheet" href="https://images-na.ssl-images-amazon.com/images/I/61%2BWIwJcRgL._RC|01GLjU+hieL.css,31+C8rQtOEL.css,21E1MhZOpTL.css,31AMpirNLiL.css,01NHva6qGRL.css,21i6ONZOxQL.css_.css?AUIClients/NavDesktopMetaAsset#desktop" />
+<!-- sp:feature:host-assets -->
+
+  
+  <link rel="stylesheet" href="https://images-na.ssl-images-amazon.com/images/G/01/AUIClients/AmazonGatewayHerotatorJS-ed6ce4798415244198b464cf366c538b1f2f2537._V2_.css#AUIClients/AmazonGatewayHerotatorJS.secure.min" />
+<link rel="stylesheet" href="https://images-na.ssl-images-amazon.com/images/G/01/AUIClients/AmazonGatewayAuiAssets-5feb65e151d13a70b27d22a7d3bf33b187efb5e7._V2_.css#AUIClients/AmazonGatewayAuiAssets.secure.weblab-AH_SHOVELER_LAZY_NON_VISIBLE_IMG_89336-T1.min" />
+<script>
+GWI=function(e){var c=this,l=function(){function a(a,c){for(var b=[],f=0;f<a.length;f++)b.push({id:a[f],occured:!1});this.notify=function(a){for(var f=0;f<b.length;f++){var g=b[f];g.id===a&&(g.occured=!0)}a=!0;for(f=0;f<b.length;f++)a=a&&b[f].occured;a&&c()}}function c(a,e){var b=this,f=[];b.occured=e;b.notifySubscribers=function(){b.occured=!0;for(var c=0;c<f.length;c++)f[c].notify(a)};b.registerSubscriber=function(c){null!==c&&void 0!==c&&f.push(c);b.occured&&c.notify(a)}}var e=this,h={};e.registerEvent=
+function(a,e){void 0===h[a]&&(h[a]=new c(a,e))};e.registerSubscriber=function(g,c){for(var b=new a(g,c),f=0;f<g.length;f++){var q=g[f];e.registerEvent(q,!1);h[q].registerSubscriber(b)}return b};e.notifySubscribers=function(a){h[a].notifySubscribers()};return e}();c.whenAll=function(a,c){return l.registerSubscriber(a,c)};c.whenAny=function(a,e){for(var m=[],h=0;h<a.length;h++)m.push(c.whenAll([a[h]],e));return m};c.register=function(a){l.registerEvent(a,!0);l.notifySubscribers(a)};c.recordLatency=
+function(a){e.uet&&uet("cf",a,{wb:1});e.uex&&uex("ld",a,{wb:1})};c.registerX1Once=function(a){a&&a.register("x1");c.registerX1Once=function(){}};c.registerX2Once=function(a){a&&a.register("x2");c.registerX2Once=function(){}};return c}(window);GWI.preload=function(e,c){if(e){var l=new Image;l.onload=function(){c&&c()};l.src=e;return l.complete}};
+GWI.instrumentImages=function(e,c){var l={};if(e&&c){l.imgArray=c.split(" ");l.totalImgs=l.imgArray.length;l.scope=e+"-visible";l.imgReady=function(){l.totalImgs--;0===l.totalImgs&&(GWI.recordLatency(l.scope),GWI.register(l.scope))};for(var a=0;a<l.imgArray.length;a++){var p=l.imgArray[a];GWI.preload(p,function(){l.imgReady()}(p))}}return l};
+GWI.util=function(){return{logScope:function(e){var c=window.GWI;e&&c&&(c.recordLatency(e),c.register(e))},getParent:function(e){return(e=document.getElementById(e))&&e.parentElement},gwiData:function(e){var c;if(c=e)e=e.getAttribute("data-gwi"),c=window.JSON&&JSON.parse&&JSON.parse(e);return c||{}}}}();
+GWI.BillboardWidget=function(e,c){P.when("gwi-util").execute(function(l){function a(){for(var a=0;a<h.length;++a)if(!h[a].complete)return;l.logScope(m.visible);l.logScope(m.active)}c=c||[];var p;p=l.getParent(e);var m=l.gwiData(p),h=[];for(p=0;p<c.length;++p)(function(g){var e=new Image;e.onload=a;e.src=c[g];h[g]=e})(p);a()})};
+GWI.AssetUtil=function(){var e={image:function(c){c&&(window.GwInstrumentation&&window.GwInstrumentation.CF(c),c=window.ue,"object"===typeof c&&"function"===typeof c.count&&c.count("gw-preload-img",(c.count("gw-preload-img")||0)+1))}};return{load:function(c){c=c||[];for(var l=0;l<c.length;l++){var a=c[l];if(a&&a.src&&a.type&&"function"===typeof e[a.type])e[a.type](a.src)}}}}();
+(function(e,c){function l(){var b=[];c.getElementById("ah-dashboard")?b.push("ah-dashboard-visible"):c.getElementById("hud-dashboard")&&(b.push("gw-hud-visible"),c.getElementById("gw-hud-sidekick")&&b.push("gw-hud-sidekick-visible"));return{anyEvents:["desktop-top-visible","desktop-1-visible","desktop-2-visible","desktop-top-active","desktop-1-active"].concat(b),mustEvents:["cf"].concat(b),x2Count:c.getElementById("ah-dashboard")?1:2,afCount:1,cfCount:2,uiReadyCount:1}}function a(b,a,g){for(var c=
+[],d=0;d<a;d++)b[d]&&c.push(b[d].getAttribute("id")+g);return c}function p(b,a){for(var g=[],c=b.length,d=a.length,e=0;e<c;e++)for(var h=0;h<d;h++)if(b[e]===a[h]){g.push(b[e]);break}return g}function m(b){b=p(b,["desktop-top-visible","desktop-1-visible","desktop-2-visible"]);GWI.whenAll(b,function(){GWI.recordLatency("oldX2")})}function h(b,g){var c=a(b,g.afCount,"-visible");GWI.whenAll(c,function(){GWI.recordLatency("gwAtfAf")})}function g(b){GWI.whenAll(b,function(){e.uet&&e.uet("x1");GWI.registerX1Once(e.P);
+GWI.recordLatency("gwAtfCf")})}function k(b,g){var c=a(b,g.x2Count,"-visible").concat(g.mustEvents);GWI.whenAll(c,function(){e.uet&&uet("x2");GWI.registerX2Once(e.P)})}function b(b,g){var c=a(b,g.uiReadyCount,"-active");GWI.whenAll(c,function(){GWI.recordLatency("gwUIReadyCf")})}GWI&&GWI.whenAll(["trueATF"],function(){var f=!1,e=l();GWI.whenAny(e.anyEvents,function(){if(!f){var p;if("function"!==typeof c.querySelectorAll){if(p=[],c.createStyleSheet&&c.all){var l=c.createStyleSheet(),d=c.all,x=d.length,
+u;if(l&&l.addRule&&l.removeRule){l.addRule(".gw-widget-instrument","gwTemp:forQS");for(u=0;u<x;u+=1)"forQS"===d[u].currentStyle.gwTemp&&p.push(d[u]);l.removeRule(0)}}}else p=c.querySelectorAll(".gw-widget-instrument");p&&p.length>=e.uiReadyCount&&(l=a(p,e.cfCount,"-visible"),k(p,e),g(l),m(l),b(p,e),h(p,e));f=!0}})})})(window,document);
+(function(e){var c=["popular-departments-visible","deals-image-visible","airy-gw-resizeable-inline-video-visible","cf"],l=!1,a=function(){GWI.recordLatency("gwAtfAf");e.uet&&uet("x1");e.uet&&uet("x2");GWI.registerX1Once(e.P);GWI.registerX2Once(e.P);GWI.recordLatency("gwAtfCf");GWI.recordLatency("gwUIReadyCf");a=function(){}};e.GWI&&GWI.whenAny(c,function(){l||(l=!0,GWI.whenAll(c,a))})})(window);
+GwInstrumentation=function(e){function c(){m&&0===p&&(e.uet&&uet("cf"),e.P&&P.register("cf"),e.GWI&&e.GWI.register("cf"),e.ue&&e.ue.tag&&e.ue.tag(h?"gwCFImgCache":"gwCFImgNoCache"))}function l(a){P.when("gwAjax").execute(function(b){b(a.uri,{cache:!1,type:"post",data:a.data,id:"ajaxATF"})})}var a={},p=0,m=!1,h=1,g={};a.markAF=function(a){e.uet&&uet("af");m=!0;e.P&&P.register("af");e.P&&P.register("sp.load.js");e.uet&&e.uet("cf","spLoadJs",{wb:1});e.uex&&e.uex("ld","spLoadJs",{wb:1});c();a&&l(a)};
+a.preload=function(a,b){if(a){var f=new Image;f.onload=function(){b&&b()};f.src=a;return f.complete}};a.CF=function(e){var b,f=!1;if("string"===typeof e)g[e]||(b=new a.CF,g[e]=b,e=a.preload(e,function(){b.ready()}),h&=e);else{if(this.constructor===a.CF)return b={},p++,b.ready=function(){f||(f=!0,p--,c())},b;throw Error("Incorrect invocation of GwInstrumentation.CF(...)");}};return a}(window);
+(function(){window.P&&P.when("p-detect").execute(function(){var e=document;!/(^|\s+)a-touch(\s+|$)/.test(e.documentElement.className)&&("ontouchend"in e||0<navigator.maxTouchPoints||0<navigator.msMaxTouchPoints)&&(e.documentElement.className+=" a-touch")});(function(e){e.P&&e.P.when("A").execute(function(c){e.uet&&e.uet("cf","gwAUIReady",{wb:1});e.uex&&e.uex("ld","gwAUIReady",{wb:1})})})(window);window.P&&P.when("ready").execute(function(){var e=document,c=e.getElementById("sidebarbtf"),e=e.getElementById("sidebarhidden");
+c&&e&&(c.innerHTML=e.innerHTML,e.innerHTML="");P.register("gwLayoutReady");window.uet&&window.uet("cf","gwLayoutReady",{wb:1});window.uex&&window.uex("ld","gwLayoutReady",{wb:1})});window.P&&P.when("navCF").execute(function(){window.uet&&window.uet("cf","navCF",{wb:1});window.uex&&window.uex("ld","navCF",{wb:1})});window.P&&P.when("A","gwLayoutReady").execute(function(e){e.capabilities.hires&&e.$(window).trigger("resize")});(function(e){e=e.documentElement;e.setAttribute("data-useragent",navigator.userAgent);
+e.setAttribute("data-platform",navigator.platform)})(document)})();
+  (window.AmazonUIPageJS ? AmazonUIPageJS : P).load.js('https://images-na.ssl-images-amazon.com/images/G/01/AUIClients/GenericObservableJS-c1a60b0cbfbf5d9a43a472c753b5426b6b9787a4._V2_.js#AUIClients/GenericObservableJS.secure.min');
+(window.AmazonUIPageJS ? AmazonUIPageJS : P).when('af').execute(function() {
+  (window.AmazonUIPageJS ? AmazonUIPageJS : P).load.js('https://images-na.ssl-images-amazon.com/images/G/01/AUIClients/AmazonGatewayHerotatorJS-378fd435039fe356ec1c6dcd2dc64f0e7f90c2c1._V2_.js#AUIClients/AmazonGatewayHerotatorJS.secure.min');
+});
+(window.AmazonUIPageJS ? AmazonUIPageJS : P).when('af').execute(function() {
+  (window.AmazonUIPageJS ? AmazonUIPageJS : P).load.js('https://images-na.ssl-images-amazon.com/images/G/01/AUIClients/AmazonGatewayAuiAssets-fec0a90cb6c9a94630287a299256308bebf0e421._V2_.js#AUIClients/AmazonGatewayAuiAssets.secure.weblab-AH_SHOVELER_LAZY_NON_VISIBLE_IMG_89336-T1.min');
+});
+</script>
+
+  
+	
+		<script>
+			  
+			  	
+					if(window.GWI) {
+						if(window.GWI.AssetUtil){
+							window.GWI.AssetUtil.load(
+	[{"type":"image","src":"https://images-na.ssl-images-amazon.com/images/G/15/img17/events/mothersday/1040659_ca_amg-mothersday_gw_desktop_hero_1500x300_en._CB528958164_.jpg"}]
+);
+						}
+					}
+			  	
+			  
+			//<![CDATA[
+			     window.P && window.P.register('preload');
+			//]]>       
+	  	</script>
+	
+
+  
+  <title>Amazon.ca: Online shopping in Canada - books, electronics, Kindle, home & garden, DVDs, tools, music, health & beauty, watches, baby, sporting goods & more</title>
+<meta name="description" content="Amazon.ca: Online shopping in Canada - books, electronics, Kindle, home & garden, DVDs, tools, music, health & beauty, watches, baby, sporting goods & more. Free two-day shipping with Amazon Prime.">
+<meta name="keywords" content="Amazon.ca, Online Shopping, Kindle, Books, Music, Movies, DVDs, Electronics, Health, Beauty, Watches, Home & Garden, Tools, Video Games, Baby">
+<meta name="google" content="nositelinkssearchbox">
+<meta name="google-site-verification" content="dzs8S4Esqo2wKksPzTwY_Jdxg1UaZLstx96p7XUDXY4">
+<link rel="canonical" href="https://www.amazon.ca/">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta property="fb:app_id" content="164734381262">
+<meta name="twitter:card" value="summary">
+<meta name="twitter:site:id" value="20793816">
+<meta property="og:description" content="Amazon.ca: Online shopping in Canada - books, electronics, Kindle, home & garden, DVDs, tools, music, health & beauty, watches, baby, sporting goods & more. Free two-day shipping with Amazon Prime." xmlns:og="http://opengraphprotocol.org/schema/">
+<meta name="msvalidate.01" content="4B93BCF332FB7ADE299364913D9F1B26" />
+  
+  
+  
+<!--&&&Portal&Delimiter&&&--><!-- sp:end-feature:host-assets -->
+<script type='text/javascript'>
+(function(e,c){function h(b,a){f.push([b,a])}function g(b,a){if(b){var c=e.head||e.getElementsByTagName("head")[0]||e.documentElement,d=e.createElement("script");d.async="async";d.src=b;d.setAttribute("crossorigin","anonymous");a&&a.onerror&&(d.onerror=a.onerror);a&&a.onload&&(d.onload=a.onload);c.insertBefore(d,c.firstChild)}}function k(){ue.uels=g;for(var b=0;b<f.length;b++){var a=f[b];g(a[0],a[1])}ue.deffered=1}var f=[];c.ue&&(ue.uels=h,c.ue.attach&&c.ue.attach("load",k))})(document,window);
+(function(a){var b=a.alert;window.alert=function(){a.ueLogError&&a.ueLogError({message:"[CSM] Alert invocation detected with argument: "+arguments[0],logLevel:"WARN"});Function.prototype.apply.apply(b,[a,arguments||[]])}})(window);
+(function(k,l,g){function m(a){c||(c=b[a.type].id,"undefined"===typeof a.clientX?(e=a.pageX,f=a.pageY):(e=a.clientX,f=a.clientY),2!=c||h&&(h!=e||n!=f)?(r(),d.isl&&l.setTimeout(function(){p("at",d.id)},0)):(h=e,n=f,c=0))}function r(){for(var a in b)b.hasOwnProperty(a)&&d.detach(a,m,b[a].parent)}function s(){for(var a in b)b.hasOwnProperty(a)&&d.attach(a,m,b[a].parent)}function t(){var a="";!q&&c&&(q=1,a+="&ui="+c);return a}var d=k.ue,p=k.uex,q=0,c=0,h,n,e,f,b={click:{id:1,parent:g},mousemove:{id:2,
+parent:g},scroll:{id:3,parent:l},keydown:{id:4,parent:g}};d&&p&&(s(),d._ui=t)})(ue_csm,window,document);
+
+
+
+    if (window.ue && window.ue.uels) {
+            var cel_widgets = [ { "c":"celwidget" } ];
+
+                    ue.uels("https://images-na.ssl-images-amazon.com/images/G/01/AUIClients/ClientSideMetricsAUIJavascript-87b70018b1843268021b98bf3c15ee37e346c1ac._V2_.js");
+
+    }
+
+(function(k,c){function l(a,b){return a.filter(function(a){return a.initiatorType==b})}function f(a,c){if(b.t[a]){var g=b.t[a]-b._t0,e=c.filter(function(a){return 0!==a.responseEnd&&m(a)<g}),f=l(e,"script"),h=l(e,"link"),k=l(e,"img"),n=e.map(function(a){return a.name.split("/")[2]}).filter(function(a,b,c){return a&&c.lastIndexOf(a)==b}),q=e.filter(function(a){return a.duration<p}),s=g-Math.max.apply(null,e.map(m))<r|0;"af"==a&&(b._afjs=f.length);return a+":"+[e[d],f[d],h[d],k[d],n[d],q[d],s].join("-")}}
+function m(a){return a.responseEnd-(b._t0-c.timing.navigationStart)}function n(){var a=c[h]("resource"),d=f("cf",a),g=f("af",a),a=f("ld",a);delete b._rt;b._ld=b.t.ld-b._t0;b._art&&b._art();return[d,g,a].join("_")}var p=20,r=50,d="length",b=k.ue,h="getEntriesByType";b._rre=m;b._rt=c&&c.timing&&c[h]&&n})(ue_csm,window.performance);
+
+(function(l,d){function c(b){b="";var c=a.isBFT?"b":"s",d=""+a.oid,f=""+a.lid,g=d;d!=f&&20==f.length&&(c+="a",g+="-"+f);a.tabid&&(b=a.tabid+"+");b+=c+"-"+g;b!=e&&100>b.length&&(e=b,document.cookie="csm-hit="+b+("|"+ +new Date)+m+"; path=/")}function n(){e=0}function h(b){!0===d[a.pageViz.propHid]?e=0:!1===d[a.pageViz.propHid]&&c({type:"visible"})}var m="; expires="+(new Date(+new Date+6048E5)).toGMTString(),e,a=l.ue||{},k=a.pageViz&&a.pageViz.event&&a.pageViz.propHid;a.attach&&(a.attach("click",c),
+a.attach("keyup",c),k||(a.attach("focus",c),a.attach("blur",n)),k&&(a.attach(a.pageViz.event,h,d),h({})));a.aftb=1})(ue_csm,document);
+
+
+ue_csm.ue.stub(ue,"impression");
+
+
+(function(k,d,h){function f(a,c,b){a&&a.indexOf&&0===a.indexOf("http")&&0!==a.indexOf("https")&&l(s,c,a,b)}function g(a,c,b){a&&a.indexOf&&(location.href.split("#")[0]!=a&&null!==a&&"undefined"!==typeof a||l(t,c,a,b))}function l(a,c,b,e){m[b]||(e=u&&e?n(e):"N/A",d.ueLogError&&d.ueLogError({message:a+c+" : "+b,logLevel:v,stack:"N/A"},{attribution:e}),m[b]=1,p++)}function e(a,c){if(a&&c)for(var b=0;b<a.length;b++)try{c(a[b])}catch(d){}}function q(){return d.performance&&d.performance.getEntriesByType?
+d.performance.getEntriesByType("resource"):[]}function n(a){if(a.id)return"//*[@id='"+a.id+"']";var c;c=1;var b;for(b=a.previousSibling;b;b=b.previousSibling)b.nodeName==a.nodeName&&(c+=1);b=a.nodeName;1!=c&&(b+="["+c+"]");a.parentNode&&(b=n(a.parentNode)+"/"+b);return b}function w(){var a=h.images;a&&a.length&&e(a,function(a){var b=a.getAttribute("src");f(b,"img",a);g(b,"img",a)})}function x(){var a=h.scripts;a&&a.length&&e(a,function(a){var b=a.getAttribute("src");f(b,"script",a);g(b,"script",a)})}
+function y(){var a=h.styleSheets;a&&a.length&&e(a,function(a){if(a=a.ownerNode){var b=a.getAttribute("href");f(b,"style",a);g(b,"style",a)}})}function z(){if(A){var a=q();e(a,function(a){f(a.name,a.initiatorType)})}}function B(){e(q(),function(a){g(a.name,a.initiatorType)})}function r(){var a;a=d.location&&d.location.protocol?d.location.protocol:void 0;"https:"==a&&(z(),w(),x(),y(),B(),p<C&&setTimeout(r,D))}var s="[CSM] Insecure content detected ",t="[CSM] Ajax request to same page detected ",v="WARN",
+m={},p=0,D=k.ue_nsip||1E3,C=5,A=1==k.ue_urt,u=!0;ue_csm.ue_disableNonSecure||(d.performance&&d.performance.setResourceTimingBufferSize&&d.performance.setResourceTimingBufferSize(300),r())})(ue_csm,window,document);
+
+
+if(window.ue&&uet) { uet('bb'); }
+</script><!-- sp:feature:head-close -->
+<script>
+window.P && P.register('bb');
+if (typeof ues === 'function') {
+  ues('t0', 'portal-bb', new Date());
+  ues('ctb', 'portal-bb', 1);
+}
+</script>
+</head><!-- sp:feature:start-body -->
+<body class="a-aui_51744-c a-aui_57326-c a-aui_72554-c a-aui_83815-c a-aui_86171-c a-aui_96511-t1 a-aui_accessibility_49860-c a-aui_attr_validations_1_51371-c a-aui_bolt_62845-c a-aui_noopener_84118-t1 a-aui_ux_59374-c a-aui_ux_60000-c a-aui_ux_92006-c a-dex_92889-c"><div id="a-page"><script type="a-state" data-a-state="{&quot;key&quot;:&quot;a-wlab-states&quot;}">{"AUI_51744":null,"AUI_57326":null,"AUI_72554":null,"AUI_83815":"C","AUI_86171":"C","AUI_96511":"T1","AUI_ACCESSIBILITY_49860":null,"AUI_ATTR_VALIDATIONS_1_51371":null,"AUI_BOLT_62845":null,"AUI_NOOPENER_84118":"T1","AUI_UX_59374":null,"AUI_UX_60000":null,"AUI_UX_92006":null,"DEX_92889":null}</script><script>typeof uex === 'function' && uex('ld', 'portal-bb', {wb: 1})</script>    <img height="1" width="1" style='display:none;visibility:hidden;' src='//fls-na.amazon.ca/1/batch/1/OP/A2EUQ1WTGCTBG2:145-8981527-6943311:79PJJ0FT95ANE4TQB90S$uedata=s:%2Fgp%2Fuedata%3Fstaticb%26id%3D79PJJ0FT95ANE4TQB90S:0' alt=""/>
+
+<!-- sp:feature:nav-inline-js -->
+<!-- From remote config v3-->
+<script type="text/javascript">
+(function(d){document.createElement("header");function b(e){return[].slice.call(e)}function c(f,e){return{m:f,a:b(e)}}var a=function(f){var g={};g._sourceName=f;g._replay=[];g.getNow=function(i,h){return h};function e(i,h,j){i[j]=function(){g._replay.push(h.concat(c(j,arguments)))}}g.when=function(){var i=[c("when",arguments)];var h={};e(h,i,"run");e(h,i,"declare");e(h,i,"publish");e(h,i,"build");return h};e(g,[],"declare");e(g,[],"build");e(g,[],"publish");e(g,[],"importEvent");a._shims.push(g);return g};a._shims=[];if(!d.$Nav){d.$Nav=a("rcx-nav")}if(!d.$Nav.make){d.$Nav.make=a}}(window));
+$Nav.importEvent('navbarJS-beaconbelt');
+$Nav.declare('img.sprite', {
+  'png8': 'https://images-na.ssl-images-amazon.com/images/G/15/gno/sprites/global-sprite_bluebeacon-v1._CB308131191_.png',
+  'png32': 'https://images-na.ssl-images-amazon.com/images/G/15/gno/sprites/nav-sprite-global_bluebeacon-1x_optimized._CB530517411_.png',
+  'png32-2x': 'https://images-na.ssl-images-amazon.com/images/G/15/gno/sprites/nav-sprite-global_bluebeacon-2x_optimized._CB530517410_.png'
+});
+$Nav.declare('img.timeline', {
+  'timeline-icon-2x': ''
+});
+window._navbarSpriteUrl = 'https://images-na.ssl-images-amazon.com/images/G/15/gno/sprites/nav-sprite-global_bluebeacon-1x_optimized._CB530517411_.png';
+$Nav.declare('img.pixel', 'https://images-na.ssl-images-amazon.com/images/G/15/x-locale/common/transparent-pixel._CB386942483_.gif');
+</script>
+<img src="https://images-na.ssl-images-amazon.com/images/G/15/gno/sprites/nav-sprite-global_bluebeacon-1x_optimized._CB530517411_.png" style="display:none" alt=""/>
+<!--[if IE 6]>
+<style type="text/css"><!--
+  #navbar.nav-sprite-v3 .nav-sprite {
+    background-image: url(https://images-na.ssl-images-amazon.com/images/G/15/gno/sprites/global-sprite_bluebeacon-v1._CB308131191_.png);
+  }
+--></style>
+<![endif]-->
+<!-- nav-config-asset-injection CA::desktop::standard::101729:C::auiDebug=0::isSecure=1 navc-Yl6ulU0iuHhY4+jfNIRe8yxcvSpSGGGrWxA/p8q1V1Cw5AN7SXAio8XqQ4ppn4t2 rid-98SYDZAPE3AN6RC1H4X8 seq-306 (Tue May  9 06:12:39 2017) **CACHED-BY-NCCC** -->
+<script>
+(window.AmazonUIPageJS ? AmazonUIPageJS : P).when('navCF').execute(function(){
+  (window.AmazonUIPageJS ? AmazonUIPageJS : P).load.js('https://images-na.ssl-images-amazon.com/images/I/01JFM6wegIL._RC|71yzyoDwfOL.js,51JHbx1NTzL.js,01A18a0oAWL.js,41dxgjlitrL.js,010XVa0zfKL.js,01wBjiz9OvL.js,21QhSEq5BwL.js,31GGfm3oEPL.js,51p6hnDqAKL.js_.js?AUIClients/NavDesktopMetaAsset#desktop');
+});
+</script>
+<!-- sp:feature:navbar -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--Pilu -->
+
+<!-- navmet initial definition -->
+
+  <script type='text/javascript'>
+    if(window.navmet===undefined) {
+      window.navmet=[];
+      if (window.performance && window.performance.timing && window.ue_t0) {
+        var t = window.performance.timing;
+        var now = + new Date();
+        window.navmet.basic = {
+          'networkLatency': (t.responseStart - t.fetchStart),
+          'navFirstPaint': (now - t.responseStart),
+          'NavStart': (now - window.ue_t0)
+        };
+      }
+    }
+  </script>
+
+
+<script type='text/javascript'>window.navmet.tmp=+new Date();</script>
+<script type='text/javascript'>
+window.uet && uet('ns');
+
+window._navbar = (function (o) {
+  o.componentLoaded = o.loading = function(){};
+  o.browsepromos = {};
+  o.issPromos = [];
+  return o;
+}(window._navbar || {}));
+
+window._navbar.declareOnLoad = function () { window.$Nav && $Nav.declare('page.load'); };
+if (window.addEventListener) {
+  window.addEventListener("load", window._navbar.declareOnLoad, false);
+} else if (window.attachEvent) {
+  window.attachEvent("onload", window._navbar.declareOnLoad);
+} else if (window.$Nav) {
+  $Nav.when('page.domReady').run("OnloadFallbackSetup", function () {
+    window._navbar.declareOnLoad();
+  });
+}
+
+window.$Nav && $Nav.declare('logEvent.enabled',
+  false);
+
+
+window.$Nav && $Nav.declare('config.lightningDeals',{});
+window.$Nav && $Nav.declare('config.ajaxProximity', [141,7,60,150]);
+
+</script>
+
+<style type='text/css'>div#navSwmHoliday.nav-focus {border: none;margin: 0;}#nav-belt, #navbar .nav-belt{background-color:white;} </style><script type='text/javascript'>window.$Nav && $Nav.when('$').run('defineIsArray', function(jQuery) { if(jQuery.isArray===undefined) { jQuery.isArray=function(param) { if(param.length===undefined) { return false; } return true; }; } }); window.$Nav && window.$Nav.when("$","subnav.initFlyouts","constants","nav.inline").build("subnav.builder",function(a,t,e){var n=a("#navbar");return function(s){var r=a("#nav-subnav");if(0===r.length&&(r=a("<div id='nav-subnav'></div>").appendTo("#navbar")),r.html(""),n.removeClass("nav-subnav"),s.categoryKey&&s.digest){r.attr("data-category",s.categoryKey).attr("data-digest",s.digest).attr("class",s.category.data.categoryStyle),s.style?r.attr("style",s.style):r.attr("style")&&r.removeAttr("style");var i=function(t){if(t&&t.href){var n="nav-a",s=t.text,i=t.dataKey;if(!s&&!t.image){if(!i||0!==i.indexOf(e.ADVANCED_PREFIX))return;s="",n+=" nav-aText"}var d=t.image?"<img src='"+t.image+"'class='nav-categ-image' ></a>":s,l=a("<a href='"+t.href+"' class='"+n+"'></a>"),v=a("<span class='nav-a-content'>"+d+"</span>");if("image"===t.type&&(v.html(""),l.addClass("nav-hasImage"),t.rightText=""),t.bold&&!t.image&&l.addClass("nav-b"),t.floatRight&&l.addClass("nav-right"),t.flyoutFullWidth&&"0"!==t.flyoutFullWidth&&l.attr("data-nav-flyout-full-width","1"),t.src){var g=["nav-image"];t["absolute-right"]&&g.push("nav-image-abs-right"),t["absolute-right"]&&g.push("nav-image-abs-right"),a("<img src='"+t.src+"' class='"+g.join(" ")+"' alt='"+(t.alt||"")+"' />").appendTo(v)}t.rightText&&v.append(t.rightText),v.appendTo(l),i&&(a("<span class='nav-arrow'></span>").appendTo(l),l.attr("data-nav-key",i).addClass("nav-hasArrow")),l.appendTo(r),r.append(document.createTextNode(" "))}};if(s.category&&s.category.data&&(s.category.data.bold=!0,i(s.category.data)),s.subnav&&"linkSequence"===s.subnav.type)for(var d=0;d<s.subnav.data.length;d++)i(s.subnav.data[d]);n.addClass("nav-subnav"),t()}}}); window.$Nav && $Nav.when('$','$F','config','logEvent','panels','phoneHome','dataPanel','flyouts.renderPromo','flyouts.sloppyTrigger','flyouts.accessibility','util.mouseOut','util.onKey','debug.param').build('flyouts.buildSubPanels',function($,$F,config,logEvent,panels,phoneHome,dataPanel,renderPromo,createSloppyTrigger,a11yHandler,mouseOutUtility,onKey,debugParam){var flyoutDebug=debugParam('navFlyoutClick');return function(flyout,event){var linkKeys=[];$('.nav-item',flyout.elem()).each(function(){var $item=$(this);linkKeys.push({link:$item,panelKey:$item.attr('data-nav-panelkey')});});if(linkKeys.length===0){return;} var visible=false;var $parent=$('<div class=\'nav-subcats\'></div>').appendTo(flyout.elem());var panelGroup=flyout.getName()+'SubCats';var hideTimeout=null;var sloppyTrigger=createSloppyTrigger($parent);var showParent=function(){if(hideTimeout){clearTimeout(hideTimeout);hideTimeout=null;} if(visible){return;} var height=$('#nav-flyout-shopAll').height();$parent.animate({width:'show'},{duration:200,complete:function(){$parent.css({overflow:'visible','height':height});}});visible=true;};var hideParentNow=function(){$parent.stop().css({overflow:'hidden',display:'none',width:'auto',height:'auto'});panels.hideAll({group:panelGroup});visible=false;if(hideTimeout){clearTimeout(hideTimeout);hideTimeout=null;}};var hideParent=function(){if(!visible){return;} if(hideTimeout){clearTimeout(hideTimeout);hideTimeout=null;} hideTimeout=setTimeout(hideParentNow,10);};flyout.onHide(function(){sloppyTrigger.disable();hideParentNow();this.elem().hide();});var addPanel=function($link,panelKey){var panel=dataPanel({className:'nav-subcat',dataKey:panelKey,groups:[panelGroup],spinner:false,visible:false});if(!flyoutDebug){var mouseout=mouseOutUtility();mouseout.add(flyout.elem());mouseout.action(function(){panel.hide();});mouseout.enable();} var a11y=a11yHandler({link:$link,onEscape:function(){panel.hide();$link.focus();}});var logPanelInteraction=function(promoID,wlTriggers){var logNow=$F.once().on(function(){var panelEvent=$.extend({},event,{id:promoID});if(config.browsePromos&&!!config.browsePromos[promoID]){panelEvent.bp=1;} logEvent(panelEvent);phoneHome.trigger(wlTriggers);});if(panel.isVisible()&&panel.hasInteracted()){logNow();}else{panel.onInteract(logNow);}};panel.onData(function(data){renderPromo(data.promoID,panel.elem());logPanelInteraction(data.promoID,data.wlTriggers);});panel.onShow(function(){var columnCount=$('.nav-column',panel.elem()).length;panel.elem().addClass('nav-colcount-'+columnCount);showParent();var $subCatLinks=$('.nav-subcat-links > a',panel.elem());var length=$subCatLinks.length;if(length>0){var firstElementLeftPos=$subCatLinks.eq(0).offset().left;for(var i=1;i<length;i++){if(firstElementLeftPos===$subCatLinks.eq(i).offset().left){$subCatLinks.eq(i).addClass('nav_linestart');}} if($('span.nav-title.nav-item',panel.elem()).length===0){var catTitle=$.trim($link.html());catTitle=catTitle.replace(/ref=sa_menu_top/g,'ref=sa_menu');var $subPanelTitle=$('<span class=\'nav-title nav-item\'>'+ catTitle+'</span>');panel.elem().prepend($subPanelTitle);}} $link.addClass('nav-active');});panel.onHide(function(){$link.removeClass('nav-active');hideParent();a11y.disable();});panel.onShow(function(){a11y.elems($('a, area',panel.elem()));});sloppyTrigger.register($link,panel);if(flyoutDebug){$link.click(function(){if(panel.isVisible()){panel.hide();}else{panel.show();}});} var panelKeyHandler=onKey($link,function(){if(this.isEnter()||this.isSpace()){panel.show();}},'keydown',false);$link.focus(function(){panelKeyHandler.bind();}).blur(function(){panelKeyHandler.unbind();});panel.elem().appendTo($parent);};var hideParentAndResetTrigger=function(){hideParent();sloppyTrigger.disable();};for(var i=0;i<linkKeys.length;i++){var item=linkKeys[i];if(item.panelKey){addPanel(item.link,item.panelKey);}else{item.link.mouseover(hideParentAndResetTrigger);}}};}); </script>
+
+<!-- navp-DeI4+CQdxxiWCOX5CIykc5EnghMtiAPO9wN3XyUT2f6Od02ftuNcoAmTYCqWAI3k rid-79PJJ0FT95ANE4TQB90S (Tue May  9 06:15:30 2017) -->
+
+
+
+
+<![if gt IE 6]><noscript><![endif]>
+<style type="text/css"><!--
+  #navbar #nav-shop .nav-a:hover {
+    color: #ff9900;
+    text-decoration: underline;
+  }
+  #navbar #nav-search .nav-search-facade,
+  #navbar #nav-tools .nav-icon,
+  #navbar #nav-shop .nav-icon,
+  #navbar #nav-subnav .nav-hasArrow .nav-arrow {
+    display: none;
+  }
+  #navbar #nav-search .nav-search-submit,
+  #navbar #nav-search .nav-search-scope {
+    display: block;
+  }
+  #nav-search .nav-search-scope {
+    padding: 0 5px;
+  }
+  #navbar #nav-search .nav-search-dropdown {
+    position: relative;
+    top: 5px;
+    height: 23px;
+    font-size: 14px;
+    opacity: 1;
+    filter: alpha(opacity = 100);
+  }
+--></style>
+<![if gt IE 6]></noscript><![endif]>
+
+<script type='text/javascript'>window.navmet.push({key:'PreNav',end:+new Date(),begin:window.navmet.tmp});</script>
+
+<a id="nav-top"></a>
+<script type='text/javascript'>window.navmet.tmp=+new Date();</script>
+
+  <div id='nav-upnav' aria-hidden='true'  >
+    <!-- unw1 failed -->
+  </div>
+
+
+<script type='text/javascript'>window.navmet.push({key:'UpNav',end:+new Date(),begin:window.navmet.tmp});</script>
+
+<script type='text/javascript'>window.navmet.main=+new Date();</script>
+
+<header class='nav-locale-ca nav-lang-en nav-ssl nav-unrec nav-opt-sprite'>
+
+
+  <div id='navbar' role="navigation" class='nav-sprite-v1 nav-bluebeacon'>
+      
+      
+      <div id='nav-belt'>
+        
+        <div class='nav-left'>
+          <script type='text/javascript'>window.navmet.tmp=+new Date();</script>
+<div id='nav-logo' >
+  <a href="/ref=nav_logo/145-8981527-6943311"
+    class='nav-logo-link'
+    tabindex="2"
+  >
+    <span class='nav-logo-base nav-sprite'>Amazon.ca</span>
+    <span class='nav-logo-ext nav-sprite'></span>
+    <span class='nav-logo-locale nav-sprite'></span>
+  </a>
+
+  <a href="/gp/prime/ref=nav_logo_prime_join/145-8981527-6943311" aria-label="" tabindex="3" class='nav-logo-tagline nav-sprite nav-prime-try' >
+    Try Prime
+  </a>
+
+  
+</div>
+
+<script type='text/javascript'>window.navmet.push({key:'Logo',end:+new Date(),begin:window.navmet.tmp});</script>
+        </div>
+        <div class='nav-right'>
+          <script type='text/javascript'>window.navmet.tmp=+new Date();</script>
+
+  <div id='nav-swmslot'>
+    <div id="navSwmHoliday" style="background-image: url(https://images-na.ssl-images-amazon.com/images/G/15/img17/events/mothersday/1038339_ca_171_swmgwredesign400x39_001_en._CB530420398_.jpg); width: 400px; height: 39px; overflow: hidden;position: relative;"><img alt='Mother&#39;s Day Gifts &amp; Deals' src='https://images-na.ssl-images-amazon.com/images/G/15/x-locale/common/transparent-pixel._CB386942483_.gif' border='0' width='400px' height='39px' usemap='#nav-swm-holiday-map' /></div><div style="display: none;"><map id="nav-swm-holiday-map" name="nav-swm-holiday-map"><area shape="rect" coords="1,2,400,39" href ="/Mothers-Day-Gifts/b/ref=nav_swm_swm_mothersday17-en?ie=UTF8&node=1272739011&pf_rd_p=c987d3fc-a51f-48f7-b2d0-6d2197793594&pf_rd_s=nav-sitewide-msg&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=A3DWYIK6Y9EEQB&pf_rd_r=79PJJ0FT95ANE4TQB90S&pf_rd_r=79PJJ0FT95ANE4TQB90S&pf_rd_p=c987d3fc-a51f-48f7-b2d0-6d2197793594" alt ="Mother&#39;s Day Gifts &amp; Deals" /></map></div>
+  </div>
+<script type='text/javascript'>window.navmet.push({key:'SWM',end:+new Date(),begin:window.navmet.tmp});</script>
+        </div>
+        <div class='nav-fill'>
+          <script type='text/javascript'>window.navmet.tmp=+new Date();</script>
+<div id="nav-search">
+  <div id="nav-bar-left"></div>
+  <form accept-charset='utf-8' action='/s/ref=nb_sb_noss/145-8981527-6943311' class='nav-searchbar' method='GET' name='site-search' role='search'>
+    
+    <div class="nav-left">
+      <div class='nav-search-scope nav-sprite'>
+<div class="nav-search-facade" data-value="search-alias=aps">
+  <span class="nav-search-label">All</span>
+  <i class="nav-icon"></i>
+</div>
+
+<select class='nav-search-dropdown searchSelect' data-nav-digest='ZmRW12ljPSQWEPbJAhDYz5duukY' data-nav-selected='0' id='searchDropdownBox' name='url' style='display:block' tabindex='5' title='Search in'>
+<option selected='selected' value='search-alias=aps'>All Departments</option>
+<option value='search-alias=warehouse-deals'>Amazon Warehouse Deals</option>
+<option value='search-alias=mobile-apps'>Apps & Games</option>
+<option value='search-alias=automotive'>Automotive</option>
+<option value='search-alias=baby'>Baby</option>
+<option value='search-alias=beauty'>Beauty</option>
+<option value='search-alias=stripbooks'>Books</option>
+<option value='search-alias=apparel'>Clothing & Accessories</option>
+<option value='search-alias=electronics'>Electronics</option>
+<option value='search-alias=gift-cards'>Gift Cards</option>
+<option value='search-alias=grocery'>Grocery & Gourmet Food</option>
+<option value='search-alias=hpc'>Health & Personal Care</option>
+<option value='search-alias=kitchen'>Home & Kitchen</option>
+<option value='search-alias=industrial'>Industrial & Scientific</option>
+<option value='search-alias=jewelry'>Jewelry</option>
+<option value='search-alias=digital-text'>Kindle Store</option>
+<option value='search-alias=french-books'>Livres en français</option>
+<option value='search-alias=luggage'>Luggage & Bags</option>
+<option value='search-alias=luxury-beauty'>Luxury Beauty</option>
+<option value='search-alias=dvd'>Movies & TV</option>
+<option value='search-alias=popular'>Music</option>
+<option value='search-alias=mi'>Musical Instruments, Stage & Studio</option>
+<option value='search-alias=office-products'>Office Products</option>
+<option value='search-alias=lawngarden'>Patio, Lawn & Garden</option>
+<option value='search-alias=pets'>Pet Supplies</option>
+<option value='search-alias=shoes'>Shoes & Handbags</option>
+<option value='search-alias=software'>Software</option>
+<option value='search-alias=sporting'>Sports & Outdoors</option>
+<option value='search-alias=tools'>Tools & Home Improvement</option>
+<option value='search-alias=toys'>Toys & Games</option>
+<option value='search-alias=videogames'>Video Games</option>
+<option value='search-alias=watches'>Watches</option>
+</select>
+
+</div>
+    </div>
+    <div class="nav-right">
+      <div class="nav-search-submit nav-sprite">
+        
+<span id="nav-search-submit-text" class="nav-search-submit-text nav-sprite">Go</span>
+
+        <input type="submit" class="nav-input" value="Go" tabindex="7"/>
+      </div>
+    </div>
+    <div class="nav-fill">
+      <div class="nav-search-field ">
+        <input type='text'
+          id='twotabsearchtextbox'
+          value=""
+          name='field-keywords'
+          autocomplete='off'
+          placeholder=""
+          class='nav-input'
+          tabindex="6"
+        >
+      </div>
+      <div id="nav-iss-attach"></div>
+    </div>
+  </form>
+</div>
+<script type='text/javascript'>window.navmet.push({key:'SearchBar',end:+new Date(),begin:window.navmet.tmp});</script>
+        </div>
+      </div>
+      <div id='nav-main' class='nav-sprite'>
+        <div class='nav-left'>
+          
+          
+<div id='nav-shop'>
+  <a href='/gp/site-directory/ref=nav_shopall_btn/145-8981527-6943311' class='nav-a nav-a-2' id='nav-link-shopall' tabindex='10'><span class='nav-line-1'>Shop by</span><span class='nav-line-2'>Department<span class='nav-icon nav-arrow'></span></span></a>
+</div>
+
+          
+        </div>
+        <div class='nav-right'>
+          <script type='text/javascript'>window.navmet.tmp=+new Date();</script>
+
+
+
+
+
+
+<div id='nav-tools'>
+  
+<a href="/gp/customer-preferences/select-language/ref=topnav_lang/145-8981527-6943311?ie=UTF8&preferencesReturnUrl=%2F" id="icp-nav-flyout" class="nav-a nav-a-2 icp-link-style-2">
+  <span class="icp-nav-link-inner">
+    <span class="nav-line-1">
+      <span class="icp-nav-globe-img-2"></span>
+      <span class="icp-nav-language">EN</span>
+    </span>
+    <span class="nav-line-2">&nbsp;
+      <span class="nav-icon nav-arrow"></span>
+    </span>
+  </span>
+  <span class="icp-nav-link-border"></span>
+</a>
+<a href='/gp/navigation/redirector.html/ref=sign-in-redirect/145-8981527-6943311?ie=UTF8&associationHandle=caflex&currentPageURL=https%3A%2F%2Fwww.amazon.ca%3F_encoding%3DUTF8%26ref_%3Dnav_ya_signin&pageType=Gateway&yshURL=https%3A%2F%2Fwww.amazon.ca%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_ya_signin' class='nav-a nav-a-2' data-nav-ref='nav_ya_signin' data-nav-role='signin' id='nav-link-yourAccount' tabindex='26'><span class='nav-line-1'>Hello. Sign in</span><span class='nav-line-2'>Your Account<span class='nav-icon nav-arrow'></span></span></a><a href='/gp/prime/ref=nav_prime_try_btn/145-8981527-6943311' class='nav-a nav-a-2' id='nav-link-prime' tabindex='27'><span class='nav-line-1'>Try</span><span class='nav-line-2'>Prime<span class='nav-icon nav-arrow'></span></span></a><a href='/gp/registry/wishlist/ref=nav_wishlist_btn/145-8981527-6943311' class='nav-a nav-a-2' id='nav-link-wishlist' tabindex='28'><span class='nav-line-1'>Wish</span><span class='nav-line-2'>List<span class='nav-icon nav-arrow'></span></span></a><a href='/gp/cart/view.html/ref=nav_cart/145-8981527-6943311' aria-label='0 items in cart' class='nav-a nav-a-2' id='nav-cart' tabindex='29'><span aria-hidden='true' class='nav-line-1'> </span><span aria-hidden='true' class='nav-line-2'>Cart<span class='nav-icon nav-arrow'></span></span><span class='nav-cart-icon nav-sprite'></span><span id='nav-cart-count' aria-hidden='true' class='nav-cart-count nav-cart-0'>0</span></a>
+</div>
+<script type='text/javascript'>window.navmet.push({key:'Tools',end:+new Date(),begin:window.navmet.tmp});</script>
+        </div>
+        <div class='nav-fill'>
+          <div id='nav-xshop-container' class=''>
+              
+            <div id='nav-xshop'><script type='text/javascript'>window.navmet.tmp=+new Date();</script>
+
+<a href='/gp/yourstore/home/ref=nav_cs_ys/145-8981527-6943311' data-nav-tabindex='7' class='nav-a nav_a' id='nav-your-amazon'>Your Store</a><a href='/gp/goldbox/ref=nav_cs_gb/145-8981527-6943311' class='nav-a' tabindex='19'>Deals Store</a><a href='/gift-cards-store/b/ref=nav_cs_gc/145-8981527-6943311?ie=UTF8&amp;node=9230166011' class='nav-a' tabindex='20'>Gift Cards</a><a href='/b/ref=nav_cs_sell/145-8981527-6943311?_encoding=UTF8&amp;ld=AZCASOA-sell&amp;node=15664730011' class='nav-a' tabindex='21'>Sell</a><a href='/gp/help/customer/display.html/ref=nav_cs_help/145-8981527-6943311' class='nav-a' tabindex='22'>Help</a>
+<script type='text/javascript'>window.navmet.push({key:'CrossShop',end:+new Date(),begin:window.navmet.tmp});</script></div>
+          </div>
+        </div>
+      </div>
+      <script type='text/javascript'>window.navmet.tmp=+new Date();</script>
+    <div id='nav-subnav'>
+      
+    </div>
+<script type='text/javascript'>window.navmet.push({key:'Subnav',end:+new Date(),begin:window.navmet.tmp});</script>
+      <script type='text/javascript'>window.navmet.tmp=+new Date();</script><script type='text/javascript'>window.navmet.push({key:'PlatinumSubnav',end:+new Date(),begin:window.navmet.tmp});</script>
+      
+  </div>
+  
+
+</header>
+<script type='text/javascript'>window.navmet.push({key:'NavBar',end:+new Date(),begin:window.navmet.main});</script>
+
+<script type='text/javascript'>window.navmet.tmp=+new Date();</script><!-- nav promo cached -->
+
+
+<map name="nav_imgmap_nav-sa-android" id="nav_imgmap_nav-sa-android">
+<area shape="rect" coords="10,10,468,472" href="/mobile-apps/b/ref=nav_shopall_nav_sap_mas_generic_appstore?ie=UTF8&node=6386371011&pf_rd_p=736bca58-2e70-418b-9161-ed8ee1c10ded&pf_rd_s=nav-sa-android&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=A2EUQ1WTGCTBG2&pf_rd_r=MARY06MCR58H2FBTMQY2" alt=""/>
+</map>
+
+
+
+<map name="nav_imgmap_nav-sa-apparel-jewelry-watches-luggage" id="nav_imgmap_nav-sa-apparel-jewelry-watches-luggage">
+<area shape="poly" coords="2,448,498,447,497,4,239,3,237,166,238,298,1,305" href="/b/ref=nav_shopall_nav_handbags_en?_encoding=UTF8&node=16666355011&pf_rd_p=574ba55f-6b85-4732-a9ba-57b631d30712&pf_rd_s=nav-sa-apparel-jewelry-watches-luggage&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=A2EUQ1WTGCTBG2&pf_rd_r=MARY06MCR58H2FBTMQY2" alt=""/>
+</map>
+
+
+
+<map name="nav_imgmap_nav-sa-automotive" id="nav_imgmap_nav-sa-automotive">
+<area shape="rect" coords="0,0,519,492" href="/b/ref=nav_shopall_nav_EN_countdown?_encoding=UTF8&node=11152142011&pf_rd_p=59f3a48f-b757-4c41-a1e8-da58a1d840ad&pf_rd_s=nav-sa-automotive&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=A2EUQ1WTGCTBG2&pf_rd_r=MARY06MCR58H2FBTMQY2" alt="countdown"/>
+</map>
+
+
+
+<map name="nav_imgmap_nav-sa-books" id="nav_imgmap_nav-sa-books">
+<area shape="rect" coords="0,0,516,449" href="/b/ref=nav_shopall_bkn_gno_fall?_encoding=UTF8&node=16735415011&pf_rd_p=4f28e6a4-3181-4685-b7c1-aa36567c14c0&pf_rd_s=nav-sa-books&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=A2EUQ1WTGCTBG2&pf_rd_r=MARY06MCR58H2FBTMQY2" alt=""/>
+</map>
+
+
+
+<map name="nav_imgmap_nav-sa-boutiques-francophones" id="nav_imgmap_nav-sa-boutiques-francophones">
+<area shape="rect" coords="0,0,500,358" href="/nos-boutiques-francophones/b/ref=nav_shopall_nav-sa-boutiques-francophones?ie=UTF8&node=1036452&pf_rd_p=563eed96-c767-46d6-9830-0c9b9fe3014d&pf_rd_s=nav-sa-boutiques-francophones&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=A2EUQ1WTGCTBG2&pf_rd_r=MARY06MCR58H2FBTMQY2" alt="boutiques-francophones"/>
+</map>
+
+
+
+<map name="nav_imgmap_nav-sa-cloud-drive" id="nav_imgmap_nav-sa-cloud-drive">
+<area shape="rect" coords="0,0,499,456" href="/b/ref=nav_shopall_?_encoding=UTF8&node=16055944011&ref=CS_CA_C_20_P_P_A_GW_GNO_117_femen&pf_rd_p=ff4aa45f-d22f-4a63-97f3-ada50832a044&pf_rd_s=nav-sa-cloud-drive&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=A2EUQ1WTGCTBG2&pf_rd_r=MARY06MCR58H2FBTMQY2" alt=""/>
+</map>
+
+
+
+<map name="nav_imgmap_nav-sa-electronics" id="nav_imgmap_nav-sa-electronics">
+<area shape="poly" coords="1,458,139,252,346,12,499,11,499,460" href="/b/ref=nav_shopall_?_encoding=UTF8&node=11823883011&ref=cacemd&pf_rd_p=0b05ed64-3e81-4ddc-928a-8167d6433952&pf_rd_s=nav-sa-electronics&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=A2EUQ1WTGCTBG2&pf_rd_r=MARY06MCR58H2FBTMQY2" alt=""/>
+</map>
+
+
+
+<map name="nav_imgmap_nav-sa-health-beauty-grocery" id="nav_imgmap_nav-sa-health-beauty-grocery">
+<area shape="poly" coords="0,467,0,229,439,214,517,2,516,465,0,467" href="b/ref=nav_shopall_nav_sa_EN_Mday2017_Flyout?_encoding=UTF8&node=16548169011&pf_rd_p=db16c553-6066-49af-bf35-3eb5e9a34610&pf_rd_s=nav-sa-health-beauty-grocery&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=A2EUQ1WTGCTBG2&pf_rd_r=MARY06MCR58H2FBTMQY2" alt="Beauty"/>
+</map>
+
+
+
+<map name="nav_imgmap_nav-sa-home" id="nav_imgmap_nav-sa-home">
+<area shape="rect" coords="0,0,519,469" href="/gp/redirect.html/ref=nav_shopall_nav_sa_EN_P?_encoding=UTF8&location=https%3A%2F%2Fwww.amazon.ca%2Fs%2Fref%3Ds9_acss_gw_sc_x_ar_s3%3Frh%3Di%253Akitchen%252Ck%253Ainterdesign%26rw_html_to_wsrp%3D1&source=standards&token=170174C38638CEF5C0F88FB070D847BFBDAC5AE4&pf_rd_p=eeefd962-40c4-45f5-bb8f-5bc2a984988f&pf_rd_s=nav-sa-home&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=A2EUQ1WTGCTBG2&pf_rd_r=MARY06MCR58H2FBTMQY2" alt="Home"/>
+</map>
+
+
+
+<map name="nav_imgmap_nav-sa-kindle" id="nav_imgmap_nav-sa-kindle">
+<area shape="rect" coords="1,1,499,499" href="/dp/B00QJDU3KY/ref=nav_shopall_nav_EN_Kindle?pf_rd_p=7d17c1dd-bc06-4ac9-b046-705f8cd5e662&pf_rd_s=nav-sa-kindle&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=A2EUQ1WTGCTBG2&pf_rd_r=MARY06MCR58H2FBTMQY2" alt="Kindle"/>
+</map>
+
+
+
+<map name="nav_imgmap_nav-sa-movies-tv" id="nav_imgmap_nav-sa-movies-tv">
+<area shape="poly" coords="123,1,481,3,473,447,4,447" href="/s/ref=nav_shopall_?_encoding=UTF8&rh=i%3Advd%2Cn%3A345144011&pf_rd_p=585659a0-9e72-45fd-9aaf-534908f02869&pf_rd_s=nav-sa-movies-tv&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=A2EUQ1WTGCTBG2&pf_rd_r=MARY06MCR58H2FBTMQY2" alt=""/>
+</map>
+
+
+
+<map name="nav_imgmap_nav-sa-music" id="nav_imgmap_nav-sa-music">
+<area shape="poly" coords="123,1,481,3,473,447,4,447" href="/Vinyl-Records/b/ref=nav_shopall_nav_sap_mux_vinyl?ie=UTF8&node=1292212011&pf_rd_p=8a31c5a4-74dd-4c59-8603-4c200fe137b7&pf_rd_s=nav-sa-music&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=A2EUQ1WTGCTBG2&pf_rd_r=MARY06MCR58H2FBTMQY2" alt="Explore the Amazon.ca Vinyl LP Records Store"/>
+</map>
+
+
+
+<map name="nav_imgmap_nav-sa-software" id="nav_imgmap_nav-sa-software">
+<area shape="poly" coords="123,1,481,3,473,447,4,447" href="/dp/B01M7SXZNQ/ref=nav_shopall_?pf_rd_p=087d2537-f690-43ce-acfb-f7ff404d6c83&pf_rd_s=nav-sa-software&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=A2EUQ1WTGCTBG2&pf_rd_r=MARY06MCR58H2FBTMQY2" alt=""/>
+</map>
+
+
+
+<map name="nav_imgmap_nav-sa-sports-outdoors" id="nav_imgmap_nav-sa-sports-outdoors">
+<area shape="poly" coords="10,292,265,292,299,24,500,20,500,470,4,470" href="/b/ref=nav_shopall_nav_en_sports?_encoding=UTF8&node=14269083011&pf_rd_p=a2a0ab86-cafe-476c-b904-227a7eff7206&pf_rd_s=nav-sa-sports-outdoors&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=A2EUQ1WTGCTBG2&pf_rd_r=MARY06MCR58H2FBTMQY2" alt="sports"/>
+</map>
+
+
+
+<map name="nav_imgmap_nav-sa-tools" id="nav_imgmap_nav-sa-tools">
+<area shape="poly" coords="1,141,256,136,351,1,477,1,477,365,1,365" href="/b/ref=nav_shopall_nav_EN_T_ch?_encoding=UTF8&node=16209183011&pf_rd_p=e69860fe-9ede-455c-83e1-200828ad5e3c&pf_rd_s=nav-sa-tools&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=A2EUQ1WTGCTBG2&pf_rd_r=MARY06MCR58H2FBTMQY2" alt="Tools"/>
+</map>
+
+
+
+<map name="nav_imgmap_nav-sa-toys-baby" id="nav_imgmap_nav-sa-toys-baby">
+<area shape="rect" coords="0,0,519,469" href="/b/ref=nav_shopall_ca_ty_gno?_encoding=UTF8&node=7242218011&pf_rd_p=c222c46b-87c0-4e89-b63a-3be32cb6ef2e&pf_rd_s=nav-sa-toys-baby&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=A2EUQ1WTGCTBG2&pf_rd_r=MARY06MCR58H2FBTMQY2" alt=""/>
+</map>
+
+
+
+<map name="nav_imgmap_nav-sa-videogames" id="nav_imgmap_nav-sa-videogames">
+<area shape="poly" coords="1,447,1,90,495,126,495,447" href="/s/browse/ref=nav_shopall_?_encoding=UTF8&node=3198031&pf_rd_p=df3f4892-2154-4bbb-8d57-3b487f537105&pf_rd_s=nav-sa-videogames&pf_rd_t=4201&pf_rd_i=navbar-4201&pf_rd_m=A2EUQ1WTGCTBG2&pf_rd_r=MARY06MCR58H2FBTMQY2" alt=""/>
+</map>
+
+
+
+<script type="text/javascript"><!--
+
+window.$Nav && $Nav.declare("config.navDeviceType", "desktop");
+
+window.$Nav && $Nav.when("data").run(function(data) { data({"emptyWishlist":{"template":{"name":"flyoutError","data":{"error":{"button":{"text":"Your Wish List","url":"/gp/registry/wishlist/ref=nav_err_empty_wishlist/145-8981527-6943311"},"title":"Oops!","paragraph":"Your list is empty"}}}},"yourAccountContent":{"template":{"name":"flyoutError","data":{"error":{"button":{"text":"Your Account","url":"/gp/css/homepage.html/ref=nav_err_youraccount/145-8981527-6943311"},"title":"Oops!","paragraph":"There is a problem retrieving the list right now"}}}},"errorWishlist":{"template":{"name":"flyoutError","data":{"error":{"button":{"text":"Your Wish List","url":"/gp/registry/wishlist/ref=nav_err_wishlist/145-8981527-6943311"},"title":"Oops!","paragraph":"There is a problem retrieving the list right now"}}}},"ewcTimeout":{"template":{"name":"flyoutError","data":{"error":{"button":{"text":"Your Cart","url":"/gp/cart/view.html/ref=nav_err_ewc_timeout/145-8981527-6943311"},"title":"Oops!","paragraph":"There is a problem retrieving your cart right now"}}}},"cartTimeout":{"template":{"name":"flyoutError","data":{"error":{"button":{"text":"Your Cart","url":"/gp/cart/view.html/ref=nav_err_cart_timeout/145-8981527-6943311"},"title":"Oops!","paragraph":"There is a problem retrieving your cart right now"}}}},"kindleTimeout":{"template":{"name":"flyoutError","data":{"error":{"paragraph":"There is a problem retrieving the list right now"}}}},"shopAllTimeout":{"template":{"name":"flyoutError","data":{"error":{"paragraph":"There is a problem retrieving the list right now"}}}},"primeTimeout":{"template":{"name":"flyoutError","data":{"error":{"title":"<a href='/gp/prime'><img src='https://images-na.ssl-images-amazon.com/images/G/15/prime/yourprime/yourprime-client-fallback._V316467452_.png' /></a>"}}}}}); });
+
+  window.$Nav && $Nav.when("util.templates").run("FlyoutErrorTemplate", function (templates) {
+    templates.add("flyoutError", "<# if(error.title) { #><span class='nav-title'><#=error.title #></span><# } #><# if(error.paragraph) { #><p class='nav-paragraph'><#=error.paragraph #></p><# } #><# if(error.button) { #><a href='<#=error.button.url #>' class='nav-action-button' ><span class='nav-action-inner'><#=error.button.text #></span></a><# } #>");
+  });
+
+
+  window.$Nav && $Nav.when("data").run(function(data) { data({}); });
+
+window.$Nav && $Nav.declare('config.navDebugHighres', false);
+
+
+window.$Nav && $Nav.declare('config.upnavHighResImgInfo',
+  {"upnav2xImageHeight":"","upnav2xImagePath":""});
+
+window.$Nav && $Nav.declare('config.upnav2xAiryPreloadImgInfo',
+  {"preloadImgPath":"","preloadImgHeight":""});
+
+window.$Nav && $Nav.declare('config.upnav2xAiryPostSlateImgInfo',
+  {"postslateImgHeight":"","postslateImgPath":""});
+
+window.$Nav && $Nav.declare('config.pageType', 'Gateway');
+window.$Nav && $Nav.declare('config.subPageType', '');
+
+window.$Nav && $Nav.declare('config.dynamicMenuUrl', '/gp/navigation/ajax/dynamic-menu.html/145-8981527-6943311');
+
+window.$Nav && $Nav.declare('config.dismissNotificationUrl',
+  '/gp/navigation/ajax/dismissnotification.html/145-8981527-6943311');
+
+window.$Nav && $Nav.declare('config.fixedSubBarBeacon',false);
+
+window.$Nav && $Nav.declare('config.enableDynamicMenus', true);
+
+window.$Nav && $Nav.declare('config.isInternal', false);
+
+window.$Nav && $Nav.declare('config.isRecognized', false);
+
+window.$Nav && $Nav.declare('config.transientFlyoutTrigger', '#nav-transient-flyout-trigger');
+
+window.$Nav && $Nav.declare('config.subnavFlyoutUrl',
+  '/gp/navigation/ajax/subnav-flyout/145-8981527-6943311');
+
+window.$Nav && $Nav.declare('config.recordEvUrl',
+  '/gp/navigation/ajax/recordevent.html/145-8981527-6943311');
+window.$Nav && $Nav.declare('config.recordEvInterval', 15000);
+window.$Nav && $Nav.declare('config.sessionId', '145-8981527-6943311');
+window.$Nav && $Nav.declare('config.requestId', '79PJJ0FT95ANE4TQB90S');
+
+
+window.$Nav && $Nav.declare('config.alexaListEnabled', false);
+
+window.$Nav && $Nav.declare('config.readyOnATF', true);
+
+window.$Nav && $Nav.declare('config.dynamicMenuArgs',
+  {"rid":"79PJJ0FT95ANE4TQB90S","isFullWidthPrime":0,"isPrime":0,"dynamicRequest":1,"weblabs":"","isFreshRegionAndCustomer":"","primeMenuWidth":310});
+
+window.$Nav && $Nav.declare('config.signOutText',
+  null);
+
+window.$Nav && $Nav.declare('config.customerName',
+  false);
+
+window.$Nav && $Nav.declare('config.yourAccountPrimeURL',
+  null);
+
+window.$Nav && $Nav.declare('config.yourAccountPrimeHover',
+  true);
+
+window.$Nav && $Nav.declare('config.searchBackState',
+  {});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    if (typeof uet == 'function') {
+      uet('bb', 'iss-init-pc', {wb: 1});
+    }
+
+    if (!window.$SearchJS && window.$Nav) {
+      window.$SearchJS = $Nav.make('sx');
+    }
+
+  
+  var opts = {
+      host: "completion.amazon.com/search/complete"
+    , marketId: "7"
+    , obfuscatedMarketId: "A2EUQ1WTGCTBG2"
+    , searchAliases: ["aps", "stripbooks", "french-books", "dvd", "popular", "videogames", "software", "vhs", "classical", "electronics", "kitchen", "mobile-apps", "watches", "sporting", "tools", "baby", "digital-text", "financial", "beauty", "hpc", "pets", "lawngarden", "luggage", "toys", "office-products", "automotive", "grocery", "mi", "jewelry", "gift-cards", "apparel", "shoes", "warehouse-deals", "industrial"]
+    , filterAliases: []
+    , isDoCtw: 0
+    , pageType: "Gateway"
+    , requestId: "79PJJ0FT95ANE4TQB90S"
+    , sessionId: "145-8981527-6943311"
+    , language: "en_CA"
+    , customerId: ""
+    , keydownTriggeredWeblabs: []
+    , displayTriggeredWeblabs: []
+    , isDdInT3: 0
+    , isDdInT1: 0
+    , isJpOrCn: 0
+    , isUseAuiIss: 1
+  };
+
+  var issOpts = {
+      fallbackFlag: 1
+    , isDigitalFeaturesEnabled: 0
+    , isWayfindingEnabled: 0
+    , issPrimeEligible: []
+    , dropdown: "select.searchSelect"
+    , departmentText: "in {department}"
+    , suggestionText: "Search suggestions"
+    , emphasizeSuggestionsTreatment: "C"
+    , useLargerSuggestionText: ""
+    , crossCategoryEmphasisTreatment: "T2"
+    , showSuggestionsOnSearchboxFocusTreatment: "0"
+    , issRelatedSearchesTreatment: "C"
+    , recentSearchesTreatment: "C"
+    , recentSearchesText: ""
+    , issNavConfigTreatment: ""
+    , issServiceAsSourceTreatment: ""
+    , isTriggerIssOnClick: 0
+    , np: 0
+    , issCorpus: []
+    , cf: 1
+  };
+  
+
+  if (opts.isUseAuiIss === 1 && window.$Nav) {
+    window.$Nav.when('sx.iss').run('iss-mason-init', function(iss){
+      var issInitObj = buildIssInitObject(opts, issOpts, true);
+
+      if (issInitObj.issNavConfigTreatment) {
+        new iss.NavConfigProvider(issInitObj);
+        window.$Nav.when('sx.iss.navready').run('iss-nav-mason-init', function(cfg) {
+          new iss.IssParentCoordinator(cfg);
+        });
+      } else {
+        new iss.IssParentCoordinator(issInitObj);
+      }
+
+      tryInitClientTriggeredWeblabs(issInitObj);
+    });
+  } else if (window.$SearchJS) {
+    
+    var iss;
+
+    // BEGIN Deprecated globals
+    var issHost = opts.host
+      , issMktid = opts.marketId
+      , issSearchAliases = opts.searchAliases
+      , updateISSCompletion = function() { iss.updateAutoCompletion(); };
+    // END deprecated globals
+
+    
+    
+    
+    $SearchJS.when('jQuery', 'search-js-autocomplete-lib').run('autocomplete-init', initializeAutocomplete);
+    $SearchJS.when('canCreateAutocomplete').run('createAutocomplete', createAutocomplete);
+
+    
+    if (opts.isDdInT3) {
+      $SearchJS.when('search-js-autocomplete').run('autocomplete-dd-init', function(){ mergeBTFDropdown(); });
+    }
+
+    if (opts.isDdInT1) {
+      $SearchJS.when('search-js-autocomplete').run('autocomplete-dd-init', function(){ searchDropdown(); });
+    }
+
+  } // END conditional for window.$SearchJS
+
+  
+  
+  function initializeAutocomplete(jQuery) {
+    
+    var issInitObj = buildIssInitObject(opts, issOpts);
+
+    tryInitClientTriggeredWeblabs(issInitObj);
+  } // END initializeAutocomplete
+
+  
+  
+  function tryInitClientTriggeredWeblabs(issInitObj) {
+    
+    if (opts.isDoCtw) {
+      $SearchJS.importEvent('search-csl');
+      $SearchJS.when('search-csl').run('autocomplete-csl-init', function delegateToInitSearchCsl(searchCSL) { initSearchCsl( searchCSL, issInitObj ); } );
+    } else {
+      $SearchJS.declare('canCreateAutocomplete', issInitObj);
+    }
+  }
+
+  
+  
+  function initSearchCsl(searchCSL, issInitObject) {
+    searchCSL.init(opts.pageType, (window.ue && window.ue.rid) || opts.requestId);
+
+    
+    var keydownCtw = opts.keydownTriggeredWeblabs;
+    var displayCtw = opts.displayTriggeredWeblabs;
+
+    
+    issInitObject.doCTWKeydown = function(e) {
+        for (var i = 0; i < keydownCtw.length; i++) {
+          searchCSL.addWlt(keydownCtw[i].call ? keydownCtw[i](e) : keydownCtw[i]);
+        }
+      };
+
+    issInitObject.doCTWDisplay = function(data) {
+        for (var i = 0; i < displayCtw.length; i++) {
+          searchCSL.addWlt(displayCtw[i].call ? displayCtw[i](data) : displayCtw[i]);
+        }
+      };
+
+    $SearchJS.declare('canCreateAutocomplete', issInitObject);
+  } // END initSearchCsl
+
+  
+  
+  function createAutocomplete(issObject) {
+    iss = new AutoComplete(issObject);
+
+    $SearchJS.publish('search-js-autocomplete', iss);
+
+    logMetrics();
+  } // END createAutocomplete
+
+  
+  
+  function buildIssInitObject(opts, issOpts, isNewIss) {
+    var issInitObj = {
+        src: opts.host
+      , sessionId: opts.sessionId
+      , requestId: opts.requestId
+      , mkt: opts.marketId
+      , obfMkt: opts.obfuscatedMarketId
+      , pageType: opts.pageType
+      , language: opts.language
+      , customerId: opts.customerId
+      , aliases: opts.searchAliases
+      , fb: issOpts.fallbackFlag
+      , isDigitalFeaturesEnabled: issOpts.isDigitalFeaturesEnabled
+      , isWayfindingEnabled: issOpts.isWayfindingEnabled
+      , issPrimeEligible: issOpts.issPrimeEligible
+      , deptText: issOpts.departmentText
+      , sugText: issOpts.suggestionText
+      , filterAliases: opts.filterAliases
+      , emphasizeSuggestionsTreatment: issOpts.emphasizeSuggestionsTreatment
+      , useLargerSuggestionText: issOpts.useLargerSuggestionText
+      , crossCategoryEmphasisTreatment: issOpts.crossCategoryEmphasisTreatment
+      , showSuggestionsOnSearchboxFocusTreatment: issOpts.showSuggestionsOnSearchboxFocusTreatment
+      , issRelatedSearchesTreatment: issOpts.issRelatedSearchesTreatment
+      , recentSearchesTreatment: issOpts.recentSearchesTreatment
+      , recentSearchesText: issOpts.recentSearchesText
+      , issNavConfigTreatment: issOpts.issNavConfigTreatment
+      , issServiceAsSourceTreatment: issOpts.issServiceAsSourceTreatment
+      , cf: issOpts.cf
+      , ime: opts.isJpOrCn
+      , mktid: opts.marketId
+      , qs: opts.isJpOrCn
+      , issCorpus: issOpts.issCorpus
+      , deepNodeISS: {
+          searchAliasAccessor: function($) {
+            return (window.SearchPageAccess && window.SearchPageAccess.searchAlias()) ||
+                   $('select.searchSelect').children().attr('data-root-alias');
+          },
+          searchAliasDisplayNameAccessor: function() {
+            return (window.SearchPageAccess && window.SearchPageAccess.searchAliasDisplayName());
+          }
+        }
+    };
+
+    // If we aren't using the new ISS then we need to add these properties
+    if (!isNewIss) {
+      issInitObj.dd = issOpts.dropdown; // The element with id searchDropdownBox doesn't exist in C.
+      issInitObj.imeSpacing = issOpts.imeSpacing;
+      issInitObj.isNavInline = 1;
+      issInitObj.triggerISSOnClick = 0;
+      issInitObj.sc = 1;
+      issInitObj.np = issOpts.np;
+    }
+
+    return issInitObj;
+  } // END buildIssInitObject
+
+  
+  function logMetrics() {
+    if (typeof uet == 'function' && typeof uex == 'function' ) {
+      uet('be', 'iss-init-pc', {wb: 1});
+      uex('ld', 'iss-init-pc', {wb: 1});
+    }
+  } // END logMetrics
+
+
+    window.$Nav && $Nav.declare('nav.inline');
+
+(function (i) {
+i.onload = function() {window.uet && uet('ne')};
+i.src = window._navbarSpriteUrl;
+}(new Image()));
+
+window.$Nav && $Nav.declare('config.autoFocus', false);
+
+
+window.$Nav && $Nav.declare('config.responsiveTouchAgents', ["ieTouch"]);
+
+window.$Nav && $Nav.declare('config.responsiveGW',true);
+
+window.$Nav && $Nav.declare('config.pageHideEnabled',false);
+
+window.$Nav && $Nav.declare('config.sslTriggerType','');
+window.$Nav && $Nav.declare('config.sslTriggerRetry',0);
+
+window.$Nav && $Nav.declare('config.doubleCart',false);
+
+
+window.$Nav && $Nav.declare('config.fixedBarBeacon',false);
+
+window.$Nav && $Nav.declare('config.signInOverride', true);
+
+window.$Nav && $Nav.declare('config.signInTooltip',true);
+
+window.$Nav && $Nav.declare('config.isPrimeMember',false);
+
+window.$Nav && $Nav.declare('config.packardGlowTooltip', false);
+
+window.$Nav && $Nav.declare('config.packardGlowFlyout', false);
+
+window.$Nav && $Nav.declare('config.flyoutAnimation', false);
+
+window.$Nav && $Nav.declare('config.campusActivation', '');
+
+
+window.$Nav && $Nav.declare('config.primeTooltip',{url:'/gp/prime/digital-adoption/navigation-bar/145-8981527-6943311'});
+
+window.$Nav && $Nav.declare('config.primeDay',false);
+
+window.$Nav && $Nav.declare('config.disableBuyItAgain', false);
+
+
+
+
+  
+
+
+window.$Nav && $Nav.declare('config.pseudoPrimeFirstBrowse',false);
+
+window.$Nav && $Nav.declare('config.sdaYourAccount',false);
+
+window.$Nav && $Nav.declare('config.csYourAccount',false);
+
+window.$Nav && $Nav.declare('config.cartFlyoutDisabled', true);
+
+
+window.$Nav && $Nav.declare('config.navfresh', false);
+window.$Nav && $Nav.declare('config.isFreshRegion', false);
+
+
+
+window.$Nav && $Nav.declare('config.ewc', false);if (window.ue && ue.tag) { ue.tag('noewc'); }
+
+if (window.ue && ue.tag) { ue.tag('navbar'); };
+
+window.$Nav && $Nav.declare('config.blackbelt', true);
+window.$Nav && $Nav.declare('config.beaconbelt', true);
+
+window.$Nav && $Nav.declare('config.beaconbeltCover', false);
+
+window.$Nav && $Nav.declare('config.accountList', false);
+
+window.$Nav && $Nav.declare('config.pinnedNav',false);
+
+window.$Nav && $Nav.declare('config.pinnedNavWithEWC',false);
+
+window.$Nav && $Nav.declare('config.pinnedNavStart',700);
+
+window.$Nav && $Nav.declare('config.pinnedNavMinWidth',1000);
+window.$Nav && $Nav.declare('config.pinnedNavMinHeight',false);
+
+window.$Nav && $Nav.declare('config.iPadTablet', false);
+
+
+window.$Nav && $Nav.declare('config.searchapiEndpoint',false);
+
+window.$Nav && $Nav.declare('config.timeline', false);
+
+window.$Nav && $Nav.declare('config.timelineAsinPriceEnabled', false);
+
+window.$Nav && $Nav.declare('config.timelineDeleteEnabled',false);
+
+
+    window._navbar = window._navbar || {};
+    window._navbar.browsepromos = window._navbar.browsepromos || {};
+    
+ _navbar.browsepromos['nav-sa-android'] = {"width":"480","promoType":"wide","vertOffset":"0","tabletAltText":null,"horizOffset":"-20","height":"449","image":"https://images-na.ssl-images-amazon.com/images/G/15/AmazonMobileApps/gateway/flyout/FAD/CA_FLYOUT_EVERGREEN_APPSTORE._CB312840769_.png","tabletDestination":null,"tabletImage":null}; 
+ _navbar.browsepromos['nav-sa-apparel-jewelry-watches-luggage'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"492","image":"https://images-na.ssl-images-amazon.com/images/G/15/img17/softlines/gateway/1044344_ca_shoes_handbags_en_flyout_ca_519x492._CB510768606_.png","tabletDestination":null,"tabletImage":null}; 
+ _navbar.browsepromos['nav-sa-automotive'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"492","image":"https://images-na.ssl-images-amazon.com/images/G/15/img17/automotive/gateway/1030833_ca_automotive_spring_car_care_17_en_519x492._CB532863788_.png","tabletDestination":null,"tabletImage":null}; 
+ _navbar.browsepromos['nav-sa-books'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"492","image":"https://images-na.ssl-images-amazon.com/images/G/15/img17/books/gateway/1043487_ca_144_fognobrspromoca519x492_001._CB511345007_.png","tabletDestination":null,"tabletImage":null}; 
+ _navbar.browsepromos['nav-sa-boutiques-francophones'] = {"width":"489","promoType":"wide","vertOffset":"0","tabletAltText":null,"horizOffset":"-12","height":"378","image":"https://images-na.ssl-images-amazon.com/images/G/15/img13/francophone/flyout/GNO_francophone_store2_flyout._CB371128091_.png","tabletDestination":null,"tabletImage":null}; 
+ _navbar.browsepromos['nav-sa-cloud-drive'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-21","height":"492","image":"https://images-na.ssl-images-amazon.com/images/G/15/digital/adrive/images/gno/32481_photos_ca_en_flyout_ca_519x492._CB521097066_.png","tabletDestination":null,"tabletImage":null}; 
+ _navbar.browsepromos['nav-sa-electronics'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"492","image":"https://images-na.ssl-images-amazon.com/images/G/15/img17/events/mothersday/1044322_150_mom_en_flyout_ca_519x492._CB511183153_.png","tabletDestination":null,"tabletImage":null}; 
+ _navbar.browsepromos['nav-sa-health-beauty-grocery'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"492","image":"https://images-na.ssl-images-amazon.com/images/G/15/img17/events/mothersday/1036281_ca_beauty_mass_mothers_day_2017_flyout_ca_519x492_en._CB529555622_.png","tabletDestination":null,"tabletImage":null}; 
+ _navbar.browsepromos['nav-sa-home'] = {"width":"519","promoType":"wide","vertOffset":"0","tabletAltText":null,"horizOffset":"-21","height":"492","image":"https://images-na.ssl-images-amazon.com/images/G/15/img16/home/flyout/976831_cahome_jun7storagesolutionsen_caflyout._CB282658172_.png","tabletDestination":null,"tabletImage":null}; 
+ _navbar.browsepromos['nav-sa-kindle'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"545","image":"https://images-na.ssl-images-amazon.com/images/G/15/kindle/merch/2017/CAMPAIGN/MothersDay_XPL/mday2_cdn_ereader_GNO._CB511659566_.png","tabletDestination":null,"tabletImage":null}; 
+ _navbar.browsepromos['nav-sa-movies-tv'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"492","image":"https://images-na.ssl-images-amazon.com/images/G/15/img16/music/flyout/31670_ca_DVD_flyout_519x469._CB301877345_.png","tabletDestination":null,"tabletImage":null}; 
+ _navbar.browsepromos['nav-sa-music'] = {"width":"519","promoType":"wide","vertOffset":"0","tabletAltText":null,"horizOffset":"-20","height":"469","image":"https://images-na.ssl-images-amazon.com/images/G/15/img15/music/projects/evergreen-refresh/20445_music_evergreen_flyout_ca_A._CB301497085_.png","tabletDestination":null,"tabletImage":null}; 
+ _navbar.browsepromos['nav-sa-software'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"492","image":"https://images-na.ssl-images-amazon.com/images/G/15/img17/software/gateway/1029108_ca_software_flyout_en_519x492._CB536357460_.png","tabletDestination":null,"tabletImage":null}; 
+ _navbar.browsepromos['nav-sa-sports-outdoors'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"492","image":"https://images-na.ssl-images-amazon.com/images/G/15/img17/events/mothersday/1041506_sports_mother_day_en_519x492._CB529069594_.png","tabletDestination":null,"tabletImage":null}; 
+ _navbar.browsepromos['nav-sa-tools'] = {"width":"519","promoType":"wide","vertOffset":"-10","tabletAltText":null,"horizOffset":"-20","height":"492","image":"https://images-na.ssl-images-amazon.com/images/G/15/img17/home-improvement/gateway/1032723_ca_homeimprovement_smarthome_flyout_ca_519x492._CB532861251_.png","tabletDestination":null,"tabletImage":null}; 
+ _navbar.browsepromos['nav-sa-toys-baby'] = {"width":"516","promoType":"wide","vertOffset":"0","tabletAltText":null,"horizOffset":"-17","height":"472","image":"https://images-na.ssl-images-amazon.com/images/G/15/img17/toys/gateway/1035756_ca_toys_deals_flyout_ca_519x492_en._CB531985653_.png","tabletDestination":null,"tabletImage":null}; 
+ _navbar.browsepromos['nav-sa-videogames'] = {"width":"519","promoType":"wide","vertOffset":"-11","tabletAltText":null,"horizOffset":"-22","height":"492","image":"https://images-na.ssl-images-amazon.com/images/G/15/img17/video-games/gateway/1030202_ca_videogames_flyout_en_519x492._CB535462216_.png","tabletDestination":null,"tabletImage":null}; 
+
+
+    window.$Nav && $Nav.declare('config.browsePromos', window._navbar.browsepromos);
+
+
+window.$Nav && $Nav.declare('config.extendedFlyout', false);
+
+
+
+
+
+window.$Nav && $Nav.declare('configComplete');
+
+--></script>
+
+<script type='text/javascript'>window.navmet.push({key:'PostNav',end:+new Date(),begin:window.navmet.tmp});</script>
+<script type='text/javascript'>window.navmet.tmp=+new Date();</script><script type='text/javascript'>window.navmet.push({key:'TransientFlyout',end:+new Date(),begin:window.navmet.tmp});</script>
+
+<script type='text/javascript'>window.navmet.MainEnd = new Date();</script>
+
+
+<!--Tilu -->
+
+
+
+
+
+
+
+
+<!-- sp:feature:host-atf -->
+<div id="unrec-pageContent" class="a-section a-spacing-none" role="main">
+  <a name="top"></a>
+  
+  <style type="text/css">
+    .off-screen {
+      height:1px;
+      left:0;
+      overflow:hidden;
+      position:absolute;
+      top:-500px;
+      width:1px;
+    }
+  </style>
+  <div class="off-screen">
+    <a href="/access">We have recently updated the screen reader optimized website to include headings, landmarks, and new shopping features to improve your experience. Please follow this link or go to www.amazon.ca.</a>
+  </div>
+
+  
+    <div class="gw-critical-content" style="width:100%">
+		<style type="text/css">
+			
+			#gw-desktop-herotator .a-carousel-container,
+			#gw-desktop-herotator .a-carousel-viewport {
+				height: 300px;
+			}
+		</style>
+		<div id="gw-desktop-herotator" class="a-section a-spacing-none">
+			<div data-a-carousel-options="{&quot;set_size&quot;:7,&quot;minimum_gutter_width&quot;:0,&quot;maintain_state&quot;:false,&quot;show_partial_next&quot;:false,&quot;name&quot;:&quot;gateway-desktop-layout.herotator&quot;,&quot;circular&quot;:false,&quot;animation_speed&quot;:6000}" data-a-display-strategy="single" data-a-transition-strategy="slideCircular" data-a-class="desktop" class="a-begin a-carousel-container a-carousel-static a-carousel-display-single a-carousel-transition-slideCircular gw-desktop-herotator"><input autocomplete="on" type="hidden" class="a-carousel-firstvisibleitem">
+				<div class="a-row a-carousel-controls a-carousel-row a-carousel-has-buttons a-carousel-overlay-buttons a-carousel-rounded-buttons"><div class="a-carousel-row-inner"><div class="a-carousel-col a-carousel-left"><a class="a-carousel-goto-prevpage" tabindex="0" href="#"><i class="a-icon a-icon-previous-rounded"><span class="a-icon-alt">Previous page</span></i></a></div><div class="a-carousel-col a-carousel-center"><div class="a-carousel-viewport"><ol class="a-carousel" role="list">
+					<li class="a-carousel-card" role="listitem">
+						<div id="gw-ftGr-desktop-hero-F" class="gw-ftGr-desktop-hero">
+							<div id="gw-ftGr-desktop-hero-F" class="gw-critical-content celwidget csm-placement-id-cc13c4df-654c-4df5-8b3f-59212629a33b"><div class="cropped-image-link image-map shogun-widget card-lite" id="0i51v8hcvpiq4wdkznyz7u8f"><script type="text/javascript">window.P && P.when('billboard-widget').execute(function billWidget(BW) {
+new BW('0i51v8hcvpiq4wdkznyz7u8f', ['https://images-na.ssl-images-amazon.com/images/G/15/img17/events/mothersday/1040659_ca_amg-mothersday_gw_desktop_hero_1500x300_en._CB528958164_.jpg']);
+});</script>
+<div style="height: 300px" class="cropped-image-map-size"><div class="cropped-image-map-center-alignment"><span style="display: inline-block"><a class="a-link-normal aok-inline-block" href="/gp/adlp/babydove?pf_rd_p=cc13c4df-654c-4df5-8b3f-59212629a33b&pf_rd_r=79PJJ0FT95ANE4TQB90S"><img alt="Discover Baby Dove" src="https://images-na.ssl-images-amazon.com/images/G/15/img17/events/mothersday/1040659_ca_amg-mothersday_gw_desktop_hero_1500x300_en._CB528958164_.jpg" height="300px" width="1500px" data-a-hires="https://images-na.ssl-images-amazon.com/images/G/15/img17/events/mothersday/1040659_ca_amg-mothersday_gw_desktop_hero_3000x600_en._CB528958166_.jpg"></a>
+</span>
+</div>
+</div>
+</div>
+</div>
+						</div>
+					</li>
+					<li class="a-carousel-card" role="listitem">
+						<div id="gw-ftGr-desktop-hero-kindle-A" class="a-lazy-loaded celwidget csm-placement-id-f6625c36-0cb5-4630-a445-1be1c3cea73d gw-ftGr-desktop-hero">&nbsp;</div> 
+								
+					</li>
+					<li class="a-carousel-card" role="listitem">
+						<div id="gw-ftGr-desktop-hero-A" class="a-lazy-loaded celwidget csm-placement-id-1cf19479-ab09-4157-8a95-58a0391cdba9 gw-ftGr-desktop-hero">&nbsp;</div> 
+								
+					</li>
+					<li class="a-carousel-card" role="listitem">
+						<div id="gw-ftGr-desktop-hero-B" class="a-lazy-loaded celwidget csm-placement-id-c9d6201a-4b2f-4569-8e43-f498ed03bdf1 gw-ftGr-desktop-hero">&nbsp;</div> 
+								
+					</li>
+					<li class="a-carousel-card" role="listitem">
+						<div id="gw-ftGr-desktop-hero-softlines" class="a-lazy-loaded celwidget csm-placement-id-00c736df-12de-4f9d-89cd-7c4401f8cd23 gw-ftGr-desktop-hero">&nbsp;</div> 
+								
+					</li>
+					<li class="a-carousel-card" role="listitem">
+						<div id="gw-ftGr-desktop-hero-piv" class="a-lazy-loaded celwidget csm-placement-id-2256acae-3e35-456a-bb85-ea3df57b22b2 gw-ftGr-desktop-hero">&nbsp;</div> 
+								
+					</li>
+					<li class="a-carousel-card" role="listitem">
+						<div id="gw-ftGr-desktop-hero-prime" class="a-lazy-loaded celwidget csm-placement-id-4aa0e204-6b81-47d6-b2af-447b851ca8b7 gw-ftGr-desktop-hero">&nbsp;</div> 
+								
+					</li>
+				</ol></div></div><div class="a-carousel-col a-carousel-right"><a class="a-carousel-goto-nextpage" tabindex="0" href="#"><i class="a-icon a-icon-next-rounded"><span class="a-icon-alt">Next page</span></i></a></div></div></div>
+			<span class="a-end aok-hidden"></span></div>
+		</div>
+	</div>
+    
+  <script>
+    GwInstrumentation.markAF({'uri':'/ah/ajax/counter?ctr=desktop_ajax_atf&exp=1494335850576&rId=79PJJ0FT95ANE4TQB90S&mkId=CAGwAmazon&h=5ad47932d57e456939df509878f79c00c0b86e3bc0cd0b880446d76f322b7b32'});
+  </script>
+  
+  <!-- MarkAF -->
+  
+
+    
+		<script>
+		//<![CDATA[
+			window.P && P.when('herotator').execute(function(herotator_btf) {
+				var ajaxParams = {'uri':'/ah/ajax/counter?ctr=desktop_herotator_user_interaction_before_autorotation_completion&exp=1494335850554&rId=79PJJ0FT95ANE4TQB90S&mkId=CAGwAmazon&h=eb0c62e0d988650dc2961b33793ae6dfdb23abe551338882dbc2b242c0131561'},
+					btfContent = [{'callbackUrl':'/ah/ajax/record-impressions?c4i=ePm_fHprxdHBCsIwDADQLwq0S5N2x4ki4smT7Jg2GcrEiQ5E_HkRBGEKHv2F9-4TYbVLPw6nL9BLGe0qt6l3g_Ntu1pzWy8Wm9lv_X_aeJTaHGUI2RSCCkGuYwJL7GNw0ReNUz9MqavqROAydRCcRZBECOqM1UdjSvI2fvHBzs4D9PujHgyaD_iOuaKCDK5kgsDoQEIg8Nl8wWISUZ85D6dog3s&rId=79PJJ0FT95ANE4TQB90S&mkId=A2EUQ1WTGCTBG2&h=40058c5fed31e9612ece11dd5bb23e47812d1729b18390bf6a37b9b49c981561','content':'<div class=\"cropped-image-link image-map shogun-widget card-lite\" id=\"akcodzr8if5rrcj1d3eyojem\"><script type=\"text/javascript\">window.P && P.when(\'billboard-widget\').execute(function billWidget(BW) {\nnew BW(\'akcodzr8if5rrcj1d3eyojem\', [\'https://images-na.ssl-images-amazon.com/images/G/15/kindle/merch/2017/CAMPAIGN/MothersDay/mday_ereader_ENGCDN_Muscat_GW_desktop_1500x300._CB511297168_.jpg\']);\n});<\/script>\n<div style=\"height: 300px\" class=\"cropped-image-map-size\"><div class=\"cropped-image-map-center-alignment\"><span style=\"display: inline-block\"><a class=\"a-link-normal aok-inline-block\" href=\"dp/B00QJDU3KY/ref=ods_gw_eink_mt_mdaytpr?pf_rd_p=f6625c36-0cb5-4630-a445-1be1c3cea73d&pf_rd_r=79PJJ0FT95ANE4TQB90S\"><img alt=\"CDN$ 20 off Kindle Paperwhite\" src=\"https://images-na.ssl-images-amazon.com/images/G/15/kindle/merch/2017/CAMPAIGN/MothersDay/mday_ereader_ENGCDN_Muscat_GW_desktop_1500x300._CB511297168_.jpg\" height=\"300px\" width=\"1500px\" data-a-hires=\"https://images-na.ssl-images-amazon.com/images/G/15/kindle/merch/2017/CAMPAIGN/MothersDay/mday_ereader_ENGCDN_Muscat_GW_desktop_3000x600._CB511297168_.jpg\"><\/a>\n<\/span>\n<\/div>\n<\/div>\n<\/div>\n','fgID':'desktop-hero-kindle-A','placementId':'f6625c36-0cb5-4630-a445-1be1c3cea73d'},{'callbackUrl':'/ah/ajax/record-impressions?c4i=ePm_fHprxdG7CgJBDEDRLwpMNvNKueIiYmUlWybzQLBY0QURf14FQRgFS_tbnXtrhHM5H-bp-AV6JXO5yLX17mm5G9cbP_IwbBe_9f9pw97nzlWFoNGDzaSghAGQixRWSxlr61drKgmlA-JHboMzIC4VCEhOKxkTon0bv_hgX04T9B_imCqyDQyihsGiCxCFHbgohhhTVuHnlTsu2YEL&rId=79PJJ0FT95ANE4TQB90S&mkId=A2EUQ1WTGCTBG2&h=bea183f6d82345f1a9359c6d11133b6b8d997eacd4dace03e4a8deaa126b7609','content':'<div class=\"cropped-image-link image-map shogun-widget card-lite\" id=\"agu03pvfjw5gpt6kscx3i8ux\"><script type=\"text/javascript\">window.P && P.when(\'billboard-widget\').execute(function billWidget(BW) {\nnew BW(\'agu03pvfjw5gpt6kscx3i8ux\', [\'https://images-na.ssl-images-amazon.com/images/G/15/img17/events/mothersday/1040952_ca_171_gwdskhro1x1500x300_001_en._CB528695928_.jpg\']);\n});<\/script>\n<div style=\"height: 300px\" class=\"cropped-image-map-size\"><div class=\"cropped-image-map-center-alignment\"><span style=\"display: inline-block\"><a class=\"a-link-normal aok-inline-block\" href=\"/b/ref=hd_gw_mday17en?ie=UTF8&node=1272739011&pf_rd_p=1cf19479-ab09-4157-8a95-58a0391cdba9&pf_rd_r=79PJJ0FT95ANE4TQB90S\"><img alt=\"Last week to send mom gifts\" src=\"https://images-na.ssl-images-amazon.com/images/G/15/img17/events/mothersday/1040952_ca_171_gwdskhro1x1500x300_001_en._CB528695928_.jpg\" height=\"300px\" width=\"1500px\" data-a-hires=\"https://images-na.ssl-images-amazon.com/images/G/15/img17/events/mothersday/1040952_ca_171_gwdskhro2x3000x600_001_en._CB528695931_.jpg\"><\/a>\n<\/span>\n<\/div>\n<\/div>\n<\/div>\n','fgID':'desktop-hero-A','placementId':'1cf19479-ab09-4157-8a95-58a0391cdba9'},{'callbackUrl':'/ah/ajax/record-impressions?c4i=ePm_fHprxdExC8IwEIbhX3RwTS5pbrQoIk5O0vGSyyE4VLQg4p-3giBUwdH9G16e7z4T1no5jsPpC_RaxnqV29x74Zf7frONPa9Wu-63_j9t2qqCxTNwEA9EFiFpLuBik1oWj2bN3A_JhfycR1cQiEUhFUEwzNnVTMFbehu_-OBQzwN0H-KFNTpsBCg7AwqRIVXyYMSpKvqsU8D0ygMbYoFc&rId=79PJJ0FT95ANE4TQB90S&mkId=A2EUQ1WTGCTBG2&h=71cc969b8ce3919b3d4aaf4859179414d6324b68640a21148171475061f0c691','content':'<div class=\"cropped-image-link image-map shogun-widget card-lite\" id=\"k088o0ye1t6w8kd00jplm1jo\"><script type=\"text/javascript\">window.P && P.when(\'billboard-widget\').execute(function billWidget(BW) {\nnew BW(\'k088o0ye1t6w8kd00jplm1jo\', [\'https://images-na.ssl-images-amazon.com/images/G/15/img17/pet-products/gateway/1042660_ca_224_gwdskhro1x1500x300._CB529286836_.jpg\']);\n});<\/script>\n<div style=\"height: 300px\" class=\"cropped-image-map-size\"><div class=\"cropped-image-map-center-alignment\"><span style=\"display: inline-block\"><a class=\"a-link-normal aok-inline-block\" href=\"/b?node=14432238011&pf_rd_p=c9d6201a-4b2f-4569-8e43-f498ed03bdf1&pf_rd_r=79PJJ0FT95ANE4TQB90S\"><img alt=\"National Pet Month\" src=\"https://images-na.ssl-images-amazon.com/images/G/15/img17/pet-products/gateway/1042660_ca_224_gwdskhro1x1500x300._CB529286836_.jpg\" height=\"300px\" width=\"1500px\" data-a-hires=\"https://images-na.ssl-images-amazon.com/images/G/15/img17/pet-products/gateway/1042660_ca_224_gwdskhro2x3000x600._CB529286837_.jpg\"><\/a>\n<\/span>\n<\/div>\n<\/div>\n<\/div>\n','fgID':'desktop-hero-B','placementId':'c9d6201a-4b2f-4569-8e43-f498ed03bdf1'},{'callbackUrl':'/ah/ajax/record-impressions?c4i=ePm_fHprxdE9C8JADAbgXxS4XM77GBWLiJOTdLwmOQSFii2I-Oe9giBUwdEp0_uSPHnMhEWH09hfvkBv8qi3fJ97L2l9aLc736am2a9-6__TJpeu02gdZLQRXDAMMaUEWDCw4iIa0rmfeAopeYQYbQCHLFPaggZTJzEV5bfxiw-Oeu2hXj2eq-DwIW8MB_JSAK0ouJKkLlKbAztnsEQWS9N3njhthHA&rId=79PJJ0FT95ANE4TQB90S&mkId=A2EUQ1WTGCTBG2&h=3d62cec86f2fb54ffa2f67b5b0e1d73ca29fc64223c21cbf614de52d7d8368ef','content':'<div class=\"cropped-image-link image-map shogun-widget card-lite\" id=\"bisochdq0n7omwl79wi13v7v\"><script type=\"text/javascript\">window.P && P.when(\'billboard-widget\').execute(function billWidget(BW) {\nnew BW(\'bisochdq0n7omwl79wi13v7v\', [\'https://images-na.ssl-images-amazon.com/images/G/15/img17/softlines/gateway/1041961_ca_md_en_watches_gw_hero_1x._CB509777742_.jpg\']);\n});<\/script>\n<div style=\"height: 300px\" class=\"cropped-image-map-size\"><div class=\"cropped-image-map-center-alignment\"><span style=\"display: inline-block\"><a class=\"a-link-normal aok-inline-block\" href=\"/b?node=16605404011&pf_rd_p=00c736df-12de-4f9d-89cd-7c4401f8cd23&pf_rd_r=79PJJ0FT95ANE4TQB90S\"><img alt=\"Mother&#39;s Day Gifts in Watches\" src=\"https://images-na.ssl-images-amazon.com/images/G/15/img17/softlines/gateway/1041961_ca_md_en_watches_gw_hero_1x._CB509777742_.jpg\" height=\"300px\" width=\"1500px\" data-a-hires=\"https://images-na.ssl-images-amazon.com/images/G/15/img17/softlines/gateway/1041961_ca_md_en_watches_gw_hero_2x._CB509777743_.jpg\"><\/a>\n<\/span>\n<\/div>\n<\/div>\n<\/div>\n','fgID':'desktop-hero-softlines','placementId':'00c736df-12de-4f9d-89cd-7c4401f8cd23'},{'callbackUrl':'/ah/ajax/record-impressions?c4i=ePm_fHprxdHBCsIwEATQL1ow2WSbHBWLiCdP0uNmN0Hx0FKLIv68LQhCFTz6ATMMbx4zYc2X89B2X6A3POQb3-feS1wfmu2OmljX-9Vv_X_aMEaiNE4RigUcigfWUAEmDlSCoZJ07rcwXIwSQyIcM04CcAwCarKoN84EcW_jFx8cc99Cd7p-mFvriYUzYEYPzk_FKXjIjFp8laxNdvrlCbu3g4k&rId=79PJJ0FT95ANE4TQB90S&mkId=A2EUQ1WTGCTBG2&h=9306652344b52027f643241f331a5b5528189c92a6c14832b3a204286e71ceb3','content':'<div class=\"cropped-image-link image-map shogun-widget card-lite\" id=\"3ryf3alvn3563ozagn65fav2\"><script type=\"text/javascript\">window.P && P.when(\'billboard-widget\').execute(function billWidget(BW) {\nnew BW(\'3ryf3alvn3563ozagn65fav2\', [\'https://images-na.ssl-images-amazon.com/images/G/15/digital/video/merch/gateway/GW_AVD-5342-International-American-Gods-Canada_1500x300_ENGLISH._CB510687288_.jpg\']);\n});<\/script>\n<div style=\"height: 300px\" class=\"cropped-image-map-size\"><div class=\"cropped-image-map-center-alignment\"><span style=\"display: inline-block\"><a class=\"a-link-normal aok-inline-block\" href=\"/s/browse?node=16040885011&ref=dvm_crs_gat_ca_gw1_amgod&pf_rd_p=2256acae-3e35-456a-bb85-ea3df57b22b2&pf_rd_r=79PJJ0FT95ANE4TQB90S\"><img alt=\"Stream American Gods on Prime Video\" src=\"https://images-na.ssl-images-amazon.com/images/G/15/digital/video/merch/gateway/GW_AVD-5342-International-American-Gods-Canada_1500x300_ENGLISH._CB510687288_.jpg\" height=\"300px\" width=\"1500px\" data-a-hires=\"https://images-na.ssl-images-amazon.com/images/G/15/digital/video/merch/gateway/GW_AVD-5342-International-American-Gods-Canada_3000x600_ENGLISH._CB510687288_.jpg\"><\/a>\n<\/span>\n<\/div>\n<\/div>\n<\/div>\n','fgID':'desktop-hero-piv','placementId':'2256acae-3e35-456a-bb85-ea3df57b22b2'},{'callbackUrl':'/ah/ajax/record-impressions?c4i=ePm_fHprxdG7CsJAEIXhJxqYzU52Z0tFEbGykpQze0ERSYgBEV_eKKmiYOkDnL_4zmMmnPL1PLTdF-iNDPkm97n3wq4OzXbnmrBe75e_9f9pkyihqg_AriSgyATBK0JiRzYERuNx7ueNqi2k4KxFIF9HCLE2IIQs3hei92YynvjgmPsWuv50yR_qJIK5QgKnbMZgcqCVFBhDyrWJwupfzzwBzoWB9Q&rId=79PJJ0FT95ANE4TQB90S&mkId=A2EUQ1WTGCTBG2&h=8dbcb5ceaa4c84f33106d64300ac56580a8d8b592b5286d4d33ed10dd65730e0','content':'<div class=\"cropped-image-link image-map shogun-widget card-lite\" id=\"pp7lt43tds0baj8eczywuerk\"><script type=\"text/javascript\">window.P && P.when(\'billboard-widget\').execute(function billWidget(BW) {\nnew BW(\'pp7lt43tds0baj8eczywuerk\', [\'https://images-na.ssl-images-amazon.com/images/G/15/img17/prime/gateway/1042132_ca_prime_launch_gw_desktop_hero_1x_1500x300._CB529017556_.jpg\']);\n});<\/script>\n<div style=\"height: 300px\" class=\"cropped-image-map-size\"><div class=\"cropped-image-map-center-alignment\"><span style=\"display: inline-block\"><a class=\"a-link-normal aok-inline-block\" href=\"/b/?node=9863204011&ref=dex_sd_gw_hero_desktop&pf_rd_p=4aa0e204-6b81-47d6-b2af-447b851ca8b7&pf_rd_r=79PJJ0FT95ANE4TQB90S\"><img alt=\"Free Prime One-Day Delivery Available in Calgary and Edmonton\" src=\"https://images-na.ssl-images-amazon.com/images/G/15/img17/prime/gateway/1042132_ca_prime_launch_gw_desktop_hero_1x_1500x300._CB529017556_.jpg\" height=\"300px\" width=\"1500px\" data-a-hires=\"https://images-na.ssl-images-amazon.com/images/G/15/img17/prime/gateway/1042132_ca_prime_launch_gw_desktop_hero_2x_3000x600._CB529017558_.jpg\"><\/a>\n<\/span>\n<\/div>\n<\/div>\n<\/div>\n','fgID':'desktop-hero-prime','placementId':'4aa0e204-6b81-47d6-b2af-447b851ca8b7'}];
+				herotator_btf(ajaxParams, btfContent);
+			});
+		//]]>
+		</script>
+	
+    
+  <script>//<![CDATA[
+    (function(d){
+      var c = " ", f = "flex", fw = "-webkit-"+f, fmoz = "-moz-box", fms = "-ms-flexbox", e = d.createElement('b');
+      try { 
+        e.style.display = fw; 
+        e.style.display = f; 
+        e.style.display = fmoz; 
+        e.style.display = fms; 
+        c += (e.style.display == f || e.style.display == fw || e.style.display == fmoz || e.style.display == fms) ? f : "no-"+f; 
+      } catch(e) { 
+        c += "no-"+f; 
+      }
+      d.documentElement.className += c; 
+    })(document);
+  //]]></script>
+
+    
+  <style type="text/css">
+    #gw-sign-in-widget,
+    #gw-sign-in-widget-http{
+      display: none;
+    }
+  </style>
+
+    <div id="gw-content-grid" class="a-row">
+      <div class="a-section">
+        <div class="a-section a-spacing-medium gw-flex-row-container">
+          <div id="gw-col-1" class="a-column a-span3 a-text-center gw-flex-col">
+            <div class="desktop-unrec-col gw-flex-row-container" id="desktop-unrec-col-1">
+              	<div id="desktop-unrec-first-col">
+              	  <div id="desktop-unrec-first-col-inner">
+              	  
+                  
+  <div id="gw-sign-in-widget-http" class="a-section">
+    <div id="gw-sign-in-widget-http-in" class="a-section">
+
+      <div id="gw-sign-in-widget-welcome-section" tabindex="0">
+        <h1 class="a-size-extra-large a-spacing-medium a-spacing-top-extra-large">Welcome</h1>
+          <span class="a-size-base a-color-base">Sign in for your best experience</span>
+      </div>
+
+      <div id="gw-sign-in-widget-sign-in-section" class="a-section a-spacing-double-large a-spacing-top-extra-large">
+        <div tabindex="0">
+          <span class="a-button a-button-primary"><span class="a-button-inner"><a tabindex="3" href="https://www.amazon.ca/ap/signin?openid.return_to=https%3A%2F%2Fwww.amazon.ca%2Fref%3Dgw_sgn_ib%2F145-8981527-6943311&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=caflex&openid.mode=checkid_setup&marketPlaceId=A2EUQ1WTGCTBG2&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&" class="a-button-text" role="button">
+            <span>Sign in securely</span>
+          </a></span></span>
+        </div>
+      </div>
+
+      <div id="gw-sign-in-widget-bottom-section" tabindex="0">
+        <hr class="a-divider-normal">
+        <div id="gw-sign-in-bottom" class="a-section a-spacing-top-base">
+          <span class="a-size-base a-color-secondary">New to Amazon?</span>
+          <a class="a-link-normal" href="https://www.amazon.ca/ap/register?openid.return_to=https%3A%2F%2Fwww.amazon.ca%2Fref%3Dgw_sgn_ib%2F145-8981527-6943311&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=caflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&">Start here</a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="gw-col-2" class="a-column a-span3 a-text-center gw-flex-col">
+            
+  <div class="desktop-unrec-col gw-flex-row-container">
+    <div id="desktop-unrec-col-2" class="gw-widget-instrument celwidget csm-placement-id-029ad348-9fad-4fba-9de9-cfe4841f40d8">
+
+
+    
+    
+    
+    
+    
+    
+    
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+    
+
+
+
+
+
+    
+ 
+
+
+
+
+
+    
+
+    
+    
+
+    
+    
+    
+     
+
+
+
+
+
+
+
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
+
+
+
+
+
+
+<script>
+  window.GWI && window.GWI.instrumentImages('popular-departments', "https://images-na.ssl-images-amazon.com/images/G/15/img16/x-site/other/1017968_ca_x-site_gateway_popular_departments_16_292x292_1._CB525774053_.png https://images-na.ssl-images-amazon.com/images/G/15/img16/x-site/other/1017968_ca_x-site_gateway_popular_departments_16_292x292_2._CB525774053_.png https://images-na.ssl-images-amazon.com/images/G/15/img16/x-site/other/1017968_ca_x-site_gateway_popular_departments_16_292x292_3._CB525774058_.png https://images-na.ssl-images-amazon.com/images/G/15/img16/x-site/other/1017968_ca_x-site_gateway_popular_departments_16_292x292_4._CB525774058_.png");
+</script>
+<div id="popular-departments-ns_5H5044PAAM5MB50H55K6_70_" class="a-section a-spacing-none shogun-widget popular-departments aui-desktop">
+
+  <h3 class="a-size-large a-text-normal">
+    Popular&nbsp;Departments
+  </h3>
+
+  <div class="imageGridRowWrapper">
+    <div class="imageGridRowWrapper-inner">
+      <div class="vertical-warpper">
+        <div class="vertical-warpper-inner">
+          <div class="quad-packs">
+            
+  <div class="a-row image-row">
+    <div class="a-column a-span6 leftCol">
+      
+<div class="imageWithText">
+  <a class="a-link-normal" href="/b/ref=br_pdt_mgUpt/145-8981527-6943311?_encoding=UTF8&node=2055586011&pf_rd_m=A3DWYIK6Y9EEQB&pf_rd_s=&pf_rd_r=79PJJ0FT95ANE4TQB90S&pf_rd_t=36701&pf_rd_p=029ad348-9fad-4fba-9de9-cfe4841f40d8&pf_rd_i=desktop"><img alt="Electronics" src="https://images-na.ssl-images-amazon.com/images/G/15/img16/x-site/other/1017968_ca_x-site_gateway_popular_departments_16_292x292_1._CB525774053_.png" height="292px" width="292px"></a>
+  <div class="departmentTitle">
+    <span class="a-size-base">
+      Electronics
+    </span>
+  </div>
+</div>
+
+    </div>
+    <div class="a-column a-span6 rightCol a-span-last">
+      
+<div class="imageWithText">
+  <a class="a-link-normal" href="/b/ref=br_pdt_mgUpt/145-8981527-6943311?_encoding=UTF8&node=11117371011&pf_rd_m=A3DWYIK6Y9EEQB&pf_rd_s=&pf_rd_r=79PJJ0FT95ANE4TQB90S&pf_rd_t=36701&pf_rd_p=029ad348-9fad-4fba-9de9-cfe4841f40d8&pf_rd_i=desktop"><img alt="Clothing and Accessories" src="https://images-na.ssl-images-amazon.com/images/G/15/img16/x-site/other/1017968_ca_x-site_gateway_popular_departments_16_292x292_2._CB525774053_.png" height="292px" width="292px"></a>
+  <div class="departmentTitle">
+    <span class="a-size-base">
+      Clothing and Accessories
+    </span>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+            
+  <div class="a-row image-row">
+    <div class="a-column a-span6 leftCol">
+      
+<div class="imageWithText">
+  <a class="a-link-normal" href="/b/ref=br_pdt_mgLwt/145-8981527-6943311?_encoding=UTF8&node=1267154011&pf_rd_m=A3DWYIK6Y9EEQB&pf_rd_s=&pf_rd_r=79PJJ0FT95ANE4TQB90S&pf_rd_t=36701&pf_rd_p=029ad348-9fad-4fba-9de9-cfe4841f40d8&pf_rd_i=desktop"><img alt="Video Games" src="https://images-na.ssl-images-amazon.com/images/G/15/img16/x-site/other/1017968_ca_x-site_gateway_popular_departments_16_292x292_3._CB525774058_.png" height="292px" width="292px"></a>
+  <div class="departmentTitle">
+    <span class="a-size-base">
+      Video Games
+    </span>
+  </div>
+</div>
+
+    </div>
+    <div class="a-column a-span6 rightCol a-span-last">
+      
+<div class="imageWithText">
+  <a class="a-link-normal" href="/b/ref=br_pdt_mgLwt/145-8981527-6943311?_encoding=UTF8&node=2669232011&pf_rd_m=A3DWYIK6Y9EEQB&pf_rd_s=&pf_rd_r=79PJJ0FT95ANE4TQB90S&pf_rd_t=36701&pf_rd_p=029ad348-9fad-4fba-9de9-cfe4841f40d8&pf_rd_i=desktop"><img alt="Home" src="https://images-na.ssl-images-amazon.com/images/G/15/img16/x-site/other/1017968_ca_x-site_gateway_popular_departments_16_292x292_4._CB525774058_.png" height="292px" width="292px"></a>
+  <div class="departmentTitle">
+    <span class="a-size-base">
+      Home
+    </span>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="bottom-section">
+    <hr class="a-divider-normal">
+
+    <div class='seemore'>
+      <a class="a-size-base a-link-normal" href="/gp/site-directory/ref=br_pdt_smr/145-8981527-6943311?pf_rd_m=A3DWYIK6Y9EEQB&pf_rd_s=&pf_rd_r=79PJJ0FT95ANE4TQB90S&pf_rd_t=36701&pf_rd_p=029ad348-9fad-4fba-9de9-cfe4841f40d8&pf_rd_i=desktop">
+  
+  Shop all departments
+
+</a>
+    </div>
+  </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+  </div>
+
+          </div>
+          <div id="gw-col-3" class="a-column a-span3 a-text-center gw-flex-col">
+            
+  <div class="desktop-unrec-col gw-flex-row-container">
+    <div id="desktop-unrec-col-3" class="gw-widget-instrument celwidget csm-placement-id-b9e52d5c-81c9-4832-8f27-00e278b30f05"><div class="shogun-widget airy-gw-resizeable-inline-video card-lite" id="p8fsb1gz18gfwnkys5opqfr"><script type="text/javascript">
+      (function airyGwResizeableInlineVideo(w) {
+        w.GWI && w.GWI.instrumentImages("airy-gw-resizeable-inline-video", "https://images-na.ssl-images-amazon.com/images/G/15/AMAZON-FASHION/2016/FASHION/FLIP/SEPTEMBER/GW/SLIM_1279X984._UX492_SX492_CB277288459_.jpg");
+      }(window));
+    </script>
+<h3 class="a-size-large a-text-normal">Jeans store
+</h3>
+<div class="resizeable-warpper"><div class="resizeable-warpper-inner"><div class="vertical-warpper"><div class="vertical-warpper-inner"><div class="airy-video-viewport"><div class="airy-video-viewport-in"><div class="right"></div>
+<div class="bottom"></div>
+<div class="cropped-image-map-size"><a class="a-link-normal aok-inline-block image-map-before" href="/b?&node=11016873011&pf_rd_p=b9e52d5c-81c9-4832-8f27-00e278b30f05&pf_rd_r=79PJJ0FT95ANE4TQB90S"><img alt="Denim Store" src="https://images-na.ssl-images-amazon.com/images/G/15/AMAZON-FASHION/2016/FASHION/FLIP/SEPTEMBER/GW/SLIM_1279X984._UX492_SX492_CB277288459_.jpg" height="639px" width="492px" data-a-hires="https://images-na.ssl-images-amazon.com/images/G/15/AMAZON-FASHION/2016/FASHION/FLIP/SEPTEMBER/GW/SLIM_1279X984._CB277288459_.jpg"></a>
+</div>
+<a class="click-through" aria-hidden="true" href="/b?&amp;node=11016873011&amp;pf_rd_p=b9e52d5c-81c9-4832-8f27-00e278b30f05&amp;pf_rd_r=79PJJ0FT95ANE4TQB90S" target=""><div class="airy-video-container" id="resizeable-inline-video-p8fsb1gz18gfwnkys5opqfr"><div class="airy-video-container-in"></div>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<a class="a-link-normal aok-inline-block image-map-hidden" href="/b?&node=11016873011&pf_rd_p=b9e52d5c-81c9-4832-8f27-00e278b30f05&pf_rd_r=79PJJ0FT95ANE4TQB90S"><img alt="Denim Store" src="https://images-na.ssl-images-amazon.com/images/G/15/AMAZON-FASHION/2016/FASHION/FLIP/SEPTEMBER/GW/SLIM_1279X984._UX492_SX492_CB277288459_.jpg" height="639px" width="492px" data-a-hires="https://images-na.ssl-images-amazon.com/images/G/15/AMAZON-FASHION/2016/FASHION/FLIP/SEPTEMBER/GW/SLIM_1279X984._CB277288459_.jpg"></a>
+<div class="bottom-section"><hr class="a-divider-normal"><div class="seemore"><a class="a-link-normal" href="/b?&node=11016873011&pf_rd_p=b9e52d5c-81c9-4832-8f27-00e278b30f05&pf_rd_r=79PJJ0FT95ANE4TQB90S">Denim Store
+</a>
+</div>
+</div>
+</div>
+</div>
+  </div>
+
+          </div>
+          <div id="gw-col-4" class="a-column a-span3 a-text-center gw-flex-col a-span-last">
+            
+  <div class="desktop-unrec-col gw-flex-row-container">
+    <div class="sidebar">
+      <div class="sidebar-inner">
+        <div class="sidekick gw-widget-instrument celwidget csm-placement-id-10066ec7-3d85-49c7-8153-ca790425ffb7" id="desktop-unrec-sidekick">
+
+
+    
+    
+    
+    
+    
+
+    
+    
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+
+    
+
+
+
+
+    
+
+    
+ 
+
+
+
+
+
+
+    
+            
+            
+    
+
+    
+
+    
+    
+    
+    
+    
+
+
+    
+    
+    
+    
+    
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
+
+
+
+
+
+
+<script>
+  window.GWI && window.GWI.instrumentImages('deals-image', "https://images-na.ssl-images-amazon.com/images/I/51-RQLVRjPL._AC_UY600__SY244_.jpg");
+</script>
+
+<div id="deals-image_deals-image-ns_QNQ29QMG8K08S9ZEN4C0_5441_" class="a-section a-spacing-base a-text-center shogun-widget deals-image aui-desktop deals-image-small">
+  <div class="deals-inner"> 
+    
+  <h3 class="a-size-large a-spacing-medium a-text-normal">
+    Deal of the day
+  </h3>
+
+
+    <div class="dotd-content-container">
+      <div class="a-fixed-right-grid"><div class="a-fixed-right-grid-inner" style="padding-right:150px">
+        <div id="dotd-info" class="a-fixed-right-grid-col a-col-left" style="padding-right:0%;*width:99.6%;float:left;"> 
+          
+  <div class="price-section">
+    <div class="pirce-section-inner">
+        
+
+<div class="productPrice">
+  <div class="priceBlock">
+    <span class="a-size-extra-large productBuyPrice">
+        <span class="a-color-price">$31.89</span>
+    </span>
+  </div>
+  <div class="priceBlock">
+    <span class="a-size-small savePrice">
+      List: <span class="a-text-strike"><span class="price single-price price">$49.99</span></span> (36% off)
+    </span>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+          
+  <div class="bottom-section">
+    <hr class="a-divider-normal">
+
+    <div class='seemore'>
+      <a class="a-link-normal" href="/gp/goldbox/ref=br_dig_smr/145-8981527-6943311?pf_rd_m=A3DWYIK6Y9EEQB&pf_rd_s=&pf_rd_r=79PJJ0FT95ANE4TQB90S&pf_rd_t=36701&pf_rd_p=10066ec7-3d85-49c7-8153-ca790425ffb7&pf_rd_i=desktop">
+  
+  Shop all deals
+
+</a>
+    </div>
+  </div>
+ 
+        </div>
+        <div id="dotd-image" class="a-fixed-right-grid-col a-col-right" style="width:150px;margin-right:-150px;float:left;"> 
+          
+  <div class="image-section">
+    <div class="image-section-inner">
+        <a class="a-link-normal  a-inline-block" href="/Amope-Perfect-Pedicure-Electronic-Beautiful/dp/B00LE99PA2/ref=br_dig_pdt-1/145-8981527-6943311?pf_rd_m=A3DWYIK6Y9EEQB&pf_rd_s=&pf_rd_r=79PJJ0FT95ANE4TQB90S&pf_rd_t=36701&pf_rd_p=10066ec7-3d85-49c7-8153-ca790425ffb7&pf_rd_i=desktop">
+    <img alt="Amope Perfect Pedicure Set, Electronic Foot File Tools for Soft Beautiful Feet, Blue, Coarse, 1 Count" src="https://images-na.ssl-images-amazon.com/images/I/51-RQLVRjPL._AC_UY600__SY244_.jpg" class="product-image" height="244px" width="203px" title="Amope Perfect Pedicure Set, Electronic Foot File Tools for Soft Beautiful Feet, Blue, Coarse, 1 Count" data-a-hires="https://images-na.ssl-images-amazon.com/images/I/51-RQLVRjPL._AC_UY600__SY488_.jpg">
+</a>
+    </div>
+  </div>
+
+        </div>
+      </div></div>
+    </div>
+
+  </div>
+</div>
+
+<noscript type="text/fullsize-content">
+  <div id="deals-image_fullsize_deals-image-ns_QNQ29QMG8K08S9ZEN4C0_5441_" class="a-section a-text-center shogun-widget deals-image aui-desktop deals-image-large">
+    <div class="deals-inner"> 
+      
+  <h3 class="a-size-large a-spacing-medium a-text-normal">
+    Deal of the day
+  </h3>
+
+      <div class="a-section image-section-warpper">
+        <div class="a-section image-section-warpper-inner">
+          
+  <div class="image-section">
+    <div class="image-section-inner">
+        <a class="a-link-normal  a-inline-block" href="/Amope-Perfect-Pedicure-Electronic-Beautiful/dp/B00LE99PA2/ref=br_dig_pdt-1/145-8981527-6943311?pf_rd_m=A3DWYIK6Y9EEQB&pf_rd_s=&pf_rd_r=79PJJ0FT95ANE4TQB90S&pf_rd_t=36701&pf_rd_p=10066ec7-3d85-49c7-8153-ca790425ffb7&pf_rd_i=desktop">
+    <img alt="Amope Perfect Pedicure Set, Electronic Foot File Tools for Soft Beautiful Feet, Blue, Coarse, 1 Count" src="https://images-na.ssl-images-amazon.com/images/I/51-RQLVRjPL._AC_UY600__SY244_.jpg" class="product-image" height="244px" width="203px" title="Amope Perfect Pedicure Set, Electronic Foot File Tools for Soft Beautiful Feet, Blue, Coarse, 1 Count" data-a-hires="https://images-na.ssl-images-amazon.com/images/I/51-RQLVRjPL._AC_UY600__SY488_.jpg">
+</a>
+    </div>
+  </div>
+
+        </div>
+      </div>
+      
+  <div class="price-section">
+    <div class="pirce-section-inner">
+        
+
+<div class="productPrice">
+  <div class="priceBlock">
+    <span class="a-size-extra-large productBuyPrice">
+        <span class="a-color-price">$31.89</span>
+    </span>
+  </div>
+  <div class="priceBlock">
+    <span class="a-size-small savePrice">
+      List: <span class="a-text-strike"><span class="price single-price price">$49.99</span></span> (36% off)
+    </span>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+      
+  <div class="bottom-section">
+    <hr class="a-divider-normal">
+
+    <div class='seemore'>
+      <a class="a-link-normal" href="/gp/goldbox/ref=br_dig_smr/145-8981527-6943311?pf_rd_m=A3DWYIK6Y9EEQB&pf_rd_s=&pf_rd_r=79PJJ0FT95ANE4TQB90S&pf_rd_t=36701&pf_rd_p=10066ec7-3d85-49c7-8153-ca790425ffb7&pf_rd_i=desktop">
+  
+  Shop all deals
+
+</a>
+    </div>
+  </div>
+ 
+    </div>
+  </div>
+</noscript>  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+        <div id="desktop-unrec-ad">
+          <style>#ape_Gateway_right-2_desktop_placement{line-height:1} #ape_Gateway_right-2_desktop_placement div{margin: 0 auto!important; width: 100%!important; top:1px !important; } #ape_Gateway_right-2_desktop_placement>div>a{top:0 !important}</style><div id="ape_Gateway_right-2_desktop_placement" class="copilot-secure-display celwidget  text/x-dacx-safeframe" data-campaign="7442" style="width: 300px; overflow:hidden;" cel_widget_id="Gateway_right-2_desktop" data-ad-details='{"slot" :"Gateway_right-2_desktop","slotName" :"right-2","src" : "http://aax-us-east-retail-rtb.amazon.com/e/xsp/getAd?slot=right-2&rid=010166b18bf49ddd882e55a8ffc42b46be976a77e6d93d1a8fecf3e4d4be0d6f0baa","adServer" :"aax","campaignId" :  "7442","arid" :"9fb3a041e0cc43e38584619acb9cda0a","size" :{"width": "300px","height" : "250px"},"allowedSizes" :[],"allowedDomains" :  [],"aanParams" :   "site%3Damazon.ca%3Bpt%3DGateway%3Bslot%3Dright-2%3Bpid%3D36701%3Bprid%3D79PJJ0FT95ANE4TQB90S%3Barid%3D9fb3a041e0cc43e38584619acb9cda0a%3Bad-sid%3D0101d19b6eb36d432580dd96cf0a0a400b35f26701190817d4c4608a8c018b7d6051","loadAfter" :   "criticalFeature","daJsUrl" : "https://dq4ijymydgrfx.cloudfront.net/2017-03-13/feedback-ca.js","iframeExtraStyle": "","iframeClass":  "","iframeSandbox":"","feedbackJsUrl":"https://dq4ijymydgrfx.cloudfront.net/2017-03-13/feedback-ca.js","showInlineFeedback": false,"inlineFeedbackParams": {},"boolFeedback": true,"adPixels": [],"adPixelDelay": "0","aaxImpPixelUrl":  "https://aax-us-east.amazon-adsystem.com/e/xsp/imp?b=QtBL7-1sYEnLkzfJKnGkCJgAAAFb7VmzWwEAAAIBAf2qdqs","aaxInstrPixelUrl": "https://aax-us-east.amazon-adsystem.com/x/px/QtBL7-1sYEnLkzfJKnGkCJgAAAFb7VmzWwEAAAIBAf2qdqs/","usePrefetchRoute": false,"htmlContent":  "","htmlContentEncoded": "PCFET0NUWVBFIGh0bWw+PGh0bWw+PGJvZHk+PHN0eWxlPi5hY3tkaXNwbGF5OmJsb2NrO3Bvc2l0aW9uOmFic29sdXRlO292ZXJmbG93OmhpZGRlbjt3aWR0aDoxOXB4O2hlaWdodDoxNXB4O3otaW5kZXg6OTt0b3A6MDtyaWdodDowO2JhY2tncm91bmQ6dXJsKGh0dHBzOi8vaW1hZ2VzLW5hLnNzbC1pbWFnZXMtYW1hem9uLmNvbS9pbWFnZXMvRy8xNS9kYS9hZGNob2ljZXMvYWMtdG9wcmlnaHQtc3ByaXRlLnBuZyl9LmFjOmhvdmVye3dpZHRoOjc3cHg7YmFja2dyb3VuZC1wb3NpdGlvbjotMTlweCAwfS5oaWRle2Rpc3BsYXk6bm9uZSFpbXBvcnRhbnR9I2Fke3Bvc2l0aW9uOnJlbGF0aXZlO292ZXJmbG93OmhpZGRlbjt3aWR0aDozMDBweDtoZWlnaHQ6MjUwcHg7ZGlzcGxheTpub25lfTwvc3R5bGU+PGRpdiBpZD0iY3JlYXRpdmUtd3JhcHBlciIgc3R5bGU9IndpZHRoOiAxMDAlO2hlaWdodDoyNTBweDsiPgogIDxhIGlkPSJhZCIgaHJlZj0iaHR0cHM6Ly9hYXgtdXMtZWFzdC5hbWF6b24tYWRzeXN0ZW0uY29tL3gvYy9RdEJMNy0xc1lFbkxremZKS25Ha0NKZ0FBQUZiN1Zteld3RUFBQUlCQWYycWRxcy9odHRwczovL3d3dy5hbWF6b24uY2EvYj9ub2RlPTkyMzAxNjYwMTEmYW1wO3JlZj1ob3VzZWFkczAxLTIwIiB0YXJnZXQ9Il90b3AiID4KPGltZyBpZD0ic3RhdGljSW1hZ2UiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiPjxhIGlkPSJsb2dvIj48L2E+PGEgaWQ9ImFhcEluZm8iIHRhcmdldD0iX2JsYW5rIiBjbGFzcz0iaGlkZSBhYyIgaHJlZj0iaHR0cHM6Ly93d3cuYW1hem9uLmNhL2FkcHJlZnMvcmVmPWNzX2FhcF8yMjIxNTM0NjEwNjAxIj48L2E+PC9kaXY+PHNjcmlwdD5zZXRUaW1lb3V0KGZ1bmN0aW9uKCl7IWZ1bmN0aW9uKGEsZSx0KXt2YXIgbj0vXC5hbWF6b25cLihjb218Y2EpKDouKik/JC8sYz0idW5kZWZpbmVkIiE9dHlwZW9mIElTXzNQJiZJU18zUCxpPSExO2lmKCFjKXt2YXIgbz1hO3RyeXtmb3IoO28hPW8ucGFyZW50Oyl7aWYoIW8ucGFyZW50LmRvY3VtZW50KXRocm93IG5ldyBFcnJvcigiY3Jvc3MtZG9tYWluIGV4Y2VwdGlvbiIpO289by5wYXJlbnR9fWNhdGNoKHIpe310cnl7aT1vLlNGQ2xpZW50P28uU0ZDbGllbnQuaXNPbkFtYXpvbigpOm4udGVzdChvLmxvY2F0aW9uLmhvc3QpfWNhdGNoKHIpe319dmFyIHM9IWMmJiFpO2UuYWQ9e2FpZDoiNjU2NTQ1OTczMDcwMSIsY2lkOiIyMjIxNTM0NjEwNjAxIix3OjMwMCxoOjI1MCx0ZW1wbGF0ZToiSW1hZ2UtMS41NiJ9LGEuYWFuUmVzcG9uc2U9e2FkSWQ6ZS5hZC5haWQsY3JlYXRpdmVJZDplLmFkLmNpZCxhZE5ldHdvcms6InBkYSIsc2hhemFtU3RhZ2U6InByb2QiLHNoYXphbUlkOiI1MjcwNzg0In07dHJ5e3QmJnQuYWRfdXRpbHMmJnQuYWRfdXRpbHMuZXhwYW5kX2FkKGZyYW1lRWxlbWVudCl9Y2F0Y2gocil7fXZhciBkPWZ1bmN0aW9uKGEpe3JldHVybi9zLy50ZXN0KGEucHJvdG9jb2wpfSxtPWZ1bmN0aW9uKGEpe3JldHVybiBlLmdldEVsZW1lbnRCeUlkKGEpfSxwPWZ1bmN0aW9uKGEsZSx0KXthLmhyZWY9ZSxhLnRhcmdldD10PyJfYmxhbmsiOiJfdG9wIn0sZj1mdW5jdGlvbihhLGUpe3JldHVybiBhLmNsYXNzTmFtZS5tYXRjaChuZXcgUmVnRXhwKCIoXFxzfF4pIitlKyIoXFxzfCQpIikpfSxsPWZ1bmN0aW9uKGEsZSl7ZihhLGUpfHwoYS5jbGFzc05hbWUrPSIgIitlKX0sdT1mdW5jdGlvbihhLGUpe2lmKGYoYSxlKSl7dmFyIHQ9bmV3IFJlZ0V4cCgiKFxcc3xeKSIrZSsiKFxcc3wkKSIpO2EuY2xhc3NOYW1lPWEuY2xhc3NOYW1lLnJlcGxhY2UodCwiICIpfX0sZz1mdW5jdGlvbihhKXt1KGEsImhpZGUiKX0saD0oZChsb2NhdGlvbik/Ii8vaW1hZ2VzLW5hLnNzbC0iOiIvL2ctZWN4LiIpKyJpbWFnZXMtYW1hem9uLmNvbS9pbWFnZXMvRy8xNS8iLF89bSgiYWFwSW5mbyIpLHc9bSgiYWQiKSxJPSJzaGF6YW0vZ2MtZ2VuLTMwMHgyNTAtTGNVSVEuX1Y1MjMxODg4ODNfLmpwZyIsdj1tKCJzdGF0aWNJbWFnZSIpO0kmJih2LnNyYz1oK0ksdy5zdHlsZS5kaXNwbGF5PSJibG9jayIpO3ZhciB5O2MmJmwodywiYWFwIiksKGN8fHMpJiYody50YXJnZXQ9Il9ibGFuayIpLF8mJmMmJmcoXykseSYmcChfLCJodHRwczovL3d3dy5hbWF6b24uY2EvYWRwcmVmcyIsITApO3ZhciB6PWEuU0ZDbGllbnQ7aWYoeiYmImZ1bmN0aW9uIj09dHlwZW9mIHouY2hhbmdlU2l6ZSl0cnl7ei5jaGFuZ2VTaXplKCIzMDBweCIsIjI1MHB4Iil9Y2F0Y2gocil7fX0od2luZG93LGRvY3VtZW50LHBhcmVudCl9LDApOzwvc2NyaXB0Pgo8L2JvZHk+PC9odG1sPjwhLS0gY3JlYXRpdmVNb2REYXRlID0gMTQ4ODc4MTEwMjAwMCAtLT4=","enableAdBlockerDetector": true,"disableResizeFunc": true,"fallbackStaticAdImgUrl": "https://images-na.ssl-images-amazon.com/images/G/01/ape/fallback/static/GW_Fallback_US_CA_._V280305700_.png","fallbackStaticAdClickUrl": "http://www.amazon.ca/gift-cards-store/b?ie=UTF8&node=9230166011","fallbackStaticAdExtraStyle": "width=100% height=auto alt=\"Amazon Gift Cards\"","adFeedbackInfo": {"adProgramId": "1001", "endPoint": "https://www.amazon.ca/gp/ad-feedback/lazyLoad/handler/feedback-link-handler.html","boolFeedback": true,"slugText": "Advertisement"},"adPlacementMetaData": {"pageUrl": "aHR0cHM6Ly93d3cuYW1hem9uLmNhL3Nob3BwaW5nUG9ydGFsL2Rlc2t0b3AvYWxtZHVkbGVyP19lbmNvZGluZz1VVEY4Jm9wZl9yZWRpcj0x","adElementId": "ape_Gateway_right-2_desktop_placement","pageType": "Gateway","slotName": "right-2"},"adCreativeMetaData": {"adProgramId": "1001","adImpressionId": "https://aax-us-east.amazon-adsystem.com/e/xsp/imp?b=QtBL7-1sYEnLkzfJKnGkCJgAAAFb7VmzWwEAAAIBAf2qdqs","adCreativeId": "3773195901","adId": "3376159001","adNetwork": "aax"},"advertisementStyle": {"position": "absolute","top": "2px","right": "0px","display": "inline-block","font": "normal 11px Arial","color": "grey"},"feedbackDivStyle": { "position": "relative", "height": "20px", "top": "2px" },"viewabilityStandards": [{"p": 0, "t": 0, "def": "amzn"}, {"p": 50, "t": 1, "def": "iab"}, {"p": 100, "t": 0, "def": "groupm"}],"ajaxWeblabTriggerId": ""}' aria-hidden="true"></div><script>(function(h,l){if(typeof uet=="function"&&typeof ues=="function"){var o="Gateway_right-2_desktop";ues("wb","adplacements:"+o.replace(/\_/g,":"),{wb:1});uet("bb","adplacements:"+o.replace(/\_/g,":"),{wb:1});}h.aanParams=h.aanParams||{};h.aanParams["right-2"]="site=amazon.ca;pt=Gateway;slot=right-2;pid=36701;prid=79PJJ0FT95ANE4TQB90S;arid=9fb3a041e0cc43e38584619acb9cda0a;ad-sid=0101d19b6eb36d432580dd96cf0a0a400b35f26701190817d4c4608a8c018b7d6051";h["right-2"]={};h["right-2"].adStartTime=(new Date()).getTime();function a(){return h.innerHeight||l.documentElement.clientHeight;}function e(){return h.innerWidth||l.documentElement.clientWidth;}function b(r,p,q){if(r>0){return(q>r);}else{return(p>0);}}function c(p,q){if(h.addEventListener){h.addEventListener(p,q,false);}else{if(h.attachEvent){h.attachEvent("on"+p,q);}}}function f(p,q){if(h.removeEventListener){h.removeEventListener(p,q,false);}else{if(h.detachEvent){h.detachEvent("on"+p,q);}}}var d=function(){return(Date.now?Date.now():new Date().getTime());};throttle=function(q,s,w){var p,u,x;var v=null;var t=0;if(!w){w={};}var r=function(){t=w.leading===false?0:d();v=null;x=q.apply(p,u);if(!v){p=u=null;}};return function(){var z=d();if(!t&&w.leading===false){t=z;}var y=s-(z-t);p=this;u=arguments;if(y<=0||y>s){if(v){clearTimeout(v);v=null;}t=z;x=q.apply(p,u);if(!v){p=u=null;}}else{if(!v&&w.trailing!==false){v=setTimeout(r,y);}}return x;};};function j(s,t,p){try{var r=l.getElementById(s).getBoundingClientRect();if(b(r.top,r.bottom,a())&&b(r.left,r.right,e())){if(typeof uet=="function"){uet("bb","adplacements:viewablelatency:"+t,{wb:1});}if(typeof uex=="function"){if(h.apeViewableLatencyTrackers[p].loaded){uex("ld","adplacements:viewablelatency:"+t,{wb:1});uex("ld","adplacements:htmlviewed:loaded:"+t,{wb:1});}uex("ld","adplacements:htmlviewed:"+t,{wb:1});}h.apeViewableLatencyTrackers[p].viewed=true;if(h.apeViewableLatencyTrackers[p].tracker){f("scroll",h.apeViewableLatencyTrackers[p].tracker);f("resize",h.apeViewableLatencyTrackers[p].tracker);}}}catch(q){h.apeViewableLatencyTrackers[p].valid=false;}}try{h.apeViewableLatencyTrackers=h.apeViewableLatencyTrackers||{};var n="ape_Gateway_right-2_desktop_placement";var m="Gateway_right-2_desktop".replace(/\_/g,":");var g="9fb3a041e0cc43e38584619acb9cda0a";h.apeViewableLatencyTrackers[g]={};h.apeViewableLatencyTrackers[g].valid=true;j(n,m,g);if(h.apeViewableLatencyTrackers[g].valid&&!h.apeViewableLatencyTrackers[g].viewed){h.apeViewableLatencyTrackers[g].tracker=throttle(function(){j(n,m,g);},20);c("scroll",h.apeViewableLatencyTrackers[g].tracker);c("resize",h.apeViewableLatencyTrackers[g].tracker);}}catch(i){if(h.apeViewableLatencyTrackers&&h.apeViewableLatencyTrackers["9fb3a041e0cc43e38584619acb9cda0a"]){h.apeViewableLatencyTrackers["9fb3a041e0cc43e38584619acb9cda0a"].valid=false;}if(h.ueLogError){h.ueLogError(i,{logLevel:"ERROR",attribution:"APE-safeframe",message:"Error initializing viewable latency instrumentation"});}}try{if(h.DAsf){h.DAsf.loadAds();}else{var k=l.createElement("script");k.type="text/javascript";k.async=true;k.setAttribute("crossorigin","anonymous");k.charset="utf-8";k.src="https://images-na.ssl-images-amazon.com/images/G/01/kaushis/ape/sf/desktop/DAsf-1493856753167._V511190171_.js";(l.getElementsByTagName("head")[0]||l.getElementsByTagName("body")[0]).appendChild(k);}}catch(i){if(h.ueLogError){h.ueLogError(i,{logLevel:"ERROR",attribution:"DACX-safeframe",message:"Error appending DAsf library"});}}}(window,document));</script>  <script>(function(window, document) {    if (typeof DA_uexld === 'undefined') {function DA_uexld(prefix, delimiter) {  if (typeof uex === 'function') {uex('ld', prefix + delimiter + 'Gateway_right-2_desktop', {wb: 1});  }}  }  try {if (window.DA_adBlockerIsDisabled === true) {  DA_uexld('adblockernotdetected', ':');} else {    if (document.getElementById('DA_adblockerdetector')) {DA_uexld('adblockerdetected', ':');  } else {    if (typeof DA_uexld === 'undefined') {function DA_uexld(prefix, delimiter) {  if (typeof uex === 'function') {uex('ld', prefix + delimiter + 'Gateway_right-2_desktop', {wb: 1});  }}  }  function DA_getSecureMediaCentralDomain() {var MEDIA_CENTRAL_REGIONS = {'com': 'na','ca': 'na','mx': 'na','es': 'na','uk': 'eu','de': 'eu','fr': 'eu','it': 'eu','in': 'eu','jp': 'fe','cn': 'cn'};var matchGroups = window.location.host.match(/^.*\.([^.:\/]*)/);if (matchGroups && matchGroups.length > 1) {  return 'https://images-' + MEDIA_CENTRAL_REGIONS[matchGroups[1]] + '.ssl-images-amazon.com';} else {  DA_uexld('errorlocatingmediacentraldomain', ':');  return 'https://images-na.ssl-images-amazon.com';}  }  function DA_elementOnload(element, callback) {element.onload = element.onreadystatechange = function() {  if(!element.readyState || element.readyState == "loaded" || element.readyState == "complete") {element.onload = element.onreadystatechange = null;if(callback && typeof callback === 'function') {  callback();}  }}  }var version = Math.ceil(Math.random() * (99999999 - 10000) + 10000);var element = document.createElement('script');element.async = true;element.setAttribute("crossorigin", "anonymous");element.id = 'DA_adblockerdetector';element.src = DA_getSecureMediaCentralDomain() + '/images/G/01/ads/advertising/ads._TTH_.js?cachebust=' + version;element.type = 'text/javascript';element.onerror = function() { DA_uexld('adblockerdetected', ':'); window.DA_adBlockerIsDisabled = false; };var onLoadCallBack = function() { DA_uexld('adblockernotdetected', ':'); };DA_elementOnload(element, onLoadCallBack);(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(element);  }}  } catch(ex) {DA_uexld('errordetectingadblocker', ':');if(window.ueLogError) {  window.ueLogError(ex, {logLevel : 'ERROR',attribution : 'DACX-safeframe',message : 'Error detecting ad blocker'  });}  };}(window, document));  </script>
+        </div>
+      </div>
+    </div>
+  </div>
+
+          </div>
+        </div>
+      </div> 
+    </div>
+    
+    
+  <noscript>
+    <style type="text/css">
+      #unrec-pageContent .sidekick{
+        bottom: 0px;
+        margin-bottom: 0px;
+      }
+    </style>
+  </noscript>
+
+    
+  <style type="text/css">
+    #gw-sign-in-widget,
+    #gw-sign-in-widget-http{
+      display: table-row;
+    }
+  </style>
+
+    
+    
+  
+<!--&&&Portal&Delimiter&&&--><!-- sp:end-feature:host-atf -->
+<!-- sp:feature:nav-btf -->
+<!-- btf pilu -->
+
+
+
+
+
+
+
+
+
+<style>
+  #nav-prime-tooltip{
+    padding: 0 20px 2px 20px;
+    background-color: white;
+    font-family: arial,sans-serif;
+  }
+  .nav-npt-text-title{
+    font-family: arial,sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 21px;
+    color: #E47923;
+  }
+  .nav-npt-text-detail, a.nav-npt-a{
+    font-family: arial,sans-serif;
+    font-size: 12px;
+    line-height: 14px;
+    color: #333333;
+    margin: 2px 0px;
+  }
+  a.nav-npt-a {
+    text-decoration: underline;
+  }
+</style>
+
+<div  style="display: none">
+  <div id="nav-prime-tooltip">
+    <div class="nav-npt-text-title"> Unlimited FREE Two-Day Shipping, no minimum threshold and more. </div>
+    <div class="nav-npt-text-detail"> Prime members enjoy Free Two-Day Delivery, Free Same-Day Delivery to Toronto and Vancouver, Twitch Prime, Amazon Originals, early access to deals, and unlimited photo storage. </div>
+    <div class="nav-npt-text-detail">
+      &gt;
+      <a class="nav-npt-a" href="/gp/prime/ref=nav_tooltip_redirect/145-8981527-6943311">Get started</a>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+<div style="display: none">
+  <div id="nav-prime-menu" class="nav-empty nav-flyout-content nav-ajax-prime-menu">
+    <div class="nav_dynamic"></div>
+    <div class="nav-ajax-message"></div>
+    <div class="nav-ajax-error-msg">
+      <p class="nav_p nav-bold"></p>
+      <p class="nav_p"><a href="/gp/prime/ref=nav_prime_ajax_err/145-8981527-6943311" class="nav_a"></a></p>
+    </div>
+  </div>
+</div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+  window.$Nav && $Nav.when("data").run(function(data) { data({"MusicPanel":{"promoID":"nav-sa-music","template":{"name":"itemList","data":{"text":"Music","items":[{"text":"All Music","url":"/music-rock-classical-pop-jazz/b/ref=nav_shopall_mu?ie=UTF8&node=916514"},{"text":"Canadian Music","url":"/Canadian-Music/b/ref=nav_shopall_canmu?ie=UTF8&node=13779501"},{"text":"Music in French","url":"/musique-cd-francophone-classique-occasion/b/ref=nav_shopall_frmu?ie=UTF8&node=962500"},{"text":"Musical Instruments","url":"/musical-instruments-stage-studio/b/ref=nav_shopall_mi?ie=UTF8&node=6916844011"}]}}},"shopAllContent":{"template":{"name":"itemList","data":{"items":[{"subtext":"Shop over 375,000 apps and games","text":"Appstore for Android","subtextKey":"android-tagline","panelKey":"AndroidPanel"},{"text":"Books","panelKey":"BooksPanel"},{"text":"Music","panelKey":"MusicPanel"},{"subtext":"Unlimited Storage","text":"Prime Photos & Drive","panelKey":"CloudDrivePanel"},{"text":"Movies & TV Shows","panelKey":"MoviesTvPanel"},{"text":"Kindle","panelKey":"KindlePanel"},{"text":"Electronics","panelKey":"ElectronicsPanel"},{"text":"Software","panelKey":"SoftwarePanel"},{"text":"Video Games","panelKey":"VideogamesPanel"},{"text":"Home, Kitchen, & Pets","panelKey":"HomePanel"},{"text":"Tools, Patio & Garden","panelKey":"ToolsPanel"},{"text":"Health, Beauty, & Grocery","panelKey":"HealthBeautyGroceryPanel"},{"text":"Toys & Baby","panelKey":"ToysBabyPanel"},{"text":"Clothing, Shoes & Jewelry","panelKey":"ApparelJewelryWatchesLuggagePanel"},{"text":"Sports & Outdoors","panelKey":"SportsOutdoorsPanel"},{"text":"Automotive & Industrial","panelKey":"AutomotivePanel"},{"text":"Boutiques Francophones","panelKey":"BoutiquesFrancophonesPanel"},{"text":"Full Store Directory","decorate":"carat","url":"/gp/site-directory/ref=nav_shopall_fullstore","dividerBefore":"1"}]}}},"ApparelJewelryWatchesLuggagePanel":{"promoID":"nav-sa-apparel-jewelry-watches-luggage","template":{"name":"itemList","data":{"text":"Clothing, Shoes & Jewelry","items":[{"text":"Clothing, Shoes & Jewelry","items":[{"text":"Clothing & Accessories","url":"/clothing/b/ref=nav_shopall_nav_shopall_ap?ie=UTF8&node=8604903011"},{"text":"Shoes & Handbags","url":"/shoes/b/ref=nav_shopall_nav_shopall_sh?ie=UTF8&node=8604915011"},{"text":"Jewelry","url":"/jewelry/b/ref=nav_shopall_jewelry?ie=UTF8&node=6205496011"},{"text":"Watches","url":"/b/ref=nav_shopall_watches?ie=UTF8&node=2235620011"},{"text":"Luggage & Bags","url":"/Luggage/b/ref=nav_shopall_luggage?ie=UTF8&node=6205505011"}]}]}}},"signinContent":{"html":"<div id='nav-signin-tooltip'><a href='/gp/navigation/redirector.html/ref=sign-in-redirect?ie=UTF8&amp;associationHandle=caflex&amp;currentPageURL=https%3A%2F%2Fwww.amazon.ca%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_custrec_signin&amp;pageType=&amp;yshURL=https%3A%2F%2Fwww.amazon.ca%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_custrec_signin' class='nav-action-button' data-nav-role='signin' data-nav-ref='nav_custrec_signin'><span class='nav-action-inner'>Sign in</span></a><div class='nav-signin-tooltip-footer'>New customer? <a href='https://www.amazon.ca/ap/register?_encoding=UTF8&amp;openid.assoc_handle=caflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.ca%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_custrec_newcust' class='nav-a'>Start here.</a></div></div>"},"HealthBeautyGroceryPanel":{"promoID":"nav-sa-health-beauty-grocery","template":{"name":"itemList","data":{"text":"Health, Beauty, & Grocery","items":[{"text":"Health & Beauty","items":[{"text":"Beauty","url":"/Beauty/b/ref=nav_shopall_beauty?ie=UTF8&node=6205124011"},{"text":"Luxury Beauty","url":"/b/ref=nav_shopall_lux_beauty?ie=UTF8&node=13799223011"},{"text":"Health & Personal Care","url":"/Health-Personal-Care/b/ref=nav_shopall_hpc?ie=UTF8&node=6205177011"},{"text":"Baby Care","url":"/b/ref=nav_shopall_bc?ie=UTF8&node=6369682011"},{"text":"Household Supplies","url":"/b/ref=nav_shopall_hhs?ie=UTF8&node=6370518011"}]},{"text":"Grocery","dividerBefore":"1","items":[{"text":"Grocery & Gourmet Food","url":"/grocery/b/ref=nav_shopall_gro?ie=UTF8&node=6967215011"},{"text":"Natural & Organic","url":"/b/ref=nav_shopall_nto?ie=UTF8&node=7393835011"},{"text":"Fresh Flowers","url":"/b/ref=nav_shopall_freshflowers?ie=UTF8&node=2224015011"}]}]}}},"CloudDrivePanel":{"promoID":"nav-sa-cloud-drive","template":{"name":"itemList","data":{"subtext":"Unlimited Storage","text":"Prime Photos & Drive","items":[{"text":"Prime Photos & Drive","items":[{"subtext":"Free for Prime members","text":"Unlimited Photo Storage","url":"/clouddrive/primephotos/ref=nav_shopall_acd_prime"},{"subtext":"Secure storage for photos and more","text":"About Amazon Drive","url":"/clouddrive/home/ref=nav_shopall_acd_about"},{"subtext":"Download the mobile and desktop apps to access your content anywhere","text":"Download the free apps","url":"/clouddrive/home/ref=nav_shopall_acd_freeapps#download-section"},{"subtext":"View and manage your digital content","text":"Sign in","url":"/clouddrive/ref=nav_shopall_acd_urc?_encoding=UTF8&sf=1","extra":"target=\"_blank\""}]}]}}},"ElectronicsPanel":{"promoID":"nav-sa-electronics","template":{"name":"itemList","data":{"text":"Electronics","items":[{"text":"Electronics","items":[{"text":"All Electronics","url":"/electronics-tv-pc-xbmc-gopro-bose/b/ref=nav_shopall_mj_all_electronics?ie=UTF8&node=667823011"},{"text":"Electronics Deals","url":"/electronics-deals-electronics-sale-tv-sale/b/ref=nav_shopall_mj_ce_deals?ie=UTF8&node=2055586011"},{"text":"TV & Video","url":"/roku-television-projector-home-theater-systems/b/ref=nav_shopall_mj_ce_tv?ie=UTF8&node=2690975011"},{"text":"Home Audio & Theatre","url":"/Home-Audio-Electronics/b/ref=nav_shopall_mj_ce_homeaudio?ie=UTF8&node=7337291011"},{"text":"Camera, Photo & Video","url":"/camera-gopro-nikon-canon-photography/b/ref=nav_shopall_mj_ce_camera?ie=UTF8&node=677230011"},{"text":"Cell Phones & Accessories","url":"/cell-phone-phone-cell-phone-cases/b/ref=nav_shopall_mj_ce_cellphone?ie=UTF8&node=3379552011"},{"text":"Bluetooth & Wireless Speakers","url":"/b/ref=nav_shopall_mj_ce_bluetooth?ie=UTF8&node=677226011"},{"text":"Headphones","url":"/headphones-wireless-headphones-bluetooth-headphones/b/ref=nav_shopall_mj_ce_headphones?ie=UTF8&node=680468011"},{"text":"Office Electronics & Supplies","url":"/office-products/b/ref=nav_shopall_mj_ce_office?ie=UTF8&node=6205511011"},{"text":"Car Electronics","url":"/b/ref=nav_shopall_mj_ce_gps?ie=UTF8&node=12638334011"},{"text":"Wearable Technology","url":"/b/ref=nav_shopall_mj_ce_weartech?ie=UTF8&node=11402068011"},{"text":"Smart Home","url":"/b/ref=nav_shopall_mj_ce_homeauto?ie=UTF8&node=16209183011"},{"text":"Musical Instruments","url":"/musical-instruments-stage-studio/b/ref=nav_shopall_mj_ce_musicalins?ie=UTF8&node=6916844011"}]},{"text":"Computers","columnBreak":"1","items":[{"text":"All Computers","url":"/pc-laptop-computer-microsoft-surface/b/ref=nav_shopall_mj_ce_all_comp?ie=UTF8&node=2404990011"},{"text":"Laptops","url":"/laptops-notebooks-laptop-deals-new-laptops/b/ref=nav_shopall_mj_ce_laptops?ie=UTF8&node=677252011"},{"text":"Tablets","url":"/tablet-windows-tablet-android-tablet/b/ref=nav_shopall_mj_ce_tablets?ie=UTF8&node=2690953011"},{"text":"Desktops","url":"/pc-computer-desktop-computers/b/ref=nav_shopall_mj_ce_desktops?ie=UTF8&node=677250011"},{"text":"Amazon Business","url":"/b/ref=nav_shopall_mj_ce_business?ie=UTF8&node=15280933011"},{"text":"Hard Drives, Storage & Memory","url":"/b/ref=nav_shopall_ce_harddrives?ie=UTF8&node=7204527011"},{"text":"Printers & Ink","url":"/brother-printers-printer-canon-printer-toner/b/ref=nav_shopall_ce_printers?ie=UTF8&node=677265011"},{"subtext":"Keyboards, mice, cases, and more","text":"Computer & Tablet Accessories","url":"/Computer-Accessories-Supplies/b/ref=nav_shopall_mj_ce_access?ie=UTF8&node=1235983011"},{"subtext":"Processors, motherboards, fans, and more","text":"PC Components","url":"/Computer-Components/b/ref=nav_shopall_mj_pc_comp?ie=UTF8&node=677273011"},{"text":"PC Gaming","url":"/b/ref=nav_shopall_mj_pc_gaming?ie=UTF8&node=1233055011"}]}]}}},"KindlePanel":{"promoID":"nav-sa-kindle","template":{"name":"itemList","data":{"text":"Kindle","items":[{"text":"Kindle E-readers","items":[{"subtext":"Small, light, and perfect for reading","text":"Kindle","url":"/dp/B0186FET66/ref=nav_shopall_k_ki"},{"subtext":"Our best-selling Kindle—now even better","text":"Kindle Paperwhite","url":"/dp/B00QJDU3KY/ref=nav_shopall_k_kpm"},{"subtext":"Passionately crafted for readers","text":"Kindle Voyage","url":"/dp/B00IOY524S/ref=nav_shopall_k_ods_eink_ie"},{"subtext":"Reimagined design. Perfectly balanced.","text":"Kindle Oasis","url":"/dp/B010EK1GOE/ref=nav_shopall_k_ods_eink_wy"},{"subtext":"Covers, chargers, sleeves and more","text":"Kindle E-reader Accessories","url":"/b/ref=nav_shopall_k_kacce?ie=UTF8&node=2980422011"}]},{"text":"Kindle Store","dividerBefore":"1","items":[{"text":"Kindle Books","url":"/ebooks-kindle/b/ref=nav_shopall_kbo?ie=UTF8&node=2980423011"},{"text":"Kindle Unlimited","url":"/gp/kindle/ku/sign-up/ui/rw/about/ref=nav_shopall_k_ku"}]},{"text":"Kindle Resources","columnBreak":"1","items":[{"subtext":"For PC, iPad, iPhone, Android, and more","text":"Free Kindle Reading Apps","url":"/gp/feature.html/ref=nav_shopall_kcp_ipad_mkt_lnd?ie=UTF8&docId=1000817631"},{"subtext":"Read your Kindle books in a browser","text":"Kindle Cloud Reader","url":"/gp/redirect.html/ref=nav_shopall_kcr?location=https://read.amazon.ca/&token=A7EBBD750EEC41395AADE4BE1D8A7EC9E688A8C6&source=standards","extra":"target=\"_blank\""},{"subtext":"Your content, devices, settings, and more","text":"Manage Your Kindle","url":"/gp/digital/fiona/manage/ref=nav_shopall_myk"}]}]}}},"BoutiquesFrancophonesPanel":{"promoID":"nav-sa-boutiques-francophones","template":{"name":"itemList","data":{"text":"Boutiques Francophones","items":[{"text":"Boutiques Francophones","items":[{"text":"Toutes nos boutiques francophones","url":"/nos-boutiques-francophones/b/ref=nav_shopall_frall?ie=UTF8&node=1036452"},{"text":"Livres","url":"/livres-manuels-scolaires-livres-doccasion/b/ref=nav_shopall_frbo?ie=UTF8&node=916522"},{"text":"Musique","url":"/musique-cd-francophone-classique-occasion/b/ref=nav_shopall_frmu?ie=UTF8&node=962500"},{"text":"Films et Séries télévisées","url":"/dvd-Blu-Ray-Movies-dvds-occasion-series-tele-drame-comedie/b/ref=nav_shopall_frmov?ie=UTF8&node=952796"},{"text":"Logiciels","url":"/logicels-developpement-enfants-finance-utilitaries/b/ref=nav_shopall_frsw?ie=UTF8&node=3330201"}]}]}}},"AutomotivePanel":{"promoID":"nav-sa-automotive","template":{"name":"itemList","data":{"text":"Automotive & Industrial","items":[{"text":"Automotive","items":[{"text":"All Automotive","url":"/automotive/b/ref=nav_shopall_aauto?ie=UTF8&node=6948389011"},{"text":"Maintenance & Care","url":"/b/ref=nav_shopall_gno_auto_maintenance?ie=UTF8&node=6303827011"},{"text":"RV Parts & Accessories","url":"/b/ref=nav_shopall_gno_auto_rv?ie=UTF8&node=6303835011"},{"text":"Motorcycle & ATV","url":"/b/ref=nav_shopall_gno_auto_motorcycle?ie=UTF8&node=6303831011"},{"text":"Automotive Tools","url":"/b/ref=nav_shopall_gno_auto_tools?ie=UTF8&node=6303837011"},{"text":"Replacement Parts","url":"/b/ref=nav_shopall_gno_auto_parts?ie=UTF8&node=6303836011"}]},{"text":"Industrial & Scientific","dividerBefore":"1","items":[{"text":"All Industrial & Scientific","url":"/industrial-scientific/b/ref=nav_shopall_nav_shopall_industrial_all?ie=UTF8&node=11076213011"},{"text":"Lab & Scientific","url":"/b/ref=nav_shopall_nav_shopall_industrial_lab?ie=UTF8&node=11849466011"},{"text":"Janitorial","url":"/b/ref=nav_shopall_nav_shopall_industrial_janitorial?ie=UTF8&node=11849336011"},{"text":"Health & Safety","url":"/b/ref=nav_shopall_nav_shopall_industrial_health?ie=UTF8&node=11850684011"}]}]}}},"AndroidPanel":{"promoID":"nav-sa-android","template":{"name":"itemList","data":{"subtext":"Shop over 375,000 apps and games","text":"Appstore for Android","subtextKey":"android-tagline","items":[{"text":"Appstore for Android","items":[{"text":"Get started with Appstore","url":"/gp/feature.html/ref=nav_shopall_gs_adr_app?ie=UTF8&docId=1001119741"},{"text":"Apps\r\n \r\n","url":"/mobile-apps/b/ref=nav_shopall_adr_app?ie=UTF8&node=6386371011"},{"text":"Games","url":"/b/ref=nav_shopall_adr_gam?ie=UTF8&node=6395714011"},{"subtext":"View your apps and manage your devices","text":"Your Apps and Devices","url":"/gp/mas/your-account/myapps/ref=nav_shopall_sa_menu_adr_yad3"}]}]}}},"wishlistContent":{"template":{"name":"itemList","data":{"items":[{"text":"Create a Wish List","url":"/gp/registry/wishlist/ref=nav__gno_createwl?ie=UTF8&triggerElementID=createList"},{"text":"Find a Wish List","url":"/gp/registry/search.html/ref=nav__gno_listpop_find?ie=UTF8&type=wishlist"},{"subtext":"Add items to your List from anywhere","text":"Wish from Any Website","url":"/wishlist/universal/ref=nav__gno_listpop_uwl"},{"text":"Baby Registry","url":"/baby-reg/homepage/ref=nav__gno_listpop_br"}]}}},"HomePanel":{"promoID":"nav-sa-home","template":{"name":"itemList","data":{"text":"Home, Kitchen, & Pets","items":[{"text":"Home","items":[{"text":"All Home","url":"/b/ref=nav_shopall_home?ie=UTF8&node=2206275011"},{"text":"Furniture","url":"/Furniture-D%C3%A9cor/b/ref=nav_shopall_furnish?ie=UTF8&node=2224017011"},{"text":"Home Décor","url":"/Home-D%C3%A9cor-Furniture/b/ref=nav_shopall_decor?ie=UTF8&node=2224027011"},{"text":"Arts, Crafts & Sewing","url":"/b/ref=nav_shopall_artscrafts?ie=UTF8&node=2224180011"},{"text":"Bedding","url":"/Bedding-Bath/b/ref=nav_shopall_bed?ie=UTF8&node=2223997011"},{"text":"Vacuums & Floorcare","url":"/Vacuums-Floor-Care-Cleaning-Storage/b/ref=nav_shopall_floorcare?ie=UTF8&node=2224210011"},{"text":"Heating & Cooling","url":"/b/ref=nav_shopall_heat?ie=UTF8&node=6646962011"},{"text":"Storage & Organization","url":"/b/ref=nav_shopall_storage?ie=UTF8&node=2224199011"}]},{"text":"Kitchen & Dining","dividerBefore":"1","items":[{"text":"All Kitchen","url":"/Kitchen-Dining/b/ref=nav_shopall_kitchen?ie=UTF8&node=2224068011"},{"text":"Small Appliances","url":"/Small-Appliances-Kitchen-Dining/b/ref=nav_shopall_smallapp?ie=UTF8&node=2224122011"},{"text":"Utensils, Gadgets & Barware","url":"/Kitchen-Utensils-Gadgets-Dining/b/ref=nav_shopall_utensils?ie=UTF8&node=2224106011"},{"text":"Cookware","url":"/b/ref=nav_shopall_cookware?ie=UTF8&node=6647367011"}]},{"text":"Pet Supplies","columnBreak":"1","items":[{"text":"All Pets","url":"/pet-supplies-dog-cat-food-bed-toy/b/ref=nav_shopall_pets?ie=UTF8&node=6205514011"},{"text":"Dogs","url":"/b/ref=nav_shopall_dogs?ie=UTF8&node=6292194011"},{"text":"Cats","url":"/b/ref=nav_shopall_cats?ie=UTF8&node=6291872011"}]}]}}},"ToysBabyPanel":{"promoID":"nav-sa-toys-baby","template":{"name":"itemList","data":{"text":"Toys & Baby","items":[{"text":"Baby","items":[{"text":"All Baby","url":"/b/ref=nav_shopall_allbaby?ie=UTF8&node=3561346011"},{"text":"Nursery","url":"/b/ref=nav_shopall_nursery?ie=UTF8&node=4624322011"},{"text":"Strollers","url":"/b/ref=nav_shopall_strollers?ie=UTF8&node=4624458011"},{"text":"Car Seats","url":"/b/ref=nav_shopall_carseats?ie=UTF8&node=4624450011"},{"text":"Baby & Toddler Toys","url":"/b/ref=nav_shopall_babytoddlertoys?ie=UTF8&node=4624226011"},{"text":"Baby Registry","url":"/baby-reg/homepage/ref=nav_shopall_gno_listpop_br"},{"subtext":"Prime Members get 20% off diapers and more","text":"Amazon Family","url":"/gp/mom/signup/ref=nav_shopall_gno_family"}]},{"text":"Toys & Games","columnBreak":"1","items":[{"text":"All Toys & Games","url":"/Toys-Games/b/ref=nav_shopall_all_toys_games?ie=UTF8&node=6205517011"},{"text":"Arts & Crafts","url":"/b/ref=nav_shopall_gno_toys_arts?ie=UTF8&node=6303770011"},{"text":"Building Toys","url":"/b/ref=nav_shopall_gno_toys_building?ie=UTF8&node=6303772011"},{"text":"Outdoor Play","url":"/b/ref=nav_shopall_gno_toys_outdoor?ie=UTF8&node=6303782011"},{"text":"Games","url":"/b/ref=nav_shopall_gno_toys_games?ie=UTF8&node=6303776011"},{"text":"Action Figures","url":"/b/ref=nav_shopall_gno_toys_actionfigures?ie=UTF8&node=6303769011"},{"text":"Hobby","url":"/b/ref=nav_shopall_gno_toys_hobby?ie=UTF8&node=6303777011"}]}]}}},"SportsOutdoorsPanel":{"promoID":"nav-sa-sports-outdoors","template":{"name":"itemList","data":{"text":"Sports & Outdoors","items":[{"text":"Sports","items":[{"text":"All Sports & Outdoors","url":"/sporting-goods/b/ref=nav_shopall_gno_sports_all?ie=UTF8&node=2242989011"},{"text":"Exercise & Fitness","url":"/b/ref=nav_shopall_gno_sports_exercise?ie=UTF8&node=2406112011"},{"text":"Team Sports","url":"/b/ref=nav_shopall_gno_sports_team?ie=UTF8&node=8793591011"},{"text":"Sports Apparel","url":"https://www.amazon.ca/s/ref=sogno?rh=i%3Asporting%2Cn%3A2242989011%2Cn%3A!2242990011%2Cn%3A8794240011%2Cp_89%3Aadidas|Nike|New Balance|Gaiam|Baleaf|Under Armour|Run Free|Champion|Champion Canada|Gore&bbn=8794240011&sort=popularity-rank&ie=UTF8&pf_rd_m=A3DWYIK6Y9EEQB&pf_rd_s=merchandised-search-4&pf_rd_r=B1DPXAG2WH8X8RZARB3M&pf_rd_t=101&pf_rd_p=2474371702&pf_rd_i=2242989011"},{"text":"Golf","url":"/b/ref=nav_shopall_gno_sports_golf?ie=UTF8&node=2406117011"},{"text":"Leisure Sports & Game Room","url":"/b/ref=nav_shopall_gno_sports_game?ie=UTF8&node=8793071011"}]},{"text":"Outdoors","columnBreak":"1","items":[{"text":"Outdoor Gear","url":"/b/ref=nav_shopall_gno_sports_outdoor?ie=UTF8&node=8793184011"},{"text":"Hunting & Fishing","url":"/b/ref=nav_shopall_gno_sports_hunting?ie=UTF8&node=8792934011"},{"text":"Winter Sports","url":"/b/ref=nav_shopall_gno_sports_winter?ie=UTF8&node=8793492011"},{"text":"Action Sports","url":"/b/ref=nav_shopall_gno_sports_action?ie=UTF8&node=8792257011"},{"text":"Cycling","url":"/b/ref=nav_shopall_gno_sports_cycling?ie=UTF8&node=2406106011"},{"text":"Boating & Water Sports","url":"/b/ref=nav_shopall_gno_sports_boating?ie=UTF8&node=8792408011"}]}]}}},"MoviesTvPanel":{"promoID":"nav-sa-movies-tv","template":{"name":"itemList","data":{"text":"Movies & TV Shows","items":[{"text":"All Movies & TV Shows","url":"/dvd-movies-bluray-tv-3d/b/ref=nav_shopall_mov?ie=UTF8&node=917972"},{"text":"Blu-ray","url":"/Blu-ray-DVD-Blu-Ray-Moviess/b/ref=nav_shopall_blu?ie=UTF8&node=128060011"},{"text":"New & Future Releases","url":"/New-Future-Releases-DVD/b/ref=nav_shopall_nfr?ie=UTF8&node=1003044"},{"text":"Movies & TV Shows in French","url":"/dvd-Blu-Ray-Movies-dvds-occasion-series-tele-drame-comedie/b/ref=nav_shopall_mtf?ie=UTF8&node=952796"}]}}},"ToolsPanel":{"promoID":"nav-sa-tools","template":{"name":"itemList","data":{"text":"Tools, Patio & Garden","items":[{"text":"Tools & Home Improvement","items":[{"text":"All Tools & Home Improvement","url":"/Home-Improvement/b/ref=nav_shopall_atools?ie=UTF8&node=3006902011"},{"text":"Power Tools & Accessories","url":"/b/ref=nav_shopall_ptools?ie=UTF8&node=3094787011"},{"text":"Hand Tools","url":"/b/ref=nav_shopall_htools?ie=UTF8&node=3094788011"},{"text":"Electrical","url":"/b/ref=nav_shopall_gno_tool_electrical?ie=UTF8&node=3111732011"},{"text":"Kitchen & Bath Fixtures","url":"/b/ref=nav_shopall_gno_tool_kitchen?ie=UTF8&node=3111813011"},{"text":"Hardware","url":"/b/ref=nav_shopall_ca_gno_tool_hardware?ie=UTF8&node=3094789011"},{"text":"Home Improvement","url":"/b/ref=nav_shopall_gno_tool_hi?ie=UTF8&node=3111721011"}]},{"text":"Patio & Garden","dividerBefore":"1","items":[{"text":"All Patio & Garden","url":"/Patio-Lawn-Garden/b/ref=nav_shopall_allout?ie=UTF8&node=6205499011"},{"text":"Gardening","url":"/b/ref=nav_shopall_gardening?ie=UTF8&node=2224149011"},{"text":"Outdoor Furniture & Décor","url":"/b/ref=nav_shopall_patio?ie=UTF8&node=2224158011"},{"text":"Barbecues & Grilling","url":"/b/ref=nav_shopall_bbq?ie=UTF8&node=6257202011"},{"text":"Lawn Mowers & Outdoor Tools","url":"/b/ref=nav_shopall_mowers?ie=UTF8&node=6257267011"}]}]}}},"VideogamesPanel":{"promoID":"nav-sa-videogames","template":{"name":"itemList","data":{"text":"Video Games","items":[{"text":"Video Games","items":[{"text":"All Video Games","url":"/video-games-hardware-accessories/b/ref=nav_shopall_vg?ie=UTF8&node=3198031"},{"text":"Game Hardware","url":"/Hardware/b/ref=nav_shopall_vghw?ie=UTF8&node=3234241"},{"text":"Today's Deals","url":"/Video-Games-Deals/b/ref=nav_shopall_vgdeal?ie=UTF8&node=1267154011"},{"text":"New & Future Releases","url":"/New-Future-Releases/b/ref=nav_shopall_vgnewreleases?ie=UTF8&node=3234211"}]}]}}},"SoftwarePanel":{"promoID":"nav-sa-software","template":{"name":"itemList","data":{"text":"Software","items":[{"text":"Software","items":[{"text":"All Software","url":"/software-business-education-finance-childrens/b/ref=nav_shopall_sw?ie=UTF8&node=3198021"},{"text":"Business & Office Software","url":"/Business-Office-Software-Forms-Plans/b/ref=nav_shopall_bizsw?ie=UTF8&node=3314471"},{"text":"Today's Deals","url":"/b/ref=nav_shopall_swdeal?ie=UTF8&node=4650542011"},{"text":"Tax Central","url":"/b/ref=nav_shopall_taxcentral?ie=UTF8&node=13447588011"}]}]}}},"yourAccountContent":{"template":{"name":"itemList","data":{"items":[{"text":"Your Account","url":"/gp/css/homepage.html/ref=nav_youraccount_ya"},{"text":"Your Orders","url":"/gp/css/order-history/ref=nav_youraccount_orders","id":"nav_prefetch_yourorders"},{"text":"Your Wish List","url":"/gp/registry/wishlist/ref=nav_youraccount_wl?ie=UTF8&requiresSignIn=1"},{"text":"Your Recommendations","url":"/gp/yourstore/ref=nav_youraccount_recs"},{"text":"Your Subscribe & Save Items","url":"/gp/subscribe-and-save/manager/viewsubscriptions/ref=nav_youraccount_sns"},{"text":"Your Prime Membership","url":"/gp/primecentral/ref=nav_youraccount_prime"},{"text":"Manage Your Content and Devices","url":"/gp/digital/fiona/manage/ref=nav_youraccount_myk","dividerBefore":"1"},{"text":"Your Kindle Unlimited","url":"/gp/kindle/ku/ku_central/ref=nav_youraccount_ku"},{"text":"Your Amazon Drive","url":"/clouddrive/ref=nav_youraccount_clddrv"},{"text":"Your Apps & Devices\r\n","url":"/gp/mas/your-account/myapps/ref=nav_youraccount_aad"}]}},"signInHtml":"<div id='nav-flyout-ya-signin' class='nav-flyout-content'><a href='/gp/navigation/redirector.html/ref=sign-in-redirect?ie=UTF8&amp;associationHandle=caflex&amp;currentPageURL=https%3A%2F%2Fwww.amazon.ca%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_signin&amp;pageType=&amp;yshURL=https%3A%2F%2Fwww.amazon.ca%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_signin' rel='nofollow' class='nav-action-button' data-nav-role='signin' data-nav-ref='nav_signin'><span class='nav-action-inner'>Sign in</span></a><div id='nav-flyout-ya-newCust' class='nav_pop_new_cust nav-flyout-content'>New customer? <a href='https://www.amazon.ca/ap/register?_encoding=UTF8&amp;openid.assoc_handle=caflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.ca%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_newcust' rel='nofollow' class='nav-a'>Start here.</a></div></div>"},"BooksPanel":{"promoID":"nav-sa-books","template":{"name":"itemList","data":{"text":"Books","items":[{"text":"All Books","url":"/books-used-books-textbooks/b/ref=nav_shopall_bo?ie=UTF8&node=916520"},{"text":"Books in French","url":"/livres-manuels-scolaires-livres-doccasion/b/ref=nav_shopall_frbooks?ie=UTF8&node=916522"},{"text":"Kindle Books","url":"/ebooks-kindle/b/ref=nav_shopall_kbo?ie=UTF8&node=2980423011"},{"text":"Kindle Books in French","url":"/kindle-french-books/b/ref=nav_shopall_kbo?ie=UTF8&node=5794627011"},{"text":"Kindle Unlimited","url":"/gp/kindle/ku/sign-up/ui/rw/about/ref=nav_shopall_k_ku"},{"text":"Textbooks","url":"/New-Used-Textbooks-Books/b/ref=nav_shopall_tb?ie=UTF8&node=15115321"},{"text":"Children's Books","url":"/Childrens-Books/b/ref=nav_shopall_child?ie=UTF8&node=935948"}]}}},"cartContent":{"html":"<div id='nav-cart-flyout' class='nav-empty nav-flyout-content' data-one='{count} item' data-many='{count} items'><div class='nav-dynamic-full'><div id='nav-cart-standard' class='nav-cart-content'><a href='/gp/cart/view.html/ref=nav_flyout_viewcart?ie=UTF8&amp;hasWorkingJavascript=1' class='nav-cart-title'>Items in your Cart</a><div class='nav-cart-subtitle'></div><div class='nav-cart-items'></div></div><div id='nav-cart-pantry' class='nav-cart-content' data-box='' data-boxes='{count} boxes' data-box-filled='{pct}% filled' data-boxes-filled='{pct}% filled in current box'><a href='/gp/cart/view.html/ref=nav_flyout_viewcart?ie=UTF8&amp;hasWorkingJavascript=1' class='nav-cart-title'>Prime Pantry Items</a><div class='nav-cart-subtitle'></div><div class='nav-cart-items'></div></div><div id='nav-cart-fresh' class='nav-cart-content'><a href='/gp/cart/view.html/ref=nav_flyout_viewcart?ie=UTF8&amp;hasWorkingJavascript=1' class='nav-cart-title'><img id='nav-cart-fresh-logo' src='https://images-na.ssl-images-amazon.com/images/G/15/gno/ec-logo-fresh-color.jpg'></a><div class='nav-cart-subtitle'></div><div class='nav-cart-items'></div></div></div><div class='nav-ajax-message'></div><div class='nav-dynamic-empty'><p class='nav_p nav-bold nav-cart-empty'> Your Shopping Cart is empty.</p><p class='nav_p '> Give it purpose&mdash;fill it with books, DVDs, clothes, electronics, and more.</p><p class='nav_p '> If you already have an account, <a href='/gp/navigation/redirector.html/ref=sign-in-redirect?ie=UTF8&associationHandle=caflex&currentPageURL=https%3A%2F%2Fwww.amazon.ca%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_signin_cart&pageType=&yshURL=https%3A%2F%2Fwww.amazon.ca%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dnav_signin_cart' class='nav_a'>sign in</a>.</p></div><div class='nav-ajax-error-msg'></div><div id='nav-cart-footer'><a href='/gp/cart/view.html/ref=nav_flyout_viewcart?ie=UTF8&amp;hasWorkingJavascript=1' id='nav-cart-menu-button' class='nav-action-button'><span class='nav-action-inner'>View Cart<span id='nav-cart-menu-button-count' ><span id='nav-cart-zero'>(<span class='nav-cart-count'>0</span> items)</span><span id='nav-cart-one' style='display: none;'>(<span class='nav-cart-count'>0</span> item)</span><span id='nav-cart-many' style='display: none;'>(<span class='nav-cart-count'>0</span> items)</span></span></span></a></div></div>"},"templates":{"asin-promo":"<a href='<#=destination #>' class='nav_asin_promo'>  <img src='<#=image #>' class='nav_asin_promo_img'/>  <span class='nav_asin_promo_headline'><#=headline #></span>  <span class='nav_asin_promo_info'>    <span class='nav_asin_promo_title'><#=productTitle #></span>    <span class='nav_asin_promo_title2'><#=productTitle2 #></span>    <span class='nav_asin_promo_price'><#=price #></span>  </span>  <span class='nav_asin_promo_button nav-sprite'><#=button #></span></a>","discoveryPanelList":"<# var renderItems = function(items) { #>    <span class='nav-dp-title nav-item'>    Deliveries at a glance    <div class='nav-divider-container'><div class='nav-divider'></div></div></span>    <# jQuery.each(items, function (i, item) { #>        <span class='nav-item'>            <a href='<#=item.order_link#>' class='nav-dp-link'>                <span class='nav-dp-left-column'>                    <img src='<#=item.image#>' class='nav-dp-image'/>                </span>                <span class='nav-dp-right-column'>                    <span class='nav-dp-text <#=item.status#>'>                        <#=item.status_text#>                        <br/>                    </span>                    <# if(item.secondary_status_text) { #>                        <span class='nav-dp-text-secondary <#=item.status#>'>                            <#=item.secondary_status_text#>                        </span>                    <# } #>                </span>            </a>            <div class='nav-divider-container'><div class='nav-divider'></div></div>        </span>  <# }); #>  <a href='/your-orders/ref=nav_dp_ayo' class='nav-dp-link-emphasis'>      View all orders  </a><# }; #><# renderItems(items); #>","itemList":"<# var hasColumns = (function () {  var checkColumns = function (_items) {    if (!_items) {      return false;    }    for (var i=0; i<_items.length; i++) {      if (_items[i].columnBreak || (_items[i].items && checkColumns(_items[i].items))) {        return true;      }    }    return false;  };  return checkColumns(items);}()); #><# if(hasColumns) { #>  <# if(items[0].image && items[0].image.src) { #>    <div class='nav-column nav-column-first nav-column-image'>  <# } else if (items[0].greeting) { #>    <div class='nav-column nav-column-first nav-column-greeting'>  <# } else { #>    <div class='nav-column nav-column-first'>  <# } #><# } #><# var renderItems = function(items) { #>  <# jQuery.each(items, function (i, item) { #>    <# if(hasColumns && item.columnBreak) { #>      <# if(item.image && item.image.src) { #>        </div><div class='nav-column nav-column-notfirst nav-column-break nav-column-image'>      <# } else if (item.greeting) { #>        </div><div class='nav-column nav-column-notfirst nav-column-break nav-column-greeting'>      <# } else { #>        </div><div class='nav-column nav-column-notfirst nav-column-break'>      <# } #>    <# } #>    <# if(item.dividerBefore) { #>      <div class='nav-divider'></div>    <# } #>    <# if(item.text || item.content) { #>      <# if(item.url) { #>        <a href='<#=item.url #>' class='nav-link      <# } else {#>        <span class='      <# } #>      <# if(item.panelKey) { #>        nav-hasPanel      <# } #>      <# if(item.items) { #>        nav-title      <# } #>      <# if(item.decorate == 'carat') { #>        nav-carat      <# } #>      <# if(item.decorate == 'nav-action-button') { #>        nav-action-button      <# } #>      nav-item'      <# if(item.extra) { #>        <#=item.extra #>      <# } #>      <# if(item.id) { #>        id='<#=item.id #>'      <# } #>      <# if(item.dataNavRole) { #>        data-nav-role='<#=item.dataNavRole #>'      <# } #>      <# if(item.dataNavRef) { #>        data-nav-ref='<#=item.dataNavRef #>'      <# } #>      <# if(item.panelKey) { #>        data-nav-panelkey='<#=item.panelKey #>'        role='navigation'        aria-label='<#=item.text#>'      <# } #>      <# if(item.subtextKey) { #>        data-nav-subtextkey='<#=item.subtextKey #>'      <# } #>      <# if(item.image && item.image.height > 16) { #>        style='line-height:<#=item.image.height #>px;'      <# } #>      >      <# if(item.decorate == 'carat') { #>        <i class='nav-icon'></i>      <# } #>      <# if(item.image && item.image.src) { #>        <img class='nav-image' src='<#=item.image.src #>' style='height:<#=item.image.height #>px; width:<#=item.image.width #>px;' />      <# } #>      <# if(item.text) { #>        <span class='nav-text<# if(item.classname) { #> <#=item.classname #><# } #>'><#=item.text#><# if(item.badgeText) { #>          <span class='nav-badge'><#=item.badgeText#></span>        <# } #></span>      <# } else if (item.content) { #>        <span class='nav-content'><# jQuery.each(item.content, function (j, cItem) { #><# if(cItem.url && cItem.text) { #><a href='<#=cItem.url #>' class='nav-a'><#=cItem.text #></a><# } else if (cItem.text) { #><#=cItem.text#><# } #><# }); #></span>      <# } #>      <# if(item.subtext) { #>        <span class='nav-subtext'><#=item.subtext #></span>      <# } #>      <# if(item.url) { #>        </a>      <# } else {#>        </span>      <# } #>    <# } #>    <# if(item.image && item.image.src) { #>      <# if(item.url) { #>        <a href='<#=item.url #>'>       <# } #>      <img class='nav-image'      <# if(item.id) { #>        id='<#=item.id #>'      <# } #>      src='<#=item.image.src #>' <# if (item.alt) { #> alt='<#= item.alt #>'<# } #>/>      <# if(item.url) { #>        </a>       <# } #>    <# } #>    <# if(item.avatar) { #>      <span class='nav-avatar-container'>      <a href='<#=item.avatar.link #>' class='nav-avatar-image-link' <# if (item.alt) { #> alt='<#= item.alt #>'<# } #>>      </a>      </span>    <# } #>    <# if(item.items) { #>      <div class='nav-panel'> <# renderItems(item.items); #> </div>    <# } #>  <# }); #><# }; #><# renderItems(items); #><# if(hasColumns) { #>  </div><# } #>","notificationsList":"<div class='nav-item nav-title'>  Notifications</div><# jQuery.each(items || [], function (i, item) { #>  <div class='nav-item<# if (item.type) { #> nav-noti-list-<#= item.type #><# } #><# if (item.image && item.image.src) { #> nav-noti-list-with-image<# } #>'>    <# if (item.dismissId) { #>      <div class='nav-noti-list-x' data-noti-id='<#= item.dismissId #>'>&times;</div>    <# } #>    <# if (item.image && item.image.src) { #>      <div class='nav-noti-list-image'>        <img class='nav-noti-list-image-tag' src='<#= item.image.src #>' <# if (item.image.alt) { #> alt='<#= item.image.alt #>'<# } #> <# if (item.image.title) { #> title='<#= item.image.title #>'<# } #>/>      </div>    <# } #>    <# if (item.heading) { #>      <div class='nav-noti-list-heading'><#= item.heading #></div>    <# } #>    <# jQuery.each(item.content || [], function (j, itemContent) { #>      <# if (itemContent.url) { #>        <a href='<#= itemContent.url #>' class='nav-noti-list-content'>      <# } else { #>        <div class='nav-noti-list-content'>      <# } #>        <# if (itemContent.text) { #>          <span class='nav-noti-list-text'><#= itemContent.text #></span>        <# } #>        <# if (itemContent.subtext) { #>          <span class='nav-noti-list-subtext'><#= itemContent.subtext #></span>        <# } #>      <# if (itemContent.url) { #>        </a>      <# } else { #>        </div>      <# } #>    <# }); #>  </div><# }); #>","discoveryPanelSummary":"    <span class='nav-dp-title nav-item'>    Deliveries at a glance    <div class='nav-divider-container'><div class='nav-divider'></div></div></span>    <# jQuery.each(items || [], function (i, item) { #>        <span class='nav-item'>            <span class='nav-dp-left-column'>                <img src='<#=item.image.url#>' class='nav-dp-image' height='<#=item.image.height#>'/>            </span>            <span class='nav-dp-right-column'>                <#=item.status_text#>                <div class='nav-dp-secondary-row'>                    <a href='/your-orders/ref=nav_dp_ryo' class='nav-dp-link-emphasis'>                        Sign in to view orders                    </a>                </div>            </span>        </span>    <# }); #>","htmlList":"  <# jQuery.each(items, function (i, item) { #>    <div class='nav-item'>      <#=item #>    </div>  <# }); #>","subnav":"<# if (obj && obj.type === 'vertical') { #>  <# jQuery.each(obj.rows, function (i, row) { #>    <# if (row.flyoutElement === 'button') { #>      <div class='nav_sv_fo_v_button'        <# if (row.elementStyle) { #>          style='<#= row.elementStyle #>'        <# } #>      >        <a href='<#=row.url #>' class='nav-action-button nav-sprite'>          <#=row.text #>        </a>      </div>    <# } else if (row.flyoutElement === 'list' && row.list) { #>      <# jQuery.each(row.list, function (j, list) { #>        <div class='nav_sv_fo_v_column <#=(j === 0) ? 'nav_sv_fo_v_first' : '' #>'>          <ul class='<#=list.elementClass #>'>          <# jQuery.each(list.linkList, function (k, link) { #>            <# if (k === 0) { link.elementClass += ' nav_sv_fo_v_first'; } #>            <li class='<#=link.elementClass #>'>              <# if (link.url) { #>                <a href='<#=link.url #>' class='nav_a'><#=link.text #></a>              <# } else { #>                <span class='nav_sv_fo_v_span'><#=link.text #></span>              <# } #>            </li>          <# }); #>          </ul>        </div>      <# }); #>    <# } else if (row.flyoutElement === 'link') { #>      <# if (row.topSpacer) { #>        <div class='nav_sv_fo_v_clear'></div>      <# } #>      <div class='<#=row.elementClass #>'>        <a href='<#=row.url #>' class='nav_sv_fo_v_lmargin nav_a'>          <#=row.text #>        </a>      </div>    <# } #>  <# }); #><# } else if (obj) { #>  <div class='nav_sv_fo_scheduled'>    <#= obj #>  </div><# } #>","wishlist":"<# jQuery.each(wishlist, function (i, item) { #>  <li class='nav_pop_li'>    <a href='<#=item.url #>' class='nav_a'>      <#=item.name #>    </a>    <div class='nav_tag'>      <!-- TODO this logic should now be in dynamic-wish-list.mi -->      <# if(typeof item.count !='undefined') { #>        <#=          (item.count == 1 ? '{count} item' : '{count} items')            .replace('{count}', item.count)        #>      <# } #>    </div>  </li><# }); #>","cart":"<# jQuery.each(items, function (i, item) { #>  <div class='nav-cart-item'>    <a href='<#=item.url #>' class='nav-cart-item-link'>      <img src='<#=item.img #>' class='nav-cart-item-image' />      <span class='nav-cart-item-title'><#=item.name #></span>      <# if (item.weight) { #>        <span class='nav-cart-item-weight' style='display:none;'>          <#= 'Ship weight: {value} {unit}'.replace('{value}', item.weight.value).replace('{unit}', item.weight.unit) #>        </span>      <# } #>      <# if (item.ourPrice) { #>        <span class='nav-cart-item-buyingPrice'><#=item.ourPrice #></span>      <# } #>      <# if (item.scarcityMessage) { #>        <span class='<#=item.scarcityClass #>'><#=item.scarcityMessage #></span>      <# } #>      <span class='nav-cart-item-quantity'>        <#= 'Quantity: {count}'.replace('{count}', item.qty) #>      </span>    </a>  </div>  <# if (i%2==1) { #>    <div class='nav-cart-item-break'></div>  <# } #><# }); #><div class='nav-cart-item-break'></div>"}}); });
+</script>
+
+  <script type='text/javascript'>
+      window.$Nav && $Nav.declare('config.prefetchUrls', ["https://images-na.ssl-images-amazon.com/images/G/01/authportal/common/images/amznbtn-sprite03._CB395592492_.png","https://images-na.ssl-images-amazon.com/images/G/15/authportal/common/images/amazon_logo_no-org_mid._CB143113042_.png","https://images-na.ssl-images-amazon.com/images/G/15/authportal/flex/reduced-nav/ap-flex-reduced-nav-2.0._CB309092050_.js","https://images-na.ssl-images-amazon.com/images/G/15/authportal/flex/reduced-nav/ap-flex-reduced-nav-2.1._CB343921038_.css","https://images-na.ssl-images-amazon.com/images/G/15/gno/sprites/nav-sprite-global_bluebeacon-1x_optimized._CB530517411_.png","https://images-na.ssl-images-amazon.com/images/G/15/x-locale/common/buttons/sign-in-secure._CB192565642_.gif","https://images-na.ssl-images-amazon.com/images/G/15/x-locale/common/login/fwcim._CB511195005_.js","https://images-na.ssl-images-amazon.com/images/G/15/x-locale/common/transparent-pixel._CB386942483_.gif"]);
+window.$Nav && $Nav.declare('config.prefetch',function() {
+    var pUrls = window.$Nav.getNow('config.prefetchUrls');
+    (window.AmazonUIPageJS ? AmazonUIPageJS : P).when('A').execute(function (A) { A.preload(pUrls); });
+});
+
+  /* nav-config-asset-injection CA::desktop::standard::101729:C::isSecure=1::preload navc-FCCx6hOwLr6QUw9G3a0xn/wGwVufZ14ZED+GoinRvDJvqh25Z3X2BUzZ+PkKKBEm rid-0GMSVRZ1EGRABV96KRPP seq-704 (Tue May  9 05:10:39 2017) **CACHED-BY-NCCC** */
+  
+(window.AmazonUIPageJS ? AmazonUIPageJS : P).when('A').execute(function(A){
+  if(A.preload){
+    A.preload('https://images-na.ssl-images-amazon.com/images/I/01JFM6wegIL._RC|71yzyoDwfOL.js,51JHbx1NTzL.js,01A18a0oAWL.js,41dxgjlitrL.js,010XVa0zfKL.js,01wBjiz9OvL.js,21QhSEq5BwL.js,31GGfm3oEPL.js,51p6hnDqAKL.js_.js?AUIClients/NavDesktopMetaAsset#desktop');
+    A.preload('https://images-na.ssl-images-amazon.com/images/I/61%2BWIwJcRgL._RC|01GLjU+hieL.css,31+C8rQtOEL.css,21E1MhZOpTL.css,31AMpirNLiL.css,01NHva6qGRL.css,21i6ONZOxQL.css_.css?AUIClients/NavDesktopMetaAsset#desktop');
+  }
+});
+
+
+
+    window.$Nav && $Nav.declare('config.flyoutURL', null);
+    window.$Nav && $Nav.declare('btf.lite');
+    window.$Nav && $Nav.declare('btf.full');
+    window.$Nav && $Nav.declare('btf.exists');
+    (window.AmazonUIPageJS ? AmazonUIPageJS : P).register('navCF');
+  </script>
+<!-- btf tilu -->
+
+
+<!-- sp:feature:host-btf -->
+
+  
+    
+      <div id="SponsoredLinksGateway">
+        <script>
+          function a9_sl_sessionCacheUpdateHandler ($) {
+            var browserWidth = $(window).width();
+            var browserHeight = $(window).height();
+
+            // Make a request to the session cache update handler in Gurupa
+            $.post('/gp/product/sessionCacheUpdateHandler.html', 
+               { 'sessionCacheUpdateFlag' : '1',
+                 'pageType'               : 'Gateway',
+                 'browserWidth'           : browserWidth,
+                 'browserHeight'          : browserHeight,
+                 'token'                  : "fVoboEDsYMjWCjzTN8sCObLZif2/oaBmQ3S2N5KuRr8="
+               },
+               function(data) {}
+            );
+          }
+          P.when('A', 'jQuery').execute(function (A, $) {
+            A.on.load(function () {a9_sl_sessionCacheUpdateHandler($);});
+          });
+        </script>
+      </div>
+  
+  
+  
+</div><!-- sp:end-feature:host-btf -->
+<!-- sp:feature:aui-preload -->
+<script>
+(window.AmazonUIPageJS ? AmazonUIPageJS : P).when('A').execute(function(A) {
+  if(A.preload){
+    A.preload('https://images-na.ssl-images-amazon.com/images/I/61tHvuwljLL._RC|11IYhapguOL.js,61-anKG688L.js,012FVc3131L.js,31pYyxAZJRL.js,31Qll8kfk9L.js,516fQ5+zVmL.js,11UpGvgfZkL.js,01xMsWWFUQL.js,11KkQiUpBPL.js,113pP0Sfh0L.js,2165o9D43oL.js,01PoLXBDXWL.js,61F9FmTULWL.js,01BBu+b9t0L.js,01rpauTep4L.js_.js?AUIClients/AmazonUI');
+    A.preload('https://images-na.ssl-images-amazon.com/images/I/51ilsA4kpHL._RC|010Q14DPSqL.css,31UnHJU99yL.css,019QJXy+TaL.css,11FQDXHaMgL.css,11Wrw8ni2NL.css,11g4ZqMHAkL.css,21Pd9HarLOL.css,015uc33ipFL.css,21gWnx45PiL.css,018Tc5FIgWL.css,11U6TmZEZFL.css,01pVbSC-RPL.css,11Fd9tJOdtL.css,21ULbzscqzL.css,11WgRxUdJRL.css,01TvogYZ+AL.css,01G4hnpC1nL.css,01SHjPML6tL.css,11JSiRuDLmL.css,01LNZ6vG2wL.css,31CtRvGpsfL.css_.css?AUIClients/AmazonUI#not-trident.96511-T1');
+  }
+});
+</script>
+<!-- sp:feature:nav-footer -->
+<!-- footer pilu -->
+
+
+
+
+
+<div class='navLeftFooter nav-sprite-v1' id='navFooter'><a href="#nav-top" id="navBackToTop"><div class="navFooterBackToTop"><span class="navFooterBackToTopText">Back to top</span></div></a>
+
+<table class="navFooterVerticalColumn" cellspacing="0" align="center" role="presentation"><tr><td class="navFooterLinkCol"><div class="navFooterColHead">Get to Know Us</div><ul><li class='nav_first'><a href='https://www.amazon.jobs' class='nav_a'>Careers</a></li><li><a href='/gp/help/customer/display.html/ref=footer_corpres?ie=UTF8&amp;nodeId=200700220' class='nav_a'>Amazon and Our Planet</a></li><li><a href='http://www.amazon.ca:80/gp/redirect.html/ref=footer_ir?_encoding=UTF8&amp;location=http%3A%2F%2Fphx.corporate-ir.net%2Fphoenix.zhtml%3Fc%3D97664%26p%3Dirol-irhome&amp;source=standards&amp;token=F9CAD8A11D4336B5E0B3C3B089FA066D0A467C1C' class='nav_a'>Investor Relations</a></li><li class='nav_last'><a href='http://www.amazon.ca:80/gp/redirect.html/ref=footer_pr?_encoding=UTF8&amp;location=http%3A%2F%2Fphx.corporate-ir.net%2Fphoenix.zhtml%3Fc%3D176060%26p%3Dirol-mediaHome&amp;source=standards&amp;token=F9CAD8A11D4336B5E0B3C3B089FA066D0A467C1C' class='nav_a'>Press Releases</a></li></ul></td><td class="navFooterColSpacerInner"></td><td class="navFooterLinkCol"><div class="navFooterColHead">Make Money with Us</div><ul><li class='nav_first'><a href='/b/ref=footer_sell?_encoding=UTF8&amp;ld=AZCASOA-footer&amp;node=15664730011' class='nav_a'>Sell on Amazon</a></li><li><a href='https://associates.amazon.ca' class='nav_a'>Amazon Associates</a></li><li><a href='https://advertising.amazon.ca?ref_=a20m-hp-ft-ca' class='nav_a'>Advertise Your Products</a></li><li class='nav_last'><a href='https://kdp.amazon.com?language=en_US' class='nav_a'>Independently Publish with Us</a></li></ul></td><td class="navFooterColSpacerInner"></td><td class="navFooterLinkCol"><div class="navFooterColHead">Amazon Payment Products</div><ul><li class='nav_first'><a href='/gp/cobrandcard/marketing.html/ref=footer_cbcc_ca_en?ie=UTF8&amp;plattr=CACBFOOT&amp;pr=con31ca' class='nav_a'>Amazon.ca Rewards Visa Cardmembers</a></li><li><a href='/gp/shopwithpoints/marketing.html/ref=footer_swp?ie=UTF-8&amp;inc=swpamexcamr&amp;pr=swpamexcamr' class='nav_a'>Shop with Points</a></li><li><a href='/compare-canada-credit-card-offers/b/ref=footer_ccmp_ca_en?ie=UTF8&amp;node=3230544011' class='nav_a'>Credit Card Marketplace</a></li><li><a href='/gp/gc/create/ref=footer_reload_ca' class='nav_a'>Reload Your Balance</a></li><li class='nav_last'><a href='/b/ref=footer_tfx_ca_en?ie=UTF8&amp;node=8438004011' class='nav_a'>Amazon Currency Converter</a></li></ul></td><td class="navFooterColSpacerInner"></td><td class="navFooterLinkCol"><div class="navFooterColHead">Let Us Help You</div><ul><li class='nav_first'><a href='/gp/help/customer/display.html/ref=footer_shiprates?ie=UTF8&amp;nodeId=915470' class='nav_a'>Shipping Rates & Policies</a></li><li><a href='/gp/prime/ref=footer_prime' class='nav_a'>Amazon Prime</a></li><li><a href='/gp/css/returns/homepage.html/ref=footer_hy_f_4' class='nav_a'>Returns Are Easy</a></li><li><a href='/gp/digital/fiona/manage/ref=footer_myk' class='nav_a'>Manage your Content and Devices</a></li><li class='nav_last'><a href='/gp/help/customer/display.html/ref=footer_gw_m_b_he?ie=UTF8&amp;nodeId=915404' class='nav_a'>Customer Service</a></li></ul></td></tr></table><div class="nav-footer-line"></div>
+
+<div class="navFooterLine navFooterLinkLine navFooterPadItemLine"><span><div class="navFooterLine navFooterLogoLine"><a href="/ref=footer_logo"><div class="nav-logo-base nav-sprite"></div></a></div>
+</span><ul></ul><span class="icp-container-desktop"><div class="navFooterLine">
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<style type="text/css">
+  #icp-touch-link-language { display: none; }
+</style>    
+
+<a href="/gp/customer-preferences/select-language/ref=footer_lang?ie=UTF8&preferencesReturnUrl=%2F" class="icp-button" id="icp-touch-link-language">
+  <div class="icp-nav-globe-img-2 icp-button-globe-2"></div
+  ><span class="icp-color-base">English</span
+  ><span class="nav-arrow icp-up-down-arrow"></span>
+</a>
+
+
+
+
+
+
+
+
+<style type="text/css">
+#icp-touch-link-country { display: none; }
+</style>
+
+  
+<a href="/gp/navigation-country/select-country/ref=?ie=UTF8&preferencesReturnUrl=%2F" class="icp-button" id="icp-touch-link-country">
+  <span class="icp-flag-3 icp-flag-3-ca"></span
+  ><span class="icp-color-base">Canada</span>
+</a>
+
+
+
+</div>
+</span><ul></ul></div>
+
+<div class="navFooterLine navFooterLinkLine navFooterDescLine"><table class="navFooterMoreOnAmazon" cellspacing="0"><tr>
+<td class="navFooterDescItem"><a href='https://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&amp;sc_campaign=CA_amazonfooter' class='nav_a'>Amazon Web Services<br/> <span class="navFooterDescText">Scalable Cloud<br/> Computing Services</span></a></td>
+<td class="navFooterDescSpacer" style="width: 4%"></td>
+<td class="navFooterDescItem"><a href='https://www.bookdepository.com/' class='nav_a'>Book Depository<br/> <span class="navFooterDescText">Books With Free<br/> Delivery Worldwide</span></a></td>
+<td class="navFooterDescSpacer" style="width: 4%"></td>
+<td class="navFooterDescItem"><a href='https://www.goodreads.com/' class='nav_a'>Goodreads<br/> <span class="navFooterDescText">Book reviews<br/> & recommendations</span></a></td>
+</tr>
+<tr><td>&nbsp;</td></tr>
+<tr>
+<td class="navFooterDescItem"><a href='https://www.imdb.com/' class='nav_a'>IMDb<br/> <span class="navFooterDescText">Movies, TV<br/> & Celebrities</span></a></td>
+<td class="navFooterDescSpacer" style="width: 4%"></td>
+<td class="navFooterDescItem"><a href='https://www.shopbop.com/ca/welcome' class='nav_a'>Shopbop<br/> <span class="navFooterDescText">Designer<br/> Fashion Brands</span></a></td>
+<td class="navFooterDescSpacer" style="width: 4%"></td>
+<td class="navFooterDescItem"><a href='/b/ref=footer_warehouse_deals?ie=UTF8&amp;node=8929975011' class='nav_a'>Warehouse Deals<br/> <span class="navFooterDescText">Open-Box<br/> Discounts</span></a></td>
+</tr>
+</table></div>
+
+<div class="navFooterLine navFooterLinkLine navFooterPadItemLine navFooterCopyright"><ul><li class='nav_first'><a href='/gp/help/customer/display.html/ref=footer_cou?ie=UTF8&amp;nodeId=918816' class='nav_a'>Conditions of Use</a></li><li><a href='/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&amp;nodeId=918814' class='nav_a'>Privacy Notice</a></li><li class='nav_last'><a href='/interestbasedads/ref=footer_iba_en' class='nav_a'>Interest-Based Ads</a></li></ul><span>© 2008-2017, Amazon.com, Inc. or its affiliates</span><ul></ul></div>
+</div><!-- whfh-qd+VdXFz2hTC/ugspWQehaZ0+cIf8e5E7R4X+BU5Ezrv/+MhvHpEc8rWIzX3BnO6 rid-79PJJ0FT95ANE4TQB90S -->
+<div id="sis_pixel_r2" aria-hidden="true" style="height:1px; position: absolute; left: -1000000px; top: -1000000px;"></div><script>(function(a,b){a.attachEvent?a.attachEvent("onload",b):a.addEventListener&&a.addEventListener("load",b,!1)})(window,function(){setTimeout(function(){var el=document.getElementById("sis_pixel_r2");el&&(el.innerHTML='<iframe id="DAsis" src="//s.amazon-adsystem.com/iu3?d=amazon.ca&slot=navFooter&a2=0101d19b6eb36d432580dd96cf0a0a400b35f26701190817d4c4608a8c018b7d6051&old_oo=0&cb=1494335730565" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>')},300)});</script><!-- footer tilu -->
+
+
+<div id='be' style="display:none;visibility:hidden;"><form name='ue_backdetect' action="get"><input type="hidden" name='ue_back' value='1' /></form>
+
+
+    <script type="text/javascript">
+var ue_mbl=ue_csm.ue.exec(function(e,a){function k(f){b=f||{};a.AMZNPerformance=b;b.transition=b.transition||{};b.timing=b.timing||{};e.ue.exec(l,"csm-android-check")()&&b.tags instanceof Array&&(f=-1!=b.tags.indexOf("usesAppStartTime")||b.transition.type?!b.transition.type&&-1<b.tags.indexOf("usesAppStartTime")?"warm-start":void 0:"view-transition",f&&(b.transition.type=f));"reload"===d._nt&&e.ue_orct||"intrapage-transition"===d._nt?a.performance&&performance.timing&&performance.timing.navigationStart?
+b.timing.transitionStart=a.performance.timing.navigationStart:delete b.timing.transitionStart:"undefined"===typeof d._nt&&a.performance&&performance.timing&&performance.timing.navigationStart&&a.history&&"function"===typeof a.History&&"object"===typeof a.history&&history.length&&1!=history.length&&(b.timing.transitionStart=a.performance.timing.navigationStart);f=b.transition;var c;c=d._nt?d._nt:void 0;f.subType=c;a.ue&&a.ue.tag&&a.ue.tag("has-AMZNPerformance");d.isl&&a.uex&&uex("at","csm-timing");
+m()}function n(b){a.ue&&a.ue.count&&a.ue.count("csm-cordova-plugin-failed",1)}function l(){return a.webclient&&"function"===typeof a.webclient.getRealClickTime?a.cordova&&a.cordova.platformId&&"ios"==a.cordova.platformId?!1:!0:!1}function m(){try{P.register("AMZNPerformance",function(){return b})}catch(a){}}function g(){if(!b)return"";ue_mbl.cnt=null;var a=b.transition,c;c=b.timing.transitionStart;c="undefined"!==typeof c&&"undefined"!==typeof h?c-h:void 0;a=["mts",c,"mtt",a.type,"mtst",a.subType,
+"mtlt",a.launchType];c="";for(var d=0;d<a.length;d+=2){var e=a[d],g=a[d+1];"undefined"!==typeof g&&(c+="&"+e+"="+g)}return c}function p(a,c){b&&(h=c,b.timing.transitionStart=a,b.transition.type="view-transition",b.transition.subType="ajax-transition",b.transition.launchType="normal",ue_mbl.cnt=g)}var d=e.ue||{},h=e.ue_t0,b;if(a.P&&a.P.when&&a.P.register)return a.P.when("CSMPlugin").execute(function(a){a.buildAMZNPerformance&&a.buildAMZNPerformance({successCallback:k,failCallback:n})}),{cnt:g,ajax:p}},
+"mobile-timing")(ue_csm,window);
+
+(function(d){d._uess=function(){var a="";screen&&screen.width&&screen.height&&(a+="&sw="+screen.width+"&sh="+screen.height);var b=function(a){var b=document.documentElement["client"+a];return"CSS1Compat"===document.compatMode&&b||document.body["client"+a]||b},c=b("Width"),b=b("Height");c&&b&&(a+="&vw="+c+"&vh="+b);return a}})(ue_csm);
+
+(function(a){var b=document.ue_backdetect;b&&b.ue_back&&a.ue&&(a.ue.bfini=b.ue_back.value);a.uet&&a.uet("be");a.onLdEnd&&(window.addEventListener?window.addEventListener("load",a.onLdEnd,!1):window.attachEvent&&window.attachEvent("onload",a.onLdEnd));a.ueh&&a.ueh(0,window,"load",a.onLd,1);a.ue&&a.ue.tag&&(a.ue_furl&&a.ue_furl.split?(b=a.ue_furl.split("."))&&b[0]&&a.ue.tag(b[0]):a.ue.tag("nofls"))})(ue_csm);
+(function(g,h){function d(a,d){var b={};if(!e||!f)try{var c=h.sessionStorage;c?a&&("undefined"!==typeof d?c.setItem(a,d):b.val=c.getItem(a)):f=1}catch(g){e=1}e&&(b.e=1);return b}var b=g.ue||{},a="",f,e,c,a=d("csmtid");f?a="NA":a.e?a="ET":(a=a.val,a||(a=b.oid||"NI",d("csmtid",a)),c=d(b.oid),c.e||(c.val=c.val||0,d(b.oid,c.val+1)),b.ssw=d);b.tabid=a})(ue_csm,window);
+ue_csm.ue.exec(function(e,f){var a=e.ue||{},b=a._wlo,d;if(a.ssw){d=a.ssw("CSM_previousURL").val;var c=f.location,b=b?b:c&&c.href?c.href.split("#")[0]:void 0;c=(b||"")===a.ssw("CSM_previousURL").val;!c&&b&&a.ssw("CSM_previousURL",b);d=c?"reload":d?"intrapage-transition":"first-view"}else d="unknown";a._nt=d},"NavTypeModule")(ue_csm,window);
+
+
+(function(b,c){var a=c.images;a&&a.length&&b.ue.count("totalImages",a.length)})(ue_csm,document);
+
+
+ue_csm.ue._rtn = 1;
+(function(e,f){function h(a){a=a.split("?")[0]||a;a=a.replace("http://","").replace("https://","").replace("resource://","").replace("res://","").replace("undefined://","").replace("chrome://","").replace(/\*/g,"").replace(/!/g,"").replace(/~/g,"");var b=a.split("/");a=a.substr(a.lastIndexOf("/")+1);b.splice(-1);b=b.map(function(a){c[a]||(c[a]=(k++).toString(36));return c[a]});b.push(a);return b.join("!")}function l(){return f.getEntriesByType("resource").filter(function(a){return d._rre(a)<d._ld}).sort(function(a,
+b){return a.responseEnd-b.responseEnd}).splice(0,m).map(function(a){var b=[],c;for(c in a)g[c]&&a[c]&&b.push(g[c]+Math.max(a[c]|0,-1).toString(36));b.push("i"+a.initiatorType);(1==d._rtn&&d._afjs>n||2==d._rtn)&&b.push("n"+h(a.name));return b.join("_")}).join("*")}function p(){var a="pm",b;for(b in c)c.hasOwnProperty(b)&&(a+="*"+c[b]+"_"+b);return a}function q(){d.log({k:"rtiming",value:l()+"~"+p()},"csm")}if(f&&f.getEntriesByType&&Array.prototype.map&&Array.prototype.filter&&e.ue&&e.ue.log){var g=
+{connectStart:"c",connectEnd:"C",domainLookupStart:"d",domainLookupEnd:"D",duration:"z",fetchStart:"f",redirectStart:"r",redirectEnd:"R",requestStart:"q",responseStart:"s",responseEnd:"S",startTime:"a"},d=e.ue,c={},k=1,n=20,m=200;d&&d._rre&&(d._art=function(){d._ld&&window.setTimeout(q,0)})}})(ue_csm||{},window.performance);
+
+
+(function(c,d){var b=c.ue,a=d.navigator;b&&b.tag&&a&&(a=a.connection||a.mozConnection||a.webkitConnection)&&a.type&&b.tag("netInfo:"+a.type)})(ue_csm,window);
+
+
+(function(c,d){function h(a,b){for(var c=[],d=0;d<a.length;d++){var e=a[d],f=b.encode(e);if(e[k]){var g=b.metaSep,e=e[k],l=b.metaPairSep,h=[],m=void 0;for(m in e)e.hasOwnProperty(m)&&h.push(m+"="+e[m]);e=h.join(l);f+=g+e}c.push(f)}return c.join(b.resourceSep)}function s(a){var b=a[k]=a[k]||{};b[t]||(b[t]=c.ue_mid);b[u]||(b[u]=c.ue_sid);b[f]||(b[f]=c.ue_id);b.csm=1;a="//"+c.ue_furl+"/1/"+a[v]+"/1/OP/"+a[w]+"/"+a[x]+"/"+h([a],y);if(n)try{n.call(d[p],a)}catch(g){c.ue.sbf=1,(new Image).src=a}else(new Image).src=
+a}function q(){g&&g.isStub&&g.replay(function(a,b,c){a=a[0];b=a[k]=a[k]||{};b[f]=b[f]||c;s(a)});l.impression=s;g=null}if(!(1<c.ueinit)){var k="metadata",x="impressionType",v="foresterChannel",w="programGroup",t="marketplaceId",u="session",f="requestId",p="navigator",l=c.ue||{},n=d[p]&&d[p].sendBeacon,r=function(a,b,c,d){return{encode:d,resourceSep:a,metaSep:b,metaPairSep:c}},y=r("","?","&",function(a){return h(a.impressionData,z)}),z=r("/",":",",",function(a){return a.featureName+":"+h(a.resources,
+A)}),A=r(",","@","|",function(a){return a.id}),g=l.impression;n?q():(l.attach("load",q),l.attach("beforeunload",q));d.P&&d.P.register&&d.P.register("impression-client",function(){})}})(ue_csm,window);
+
+
+
+
+var ue_pty = "Gateway";
+
+var ue_spty = "desktop-unrec";
+
+var ue_pti = "desktop-unrec";
+
+
+
+</script>
+
+</div>
+
+<noscript>
+    <img height="1" width="1" style='display:none;visibility:hidden;' src='//fls-na.amazon.ca/1/batch/1/OP/A2EUQ1WTGCTBG2:145-8981527-6943311:79PJJ0FT95ANE4TQB90S$uedata=s:%2Fgp%2Fuedata%3Fnoscript%26id%3D79PJJ0FT95ANE4TQB90S:0' alt=""/>
+</noscript>
+</div></body></html>
+<!--       _
+       .__(.)< (MEOW)
+        \___)   
+ ~~~~~~~~~~~~~~~~~~-->
+<!-- sp:eh:g7E7Qow50SXSM98tXVwZOqAjDA+GHVb+gZu1ms/l4nEv/LeBkMkgg9jOpChDIYWOztGXsp5+l9FMDTcldl7F7AzveIpkRDJx4ZL9VRmH8xQ1nw2wb4d7qA== -->

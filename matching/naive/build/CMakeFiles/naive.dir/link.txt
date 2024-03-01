@@ -1,0 +1,1 @@
+/usr/bin/c++  -O2 -rdynamic CMakeFiles/naive.dir/main.cpp.o CMakeFiles/naive.dir/utils.cpp.o -o naive 

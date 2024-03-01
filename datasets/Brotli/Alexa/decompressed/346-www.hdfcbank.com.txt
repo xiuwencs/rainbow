@@ -1,0 +1,1904 @@
+<!DOCTYPE html>
+<html lang="en_US"><head><META http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>HDFC Bank: Personal Banking Services</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=device-width, minimum-scale=1.0,user-scalable=no"><meta name="description" content="Personal Banking Services from HDFC Bank: Offers a wide range of personal banking services including savings and current accounts, credit cards, loans, mortgages and insurance to meet your personal needs"><meta name="keywords" content="personal banking, personal banking services, banking services, personal finance, nri banking, wholesale banking, personal financial services, personal banking india, financial services, accounts, deposits, investment & insurance, forex, trade services, payments services, private banking, hdfc bank, india"><meta name="mobile-enabled" content="true"><meta name="google-site-verification" content="NclBMVDHj_gnEVvdIP1GiMFZvdFlh_sUbaAQtX5OvFg"><meta name="page-client-device" content="desktop"><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"><link rel="stylesheet" href="/assets/css/common.css" type="text/css"><link rel="stylesheet" href="/assets/css/ceebox_min_rewardPopup.css" type="text/css"><link rel="stylesheet" href="/assets/css/Decultter_css/homepagenew.css" type="text/css"><script type="text/javascript" src="/assets/scripts/jquerylibrary.js"></script><script type="text/javascript" src="/assets/scripts/navigation.js"></script><script type="text/javascript" src="/assets/scripts/jquerycustomslider.js"></script><script type="text/javascript" src="/assets/scripts/jqueryparsestring.js"></script><script type="text/javascript" src="/assets/scripts/jquery.autocomplete.js"></script><script type="text/javascript" src="/assets/scripts/common.js"></script><script type="text/javascript" src="/assets/scripts/atmcode.js"></script><script type="text/javascript" src="/assets/scripts/jquery.autocomplete_search.js"></script><script type="text/javascript" src="/assets/scripts/accordiantabcode.js"></script><script type="text/javascript" src="/assets/scripts/jquery.tweet.js"></script><script type="text/javascript" src="/assets/scripts/customjqueryceebox.js"></script><script type="text/javascript" src="/assets/scripts/screen-takeover.js"></script><script type="text/javascript" src="/assets/scripts/jquery.cookie.js"></script><script type="text/javascript" src="/assets/scripts/ie6include.js"></script><script type="text/javascript" src="/assets/scripts/hompagelogin.js"></script><script type="text/javascript" src="/assets/scripts/Decultter_js/smartsearch.js"></script><script type="text/javascript">
+ 
+var _vwo_code=(function(){
+var account_id=173603,
+settings_tolerance=2000,
+library_tolerance=2500,
+use_existing_jquery=false,
+// DO NOT EDIT BELOW THIS LINE
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+
+</script></head><body><script>
+			
+				(function(w,d,s,l,i){
+					w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+					var f=d.getElementsByTagName(s)[0],
+					j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+				})(window,document,'script','dataLayer','GTM-K7RG59');
+			
+		</script><div id="" class="centerComponents"><script type="text/javascript">
+            //var info_search = new Array('327','searchform');
+            $(window).load(function()
+            {
+                    $(".loginbox_bottom .loginboxlinks #loginsubmit").click(function()
+                    {	
+                            netbankinglogin('popup');
+                    });
+                    $(".loginbox_bottom .loginboxlinks #knowmore").click(function()
+                    {	
+                            netbankinglogin('knowmore');
+                    });
+                    $(".loginbox_bottom .loginboxlinks #register").click(function()
+                    {	
+                            netbankinglogin('register');
+                    });
+
+                   
+            });
+
+            function submitenter_search(e) {
+                    var intKey = (window.Event) ? e.which : e.keyCode;
+                    if (intKey == 13) { //enter key
+                            document.searchform.submit();
+                            return true;
+                    }
+            }
+
+        </script><div  >
+<div class="topnav_wrapper">
+<div class="topnav">
+<div class="hygeinenav">
+<ul>
+<li>
+<a href="/aboutus/default.htm?src=hp_top_nav" title="about us" target="_self"><span>About Us</span></a>
+</li>
+<li>
+<a href="/personal/customer-centre?src=hp_top_nav" title="Customer Centre" target="_self"><span>Customer Centre</span></a>
+</li>
+<li>
+<a href="/aboutus/careers/default.htm?src=hp_top_nav" title="careers" target="_self"><span>Careers</span></a>
+</li>
+<li>
+<a href="/htdocs/aboutus/csr/index.html?src=hp_top_nav" title="Corporate Social Responsibility" target="_self"><span>CSR</span></a>
+</li>
+</ul>
+</div>
+<div class="sectionnav">
+<ul>
+<li class="selected">
+<a target="" href="http://www.hdfcbank.com">Personal</a>
+</li>
+<li>
+<a target="" href="/personal/HNW_Banking/hnw_banking">Premier</a>
+</li>
+<li>
+<a target="" href="/nri_banking/home.htm">NRI</a>
+</li>
+<li>
+<a target="" href="/sme/sme-homepage">SME</a>
+</li>
+<li>
+<a target="" href="/wholesale/default.htm">Wholesale</a>
+</li>
+<li>
+<a target="_blank" href="/htdocs/common/agri/index.html">Agri</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="headerWrapper">
+<div class="header clearfix">
+<div class="sfSearchWrap"></div>
+<div class="logo">
+<a href="http://www.hdfcbank.com"><img src="/assets/images/logo_hdfcbank.gif" alt="HDFC Bank logo"></a>
+</div>
+<form id="searchform" name="searchform" action="/search/HDFC_Search.jsp" method="post">
+<div style="display: block;" class="search">
+<input value="Search?" onfocus="if (this.value=='Search?')this.value=''" onblur="if (this.value=='')this.value='Search?';" onkeypress="submitenter_search(event);" name="user_search" autocomplete="off" id="user_search" type="text"><input src="/assets/images/bg_searchgo.gif" alt="Go" class="gobutn" type="image">
+</div>
+</form>
+<div class="datetime" style="display: none">
+<div class="top"></div>
+<div class="mid clearfix">
+<p>Our branches and phone banking numbers are now closed. You can still apply for any product online by clicking 
+                        <a href="#">here</a>. 
+                    </p>
+<a href="#"><img src="/assets/images/impmessageclose.png" alt="Close"></a>
+</div>
+<div class="bottom"></div>
+</div>
+</div>
+<div class="sfSearchPopup modal"></div>
+<div class="navigation">
+<ul>
+<li>
+<div class="menutext">
+<a href="http://www.hdfcbank.com/" target="" class="mainlink"><img src="/assets/images/home-iconNew.jpg"></a>
+</div>
+<div class="menutext">
+<img src="/assets/images/nav-dropdwn.jpg" alt="Pointer" class="pointer"></div>
+</li>
+<li class="productWrap select">
+<div class="menutext">
+<a class="mainlink" target="" href="/personal/products">Products</a><img src="/assets/images/nav-dropdwn.jpg" alt="Pointer" class="pointer"></div>
+<div style="display: none;" class="dropdownWrap">
+<div class="topcrv"></div>
+<div class="midcrv">
+<div class="lhssection">
+<ul>
+<li class="selected">
+<a class="mainlink" target="" href="/personal/products/accounts-and-deposits">Accounts &amp; Deposits</a>
+</li>
+<li>
+<a class="mainlink" target="" href="/personal/products/loans">Loans</a>
+</li>
+<li>
+<a class="mainlink" target="" href="/personal/products/cards">Cards</a>
+</li>
+<li>
+<a class="mainlink" target="" href="/personal/products/demat">Demat</a>
+</li>
+<li>
+<a class="mainlink" target="" href="/personal/products/investments">Investments</a>
+</li>
+<li>
+<a class="mainlink" target="" href="/personal/products/insurance">Insurance</a>
+</li>
+<li>
+<a class="mainlink" target="" href="/personal/products/forex">Forex</a>
+</li>
+<li>
+<a class="mainlink" target="" href="/personal/HNW_Banking/hnw_banking?id=gts8minz">Premier Banking</a>
+</li>
+<li>
+<a class="mainlink" target="_blank" href="http://www.hdfcbank.com/privatebanking">Private Banking</a>
+</li>
+</ul>
+</div>
+<div style="min-height: 360px;" class="rhssection">
+<div class="innerNavs" style="display: block; min-height: 360px; width:520px;">
+<div class="innerNavContainer">
+<ul>
+<li>
+<a target="" href="/personal/products/accounts-and-deposits/savings-account">Savings Account</a>
+</li>
+<li>
+<a target="" href="/personal/products/accounts-and-deposits/salary-accounts">Salary Accounts</a>
+</li>
+<li>
+<a target="" href="/personal/products/accounts-and-deposits/current-accounts">Current Accounts</a>
+</li>
+<li>
+<a target="" href="/personal/products/accounts-and-deposits/deposits">Deposits</a>
+</li>
+<li>
+<a target="" href="/personal/products/accounts-and-deposits/safe-deposit-locker">Safe Deposit Locker</a>
+</li>
+<li>
+<a target="" href="/personal/products/accounts-and-deposits/rural-accounts">Rural Accounts</a>
+</li>
+<li>
+<a target="" href="/personal/products/accounts-and-deposits/pension-accounts">Pension Accounts</a>
+</li>
+</ul><div class="right_banner" style="height: 200px;"><span class="navbannerurl">/assets/images/main_nav/products/dhtml-savings-account_v5.jpg</span></div>
+<!--
+<div class="right_banner" style="height: 200px;"><a href="https://leads.hdfcbank.com/applications/new_webforms/apply/credit-card/Index.aspx?promo=P4_DHTML_Cards_CC&amp;ct=Credit_Card&amp;txtName=&amp;txtMobile=&amp;selCity=&amp;Refsite=&amp;sourcecode=&amp;Creative=&amp;Adunit=&amp;flgReward=&amp;FormSource=Old&amp;chkAuthorize=" mce_href="https://leads.hdfcbank.com/applications/new_webforms/apply/credit-card/Index.aspx?promo=P4_DHTML_Cards_CC&amp;ct=Credit_Card&amp;txtName=&amp;txtMobile=&amp;selCity=&amp;Refsite=&amp;sourcecode=&amp;Creative=&amp;Adunit=&amp;flgReward=&amp;FormSource=Old&amp;chkAuthorize=" target="_blank"><span class="navbannerurl">/assets/images/main_nav/products/dhtml-savings-account_v5.jpg</span> </a></div>
+--></div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul>
+<li>
+<a target="" href="/personal/products/loans/personal-loan">Personal Loan</a>
+</li>
+<li>
+<a target="" href="/personal/products/loans/car-loans">Car Loans</a>
+</li>
+<li>
+<a target="" href="/personal/products/loans/business-loan">Business Loan</a>
+</li>
+<li>
+<a target="" href="/personal/products/cards/loan-on-credit-card">Loan on Credit Card</a>
+</li>
+<li>
+<a target="" href="/personal/products/loans/loans-for-professionals">Loans for professionals</a>
+</li>
+<li>
+<a target="" href="/personal/products/loans/loans-against-assets/loan-against-securities">Loan Against Securities</a>
+</li>
+<li>
+<a target="" href="/personal/products/loans/home-loan">Home Loan</a>
+</li>
+<li>
+<a target="" href="/personal/products/loans/two-wheeler-loans">Two Wheeler Loans</a>
+</li>
+<li>
+<a target="" href="/personal/products/loans/gold-loan">Gold Loan</a>
+</li>
+<li>
+<a target="" href="/personal/products/loans/loan-against-property">Loan Against Property</a>
+</li>
+<li>
+<a target="" href="/personal/products/loans/educational-loan">Educational Loan</a>
+</li>
+<li>
+<a target="" href="/personal/products/loans/government-sponsored-programs">Government Sponsored Programs</a>
+</li>
+<li>
+<a target="" href="/personal/products/loans/rural-loans">Rural Loans</a>
+</li>
+<li>
+<a target="" href="/personal/products/loans/smartdraft-overdraft-against-salary">Smartdraft - Overdraft Against Salary</a>
+</li>
+<li>
+<a target="" href="/personal/products/loans/loans-against-assets">Loans Against Assets</a>
+</li>
+<li>
+<a target="" href="/personal/products/loans/consumer-durable-loan">Consumer Durable Loan</a>
+</li>
+</ul><p>&nbsp;</p>
+<!--
+<div class="right_banner"><span class="navbannerurl">/assets/images/main_nav/products/car_bazar_dhtml_25092013.jpg</span> <a href="https://leads.hdfcbank.com/applications/misc/bannercounter/bannercounter_2009.asp?banname=car_bazar_dhtml_25092013" mce_href="https://leads.hdfcbank.com/applications/misc/bannercounter/bannercounter_2009.asp?banname=car_bazar_dhtml_25092013" target="_blank"><img src="/assets/images/main_nav/nav_knowmore.gif" mce_src="/assets/images/main_nav/nav_knowmore.gif" alt="Know More" align="right" /></a></div>
+--><!--
+<div class="right_banner"><span class="navbannerurl">/assets/images/main_nav/products/CL_dhtml.jpg</span> <a class="ceebox" onclick="ceeboxpopup(this,'https://www.hdfcbanksmartapply.com/car-loan/compare-interest-rates.html?WT.mc_id=P4_DHTML_CL','click2talk_popup' ,469,460)" rel="width=440 height=460"><img src="/assets/images/main_nav/header_applynow.gif" mce_src="/assets/images/main_nav/header_applynow.gif" alt="Talk Now" align="right" /></a></div>
+--><!--
+<div class="right_banner"><span class="navbannerurl">/assets/images/main_nav/products/CL_dhtml.jpg</span> <a href="https://www.hdfcbanksmartapply.com/car-loan/compare-interest-rates.html?WT.mc_id=P4_DHTML_CL" mce_href="https://www.hdfcbanksmartapply.com/car-loan/compare-interest-rates.html?WT.mc_id=P4_DHTML_CL" target="_blank"><img src="/assets/images/main_nav/header_applynow.gif" mce_src="/assets/images/main_nav/header_applynow.gif" alt="Talk Now" align="right" /></a></div>
+--><!--08/01/2016
+<div class="right_banner" style="height: 200px;"><a onclick="dataLayer.push({'event':'GAevent', 'gaEventCategory':'DHTML_loans', 'gaEventAction':'Click', 'gaEventLabel':'winter_carnival_PL_020116'});" href="https://netbanking.hdfcbank.com/netbanking/" mce_href="https://netbanking.hdfcbank.com/netbanking/" target="_blank"><span class="navbannerurl">/assets/images/main_nav/products/DHTML_PL_winter-carnival_020116.jpg</span></a></div>
+--><!--
+<div class="right_banner" style="height: 200px;"><a onclick="dataLayer.push({'event':'GAevent', 'gaEventCategory':'DHTML_loans', 'gaEventAction':'Click', 'gaEventLabel':'winter_carnival_PL_080116'});" href="https://netbanking.hdfcbank.com/netbanking/" mce_href="https://netbanking.hdfcbank.com/netbanking/" target="_blank"><span class="navbannerurl">/assets/images/main_nav/products/DHTML_PL_winter-carnival_080116.jpg</span></a></div>
+--></div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul>
+<li>
+<a target="" href="/personal/products/cards/credit_cards">Credit Cards</a>
+</li>
+<li>
+<a target="" href="/personal/products/cards/debit-cards">Debit Cards</a>
+</li>
+<li>
+<a target="" href="/personal/products/cards/prepaid-cards">Prepaid Cards</a>
+</li>
+<li>
+<a target="" href="/personal/rewards/simple-rewards-catalogue">Credit Card Rewards Program</a>
+</li>
+<li>
+<a target="" href="/personal/products/cards/loan-on-credit-card">Loan on Credit Card</a>
+</li>
+</ul><p>&nbsp;</p>
+<!--
+<div class="right_banner" style="height: 200px;"><a href="https://leads.hdfcbank.com/applications/new_webforms/apply/credit-card/Index.aspx?promo=P4_DHTML_Cards_CC&amp;ct=Credit_Card&amp;txtName=&amp;txtMobile=&amp;selCity=&amp;Refsite=&amp;sourcecode=&amp;Creative=&amp;Adunit=&amp;flgReward=&amp;FormSource=Old&amp;chkAuthorize=" mce_href="https://leads.hdfcbank.com/applications/new_webforms/apply/credit-card/Index.aspx?promo=P4_DHTML_Cards_CC&amp;ct=Credit_Card&amp;txtName=&amp;txtMobile=&amp;selCity=&amp;Refsite=&amp;sourcecode=&amp;Creative=&amp;Adunit=&amp;flgReward=&amp;FormSource=Old&amp;chkAuthorize=" target="_blank"><span class="navbannerurl">/assets/images/main_nav/products/DHTML-cards-080116.jpg</span> </a></div>
+--><!--
+<div class="right_banner" style="height: 200px;"><a href="https://leads.hdfcbank.com/applications/new_webforms/apply/credit-card/Index.aspx?promo=P4_DHTML_Cards_CC&amp;ct=Credit_Card&amp;txtName=&amp;txtMobile=&amp;selCity=&amp;Refsite=&amp;sourcecode=&amp;Creative=&amp;Adunit=&amp;flgReward=&amp;FormSource=Old&amp;chkAuthorize=" mce_href="https://leads.hdfcbank.com/applications/new_webforms/apply/credit-card/Index.aspx?promo=P4_DHTML_Cards_CC&amp;ct=Credit_Card&amp;txtName=&amp;txtMobile=&amp;selCity=&amp;Refsite=&amp;sourcecode=&amp;Creative=&amp;Adunit=&amp;flgReward=&amp;FormSource=Old&amp;chkAuthorize=" target="_blank"><span class="navbannerurl">/assets/images/main_nav/products/DHTML-cards-09102015.jpg</span> </a></div>
+--><!--
+<div class="right_banner"><span class="navbannerurl">/assets/images/main_nav/products/cards.jpg</span> <a href="http://offers.smartbuy.hdfcbank.com/offer_details/44537/cc_online_shopping1" mce_href="http://offers.smartbuy.hdfcbank.com/offer_details/44537/cc_online_shopping1" target="_blank"><img src="/assets/images/main_nav/nav_knowmore.gif" mce_src="/assets/images/main_nav/nav_knowmore.gif" alt="" align="right" /></a></div>
+--></div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul>
+<li>
+<a target="" href="/personal/products/demat/demat-account">Demat Account</a>
+</li>
+<li>
+<a target="" href="/personal/products/demat/2-in-1-account">2 in 1 Account</a>
+</li>
+<li>
+<a target="" href="/personal/products/demat/3-in-1-account">3 in 1 Account</a>
+</li>
+<li>
+<a target="_blank" href="/htdocs/common/diy_investing/index.htm">Investment Assist</a>
+</li>
+</ul><div class="right_banner" style="height: 200px;"><a href="https://leads.hdfcbank.com/applications/webforms/apply/HDFC_Demat_Acquisition/index.aspx?_ga=2.245501388.996854999.1493803901-1615733595.1493367287" target="_blank"><span class="navbannerurl">/assets/images/Banner254x222-2.jpg</span> </a></div></div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul>
+<li>
+<a target="" href="/personal/products/investments/investtrack">InvestTrack</a>
+</li>
+<li>
+<a target="" href="/personal/products/investments/investment-products">Investment Products</a>
+</li>
+<li>
+<a target="_blank" href="/assets/popuppages/investment-advisory.htm">Investment Advisory Group Reports</a>
+</li>
+<li>
+<a target="" href="/personal/products/investments/public-provident-fund">Public Provident Fund</a>
+</li>
+<li>
+<a target="" href="/personal/products/investments/sukanya-samriddhi-account">Sukanya Samriddhi Account</a>
+</li>
+</ul><div class="right_banner"><span class="navbannerurl">/assets/images/main_nav/products/investments.jpg</span><span class="nav_knowmore"><a href="/personal/products/investments/investment-products"><img src="/assets/images/main_nav/nav_knowmore.gif" alt="" /></a></span></div></div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul>
+<li>
+<a target="" href="/personal/products/insurance/life-insurance">Life Insurance</a>
+</li>
+<li>
+<a target="" href="/personal/products/insurance/health-insurance">Health Insurance</a>
+</li>
+<li>
+<a target="" href="/personal/products/insurance/motor-insurance">Motor Insurance</a>
+</li>
+<li>
+<a target="" href="/personal/products/insurance/travel-insurance">Travel Insurance</a>
+</li>
+<li>
+<a target="" href="/personal/products/insurance/home-insurance">Home Insurance</a>
+</li>
+<li>
+<a target="" href="/personal/products/insurance/two-wheeler-insurance">Two Wheeler Insurance</a>
+</li>
+<li>
+<a target="" href="/personal/products/insurance/student-travel-insurance-suraksha">Student Travel Insurance Suraksha</a>
+</li>
+</ul><div class="right_banner"><span class="navbannerurl">/assets/images/main_nav/products/LI-dhtml.jpg</span><span class="nav_knowmore"><a href="https://leads.hdfcbank.com/applications/webforms/apply/HDFC_Life_Click2Protect/index.aspx?promocode=P4_CatPg_BuyOnline_C2Pplus&amp;_ga=1.164853372.2135094615.1422527504" target="_blank"><img src="/assets/images/main_nav/nav_knowmore.gif" alt="" /></a></span></div>
+<!--
+<div class="right_banner"><span class="navbannerurl">/assets/images/main_nav/products/LI-nav.jpg</span><span class="nav_knowmore"><a href="https://leads.hdfcbank.com/applications/misc/bannercounter/bannercounter_2009.asp?banname=li-nav" mce_href="https://leads.hdfcbank.com/applications/misc/bannercounter/bannercounter_2009.asp?banname=li-nav" target="_blank"><img src="/assets/images/main_nav/nav_knowmore.gif" mce_src="/assets/images/main_nav/nav_knowmore.gif" alt="" /></a></span></div>
+--></div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul>
+<li>
+<a target="" href="/personal/products/forex/travel-solutions">Travel Solutions</a>
+</li>
+<li>
+<a target="" href="/personal/products/forex/remittance-products">Remittance Products</a>
+</li>
+<li>
+<a target="" href="/personal/products/forex/other-forex-services">Other Forex Services</a>
+</li>
+<li>
+<a target="" href="/personal/products/forex/forex-help">Forex Help</a>
+</li>
+<li>
+<a target="_blank" href="https://getprepaidcard.hdfcbank.com/?_ga=1.240580160.271422517.1430885424">Buy ForexCard</a>
+</li>
+</ul><div class="right_banner" style="height: 200px;"><a href="https://leads.hdfcbank.com/applications/webforms/apply/HDFC_LACC/Index.aspx?Promocode=p4_Website_Categorypagebnnr_261016" target="_blank"><span class="navbannerurl">/assets/images/main_nav/products/Loan_on_Credit_Card_in_1_Sec_Banner.jpg</span> </a></div></div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul>
+<li>
+<a target="" href="/personal/hnw/hnw-detail?id=gts8miso&amp;path=imperia-banking">Imperia Banking</a>
+</li>
+<li>
+<a target="" href="/personal/hnw/preferred-banking?id=gts8misp&amp;path=preferred-banking">Preferred Banking</a>
+</li>
+<li>
+<a target="" href="/personal/hnw/classic-banking?id=gts8misq&amp;path=classic-banking">Classic Banking</a>
+</li>
+<li>
+<a target="" href="/personal/hnw/prime-banking">Prime Banking</a>
+</li>
+</ul><div class="right_banner"><span class="navbannerurl">/assets/images/main_nav/products/premium_banking.jpg</span><span class="nav_knowmore"><a href="/personal/HNW_Banking/hnw_banking"><img src="/assets/images/main_nav/nav_knowmore.gif" alt="" /></a></span></div></div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul></ul><p>&nbsp;</p>
+<!--
+<div class="right_banner"><span class="navbannerurl">/assets/images/main_nav/products/private_banking.jpg</span><span class="nav_knowmore"><a href="http://www.hdfcbank.com/privatebanking/" mce_href="http://www.hdfcbank.com/privatebanking/" target="_blank"><img src="/assets/images/main_nav/nav_knowmore.gif" mce_src="/assets/images/main_nav/nav_knowmore.gif" alt="" /></a></span></div>
+--></div>
+</div>
+</div>
+</div>
+<div class="btmcrv"></div>
+</div>
+</li>
+<li class="paymentWrap ">
+<div class="menutext">
+<a class="mainlink" target="" href="/personal/making_payments/making-payments-landing">Making payments</a><img src="/assets/images/nav-dropdwn.jpg" alt="Pointer" class="pointer"></div>
+<div style="display: none;" class="dropdownWrap">
+<div class="topcrv"></div>
+<div class="midcrv">
+<div class="lhssection">
+<ul>
+<li class="selected">
+<span class="mainlink">Pay with PayZapp</span>
+</li>
+<li>
+<a class="mainlink" target="" href="/personal/find-your-nearest/Multipaypoint-for-Tax-Bills-Fees-Donations-CreditCards">Pay via SmartHub</a>
+</li>
+<li>
+<span class="mainlink">Pay via Samsung Pay</span>
+</li>
+<li>
+<a class="mainlink" target="" href="/personal/making_payments/payment-services-tool">Find the best payment option</a>
+</li>
+<li>
+<a class="mainlink" target="" href="/personal/making-payments/pay-utility-bills-and-insurance-premium">Pay Utility Bills and Insurance Premium</a>
+</li>
+<li>
+<span class="mainlink">Pay Bills &amp; Shop - Online</span>
+</li>
+<li>
+<span class="mainlink">Pay Bills - PhoneBanking</span>
+</li>
+<li>
+<span class="mainlink">Pay Bills - ATM</span>
+</li>
+<li>
+<span class="mainlink">Pay Credit Card Bills</span>
+</li>
+<li>
+<span class="mainlink">Pay Bills - Debit Cards</span>
+</li>
+<li>
+<a class="mainlink" target="_blank" href="https://www.billdesk.com/pgidsk/pgmerc/hdfcemi/index.jsp">Pay Overdue EMI Online</a>
+</li>
+<li>
+<span class="mainlink">Fund Transfer</span>
+</li>
+<li>
+<span class="mainlink">Online Tax Payment</span>
+</li>
+<li>
+<span class="mainlink">Online Tax Payment of Government</span>
+</li>
+<li>
+<span class="mainlink">Donate Online</span>
+</li>
+<li>
+<span class="mainlink">Security Measures</span>
+</li>
+</ul>
+</div>
+<div style="min-height: 360px;" class="rhssection">
+<div class="innerNavs" style="display: block; min-height: 360px; width:520px;">
+<div class="innerNavContainer">
+<ul>
+<li>
+<a target="" href="/personal/making-payments/pay-with-payzapp/payzapp">PayZapp</a>
+</li>
+</ul><div class="right_banner"><a href="/personal/making-payments/pay-with-payzapp/payzapp"><span class="navbannerurl">/assets/images/payzapp/banners/all_payment.jpg</span></a></div></div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul>
+<li>
+<a target="" href="/personal/making-payments/pay-via-smarthub/smarthub">SmartHub</a>
+</li>
+</ul><div class="right_banner" style="width: 250px;"><a href="/personal/find-your-nearest/Multipaypoint-for-Tax-Bills-Fees-Donations-CreditCards"><span class="navbannerurl">/assets/images/payzapp/banners/smarthub1.jpg</span></a></div></div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul>
+<li>
+<a target="" href="/samsung-pay/index.htm">Samsung Pay</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul></ul><div class="right_banner"><span class="navbannerurl">/assets/images/main_nav/makingpayments/find_best_payment_option.jpg</span><span class="nav_knowmore"><a href="/personal/making_payments/payment-services-tool"><img src="/assets/images/main_nav/nav_knowmore.gif" alt="" /></a></span></div></div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul>
+<li>
+<a target="" href="/personal/making-payments/pay-utility-bills-and-insurance-premium/pay-now">Pay Now</a>
+</li>
+<li>
+<a target="" href="/personal/making-payments/pay-utility-bills-and-insurance-premium/register-and-pay">Register &amp; Pay</a>
+</li>
+<li>
+<a target="" href="/personal/making-payments/pay-utility-bills-and-insurance-premium/smartpay">SmartPay</a>
+</li>
+<li>
+<a target="" href="/personal/making-payments/pay-utility-bills-and-insurance-premium/visa-bill-pay">Visa Bill Pay</a>
+</li>
+<li>
+<a target="" href="/personal/making-payments/pay-utility-bills-and-insurance-premium/standing-instruction-on-credit-card">Standing Instruction on Credit Card</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul>
+<li>
+<a target="" href="/personal/making-payments/pay-bills-and-shop-online/billpay-plusnetbanking">BillPay plus-NetBanking</a>
+</li>
+<li>
+<a target="" href="/personal/making-payments/pay-bills-and-shop-online/directpaynetbanking">DirectPay-NetBanking</a>
+</li>
+<li>
+<a target="" href="/personal/making-payments/pay-bills-and-shop-online/instapaynetbanking">InstaPay-NetBanking</a>
+</li>
+<li>
+<a target="" href="/personal/making-payments/pay-bills-and-shop-online/prepaid-mobile-rechargenetbanking">Prepaid Mobile Recharge-NetBanking</a>
+</li>
+</ul><div class="right_banner"><span class="navbannerurl">/assets/images/main_nav/makingpayments/pays_bills_online.jpg</span></div></div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul>
+<li>
+<a target="" href="/personal/making-payments/pay-bills-phonebanking/billpay-phonebanking">BillPay - PhoneBanking</a>
+</li>
+</ul><div class="right_banner"><span class="navbannerurl">/assets/images/main_nav/makingpayments/pay_bills_phonebanking.jpg</span></div></div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul>
+<li>
+<a target="" href="/personal/making-payments/pay-bills-atm/billpay">BillPay</a>
+</li>
+<li>
+<a target="" href="/personal/making-payments/pay-bills-atm/prepaid-mobile-recharge">Prepaid Mobile Recharge</a>
+</li>
+</ul><div class="right_banner"><span class="navbannerurl">/assets/images/main_nav/makingpayments/pay_bills_atm.jpg</span></div></div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul>
+<li>
+<a target="" href="/personal/making-payments/pay-credit-card-bills/hdfc-bank-account">HDFC Bank Account</a>
+</li>
+<li>
+<a target="_blank" href="http://www.billdesk.com/pgidsk/pgmerc/hdfccard/index.jsp">Non-HDFC Bank Account</a>
+</li>
+</ul><div class="right_banner"><a href="https://leads.hdfcbank.com/applications/webforms/apply/HDFC_Bank_Credit_Card_Loan/index.aspx?Product=Insta Loan&amp;Promocode=P4_DHTML_LCC&amp;Sourcecode=Website_banner"><span class="navbannerurl">/assets/images/main_nav/makingpayments/instaloan.jpg</span></a></div></div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul>
+<li>
+<a target="" href="/personal/making-payments/pay-bills-debit-cards/standing-instructions-on-debit-card">Standing Instructions on Debit Card</a>
+</li>
+</ul><div class="right_banner" style="height: 200px;"><a href="https://leads.hdfcbank.com/applications/webforms/apply/HDFC_Bank_Credit_Card_Loan/index.aspx?Product=SmartEMI&amp;Promocode=P4_DHTML_PayDCBill_SmartEMI&amp;Sourcecode=Test_Source&amp;_ga=1.205044944.1157156171.1423639101" target="_blank"><span class="navbannerurl">/assets/images/main_nav/products/SmartEMI_Demat_dhtml.jpg</span> </a></div></div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul></ul><div class="right_banner" style="height: 200px;"><a href="https://leads.hdfcbank.com/applications/webforms/apply/HDFC_Bank_Credit_Card_Loan/index.aspx?Product=Insta%20Jumbo%20Loan&amp;Promocode=P4_DHTML_OverdueEMI_InstaJumloan&amp;Sourcecode=Test_Source&amp;_ga=1.7839474.1157156171.1423639101" target="_blank"><span class="navbannerurl">/assets/images/main_nav/products/Insta-Jumbo-loan_Demat_dhtml.jpg</span> </a></div></div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul>
+<li>
+<a target="" href="/personal/making-payments/fund-transfer/emonies-national-electronic-funds-transfer">e-monies National Electronic Funds Transfer</a>
+</li>
+<li>
+<a target="" href="/personal/making-payments/fund-transfer/rtgs-funds-transfer">RTGS funds transfer</a>
+</li>
+<li>
+<a target="" href="/personal/making-payments/fund-transfer/visa-cardpay">Visa CardPay</a>
+</li>
+<li>
+<a target="" href="/personal/making-payments/fund-transfer/imps">IMPS</a>
+</li>
+<li>
+<a target="" href="/htdocs/common/vpa/upi.html">Unified Payment Interface (UPI)</a>
+</li>
+</ul><div class="right_banner"><span class="navbannerurl">/assets/images/main_nav/makingpayments/fund_transfer.jpg</span></div></div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul>
+<li>
+<a target="" href="/personal/making-payments/online-tax-payment/direct-tax">Direct Tax</a>
+</li>
+<li>
+<a target="" href="/personal/making-payments/online-tax-payment/dvat-and-cst">DVAT and CST</a>
+</li>
+<li>
+<a target="" href="/personal/making-payments/online-tax-payment/excise-and-service-tax">Excise and Service Tax</a>
+</li>
+<li>
+<a target="" href="/personal/making-payments/online-tax-payment/gvat">GVAT</a>
+</li>
+<li>
+<a target="" href="/personal/making-payments/online-tax-payment/mcgm-octroi-duty">MCGM Octroi Duty</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul>
+<li>
+<a target="" href="/personal/making-payments/online-tax-payment-of-government/odisha">Odisha</a>
+</li>
+<li>
+<a target="" href="/personal/making-payments/online-tax-payment-of-government/andhra-pradesh">Andhra Pradesh</a>
+</li>
+<li>
+<a target="" href="/personal/making-payments/online-tax-payment-of-government/telangana">Telangana</a>
+</li>
+<li>
+<a target="" href="/personal/making-payments/online-tax-payment-of-government/punjab">Punjab</a>
+</li>
+<li>
+<a target="" href="/personal/making-payments/online-tax-payment-of-government/chhattisgarh">Chhattisgarh</a>
+</li>
+<li>
+<a target="" href="/personal/making-payments/online-tax-payment-of-government/uttrakhand">Uttrakhand</a>
+</li>
+<li>
+<a target="" href="/personal/making-payments/online-tax-payment-of-government/west-bengal">West Bengal</a>
+</li>
+<li>
+<a target="" href="/personal/making-payments/online-tax-payment-of-government/tamilnadu">TamilNadu</a>
+</li>
+<li>
+<a target="" href="/personal/making-payments/online-tax-payment-of-government/assam">Assam</a>
+</li>
+<li>
+<a target="" href="/personal/making-payments/online-tax-payment-of-government/karnataka">Karnataka</a>
+</li>
+<li>
+<a target="" href="/personal/making-payments/online-tax-payment-of-government/pune-municipal-corporation">Pune Municipal Corporation</a>
+</li>
+</ul><div class="right_banner"><span class="navbannerurl">/assets/images/main_nav/makingpayments/tax_payment.jpg</span></div></div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul>
+<li>
+<a target="" href="/personal/donate-online/donate-to-charity">Donate to Charity</a>
+</li>
+<li>
+<a target="" href="/personal/donate-online/religious-offering">Religious offerings</a>
+</li>
+</ul><div class="right_banner"><span class="navbannerurl">/assets/images/main_nav/makingpayments/donate_online.jpg</span></div></div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul>
+<li>
+<a target="" href="/personal/making-payments/security-measures/ivr-3d-secure">IVR 3D Secure</a>
+</li>
+<li>
+<a target="" href="/personal/making-payments/security-measures/netsafe">NetSafe</a>
+</li>
+<li>
+<a target="" href="/personal/making-payments/security-measures/verified-by-visamastercard-securecode">Verified by Visa/MasterCard SecureCode</a>
+</li>
+<li>
+<a target="" href="/personal/making-payments/security-measures/otp-checkout">OTP Checkout</a>
+</li>
+</ul><div class="right_banner"><span class="navbannerurl">/assets/images/main_nav/makingpayments/security_measures.jpg</span></div></div>
+</div>
+</div>
+</div>
+<div class="btmcrv"></div>
+</div>
+</li>
+<li class="manage_your_money applyWrap ">
+<div class="menutext">
+<span class="mainlink">Apply now</span><img src="/assets/images/nav-dropdwn.jpg" alt="Pointer" class="pointer"></div>
+<div style="display: none;" class="dropdownWrap">
+<div class="topcrv"></div>
+<div class="midcrv">
+<div class="lhssection">
+<ul>
+<li class="selected">
+<a class="mainlink" rel="nofollow width=375 height=213" target="" href="/smarthub/index.html">SmartHub for Merchants</a>
+</li>
+<li>
+<a class="mainlink" rel="nofollow width=375 height=213" target="" href="https://freedomcard.itzcash.com/hdfcbankgiftcard/jsp/GiftSelect.jsp">eGiftPlus Card</a>
+</li>
+<li>
+<a class="mainlink" rel="nofollow width=375 height=213" target="popup" href="https://apply.hdfcbank.com/DAPWEB/creditcard?utm_campaign=P4_HP_ApplyNow_CC_NEWDAP_260416">Credit Card</a>
+</li>
+<li>
+<a class="mainlink" rel="nofollow width=375 height=213" target="_blank" href="https://apply.hdfcbank.com/dapweb/personal?utm_campaign=P4_hp_AppNow_PL">Personal Loan</a>
+</li>
+<li>
+<a class="mainlink" rel="nofollow width=375 height=213" target="_blank" href="https://apply.hdfcbank.com/dapweb/autoloan?utm_campaign=P4_hp_AppNow_CL">Car Loan</a>
+</li>
+<li>
+<a class="mainlink" rel="nofollow width=375 height=213" target="_blank" href="https://apply.hdfcbank.com/dapweb/twowheeler?utm_campaign=P4_hp_AppNow_TWL">Two Wheeler Loan</a>
+</li>
+<li>
+<a class="mainlink" rel="nofollow width=375 height=213" target="_blank" href="https://leads.hdfcbank.com/applications/webforms/apply/hdfc_goldloan/hdfc_goldloan.aspx?Promocode=P4_hp_AppNow_GL">Gold Loan</a>
+</li>
+<li>
+<a class="mainlink" rel="nofollow width=375 height=213" target="_blank" href="https://home-loans.hdfc.com/wl1?WT.mc_id=P4_hp_AppNow_HL">Home Loan</a>
+</li>
+<li>
+<a class="mainlink" rel="nofollow width=375 height=213" target="_blank" href="https://leads.hdfcbank.com/applications/webforms/apply/lap_apply_frm.asp?promocode=P4_hp_AppNow_LAP">Loan Against Property</a>
+</li>
+<li>
+<a class="mainlink" rel="nofollow width=375 height=213" target="_blank" href="/htdocs/common/agri/index.html?utm_source=website&amp;utm_medium=apply_online&amp;utm_term=agri-loan&amp;utm_campaign=Kisan-Dhan-Vikas_e-Kendra">Agri - Loan</a>
+</li>
+<li>
+<a class="mainlink" rel="nofollow width=375 height=213" target="" href="/htdocs/common/other/Insurance/index.html">Insurance</a>
+</li>
+<li>
+<a class="mainlink" rel="nofollow width=375 height=213" onclick="ceeboxpopup(this,'/assets/popuppages/savings_account_dap_home.htm','normalpop',421,390)" target="" href="#">Savings Account</a>
+</li>
+<li>
+<a class="mainlink" rel="nofollow width=375 height=213" target="_blank" href="https://leads.hdfcbank.com/applications/webforms/apply/anaccounts.asp?su=Demat%A0A/c%A0Lead&amp;promocode=P4_hp_AppNow_Demat ">Demat Account</a>
+</li>
+<li>
+<a class="mainlink" rel="nofollow width=375 height=213" onclick="ceeboxpopup(this,'/assets/popuppages/reg_sal_acc_home_apply_now_dap.htm','normalpop',421,390)" target="" href="#">Corporate Salary Account</a>
+</li>
+<li>
+<a class="mainlink" rel="nofollow width=375 height=213" target="_blank" href="https://leads.hdfcbank.com/applications/webforms/apply/applyCA.asp?prodname=&amp;promocode=P4_hp_AppNow_CA">Current Account</a>
+</li>
+<li>
+<a class="mainlink" rel="nofollow width=375 height=213" target="_blank" href="https://leads.hdfcbank.com/applications/new_webforms/apply/NRI-account/Index.aspx?Promocode=P4_HP_AppNow_NR&amp;SourceCode=&amp;CampaignID=">NRE/NRO Account</a>
+</li>
+<li>
+<a class="mainlink" rel="nofollow width=375 height=213" target="" href="https://getprepaidcard.hdfcbank.com/?_ga=1.12445233.402093620.1472201385">Forex Card</a>
+</li>
+<li>
+<a class="mainlink" rel="nofollow width=375 height=213" target="" href="/personal/apply-now">Others</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="btmcrv"></div>
+</div>
+</li>
+<li>
+<div class="menutext">
+<a class="mainlink" target="_blank" href="http://offers.smartbuy.hdfcbank.com/?src=hp_nav">Offers</a><img src="/assets/images/nav-dropdwn.jpg" alt="Pointer" class="pointer"></div>
+</li>
+<li class="lastNav locateWrap  ">
+<div class="menutext">
+<span class="mainlink">Locate Us</span><img src="/assets/images/nav-dropdwn.jpg" alt="Pointer" class="pointer"></div>
+<div style="display: none;" class="dropdownWrap">
+<div class="topcrv"></div>
+<div class="midcrv">
+<div class="lhssection">
+<ul>
+<li class="selected">
+<span class="mainlink">Branch</span>
+</li>
+<li>
+<span class="mainlink">ATM</span>
+</li>
+<li>
+<a class="mainlink" target="" href="/personal/find-your-nearest/find-phone-banking">PhoneBanking</a>
+</li>
+<li>
+<a class="mainlink" target="" href="/personal/find-your-nearest/find-demat-branch">Demat Centre</a>
+</li>
+<li>
+<a class="mainlink" target="" href="/personal/find-your-nearest/Multipaypoint-for-Tax-Bills-Fees-Donations-CreditCards">Payment Centre</a>
+</li>
+<li>
+<a class="mainlink" target="" href="/personal/find-your-nearest/find-your-nearest-rlsc">Retail Loan Service Center</a>
+</li>
+<li>
+<a class="mainlink" target="" href="/personal/find-your-nearest/direct-tie-ups-in-gulf">Direct Tie-ups in Gulf</a>
+</li>
+<li>
+<a class="mainlink" target="" href="/personal/find-your-nearest/find-africa">Access Point in Africa</a>
+</li>
+<li>
+<a class="mainlink" target="" href="/personal/find-your-nearest/find-asia">Access Point in Asia Pacific</a>
+</li>
+<li>
+<a class="mainlink" target="" href="/personal/find-your-nearest/find-warranty-payment-center">Warrant Payment Centres</a>
+</li>
+<li>
+<a class="mainlink" target="" href="/personal/find-your-nearest/business-correspondent-locator">Business Correspondent</a>
+</li>
+</ul>
+</div>
+<div style="min-height: 360px;" class="rhssection">
+<div class="innerNavs" style="display: block; min-height: 360px; width:520px;">
+<div class="innerNavContainer">
+<ul>
+<li>
+<a target="" href="/personal/find-your-nearest/find-nearest-branch/all-facilities/gxissh3j">All Branches</a>
+</li>
+<li>
+<a target="" href="/personal/find-your-nearest/find-nearest-branch/lockers/gts8miud">Branch with Lockers</a>
+</li>
+<li>
+<a target="" href="/personal/find-your-nearest/find-nearest-branch/direct-tax/gts8miue">Branch collecting Direct Tax</a>
+</li>
+<li>
+<a target="_blank" href="http://app.mapmyindia.com/hdfcweb/">Locate Branches on Map</a>
+</li>
+<li>
+<a target="" href="/personal/find-your-nearest/find-nearest-branch/trade-desk/ibudwluh">Branch With Trade Desk</a>
+</li>
+<li>
+<a target="" href="/personal/find-your-nearest/find-nearest-branch/gold-loan/hsbsjh1s">Branch With Gold Loan</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul>
+<li>
+<a target="" href="/personal/find-your-nearest/find-nearest-atm">All ATMs</a>
+</li>
+<li>
+<a target="_blank" href="http://app.mapmyindia.com/hdfcweb/">Locate ATMs on Map</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul></ul><p>&nbsp;</p>
+<!--
+<div class="right_banner" style="height: 200px;"><a href="https://leads.hdfcbank.com/applications/webforms/apply/HDFC_Bank_Credit_Card_Loan/index.aspx?Product=Insta%20Jumbo%20Loan&amp;Promocode=P4_DHTML_RetailLoanSC_InstaJumloan&amp;Sourcecode=Test_Source" mce_href="https://leads.hdfcbank.com/applications/webforms/apply/HDFC_Bank_Credit_Card_Loan/index.aspx?Product=Insta%20Jumbo%20Loan&amp;Promocode=P4_DHTML_RetailLoanSC_InstaJumloan&amp;Sourcecode=Test_Source" target="_blank"><span class="navbannerurl">/assets/images/main_nav/products/Insta-Jumbo-loan_dhtml.jpg</span> </a></div>
+--></div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul></ul>
+</div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul></ul><p>&nbsp;</p>
+<!--
+<div class="right_banner" style="height: 200px;"><a href="https://leads.hdfcbank.com/applications/webforms/apply/HDFC_Bank_Credit_Card_Loan/index.aspx?Product=Insta%20Jumbo%20Loan&amp;Promocode=P4_DHTML_RetailLoanSC_InstaJumloan&amp;Sourcecode=Test_Source" mce_href="https://leads.hdfcbank.com/applications/webforms/apply/HDFC_Bank_Credit_Card_Loan/index.aspx?Product=Insta%20Jumbo%20Loan&amp;Promocode=P4_DHTML_RetailLoanSC_InstaJumloan&amp;Sourcecode=Test_Source" target="_blank"><span class="navbannerurl">/assets/images/main_nav/products/Insta-Jumbo-loan_dhtml.jpg</span> </a></div>
+--></div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul></ul>
+</div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul></ul>
+</div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul></ul>
+</div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul></ul>
+</div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul></ul>
+</div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul></ul>
+</div>
+</div>
+</div>
+</div>
+<div class="btmcrv"></div>
+</div>
+</li>
+<li class="wayBank ">
+<div class="menutext">
+<a class="mainlink" target="" href="/personal/ways_to_bank/ways-to-bank-landing">Ways to bank</a><img src="/assets/images/nav-dropdwn.jpg" alt="Pointer" class="pointer"></div>
+<div style="display: none;" class="dropdownWrap">
+<div class="topcrv"></div>
+<div class="midcrv">
+<div class="lhssection">
+<ul>
+<li class="selected">
+<span class="mainlink">Bank Online</span>
+</li>
+<li>
+<span class="mainlink">Bank in Person</span>
+</li>
+<li>
+<span class="mainlink">Bank with your Phone</span>
+</li>
+<li>
+<span class="mainlink">Bank with your Watch</span>
+</li>
+<li>
+<span class="mainlink">Services on Social Media</span>
+</li>
+</ul>
+</div>
+<div style="min-height: 360px;" class="rhssection">
+<div class="innerNavs" style="display: block; min-height: 360px; width:520px;">
+<div class="innerNavContainer">
+<ul>
+<li>
+<a target="" href="/personal/ways-to-bank/bank-online/netbanking">NetBanking</a>
+</li>
+<li>
+<a target="" href="/personal/ways-to-bank/bank-online/credit-cards-netbanking">Credit Card NetBanking</a>
+</li>
+<li>
+<a target="" href="/personal/ways-to-bank/bank-online/email-statements">Email Statements</a>
+</li>
+<li>
+<a target="" href="/personal/ways-to-bank/bank-online/loan-accounts-online">Loan Accounts Online</a>
+</li>
+</ul><div class="right_banner"><span class="navbannerurl">/assets/images/main_nav/waystobank/create-pin.JPG</span></div>
+<!--
+<div class="right_banner"><span class="navbannerurl">/assets/images/main_nav/waystobank/create-pin.JPG</span><span class="nav_knowmore"><a href="/htdocs/common/generate_pin/create_pin.html" mce_href="/htdocs/common/generate_pin/create_pin.html"><img src="/assets/images/main_nav/nav_knowmore.gif" mce_src="/assets/images/main_nav/nav_knowmore.gif" alt="" /></a></span></div>
+--><!--
+<div class="right_banner" style="height: 200px;"><a href="https://leads.hdfcbank.com/applications/webforms/apply/HDFC_Bank_Credit_Card_Loan/index.aspx?Product=Insta%20Jumbo%20Loan&amp;Promocode=P4_DHTML_BankOnline_InstaJumloan&amp;Sourcecode=Test_Source" mce_href="https://leads.hdfcbank.com/applications/webforms/apply/HDFC_Bank_Credit_Card_Loan/index.aspx?Product=Insta%20Jumbo%20Loan&amp;Promocode=P4_DHTML_BankOnline_InstaJumloan&amp;Sourcecode=Test_Source" target="_blank"><span class="navbannerurl">/assets/images/main_nav/products/Insta-Jumbo-loan_dhtml.jpg</span> </a></div>
+--></div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul>
+<li>
+<a target="" href="/personal/ways-to-bank/bank-in-person/atms">ATMs</a>
+</li>
+<li>
+<a target="" href="/personal/ways-to-bank/bank-in-person/branch-network">Branch Network</a>
+</li>
+<li>
+<a target="" href="/personal/ways-to-bank/bank-in-person/cashshop"><span class="__cf_email__" data-cfemail="b0f3d1c3d8f0e3d8dfc0">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a>
+</li>
+</ul><div class="right_banner" style="height: 200px;"><a href="https://leads.hdfcbank.com/applications/webforms/apply/HDFC_Bank_Credit_Card_Loan/index.aspx?Product=SmartEMI&amp;Promocode=P4_DHTML_BankInPerson_SmartEMI&amp;Sourcecode=Test_Source&amp;_ga=1.205044944.1157156171.1423639101" target="_blank"><span class="navbannerurl">/assets/images/main_nav/products/SmartEMI_Demat_dhtml.jpg</span> </a></div></div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul>
+<li>
+<a target="" href="/personal/ways-to-bank/bank-with-your-phone/mobilebanking">MobileBanking</a>
+</li>
+<li>
+<a target="" href="/personal/ways-to-bank/bank-with-your-phone/instaalerts-sms-and-email">InstaAlerts - SMS &amp; Email</a>
+</li>
+<li>
+<a target="" href="/personal/ways-to-bank/bank-with-your-phone/phonebanking">PhoneBanking</a>
+</li>
+<li>
+<a target="" href="http://www.hdfcbank.com/htdocs/common/MobileBanking/chillr-app/index.htm">Instant transfers &amp; Recharges through Chillr App</a>
+</li>
+<li>
+<a target="" href="/personal/ways-to-bank/mobilebanking/ultracash">UltraCash - Secure money transfer via soundwaves</a>
+</li>
+<li>
+<a target="" href="/htdocs/common/MobileBanking/perks/perks.html">PERKS App - Offers 365 days, instant connect with corporate RM</a>
+</li>
+</ul><!--
+<div class="right_banner"><img usemap="#Map" src="/assets/images/main_nav/waystobank/youtube-demo-video.jpg" mce_src="/assets/images/main_nav/waystobank/youtube-demo-video.jpg" border="0" alt="" width="235" height="245" /><span class="nav_knowmore"><a href="http://www.youtube.com/watch?v=3Yd9dO7gEF4&amp;context=C470f062ADvjVQa1PpcFMQLXMw-tH8OUiUpzu1rzb6sGHPkvErDqw=" mce_href="http://www.youtube.com/watch?v=3Yd9dO7gEF4&amp;context=C470f062ADvjVQa1PpcFMQLXMw-tH8OUiUpzu1rzb6sGHPkvErDqw=" target="_blank"><img src="/assets/images/main_nav/nav_viewdemo.gif" mce_src="/assets/images/main_nav/nav_viewdemo.gif" alt="" /></a></span> 
+<map name="Map">
+<area shape="rect" mce_shape="rect" coords="80,126,115,154" mce_coords="80,126,115,154" href="http://www.youtube.com/watch?v=3Yd9dO7gEF4&amp;context=C470f062ADvjVQa1PpcFMQLXMw-tH8OUiUpzu1rzb6sGHPkvErDqw=" mce_href="http://www.youtube.com/watch?v=3Yd9dO7gEF4&amp;context=C470f062ADvjVQa1PpcFMQLXMw-tH8OUiUpzu1rzb6sGHPkvErDqw=" alt="YouTube Demo Video" target="_blank"></area> 
+</map>
+</div>
+--><!--
+<div class="right_banner"><span class="navbannerurl">/assets/images/main_nav/waystobank/bank_with_person.jpg</span></div>
+-->
+<div class="right_banner"><span class="navbannerurl">/assets/images/main_nav/waystobank/smsbanking-android.jpg</span><span class="nav_knowmore"><a href="/personal/ways-to-bank/bank-with-your-phone/mobilebanking-app-for-android"><img src="/assets/images/main_nav/nav_knowmore.gif" alt="" /></a></span></div></div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul>
+<li>
+<a target="" href="/personal/ways-to-bank/bank-with-your-watch/watchbanking">WatchBanking</a>
+</li>
+</ul><div class="right_banner"><span class="navbannerurl">/assets/images/main_nav/waystobank/watchbanking_banner.jpg</span></div></div>
+</div>
+<div class="innerNavs" style="display: none; min-height: 360px; width: 0px;">
+<div class="innerNavContainer">
+<ul>
+<li>
+<a target="" href="/htdocs/onChat/index.html">HDFC Bank OnChat</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="btmcrv"></div>
+</div>
+</li>
+<li class="manage_your_money ">
+<div class="menutext">
+<a class="mainlink" target="" href="/personal/customer-centre?src=hp_top_nav ">Customer Care</a><img src="/assets/images/nav-dropdwn.jpg" alt="Pointer" class="pointer"></div>
+<div style="display: none;" class="dropdownWrap">
+<div class="topcrv"></div>
+<div class="midcrv">
+<div class="lhssection">
+<ul>
+<li class="selected">
+<a class="mainlink" target="_blank" href="/htdocs/common/common-queries.htm?siteaccord=accordian1">How do I update my address ?</a>
+</li>
+<li>
+<a class="mainlink" target="_blank" href="/htdocs/common/common-queries.htm?siteaccord=accordian2">How do I change / update my email id/Land Line/mobile Number?</a>
+</li>
+<li>
+<a class="mainlink" target="_blank" href="/htdocs/common/common-queries.htm?siteaccord=accordian5">How do I block lost Credit Card?</a>
+</li>
+<li>
+<a class="mainlink" target="_blank" href="/htdocs/common/common-queries.htm?siteaccord=accordian5">How do I block lost Debit Card?</a>
+</li>
+<li>
+<a class="mainlink" target="_blank" href="/personal/FAQ/faq_landing">Frequently Asked Questions</a>
+</li>
+<li>
+<a class="mainlink" target="_blank" href="/personal/customer-centre">Queries, Feedback or Complaints</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="btmcrv"></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="element1"><script type="text/javascript">	
+	function submitenter_search(e) {
+               var srh = document.getElementById("q").value;
+                var intKey = (window.Event) ? e.which : e.keyCode;
+                if (intKey == 13)
+                {
+                    if (/^[a-z\s\d]*$/i.test(srh))
+                    {
+                        document.searchform.submit();
+				return true;
+                    } else
+                    {
+                        alert("Please use alphanumeric characters only (A-Z, a-z and 0-9), when searching for your query. \nFor example, if your query is bank@campus then search for bank campus.");
+                        return false;
+                    }
+
+                } else if((intKey >= 33&&intKey <=47) || (intKey >= 58 && intKey <=64) || (intKey >= 91 && intKey <=96) || (intKey >= 123 && intKey <=127))
+                {
+                        alert("Please use alphanumeric characters only (A-Z, a-z and 0-9), when searching for your query. \nFor example, if your query is bank@campus then search for bank campus.");
+                        return false;
+                }
+                else {return true;}
+    }
+
+    </script>
+
+
+</div><div id="element2"><div  ><!--Flip Banner Section-->
+<div style="padding-top: 0px;" class="mainBodyContainer">
+<div style="height: 1463px; display: none;" id="overlay"></div>
+<div id="overlay" style="height: 1463px;"></div>
+<div style="display: none; height: 1463px;" id="overlay"></div>
+<div class="homebanner_wrapper">
+<div class="homebanner clearfix">
+<div class="flipBannerWrap">
+<script id="viz_522x65_slotId8" type="text/javascript">
+(function() {
+    var protocol = location.protocol == 'https:' ? location.protocol : 'http:';
+    var m_u = protocol + '//www.vizury.com/campaign/showad.php';
+    var campaignId = '3625';
+    var suffixImpressionId = 'ONR';
+    var prefixDivId = 'viz_ifrm';
+    var prefixIframeId = 'viz_iframe';
+    <!-- Generate the impression Id For VIZVRM3625 -->
+    var impressionIdViz = function() {
+        var paddedData = function(data, lengthRequired) {
+            var seed = parseInt(new Date().getTime(), 16);
+            while (data.length < lengthRequired) {
+                data = data + ((Math.floor(Math.random() * seed)).toString(16));
+            }
+            data = data.slice(data.length - lengthRequired);
+            return data;
+        };
+        var time = parseInt(new Date().getTime() / 1000, 10).toString(16);
+        var seed = parseInt(new Date().getTime() / 1000, 16);
+        var random = (Math.floor(Math.random() * seed)).toString(16);
+        time = paddedData(time, 8);
+        random = paddedData(random, 15);
+        var impressionId = campaignId + time + random + suffixImpressionId;
+        return impressionId;
+    }();
+    <!-- Get the first party cookie and pass it -->
+    var firstPartyCookie =  function(cookieName) {
+        var cookieData = document.cookie;
+        if (!cookieName) {
+            return "";
+        }
+        var cookieDataArr = cookieData.split(";");
+        for (var cookieD in cookieDataArr) {
+            if (cookieDataArr.hasOwnProperty(cookieD)) {
+                var cookieValuePair = cookieDataArr[cookieD].match(/\s*(.*)=(.*)/);
+                if (cookieValuePair) {
+                    if (cookieValuePair[1] === cookieName && cookieValuePair[2]) {
+                        return cookieValuePair[2];
+                    }
+                }
+            }
+        }
+        return "";
+    }('_vz');
+    document.write('<scr' + 'ipt type=\'text/javascript\' src=\'' + m_u);
+    document.write('?width=522');
+    document.write('&amp;height=65');
+    document.write('&amp;force_adv_id=VIZVRM' + campaignId);
+    document.write('&amp;is_on_site=1');
+    document.write('&amp;rid=' + impressionIdViz);
+    document.write('&amp;sfpc=' + firstPartyCookie);
+    document.write('&amp;loc=' + escape(window.location));
+    if (document.referrer) document.write('&amp;rfr=' + escape(document.referrer));
+    document.write('\'><\/scr' + 'ipt>');
+    window.setTimeout(function() {
+        var divLoaded = document.getElementById(prefixDivId + impressionIdViz);
+        if (!divLoaded) {
+            var viz_div = document.createElement('div');
+            viz_div.setAttribute('id', prefixDivId + impressionIdViz);
+            if (!document.getElementsByTagName('body')[0]) {
+                document.write('<body style="margin:0"/>');
+            }
+            if (document.getElementById('viz_522x65_slotId8') && document.getElementById('viz_522x65_slotId8').parentNode && 
+               document.getElementById('viz_522x65_slotId8').parentNode.nodeName !== 'HEAD') {
+                document.getElementById('viz_522x65_slotId8').parentNode.appendChild(viz_div);
+        } else {
+            document.getElementsByTagName('body')[0].appendChild(viz_div);
+        }
+        var viz_div_created = document.getElementById(prefixDivId + impressionIdViz);
+        var showad = document.createElement('iframe');
+        var defaultSrc = protocol + '//cdn18.vizury.com/banners/images/common/images/IN_HDFC_DMP/reco/DmpSlotId8.html';
+        showad.setAttribute('src', defaultSrc);
+        showad.setAttribute('scrolling', 'no');
+        showad.setAttribute('width', '522');
+        showad.setAttribute('height', '65');
+        showad.setAttribute('marginheight', '0px');
+        showad.setAttribute('marginwidth', '0');
+        showad.setAttribute('frameborder', '0');
+        showad.setAttribute('id', prefixIframeId + impressionIdViz);
+        viz_div_created.appendChild(showad);
+        showad.contentWindow.document.body.style.border = 'none';
+        showad.contentWindow.document.body.style.padding = '0';
+        showad.contentWindow.document.body.style.margin = '0';
+    }
+}, 3000);
+})();
+</script>
+<div class="flipBanner">
+<div class="product product1">
+<img class="front icon" src="/assets/images/declutter/icon-las.png" alt="Loan Against Securities" style="margin-top: 0px; margin-left: 0px; width: 111px; height: 112px;"><img class="back icon" src="/assets/images/declutter/icon-lacc.png" alt="Loan Against Credit Card"><div class="detailBox frontDetailBox">
+<div class="content">
+<a href="javascript:;" class="close"></a>
+<div class="buttons">
+<a title="Click to apply for Loan Against Securities" class="applynowknowmore" href="https://leads.hdfcbank.com/applications/webforms/apply/anaccounts_LAS.asp?promocode=P4_newhomepage_flipcoin_08022016_LAS" target="_blank">
+					Apply Now</a><a title="Click to know more on Loan Against Securities" class="applynowknowmore" href="http://www.hdfcbank.com/personal/products/loans/loans-against-assets/loan-against-securities" target="_blank">
+					Know More</a>
+</div>
+</div>
+</div>
+<div class="detailBox backDetailBox">
+<div class="content">
+<a href="javascript:;" class="close"></a>
+<div class="buttons">
+<a title=" Click to apply for Loan Against Credit Card" class="applynowknowmore" href="https://leads.hdfcbank.com/applications/webforms/apply/HDFC_Bank_Credit_Card_Loan/index.aspx?Product=SmartEMI&amp;amp;Promocode=P4_newhomepage_flipcoin_08022016_LACC" target="_blank">
+					Apply Now</a><a title="Click to know more on Loan Against Credit Card" class="applynowknowmore" href="http://www.hdfcbank.com/personal/products/cards/loan-on-credit-card" target="_blank">
+					Know More</a>
+</div>
+</div>
+</div>
+</div>
+<div class="product product2">
+<img class="front icon" src="/assets/images/declutter/icon-credit-cards.png" alt="Credit Cards" style="margin-top: 0px; margin-left: 0px; width: 111px; height: 112px;"><img class="back icon" src="/assets/images/declutter/icon-forex-card.png" alt="Forex Card"><div class="detailBox frontDetailBox">
+<div class="content">
+<a href="javascript:;" class="close"></a>
+<div class="buttons">
+<a title="Click to apply for Credit Cards" class="applynowknowmore" href="https://leads.hdfcbank.com/applications/new_webforms/apply/credit-card/Index.aspx?promo=P4_HP_FlipCoin_25072016_CC&amp;_ga=1.167236216.771628658.1479795381" target="_blank">
+					Apply Now</a><a title="Click to know more on Credit Cards" class="applynowknowmore" href="http://www.hdfcbank.com/personal/credit_card/credit_card_already_have_cc" target="_blank">
+					Know More</a>
+</div>
+</div>
+</div>
+<div class="detailBox backDetailBox">
+<div class="content">
+<a href="javascript:;" class="close"></a>
+<div class="buttons">
+<a title=" Click to apply for Forex Card" class="applynowknowmore" href="https://getprepaidcard.hdfcbank.com/?src=hp_newlayout" target="_blank">
+					Apply Now</a><a title="Click to know more on Forex Card" class="applynowknowmore" href="/personal/products/cards/prepaid-cards" target="_blank">
+					Know More</a>
+</div>
+</div>
+</div>
+</div>
+<div class="product product3">
+<img class="front icon" src="/assets/images/declutter/icon-car-loan.png" alt="Car Loan" style="margin-top: 0px; margin-left: 0px; width: 111px; height: 112px;"><img class="back icon" src="/assets/images/declutter/icon-lap.png" alt="Loan Against Property"><div class="detailBox frontDetailBox">
+<div class="content">
+<a href="javascript:;" class="close"></a>
+<div class="buttons">
+<a title="Click to apply for Car Loan" class="applynowknowmore" href="https://www.hdfcbanksmartapply.com/car-loan/compare-interest-rates.html?WT.mc_id=P4_newhp_flipcoin_CL&amp;utm_source=flipcoin&amp;utm_medium=organic" target="_blank">
+					Apply Now</a><a title="Click to know more on Car Loan" class="applynowknowmore" href="http://www.hdfcbank.com/personal/products/loans/car-loans" target="_blank">
+					Know More</a>
+</div>
+</div>
+</div>
+<div class="detailBox backDetailBox">
+<div class="content">
+<a href="javascript:;" class="close"></a>
+<div class="buttons">
+<a title=" Click to apply for Loan Against Property" class="applynowknowmore" href="https://leads.hdfcbank.com/applications/webforms/apply/lap_apply_frm.asp?promocode=P4_PrdPg_AppOnl1_LAPPg_LAP" target="_blank">
+					Apply Now</a><a title="Click to know more on Loan Against Property" class="applynowknowmore" href="/personal/products/loans/loan-against-property" target="_blank">
+					Know More</a>
+</div>
+</div>
+</div>
+</div>
+<div class="product product4">
+<img class="front icon" src="/assets/images/declutter/icon-tw-loan.png" alt="Two Wheeler Loan" style="margin-top: 0px; margin-left: 0px; width: 111px; height: 112px;"><img class="back icon" src="/assets/images/declutter/icon-demat.png" alt="Demat Account"><div class="detailBox frontDetailBox">
+<div class="content">
+<a href="javascript:;" class="close"></a>
+<div class="buttons">
+<a title="Click to apply for Two Wheeler Loan" class="applynowknowmore" href="https://www.hdfcbanksmartapply.com/two-wheeler-loan/compare-interest-rates.html?WT.mc_id=P4_newhp_flipcoin_TWL&amp;utm_source=flipcoin&amp;utm_medium=organic" target="_blank">
+					Apply Now</a><a title="Click to know more on Two Wheeler Loan" class="applynowknowmore" href="/personal/products/loans/two-wheeler-loans/two-wheeler-loan" target="_blank">
+					Know More</a>
+</div>
+</div>
+</div>
+<div class="detailBox backDetailBox">
+<div class="content">
+<a href="javascript:;" class="close"></a>
+<div class="buttons">
+<a title=" Click to apply for Demat Account" class="applynowknowmore" href="https://leads.hdfcbank.com/applications/webforms/apply/anaccounts.asp?su=Demat%A0A/c%A0Lead&amp;amp;promocode=P4_newhomepage_flipcoin_08022016_Demat" target="_blank">
+					Apply Now</a><a title="Click to know more on Demat Account" class="applynowknowmore" href="http://www.hdfcbank.com/personal/products/demat/demat-account" target="_blank">
+					Know More</a>
+</div>
+</div>
+</div>
+</div>
+<div class="product product5">
+<img class="front icon" src="/assets/images/declutter/icon-pl.png" alt="Personal Loan" style="margin-top: 0px; margin-left: 0px; width: 111px; height: 112px;"><img class="back icon" src="/assets/images/declutter/icon-salary.png" alt="Salary Account"><div class="detailBox frontDetailBox">
+<div class="content">
+<a href="javascript:;" class="close"></a>
+<div class="buttons">
+<a title="Click to apply for Personal Loan" class="applynowknowmore" href="https://apply.hdfcbank.com/dapweb/personal?utm_campaign=P4_newhomepage_flipcoin_PL" target="_blank">
+					Apply Now</a><a title="Click to know more on Personal Loan" class="applynowknowmore" href="http://www.hdfcbank.com/personal/products/loans/personal-loan" target="_blank">
+					Know More</a>
+</div>
+</div>
+</div>
+<div class="detailBox backDetailBox">
+<div class="content">
+<a href="javascript:;" class="close"></a>
+<div class="buttons">
+<a href="javascript:;" title="Click to apply for salary account" class="prdctSalaryLink applynowknowmore">
+					Apply Now</a><a title="Click to know more on Salary Account" class="applynowknowmore" href="http://www.hdfcbank.com/personal/products/accounts-and-deposits/salary-accounts" target="_blank">
+					Know More</a>
+</div>
+</div>
+</div>
+</div>
+<div class="product product6">
+<img class="front icon" src="/assets/images/declutter/icon-gold-loan.png" alt="Gold Loan" style="margin-top: 0px; margin-left: 0px; width: 111px; height: 112px;"><img class="back icon" src="/assets/images/declutter/icon-current.png" alt="Current Account"><div class="detailBox frontDetailBox">
+<div class="content">
+<a href="javascript:;" class="close"></a>
+<div class="buttons">
+<a title="Click to apply for Gold Loan" class="applynowknowmore" href="https://leads.hdfcbank.com/applications/new_webforms/apply/gold-loan/Index.aspx?Promocode=P4_newhomepage_flipcoin_08022016_GL" target="_blank">
+					Apply Now</a><a title="Click to know more on Gold Loan" class="applynowknowmore" href="http://www.hdfcbank.com/personal/products/loans/gold-loan" target="_blank">
+					Know More</a>
+</div>
+</div>
+</div>
+<div class="detailBox backDetailBox">
+<div class="content">
+<a href="javascript:;" class="close"></a>
+<div class="buttons">
+<a title=" Click to apply for Current Account" class="applynowknowmore" href="https://leads.hdfcbank.com/applications/webforms/apply/applyCA.asp?prodname=&amp;amp;promocode=P4_newhomepage_flipcoin_08022016_CA" target="_blank">
+					Apply Now</a><a title="Click to know more on Current Account" class="applynowknowmore" href="http://www.hdfcbank.com/personal/products/accounts-and-deposits/current-accounts" target="_blank">
+					Know More</a>
+</div>
+</div>
+</div>
+</div>
+<div class="product product7">
+<img class="front icon" src="/assets/images/declutter/icon-savings.png" alt="Savings Account" style="margin-top: 0px; margin-left: 0px; width: 111px; height: 112px;"><img class="back icon" src="/assets/images/declutter/icon-home-loan.png" alt="Home Loan"><div class="detailBox frontDetailBox">
+<div class="content">
+<a href="javascript:;" class="close"></a>
+<div class="buttons">
+<a href="javascript:;" title="Click to apply for savings account" class="prdctSavingsLink applynowknowmore">
+					Apply Now</a><a title="Click to know more on Savings Account" class="applynowknowmore" href="http://www.hdfcbank.com/personal/products/accounts-and-deposits/savings-accounts" target="_blank">
+					Know More</a>
+</div>
+</div>
+</div>
+<div class="detailBox backDetailBox">
+<div class="content">
+<a href="javascript:;" class="close"></a>
+<div class="buttons">
+<a title=" Click to apply for Home Loan" class="applynowknowmore" href="https://home-loans.hdfc.com/wl1?WT.mc_id=P4_newhomepage_flipcoin_08022016_HL" target="_blank">
+					Apply Now</a><a title="Click to know more on Home Loan" class="applynowknowmore" href="http://www.hdfcbank.com/personal/products/loans/home-loan" target="_blank">
+					Know More</a>
+</div>
+</div>
+</div>
+</div>
+<div class="product product8">
+<img class="front icon" src="/assets/images/declutter/icon-life.png" alt="Insurance" style="margin-top: 0px; margin-left: 0px; width: 111px; height: 112px;"><img class="back icon" src="/assets/images/declutter/icon-payzapp.png" alt="PayZapp"><div class="detailBox frontDetailBox">
+<div class="content">
+<a href="javascript:;" class="close"></a>
+<div class="buttons">
+<a title="Click to know more on Insurance" class="applynowknowmore" href="/htdocs/common/other/Insurance/index.html" target="_blank">
+					Know More</a>
+</div>
+</div>
+</div>
+<div class="detailBox backDetailBox">
+<div class="content">
+<a href="javascript:;" class="close"></a>
+<div class="buttons">
+<a title="Click to know more on PayZapp" class="applynowknowmore" href="/personal/making-payments/pay-with-payzapp/payzapp" target="_blank">
+					Know More</a>
+</div>
+</div>
+</div>
+</div>
+<div class="overlayflip"></div>
+</div>
+<a href="javascript:;" class="morePrdct" title="More Products"><img src="/assets/images/declutter/next.png" alt="More Products"></a><a href="javascript:;" class="backPrdct"><img src="/assets/images/declutter/back.png" title="More Products" alt="More Products"></a>
+</div>
+<div class="login_panel">
+<div class="loginwrap">
+<div class="selectWrapper">
+<div class="selectedvalue">NetBanking</div>
+<div class="expand">
+<ul class="loginOption">
+<li id="netbanking" class="selected">NetBanking</li>
+<li id="prepaidcard">Prepaid/ Forex Card</li>
+<li id="netsafe">Verified by Visa/ MasterCard SecureCode/ Netsafe/ RuPay PaySecure</li>
+<li id="creditcardlogin">Credit Card Login<br>
+                      (if you do not hold HDFC Bank account)</li>
+</ul>
+</div>
+</div>
+<a class="homeloginbtn" id="loginsubmit" href="javascript:;">Login</a>
+<ul class="otheropt">
+<li>
+<a href="javascript:;">Forgot Password</a>
+</li>
+<li>
+<a href="javascript:;">Register</a>
+</li>
+</ul>
+</div>
+<div class="loginbox" style="display:none;">
+<a href="javascript:void(0);" class="close"><img src="assets/images/close.gif" alt="Close" title="Close"></a>
+<div class="loginbox_top"></div>
+<div class="loginbox_bottom">
+<p class="loginheading">Login</p>
+<div class="loginboxfield clearfix">
+<input type="radio" name="login" id="netbanking"><label for="netbanking">NetBanking</label><a target="_blank" class="netbankingforgotpass" href="http://www.hdfcbank.com/htdocs/common/NetBanking/product/ipin.html?src=hp">Forgot IPIN (Password)?</a>
+</div>
+<div class="loginboxfield clearfix">
+<input type="radio" name="login" id="netsafe"><label for="netsafe">Verified by Visa/ MasterCard SecureCode/ Netsafe/ RuPay PaySecure</label>
+</div>
+<div class="loginboxfieldlast clearfix">
+<input type="radio" name="login" id="prepaidcard"><label for="prepaidcard">Prepaid/ Forex Card</label>
+</div>
+<div class="loginboxlinks clearfix">
+<a href="javascript:;"><img src="assets/images/login_butn.png" alt="Login" id="loginsubmit"></a>
+<p>
+<a href="#" id="register"><strong>Register</strong></a><a href="#" id="knowmore">Know more</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class="slidingbanners">
+<div>
+<script type="text/javascript" id="viz_373x329_slotId11">
+    (function() {
+        var protocol = location.protocol == 'https:' ? location.protocol : 'http:';
+        var m_u = protocol + '//www.vizury.com/campaign/showad.php';
+        var campaignId = '3625';
+        var suffixImpressionId = 'ONR';
+        var prefixDivId = 'viz_ifrm';
+        var prefixIframeId = 'viz_iframe';
+        <!-- Generate the impression Id For VIZVRM3625 -->
+        var impressionIdViz = function() {
+            var paddedData = function(data, lengthRequired) {
+                var seed = parseInt(new Date().getTime(), 16);
+                while (data.length < lengthRequired) {
+                    data = data + ((Math.floor(Math.random() * seed)).toString(16));
+                }
+                data = data.slice(data.length - lengthRequired);
+                return data;
+            };
+            var time = parseInt(new Date().getTime() / 1000, 10).toString(16);
+            var seed = parseInt(new Date().getTime() / 1000, 16);
+            var random = (Math.floor(Math.random() * seed)).toString(16);
+            time = paddedData(time, 8);
+            random = paddedData(random, 15);
+            var impressionId = campaignId + time + random + suffixImpressionId;
+            return impressionId;
+        }();
+        <!-- Get the first party cookie and pass it -->
+        var firstPartyCookie =  function(cookieName) {
+            var cookieData = document.cookie;
+            if (!cookieName) {
+                return "";
+            }
+            var cookieDataArr = cookieData.split(";");
+            for (var cookieD in cookieDataArr) {
+                if (cookieDataArr.hasOwnProperty(cookieD)) {
+                    var cookieValuePair = cookieDataArr[cookieD].match(/\s*(.*)=(.*)/);
+                    if (cookieValuePair) {
+                        if (cookieValuePair[1] === cookieName && cookieValuePair[2]) {
+                            return cookieValuePair[2];
+                        }
+                    }
+                }
+            }
+            return "";
+        }('_vz');
+        document.write('<scr' + 'ipt type=\'text/javascript\' src=\'' + m_u);
+        document.write('?width=373');
+        document.write('&amp;height=329');
+        document.write('&amp;force_adv_id=VIZVRM' + campaignId);
+        document.write('&amp;is_on_site=1');
+        document.write('&amp;rid=' + impressionIdViz);
+        document.write('&amp;sfpc=' + firstPartyCookie);
+        document.write('&amp;loc=' + escape(window.location));
+        if (document.referrer) document.write('&amp;rfr=' + escape(document.referrer));
+        document.write('\'><\/scr' + 'ipt>');
+        window.setTimeout(function() {
+            var divLoaded = document.getElementById(prefixDivId + impressionIdViz);
+            if (!divLoaded) {
+                var viz_div = document.createElement('div');
+                viz_div.setAttribute('id', prefixDivId + impressionIdViz);
+                if (!document.getElementsByTagName('body')[0]) {
+                    document.write('<body style="margin:0"/>');
+                }
+                if (document.getElementById('viz_373x329_slotId11') && document.getElementById('viz_373x329_slotId11').parentNode && 
+			document.getElementById('viz_373x329_slotId11').parentNode.nodeName !== 'HEAD') {
+                    document.getElementById('viz_373x329_slotId11').parentNode.appendChild(viz_div);
+                } else {
+                    document.getElementsByTagName('body')[0].appendChild(viz_div);
+                }
+                var viz_div_created = document.getElementById(prefixDivId + impressionIdViz);
+                var showad = document.createElement('iframe');
+                var defaultSrc = protocol + '//cdn18.vizury.com/banners/images/common/images/IN_HDFC_DMP/reco/DmpSlotId11.html';
+                showad.setAttribute('src', defaultSrc);
+                showad.setAttribute('scrolling', 'no');
+                showad.setAttribute('width', '373');
+                showad.setAttribute('height', '329');
+                showad.setAttribute('marginheight', '0px');
+                showad.setAttribute('marginwidth', '0');
+                showad.setAttribute('frameborder', '0');
+		showad.setAttribute('id', prefixIframeId + impressionIdViz);
+                viz_div_created.appendChild(showad);
+                showad.contentWindow.document.body.style.border = 'none';
+                showad.contentWindow.document.body.style.padding = '0';
+                showad.contentWindow.document.body.style.margin = '0';
+            }
+        }, 3000);
+    })();
+</script>
+</div>
+</div>
+</div>
+<div class="overlayFlipBanner"></div>
+</div>
+</div>
+</div>
+<div id="element3">
+<div id="element4"><div  ><!--New Home Content-->
+<div class="clear"></div>
+<div class="homecontent_wrapper">
+<div class="homeSingleTabcontent" id="hometab1">
+<div class="homequicklinks">
+<div class="homequicklinkscol">
+<h2>Check Eligibility</h2>
+<div class="homequicklinkslist">
+<ul>
+<li>
+<a href="https://www.hdfcbanksmartapply.com/credit-card/apply-online.html?WT.mc_id=P4_HP_ChkElg1_CC_8816&amp;_ga=1.38242470.402093620.1472201385">Credit Card</a>
+</li>
+<li>
+<a href="https://apply.hdfcbank.com/dapweb/personal?utm_campaign=P4_hp_ChkElig_PL&amp;_ga=1.38242470.402093620.1472201385">Personal Loan</a>
+</li>
+<li>
+<a href="https://www.hdfcbanksmartapply.com/two-wheeler-loan/compare-interest-rates.html?WT.mc_id=P4_hp_ChkElig_TWL&amp;_ga=1.38242470.402093620.1472201385">Two Wheeler Loan</a>
+</li>
+<li>
+<a href="https://www.hdfcbanksmartapply.com/car-loan/compare-interest-rates.html?WT.mc_id=P4_HP_CheckElig_HP_01022016_CL&amp;_ga=1.38242470.402093620.1472201385">Car Loan</a>
+</li>
+<li>
+<a href="https://home-loans.hdfc.com/wl1?WT.mc_id=P4_HP_ChkElig_HL">Home Loan</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="homequicklinkscol">
+<h2>Quick Links</h2>
+<div class="homequicklinkslist scrollbars" style="overflow: hidden; position: relative">
+<ul>
+<li>
+<a href="/samsung-pay/index.htm">Introducing Samsung Pay</a>
+</li>
+<li>
+<a href="/personal/faq/faq-inner/gts8mitp-gts8mity">FAQs on ATM</a>
+</li>
+<li>
+<a href="/htdocs/common/onlineservices/LAS-Demo/index.html?src=quicklinks">Loan Against Shares Demo</a>
+</li>
+<li>
+<a href="/htdocs/common/gift-voucher/index.htm">Buy Gift cards</a>
+</li>
+<li>
+<a href="/personal/interest-rates?src=hp">Interest Rates</a>
+</li>
+<li>
+<a href="http://uat.hdfcbank.com/htdocs/common/other/APY_Scheme/index.html">Atal Pension Yojana</a>
+</li>
+<li>
+<a href="http://www.hdfcbank.com/htdocs/common/PMSBY/index.htm">Pradhan Mantri Suraksha Bima Yojana</a>
+</li>
+<li>
+<a href="http://www.hdfcbank.com/htdocs/common/other/PMJJBY_Insurance/index.html">Pradhan Mantri Jeevan Jyoti Bima Yojana</a>
+</li>
+<li>
+<a href="/personal/form_centers/form_centers">Forms Center</a>
+</li>
+<li>
+<a href="/personal/credit_card/cc_track">Credit Card Tracker</a>
+</li>
+<li>
+<a href="/assets/pdf/forex_rates/rates.pdf">Forex Rates</a>
+</li>
+<li>
+<a href="/personal/find-your-nearest/find-phone-banking">Phone Banking</a>
+</li>
+<li>
+<a href="/personal/rewards/simple-rewards-catalogue?src=hp">Credit Cards Rewards Redemption Program</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="homequicklinkscol">
+<h2>Calculators</h2>
+<div class="homequicklinkslist">
+<ul>
+<li>
+<a href="http://www.hdfcbank.com/personal/credit-card-emi-calculator">Credit Card Loan EMI Calculator</a>
+</li>
+<li>
+<a href="http://www.hdfcbank.com/personal/personal-loan-emi-calculator">Personal Loan EMI Calculator</a>
+</li>
+<li>
+<a href="http://www.hdfcbank.com/car-loan-emi-calculator/index.aspx">Car Loan EMI Calculator</a>
+</li>
+<li>
+<a href="/two-wheeler-loan-emi-calculator/index.aspx">Two Wheeler Loan EMI Calculator</a>
+</li>
+</ul>
+<a class="animatedseealllink" href="http://www.hdfcbank.com/personal/article/tools-and-utilities?src=hp">SEE ALL</a>
+</div>
+</div>
+</div>
+<div class="homepagenewssection">
+<div class="homelearningcenter">
+<h2>Learning Center<span id="hmlearningcentercount"></span>
+</h2>
+<div class="homelearningcenterinner">
+<div class="homelearningcenterinnerlist scrollbars" style="overflow: hidden; position: relative">
+<ul>
+<li>
+<div class="image">
+<img alt="Safety and Security" src="/assets/images/declutter/hmlearningcenter-security.jpg"></div>
+<div class="content">
+<h3>
+<a href="http://www.hdfcbank.com/personal/article/know-your-finances-article/hto2kzho/1341563676">Seven tips for safe internet banking- </a><span>Safety and Security</span>
+</h3>
+<p class="dateandlikes"></p>
+<p class="desc">Online banking can save you a lot of time and effort, you can  undertake most transactions from the comforts of your home.  However, it is crucial to use internet banking safely</p>
+</div>
+</li>
+<li>
+<div class="image">
+<img alt="Credit Cards" src="/assets/images/declutter/hmlearningcenter-cards.jpg"></div>
+<div class="content">
+<h3>
+<a href="http://www.hdfcbank.com/personal/article/know-your-finances-article/hto2kzho/1323950700">Smart tips to avoid credit card frauds- </a><span>Credit Cards</span>
+</h3>
+<p class="dateandlikes"></p>
+<p class="desc">As the technology for making life comfortable progressed, so did fraudulent techniques to trick credit card holders.</p>
+</div>
+</li>
+</ul>
+</div>
+<p class="readalllink">
+<a href="http://www.hdfcbank.com/personal/article/know-your-finances">READ ALL</a>
+</p>
+</div>
+</div>
+<div class="news">
+<h2>News<span id="hmnewscount"></span>
+</h2>
+<div class="homepagenewsTicker">
+<ul>
+<li>
+<img alt="news2" src="/assets/images/hpg-news1.jpg"></li>
+</ul>
+<span title="Previous" class="prev"></span><span title="Next" class="next"></span>
+</div>
+<p class="readalllink">
+<a href="http://www.hdfcbank.com/aboutus/News_Room/press_room.htm">READ ALL</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div  >
+<p>
+<script type="text/javascript">
+
+function salaryUrlOnChange(ele) {
+  
+var optVal =  $(ele).val();
+		if(optVal == 'Other'){
+		
+		window.open("https://leads.hdfcbank.com/applications/webforms/apply/HDFC_CorpSalAcct/CorpSalAcct.aspx?src=newhp" , "_blank");	
+		}else if(optVal != 'Other'){
+		     window.open("https://apply.hdfcbank.com/Corporatesalaryaccount/Login?utm_campaign=P4_newhomepage_flipcoin_08022016_SA" , "_blank");				
+        }		
+	
+}
+
+function savingUrlOnChange(ele) {
+  
+var optVal =  $(ele).val();
+		if(optVal == 'Other'){
+			window.open("https://leads.hdfcbank.com/applications/new_webforms/apply/savings-account/Index.aspx?su=Regular%20Savings%20A/c%20Lead&Promocode=P4_hp_AppOnl_SA&SourceCode=&page=&FormSource=Old" , "_blank");
+		}else if(optVal != 'Other'){
+		     window.open("https://apply.hdfcbank.com/SavingsAccount/Login?utm_campaign=P4_newhomepage_flipcoin_08022016_SA");				
+        }		
+	
+}
+
+
+</script>
+</p>
+<div class="overlayBanner"></div>
+<div class="overlayPrdct"></div>
+<div class="lightBoxPrdct salaryPopup">
+<a title="Close" class="closeBtnPrdct" href="javascript:;"></a>
+<div class="contentBox">
+<p>Dear Customer,</p>
+<p>You can now open a Corporate Salary Account online &amp; get your <strong>Account number, Cheque Book &amp; Debit Card in 48 hours*.</strong>
+</p>
+<p>This facility is currently available in following cities (drop down). Pick the city you want to open the account in.</p>
+<div class="selectWrapper">
+<div class="selectedvalue">Select City</div>
+<select onchange="salaryUrlOnChange(this)"><option selected value="select">Select City</option><option value="Ahmedabad">Ahmedabad</option><option value="Bangalore">Bangalore</option><option value="Coimbatore">Coimbatore</option><option value="Chennai">Chennai</option><option value="Delhi">Delhi</option><option value="Indore">Indore</option><option value="Jaipur">Jaipur</option><option value="Hyderabad">Hyderabad</option><option value="Kolkata">Kolkata</option><option value="Lucknow">Lucknow</option><option value="Ludhiana">Ludhiana</option><option value="Mumbai">Mumbai</option><option value="Patna">Patna</option><option value="Pune">Pune</option><option value="Surat">Surat</option><option value="Other">Others</option></select>
+</div>
+<p class="note">*Terms &amp; Conditions apply</p>
+</div>
+</div>
+<div class="lightBoxPrdct savingsPopup">
+<a title="Close" class="closeBtnPrdct" href="javascript:;"></a>
+<div class="contentBox">
+<p>Dear Customer,</p>
+<p>You can now open a Savings Account online.</p>
+<p>This facility is currently available in following cities (drop down). Pick the city you want to open the account in.</p>
+<div class="selectWrapper">
+<div class="selectedvalue">Select City</div>
+<select onchange="savingUrlOnChange(this)"><option selected value="select">Select City</option><option value="Ahmedabad">Ahmedabad</option><option value="Bangalore">Bangalore</option><option value="Coimbatore">Coimbatore</option><option value="Chennai">Chennai</option><option value="Delhi">Delhi</option><option value="Indore">Indore</option><option value="Jaipur">Jaipur</option><option value="Hyderabad">Hyderabad</option><option value="Kolkata">Kolkata</option><option value="Lucknow">Lucknow</option><option value="Ludhiana">Ludhiana</option><option value="Mumbai">Mumbai</option><option value="Patna">Patna</option><option value="Pune">Pune</option><option value="Surat">Surat</option><option value="Other">Others</option></select>
+</div>
+<p class="note">*Terms &amp; Conditions apply</p>
+</div>
+</div>
+</div>
+</div></div></div><div  >
+<div class="footer_wrapper">
+<div class="footer clearfix">
+<div class="floatingfooterlinks">
+<ul>
+<li class="firstItem">
+<a target="_self" onclick="" rel="" href="/aboutus/careers/default.htm">Careers</a>
+</li>
+<li>
+<a target="_self" onclick="" rel="" href="/aboutus/default.htm">About us</a>
+</li>
+<li>
+<a target="_self" onclick="" rel="" href="/aboutus/csr/index.html">CSR</a>
+</li>
+<li>
+<a target="_self" onclick="" rel="" href="/personal/form_centers/form_centers">Forms Center</a>
+</li>
+<li>
+<a target="_self" onclick="ceeboxpopup(this,'/assets/popuppages/dap.htm','normalpop',421,390)" rel="width=375 height=213" href="javascript:;">DAP</a>
+</li>
+<li>
+<a target="_self" onclick="" rel="" href="/personal/fees_charges/fees_charges">Service charges &amp; fees</a>
+</li>
+<li>
+<a target="_self" onclick="" rel="" href="http://ideabank.hdfcbank.com/index.aspx">IdeaBank</a>
+</li>
+<li>
+<a target="_self" onclick="ceeboxpopup(this,'/assets/popuppages/hpg_footer_feedback.htm','normalpop',421,390)" rel="width=375 height=213" href="javascript:;">Feedback</a>
+</li>
+<li class="last">
+<a target="_self" onclick="ceeboxpopup(this,'/assets/popuppages/hpg_footer_imp_messages.htm','normalpop',421,390)" rel="width=375 height=213" href="javascript:;">Important Messages</a>
+</li>
+<li class="fotterSocialNet last">
+<ul class="socialNetIcons">
+<li>
+<a target="_blank" class="facebook" href="http://bit.ly/HDFCBankOnFacebook">Facebook</a><span class="toolTip">Visit us on Facebook</span>
+</li>
+<li>
+<a target="_blank" class="youTube" href="http://bit.ly/HDFCYoutube">YouTube</a><span class="toolTip">Visit us on YouTube</span>
+</li>
+<li>
+<a target="_blank" class="twitter" href="http://bit.ly/Hdfctwitter">Twitter</a><span class="toolTip">Visit us on Twitter</span>
+</li>
+<li>
+<a target="_blank" class="googlePlus" href="http://bit.ly/Hdfcgoogleplus">Google+</a><span class="toolTip">Visit us on Google+</span>
+</li>
+<li>
+<a target="_blank" class="pinterest" href="http://pinterest.com/hdfcbank">Pinterest</a><span class="toolTip">Visit us on Pinterest</span>
+</li>
+<li>
+<a target="_blank" class="likedin" href="http://bit.ly/linkedinhdfc">Linkedin</a><span class="toolTip">Visit us on Linkedin</span>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="groupwebsites calc">
+<p>EMI Calculators:</p>
+<ul>
+<li>
+<a href="/personal/personal-loan-emi-calculator" target="_blank" title="Personal Loan EMI Calculator">Personal Loan EMI Calculator</a>
+</li>
+<li>
+<a href="/car-loan-emi-calculator/index.aspx" target="_blank" title="Car Loan EMI Calculator">Car Loan EMI Calculator</a>
+</li>
+<li>
+<a href="/two-wheeler-loan-emi-calculator/index.aspx" target="_blank" title="Two Wheeler Loan EMI Calculator">Two Wheeler Loan EMI Calculator</a>
+</li>
+<li>
+<a href="/RD_Calculator/rdcalculator.aspx" target="_blank" title=" RD Calculator"> RD Calculator</a>
+</li>
+<li>
+<a href="/personal/fixed-deposit-calculator" target="_blank" title=" FD Calculator"> FD Calculator</a>
+</li>
+</ul>
+</div>
+<div class="groupwebsites ">
+<p>HDFC Group websites:</p>
+<ul>
+<li>
+<a target="_blank" href="http://www.hdfc.com">HDFC Ltd</a>
+</li>
+<li>
+<a target="_blank" href="http://www.hdfcsec.com">HDFC Securities</a>
+</li>
+<li>
+<a target="_blank" href="http://www.hdfcfund.com">HDFC Mutual Fund</a>
+</li>
+<li>
+<a target="_blank" href="http://www.hdfcrealty.com">HDFC Realty</a>
+</li>
+<li>
+<a target="_blank" href="http://www.hdfclife.com/">HDFC Life</a>
+</li>
+<li>
+<a target="_blank" href="http://www.hdfcergo.com">HDFC ERGO</a>
+</li>
+<li>
+<a target="_blank" href="http://www.hdfcpension.com/">HDFC Pension</a>
+</li>
+<li>
+<a target="_blank" href="http://www.hdbfs.com">HDB Financial Services</a>
+</li>
+</ul>
+</div>
+<div class="footerLinks">
+<ul>
+<li class="firstItem">
+<a rel="nofollow" target="_self" href="https://leads.hdfcbank.com/applications/misc/dnc/dnc.htm">Do-Not-Call Registration</a>
+</li>
+<li>
+<a target="_self" href="/assets/pdf/Investor_Presentation.pdf">Investor Information</a>
+</li>
+<li>
+<a target="_self" href="/htdocs/common/us_patriot_act_disclaimer.htm">US Patriot Act Certificate</a>
+</li>
+<li>
+<a target="_self" href="/aboutus/basel_disclosures/default.htm">Regulatory Disclosures Section</a>
+</li>
+<li>
+<a target="_blank" href="https://dncdedupe.hdfcbank.com/dnc/">DNC Dedupe</a>
+</li>
+<li>
+<a rel="nofollow" target="_blank" href="/htdocs/common/Unparliamentary_Language/index.html">Use Of Unparliamentary Language By Customers</a>
+</li>
+</ul>
+<ul>
+<li class="firstItem">
+<a target="_self" onclick="" rel="" href="/aboutus/terms_conditions/privacy.htm">Privacy</a>
+</li>
+<li>
+<a target="_self" onclick="" rel="" href="/personal/security">Security</a>
+</li>
+<li>
+<a target="_self" onclick="" rel="" href="/aboutus/terms_conditions/default.htm">Website usage terms</a>
+</li>
+<li>
+<a target="_self" onclick="" rel="" href="/personal/glossary">Glossary</a>
+</li>
+<li>
+<a target="_self" onclick="ceeboxpopup(this,'/assets/popuppages/important_notices.htm','tncceebox',550,500)" rel="width=515 height=360" href="javascript:;">Important notices</a>
+</li>
+<li>
+<a target="_self" onclick="ceeboxpopup(this,'/assets/popuppages/corporate.htm','treasuryrates',900,500)" rel="width=875 height=360" href="javascript:;">Our Corporate Commitment</a>
+</li>
+<li>
+<a target="_self" onclick="" rel="" href="/personal/article/know-your-finances">Learning Center</a>
+</li>
+<li>
+<a target="_blank" onclick="" rel="" href="/personal/sitemap"> Sitemap</a>
+</li>
+<li>
+<a target="_blank" onclick="" rel="" href="https://www.youtube.com/playlist?list=PL24irhV4I_teEOAu9joI-HiIkbqPoxKvv">Watch Videos</a>
+</li>
+</ul>
+<p class="footerlinktitle">Products at a glance</p>
+<ul class="footerthirdrow">
+<li class="firstItem">
+<a target="_blank" href="/personal/product-at-glance/sitemap-personal">Personal</a>
+</li>
+<li>
+<a target="_blank" href="/personal/product-at-glance/sitemap-nri">NRI</a>
+</li>
+<li>
+<a target="_blank" href="/personal/product-at-glance/sitemap-sme">SME</a>
+</li>
+<li>
+<a target="_blank" href="/personal/product-at-glance/sitemap-wholesale">Wholesale</a>
+</li>
+</ul>
+<p class="greytext">&copy; 2017 HDFC Bank Ltd. All rights reserved.</p>
+<p class="bestviewed">Site best viewed in <a href="http://www.microsoft.com/download/en/details.aspx" alt="This is to inform you that by clicking on the hyperlink, you will be exiting HDFC Bank" title="This is to inform you that by clicking on the hyperlink, you will be exiting HDFC Bank" rel="nofollow" target="_blank">IE7+</a>, <a href="http://www.mozilla.org/en-US/firefox/3.5/releasenotes/" alt="This is to inform you that by clicking on the hyperlink, you will be exiting HDFC Bank" title="This is to inform you that by clicking on the hyperlink, you will be exiting HDFC Bank" rel="nofollow" target="_blank">Firefox 3.5+</a>, <a href="https://www.google.com/chrome/index.html" alt="This is to inform you that by clicking on the hyperlink, you will be exiting HDFC Bank" title="This is to inform you that by clicking on the hyperlink, you will be exiting HDFC Bank" rel="nofollow" target="_blank">Chrome 3+</a>, <a href="http://www.apple.com/safari/download/" alt="This is to inform you that by clicking on the hyperlink, you will be exiting HDFC Bank" title="This is to inform you that by clicking on the hyperlink, you will be exiting HDFC Bank" rel="nofollow" target="_blank">Safari 5.0+</a> at 1024 x 768 pixels resolution.</p>
+</div>
+<div class="footerSocialLinks">
+<a target="_blank" href="/personal/security"><img alt="//Properties/Data/Datum[@ID='D01']/DCR/FooterNavigation/securebankinglogo/@title" src="/assets/images/securebanking-logo.png" class="verisign"></a><img alt="//Properties/Data/Datum[@ID='D01']/DCR/FooterNavigation/ssl/@title" src="/assets/images/verisign.gif" class="verisign"></div>
+</div>
+<div class="callback noslide">
+<a href="javascript:;" class="callbkBtn" title="Get a Call Back"></a>
+<div class="callbackBox">
+<div class="top"></div>
+<div class="mid">
+<div class="ud_prevBtn disable"></div>
+<ul class="callbackList">
+<li class="home-loan">
+<a target="_blank" href="https://home-loans.hdfc.com/wl1?WT.mc_id=P4_hp_Expando_HNET5915_HL">Home Loan</a>
+</li>
+<li class="credit-card">
+<a target="_blank" href="https://leads.hdfcbank.com/applications/new_webforms/apply/credit-card/Index.aspx?promo=P4_hp_Expando_HNET5915_CC">Credit Card</a>
+</li>
+<li class="personal-loan">
+<a target="_blank" href="https://leads.hdfcbank.com/applications/new_webforms/apply/personal-loan/Index.aspx?myLoan=pl&amp;pcode=P4_hp_Expando_HNET5915_PL">Personal Loan </a>
+</li>
+<li class="car-loan">
+<a target="_blank" href="https://leads.hdfcbank.com/applications/new_webforms/apply/car-loan/Index.aspx?myLoan=alnc&amp;pcode=P4_hp_Expando_HNET5915_CL">Car Loan</a>
+</li>
+<li class="twowheeler-loan">
+<a target="_blank" href="https://leads.hdfcbank.com/applications/new_webforms/apply/two-wheeler-loan/Index.aspx?myLoan=cl&amp;pcode=P4_hp_Expando_HNET5915_TWL">Two Wheeler Loan</a>
+</li>
+<li class="loan-against-property">
+<a target="_blank" href="https://leads.hdfcbank.com/applications/webforms/apply/lap_apply_frm.asp?promocode=P4_hp_Expando_HNET5915_LAP">Loan Against Property</a>
+</li>
+<li class="savings-account">
+<a rel="width=440 height=460" onclick="ceeboxpopup(this,'https://leads.hdfcbank.com/applications/misc/bannercounter/bannercounter_2009.asp?banname=hpg_Expando_SA','click2talk_popup' ,469,460)" class="ceebox" id="tncceebox">Savings Account</a>
+</li>
+<li class="life-insurance">
+<a rel="width=440 height=460" onclick="ceeboxpopup(this,'https://leads.hdfcbank.com/applications/misc/bannercounter/bannercounter_2009.asp?banname=hpg_Expando_LI','click2talk_popup' ,469,460)" class="ceebox" id="tncceebox">Life Insurance</a>
+</li>
+</ul>
+<div class="ud_nextBtn"></div>
+</div>
+<div class="boto"></div>
+</div>
+</div>
+</div>
+</div>
+</div></body></html><!-- SN1024 2.1.2 1.4.18-->

@@ -1,0 +1,1034 @@
+<!DOCTYPE html>
+
+<html dir="ltr" lang="zh-CN">
+<head>
+    <title>Microsoft Office 主页</title>
+
+        <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <meta name="description" content="使用 Microsoft Word、PowerPoint、Excel 和 OneNote 的在线版本免费进行协作。在 OneDrive 中在线保存文档、电子表格和演示文稿。与他人共享和同时协同工作。" />
+        <meta name="keywords" content="Microsoft Office Online, 协作, 免费 Office, Word Online, PowerPoint Online, Excel Online, OneNote Online, Outlook.com, Outlook, OneDrive, Office Online, Word Web App, PowerPoint Web App, Excel Web App, OneNote Web App, Office 模板, Office 365, Microsoft Office 365" />
+        <meta name="google-site-verification" content="0XffSFN_nfS9q6Xu_RDjgA4ZZsTylbD1AYNwisYaBgg" />
+        <meta name="google-site-verification" content="DF77mV5q9pS9MMet9A9Dm7jYAD2x5W26U2gGEuJoPO4" />
+        <meta name="ms.lang" content="zh" />
+        <meta name="ms.loc" content="CN" />
+        <meta name="ms.ocpub.assetid" content="UnAuthOhp" />
+        <meta name="ms.env" content="prod" />
+        <meta name="ms.sitever" content="4" />
+        <meta name="ms.flightid" content="getmorelink|showteamspromotioncf|shellnolicenseretry" />
+
+<link rel="stylesheet" type="text/css" href="//officehome.msocdn.com/s/2db71c27/Areas/Home/Content/js/build/bundles/unauth.css">
+    
+    
+
+
+
+
+        <link rel="shortcut icon" type="image/x-icon" href="//officehome.msocdn.com/s/06eabf23/Images/favicon.ico" />
+
+            <link rel="dns-prefetch" href="//officehome.msocdn.com" />
+            <link rel="dns-prefetch" href="//portal.office.com" />
+            <link rel="dns-prefetch" href="//outlook.office.com" />
+            <link rel="dns-prefetch" href="//login.microsoftonline.com" />
+            <link rel="dns-prefetch" href="//agent.office.net" />
+            <link rel="dns-prefetch" href="//shellprod.msocdn.com" />
+            <link rel="dns-prefetch" href="//appsforoffice.microsoft.com" />
+
+</head>
+<body>
+    <noscript>
+        
+    </noscript>
+    <div id="BannerContainer" class="bannerContainer" role="note" tabindex="0">
+        <div class="global-header banner">
+            <div class="popupOuterCellLeft">
+                <div class="popupInnerCell">
+                    <span class="popupMessage">请试用 Microsoft Edge，这是一款快速安全的浏览器，专为 Windows 10 构建。</span>
+                </div>
+            </div>
+            <div class="popupOuterCellRight">
+                <div class="popupInnerCell">
+                    <a id="bannerInfoLink" href="microsoft-edge:https://www.office.com:443/?epb=1" target="_blank" title="开始使用">开始使用</a>
+                        <a id="bannerCloseLink" role="button" title="关闭" href="#">
+                            
+
+<span  id="BannerCloseIcon" class="popupClose&#32;wf-iw&#32;wf-portal-cross" role="presentation"></span>
+                        </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script id="BannerSettings" type="application/json">
+        {
+        "dismissCookieName": "s.epb"
+        }
+    </script>
+
+    
+        <div class="marketing-header floating">
+            
+
+
+
+    <div id="pmg-global-header" class="log-appear" role="navigation" aria-label="全局导航" tabindex="0">
+        <div class="global-header">
+            <a id="pmgLnkLogo" href="https://go.microsoft.com/fwlink/p/?LinkId=717085" aria-label="Microsoft" title="Microsoft">
+                <span class="logo icon-sprite icon-sprite-microsoft_logo"></span>
+            </a>
+
+                <a id="pmgLnkSignin" href="https://www.office.com:443/login?es=Click&amp;ru=%2F" aria-label="登录" title="登录">
+                    登录
+                </a>
+        </div>
+    </div>
+    <div class="pmg-category-header-placeholder"></div>     <div id="pmg-category-header" class="pmg-category-header" role="navigation" aria-label="Office 站点导航" tabindex="0">
+        <section class="ms-grid">
+            <ul class="pmg-first-row ms-row">
+                <li class="pmg-category-header-logo">
+                    <ul class="pmg-category-header-logo-container">
+                        <li tabindex="0" id="pmg-category-header--skip-navigation-flyout-tab-placeholder" class="hide-xs show-m"></li>
+                        <li class="pmg-skip-navigation-flyout hidden">
+                            <a href="javascript: void(0);" class="body-alt" id="pmgLnkSkipMainNav" aria-label="跳过主导航" title="跳过主导航">
+                                跳过主导航
+                            </a>
+                        </li>
+                        <li>
+                            <a id="pmgLnkLogoLink" class="pmg-category-header-logo-link" href="https://www.office.com" aria-label="Office.com 主页" title="Office.com 主页">
+                                <img id="pmg-category-header--office-logo" class="pmg-logo" src="//officehome.msocdn.com/s/39b6fc28/images/desktop_office.png" />
+                                <svg focusable="false" id="pmg-category-header--expand-collapse" height="11" width="11" viewBox="0 0 1000 1000" preserveAspectRatio="xMinYMin meet" role="img"
+                                     xmlns="http://www.w3.org/2000/svg">
+                                    <title>展开或折叠</title>
+                                    <polygon fill="white" points="500 697.9 146.9 344.8 189.5 302.1 500 612.6 810.5 302.1 853.1 344.8 "></polygon>
+                                </svg>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li id="pmg-products-menu-item" class="pmg-header-item">
+                    <a class="pmg-menu-link body-alt" id="pmgLnkProducts" href="javascript: void(0);" aria-haspopup="true" aria-expanded="false" aria-controls="pmg-produces-menu-flyout" title="产品" ms.interactiontype="14">
+                        产品
+                        <svg focusable="false" id="pmg-category-header--products--expand-collapse" viewBox="0 0 1000 1000" height="11" width="11" preserveAspectRatio="xMinYMin meet" role="img"
+                             xmlns="http://www.w3.org/2000/svg">
+                            <title>展开或折叠</title>
+                            <polygon fill="white" points="500 697.9 146.9 344.8 189.5 302.1 500 612.6 810.5 302.1 853.1 344.8 "></polygon>
+                        </svg>
+                    </a>
+                    <ul id="pmg-produces-menu-flyout" class="pmg-menu hidden" role="group" aria-label="家庭版、商业版和教育版产品链接" tabindex="0">
+                        <li class="pmg-flyout-column">
+                            <ul class="pmg-flyout-body" role="group" aria-label="家庭版产品" tabindex="0">
+                                <li class="pmg-flyout-header">
+                                    <a id="pmg-for-home-header-link" class="body-alt" href="https://products.office.com/zh-CN/compare-microsoft-office-products" aria-label="家庭版概述" title="面向家庭">面向家庭</a>
+                                </li>
+                                <li class="pmg-flyout-item">
+                                    <a id="pmg-category-header--products--for-home--try" class="body-alt" href="https://products.office.com/zh-CN/try" aria-label="试用" title="试用">试用</a>
+                                </li>
+                                <li class="pmg-flyout-item">
+                                    <a id="pmg-category-header--products--for-home--buy" class="body-alt" href="https://products.office.com/zh-CN/buy/office" aria-label="购买" title="购买">购买</a>
+                                </li>
+                                <li class="pmg-flyout-item">
+                                    <a id="pmg-category-header--products--for-home--for-households" class="body-alt" href="https://products.office.com/zh-CN/office-365-home" aria-label="用于家庭" title="用于家庭">用于家庭</a>
+                                </li>
+                                <li class="pmg-flyout-item">
+                                    <a id="pmg-category-header--products--for-home--for-individuals" class="body-alt" href="https://products.office.com/zh-CN/office-365-personal" aria-label="面向个人" title="面向个人">面向个人</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="pmg-flyout-column">
+                            <ul class="pmg-flyout-body" role="group" aria-label="商业版产品" tabindex="0">
+                                <li class="pmg-flyout-header">
+                                    <a id="pmg-for-business-header-link" class="body-alt" href="https://products.office.com/zh-CN/business/office" aria-label="商业版概述" title="面向商业">面向商业</a>
+                                </li>
+                                <li class="pmg-flyout-item">
+                                    <a id="pmg-category-header--products--for-business--smb" class="body-alt" href="https://products.office.com/zh-CN/business/explore-office-365-for-business" aria-label="SMB" title="SMB">SMB</a>
+                                </li>
+                                <li class="pmg-flyout-item">
+                                    <a id="pmg-category-header--products--for-business--enterprise" class="body-alt" href="https://products.office.com/zh-CN/business/enterprise-productivity-tools" aria-label="企业" title="企业">企业</a>
+                                </li>
+                                <li class="pmg-flyout-item">
+                                    <a id="pmg-category-header--products--for-business--it" class="body-alt" href="https://products.office.com/zh-CN/business/office-for-it-pros" aria-label="I.T." title="IT">IT</a>
+                                </li>
+                                <li class="pmg-flyout-item">
+                                    <a id="pmg-category-header--products--for-business--plans-pricing" class="body-alt" href="https://products.office.com/zh-CN/business/compare-office-365-for-business-plans" aria-label="计划与定价" title="计划与定价">计划与定价</a>
+                                </li>
+                                <li class="pmg-flyout-item">
+                                    <a id="pmg-category-header--products--for-business--customer-stories" class="body-alt" href="https://products.office.com/zh-CN/business/office-365-customer-stories-office-testimonials" aria-label="客户案例" title="客户案例">客户案例</a>
+                                </li>
+                                <li class="pmg-flyout-item">
+                                    <a id="pmg-category-header--products--for-business--trust-center" class="body-alt" href="https://products.office.com/zh-CN/business/office-365-trust-center-welcome" aria-label="安全和隐私" title="安全和隐私">安全和隐私</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="pmg-flyout-column pmg-last-flyout-column">
+                            <ul class="pmg-flyout-body" role="group" aria-label="教育版产品" tabindex="0">
+                                <li class="pmg-flyout-header">
+                                    <a id="pmg-for-education-header-link" class="body-alt" href="https://products.office.com/zh-CN/student/office-in-education" aria-label="教育版概述" title="面向教育">面向教育</a>
+                                </li>
+                                <li class="pmg-flyout-item">
+                                    <a id="pmg-category-header--products--for-education--for-teachers" class="body-alt" href="https://go.microsoft.com/fwlink/?linkid=823414" aria-label="面向学生和教师" title="面向学生和教师">面向学生和教师</a>
+                                </li>
+                                <li class="pmg-flyout-item">
+                                    <a id="pmg-category-header--products--for-education--for-schools" class="body-alt" href="https://go.microsoft.com/fwlink/?linkid=823416" aria-label="面向学校" title="面向学校">面向学校</a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li class="pmg-header-item">
+                    <a class="pmg-menu-link body-alt " id="pmgLnkTemplate" href="https://go.microsoft.com/fwlink/p/?LinkID=506569" title="模板">
+                        模板
+                    </a>
+                </li>
+                <li class="pmg-header-item">
+                    <a class="category-link body-alt " id="pmgLnkSupport" href="https://go.microsoft.com/fwlink/p/?LinkID=506714" title="支持">
+                        支持
+                    </a>
+                </li>
+                <li class="pmg-header-item">
+                    <a class="category-link body-alt" id="pmgLnkMyAccount" href="https://office.com/start/MyAccount.aspx?omkt=zh-CN" title="我的帐户">
+                        我的帐户
+                    </a>
+                </li>
+            </ul>
+
+        </section>
+    </div>
+
+        </div>
+
+
+    
+
+
+
+
+
+
+
+
+<div id="hero-banner-section" class="first-body-link log-appear" role="banner" aria-label="试用 Office 小型企业版" tabindex="0">
+    <div class="background-positioner">
+        <img id="hero-banner-background-mobile" class="background animate-before parallax-item" data-imgset="hero-banner-background" data-media-query="(max-width: 768px)" data-src=//officehome.msocdn.com/s/908fce3c/images/home4-hero-mobile.jpg alt="试用 Office 小型企业版" aria-hidden="true" />
+        <img id="hero-banner-background-desktop" class="background animate-before parallax-item" data-imgset="hero-banner-background" data-src=//officehome.msocdn.com/s/1b08727c/images/home4-hero-desktop.jpg alt="试用 Office 小型企业版" aria-hidden="true" />
+    </div>
+    <div id="headline-wrapper">
+        <div id="headline-content-pusher"></div> 
+        <div id="headline-content" class="animate-before">
+            <div class="hero-banner-announce-heading" tabindex="0">
+                <h1 class="hero-headline">接下来的一年，你有什么目标?</h1>
+                <p class="hero-sub-headline">使用 Office，你将体验充满无限可能的 365 天。从此刻开始。</p>
+            </div>
+            <ul class="buttons">
+                <li>
+                    <a id="hero-banner-for-home-link" class="button" href="https://products.office.com/zh-CN/compare-microsoft-office-products" aria-role="button" aria-label="试用 Office 家庭版">
+                        面向家庭
+                    </a>
+                </li>
+                <li>
+                    <a id="hero-banner-for-business-link" class="button" href="https://products.office.com/zh-CN/business/office" aria-role="button" aria-label="试用 Office 商业版">
+                        面向商业
+                    </a>
+                </li>
+            </ul>
+            <div id="signin-section">
+                <div id="signin-subtitle">
+                    <hr />
+                </div>
+                <span id="signin-prompt" tabindex="0">已拥有帐户?</span>
+                <a id="signin-link" class="light-link" href="https://www.office.com:443/login?es=Click&amp;ru=%2F" aria-label="登录">登录</a>
+            </div>
+
+            <div id="install-office-support-section">
+                <a id="install-office-support-link" class="light-link" href="https://go.microsoft.com/fwlink/?linkid=821947" aria-label="了解如何安装 Office">了解如何安装 Office</a>
+            </div>
+
+                <div id="edu-office-section">
+                    <span id="edu-office-prompt" tabindex="0">你是学生还是教师?</span>
+                    <a id="edu-office-link" class="light-link" href="https://products.office.com/zh-CN/student/office-in-education" aria-label="转到 Office 365 教育版的“注册”页面，免费获取 Office">免费获取 Office</a>
+                </div>
+        </div>
+    </div>
+</div>
+
+<div id="app-launcher-section" class="log-appear" role="main" aria-labelledby="app-launcher-heading" tabindex="0">
+
+    <div class="top group">
+        <h3 id="app-launcher-heading">开始免费在线工作</h3>
+
+        
+    </div>
+    <ul id="app-launcher-apps-list" class="apps-list group animate-before" tabindex="0">
+            <li>
+                <a id="ShellWordOnline_link" class="action" href="https://office.live.com/start/Word.aspx?omkt=zh-CN" target="" aria-label="Word" data-color="#2b579a">
+                    <div class="icon-expander" style="background-color: #2b579a">
+                        <div class="icon-holder">
+                            
+
+<span  class="icon&#32;wf-iw&#32;wf-portal-word"></span>
+
+                            <div class="apptilelabel">Word</div>
+                        </div>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a id="ShellExcelOnline_link" class="action" href="https://office.live.com/start/Excel.aspx?omkt=zh-CN" target="" aria-label="Excel" data-color="#217346">
+                    <div class="icon-expander" style="background-color: #217346">
+                        <div class="icon-holder">
+                            
+
+<span  class="icon&#32;wf-iw&#32;wf-portal-excel"></span>
+
+                            <div class="apptilelabel">Excel</div>
+                        </div>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a id="ShellPowerPointOnline_link" class="action" href="https://office.live.com/start/PowerPoint.aspx?omkt=zh-CN" target="" aria-label="PowerPoint" data-color="#D24726">
+                    <div class="icon-expander" style="background-color: #D24726">
+                        <div class="icon-holder">
+                            
+
+<span  class="icon&#32;wf-iw&#32;wf-portal-powerpoint"></span>
+
+                            <div class="apptilelabel">PowerPoint</div>
+                        </div>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a id="ShellOneNoteOnline_link" class="action" href="https://www.onenote.com/notebooks?omkt=zh-CN" target="" aria-label="OneNote" data-color="#80397B">
+                    <div class="icon-expander" style="background-color: #80397B">
+                        <div class="icon-holder">
+                            
+
+<span  class="icon&#32;wf-iw&#32;wf-portal-onenote"></span>
+
+                            <div class="apptilelabel">OneNote</div>
+                        </div>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a id="ShellDocuments_link" class="action" href="https://office.live.com/start/OneDrive.aspx?omkt=zh-CN" target="" aria-label="OneDrive" data-color="#094ab2">
+                    <div class="icon-expander" style="background-color: #094ab2">
+                        <div class="icon-holder">
+                            
+
+<span  class="icon&#32;wf-iw&#32;wf-portal-cloud"></span>
+
+                            <div class="apptilelabel">OneDrive</div>
+                        </div>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a id="ShellMail_link" class="action" href="https://office.live.com/start/Outlook.aspx?omkt=zh-CN" target="" aria-label="邮件" data-color="#0072C6">
+                    <div class="icon-expander" style="background-color: #0072C6">
+                        <div class="icon-holder">
+                            
+
+<span  class="icon&#32;wf-iw&#32;wf-portal-mail"></span>
+
+                            <div class="apptilelabel">邮件</div>
+                        </div>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a id="ShellPeople_link" class="action" href="https://office.live.com/start/People.aspx?omkt=zh-CN" target="" aria-label="人员" data-color="#d24726">
+                    <div class="icon-expander" style="background-color: #d24726">
+                        <div class="icon-holder">
+                            
+
+<span  class="icon&#32;wf-iw&#32;wf-portal-people"></span>
+
+                            <div class="apptilelabel">人员</div>
+                        </div>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a id="ShellCalendar_link" class="action" href="https://office.live.com/start/Calendar.aspx?omkt=zh-CN" target="" aria-label="日历" data-color="#5133ab">
+                    <div class="icon-expander" style="background-color: #5133ab">
+                        <div class="icon-holder">
+                            
+
+<span  class="icon&#32;wf-iw&#32;wf-portal-calendar"></span>
+
+                            <div class="apptilelabel">日历</div>
+                        </div>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a id="ShellSway_link" class="action" href="https://sway.com/?omkt=zh-CN" target="" aria-label="Sway" data-color="#008272">
+                    <div class="icon-expander" style="background-color: #008272">
+                        <div class="icon-holder">
+                            
+
+<span  class="icon&#32;wf-iw&#32;wf-portal-swaylogo"></span>
+
+                            <div class="apptilelabel">Sway</div>
+                        </div>
+                    </div>
+                </a>
+            </li>
+            <li>
+                <a id="ShellDocsCom_link" class="action" href="https://docs.com/?omkt=zh-CN" target="" aria-label="Docs.com" data-color="#D83B01">
+                    <div class="icon-expander" style="background-color: #D83B01">
+                        <div class="icon-holder">
+                            
+
+<span  class="icon&#32;wf-iw&#32;wf-portal-docsdotcomlogo"></span>
+
+                            <div class="apptilelabel">Docs.com</div>
+                        </div>
+                    </div>
+                </a>
+            </li>
+    </ul>
+</div><div id="get-to-know-office-section" class="log-appear" role="region" aria-labelledby="get-to-know-office-heading" tabindex="0">
+    <div class="content-top animate-before">
+        <div class="get-to-know-office-announce-header" tabindex="0">
+            <h3 id="get-to-know-office-heading" class="headline">了解最新 Office</h3>
+            <p class="subtitle">从桌面到 Web 及其间各种设备，Office 都可提供完成工作所需的工具。</p>
+        </div>
+        <a id="get-to-know-office-see-whats-new-link" class="go-link" href="https://products.office.com/zh-CN/whats-new-office" title="https://products.office.com/zh-CN/whats-new-office">
+            <span class="text">查看新增功能</span>
+            <span class="icon wf-iw wf-portal-rightarrow"></span>
+        </a>
+    </div>
+</div>
+
+<div id="download-apps-section" class="log-appear" role="region" aria-labelledby="download-apps-heading" tabindex="0">
+    <div class="content-container">
+        <div class="background-positioner">
+            <img id="download-apps-background-mobile" class="background parallax-item animate-before" data-imgset="download-apps" data-src='//officehome.msocdn.com/s/c5e051ce/images/home4-download-mobile.jpg' data-media-query="(max-width: 768px)" aria-hidden="true" />
+            <img id="download-apps-background-desktop" class="background parallax-item animate-before" data-imgset="download-apps" data-src='//officehome.msocdn.com/s/541a2c84/images/home4-download.jpg' aria-hidden="true" />
+        </div>
+        <div class="content-positioner">
+            <div class="content animate-before">
+                <h3 id="download-apps-heading" class="headline" tabindex="0">获取移动应用</h3>
+                <ul id="download-apps-platform-chooser" class="before-tween" tabindex="0">
+                    <li>
+                        <button id="download-apps-platform-link-ios" class="platform-button" aria-label="为 iOS 设备下载应用" title="为 iOS 设备下载应用">
+                            <span class="icon-sprite icon-sprite-apple_icon"></span>
+                            <span class="text">iPhone and iPad</span>
+                        </button>
+                    </li>
+                    <li>
+                        <button id="download-apps-platform-link-android" class="platform-button" aria-label="为 Android 设备下载应用" title="为 Android 设备下载应用">
+                            <span class="icon-sprite icon-sprite-android_icon"></span>
+                            <span class="text">Android devices</span>
+                        </button>
+                    </li>
+                    <li>
+                        <button id="download-apps-platform-link-windows" class="platform-button" aria-label="为 Windows devices 设备下载应用" title="为 Windows devices 设备下载应用">
+                            <span class="icon-sprite icon-sprite-windows_icon"></span>
+                            <span class="text">Windows devices</span>
+                        </button>
+                    </li>
+                </ul>
+                <div class="device-choosers">
+                    <div id="download-apps-device-chooser-ios" class="device-chooser before-tween">
+                        <div class="platform">
+                            <button class="back-button" aria-label="返回" title="返回">
+                                <span class="back-icon wf-iw wf-portal-chevronThinLeft"></span>
+                            </button>
+                            <span class="platform-icon icon-sprite icon-sprite-apple_white_symbol"></span>
+                        </div>
+                        <div class="device-links" aria-label="智能手机或平板电脑链接" tabindex="0" role="group">
+                            <a id="download-apps-device-link-ios-phone" class="device-link" href="//products.office.com/zh-CN/mobile/office-iphone" aria-label="为智能手机下载应用" title="为智能手机下载应用">
+                                <span class="text">智能手机</span>
+                            </a>
+                            <span class="or-text" aria-hidden="true">或者</span>
+                            <a id="download-apps-device-link-ios-tablet" class="device-link" href="//products.office.com/zh-CN/mobile/office-ipad" aria-label="为平板电脑下载应用" title="为平板电脑下载应用">
+                                <span class="text">平板电脑</span>
+                            </a>
+                        </div>
+                    </div>
+                    <div id="download-apps-device-chooser-android" class="device-chooser before-tween">
+                        <div class="platform">
+                            <button class="back-button" aria-label="返回" title="返回">
+                                <span class="back-icon wf-iw wf-portal-chevronThinLeft"></span>
+                            </button>
+                            <span class="platform-icon icon-sprite icon-sprite-android_white_symbol"></span>
+                        </div>
+                        <div class="device-links" aria-label="智能手机或平板电脑链接" tabindex="0" role="group">
+                            <a id="download-apps-device-link-ios-android-phone" class="device-link" href="//products.office.com/zh-CN/mobile/office-android-phone" aria-label="为智能手机下载应用" title="为智能手机下载应用">
+                                <span class="text">智能手机</span>
+                            </a>
+                            <span class="or-text" aria-hidden="true">或者</span>
+                            <a id="download-apps-device-link-ios-android-tablet" class="device-link" href="//products.office.com/zh-CN/mobile/office-android-tablet" aria-label="为平板电脑下载应用" title="为平板电脑下载应用">
+                                <span class="text">平板电脑</span>
+                            </a>
+                        </div>
+                    </div>
+                    <div id="download-apps-device-chooser-windows" class="device-chooser before-tween">
+                        <div class="platform">
+                            <button class="back-button" aria-label="返回" title="返回">
+                                <span class="back-icon wf-iw wf-portal-chevronThinLeft"></span>
+                            </button>
+                            <span class="platform-icon icon-sprite icon-sprite-windows_white_symbol"></span>
+                        </div>
+                        <div class="device-links" aria-label="智能手机或平板电脑链接" tabindex="0" role="group">
+                            <a id="download-apps-device-link-windows-phone" class="device-link" href="//products.office.com/zh-CN/mobile/office-windows-phone" aria-label="为智能手机下载应用" title="为智能手机下载应用">
+                                <span class="text">智能手机</span>
+                            </a>
+                            <span class="or-text" aria-hidden="true">或者</span>
+                            <a id="download-apps-device-link-windows-tablet" class="device-link" href="//products.office.com/zh-CN/mobile/office-windows-tablet" aria-label="为平板电脑下载应用" title="为平板电脑下载应用">
+                                <span class="text">平板电脑</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="separator" role="presentation"></div>
+<div id="extra-links-section" class="log-appear" role="region" aria-label="更多 Office 链接" tabindex="0">
+    <ul class="extra-links group">
+        <li class="extra-link">
+            <div class="extra-link-header" id="extra-links-visit-blog-announce-header">
+                <h4>Office 博客</h4>
+                <p>第一时间了解新增功能、产品新闻等。</p>
+            </div>
+            <a id="visit-blog-link" class="action-link" href="https://blogs.office.com" aria-describedby="extra-links-visit-blog-announce-header">
+                <span class="text">访问博客</span>
+                <span class="icon wf-iw wf-portal-rightarrow"></span>
+            </a>
+        </li>
+        <li class="extra-link">
+            <div class="extra-link-header" id="extra-links-training-center-announce-header">
+                <h4>免费培训</h4>
+                <p>发现关于 Office 的教程。</p>
+            </div>
+            <a id="get-started-training-link" class="action-link" href="https://support.office.com/zh-CN/article/Office-Training-Center-b8f02f81-ec85-4493-a39b-4c48e6bc4bfb" aria-describedby="extra-links-training-center-announce-header">
+                <span class="text">开始使用</span>
+                <span class="icon wf-iw wf-portal-rightarrow"></span>
+            </a>
+        </li>
+        <li class="extra-link no-margin">
+            <div class="extra-link-header" id="extra-links-get-support-announce-header">
+                <h4>Office 支持</h4>
+                <p>提出问题、寻找答案并获得支持</p>
+            </div>
+            <a id="get-support-link" class="action-link" href="https://support.office.com/zh-CN" aria-describedby="extra-links-get-support-announce-header">
+                <span class="text">获取支持</span>
+                <span class="icon wf-iw wf-portal-rightarrow"></span>
+            </a>
+        </li>
+    </ul>
+</div>
+
+
+
+
+    
+
+<div class="pmg-footer" role="navigation" aria-label="页脚导航" tabindex="0">
+    <!-- detail footer -->
+    <div id="pmgDetailFooter">
+        <section class="ms-grid full footer">
+            <div class="ms-row">
+                <div class="ms-grid pmg-footer-grid">
+                    <div class="ms-row">
+                        <div class="m-col-1-6 s-col-6-6 pmg-footer-col pmg-footer-other-microsoft-sites">
+                            <div id="pmg--footer--other-microsoft-sites--expand--accordion-link" class="pmg-footer-accordion-header pmg-footer-expand-collapse">
+                                <p class="body-alt">
+                                    <b>
+                                        其他 Microsoft 网站
+                                    </b>
+                                </p>
+                                <div class="pmg-expand-control show-xs show-s hide-m float-right">
+                                    <svg id="pmg--footer--other-microsoft-sites--expand--img" width="15" height="15" aria-label="展开"
+                                         role="img" viewBox="0 0 1000 1000" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg">
+                                        <title>展开</title>
+                                        <polygon points="843.8 437.5 531.3 437.5 531.3 125 468.8 125 468.8 437.5 156.3 437.5 156.3 500 468.8 500 468.8 812.5 531.3 812.5 531.3 500 843.8 500 ">
+                                            <title>展开</title>
+                                        </polygon>
+                                    </svg>
+                                </div>
+                                <div class="pmg-collapse-control show-xs show-s hide-m hidden float-right">
+                                    <svg id="pmg--footer--other-microsoft-sites--collapse--img" width="15" height="15" aria-label="折叠"
+                                         role="img" viewBox="0 0 1000 1000" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg">
+                                        <title>折叠</title>
+                                        <rect x="156.3" y="437.5" width="687.5" height="62.5">
+                                            <title>折叠</title>
+                                        </rect>
+                                    </svg>
+                                </div>
+                            </div>
+                            <div class="pmg-footer-accordion-content hide-xs show-m">
+                                <a id="pmg-footer--other-microsoft-sites--windows-link" href="https://windows.microsoft.com" title="Windows devices">
+                                    
+                                    <span class="icon-sprite icon-sprite-windows_symbol"></span><span class="bold pmg-icon-text">Windows devices</span>
+                                </a>
+                                <a id="pmg-footer--other-microsoft-sites--surface-link" href="https://www.microsoft.com/surface/" title="Surface">
+                                    <span class="icon-sprite icon-sprite-surface_symbol"></span><span class="bold pmg-icon-text">Surface</span>
+                                </a>
+                                <a id="pmg-footer--other-microsoft-sites--windows-phone-link" href="https://go.microsoft.com/fwlink/p/?LinkId=524585" title="Windows Phone">
+                                    <span class="icon-sprite icon-sprite-windowsphone_symbol"></span><span class="bold pmg-icon-text">Windows Phone</span>
+                                </a>
+                                <a id="pmg-footer--other-microsoft-sites--xbox-link" href="https://www.xbox.com" title="Xbox">
+                                    <span class="icon-sprite icon-sprite-xbox_symbol"></span><span class="bold pmg-icon-text">Xbox</span>
+                                </a>
+                                <a id="pmg-footer--other-microsoft-sites--skype-link" href="https://go.microsoft.com/fwlink/p/?LinkID=403723" title="Skype">
+                                    <span class="icon-sprite icon-sprite-skype_symbol"></span><span class="bold pmg-icon-text">Skype</span>
+                                </a>
+                                <a id="pmg-footer--other-microsoft-sites--msn-link" href="https://www.msn.com" title="MSN">
+                                    <span class="icon-sprite icon-sprite-msn_symbol"></span><span class="bold pmg-icon-text">MSN</span>
+                                </a>
+                                <a id="pmg-footer--other-microsoft-sites--bing-link" href="https://www.bing.com" title="Bing">
+                                    <span class="icon-sprite icon-sprite-bing_symbol"></span><span class="bold pmg-icon-text">Bing</span>
+                                </a>
+                                <a id="pmg-footer--other-microsoft-sites--microsoft-store-link" href="https://www.microsoftstore.com" title="Microsoft Store">
+                                    <span class="icon-sprite icon-sprite-store_symbol"></span><span class="bold pmg-icon-text">Microsoft Store</span>
+                                </a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="m-col-1-6 s-col-6-6 pmg-footer-col">
+                                                            <div id="pmg--footer--office-products--expand--accordion-link" class="pmg-footer-accordion-header pmg-footer-expand-collapse">
+                                                                <p class="body-alt">
+                                                                    <b>
+                                                                        Office 产品
+                                                                    </b>
+                                                                </p>
+                                                                <div class="pmg-expand-control show-xs show-s hide-m float-right">
+                                                                    <svg id="pmg--footer--office-products--expand--accordion-img" width="15" height="15"
+                                                                         aria-label="展开" role="img" viewBox="0 0 1000 1000" preserveAspectRatio="xMinYMin meet"
+                                                                         xmlns="http://www.w3.org/2000/svg">
+                                                                        <title>展开</title>
+                                                                        <polygon points="843.8 437.5 531.3 437.5 531.3 125 468.8 125 468.8 437.5 156.3 437.5 156.3 500 468.8 500 468.8 812.5 531.3 812.5 531.3 500 843.8 500 ">
+                                                                            <title>展开</title>
+                                                                        </polygon>
+                                                                    </svg>
+                                                                </div>
+                                                                <div class="pmg-collapse-control show-xs show-s hide-m hidden float-right">
+                                                                    <svg id="pmg--footer--office-products--collapse--accordion-img" width="15" height="15"
+                                                                         aria-label="折叠" role="img" viewBox="0 0 1000 1000" preserveAspectRatio="xMinYMin meet"
+                                                                         xmlns="http://www.w3.org/2000/svg">
+                                                                        <title>折叠</title>
+                                                                        <rect x="156.3" y="437.5" width="687.5" height="62.5">
+                                                                            <title>折叠</title>
+                                                                        </rect>
+                                                                    </svg>
+                                                                </div>
+                                                            </div>
+                                                            <div class="pmg-footer-accordion-content hide-xs show-m">
+                                                                <a id="pmg-footer--office-products--word-link" class="caption" href="https://products.office.com/zh-CN/word" title="Word">Word</a>
+                                                                <a id="pmg-footer--office-products--excel-link"
+                                                                   class="caption" href="https://products.office.com/zh-CN/excel" title="Excel">Excel</a>
+                                                                <a id="pmg-footer--office-products--powerpoint-link"
+                                                                   class="caption" href="https://products.office.com/zh-CN/powerpoint" title="PowerPoint">PowerPoint</a>
+                                                                <a id="pmg-footer--office-products--outlook-link"
+                                                                   class="caption" href="https://products.office.com/zh-CN/outlook/email-and-calendar-software-microsoft-outlook" title="Outlook">Outlook</a>
+                                                                <a id="pmg-footer--office-products--onenote-link" class="caption" href="https://go.microsoft.com/fwlink/p/?LinkID=403459" title="OneNote">OneNote</a>
+                                                                <a id="pmg-footer--office-products--sway-link" href="https://sway.com" class="caption ">Sway</a>
+                                                                <a id="pmg-footer--office-products--exchange-link" class="caption" href="https://products.office.com/zh-CN/exchange/email" title="Exchange">Exchange</a>
+                                                                <a id="pmg-footer--office-products--sharepoint-link" class="caption"
+                                                                   href="https://products.office.com/zh-CN/SharePoint/collaboration" title="SharePoint">SharePoint</a>
+                                                                <a id="pmg-footer--office-products--skype-for-business-link"
+                                                                   class="caption" href="https://products.office.com/zh-CN/skype-for-business/online-meetings" title="Skype for Business">Skype for Business</a>
+                                                                <a id="pmg-footer--office-products--project-link" class="caption" href="https://products.office.com/zh-CN/Project/project-and-portfolio-management-software" title="Project">Project</a>
+                                                                <a id="pmg-footer--office-products--visio-link" class="caption"
+                                                                   href="https://products.office.com/zh-CN/Visio/flowchart-software" title="Visio">Visio</a>
+                                                                <a id="pmg-footer--office-products--see-all-office-products-link"
+                                                                   class="caption" href="https://products.office.com/zh-CN/products" title="查看所有 Office 产品">查看所有 Office 产品</a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="m-col-1-6 s-col-6-6 pmg-footer-col">
+                                                            <div id="pmg--footer--office-for-home--expand--accordion-link" class="pmg-footer-accordion-header pmg-footer-expand-collapse">
+                                                                <p class="body-alt">
+                                                                    <b>
+                                                                        Office 家庭版
+                                                                    </b>
+                                                                </p>
+                                                                <div class="pmg-expand-control show-xs show-s hide-m float-right">
+                                                                    <svg id="pmg--footer--office-for-home--expand--accordion-img" width="15" height="15"
+                                                                         aria-label="展开" role="img" viewBox="0 0 1000 1000" preserveAspectRatio="xMinYMin meet"
+                                                                         xmlns="http://www.w3.org/2000/svg">
+                                                                        <title>展开</title>
+                                                                        <polygon points="843.8 437.5 531.3 437.5 531.3 125 468.8 125 468.8 437.5 156.3 437.5 156.3 500 468.8 500 468.8 812.5 531.3 812.5 531.3 500 843.8 500 ">
+                                                                            <title>展开</title>
+                                                                        </polygon>
+                                                                    </svg>
+                                                                </div>
+                                                                <div class="pmg-collapse-control show-xs show-s hide-m hidden float-right">
+                                                                    <svg id="pmg--footer--office-for-home--collapse--accordion-img" width="15" height="15"
+                                                                         aria-label="折叠" role="img" viewBox="0 0 1000 1000" preserveAspectRatio="xMinYMin meet"
+                                                                         xmlns="http://www.w3.org/2000/svg">
+                                                                        <title>折叠</title>
+                                                                        <rect x="156.3" y="437.5" width="687.5" height="62.5">
+                                                                            <title>折叠</title>
+                                                                        </rect>
+                                                                    </svg>
+                                                                </div>
+                                                            </div>
+                                                            <div class="pmg-footer-accordion-content hide-xs show-m">
+                                                                <a id="pmg-footer--office-for-home--free-office-trial-link" class="caption" href="https://products.office.com/zh-CN/try" title="免费试用 Office">免费试用 Office</a>
+                                                                <a id="pmg-footer--office-for-home--buy-office-link" class="caption" href="https://products.office.com/zh-CN/mobile/office" title="购买 Office">购买 Office</a>
+                                                                <a id="pmg-footer--office-for-home--office-365-link" class="caption"
+                                                                   href="https://products.office.com/zh-CN/office-365-home" title="Office 365 Home">Office 365 Home</a>
+                                                                <a id="pmg-footer--office-for-home--office-365-personal-link"
+                                                                   class="caption" href="https://products.office.com/zh-CN/office-365-personal" title="Office 365 Personal">Office 365 Personal</a>
+                                                                <a id="pmg-footer--office-for-home--office-for-students-link" class="caption"
+                                                                   href="https://products.office.com/zh-CN/student/office-in-education" title="Office 365 Education">Office 365 Education</a>
+                                                                <a id="pmg-footer--office-for-home--office-for-mac-link" class="caption"
+                                                                   href="https://products.office.com/zh-CN/mac/microsoft-office-for-mac" title="Office for Mac">Office for Mac</a>
+                                                                <a id="pmg-footer--office-for-home--office-online-link"
+                                                                   class="caption" href="https://products.office.com/zh-CN/office-online/documents-spreadsheets-presentations-office-online" title="Office Online">Office Online</a>
+                                                                <a id="pmg-footer--office-for-home--compare-products-link" class="caption"
+                                                                   href="https://products.office.com/zh-CN/compare-microsoft-office-products" title="比较产品">比较产品</a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="m-col-1-6 s-col-6-6 pmg-footer-col">
+                                                            <div id="pmg--footer--office-for-business--expand--accordion-link" class="pmg-footer-accordion-header pmg-footer-expand-collapse">
+                                                                <p class="body-alt">
+                                                                    <b>
+                                                                        Office 商业版
+                                                                    </b>
+                                                                </p>
+                                                                <div class="pmg-expand-control show-xs show-s hide-m float-right">
+                                                                    <svg id="pmg--footer--office-for-business--expand--accordion-img" width="15" height="15"
+                                                                         aria-label="展开" role="img" viewBox="0 0 1000 1000" preserveAspectRatio="xMinYMin meet"
+                                                                         xmlns="http://www.w3.org/2000/svg">
+                                                                        <title>展开</title>
+                                                                        <polygon points="843.8 437.5 531.3 437.5 531.3 125 468.8 125 468.8 437.5 156.3 437.5 156.3 500 468.8 500 468.8 812.5 531.3 812.5 531.3 500 843.8 500 ">
+                                                                            <title>展开</title>
+                                                                        </polygon>
+                                                                    </svg>
+                                                                </div>
+                                                                <div class="pmg-collapse-control show-xs show-s hide-m hidden float-right">
+                                                                    <svg id="pmg--footer--office-for-business--collapse--accordion-img" width="15" height="15"
+                                                                         aria-label="折叠" role="img" viewBox="0 0 1000 1000" preserveAspectRatio="xMinYMin meet"
+                                                                         xmlns="http://www.w3.org/2000/svg">
+                                                                        <title>折叠</title>
+                                                                        <rect x="156.3" y="437.5" width="687.5" height="62.5">
+                                                                            <title>折叠</title>
+                                                                        </rect>
+                                                                    </svg>
+                                                                </div>
+                                                            </div>
+                                                            <div class="pmg-footer-accordion-content hide-xs show-m">
+                                                                <a id="pmg-footer--office-for-business--plans-pricing-link" class="caption" href="https://products.office.com/zh-CN/business/compare-office-365-for-business-plans" title="计划与定价">计划与定价</a>
+                                                                <a id="pmg-footer--office-for-business--for-enterprise-link" class="caption"
+                                                                   href="https://products.office.com/zh-CN/business/enterprise-productivity-tools" title="面向企业">面向企业</a>
+                                                                <a id="pmg-footer--office-for-business--for-it-link" class="caption"
+                                                                   href="https://products.office.com/zh-CN/business/office-365-it-resources" title="面向 IT" aria-label="面向 I.T.">面向 IT</a>
+                                                                <a id="pmg-footer--office-for-business--government-agencies-link"
+                                                                   class="caption" href="https://products.office.com/zh-CN/government/office-365-web-services-for-government" title="政府机构">政府机构</a>
+                                                                <a id="pmg-footer--office-for-business--academic-institutions-link" class="caption"
+                                                                   href="https://go.microsoft.com/fwlink/p/?LinkID=403386">学术机构</a>
+                                                                <a id="pmg-footer--office-for-business--nonprofits-link"
+                                                                   class="caption" href="https://products.office.com/zh-CN/nonprofit/office-365-nonprofit" title="非营利组织">非营利组织</a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="m-col-1-6 s-col-6-6 pmg-footer-col">
+                                                            <div id="pmg--footer--office-mobile-apps--expand--accordion-link" class="pmg-footer-accordion-header pmg-footer-expand-collapse">
+                                                                <p class="body-alt">
+                                                                    <b>
+                                                                        Office 移动应用
+                                                                    </b>
+                                                                </p>
+                                                                <div class="pmg-expand-control show-xs show-s hide-m float-right">
+                                                                    <svg id="pmg--footer--office-mobile-apps--expand--accordion-img" width="15" height="15"
+                                                                         aria-label="展开" role="img" viewBox="0 0 1000 1000" preserveAspectRatio="xMinYMin meet"
+                                                                         xmlns="http://www.w3.org/2000/svg">
+                                                                        <title>展开</title>
+                                                                        <polygon points="843.8 437.5 531.3 437.5 531.3 125 468.8 125 468.8 437.5 156.3 437.5 156.3 500 468.8 500 468.8 812.5 531.3 812.5 531.3 500 843.8 500 ">
+                                                                            <title>展开</title>
+                                                                        </polygon>
+                                                                    </svg>
+                                                                </div>
+                                                                <div class="pmg-collapse-control show-xs show-s hide-m float-right hidden">
+                                                                    <svg id="pmg--footer--office-mobile-apps--collapse--accordion-img" width="15" height="15"
+                                                                         aria-label="折叠" role="img" viewBox="0 0 1000 1000" preserveAspectRatio="xMinYMin meet"
+                                                                         xmlns="http://www.w3.org/2000/svg">
+                                                                        <title>折叠</title>
+                                                                        <rect x="156.3" y="437.5" width="687.5" height="62.5">
+                                                                            <title>折叠</title>
+                                                                        </rect>
+                                                                    </svg>
+                                                                </div>
+                                                            </div>
+                                                            <div class="pmg-footer-accordion-content show-m hide-xs" style="display: none;">
+                                                                <a id="pmg-footer--office-for-mobile-apps--office-mobile-link" class="caption"
+                                                                   href="https://products.office.com/zh-CN/mobile/office" title="Office 移动版">Office 移动版</a>
+                                                                <a id="pmg-footer--office-for-mobile-apps--office-for-windows-phone-link"
+                                                                   class="caption" href="https://products.office.com/zh-CN/mobile/office-windows-phone" title="适用于 Windows Phone 的 Office">适用于 Windows Phone 的 Office</a>
+                                                                <a id="pmg-footer--office-for-mobile-apps--office-for-windows-tablet-link" class="caption"
+                                                                   href="https://products.office.com/zh-CN/mobile/office-windows-tablet" title="适用于 Windows tablet 的 Office">适用于 Windows tablet 的 Office</a>
+                                                                <a id="pmg-footer--office-for-mobile-apps--office-for-iphone-link"
+                                                                   class="caption" href="https://products.office.com/zh-CN/mobile/office-iphone" title="适用于 iPhone 的 Office">适用于 iPhone 的 Office</a>
+                                                                <a id="pmg-footer--office-for-mobile-apps--office-for-ipad-link" class="caption"
+                                                                   href="https://products.office.com/zh-CN/mobile/Office-iPad" title="适用于 iPad 的 Office">适用于 iPad 的 Office</a>
+                                                                <a id="pmg-footer--office-for-mobile-apps--office-for-android-phone-link"
+                                                                   class="caption" href="https://products.office.com/zh-CN/mobile/office-android-phone" title="适用于 Android devices 的 Office">适用于 Android devices 的 Office</a>
+                                                                <a id="pmg-footer--office-for-mobile-apps--office-for-android-tablet-link"
+                                                                   class="caption" href="https://products.office.com/zh-CN/mobile/office-android-tablet" title="适用于 Android tablet 的 Office">适用于 Android tablet 的 Office</a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="m-col-1-6 s-col-6-6 pmg-footer-col">
+                                                            <div id="pmg--footer--help-support--expand--accordion-link" class="pmg-footer-accordion-header pmg-footer-accordion-last-header pmg-footer-expand-collapse">
+                                                                <p class="body-alt">
+                                                                    <b>
+                                                                        帮助和支持
+                                                                    </b>
+                                                                </p>
+                                                                <div class="pmg-expand-control show-xs show-s hide-m float-right">
+                                                                    <svg id="pmg--footer--help-support--expand--accordion-img" width="15" height="15" aria-label="展开"
+                                                                         role="img" viewBox="0 0 1000 1000" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg">
+                                                                        <title>展开</title>
+                                                                        <polygon points="843.8 437.5 531.3 437.5 531.3 125 468.8 125 468.8 437.5 156.3 437.5 156.3 500 468.8 500 468.8 812.5 531.3 812.5 531.3 500 843.8 500 ">
+                                                                            <title>展开</title>
+                                                                        </polygon>
+                                                                    </svg>
+                                                                </div>
+                                                                <div class="pmg-collapse-control show-xs show-s hide-m hidden float-right">
+                                                                    <svg id="pmg--footer--help-support--collapse--accordion-img" width="15" height="15" aria-label="折叠"
+                                                                         role="img" viewBox="0 0 1000 1000" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg">
+                                                                        <title>折叠</title>
+                                                                        <rect x="156.3" y="437.5" width="687.5" height="62.5">
+                                                                            <title>折叠</title>
+                                                                        </rect>
+                                                                    </svg>
+                                                                </div>
+                                                            </div>
+                                                            <div class="pmg-footer-accordion-content hide-xs show-m">
+                                                                <a id="pmg-footer--help-support--faq-link" class="caption" href="https://products.office.com/zh-CN/microsoft-office-for-home-and-school-faq" title="FAQ">FAQ</a>
+                                                                <a id="pmg-footer--help-support--system-requirements-link"
+                                                                   class="caption" href="https://products.office.com/zh-CN/office-system-requirements" title="系统要求">系统要求</a>
+                                                                <a id="pmg-footer--help-support--install-office-link" href="https://go.microsoft.com/fwlink/p/?LinkID=717124"
+                                                                   class="caption" title="安装 Office">安装 Office</a>
+                                                                <a id="pmg-footer--help-support--browse-training-link" class="caption"
+                                                                   href="https://go.microsoft.com/fwlink/p/?LinkID=506713" title="浏览培训">
+                                                                    浏览培训
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </section>
+                                    </div>
+                                    <!-- Corporate footer -->
+                                    <div id="pmgCorporateFooter" class="pmg-corporate-footer-container">
+                                        <section class="ms-grid full">
+                                            <div class="ms-row">
+                                                <div class="ms-grid">
+                                                    <div class="ms-row pmg-corporate-footer">
+                                                        <div class="m-col-4-12 pmg-locale-column">
+                                                            <a id="pmg--footer--local-picker--link" target="_self" href="https://store.office.com/worldwide.aspx?rs=zh-CN&amp;returnURL=https%3a%2f%2fwww.office.com%2f&amp;cmapid=2"><span class="caption white-bgc pmg-locale-label">United States of America</span><span id="pmg--footer--local-picker--img" class="icon-sprite icon-sprite-globe_symbol pmg-locale-icon"></span></a>
+                                                        </div>
+                                                        <div class="m-col-8-12 align-right pmg-corporate-footer-links">
+                                                            <a id="pmg--footer--Contact-Us" class="caption " href="https://go.microsoft.com/fwlink/p/?LinkID=511196" title="联系我们">
+                                                                联系我们
+                                                            </a>
+
+                                                            <a id="pmg--footer--privacy-cookies" class="caption " href="https://go.microsoft.com/fwlink/p/?LinkID=511197" title="隐私和 Cookie">
+                                                                隐私和 Cookie
+                                                            </a><a id="pmg--footer--terms-of-us-sale" class="caption " href="https://go.microsoft.com/fwlink/p/?LinkID=511198" title="法律信息">
+                                                                法律信息
+                                                            </a><a id="pmg--footer--trademarks" class="caption " href="https://go.microsoft.com/fwlink/p/?LinkID=511199" title="商标">
+                                                                商标
+                                                            </a><a id="pmg--footer--about-our-ads" class="caption " href="https://go.microsoft.com/fwlink/p/?LinkID=511200" title="关于广告">
+                                                                关于广告
+                                                            </a>
+                                                            <div class="pmg-corporate-footer-logo-row">
+                                                                <svg aria-label="Microsoft" id="pmg--footer--microsoft-logo" role="img" enable-background="new 0 0 93 20"
+                                                                     viewBox="0 0 93 20" x="0px" y="0px" width="93px" height="20px" version="1.1" xml:space="preserve"
+                                                                     xmlns="http://www.w3.org/2000/svg">
+                                                                <title>Microsoft</title>
+                                                                <g id="Type">
+                                                                <title>Microsoft</title>
+                                                                <g>
+                                                                <path fill="#ffffff" d="M 14.834 19 V 8.747 c 0 -0.779 0.045 -1.932 0.135 -3.459 h -0.045 c -0.15 0.809 -0.303 1.408 -0.46 1.797 L 9.59 19 H 7.849 L 2.941 7.197 C 2.814 6.8 2.661 6.164 2.481 5.288 H 2.414 C 2.436 5.49 2.46 6.018 2.486 6.871 c 0.026 0.854 0.04 1.591 0.04 2.212 V 19 H 0.044 V 2.896 h 3.818 L 7.961 13.07 c 0.389 0.98 0.632 1.723 0.73 2.224 h 0.067 l 0.854 -2.246 l 4.211 -10.152 h 3.661 V 19 H 14.834 Z"></path>
+                                                                <path fill="#ffffff" d="M 23.281 3.435 c 0 0.427 -0.155 0.782 -0.466 1.067 c -0.311 0.285 -0.687 0.427 -1.128 0.427 c -0.442 0 -0.816 -0.142 -1.123 -0.427 c -0.307 -0.285 -0.46 -0.64 -0.46 -1.067 c 0 -0.434 0.155 -0.797 0.466 -1.089 c 0.311 -0.292 0.683 -0.438 1.118 -0.438 c 0.457 0 0.836 0.15 1.14 0.449 S 23.281 3.015 23.281 3.435 Z M 20.361 19 V 7.5 h 2.594 V 19 H 20.361 Z"></path>
+                                                                <path fill="#ffffff" d="M 33.91 18.518 c -0.883 0.509 -1.973 0.764 -3.268 0.764 c -1.107 0 -2.094 -0.24 -2.959 -0.719 c -0.865 -0.479 -1.539 -1.161 -2.021 -2.045 c -0.483 -0.883 -0.724 -1.871 -0.724 -2.965 c 0 -1.25 0.249 -2.354 0.747 -3.313 c 0.498 -0.958 1.221 -1.701 2.167 -2.229 c 0.947 -0.527 2.046 -0.792 3.296 -0.792 c 0.486 0 0.992 0.054 1.516 0.163 c 0.523 0.109 0.939 0.249 1.246 0.421 v 2.459 c -0.846 -0.614 -1.729 -0.921 -2.65 -0.921 c -1.078 0 -1.951 0.361 -2.622 1.084 c -0.67 0.723 -1.005 1.686 -1.005 2.892 c 0 1.198 0.322 2.138 0.966 2.819 c 0.644 0.681 1.516 1.021 2.616 1.021 c 0.398 0 0.844 -0.086 1.338 -0.258 c 0.494 -0.173 0.947 -0.408 1.357 -0.708 V 18.518 Z"></path>
+                                                                <path fill="#ffffff" d="M 42.771 10.027 c -0.135 -0.097 -0.355 -0.187 -0.663 -0.27 c -0.307 -0.083 -0.588 -0.124 -0.842 -0.124 c -0.757 0 -1.366 0.322 -1.831 0.966 c -0.464 0.645 -0.696 1.482 -0.696 2.516 V 19 h -2.594 V 7.5 h 2.594 v 2.235 h 0.045 c 0.255 -0.771 0.641 -1.37 1.157 -1.797 s 1.111 -0.64 1.785 -0.64 c 0.449 0 0.798 0.052 1.045 0.157 V 10.027 Z"></path>
+                                                                <path fill="#ffffff" d="M 55.17 13.138 c 0 1.864 -0.539 3.354 -1.617 4.47 s -2.542 1.674 -4.391 1.674 c -1.774 0 -3.188 -0.53 -4.239 -1.59 s -1.578 -2.495 -1.578 -4.307 c 0 -1.909 0.539 -3.414 1.617 -4.515 s 2.571 -1.651 4.48 -1.651 c 1.797 0 3.201 0.526 4.212 1.578 C 54.665 9.849 55.17 11.296 55.17 13.138 Z M 52.475 13.228 c 0 -1.272 -0.282 -2.239 -0.848 -2.897 s -1.342 -0.988 -2.33 -0.988 c -1.019 0 -1.815 0.344 -2.393 1.033 c -0.576 0.689 -0.864 1.662 -0.864 2.92 c 0 1.221 0.288 2.169 0.864 2.847 c 0.577 0.678 1.382 1.017 2.415 1.017 c 1.04 0 1.826 -0.333 2.358 -1 C 52.209 15.492 52.475 14.516 52.475 13.228 Z"></path>
+                                                                <path fill="#ffffff" d="M 64.486 15.709 c 0 1.071 -0.412 1.934 -1.235 2.589 c -0.824 0.655 -1.939 0.983 -3.347 0.983 c -0.457 0 -0.976 -0.061 -1.556 -0.18 c -0.58 -0.12 -1.064 -0.27 -1.454 -0.449 V 16.17 c 0.479 0.345 1.003 0.61 1.572 0.797 c 0.569 0.188 1.082 0.281 1.538 0.281 c 1.243 0 1.864 -0.412 1.864 -1.235 c 0 -0.292 -0.062 -0.526 -0.185 -0.702 c -0.124 -0.176 -0.337 -0.352 -0.641 -0.527 c -0.303 -0.176 -0.772 -0.395 -1.409 -0.657 c -0.749 -0.321 -1.305 -0.633 -1.668 -0.933 c -0.363 -0.299 -0.633 -0.65 -0.809 -1.055 s -0.264 -0.877 -0.264 -1.416 c 0 -1.033 0.408 -1.875 1.224 -2.527 c 0.816 -0.651 1.872 -0.977 3.167 -0.977 c 0.397 0 0.849 0.047 1.354 0.14 c 0.506 0.094 0.915 0.208 1.229 0.343 v 2.347 c -0.352 -0.24 -0.768 -0.432 -1.246 -0.579 c -0.479 -0.146 -0.955 -0.219 -1.427 -0.219 c -0.517 0 -0.924 0.116 -1.224 0.348 s -0.449 0.528 -0.449 0.887 c 0 0.404 0.118 0.721 0.354 0.949 c 0.236 0.228 0.792 0.519 1.668 0.87 c 1.078 0.434 1.838 0.917 2.279 1.449 C 64.266 14.287 64.486 14.938 64.486 15.709 Z"></path>
+                                                                <path fill="#ffffff" d="M 77.858 13.138 c 0 1.864 -0.539 3.354 -1.617 4.47 s -2.542 1.674 -4.391 1.674 c -1.774 0 -3.188 -0.53 -4.239 -1.59 s -1.578 -2.495 -1.578 -4.307 c 0 -1.909 0.539 -3.414 1.617 -4.515 s 2.571 -1.651 4.48 -1.651 c 1.797 0 3.201 0.526 4.212 1.578 C 77.354 9.849 77.858 11.296 77.858 13.138 Z M 75.163 13.228 c 0 -1.272 -0.282 -2.239 -0.848 -2.897 s -1.342 -0.988 -2.33 -0.988 c -1.019 0 -1.815 0.344 -2.393 1.033 c -0.576 0.689 -0.864 1.662 -0.864 2.92 c 0 1.221 0.288 2.169 0.864 2.847 c 0.577 0.678 1.382 1.017 2.415 1.017 c 1.04 0 1.826 -0.333 2.358 -1 C 74.897 15.492 75.163 14.516 75.163 13.228 Z"></path>
+                                                                <path fill="#ffffff" d="M 85.838 4.097 c -0.419 -0.187 -0.831 -0.281 -1.235 -0.281 c -0.568 0 -1.011 0.182 -1.325 0.545 c -0.314 0.363 -0.472 0.896 -0.472 1.6 V 7.5 h 2.572 v 2.089 h -2.572 V 19 h -2.628 V 9.589 h -1.932 V 7.5 h 1.932 V 5.815 c 0 -0.801 0.175 -1.514 0.522 -2.14 c 0.349 -0.625 0.839 -1.11 1.472 -1.454 c 0.632 -0.344 1.349 -0.517 2.15 -0.517 c 0.636 0 1.142 0.067 1.516 0.202 V 4.097 Z"></path>
+                                                                <path fill="#ffffff" d="M 92.395 18.888 c -0.157 0.09 -0.437 0.178 -0.837 0.264 s -0.788 0.13 -1.162 0.13 c -2.254 0 -3.381 -1.213 -3.381 -3.639 V 9.589 h -1.909 V 7.5 h 1.909 V 4.85 l 2.605 -0.797 V 7.5 h 2.774 v 2.089 H 89.62 v 5.57 c 0 0.727 0.131 1.241 0.394 1.544 c 0.262 0.304 0.674 0.455 1.235 0.455 c 0.149 0 0.339 -0.032 0.567 -0.096 c 0.228 -0.063 0.421 -0.147 0.578 -0.252 V 18.888 Z"></path>
+                                            </g>
+                                        </g>
+                                    </svg>
+                                <p class="caption-alt">&copy;2017 Microsoft</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</div>
+
+    
+    <!--Do not remove this TraceinfoDiv. It is used as the elememnt to verify page load successfully in Vip test-->
+    <div id="TraceInfoDiv" style="display: none">PUID:Unknown TID:Unknown SID:5199d14c-fbed-4af5-a23a-d8270d8fabd3 CID:74e17a6b-e975-4ca9-a4b5-b1b9c9cdca55 AUTH:Unknown GEO:wus IN:OfficeHome_IN_0 DEP:59b66f173c93415caa104dccf2a03c83 FLT:getmorelink,showteamspromotioncf,shellnolicenseretry FTR: R:WORLDWIDE D:2017-05-09 13:10:18Z</div>
+
+    <script type="text/javascript" src="//officehome.msocdn.com/s/7a992f34/Areas/Home/Content/js/build/bundles/unauth-vendor.js"></script>
+
+<script type="text/javascript" src="//officehome.msocdn.com/s/4a0f809c/Areas/Home/Content/js/build/bundles/unauth.js"></script>
+    <script>
+        var designRefresh = false || false || false;
+
+        $(function() {
+            if(designRefresh){
+                HomePage5.init();
+            } else {
+                HomePage.init();
+            }
+
+            var ariaProp = {"ariaToken":"ea6758984c4b43529f9929667d8d3198-c52d4a8b-47fe-4fdf-99b8-5f897ff4e33b-7365","correlationId":"74e17a6b-e975-4ca9-a4b5-b1b9c9cdca55","devEnvironment":"Oahu","deploymentEnvironment":"Prod","geoName":"wus","flights":"getmorelink,showteamspromotioncf,shellnolicenseretry","sessionId":"5199d14c-fbed-4af5-a23a-d8270d8fabd3","requestOrigin":"Direct","viewType":"NewUserView","refreshVersion":""};
+            UnauthAriaLogger.Initialize(ariaProp);
+
+            // This is a temporary method to reset ViewType when current homepage(control) and visual refresh treatment coexist.
+            // When personalization and visual refresh are exposed 100%, logic for setting ViewType value in Model.AriaLoggingContext(in IWPageModel.cs) should updated and this reset will be removed.
+            var viewType = ("" === "NewUserView" && $('#hero-banner-personalization-remove-section').length) ? "ReturningUserView" : "";
+
+            $('button, a').click(function() {
+                var elementId = $(this).attr("id");
+                if (elementId) {
+                    UnauthAriaLogger.LogEvent("unauth_click", elementId, {"ViewType" : viewType});
+                }
+            });
+
+            // Links to product in uhf header don't have id. Log "data-bi-name".
+            $('a[role="menuitem"]', '#Productslist').click(function () {
+                UnauthAriaLogger.LogEvent("unauth_click", $(this).attr("data-bi-name"), {"ViewType" : viewType});
+            });
+
+            // Links to product in uhf footer don't have id. Log "data-bi-name".
+            $('a', '#pmgDetailFooter').click(function () {
+                if (!$(this).attr("id"))
+                {
+                    UnauthAriaLogger.LogEvent("unauth_click", $(this).attr("data-bi-name"), {"ViewType" : viewType});
+                }                
+            });
+
+            UnauthAriaLogger.LogEvent("unauth_page_view", "page_view_event", {"ViewType" : viewType});
+        });
+    </script>
+
+    
+
+    <script>
+        var searchEnabled = false;
+        var signInUrl = 'https://www.office.com:443/login?es=Click&amp;ru=%2F';
+        var DownloadUrl = 'Downloads?cid=74e17a6b-e975-4ca9-a4b5-b1b9c9cdca55';
+
+        function setShellOptions(shellOptions, hideSearch) {
+
+            if (window.msCommonShell) {
+                window.msCommonShell.load(shellOptions);
+                console.log('shell loaded');
+            }
+            else {
+                window.onShellReadyToLoad = function () {
+                    window.onShellReadyToLoad = null;
+                    window.msCommonShell.load(shellOptions);
+                    console.log('shell loaded');
+                    hideSearch();
+                }
+            }
+            hideSearch();
+
+            // Disable the Install button if the user is on a Windows Cloud OS device
+            if (window.external && /Edge/.test(navigator.userAgent) && "getHostEnvironmentValue" in window.external) {
+                var cloudOsGetHostEnvironmentKey = "os-sku";
+                var cloudOsGetHostEnvironmentValues = ["178", "179"];
+
+                var externalFunctions = window.external;
+                var result = externalFunctions.getHostEnvironmentValue(cloudOsGetHostEnvironmentKey);
+
+                if (result
+                        && (result.indexOf(cloudOsGetHostEnvironmentValues[0]) !== -1 || result.indexOf(cloudOsGetHostEnvironmentValues[1]) !== -1)) {
+                    $("#Installlist").hide();
+                }
+            }
+        }
+
+        function hideSearch() {
+            if(!searchEnabled) {
+                $('.shell-search-wrapper, .shell-header-toggle-search').hide();
+            }
+        }
+
+        function updateInstallLink() {
+            const install = document.getElementById("Install");
+            if (install) {
+                install.href = DownloadUrl;
+            }
+        }
+
+        // logging function for UHF / MeControl sign in link event.
+        var SendMeControlSignInEvent = function() {
+            if (typeof SendCustomWedcsEvent !== "undefined") {
+                // build tags to send to wedcs
+                var signInTags = {
+                    "wcs.cot": 1,
+                    "wcs.id": "meLnkSignin",
+                    "wcs.cn": "Sign in"
+                };
+                SendCustomWedcsEvent(signInTags);
+            }
+
+            if (typeof UnauthAriaLogger !== "undefined" && typeof UnauthAriaLogger.LogEvent != "undefined") {
+                // This is a temporary method to reset ViewType when current homepage(control) and visual refresh treatment coexist.
+                // When personalization and visual refresh are exposed 100%, logic for setting ViewType value in Model.AriaLoggingContext(in IWPageModel.cs) should updated and this reset will be removed.
+                var viewType = ("" === "NewUserView" && $('#hero-banner-personalization-remove-section').length) ? "ReturningUserView" : "";
+                UnauthAriaLogger.LogEvent('unauth_click', 'meLnkSignin', {"ViewType" : viewType});
+            }
+        }
+
+        var shellOptions = {
+            meControlOptions: {
+                rpData:
+                {
+                    msaInfo:
+                    {
+                        signInUrl: signInUrl,
+                        signOutUrl: '/etslogout'
+                    }
+                },
+                userData : {
+                    idp: "MSA",
+                    firstName: "FirstName",
+                    lastName: "LastName",
+                    memberName: "email@email.com",
+                    cid: "cid",
+                    authenticatedState: 3
+                },
+                events: {
+                    onEventLog: function(eventId) {
+                        // watch for the SignIn event to perform logging event
+                        switch (eventId) {
+                            case "SignIn":
+                                SendMeControlSignInEvent();
+                                break;
+                            default:
+                                return;
+                        }
+                    }
+                }
+            }
+        };
+
+        setShellOptions(shellOptions, hideSearch);
+
+        updateInstallLink();
+
+    </script>
+
+    
+
+
+
+        <script src="https://c.microsoft.com/ms.js"></script>
+</body>
+</html>

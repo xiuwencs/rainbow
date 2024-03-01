@@ -1,0 +1,3056 @@
+<!DOCTYPE html>
+<!--aolonamp:1.6.1-->
+<html class="  homepage channel-homepage  SAF responsive notResponsiveTouch wf-active" lang="en" id="global-header-light">
+
+	<head >
+
+					<meta charset="utf-8">
+			<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">
+			<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+			<meta name="p:domain_verify" content="96bae1739d3231d21abe59a638021d5d"/>
+
+                  
+      
+      							<title>AOL.ca - Canada's Breaking News, Entertainment, Music, Life & Style and Email</title>
+
+      <meta name="description" content="AOL offers today's news, sports, stock quotes, weather, movie reviews, TV trends and more. Get free email, AIM access, online radio, videos and horoscopes -- all on AOL.ca!" />
+        <meta name="author" content="AOL" />
+        <meta property="og:type" content="website" />
+        <meta property="og:image" content="http://o.aolcdn.com/os/aolportal5/aol_chicklet_200x200.jpg" />
+        <meta property="og:site_name" content="AOL.ca" />
+        <meta property="og:url" content="www.aol.ca/" />
+        <meta property="og:app_id" content="183146218394780" />
+        <meta property="fb:app_id" content="183146218394780" />
+        <meta property="twitter:account_id" content="66237835" />
+        <meta rel="publisher" content="115771908788438436647" />
+        <meta name="robots" content="index,follow" />
+          <meta name="og:title" content="AOL.ca - Canada's Breaking News, Entertainment, Music, Life & Style and Email" />
+        <meta name="og:description" content="AOL offers today's news, sports, stock quotes, weather, movie reviews, TV trends and more. Get free email, AIM access, online radio, videos and horoscopes -- all on AOL.ca!" />
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@AOL" />
+        <meta name="twitter:domain" content="www.aol.ca" />
+  
+    <link rel="canonical" href="http://www.aol.ca/">
+
+<link rel="publisher" href="https://plus.google.com/115771908788438436647" />
+<link rel="shortcut icon" href="http://www.aol.com/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="http://www.aol.com/favicon.ico" type="image/x-icon" />
+			
+              			<link rel="stylesheet" href="http://www.blogsmithmedia.com/www.aol.ca/assets-h5954df642878c5b3be05d2fbf50952d7/css/responsive.css?h=c68fac978406becc235397fbd6b8704e"/>
+	  
+            	        <link rel="stylesheet" href="http://www.blogsmithmedia.com/www.aol.ca/assets-h5954df642878c5b3be05d2fbf50952d7/css/mailpreview.css?h=535e22a839aa7c4f8eeaa5139b398d76"/>
+        <link rel="stylesheet" href="http://www.blogsmithmedia.com/www.aol.ca/assets-h5954df642878c5b3be05d2fbf50952d7/css/adhoc.css?h=7c953508713ff41b07f1cf712a0bc6a4"/>
+          <link rel="stylesheet" href="http://www.blogsmithmedia.com/www.aol.ca/assets-h5954df642878c5b3be05d2fbf50952d7/stylesheets/application.css?h=627025d6d4e9e6d994f817a07be2da2a"/>
+          <link rel="stylesheet" href="http://www.blogsmithmedia.com/www.aol.ca/assets-h5954df642878c5b3be05d2fbf50952d7/css/modules/weather/weather.css?h=ded838082ccabbf1806474fedc604a42"/>
+
+        
+			
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    	                    		<link rel="stylesheet" href="http://www.blogsmithmedia.com/www.aol.ca/assets-h5954df642878c5b3be05d2fbf50952d7/css/modules/featured-videos.css?h=8ba3cd55629dd2366fb40b468e5078c4"/>
+                    	                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+  
+      			<script src="http://o.aolcdn.com/ads/adsWrapper.js"></script>
+			<script>
+				adSetAdURL("/_uac/adpage.html");
+				adSetOthAT('kvblogname=news;kvcategory=mainpage');
+        adSetMOAT('1');
+			</script>
+
+      			  <script type="text/javascript">var pops_cb = "3_column_rm";</script>
+
+<script type="text/javascript" src="http://o.aolcdn.com/feedback/feedback1.js"></script>
+<script type="text/javascript">String.prototype.trim = function () {
+        return this.replace(/^\s*/, "").replace(/\s*$/, "")
+    };
+    function gC(a) {
+        var e = document.cookie.split(";");
+        for (var b = 0; b < e.length; b++) {
+            var d = e[b].trim().split("=");
+            if (d[0] == a) {
+                return d[1]
+            }
+        }
+        return null
+    }
+    var de = "www.aol.de", fr = "www.aol.fr";
+    var ius = new Array(de, fr);
+    var TZs = new Array();
+    TZs = {
+        0: {},
+        1: {
+            de: de,
+            "de-at": de,
+            "de-li": de,
+            "de-lu": de,
+            "de-ch": de,
+            fr: fr,
+            "fr-be": fr,
+            "fr-lu": fr,
+            "fr-mc": fr,
+            "fr-ch": fr
+        },
+        2: {
+            de: de,
+            "de-at": de,
+            "de-li": de,
+            "de-lu": de,
+            "de-ch": de,
+            fr: fr,
+            "fr-be": fr,
+            "fr-lu": fr,
+            "fr-mc": fr,
+            "fr-ch": fr
+        },
+        3: {},
+        4: {},
+        5: {},
+        6: {},
+        7: {},
+        8: {},
+        9: {},
+        10: {},
+        11: {},
+        12: {},
+        13: {},
+        "-12": {},
+        "-11": {},
+        "-10": {},
+        "-9": {},
+        "-8": {},
+        "-7": {},
+        "-6": {},
+        "-5": {},
+        "-4": {},
+        "-3": {},
+        "-2": {},
+        "-1": {}
+    };
+    var offSet = String(-(new Date().getTimezoneOffset() / 60));
+    var langloc = String(nav_lang());
+    var fqdn;
+    if (TZs[offSet] && TZs[offSet][langloc]) {
+        fqdn = TZs[offSet][langloc]
+    }
+    var doIr = true;
+    if (typeof iro != "undefined") {
+        for (var i in iro) {
+            if (iro[i] == fqdn) {
+                doIr = false
+            }
+        }
+    }
+    if (gC("intlr") == "0") {
+        doIr = false
+    }
+    if (!gC("intlRedirBp") && doIr) {
+        var ckNm = "l18nUrl";
+        var myLclUrl = gC(ckNm);
+        if (myLclUrl != null) {
+            for (i = 0; i < ius.length; i++) {
+                if (myLclUrl.indexOf(ius[i]) >= 0) {
+                    window.location.href = myLclUrl + "?r=" + document.domain;
+                    break
+                }
+            }
+        } else {
+            if (fqdn) {
+                fqdn = "http://" + fqdn;
+                document.cookie = ckNm + "=" + fqdn + ";";
+                window.location.href = fqdn + "?r=" + document.domain
+            }
+        }
+    }
+    function nav_lang() {
+        if (typeof(navigator.language) == "string") {
+            return (navigator.language.toLowerCase())
+        } else {
+            if (typeof(navigator.userLanguage) == "string") {
+                return (navigator.userLanguage.toLowerCase())
+            } else {
+                return 0
+            }
+        }
+    }
+    ;</script>
+<meta data-nothing=''></meta>
+<script type="text/javascript">
+    var tidEnabled = "true";
+    var tidUrl = "https://tacoda.at.atwola.com/atx/sync/hmpg/hp1id/default";
+    var tidCookieTimeout = "259200";
+    var tidCookieRefreshBeforeExpiredTime = "1";
+
+    var getTidNoRdrBsDmnLstApnd = "www.aol.com";
+
+    var tidRdrCkiBsNm = ".aol.com";
+
+    var segEnabled = "false";
+    var segGenerationUrl = "/ids.jsp";
+    var segCookieFormatVersion = "3";
+
+
+    var glbLocTZCookieVer = "1";
+
+    var glbLocTZCookieExpSecs = "43200";
+</script>
+<script type="text/javascript">
+    var osMergedJSCallbacks = [];
+    var lazyLoadJavascripts = [];
+    var beaconSwipeCallDelay = parseInt("");
+    var segUserId = "", segSegId = "M|N_3", segColIds = "usprod-wsbb-5.dl";
+    (function (g) {
+        var d = g.getElementsByTagName("head")[0] || g.documentElement, c = {}, e = {}, f = {}, b = {}, h = {};
+
+        function a(j, r) {
+            var o = b[j] = this._c, q = g.createElement("script"), n = 0, p, m = p = "text/javascript", k = "c", i = (function (s) {
+                s[s] = s + "";
+                return s[s] != s + ""
+            })(new String("__count__"));
+
+            function l(s, t) {
+                function u(w) {
+                    do {
+                        if (!c[w]) {
+                            return 0
+                        }
+                    } while (w = b[w]);
+                    return 1
+                }
+
+                var v = f[s];
+                if (t === m) {
+                    v && v();
+                    l(h[s], k)
+                } else {
+                    s && u(s) && !e[s] && a(s, v)
+                }
+            }
+
+            f[j] = r;
+            if (o && !i) {
+                h[o] = j;
+                p = k
+            }
+            q.type = p;
+            q.src = j;
+            p === m && (e[j] = 1);
+            q.onload = q.onreadystatechange = function () {
+                if (!n && (!q.readyState || q.readyState === "loaded" || q.readyState === "complete")) {
+                    c[j] = n = 1;
+                    l(j, p);
+                    q.onload = q.onreadystatechange = null;
+                    d.removeChild(q)
+                }
+            };
+            d.insertBefore(q, d.firstChild);
+            return {_c: j, getJS: a}
+        }
+
+        window.Aol || (Aol = {});
+        Aol.getJS = a
+    })(document);
+    bN_cfg = {
+        h: "welcome.aol.com", p: [
+            ["cms_src", "us-aol.com"], ["clntid", "aolhp"], ["template", "maing-grid7"],
+            ["cobrand", "legacy"],
+            ["plids", "616561|footerlinks-refresh,671651|choose-news-links-patch,493367|mnc-sports-news-si-hl,663842|mnc-health-news-feed-huffpost,670750|hnav-2013,62771|mobile-view-link,666183|mnc-lifestyle-news-feed-mandatory,652512|mnc-news-feed-reuters,484235|follow-aol-new,652513|mnc-entertainment-news-feed-huffpost,417728|user-menu,652533|local,456114|mnc-health-news-feed-huffpost-hl,562667|24x7-feed-module,464939|qnav-quick-nav-video_quick-nav-global,562663|24x7-feed,306297|mnc-lifestyle-news-feed-mandatory-hl,537654|qnav-mail_quick-nav-global,1602678650|dl1|1,551857|footer-back-to-top,671524|trending-now,671582|special-events-news2,671580|special-events-2,671620|special-events-promo2,499402|mnc-news-feed-dailyfinance-hl,667592|gravity-rawdata2,593164|footerlinks-copyright-only,651467|logo,666689|follow-aol-footer,500471|weather,652034|mnc-sports-news-si,438057|stock-markets-markets-v2,652032|mnc-news-feed-dailyfinance,478072|mnc-,536329|mnc-news-feed-reuters-hl,306249|mnc-entertainment-news-feed-huffpost-hl,658341|gravity-centerwell", 1],
+            ["uxi", segUserId],
+            ['sxi', segSegId],
+            ["cids", segColIds, 1]
+        ], upgradeIE: false
+    }
+    ;
+    beaconIcidPattern = new RegExp('(.*)?video\/|/videoid=');
+
+
+    parStripList = ['aLk', 'impref,itime'];
+
+    rebuildUrlFuncs = new Array();
+    rebuildUrlFuncs.aLk = function (c) {
+        if (parStripList == null || parStripList.length <= 0) {
+            return c
+        }
+        var f = c;
+        var a = new Array();
+        for (i = 0; i < parStripList.length; i + 2) {
+            var b = parStripList[i];
+            var e = parStripList[i + 1];
+            if (b == "aLk" && e !== null && e.length > 0) {
+                a = parStripList[i + 1].split(",");
+                break
+            }
+        }
+        for (i = 0; i < a.length; i++) {
+            var g = a[i];
+            var d = g + "=.*?;|" + g + "=.*?$";
+            var h = f.match(d);
+            if (h != null && h.length > 0) {
+                f = f.replace(h, "")
+            }
+        }
+        return f
+    };
+    osMergedJSCallbacks.push(function () {
+        if (document.createEvent) {
+            var a = document.createEvent("HTMLEvents");
+            a.initEvent("BeaconLoaded", true, true);
+            document.dispatchEvent(a)
+        }
+        bN.extractIds = function (f, d) {
+            var g = f.className, e = g && g.match(/[a-z]{1,3}id-[^ ]+/g), m, c, h, j, k = encodeURIComponent, n, p = g && g.match(/d_clk+/g);
+            rebuildMethodNm = g && g.match(/rufnc-[^ ]+/g);
+            var b = null;
+            if (g) {
+                b = g.match(/src-[^ ]+/)
+            }
+            if (b != null) {
+                if (e != null) {
+                    e.push(b[0])
+                } else {
+                    e = b
+                }
+            }
+            if (typeof d != "undefined") {
+                n = d
+            } else {
+                bN.set([["plid", "", 1], ["mnid", "", 1], ["mpid", "", 1], ["mlid", "", 1], ["lnid", "", 1], ["icid", "", 1], ["ncid", "", 1], ["dtid", "", 1], ["anid", "", 1], ["apnIcidGlb", "", 1], ["vid_series", "", 1], ["vid_autoplay", "", 1], ["vid_id", "", 1], ["cid", "", 1], ["src", "", 1], ["d_clk", "", 1]]);
+                n = ""
+            }
+            if (p != null && p.length > 0) {
+                bN.set("d_clk", 1, 1)
+            }
+            if (e) {
+                l = e.length;
+                while (l--) {
+                    m = e[l];
+                    h = m.indexOf("-");
+                    m = [m.substring(0, h), m.substr(h + 1)];
+                    if (n.indexOf("|" + m[0] + "|") == -1) {
+                        n += "|" + m[0] + "|";
+                        bN.set(m[0], m[1], 1);
+                        if (m[0].match(/[in]cid/g) != null) {
+                            var o = m[1];
+                            if (typeof(p_c_n) != "undefined" && o.indexOf(p_c_n) === -1) {
+                                o = o + "_" + p_c_n
+                            }
+                            m = k(m[0]) + "=" + k(o);
+                            if ((c = f.href) && c.indexOf(m) === -1 && c.substring(0, 6) != "aol://") {
+                                f.href = c + ((c.indexOf("?") === -1) ? "?" : "&") + m
+                            }
+                        }
+                    }
+                }
+            }
+            (j = f.parentNode) && bN.extractIds(j, n)
+        };
+        bN.rebuildHrefWithIcid = function (d, b) {
+            var c = "";
+            var e = "";
+            if (d.indexOf("?") == -1) {
+                return d + "?" + b
+            }
+            if (d.indexOf("icid=") >= 0) {
+                urlParts = d.split("?");
+                params = new Array();
+                if (d.indexOf("&") == -1) {
+                    params[0] = urlParts[1]
+                }
+                for (i = 0; i < params.length; i++) {
+                    param = params[i];
+                    if (param.indexOf("icid=") >= 0) {
+                        e = e + b + "&";
+                        continue
+                    }
+                    e = e + param + "&"
+                }
+                return urlParts[0] + "?" + e.substr(0, e.length - 1)
+            } else {
+                return d + "&" + b
+            }
+        };
+        bN.swipe = function (b, d, c) {
+            b.direction = d;
+            if (typeof(c) === "undefined" || isNaN(c) || c < 0) {
+                bN.set("swpdir", d);
+                bN.click(b)
+            } else {
+                setTimeout(function () {
+                    bN.set("swpdir", d);
+                    bN.click(b)
+                }, c)
+            }
+        };
+        Aol.bind(document, "mouseup", function (j) {
+            var g = j.srcElement || j.target;
+            bN.extractIds(g);
+            var k = g.nodeName;
+            if (k != "A") {
+                if (k.match(/IMG|TABLE|TD/)) {
+                    var d = 1;
+                    var f = g;
+                    while (d <= 6) {
+                        f = f.parentNode;
+                        if (f.nodeName == "A") {
+                            g = f;
+                            break
+                        }
+                        d++
+                    }
+                } else {
+                    return
+                }
+            }
+            methNm = bN.get("ruid", 1);
+            if (methNm != null && methNm.length > 0 && g.href != null && g.href.length > 0) {
+                ruFunc = rebuildUrlFuncs[methNm];
+                newUrl = ruFunc(g.href);
+                if (newUrl != null && newUrl.length > 0) {
+                    bN.set("subUrl", newUrl, 1)
+                }
+            }
+            if (typeof dsblApnIcid != "undefined" && dsblApnIcid == true) {
+                return
+            }
+            var c = g.className;
+            var h = bN.get("anid", 1) == 1 ? true : false;
+            var b = bN.get("apnIcidGlb") == "true" ? true : false;
+            if (h || b) {
+                evNdHref = g.href;
+                if (typeof(beaconIcidPattern) == "undefined") {
+                    return
+                }
+                if (!evNdHref.match(beaconIcidPattern)) {
+                    return
+                }
+                tmp = bN.get("template");
+                cob = bN.get("cobrand");
+                mid = bN.get("mnid", 1);
+                lid = bN.get("lnid", 1);
+                pid = bN.get("plid", 1);
+                newIcidParam = "icid=" + encodeURIComponent(tmp + "|" + cob + "|" + mid + "|" + lid + "|" + pid);
+                newHref = bN.rebuildHrefWithIcid(g.href, newIcidParam);
+                g.href = newHref
+            }
+        })
+    });</script>
+<script type="text/javascript">
+    function PortalRightAdWrapper() {
+        $("#adchoice").removeClass("right");
+        $("#adfeedback").removeClass("righto");
+    }
+</script>
+
+<script>
+    var lbCbr = "videodeeplink";
+</script>
+
+<script type="text/javascript">var assetsUrl = 'http://portal.aolcdn.com/p5/_v131.1';</script>
+<script>var Page = (typeof Page !== "undefined" &&  typeof Page === "object") ? Page : {};
+  
+  Page.Ads = {};
+  Page.Ads.enableMoatTracking = "1"
+  Page.Ads.kvTargetting       = "kvblogname=news;kvcategory=mainpage"
+
+  var Site = (typeof Site !== "undefined" &&  typeof Site === "object") ? Site : {};
+  Site.MultiauthActionUrl = "http://www.aol.ca/amp_auth/openauth_action";
+  Site.useMultiAuthForLogin = true;
+
+  Site.AuthActionURL = "http://www.aol.ca/amp_auth/openauth_action";
+
+      Site.userLoggedIn = false;
+  
+</script>
+
+      			<script>
+    bN_cfg = {
+        h: ["www.aol.ca"],
+        b: ["b.aol.com"],
+        p: {
+            'cms_src': 'us-aol.com',
+            'cobrand': 'amp-',
+            'uxi': "",
+            'template': 'aol20.layout.twig'
+        },
+        upgradeIE: false
+    };
+</script>
+      <script>
+        Aol.getJS("http://o.aolcdn.com/os/aol/62-beacon.min.js", function() {
+            for (i = 0; i < osMergedJSCallbacks.length; ++i) {
+                var callback = osMergedJSCallbacks[i];
+                callback();
+            }
+        });
+      </script>
+		
+  </head>
+
+
+  <body class=" ">
+
+          			<!--[if lt IE 7]>
+				<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+			<![endif]-->
+		
+                        
+
+
+
+
+        
+    
+            
+    		
+      <noscript>
+    <meta HTTP-EQUIV="refresh"
+          content="0;url='http://www.aol.ca/?r=www.aol.com&ModPagespeed=noscript'"/>
+    <style><!--
+      table, div, span, font, p {
+        display: none
+      }
+
+      --></style>
+    <div style="display:block">Please click <a
+        href="http://www.aol.ca/?r=www.aol.com&ModPagespeed=noscript">here</a>
+      if you are not redirected within a few seconds.
+    </div>
+  </noscript>
+<div id="state-indicator" class="state-indicator"></div>
+<script type="text/javascript">if (typeof AOL === "undefined") {
+        AOL = {};
+    }
+    if (!Array.prototype.indexOf) {
+        Array.prototype.indexOf = function (a, b) {
+            var c = this.length >>> 0;
+            b = +b || 0;
+            if (Math.abs(b) === Infinity) {
+                b = 0
+            }
+            if (b < 0) {
+                b += c;
+                if (b < 0) {
+                    b = 0
+                }
+            }
+            for (; b < c; b++) {
+                if (this[b] === a) {
+                    return b
+                }
+            }
+            return -1
+        }
+    }
+    ;
+    function getDeviceState() {
+        var a = document.getElementById("state-indicator");
+        var b;
+        if (a.currentStyle) {
+            b = a.currentStyle.zIndex;
+        } else {
+            b = parseInt(window.getComputedStyle(a).getPropertyValue("z-index"), 10)
+        }
+        return b
+    }
+    ;
+    function getMn(g, f, a, i, b, d, des) {
+        var e = getDeviceState();
+        var c = {};
+        c.mns = g;
+        c.mn = f;
+        c.sps = a;
+        c.div = i;
+        c.w = b;
+        c.h = d;
+        c.des = des;
+        if (a.indexOf(e) === -1) {
+            f = null
+        }
+        if (g !== null && g[e] !== null && typeof(g[e]) !== "undefined" && g[e] !== "") {
+            f = g[e]
+        }
+        c.cur = f;
+        hmpg_ads.push(c);
+        AOL.hmpg_ads.push(c);
+        return f
+    }
+    ;
+    var hmpg_ads = new Array();
+    AOL.getDeviceState = getDeviceState;
+    AOL.hmpg_ads = hmpg_ads;
+    AOL.responsiveEnabled = true;
+    AOL.isTablet = false;
+    AOL.isWurflMobile = false;
+    AOL.isMobileSwipe = false;
+    AOL.pageType = "article";
+    AOL.cobrand = "";
+    AOL.hostname = "portal-fe5-m412.websys.aol.com";
+    AOL.timestamp = "1435795101528";
+    AOL.collapseModuleFeatureEnabled = "false";
+    AOL.enableMobileSearchFocus = false;
+    AOL.articleOverlayActive = false;</script>
+<script type="text/javascript">function MakeThisMyHomepage() {
+        var self = this;
+        this.isHomepage = false;
+        this.mtmhpUrl = "http://www.aol.com/";
+        self.campaignId = "";
+        this.mtmhpPrefix = "home-";
+        this.mtmhpSuffix = "-hp";
+        self.mtmhpUrl = self.mtmhpUrl + "article/";
+        this.mtmhpPrefix = "home-";
+        this.mtmhpSuffix = "-hp";
+        this.constructor = function () {
+            if (self.campaignId != "") {
+                self.isHomepage = true;
+            }
+        }
+        this.ieIsHomepage = function () {
+            return false;
+        }
+        self.constructor();
+    }
+    MTMHP = new MakeThisMyHomepage();</script>
+<script type="text/javascript">var collapseOff = "";
+    var mobileModuleCollapse = "";</script>
+<div class="bcn">
+    <script type="text/javascript">var s_account = 'aolcaglobal';
+        var vid_acnt_ovrd = '';
+        var cl_account = 'aolcaglobal';
+        var psz = '';
+        var segment = '';
+        var p23 = "";
+        var p23_mol = p23;
+        var homestr = "";
+        var mtmhpPrefix = "";
+        var mtmhpSuffix = "";
+        var global_cl_report_suite = "aolcaglobal";
+        var cl_disable = new Object();
+        cl_disable["dlfwd"] = 'true';
+        cl_disable["scrollcurtain-show"] = 'true';
+        cl_disable["dlpause"] = 'true';
+        cl_disable["dlplay"] = 'true';
+        cl_disable["mailpreview"] = 'true';
+        cl_disable["dlbwd"] = 'true';
+        cl_disable["om_hnav_"] = 'true';
+        var p_t_n = "grid14";
+        var p_c_n = "";</script>
+        <script type="text/javascript" src="http://o.aolcdn.com/os/aol/omniture-intl.min.js"></script>
+        <script type="text/javascript">
+            if (typeof s_265 != "undefined" && s_265 != null) {
+                s_265.prop66                = 'amp-';
+                                    s_265["OmniAccountID"] = "aolcaglobal";
+                                    s_265["pfxID"] = "acm";
+                                    s_265["channel"] = "ca.aolportal";
+                                    s_265["pageName"] = "homepage\x20main";
+                                    s_265["prop1"] = "main";
+                                    s_265["prop2"] = "main";
+                                    s_265["prop54"] = "blogsmith";
+                                    s_265["prop63"] = "desktop";
+                                    s_265["prop64"] = "gravity";
+                                    s_265["prop66"] = "canada";
+                                    s_265["eVar14"] = "amp\x2D\x20";
+                                    s_265["prop62"] = "video_novideo";
+                                s_265.eVar14				= s_265.prop66 +" " + s_265["pfxID"] + " : " + s_265.prop1
+                s_265.prop12                = document.location;
+                s_265.linkInternalFilters   = "javascript:";
+                s_265.linkTrackVars="prop20";
+                s_265.mmxgo                 = true;
+
+            }
+            try {
+              mtmhpPrefix = MTMHP.mtmhpPrefix;
+              mtmhpSuffix = MTMHP.mtmhpSuffix;
+            } catch (e) {}
+            if (MTMHP.campaignId !== "") {
+              homestr = mtmhpPrefix + "";
+            }
+            if (typeof s_265 != "undefined" && s_265 != null) {
+                s_265.campaign = homestr;
+            }
+
+            if (typeof s_265 != "undefined" && s_265 != null) {
+                var s_265_user_authenticated = false;
+                s_265.mmxgo = true;
+                var s_code = s_265.t();
+            }
+        </script>
+</div>
+<div class="mlid-mobileviewlink">
+    <div class="mpid-1 ">
+        <div id="mobileweb" class="mnid-mobileviewlink plid-0">
+            <br><br><a name="om_mobileview" href="http://www.aol.com/?mobile=true" class=" lnid-sec1_lnk1">Back to
+                Mobile View</a></div>
+    </div>
+</div>
+
+<div class="mlid-topad" id="topadw"></div>
+
+<div id="themes">
+    <div class="mpid-1 ">
+        <div class="visNum dn">14</div>
+        <div id="themew" class="promo"></div>
+    </div>
+</div>
+  <div id="pgbg" class="aol-global-header-true light">
+
+              
+<div id="global-header-bg" class="light"></div>
+<div id="aol-header" class="aol-global-header light  www ">
+  <div class="mpid-2 ">
+    <div id="headerlogo-global" class="mnid-logo plid-0 globalHeaderLogo">
+      <a id="headerlogo-globallink" title="Click here to refresh" name="om_headerlogo-global" class="lnid-sec1_lnk1 globalHeaderLogoLink aol-logo" href="/?icid=aolcomlogo20p" style="background: none;">
+                <img alt="Click here to refresh" src="http://www.blogsmithmedia.com/www.aol.ca/assets-h5954df642878c5b3be05d2fbf50952d7/images/nav/aol-logo-black.png?h=155df79eb51f2b0800b7c5a970c2ddd0">
+              </a>
+    </div>
+  </div>
+  
+<div class="mpid-3 ">
+    <div id="search-shadow"></div>
+    <div class="mnid-header-search plid-0">
+        <div id="searchbox-container">
+            <form id="aol-header-search" action="http://search.aol.ca/aol/search" method="get"
+                  class="search search-3 tabs-0">
+                <input type="hidden" id="header-ghostText" value=""/>
+                <input type="hidden" id="header-searchIcon" value=""/>
+                <input type="hidden" id="header-enabledTerms" name="enabled_terms" value=""/>
+                <input type="hidden" id="header-s_it" name="s_it" value="comsearch"/>
+                <input type="hidden" id="header-s_it_h" value="comsearch"/>
+                <input type="hidden" id="header-s_it_r" value="comsearch"/>
+                <input type="hidden" id="header-s_it_f" value="comsearch"/>
+                <input type="hidden" id="header-s_it_s" value="comsearch"/>
+                <input type="hidden" id="header-initSmartSearch" value="false"/>
+                <input type="hidden" id="header-apiDictionary" value=""/>
+                <input type="hidden" id="header-initFocus" value="true"/>
+                <input type="hidden" id="header-preserveGhostText" value=""/>
+                <input type="hidden" id="header-ssExtraParams"
+                       value=""/>
+                <input type="hidden" id="header-sExtraParams"
+                       value=""/>
+                <input type="hidden" id="header-apiIt" value=""/>
+                <input type="hidden" id="header-apiUrl" value="http://autosuggest.search.aol.com/autocomplete/get"/>
+                <input type="hidden" id="header-apiCount" value="8"/>
+                <input type="hidden" id="header-apiQueryParam" value="q"/>
+                <input type="hidden" id="header-enableBestMatch" value="true"/>
+                <input type="hidden" id="header-bestMatchQuery" value="bm_chan=2&bm_max=1&bm_limit=4&locale=CA&lang=en-CA"/>
+                <input type="hidden" id="header-bestMatchPrefix" value="in"/>
+                <input type="hidden" id="header-bestMatchAction" value="http://search.aol.com/aol/tracking"/>
+                <fieldset>
+                    <legend class="hidden">Search information</legend>
+                    <input type="text" value="" id="aol-header-query" name="q" maxlength="150"
+                           title="Search the Web"/>
+                    <input class="om_header-searchbutton lnid-sec2_lnk1" type="submit" value="Search"
+                           id="aol-header-search-button" onclick="omn.omo('header-searchbutton');"
+                           title="Search the Web"/>
+                                                        <div id="aol-header-search-results"></div>
+                                  </fieldset>
+            </form>
+        </div>
+    </div>
+</div>
+  <div id="user-menu-wrapper">
+    <div class="mpid-4 ">
+              <div id="usrMnu" class="mnid-user-menu plid-0 unauthenticated" hidedelay="200" showdelay="200">
+                      <p class="username unauth">
+              <a href="https://my.screenname.aol.com/_cqr/login/login.psp?authLev=0&lang=en&locale=ca&sitedomain=www.aol.ca&siteState=OrigUrl%3Dhttp%253A%252F%252Fwww.aol.ca%252F" class="lnid-sec1_lnk1" id="amp-auth">Welcome, Sign In</a>
+            </p>
+                    <ul class="usrSns">
+                          <li class=" pipe signupout">
+                <a href="https://i.aol.com/reg/signup?promocode=820843&locale=en_CA" name="om_signup" class="lnid-sec1_lnk2">Sign Up</a>
+              </li>
+                        <li class="userOptions bN">
+              <a class="usrMnuDrpDwn" href="#" title="User Options">Options</a>
+            </li>
+          </ul>
+          <div class="usrMnuLst mnid-user-menu plid-0">
+            <div class="topLine"></div>
+            <ul>
+              <li>
+                <a class="lnid-sec2_lnk1" href="https://account.aol.com/account/settings/start">My Account</a>
+              </li>
+                            <li>
+                <a class="makeHomepage url-http://www.aol.ca/?molhp=hyplogusaolp00000041&icid=camtmhpfooter om-mtmhpGreetingIE lnid-sec2_lnk2" href="http://www.aol.ca/?molhp=hyplogusaolp00000041&icid=camtmhpfooter">Set AOL as Homepage</a>
+              </li>
+                          </ul>
+          </div>
+        </div>
+          </div>
+  </div>
+  <div id="quick-nav-global_w">
+    <div id="quick-nav-global" quick-nav-icons="3" class=" quicknav quick-nav3">
+      <b style="width: 32.0%;">
+          <a href=http://mail.aol.ca target="_blank"
+     class="mailquicknav pausedl qnpos1 qn auth-0 show-300 hide-300 thresh-500 mnid-qnav-mail_quick-nav-global plid-628891 lnid-sec1_lnk1" name="om_quicknav_mail_global" id="newmailpreview">
+    <img alt="AOL Mail" class="noion" src="http://portal.aolcdn.com/p5/forms/67023/f5603f5b-bbc6-41bb-994d-91ca4e937f69.png" >
+    <span></span>
+  </a>
+      </b>
+      <b style="width: 32.0%;">
+        <a  target="_blank" href="http://on.aol.ca/" class=" qnpos7 mnid-qnav-quick-nav-video_quick-nav-global plid-322039 lnid-sec1_lnk7" name="om_quicknav_quick-nav-video_global"><img alt="AOL On" class="noion" src="http://www.blogsmithmedia.com/www.aol.ca/assets-h5954df642878c5b3be05d2fbf50952d7/images/icons-sprite.png?h=0f3cd593020b04ee8a955144356874ed"></a>
+        <div class="tooltip" style="display: none; left: 26px;"><div class="tooltip-arrow sprite-bg sprite-up-arrow-tooltip"></div><i>AOL On</i></div></b>
+      <b style="width: 32.0%;">
+        <a href="http://www.amazon.ca/Deals-Amazonca-Save-Electronics-DVD-Blu-ray-Books-Kitchen-Watches-Tools-VideoGames-Music-Software-Sp/b/?_encoding=UTF8&amp;camp=15121&amp;creative=390961&amp;linkCode=ur2&amp;node=1265255011&amp;tag=aol-ca-hpheader-20" target="_blank" class=" qnpos19 mnid-qnav-quick-nav-amazon_quick-nav-global plid-323722 lnid-sec1_lnk19" name="om_quicknav_quick-nav-amazon_global"><img alt="Amazon" class="noion" src="http://www.blogsmithmedia.com/www.aol.ca/assets-h5954df642878c5b3be05d2fbf50952d7/images/icons-sprite.png?h=0f3cd593020b04ee8a955144356874ed"></a>
+        <div class="tooltip" style="display: none; left: 64px;"><div class="tooltip-arrow sprite-bg sprite-up-arrow-tooltip"></div><i>Amazon</i></div></b>
+      <a class="mobile-menu mnid-user-menu plid-455983" title=""><img class="noion" alt="" src="http://www.blogsmithmedia.com/www.aol.ca/assets-h5954df642878c5b3be05d2fbf50952d7/images/icons-sprite.png?h=0f3cd593020b04ee8a955144356874ed"></a>
+    </div>
+  </div>
+  <div id="preview-container"></div>
+  </div>
+<div id="aol-hnav">
+  <div class="mlid-topad">
+  <div class="ad__banner mpid-1 resp-show1024 resp-show900 resp-show768 resp-show754 resp-hide">
+    <div id="topad">
+      <div class="adwrap di refreshNO" id="fi_1048556381"></div>
+      <script type="text/javascript">
+                var mn = getMn({
+          1450: '93324036',
+          1265: '93324036',
+          1108: '93324036',
+          900: '93324036',
+          768: '93324036',
+          754: '93324036',
+          480: ''
+        }, "93324036", [1024, 986, 900, 768, 754], "fi_1048556381", "LB", "LB", true);
+
+        if (mn !== null) {
+            htmlAdWH(mn, 'LB', 'LB', 'ajaxc', 'fi_1048556381');
+        }
+
+      </script>
+    </div>
+  </div>
+</div>
+  
+
+<div id="ghnav-wrapper" class="" data-group="">
+  <div id="ghnav1" class="mnid-hnav-2013 plid-0 format-dark">
+    <ul class='topLevel'>
+    	                    <li class="topLevel first" >
+          <div class='topTitle'>
+            <a  id="ghnav-Now" name="om_ghnav_sec2_link2" data-pos="2" class="itemLink icid-cagnavbar_roottoday lnid-sec2_lnk3" href="/">Now</a>
+          </div>
+          <span class='ghnavarrow'></span>
+          <ul class='subNav'>
+          	            		                    <li class='first '>
+                <a target="_BLANK" title="Français" name="om_hnav_sec2_link2" class="icid-cagnavbar_francais lnid-sec2_lnk3" href="http://quebec.huffingtonpost.ca">Français</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="Games" name="om_hnav_sec2_link3" class="icid-cagnavbar_francais lnid-sec2_lnk4" href="http://www.games.com">Games</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="Mapquest" name="om_hnav_sec2_link4" class="icid-cagnavbar_francais lnid-sec2_lnk5" href="http://www.mapquest.ca/">Mapquest</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="Travel" name="om_hnav_sec2_link5" class="icid-cagnavbar_francais lnid-sec2_lnk6" href="http://www.huffingtonpost.ca/travel/">Travel</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="Read Mail" name="om_hnav_sec2_link6" class="icid-cagnavbar_francais lnid-sec2_lnk7" href="http://mail.aol.ca/">Read Mail</a>
+              </li>
+              			                        </ul>
+        </li>
+      	                            <li class="topLevel " >
+          <div class='topTitle'>
+            <a target="_BLANK"  id="ghnav-News" name="om_ghnav_sec3_link3" data-pos="3" class="itemLink icid-cagnavbar_roottoday lnid-sec3_lnk4" href="http://www.huffingtonpost.ca">News</a>
+          </div>
+          <span class='ghnavarrow'></span>
+          <ul class='subNav'>
+          	            		                    <li class='first '>
+                <a target="_BLANK" title="Huffington Post" name="om_hnav_sec3_link2" class="icid-cagnavbar_francais lnid-sec3_lnk3" href="http://www.huffingtonpost.ca">Huffington Post</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="Politics (Canada)" name="om_hnav_sec3_link3" class="icid-cagnavbar_francais lnid-sec3_lnk4" href="http://www.huffingtonpost.ca/politics">Politics (Canada)</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="Politics (US)" name="om_hnav_sec3_link4" class="icid-cagnavbar_francais lnid-sec3_lnk5" href="http://www.huffingtonpost.com/politics/?country=US">Politics (US)</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="Sports" name="om_hnav_sec3_link5" class="icid-cagnavbar_francais lnid-sec3_lnk6" href="http://www.huffingtonpost.com/sports/?ir=Canada">Sports</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="Wierd" name="om_hnav_sec3_link6" class="icid-cagnavbar_francais lnid-sec3_lnk7" href="http://www.huffingtonpost.com/weird-news/?ir=Canada">Wierd</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="World" name="om_hnav_sec3_link7" class="icid-cagnavbar_francais lnid-sec3_lnk8" href="http://www.huffingtonpost.com/world/?ir=Canada">World</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="Huffpost Alberta" name="om_hnav_sec3_link8" class="icid-cagnavbar_francais lnid-sec3_lnk9" href="http://www.huffingtonpost.ca/alberta/">Huffpost Alberta</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="Huffpost BC" name="om_hnav_sec3_link9" class="icid-cagnavbar_francais lnid-sec3_lnk10" href="http://www.huffingtonpost.ca/british-columbia/">Huffpost BC</a>
+              </li>
+              			                        </ul>
+        </li>
+      	                            <li class="topLevel " >
+          <div class='topTitle'>
+            <a target="_BLANK"  id="ghnav-Entertainment" name="om_ghnav_sec4_link4" data-pos="4" class="itemLink icid-cagnavbar_roottoday lnid-sec4_lnk5" href="http://www.huffingtonpost.com/entertainment/?ir=Canada&amp;icid=cagnavbar_roottoday">Entertainment</a>
+          </div>
+          <span class='ghnavarrow'></span>
+          <ul class='subNav'>
+          	            		                    <li class='first '>
+                <a target="_BLANK" title="Celebrity News" name="om_hnav_sec4_link2" class="icid-cagnavbar_francais lnid-sec4_lnk3" href="http://www.huffingtonpost.com/celebrity/?ir=Canada">Celebrity News</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="Moviefone" name="om_hnav_sec4_link3" class="icid-cagnavbar_francais lnid-sec4_lnk4" href="http://www.moviefone.ca/">Moviefone</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="Music" name="om_hnav_sec4_link4" class="icid-cagnavbar_francais lnid-sec4_lnk5" href="http://www.huffingtonpost.ca/music/">Music</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="TV" name="om_hnav_sec4_link5" class="icid-cagnavbar_francais lnid-sec4_lnk6" href="http://www.huffingtonpost.ca/tv/">TV</a>
+              </li>
+              			                        </ul>
+        </li>
+      	                                        <li class="topLevel " >
+          <div class='topTitle'>
+            <a target="_BLANK"  id="ghnav-Lifestyle" name="om_ghnav_sec5_link5" data-pos="5" class="itemLink icid-cagnavbar_roottoday lnid-sec5_lnk6" href="http://www.huffingtonpost.ca/living/">Lifestyle</a>
+          </div>
+          <span class='ghnavarrow'></span>
+          <ul class='subNav'>
+          	            		                    <li class='first '>
+                <a target="_BLANK" title="Living" name="om_hnav_sec5_link2" class="icid-cagnavbar_francais lnid-sec5_lnk3" href="http://www.huffingtonpost.ca/living/">Living</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="Style News" name="om_hnav_sec5_link3" class="icid-cagnavbar_francais lnid-sec5_lnk4" href="http://www.huffingtonpost.ca/style/">Style News</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="Parenting" name="om_hnav_sec5_link4" class="icid-cagnavbar_francais lnid-sec5_lnk5" href="http://www.huffingtonpost.ca/parents/">Parenting</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="Food" name="om_hnav_sec5_link5" class="icid-cagnavbar_francais lnid-sec5_lnk6" href="http://www.huffingtonpost.ca/news/delicious-recipes/">Food</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="Healthy living" name="om_hnav_sec5_link6" class="icid-cagnavbar_francais lnid-sec5_lnk7" href="http://www.huffingtonpost.com/healthy-living/?ir=Canada">Healthy living</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="Divorce" name="om_hnav_sec5_link7" class="icid-cagnavbar_francais lnid-sec5_lnk8" href="http://www.huffingtonpost.com/divorce/?ir=Canada">Divorce</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="Makers" name="om_hnav_sec5_link8" class="icid-cagnavbar_francais lnid-sec5_lnk9" href="http://www.makers.com/canada/">Makers</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="Huffpost 50" name="om_hnav_sec5_link9" class="icid-cagnavbar_francais lnid-sec5_lnk10" href="http://www.huffingtonpost.com/50/">Huffpost 50</a>
+              </li>
+              			                        </ul>
+        </li>
+      	                            <li class="topLevel " >
+          <div class='topTitle'>
+            <a target="_BLANK"  id="ghnav-Finance" name="om_ghnav_sec6_link6" data-pos="6" class="itemLink icid-cagnavbar_roottoday lnid-sec6_lnk7" href="http://www.huffingtonpost.ca/business/">Finance</a>
+          </div>
+          <span class='ghnavarrow'></span>
+          <ul class='subNav'>
+          	            		                    <li class='first '>
+                <a target="_BLANK" title="Business News" name="om_hnav_sec6_link2" class="icid-cagnavbar_francais lnid-sec6_lnk3" href="http://www.huffingtonpost.ca/business/">Business News</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="Daily Finance" name="om_hnav_sec6_link3" class="icid-cagnavbar_francais lnid-sec6_lnk4" href="http://www.dailyfinance.com/">Daily Finance</a>
+              </li>
+              			                        </ul>
+        </li>
+      	                            <li class="topLevel last" >
+          <div class='topTitle'>
+            <a target="_BLANK"  id="ghnav-Tech" name="om_ghnav_sec7_link7" data-pos="7" class="itemLink icid-cagnavbar_roottoday lnid-sec7_lnk8" href="http://www.huffingtonpost.com/tech/?ir=canada">Tech</a>
+          </div>
+          <span class='ghnavarrow'></span>
+          <ul class='subNav'>
+          	            		                    <li class='first '>
+                <a target="_BLANK" title="Engadget" name="om_hnav_sec7_link2" class="icid-cagnavbar_francais lnid-sec7_lnk3" href="http://www.engadget.com/">Engadget</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="Techcrunch" name="om_hnav_sec7_link3" class="icid-cagnavbar_francais lnid-sec7_lnk4" href="http://techcrunch.com/">Techcrunch</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="Apple Blog" name="om_hnav_sec7_link4" class="icid-cagnavbar_francais lnid-sec7_lnk5" href="https://www.engadget.com/topics/apple/">Apple Blog</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="Gaming" name="om_hnav_sec7_link5" class="icid-cagnavbar_francais lnid-sec7_lnk6" href="http://www.engadget.com/gaming/">Gaming</a>
+              </li>
+              			                        </ul>
+        </li>
+      	                            <li class="topLevel " >
+          <div class='topTitle'>
+            <a target="_BLANK"  id="ghnav-Video" name="om_ghnav_sec8_link8" data-pos="8" class="itemLink icid-cagnavbar_roottoday lnid-sec8_lnk9" href="http://on.aol.ca/">Video</a>
+          </div>
+          <span class='ghnavarrow'></span>
+          <ul class='subNav'>
+          	            		                    <li class='first '>
+                <a target="_BLANK" title="AOL On Entertainment" name="om_hnav_sec8_link2" class="icid-cagnavbar_francais lnid-sec8_lnk3" href="http://on.aol.ca/channel/entertainment">AOL On Entertainment</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="AOL On News" name="om_hnav_sec8_link3" class="icid-cagnavbar_francais lnid-sec8_lnk4" href="http://on.aol.ca/channel/news">AOL On News</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="AOL On Relationships" name="om_hnav_sec8_link4" class="icid-cagnavbar_francais lnid-sec8_lnk5" href="http://on.aol.ca/channel/relationships">AOL On Relationships</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="AOL On Originals" name="om_hnav_sec8_link5" class="icid-cagnavbar_francais lnid-sec8_lnk6" href="http://on.aol.ca/originals">AOL On Originals</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="Huffpost Live" name="om_hnav_sec8_link6" class="icid-cagnavbar_francais lnid-sec8_lnk7" href="http://live.huffingtonpost.com/">Huffpost Live</a>
+              </li>
+              			                        </ul>
+        </li>
+      	                            <li class="topLevel " >
+          <div class='topTitle'>
+            <a target="_BLANK"  id="ghnav-Services" name="om_ghnav_sec9_link9" data-pos="9" class="itemLink icid-cagnavbar_roottoday lnid-sec9_lnk10" href="http://canada.aol.com/thenewaol/">Services</a>
+          </div>
+          <span class='ghnavarrow'></span>
+          <ul class='subNav'>
+          	            		                    <li class='first '>
+                <a target="_BLANK" title="AOL Software" name="om_hnav_sec9_link2" class="icid-cagnavbar_francais lnid-sec9_lnk3" href="http://canada.aol.com/tryaol/access.adp">AOL Software</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="About me" name="om_hnav_sec9_link3" class="icid-cagnavbar_francais lnid-sec9_lnk4" href="https://about.me/">About me</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="Downloads" name="om_hnav_sec9_link4" class="icid-cagnavbar_francais lnid-sec9_lnk5" href="http://canada.aol.com/portal/downloads">Downloads</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="Free Email" name="om_hnav_sec9_link5" class="icid-cagnavbar_francais lnid-sec9_lnk6" href="http://mail.aol.ca/">Free Email</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="Weather" name="om_hnav_sec9_link6" class="icid-cagnavbar_francais lnid-sec9_lnk7" href="http://weather.aol.ca/">Weather</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="Yellow Pages" name="om_hnav_sec9_link7" class="icid-cagnavbar_francais lnid-sec9_lnk8" href="http://aol.yellowpages.ca/">Yellow Pages</a>
+              </li>
+              			                        </ul>
+        </li>
+      	                            <li class="topLevel " >
+          <div class='topTitle'>
+            <a target="_BLANK"  id="ghnav-Shopping" name="om_ghnav_sec10_link10" data-pos="10" class="itemLink icid-cagnavbar_roottoday lnid-sec10_lnk11" href="http://flyers.aol.ca">Shopping</a>
+          </div>
+          <span class='ghnavarrow'></span>
+          <ul class='subNav'>
+          	            		                    <li class='first '>
+                <a target="_BLANK" title="Amazon" name="om_hnav_sec10_link2" class="icid-cagnavbar_francais lnid-sec10_lnk3" href="http://www.amazon.ca/Deals-Amazonca-Save-Electronics-DVD-Blu-ray-Books-Kitchen-Watches-Tools-VideoGames-Music-Software-Sp/b/?_encoding=UTF8&amp;camp=15121&amp;creative=390961&amp;linkCode=ur2&amp;node=1265255011&amp;tag=aol-ca-hpheader-20&amp;icid=navbarca_amazon_canada">Amazon</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="Flyers" name="om_hnav_sec10_link3" class="icid-cagnavbar_francais lnid-sec10_lnk4" href="http://flyers.aol.ca/">Flyers</a>
+              </li>
+              			              		                    <li class='first '>
+                <a target="_BLANK" title="Travel Deals" name="om_hnav_sec10_link4" class="icid-cagnavbar_francais lnid-sec10_lnk5" href="http://www.redtag.ca/?=aol">Travel Deals</a>
+              </li>
+              			                        </ul>
+        </li>
+      	                                          </ul>
+
+    <div class="ghnav-bg-top "></div> <div class="ghnav-bg-sub "></div> </div>      <div class="subnavControls dn " data-scrolldist="">
+    <div class="subnavcontroller"><span class="subnav-back sprite-bg sprite-grey-back-arrow-small bN"></span></div>
+    <div class="subnavcontroller"><span class="subnav-forward sprite-bg sprite-grey-forward-arrow-small bN"></span></div>
+  </div>
+  <span id="ghnavExtras" style="display:none;" class=" hideDelay-400 "></span>
+    
+    <div class="light" id="weather-mod">
+        <div class="mpid-6 ">
+            <div class="weatherloc weatherloc-weather">
+                <div class="mnid-weather plid-0">
+                    <div class="locWrapper">
+                        <a id="light-weatheredit" href="#" class="lnid-sec1_lnk3 weathersetloc">Set Location</a>
+                        <form action="#weath" method="get" id="light-weatherform" class="hide">
+                            <input type="hidden" name="frm_w" value="1">
+                            <label for="location-keywords" class="hidden">Please enter your zip code:</label>
+                            <input class="location" name="zip_w" id="location-keywords" type="text" value="City, Province and Postal Code">
+                            <a href="" alt="Weather Forecast" class="lnid-sec3_lnk1 sprite-bg sprite-checked-icon" id="light-weathersubmit"></a>
+                        </form>
+                    </div>
+                    <span class="wthDvdr">|</span>
+                    <a name="om_weatherforecast" href="http://weather.aol.ca"
+                       class="lnid-sec1_lnk2"><b class="wthr_ttl">Weather</b></a>
+                    <a name="om_weathericon" class="lnid-sec1_lnk1" href="http://weather.aol.ca">
+          <span data-icon="" class="icon-font-wthr icon-607" title="Weather"><span
+                      class="screen-reader-text">Weather</span></span>
+                    </a>
+
+                    <div class="dn" id="wthrChngLocDelay">300</div>
+                    <div class="ttip dn lnid-sec4_lnk1" style="left: -15.5px;">
+                        <div class="ttip-arw sprite-bg sprite-up-arrow-tooltip"></div>
+                        <a href="#" id="change-location">Change Location</a>
+                    </div>
+                    <div class="chngLocTip"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+  <script type="text/javascript">var hnavDefaultHighlightLinkedText="";</script>
+</div>
+</div>
+    
+        <div id="aol-content" class="aol-content clearfix">
+      
+            
+  <div class="mlid-refresh-module dn" data-timeout="30">
+    <div class="mpid-1 "><div class="pagerefresh-message mnid-pagerefresh-inactive-message">
+        <a style="opacity: 1; background: #008ee1" name="om_refresh-pagerefresh-inactive-message" class="lnid-sec1_lnk1 pagerefresh-link icid-acm50inactiverefreshbanner" href="http://www.aol.ca/?refresh=1&amp;icid=acm50inactiverefreshbanner_canada">
+          <img alt="Cloud icon" class="monst" src="http://o.aolcdn.com/hss/storage/midas/aef5bf1894734413228e3233353756b9/203551783/refresh.png">
+          <style>
+            img.monst {float: left; position: relative; top: 3px; left: 140px;}
+            img.refri {position: relative; top: 6px;}
+            .mlid-refresh-module {padding-bottom: 5px;}
+            .mlid-refresh-module a {font-size: 16px; font-weight: normal; height: 60px; padding: 0;}
+          </style>
+          <div style="color: white; position: relative; top: 14px" class="refreshtxt">
+          <span style="font-weight: bold; font-size: 18px"> Hey!</span>
+            &nbsp;&nbsp;&nbsp;You've been inactive for a while.&nbsp;&nbsp;
+            <img alt="refresh-icon" src="http://o.aolcdn.com/hss/storage/midas/f960f477da3a06ce4d2254ff05a65adb/203551784/refresh-icon.png">&nbsp;&nbsp;
+            <span style="font-weight: bold">Refresh</span> for new stories.
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+      
+  
+    <div id="col12_2">
+          
+          <div id="dl_v2" class="wide typew dl_design_8 fieldVersion8 " data-disableautoroate="">
+  <h2 class="hidden">Rotating Content</h2>
+  <a href="#" id="dlpBtnA" class="hidden" title="">Play</a>
+  <div id="vdisplay-type" class="dn">:</div>
+  <div id="dlw">
+    <div id="dlwa" class="src-1">
+      <p id="dlSlt" class="dn">dynamiclead</p>
+      <i id="dlBtnTitle" class="dn">Pause Slideshow,Play Slideshow</i>
+
+      <span id="slduration" title="8000"></span>
+
+            <div class="mnid-dl1 dtid-exclusiveStacked plid-42635383 dl-design-version-8 nonvideo-dl dl-ca">
+        <span class="dn" id="dl-vslot">42635383</span>
+        <a target="_BLANK" id="dlimg" data-orig-href="http://www.huffingtonpost.ca/2017/05/08/ice-shoves-alberta-beach-lac-ste-anne-video_n_16490722.html" name="om_dl1_image" class="photo-link lnid-sec1_lnk1 icid-maing-grid7|main5|dl1|sec1_lnk1&amp;pLid=42635383" href="http://www.huffingtonpost.ca/2017/05/08/ice-shoves-alberta-beach-lac-ste-anne-video_n_16490722.html">
+                      <img height="420" data-credit="TWITTER/MAMALOU542" alt="Walls Of Ice Rise Up Against Homes In Alberta" width="640" class="noion" src="http://dlug-assets.grvcdn.com/de/09/5a/9f/45/f9/fa/2d/c6/ab/0d/e3/0e/c2/a7/a8-357052555910d66d413a24.53907651.jpg">
+                    <div class="dam-credit" style="position: absolute; max-height: 420px; max-width: 640px; box-sizing: border-box;">TWITTER/MAMALOU542</div>
+          <span id="dl-gradient-lr" class="dn"></span><span id="dl-gradient-rl" class="dn"></span>
+        </a>
+        <span class="dl-copy-overlay">
+          <div class="main-section ">
+            
+            <span class="category"><a class="lnid-sec6_lnk1 icid-maing-grid7|main5|dl1|sec6_lnk1&amp;pLid=42635383" href="http://www.huffingtonpost.ca/2017/05/08/ice-shoves-alberta-beach-lac-ste-anne-video_n_16490722.html" target="_BLANK">News</a></span>
+            <span class="source"><a name="om_dl1_src" class="lnid-sec6_lnk2 icid-maing-grid7|main5|dl1|sec6_lnk2&amp;pLid=42635383" href="http://www.huffingtonpost.ca" target="_BLANK">HuffPost Canada</a></span>
+
+                        <h2 class="dl-headline"><a name="om_dl1_hdln" class="lnid-sec1_lnk2 icid-maing-grid7|main5|dl1|sec1_lnk2&amp;pLid=42635383" href="http://www.huffingtonpost.ca/2017/05/08/ice-shoves-alberta-beach-lac-ste-anne-video_n_16490722.html" target="_BLANK">Walls Of Ice Rise Up Against Homes In Alberta</a></h2>
+            <p class="dlcopy">So much for spring as strong winds push ice off the lake and onto people&#039;s yards in mere minutes</p>
+            <p class="lede-link"><a name="om_dl1_cpy" class="lnid-sec1_lnk3 icid-maing-grid7|main5|dl1|sec1_lnk3&amp;pLid=42635383" href="http://www.huffingtonpost.ca/2017/05/08/ice-shoves-alberta-beach-lac-ste-anne-video_n_16490722.html" target="_BLANK">WATCH: They&#039;re called &#039;ice shoves&#039;</a></p>
+          </div>
+          <div class="sublede-section">
+            <h3>More To Read</h3>
+            <ul id="om_dl1_slde">
+                            <li class="first"><a name="om_dl1_slede1" class="dl-sublede-link bold  lnid-sec3_lnk3 icid-maing-grid7|main5|dl1|sec3_lnk3&amp;pLid=42635383" href="http://www.huffingtonpost.ca/2017/05/08/uber-toronto-artificial-intelligence_n_16489686.html" dldesignversion="dl-design-version-8" target="_BLANK">Uber Is Building An Artificial Intelligence Hub In Toronto</a></li>
+                            <li class=""><a name="om_dl1_slede1" class="dl-sublede-link bold  lnid-sec3_lnk3 icid-maing-grid7|main5|dl1|sec3_lnk3&amp;pLid=42635383" href="http://www.huffingtonpost.ca/2017/05/08/pride-toronto-funding_n_16490204.html" dldesignversion="dl-design-version-8" target="_BLANK">Pride Vs. Police Controversy Continues</a></li>
+                          </ul>
+          </div>
+        </span>
+      </div>
+      
+      <script type="text/javascript">
+        var dlImps = new Array();
+        dlImps['dl1'] = true;
+        var dlact = "dl1";
+        var dlduration = 8000;
+        var dloverrided = false;
+        var dlresumeDuration = 2000;
+        var dlMobileDuration = -1;
+        var dlcurr = 1;
+        var dltotal = 5;
+        var paramslot = "dynamiclead";
+        var dloffset = 0;
+        var ftmslot = "dynamiclead-ftm";
+        var ftmversion = "3";
+        var disableftm = "true";
+        var sitHot = "";
+        var vcslot = "dynamiclead-video-config";
+        var vbclass = "vid_over";
+        var stcExpTime = 1200000;
+        var dlItems = "42635383,-500886024,0,-922858687,1190293601";
+        var dlSegSource = "1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1";
+        var dlCollectionId = "";
+        var dlRotCookieFlag = "1";
+        var dlRotCookieVal = "amp-home%2C1494337942000%2CdlStickyBustTs%2C1480871833000%2C1%2C42635383%2C1%2C-500886024%2C1%2C0%2C1%2C-922858687%2C1%2C1190293601%2C1%2C";
+        var dlRotCookieName = "dlugRotn";
+        var dlEnableSwipe = false;
+        var dlNewDesign = true;
+        var dlDesignVersion = "8";
+        var dlAdMagicNumber1 = "93487073";
+        var dlAdMagicNumber2 = "";
+        var dlSlideCountDivider = " | ";
+        var dlPauseButtonText = "Pause";
+        var dlPlayButtonText = "Play";
+        var cobrand = "amp-home";
+        var ftmPlid = "";
+        var dlPauseOnTabOut = "false";
+
+
+          var enableCSBeaconGlb=false;
+          var cl_disable=new Object();
+          cl_disable["dlfwd"]='true';
+          cl_disable["dlbwd"]='true';
+
+        var makeRequestToAMPAjax = true;
+        var dlug = "true";
+        var dlugGDK = "http://static.grvcdn.com/gdk/gdk-0.2.5-bare.min.js";
+        var dlugPlacement = "7563";
+        var dlugPersonalise = "false";
+        var dlugPersonaliseEnabled = "false";
+        var dlugPageName = "";
+        var overrideAdvert = "false";
+        var overrideAdvertIndex = "";
+        var dlRotMax = "2400000";
+        var dlEnableSourceIndicator = false;
+        var showDLSourceText = false;
+        var dlSourceBlacklist = "";
+        var cookieStickyBusterTimestamp = "dlStickyBustTs,1480871833000";
+        AOL.mobileDisableAutoRotate = false;
+        AOL.tabletDisableAutoRotate = false;
+        AOL.desktopDisableAutoRotate = false;
+      </script>
+    </div>
+  </div>
+  <div id="dl-copy-overlay-background" style="opacity:.93"></div>
+  <div id="dl-controls" class="dl_design_8_controls">
+                  <span id="dl-count">1<span id="dl-end-count"> | 5</span></span>
+    <div class="dl-button"><a id="dlbBtn" class="dl-previous sprite-fg sprite-fg-left-arrow-blue" href="#" alt="Previous" title="Previous">
+        <img class="noion" src="http://www.blogsmithmedia.com/www.aol.ca/assets-h5954df642878c5b3be05d2fbf50952d7/images/legacy/sprite.png?h=845f841a321f92391fa54f313ff59387"></a>
+    </div>
+    <div class="dl-button"><a id="dlpBtn" class="sprite-fg dl-play sprite-fg-play-button-blue" href="#" alt="Play Slideshow" title="Play Slideshow">
+        <img class="noion" src="http://www.blogsmithmedia.com/www.aol.ca/assets-h5954df642878c5b3be05d2fbf50952d7/images/legacy/sprite.png?h=845f841a321f92391fa54f313ff59387"></a>
+    </div>
+    <div class="dl-button"><a id="dlfBtn" class="dl-nextb sprite-fg sprite-fg-right-arrow-blue" href="#" alt="Next" title="Next">
+        <img class="noion" src="http://www.blogsmithmedia.com/www.aol.ca/assets-h5954df642878c5b3be05d2fbf50952d7/images/legacy/sprite.png?h=845f841a321f92391fa54f313ff59387"></a>
+    </div>
+  </div>
+</div>
+
+
+
+          <style>
+  @media only screen and (min-width: 768px) and (max-width: 987px) { #col1 {margin-top: 0px;} }
+@media only screen and (min-width: 768px) and (max-width: 987px) { #col2 {margin-top: 0px;} }
+</style>
+<div id="featvids" class="gmod">
+<h2>Featured Videos</h2>
+<div id="videocarousel">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+  	
+          <a class="slide video">
+    <img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/thumbnail/394x223/70/http://o.aolcdn.com/hss/storage/midas/cdd78de5fadf5601fc8ff9b7238b03d1/205238174/Untitled+design.png" alt="Kids Choose Canada&#039;s Next Party Leaders" width="1" height="1" />
+      <div class="autovid" id="590c94909e451070c90800b6" data-playid="590c94909e451070c90800b6"></div>
+      <div class="gradient"></div>
+      <div class="overlay bN"></div>	
+      <div class="slide-info">
+                <div class="txt">Kids Choose Canada&#039;s Next Party Leaders</div>
+      </div>
+      <div class="play"></div>	
+    </a>	
+      	
+          <a class="slide video">
+    <img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/thumbnail/394x223/70/http://o.aolcdn.com/hss/storage/midas/427cf29a4a45a8d8644a3e309d089641/205234454/Untitled+design.png" alt="Miley Talks Giving Up Weed In Interview" width="1" height="1" />
+      <div class="autovid" id="590b6443b90afb1eea8577a6" data-playid="590b6443b90afb1eea8577a6"></div>
+      <div class="gradient"></div>
+      <div class="overlay bN"></div>	
+      <div class="slide-info">
+                <div class="txt">Miley Talks Giving Up Weed In Interview</div>
+      </div>
+      <div class="play"></div>	
+    </a>	
+      	
+          <a class="slide video">
+    <img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/thumbnail/394x223/70/http://o.aolcdn.com/hss/storage/midas/b9bf2e71b88ed9c45803333771869a17/205234292/Untitled+design.png" alt="10 Priceless Pranks That Never Get Old" width="1" height="1" />
+      <div class="autovid" id="5908bc02b90afb36bf71ea33" data-playid="5908bc02b90afb36bf71ea33"></div>
+      <div class="gradient"></div>
+      <div class="overlay bN"></div>	
+      <div class="slide-info">
+                <div class="txt">10 Priceless Pranks That Never Get Old</div>
+      </div>
+      <div class="play"></div>	
+    </a>	
+      	
+          <a class="slide video">
+    <img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/thumbnail/394x223/70/http://o.aolcdn.com/hss/storage/midas/1c16193b188c92443a872b4b3ab493a7/205225750/Untitled+design.png" alt="Best Looks At The Met Gala 2017" width="1" height="1" />
+      <div class="autovid" id="5907f487b90afb36bf70d0e0" data-playid="5907f487b90afb36bf70d0e0"></div>
+      <div class="gradient"></div>
+      <div class="overlay bN"></div>	
+      <div class="slide-info">
+                <div class="txt">Best Looks At The Met Gala 2017</div>
+      </div>
+      <div class="play"></div>	
+    </a>	
+      	
+          <a class="slide video">
+    <img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/thumbnail/394x223/70/http://o.aolcdn.com/hss/storage/midas/6e1c84fdb270889708e8d15d60730021/205215741/Untitled+design.png" alt="Astronaut Shows How To Make A PB&amp;J In Space" width="1" height="1" />
+      <div class="autovid" id="58ff6e989efa8944f7d593cb" data-playid="58ff6e989efa8944f7d593cb"></div>
+      <div class="gradient"></div>
+      <div class="overlay bN"></div>	
+      <div class="slide-info">
+                <div class="txt">Astronaut Shows How To Make A PB&amp;J In Space</div>
+      </div>
+      <div class="play"></div>	
+    </a>	
+      	
+          <a class="slide video">
+    <img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/thumbnail/394x223/70/http://o.aolcdn.com/hss/storage/midas/87d96981443384f74f94648205af152e/205214472/Untitled+design.png" alt="Scarlett Johansson Has A Grandma Lookalike" width="1" height="1" />
+      <div class="autovid" id="590353961de5a10537b309f0" data-playid="590353961de5a10537b309f0"></div>
+      <div class="gradient"></div>
+      <div class="overlay bN"></div>	
+      <div class="slide-info">
+                <div class="txt">Scarlett Johansson Has A Grandma Lookalike</div>
+      </div>
+      <div class="play"></div>	
+    </a>	
+      	
+          <a class="slide video">
+    <img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/thumbnail/394x223/70/http://o.aolcdn.com/hss/storage/midas/d8880dfc101870de024c552c65d53a57/205209994/Untitled+design.png" alt="Johnny Depp Surprises Disneyland Guests" width="1" height="1" />
+      <div class="autovid" id="590201cfe0fa173c03f78c32" data-playid="590201cfe0fa173c03f78c32"></div>
+      <div class="gradient"></div>
+      <div class="overlay bN"></div>	
+      <div class="slide-info">
+                <div class="txt">Johnny Depp Surprises Disneyland Guests</div>
+      </div>
+      <div class="play"></div>	
+    </a>	
+      	
+          <a class="slide video">
+    <img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/thumbnail/394x223/70/http://o.aolcdn.com/hss/storage/midas/22920139c4c2f1619ebf5d41129cafcf/205201846/Untitled+design.png" alt="College Grad Beat Odds, Twitter Loves Him" width="1" height="1" />
+      <div class="autovid" id="58ff35edc214e3721011d4f4" data-playid="58ff35edc214e3721011d4f4"></div>
+      <div class="gradient"></div>
+      <div class="overlay bN"></div>	
+      <div class="slide-info">
+                <div class="txt">College Grad Beat Odds, Twitter Loves Him</div>
+      </div>
+      <div class="play"></div>	
+    </a>	
+      	
+          <a class="slide video">
+    <img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/thumbnail/394x223/70/http://o.aolcdn.com/hss/storage/midas/8632a7fe1faa8b8802f72aa34d3fbe2d/205196605/Untitled+design.png" alt="Kris Jenner Is &#039;Done&#039; With Caitlyn " width="1" height="1" />
+      <div class="autovid" id="58fe094ab90afb2ed04527ca" data-playid="58fe094ab90afb2ed04527ca"></div>
+      <div class="gradient"></div>
+      <div class="overlay bN"></div>	
+      <div class="slide-info">
+                <div class="txt">Kris Jenner Is &#039;Done&#039; With Caitlyn </div>
+      </div>
+      <div class="play"></div>	
+    </a>	
+      	
+          <a class="slide video">
+    <img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/thumbnail/394x223/70/http://o.aolcdn.com/hss/storage/midas/1c3522917a77a03483689a62c102d26/205190070/Untitled+design.png" alt="Queen Elizabeth II&#039;s Most Regal Moments" width="1" height="1" />
+      <div class="autovid" id="58fa30e7f3bdc915f50f6449" data-playid="58fa30e7f3bdc915f50f6449"></div>
+      <div class="gradient"></div>
+      <div class="overlay bN"></div>	
+      <div class="slide-info">
+                <div class="txt">Queen Elizabeth II&#039;s Most Regal Moments</div>
+      </div>
+      <div class="play"></div>	
+    </a>	
+      	
+          <a class="slide video">
+    <img src="http://o.aolcdn.com/dims-shared/dims3/GLOB/thumbnail/394x223/70/http://o.aolcdn.com/hss/storage/midas/69083fe96bd1a745099be0a434ae158f/205172007/melissa.PNG" alt="Melissa Etheridge Smokes With Her Kids" width="1" height="1" />
+      <div class="autovid" id="58f51534b90afb03207f64d8" data-playid="58f51534b90afb03207f64d8"></div>
+      <div class="gradient"></div>
+      <div class="overlay bN"></div>	
+      <div class="slide-info">
+                <div class="txt">Melissa Etheridge Smokes With Her Kids</div>
+      </div>
+      <div class="play"></div>	
+    </a>	
+      	
+  <div class="butt">
+    <a class="fv-prev prev">prev</a>
+    <a class="fv-next next">next</a>
+  </div>	
+</div>
+<div id="video-carousel-controls"></div>
+<!--[if lt IE 9]>
+<style>
+#videocarousel .gradient{filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000',endColorstr='#80000000',GradientType=0);}
+</style>
+<![endif]-->
+</div>
+    
+        <div id="col1">
+      <div id="col1R" class="mlid-col1R">
+                    <div class="mpid-1">
+  <div class="gmod m-choose-news mnid-mnc-news-feed-huffpoworld plid-652512" data-module-key="latest-headlines" id="news-feed-choose" data-beacon='{"p":{"mnid":"mnc-news-feed-", "plid": "652512"}}'>
+    <h2 class="choose-news">
+      <a class="lnid-sec1_lnk1" href="http://www.huffingtonpost.ca" target="_BLANK">Latest Headlines</a>
+
+      
+    </h2>
+
+    
+    <ul class="m-choose-news__items-wrapper mnid-mnc-news-feed-huffpoworld-hl plid-633823" data-count-per="4" data-count-showing="4" data-count-available="8">
+              <li class="" data-index="1">
+          <a href="http://www.huffingtonpost.ca/2017/05/08/policy-that-bars-passport-offices-from-helping-disabled-applicants-under-review_n_16496934.html" class="lnid-sec2_lnk1" target="_BLANK">Passport Canada Accused Of Denying Help To Applicants With Disabilities</a>
+        </li>
+              <li class="" data-index="2">
+          <a href="http://www.huffingtonpost.ca/2017/05/08/rigaud-mayor-flood_n_16494104.html" class="lnid-sec2_lnk2" target="_BLANK">Flood Evacuees Are 'Crying Like Babies,' Quebec Mayor Says</a>
+        </li>
+              <li class="" data-index="3">
+          <a href="http://www.huffingtonpost.ca/2017/05/08/quebec-floods-man-and-young-girl-missing-after-vehicle-drifts-into-river_n_16492980.html" class="lnid-sec2_lnk3" target="_BLANK">Toddler, Man Swept Away By Quebec River</a>
+        </li>
+              <li class="" data-index="4">
+          <a href="http://www.huffingtonpost.ca/2017/05/08/gatineau-flooding-2017_n_16490338.html" class="lnid-sec2_lnk4" target="_BLANK">Boat Ride Shows Gatineau Streets Turned Into Eerie Canals</a>
+        </li>
+              <li class="hidden" data-index="5">
+          <a href="http://www.huffingtonpost.ca/2017/05/08/pride-toronto-funding_n_16490204.html" class="lnid-sec2_lnk5" target="_BLANK">Pride Toronto Wants Continued Funds Amid Police Participation Debate</a>
+        </li>
+              <li class="hidden" data-index="6">
+          <a href="http://www.huffingtonpost.ca/2017/05/07/toronto-raccoon_n_16473318.html" class="lnid-sec2_lnk6" target="_BLANK">Nothing Says 'Welcome To Toronto' Like A Raccoon At The Airport</a>
+        </li>
+              <li class="hidden" data-index="7">
+          <a href="http://www.huffingtonpost.ca/2017/05/07/france-election-result_n_16471702.html" class="lnid-sec2_lnk7" target="_BLANK">Macron Set For Victory In French Vote That Could Change Europe</a>
+        </li>
+              <li class="hidden" data-index="8">
+          <a href="http://www.huffingtonpost.ca/2017/05/07/flood-fighting-continues-in-central-eastern-and-western-canada_n_16470754.html" class="lnid-sec2_lnk8" target="_BLANK">Montreal Declares State Of Emergency As Flooding Worsens</a>
+        </li>
+              <li class="hidden" data-index="9">
+          <a href="http://www.huffingtonpost.ca/2017/05/07/texas-adoption_n_16470884.html" class="lnid-sec2_lnk9" target="_BLANK">Texas Law Would Let Adoption Agencies Ban Muslim, Jewish, LGBT Parents</a>
+        </li>
+              <li class="hidden" data-index="10">
+          <a href="http://www.huffingtonpost.ca/2017/05/07/chibok-schoolgirls-nigeria-boko-haram_n_16468882.html" class="lnid-sec2_lnk10" target="_BLANK">82 Chibok Schoolgirls Released In Prisoner Swap</a>
+        </li>
+          </ul>
+    <a class="m-choose-news__more-news lnid-sec3_lnk1" href="http://www.huffingtonpost.ca" target="_BLANK">More News</a>
+  </div>
+</div>
+                  
+
+                    <div class="mpid-1">
+  <div class="gmod m-choose-news mnid-mnc-news-feed-huffpoworld plid-652512" data-module-key="entertainment" id="news-feed-choose" data-beacon='{"p":{"mnid":"mnc-news-feed-", "plid": "652512"}}'>
+    <h2 class="choose-news">
+      <a class="lnid-sec1_lnk1" href="http://www.huffingtonpost.com/entertainment/" target="_BLANK">Entertainment News</a>
+
+      
+    </h2>
+
+    
+    <ul class="m-choose-news__items-wrapper mnid-mnc-news-feed-huffpoworld-hl plid-633823" data-count-per="4" data-count-showing="4" data-count-available="8">
+              <li class="" data-index="1">
+          <a href="http://www.huffingtonpost.com/entry/psych-movie-to-air-on-usa-network-in-december_us_59119b88e4b0d5d9049fbf31" class="lnid-sec2_lnk1" target="_BLANK">'Psych' TV Movie To Air On USA Network In December</a>
+        </li>
+              <li class="" data-index="2">
+          <a href="http://www.huffingtonpost.com/entry/zach-galifianakis-son-donald-trump_us_591191a5e4b0104c73522199" class="lnid-sec2_lnk2" target="_BLANK">Zach Galifianakis' Young Son Had A Chilling Premonition About Donald Trump</a>
+        </li>
+              <li class="" data-index="3">
+          <a href="http://www.huffingtonpost.com/entry/bill-nye-science-guy-nickname-stephen-colbert_us_591186d2e4b0104c7352093f" class="lnid-sec2_lnk3" target="_BLANK">Bill Nye Fiercely Defends His ‘Science Guy’ Nickname</a>
+        </li>
+              <li class="" data-index="4">
+          <a href="http://www.huffingtonpost.com/entry/robert-de-niro-rages-at-donald-trumps-arts-defunding_us_59118ff5e4b0104c73521c78" class="lnid-sec2_lnk4" target="_BLANK">Robert De Niro Rages At Donald Trump's Arts Defunding</a>
+        </li>
+              <li class="hidden" data-index="5">
+          <a href="http://www.huffingtonpost.com/entry/paul-ryan-complained-about-seth-meyers-who-is-so-not-having-it_us_591151b3e4b0104c7351e3df" class="lnid-sec2_lnk5" target="_BLANK">Paul Ryan's Going To Hate Seth Meyers' Response To His Email</a>
+        </li>
+              <li class="hidden" data-index="6">
+          <a href="http://www.huffingtonpost.com/entry/trevor-noah-trumpcare_us_59114b3ee4b0104c7351e254" class="lnid-sec2_lnk6" target="_BLANK">Trevor Noah: 13 White Guys Will Decide Women's Health Care</a>
+        </li>
+              <li class="hidden" data-index="7">
+          <a href="http://www.huffingtonpost.com/entry/jimmy-kimmel-apology_us_59113cb4e4b0e7021e9aa653" class="lnid-sec2_lnk7" target="_BLANK">Jimmy Kimmel Slams GOP With The Least Sincere Apology Ever</a>
+        </li>
+              <li class="hidden" data-index="8">
+          <a href="http://www.huffingtonpost.com/entry/yates-olbermann-american-hero_us_59111c66e4b0d5d9049f61fe" class="lnid-sec2_lnk8" target="_BLANK">Keith Olbermann Hails Sally Yates As An 'American Hero'</a>
+        </li>
+              <li class="hidden" data-index="9">
+          <a href="http://www.huffingtonpost.com/entry/wolf-blitzer-sally-yates_us_59111adbe4b0e7021e9a9d4f" class="lnid-sec2_lnk9" target="_BLANK">Wolf Blitzer: Sally Yates 'Basically Crushed' Ted Cruz</a>
+        </li>
+              <li class="hidden" data-index="10">
+          <a href="http://www.huffingtonpost.com/entry/a-reminder-that-nearly-all-on-screen-superheroes-look-like-chris-pine_us_5910865be4b0d5d9049e3ae5" class="lnid-sec2_lnk10" target="_BLANK">A Reminder That Nearly All On-Screen Superheroes Look Like Chris Pine</a>
+        </li>
+          </ul>
+    <a class="m-choose-news__more-news lnid-sec3_lnk1" href="http://www.huffingtonpost.com/entertainment/" target="_BLANK">More Entertainment News</a>
+  </div>
+</div>
+                    <div class="mpid-1">
+  <div class="gmod m-choose-news mnid-mnc-news-feed-huffpoworld plid-652512" data-module-key="lifestyle" id="news-feed-choose" data-beacon='{"p":{"mnid":"mnc-news-feed-", "plid": "652512"}}'>
+    <h2 class="choose-news">
+      <a class="lnid-sec1_lnk1" href="http://www.huffingtonpost.ca/living/" target="_BLANK">Living News</a>
+
+      
+    </h2>
+
+    
+    <ul class="m-choose-news__items-wrapper mnid-mnc-news-feed-huffpoworld-hl plid-633823" data-count-per="5" data-count-showing="5" data-count-available="10">
+              <li class="" data-index="1">
+          <a href="http://www.huffingtonpost.ca/deepi-harish/dessert-balls_b_16481092.html" class="lnid-sec2_lnk1" target="_BLANK">If Balls Are A Fad, What's Next?</a>
+        </li>
+              <li class="" data-index="2">
+          <a href="http://www.huffingtonpost.ca/bitememorecom/mothers-day-recipes_b_16433126.html" class="lnid-sec2_lnk2" target="_BLANK">Celebrate Mother's Day With These 7 Delicious Recipes</a>
+        </li>
+              <li class="" data-index="3">
+          <a href="http://www.huffingtonpost.ca/junaid-jahangir/scholars-islamic-punishments_b_16409764.html" class="lnid-sec2_lnk3" target="_BLANK">10 Male Muslim Scholars Who Resist Islamic Punishments</a>
+        </li>
+              <li class="" data-index="4">
+          <a href="http://www.huffingtonpost.ca/2017/05/08/ashley-graham-black-husband_n_16488452.html" class="lnid-sec2_lnk4" target="_BLANK">Ashley Graham 'Naively' Thought Colour Didn't Matter. She Was Wrong.</a>
+        </li>
+              <li class="" data-index="5">
+          <a href="http://www.huffingtonpost.ca/2017/05/08/moonlight-kiss-mtv-awards_n_16487744.html" class="lnid-sec2_lnk5" target="_BLANK">MTV Just Made The 'Best Kiss' Award Actually Mean Something</a>
+        </li>
+              <li class="hidden" data-index="6">
+          <a href="http://www.huffingtonpost.ca/lubna-javed/bollywood-marriage-songs_b_16480716.html" class="lnid-sec2_lnk6" target="_BLANK">A Bollywood Take On Life Before And After Marriage</a>
+        </li>
+              <li class="hidden" data-index="7">
+          <a href="http://www.huffingtonpost.ca/2017/05/08/revenge-porn-study_n_16486502.html" class="lnid-sec2_lnk7" target="_BLANK">1 In 5 Australians Fall Victim To Revenge Porn</a>
+        </li>
+              <li class="hidden" data-index="8">
+          <a href="http://www.huffingtonpost.ca/2017/05/08/emma-watson-mtv-movie-awards-2017_n_16486936.html" class="lnid-sec2_lnk8" target="_BLANK">Emma Watson Wins First Genderless MTV Movie Award</a>
+        </li>
+              <li class="hidden" data-index="9">
+          <a href="http://www.huffingtonpost.ca/2017/05/08/meghan-markle-pippa-middleton-wedding_n_16486930.html" class="lnid-sec2_lnk9" target="_BLANK">Meghan Markle IS Going To Pippa Middleton's Wedding</a>
+        </li>
+              <li class="hidden" data-index="10">
+          <a href="http://www.huffingtonpost.ca/2017/05/08/prince-harry-meghan-markle-kiss_n_16486168.html" class="lnid-sec2_lnk10" target="_BLANK">Prince Harry And Meghan Markle Share A Kiss At 1st Public Event</a>
+        </li>
+          </ul>
+    <a class="m-choose-news__more-news lnid-sec3_lnk1" href="http://www.huffingtonpost.ca/living/" target="_BLANK">More Living News</a>
+  </div>
+</div>
+                    <div class="mpid-1">
+  <div class="gmod m-choose-news mnid-mnc-news-feed-huffpoworld plid-652512" data-module-key="health" id="news-feed-choose" data-beacon='{"p":{"mnid":"mnc-news-feed-", "plid": "652512"}}'>
+    <h2 class="choose-news">
+      <a class="lnid-sec1_lnk1" href="http://www.huffingtonpost.ca/style/" target="_BLANK">Style News</a>
+
+      
+    </h2>
+
+    
+    <ul class="m-choose-news__items-wrapper mnid-mnc-news-feed-huffpoworld-hl plid-633823" data-count-per="5" data-count-showing="5" data-count-available="10">
+              <li class="" data-index="1">
+          <a href="http://www.huffingtonpost.ca/2017/05/08/dove-body-positive-bottle_n_16493648.html" class="lnid-sec2_lnk1" target="_BLANK">Dove's New Body-Positive Bottles Aren't Getting Positive Reviews</a>
+        </li>
+              <li class="" data-index="2">
+          <a href="http://www.huffingtonpost.ca/2017/05/08/beauty-gurus-advice_n_16481774.html" class="lnid-sec2_lnk2" target="_BLANK">Beauty Gurus Get Real About Their Teenage Insecurities</a>
+        </li>
+              <li class="" data-index="3">
+          <a href="http://www.huffingtonpost.ca/2017/05/08/rain-dove-gender_n_16490358.html" class="lnid-sec2_lnk3" target="_BLANK">For Model Rain Dove, Gender Is A Concept That Doesn't Exist</a>
+        </li>
+              <li class="" data-index="4">
+          <a href="http://www.huffingtonpost.ca/2017/05/08/jillian-rose-reed-mtv-awards-dress_n_16488466.html" class="lnid-sec2_lnk4" target="_BLANK">MTV Star Has J.Lo Fans Seeing Double</a>
+        </li>
+              <li class="" data-index="5">
+          <a href="http://www.huffingtonpost.ca/2017/05/08/france-bans-thin-models_n_16485772.html" class="lnid-sec2_lnk5" target="_BLANK">France Cracks Down On Very Thin Models</a>
+        </li>
+              <li class="hidden" data-index="6">
+          <a href="http://www.huffingtonpost.ca/2017/05/06/elle-brazil-same-sex-couple-_n_16450004.html" class="lnid-sec2_lnk6" target="_BLANK">Elle Brazil's Latest Cover Boasts Same-Sex Couple</a>
+        </li>
+              <li class="hidden" data-index="7">
+          <a href="http://www.huffingtonpost.ca/2017/05/05/plus-size-women-playboy-covers_n_16434470.html" class="lnid-sec2_lnk7" target="_BLANK">Plus-Size Women Re-Create Playboy Covers And They're Gorgeous</a>
+        </li>
+              <li class="hidden" data-index="8">
+          <a href="http://www.huffingtonpost.ca/2017/05/05/ariel-winter-dress_n_16431008.html" class="lnid-sec2_lnk8" target="_BLANK">Ariel Winter Refuses To Let Others Dictate How She Dresses</a>
+        </li>
+              <li class="hidden" data-index="9">
+          <a href="http://www.huffingtonpost.ca/2017/05/05/model-naked-sacred-mountain_n_16429802.html" class="lnid-sec2_lnk9" target="_BLANK">Model Pissed Off Maoris By Posing Nude Atop Sacred NZ Mountain</a>
+        </li>
+              <li class="hidden" data-index="10">
+          <a href="http://www.huffingtonpost.ca/2017/05/04/essie-dennis-body-positive_n_16411636.html" class="lnid-sec2_lnk10" target="_BLANK">This Blogger Wants You To Stop Comparing Your Body To Your Partner's</a>
+        </li>
+              <li class="hidden" data-index="11">
+          <a href="http://www.huffingtonpost.ca/2017/05/04/queen-elizabeth-fashion-protocol_n_16409780.html" class="lnid-sec2_lnk11" target="_BLANK">Queen Elizabeth Breaks Royal Fashion Protocol For First Time In 43 Years</a>
+        </li>
+              <li class="hidden" data-index="12">
+          <a href="http://www.huffingtonpost.ca/2017/05/03/kendall-jenner-met-gala-2017-dress_n_16407154.html" class="lnid-sec2_lnk12" target="_BLANK">Kendall Jenner Is Being Slut-Shamed For Her Met Gala Dress</a>
+        </li>
+              <li class="hidden" data-index="13">
+          <a href="http://www.huffingtonpost.ca/2017/05/03/female-mannequins_n_16406678.html" class="lnid-sec2_lnk13" target="_BLANK">Female Mannequins Are Almost Always 'Severely Underweight'</a>
+        </li>
+              <li class="hidden" data-index="14">
+          <a href="http://www.huffingtonpost.ca/2017/05/02/talli-osborne-confidence_n_16396514.html" class="lnid-sec2_lnk14" target="_BLANK">Talli Osborne Threw Away Her Prosthetic Limbs And Started To Feel Beautiful</a>
+        </li>
+              <li class="hidden" data-index="15">
+          <a href="http://www.huffingtonpost.ca/2017/05/02/best-beauty-2017-met-gala_n_16391432.html" class="lnid-sec2_lnk15" target="_BLANK">The Best Beauty Looks From The 2017 Met Gala</a>
+        </li>
+              <li class="hidden" data-index="16">
+          <a href="http://www.huffingtonpost.ca/2017/05/02/gluten-free-makeup_n_16368124.html" class="lnid-sec2_lnk16" target="_BLANK">Gluten-Free Makeup Brands You Need To Check Out</a>
+        </li>
+              <li class="hidden" data-index="17">
+          <a href="http://www.huffingtonpost.ca/2017/05/02/met-gala-2017_n_16391002.html" class="lnid-sec2_lnk17" target="_BLANK">All The Met Gala Coverage You Could Need</a>
+        </li>
+              <li class="hidden" data-index="18">
+          <a href="http://www.huffingtonpost.ca/2017/05/02/zendaya-afro-met-gala-2017_n_16387484.html" class="lnid-sec2_lnk18" target="_BLANK">All Eyes Were On Zendaya's Luxurious 'Fro At The Met Gala</a>
+        </li>
+              <li class="hidden" data-index="19">
+          <a href="http://www.huffingtonpost.ca/2017/05/02/met-gala-2017-best-worst-dressed_n_16373816.html" class="lnid-sec2_lnk19" target="_BLANK">The Met Gala Red Carpet Had Us All Like 'YAS!' And 'Huh?!'</a>
+        </li>
+              <li class="hidden" data-index="20">
+          <a href="http://www.huffingtonpost.ca/2017/05/01/met-gala-2017-photos-_n_16376176.html" class="lnid-sec2_lnk20" target="_BLANK">All The Looks (And Oh, What Looks) From Met Gala 2017</a>
+        </li>
+              <li class="hidden" data-index="21">
+          <a href="http://www.huffingtonpost.ca/2017/05/01/ryan-reynolds-blake-lively-met-gala-couples_n_16376168.html" class="lnid-sec2_lnk21" target="_BLANK">Canadian-U.S. Relations Appear Just Fine On Met Gala Red Carpet</a>
+        </li>
+              <li class="hidden" data-index="22">
+          <a href="http://www.huffingtonpost.ca/2017/05/01/diddy-cassie-met-gala-2017_n_16375270.html" class="lnid-sec2_lnk22" target="_BLANK">Diddy Was So Pooped From The Met Gala, He Had To Lie Down</a>
+        </li>
+              <li class="hidden" data-index="23">
+          <a href="http://www.huffingtonpost.ca/2017/05/01/rihanna-met-gala-2017_n_16374568.html" class="lnid-sec2_lnk23" target="_BLANK">Well, Rihanna Just Won The Met Gala ... Again</a>
+        </li>
+              <li class="hidden" data-index="24">
+          <a href="http://www.huffingtonpost.ca/2017/05/01/celine-dion-met-gala-2017_n_16374574.html" class="lnid-sec2_lnk24" target="_BLANK">Bravo, Céline Dion, Your Gown Is A Dream</a>
+        </li>
+              <li class="hidden" data-index="25">
+          <a href="http://www.huffingtonpost.ca/2017/05/01/katy-perry-met-gala-2017_n_16373058.html" class="lnid-sec2_lnk25" target="_BLANK">Our Jaws Dropped When We Saw Katy Perry's Met Gala Ensemble</a>
+        </li>
+              <li class="hidden" data-index="26">
+          <a href="http://www.huffingtonpost.ca/2017/05/01/jaden-smith-met-gala-2017_n_16373054.html" class="lnid-sec2_lnk26" target="_BLANK">Jaden Smith's Met Gala Date Was His Chopped-Off Hair</a>
+        </li>
+              <li class="hidden" data-index="27">
+          <a href="http://www.huffingtonpost.ca/2017/05/01/michelle-williams-beyonce-pregnancy_n_16365752.html" class="lnid-sec2_lnk27" target="_BLANK">Michelle Williams: Beyoncé Makes Pregnant Women Feel 'Fierce'</a>
+        </li>
+              <li class="hidden" data-index="28">
+          <a href="http://www.huffingtonpost.ca/2017/05/01/kylie-bamberger-no-hair-wedding_n_16363168.html" class="lnid-sec2_lnk28" target="_BLANK">Bride Looks Radiant On Her Wedding Day Without A Strand Of Hair</a>
+        </li>
+              <li class="hidden" data-index="29">
+          <a href="http://www.huffingtonpost.ca/2017/04/28/flat-shoes-2017_n_16312244.html" class="lnid-sec2_lnk29" target="_BLANK">10 Cute Flats That Will Have You Whipping Off Your Socks</a>
+        </li>
+              <li class="hidden" data-index="30">
+          <a href="http://www.huffingtonpost.ca/2017/04/28/michaela-deprince-jockey-ad_n_16310662.html" class="lnid-sec2_lnk30" target="_BLANK">Ballerina's Jockey Campaign Shows That Dreams Can Come True</a>
+        </li>
+              <li class="hidden" data-index="31">
+          <a href="http://www.huffingtonpost.ca/2017/04/28/plus-size-string-bikini-sarah-sapora_n_16310402.html" class="lnid-sec2_lnk31" target="_BLANK">Curvy Blogger Rocks Bikini After 25 Years Of Covering Up</a>
+        </li>
+              <li class="hidden" data-index="32">
+          <a href="http://www.huffingtonpost.ca/2017/04/28/shaving-head-beauty-stand_n_16310100.html" class="lnid-sec2_lnk32" target="_BLANK">Beauty Blogger Who Shaved Head: 'I Don't Exist To Be Beautiful'</a>
+        </li>
+              <li class="hidden" data-index="33">
+          <a href="http://www.huffingtonpost.ca/2017/04/27/wedding-style-trends-2017_n_16294742.html" class="lnid-sec2_lnk33" target="_BLANK">These Stunning Trends Will Help You Complete Your Wedding Look</a>
+        </li>
+              <li class="hidden" data-index="34">
+          <a href="http://www.huffingtonpost.ca/2017/04/27/makeup-artist-recommended_n_16270830.html" class="lnid-sec2_lnk34" target="_BLANK">7 Makeup Artist-Approved Brands You Need To Try</a>
+        </li>
+              <li class="hidden" data-index="35">
+          <a href="http://www.huffingtonpost.ca/2017/04/27/anna-wintour-melania-trump-vogue_n_16291454.html" class="lnid-sec2_lnk35" target="_BLANK">Melania Trump Will Probably Cover Vogue As First Lady</a>
+        </li>
+              <li class="hidden" data-index="36">
+          <a href="http://www.huffingtonpost.ca/2017/04/26/balenciaga-ikea-bag_n_16270832.html" class="lnid-sec2_lnk36" target="_BLANK">Save Yourself $1,999 On A Bag By Just Going To Ikea</a>
+        </li>
+              <li class="hidden" data-index="37">
+          <a href="http://www.huffingtonpost.ca/2017/04/26/ariel-winter-proud-of-her-body_n_16266322.html" class="lnid-sec2_lnk37" target="_BLANK">Calling Ariel Winter A Slut Won't Make Her Stop Showing Her Body</a>
+        </li>
+              <li class="hidden" data-index="38">
+          <a href="http://www.huffingtonpost.ca/2017/04/26/khoudia-diop-makeup-forever_n_16262816.html" class="lnid-sec2_lnk38" target="_BLANK">Why The 'Melanin Goddess' Starring In New Beauty Ad Is A Huge Win</a>
+        </li>
+              <li class="hidden" data-index="39">
+          <a href="http://www.huffingtonpost.ca/sari-friedman/spring-style-on-a-bduget_b_16150202.html" class="lnid-sec2_lnk39" target="_BLANK">Spring Style Without Burning A Hole In Your Wallet</a>
+        </li>
+              <li class="hidden" data-index="40">
+          <a href="http://www.huffingtonpost.ca/2017/04/25/shea-moisture-hair-hate-ad_n_16232060.html" class="lnid-sec2_lnk40" target="_BLANK">Shea Moisture Admits They 'Really F**ked Up' Latest Ad</a>
+        </li>
+              <li class="hidden" data-index="41">
+          <a href="http://www.huffingtonpost.ca/2017/04/25/prom-dress-black-lives-matters_n_16228548.html" class="lnid-sec2_lnk41" target="_BLANK">Teen's Prom Dress Honours Black Lives Matter</a>
+        </li>
+              <li class="hidden" data-index="42">
+          <a href="http://www.huffingtonpost.ca/2017/04/24/spring-coats-2017_n_16211574.html" class="lnid-sec2_lnk42" target="_BLANK">You'll Want Every Single One Of These 10 Must-Have Spring Coats</a>
+        </li>
+              <li class="hidden" data-index="43">
+          <a href="http://www.huffingtonpost.ca/2017/04/24/lululemon-letter-size-12_n_16208122.html" class="lnid-sec2_lnk43" target="_BLANK">Lululemon Apparently Doesn't Want Customers Over Size 12</a>
+        </li>
+              <li class="hidden" data-index="44">
+          <a href="http://www.huffingtonpost.ca/2017/04/21/masami-hosono-gender-hairstylist_n_16145606.html" class="lnid-sec2_lnk44" target="_BLANK">This Hairstylist Won't Charge Women More Than Men</a>
+        </li>
+              <li class="hidden" data-index="45">
+          <a href="http://www.huffingtonpost.ca/2017/04/20/wocmostbeautiful-twitter_n_16130410.html" class="lnid-sec2_lnk45" target="_BLANK">‘Most Beautiful' List Created By Real People > People Magazine</a>
+        </li>
+              <li class="hidden" data-index="46">
+          <a href="http://www.huffingtonpost.ca/2017/04/20/cara-delevingne-rimmel-mascara-ad_n_16125378.html" class="lnid-sec2_lnk46" target="_BLANK">Mascara Ad Pulled For 'Exaggerating' Results</a>
+        </li>
+              <li class="hidden" data-index="47">
+          <a href="http://www.huffingtonpost.ca/2017/04/19/modest-looks-for-spring_n_16108922.html" class="lnid-sec2_lnk47" target="_BLANK">We Want To See More Of These Gorgeous Modest Spring Looks</a>
+        </li>
+              <li class="hidden" data-index="48">
+          <a href="http://www.huffingtonpost.ca/2017/04/19/embracing-body-hair_n_16101972.html" class="lnid-sec2_lnk48" target="_BLANK">Blogger Embraces Her Natural Beauty By Not Shaving For One Year</a>
+        </li>
+              <li class="hidden" data-index="49">
+          <a href="http://www.huffingtonpost.ca/2017/04/19/small-breast-bras_n_16099622.html" class="lnid-sec2_lnk49" target="_BLANK">This Bra For Small Boobs Finally Gets You Out Of The Tween Section</a>
+        </li>
+              <li class="hidden" data-index="50">
+          <a href="http://www.huffingtonpost.ca/2017/04/19/julia-roberts-most-beautiful_n_16098372.html" class="lnid-sec2_lnk50" target="_BLANK">Julia Roberts Is People's 'Most Beautiful Woman' .. Again</a>
+        </li>
+              <li class="hidden" data-index="51">
+          <a href="http://www.huffingtonpost.ca/2017/04/18/sportchek-mannequins_n_16078392.html" class="lnid-sec2_lnk51" target="_BLANK">Calgary Sport Chek's New Mannequins Actually Look Like Their Customers</a>
+        </li>
+              <li class="hidden" data-index="52">
+          <a href="http://www.huffingtonpost.ca/2017/04/18/wedding-dress-cost_n_16078396.html" class="lnid-sec2_lnk52" target="_BLANK">The Amount Women Spend On Wedding Dresses May Surprise You</a>
+        </li>
+              <li class="hidden" data-index="53">
+          <a href="http://www.huffingtonpost.ca/2017/04/18/ashley-graham-molested_n_16076750.html" class="lnid-sec2_lnk53" target="_BLANK">Ashley Graham's Memoir Reveals Sexual Assault At Age 10</a>
+        </li>
+              <li class="hidden" data-index="54">
+          <a href="http://www.huffingtonpost.ca/2017/04/18/microneedling_n_16063910.html" class="lnid-sec2_lnk54" target="_BLANK">Understanding The Beauty Trend Beloved By The Stars</a>
+        </li>
+              <li class="hidden" data-index="55">
+          <a href="http://www.huffingtonpost.ca/2017/04/17/victoria-secret-what-is-sexy-diversity-_n_16059634.html" class="lnid-sec2_lnk55" target="_BLANK">Victoria's Secret's Idea Of 'What Is Sexy' Seems Pretty Limited</a>
+        </li>
+              <li class="hidden" data-index="56">
+          <a href="http://www.huffingtonpost.ca/2017/04/17/mens-suit-bottom-button_n_16058926.html" class="lnid-sec2_lnk56" target="_BLANK">The Real Reason Men Don't Use The Bottom Button On Their Suits</a>
+        </li>
+              <li class="hidden" data-index="57">
+          <a href="http://www.huffingtonpost.ca/2017/04/17/gucci-black-models_n_16058742.html" class="lnid-sec2_lnk57" target="_BLANK">Gucci's New Ads Feature All Black Talent, But Not Everyone's Into It</a>
+        </li>
+              <li class="hidden" data-index="58">
+          <a href="http://www.huffingtonpost.ca/2017/04/17/customizable-beauty-produts_n_15987820.html" class="lnid-sec2_lnk58" target="_BLANK">Customizable Beauty Products Will Solve All Your Beauty Woes</a>
+        </li>
+              <li class="hidden" data-index="59">
+          <a href="http://www.huffingtonpost.ca/2017/04/17/vetements-levis-butt-jeans_n_16058002.html" class="lnid-sec2_lnk59" target="_BLANK">People Have Questions About These Butt-Revealing Jeans</a>
+        </li>
+              <li class="hidden" data-index="60">
+          <a href="http://www.huffingtonpost.ca/2017/04/13/lourdes-leon-armpit-hair_n_15991470.html" class="lnid-sec2_lnk60" target="_BLANK">Lourdes Leon Trolled For Having Armpit Hair</a>
+        </li>
+              <li class="hidden" data-index="61">
+          <a href="http://www.huffingtonpost.ca/2017/04/13/maria-borges-elle-us-cover_n_15990452.html" class="lnid-sec2_lnk61" target="_BLANK">Model Maria Borges Once Again Makes History For Black Women</a>
+        </li>
+              <li class="hidden" data-index="62">
+          <a href="http://www.huffingtonpost.ca/2017/04/13/kate-middleton-clothes-spending_n_15987810.html" class="lnid-sec2_lnk62" target="_BLANK">Kate Middleton Has Spent A TON Of Money On Clothes This Year</a>
+        </li>
+              <li class="hidden" data-index="63">
+          <a href="http://www.huffingtonpost.ca/2017/04/12/spring-weather-natural-hair_n_15968576.html" class="lnid-sec2_lnk63" target="_BLANK">How Naturals Can Prep Their Hair For Unpredictable Spring Weather</a>
+        </li>
+              <li class="hidden" data-index="64">
+          <a href="http://www.huffingtonpost.ca/2017/04/12/queen-elizabeth-ii-shoe-hack_n_15963130.html" class="lnid-sec2_lnk64" target="_BLANK">The Queen Has The Best Hack For Breaking In Her Shoes</a>
+        </li>
+              <li class="hidden" data-index="65">
+          <a href="http://www.huffingtonpost.ca/2017/04/12/christian-siriano-melania-trump_n_15960024.html" class="lnid-sec2_lnk65" target="_BLANK">This Is Why Christian Siriano Won't Dress Melania Trump</a>
+        </li>
+              <li class="hidden" data-index="66">
+          <a href="http://www.huffingtonpost.ca/2017/04/12/forbes-beauty-influencer_n_15961200.html" class="lnid-sec2_lnk66" target="_BLANK">British Beauty Blogger Tops Forbes' Influencers List</a>
+        </li>
+              <li class="hidden" data-index="67">
+          <a href="http://www.huffingtonpost.ca/2017/04/11/shonda-rhimes-pasta-dress_n_15940340.html" class="lnid-sec2_lnk67" target="_BLANK">Shonda Rhimes Is The Woman Of Our Dreams In Latest Red Carpet Fit</a>
+        </li>
+              <li class="hidden" data-index="68">
+          <a href="http://www.huffingtonpost.ca/2017/04/11/nail-polish-pinterest_n_15937934.html" class="lnid-sec2_lnk68" target="_BLANK">This Is The Most Popular Nail Polish On Pinterest</a>
+        </li>
+              <li class="hidden" data-index="69">
+          <a href="http://www.huffingtonpost.ca/2017/04/11/denim-trends-spring-2017_n_15834232.html" class="lnid-sec2_lnk69" target="_BLANK">8 Must-Try Spring Denim Trends</a>
+        </li>
+              <li class="hidden" data-index="70">
+          <a href="http://www.huffingtonpost.ca/2017/04/10/wedding-beauty-timeline_n_15917074.html" class="lnid-sec2_lnk70" target="_BLANK">Wedding Beauty Timeline: What To Prep Before Your Big Day</a>
+        </li>
+              <li class="hidden" data-index="71">
+          <a href="http://www.huffingtonpost.ca/2017/04/07/hm-poop-fabric_n_15860872.html" class="lnid-sec2_lnk71" target="_BLANK">H&M Is Going Green By Making Clothes Out Of Poop</a>
+        </li>
+              <li class="hidden" data-index="72">
+          <a href="http://www.huffingtonpost.ca/2017/04/07/skin-bleaching-uber-driver_n_15860688.html" class="lnid-sec2_lnk72" target="_BLANK">Uber Driver To Model: Would You Bleach Your Skin For $10K?</a>
+        </li>
+              <li class="hidden" data-index="73">
+          <a href="http://www.huffingtonpost.ca/2017/04/06/laura-delarato-plus-size-the-comment-project-_n_15849142.html" class="lnid-sec2_lnk73" target="_BLANK">This Brilliant Curvy Girl Turned Hateful Comments Into Art</a>
+        </li>
+              <li class="hidden" data-index="74">
+          <a href="http://www.huffingtonpost.ca/2017/04/06/kate-middleton-style_n_15848348.html" class="lnid-sec2_lnk74" target="_BLANK">Fashion Blogger Matches Kate Middleton's Outfits, Look For Look</a>
+        </li>
+              <li class="hidden" data-index="75">
+          <a href="http://www.huffingtonpost.ca/2017/04/06/marjani-beauty-website-women-of-colour_n_15848304.html" class="lnid-sec2_lnk75" target="_BLANK">A Beauty Retail Site For Women Of Colour FINALLY Exists</a>
+        </li>
+              <li class="hidden" data-index="76">
+          <a href="http://www.huffingtonpost.ca/2017/04/05/prep-closet-for-spring_n_15812308.html" class="lnid-sec2_lnk76" target="_BLANK">How To Cash In After Prepping Your Closet For Spring</a>
+        </li>
+              <li class="hidden" data-index="77">
+          <a href="http://www.huffingtonpost.ca/2017/04/05/liza-golden-bhojwani-weight-gain-model_n_15830890.html" class="lnid-sec2_lnk77" target="_BLANK">Why One Model Said F**k It And Embraced Healthy Weight Gain</a>
+        </li>
+              <li class="hidden" data-index="78">
+          <a href="http://www.huffingtonpost.ca/2017/04/05/lingerie-women-of-colour-canada_n_15829980.html" class="lnid-sec2_lnk78" target="_BLANK">This Toronto Company Knows Naked Isn't Just One Colour</a>
+        </li>
+              <li class="hidden" data-index="79">
+          <a href="http://www.huffingtonpost.ca/2017/04/04/winnie-harlow-flaws_n_15808028.html" class="lnid-sec2_lnk79" target="_BLANK">Winnie Harlow Thinks There's Nothing Wrong With Hiding Your Flaws</a>
+        </li>
+              <li class="hidden" data-index="80">
+          <a href="http://www.huffingtonpost.ca/2017/04/04/bella-hadid-muslim-interview_n_15805622.html" class="lnid-sec2_lnk80" target="_BLANK">Bella Hadid Puts Her Muslim Heritage Front And Centre</a>
+        </li>
+              <li class="hidden" data-index="81">
+          <a href="http://www.huffingtonpost.ca/2017/04/04/rap-video-hijab_n_15801440.html" class="lnid-sec2_lnk81" target="_BLANK">This Woman's Rap Video Celebrates The Hijab</a>
+        </li>
+              <li class="hidden" data-index="82">
+          <a href="http://www.huffingtonpost.ca/2017/04/04/eyebrow-tutorial_n_15726842.html" class="lnid-sec2_lnk82" target="_BLANK">A Simple Guide To The Perfect Eyebrow</a>
+        </li>
+              <li class="hidden" data-index="83">
+          <a href="http://www.huffingtonpost.ca/2017/04/03/gina-shkeda-makeup-youtube_n_15783444.html" class="lnid-sec2_lnk83" target="_BLANK">Makeup Guru Gina Shkeda Gives A Whole New Meaning To #NoFilter</a>
+        </li>
+              <li class="hidden" data-index="84">
+          <a href="http://www.huffingtonpost.ca/2017/04/03/americas-next-top-model-age-limit_n_15779770.html" class="lnid-sec2_lnk84" target="_BLANK">Tyra Banks Waves Goodbye To Age Limits On 'America's Next Top Model'</a>
+        </li>
+              <li class="hidden" data-index="85">
+          <a href="http://www.huffingtonpost.ca/2017/04/02/junos-2017-red-carpet_n_15767600.html" class="lnid-sec2_lnk85" target="_BLANK">The Juno Awards' Red Carpet Was Filled With Canadian Pride</a>
+        </li>
+              <li class="hidden" data-index="86">
+          <a href="http://www.huffingtonpost.ca/2017/04/02/models-with-disabilities-wcfw_n_15766148.html" class="lnid-sec2_lnk86" target="_BLANK">Models With Disabilities Shine At Western Canada Fashion Week</a>
+        </li>
+              <li class="hidden" data-index="87">
+          <a href="http://www.huffingtonpost.ca/2017/04/01/mounties-tuques_n_15727672.html" class="lnid-sec2_lnk87" target="_BLANK">Mounties To Swap Trademark Hats For 'A More Canadian' Option</a>
+        </li>
+              <li class="hidden" data-index="88">
+          <a href="http://www.huffingtonpost.ca/2017/03/31/bali-kaur-bassi-punjabi-model_n_15604884.html" class="lnid-sec2_lnk88" target="_BLANK">Meet The First Punjabi Model To Cover A Canadian Fashion Magazine</a>
+        </li>
+              <li class="hidden" data-index="89">
+          <a href="http://www.huffingtonpost.ca/2017/03/31/teen-body-hair-shame_n_15724424.html" class="lnid-sec2_lnk89" target="_BLANK">Awesome Teen Likes Her Body Hair. Deal With It.</a>
+        </li>
+              <li class="hidden" data-index="90">
+          <a href="http://www.huffingtonpost.ca/2017/03/30/boston-bombing-survivor-runway_n_15708182.html" class="lnid-sec2_lnk90" target="_BLANK">Boston Bombing Survivor Slays Vancouver Fashion Week Show</a>
+        </li>
+              <li class="hidden" data-index="91">
+          <a href="http://www.huffingtonpost.ca/2017/03/30/models-sexually-assaulted-abused_n_15708626.html" class="lnid-sec2_lnk91" target="_BLANK">Models Share Stories On The Ugly Realities Of The Job</a>
+        </li>
+              <li class="hidden" data-index="92">
+          <a href="http://www.huffingtonpost.ca/2017/03/29/leomie-anderson-open-letter_n_15686744.html" class="lnid-sec2_lnk92" target="_BLANK">Model Reflects On How Her Dark Skin Was A Beauty Industry No-No</a>
+        </li>
+              <li class="hidden" data-index="93">
+          <a href="http://www.huffingtonpost.ca/2017/03/29/kate-middleton-green-dress_n_15683968.html" class="lnid-sec2_lnk93" target="_BLANK">Kate Middleton Nails The Princess Look</a>
+        </li>
+              <li class="hidden" data-index="94">
+          <a href="http://www.huffingtonpost.ca/tia-duffy/inspiring-role-models_b_15637156.html" class="lnid-sec2_lnk94" target="_BLANK">Meet 7 Models Who Are Using Their Platforms For Inspiring Causes</a>
+        </li>
+              <li class="hidden" data-index="95">
+          <a href="http://www.huffingtonpost.ca/2017/03/28/victoria-graham-invisible-illness_n_15661232.html" class="lnid-sec2_lnk95" target="_BLANK">Beauty Queen Puts Her 'Invisible Illness' On Display</a>
+        </li>
+              <li class="hidden" data-index="96">
+          <a href="http://www.huffingtonpost.ca/2017/03/28/japanese-cafe-no-makeup-employees_n_15659478.html" class="lnid-sec2_lnk96" target="_BLANK">Japanese Café Bans Employees From Wearing Makeup</a>
+        </li>
+              <li class="hidden" data-index="97">
+          <a href="http://www.huffingtonpost.ca/2017/03/28/alicia-keys-adam-levine-makeup_n_15659508.html" class="lnid-sec2_lnk97" target="_BLANK">Alicia Keys Claps Back At Adam Levine For Makeup Comment</a>
+        </li>
+              <li class="hidden" data-index="98">
+          <a href="http://www.huffingtonpost.ca/janette-ewen/spring-pastels-style_b_15622588.html" class="lnid-sec2_lnk98" target="_BLANK">Spring Into Spring With Pastels!</a>
+        </li>
+              <li class="hidden" data-index="99">
+          <a href="http://www.huffingtonpost.ca/2017/03/27/southside-tattoo-baltimore_n_15641148.html" class="lnid-sec2_lnk99" target="_BLANK">Tattoo Parlour Covers Up Racist Body Art For Free, 'No Questions Asked'</a>
+        </li>
+              <li class="hidden" data-index="100">
+          <a href="http://www.huffingtonpost.ca/2017/03/27/body-positivity-canada_n_15620462.html" class="lnid-sec2_lnk100" target="_BLANK">These Canadian Women Are Shedding A New Light On Body Positivity</a>
+        </li>
+          </ul>
+    <a class="m-choose-news__more-news lnid-sec3_lnk1" href="http://www.huffingtonpost.ca/style/" target="_BLANK">More Style News</a>
+  </div>
+</div>
+                    <div class="mpid-1">
+  <div class="gmod m-choose-news mnid-mnc-news-feed-huffpoworld plid-652512" data-module-key="lifestyle" id="news-feed-choose" data-beacon='{"p":{"mnid":"mnc-news-feed-", "plid": "652512"}}'>
+    <h2 class="choose-news">
+      <a class="lnid-sec1_lnk1" href="http://www.huffingtonpost.com/weird-news/" target="_BLANK">Weird News</a>
+
+      
+    </h2>
+
+    
+    <ul class="m-choose-news__items-wrapper mnid-mnc-news-feed-huffpoworld-hl plid-633823" data-count-per="6" data-count-showing="6" data-count-available="12">
+              <li class="" data-index="1">
+          <a href="http://www.huffingtonpost.com/entry/kim-jong-un-photo-swap_us_5911a00ee4b0e7021e9b01c7" class="lnid-sec2_lnk1" target="_BLANK">Son's Photo-Swap Prank Makes Kim Jong Un Part Of The Family</a>
+        </li>
+              <li class="" data-index="2">
+          <a href="http://www.huffingtonpost.com/entry/donald-trump-press-releases-website-glitch-url_us_59117223e4b0104c7351f6b1" class="lnid-sec2_lnk2" target="_BLANK">A Glitch On Donald Trump's Website Lets You Put Words Into His Mouth</a>
+        </li>
+              <li class="" data-index="3">
+          <a href="http://www.huffingtonpost.com/entry/irish-beach-is-back_us_5911514ee4b0e7021e9aa95d" class="lnid-sec2_lnk3" target="_BLANK">'Lost Beach' That Vanished More Than 30 Years Ago Suddenly Reappears</a>
+        </li>
+              <li class="" data-index="4">
+          <a href="http://www.huffingtonpost.com/entry/water-bucket-cam-texas_us_59115f8be4b0d5d9049f6f19" class="lnid-sec2_lnk4" target="_BLANK">Water Bucket Cam Is The Soothing New Viral Sensation</a>
+        </li>
+              <li class="" data-index="5">
+          <a href="http://www.huffingtonpost.com/entry/zachary-bowlin-instagram-gun_us_5910b46fe4b0e7021e99e865" class="lnid-sec2_lnk5" target="_BLANK">7th-Grader Suspended After 'Liking' Photo Of Gun On Instagram</a>
+        </li>
+              <li class="" data-index="6">
+          <a href="http://www.huffingtonpost.com/entry/identity-of-a-naked-man-posing-on-a-shark-has-internet-pointing-fingers_us_5910a84fe4b0104c73510a40" class="lnid-sec2_lnk6" target="_BLANK">Identity Of A Naked Man Posing On A Shark Has Internet Pointing Fingers</a>
+        </li>
+              <li class="hidden" data-index="7">
+          <a href="http://www.huffingtonpost.com/entry/alligator-attack-10-year-old-girl-jaws_us_59106340e4b0d5d9049de24d" class="lnid-sec2_lnk7" target="_BLANK">Badass 10-Year-Old Pries Open Gator’s Jaws To Free Her Leg</a>
+        </li>
+              <li class="hidden" data-index="8">
+          <a href="http://www.huffingtonpost.com/entry/man-shoots-squirrel-gave-him-a-look_us_590dfa35e4b0d5d9049ce8eb" class="lnid-sec2_lnk8" target="_BLANK">Man Allegedly Shoots Squirrel With Bow And Arrow For 'Giving Him A Look'</a>
+        </li>
+              <li class="hidden" data-index="9">
+          <a href="http://www.huffingtonpost.com/entry/scientists-record-deer-gnawing-on-human-remains-for-the-first-time_us_590cf327e4b0d5d9049ca2fc" class="lnid-sec2_lnk9" target="_BLANK">Scientists Record Deer Gnawing On Human Remains For The First Time</a>
+        </li>
+              <li class="hidden" data-index="10">
+          <a href="http://www.huffingtonpost.com/entry/elon-musk-twitter-boring-machine_us_590db5c5e4b0d5d9049cd25b" class="lnid-sec2_lnk10" target="_BLANK">Elon Musk Tweeted About Naming His New Boring Machine. You Know What Went Down.</a>
+        </li>
+          </ul>
+    <a class="m-choose-news__more-news lnid-sec3_lnk1" href="http://www.huffingtonpost.com/weird-news/" target="_BLANK">More Weird News</a>
+  </div>
+</div>
+                    <div class="mpid-1">
+  <div class="gmod m-choose-news mnid-mnc-news-feed-huffpoworld plid-652512" data-module-key="lifestyle" id="news-feed-choose" data-beacon='{"p":{"mnid":"mnc-news-feed-", "plid": "652512"}}'>
+    <h2 class="choose-news">
+      <a class="lnid-sec1_lnk1" href="http://flyers.aol.ca/" target="_BLANK">Shopping News</a>
+
+      
+    </h2>
+
+    
+    <ul class="m-choose-news__items-wrapper mnid-mnc-news-feed-huffpoworld-hl plid-633823" data-count-per="4" data-count-showing="4" data-count-available="8">
+              <li class="" data-index="1">
+          <a href="http://flyers.aol.ca/?flyer_identifier=homedepotcanada-weekly&amp;locale=en&amp;p=aol&amp;utm_campaign=wishabi_1_0&amp;utm_source=aol-fsm&amp;utm_medium=sp-en_140610&amp;utm_term=link1" class="lnid-sec2_lnk1" target="_BLANK">Save up to 50% off patio furniture at The Home Depot</a>
+        </li>
+              <li class="" data-index="2">
+          <a href="http://flyers.aol.ca/?flyer_identifier=petsmart-monthly&amp;locale=en&amp;p=aol&amp;utm_campaign=wishabi_1_0&amp;utm_source=aol-fsm&amp;utm_medium=sp-en_140610&amp;utm_term=link2" class="lnid-sec2_lnk2" target="_BLANK">Buy 3 get 3 free on pedigree canned dog food at PetSmart</a>
+        </li>
+              <li class="" data-index="3">
+          <a href="http://flyers.aol.ca/?flyer_identifier=leons-flyer&amp;locale=en&amp;p=aol&amp;utm_campaign=wishabi_1_0&amp;utm_source=aol-fsm&amp;utm_medium=sp-en_140610&amp;utm_term=link3" class="lnid-sec2_lnk3" target="_BLANK">Save up to 15% on select sofas at Leon's</a>
+        </li>
+              <li class="" data-index="4">
+          <a href="http://flyers.aol.ca/?flyer_identifier=rona-weekly&amp;locale=en&amp;p=aol&amp;utm_campaign=wishabi_1_0&amp;utm_source=aol-fsm&amp;utm_medium=sp-en_140610&amp;utm_term=link4" class="lnid-sec2_lnk4" target="_BLANK">Save up to 15% off sinks and counters during the Kitchen Event at RONA</a>
+        </li>
+          </ul>
+    <a class="m-choose-news__more-news lnid-sec3_lnk1" href="http://flyers.aol.ca/" target="_BLANK">More Flyers</a>
+  </div>
+</div>
+              </div>
+      <div id="col1L" class="mlid-col1L"></div>
+    </div>
+
+        <div id="col2" class="mlid-col2">
+              <div class="mpid-1 rfrsh rfrshs-daily-buzz rfrsho-false ">
+<div id="dailybuzz_daily-buzz" class="anid-1 dailyBuzz buzz-v2" data-beacon='{"p":{"mnid":"dailyBuzz", "plid": "0"}}'>
+  <h2>
+    <span href="#" class="lnid-sec1_lnk3 toggleModule toggle-daily-buzz">Did You See?</span>
+  </h2>
+
+  <div class="collapse-daily-buzz">
+    <div class="buzzConf show-4_320 show-4_480 show-2_768" data-320="4" data-480="4" data-768="2" data-min="2" style="height: auto;">
+            	<div class="gmod photo-lede mnid-daily-buzz1 plid-590cc2f2a8c7c42ba8799143 bCn" data-beacon='{"p":{"mnid":"daily-buzz1", "plid": "0"}}'>
+        	<div class="lftCol">
+        		<a name="om_daily-buzz_image_1" class="photo-link lnid-sec2_lnk1" href="http://www.huffingtonpost.com/entry/darth-vader-works-at-a-hospital_us_590b401be4b0d5d90499d9a5?ir=Canada" target="_BLANK"><img alt="Did You See?" src="http://o.aolcdn.com/images/dims?resize=233%2C155&amp;image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F244db1ecb7ab1e92f5571148353137ef%2F205238160%2FUntitled%2Bdesign.png&amp;client=cbc79c14efcebee57402&amp;signature=f4feda1566b6b982d5f187e76adf5367f0a64470"></a>
+        		<span class="credit dn"></span>
+        	</div>
+        	<h3><a name="om_daily-buzz_headline1" href="http://www.huffingtonpost.com/entry/darth-vader-works-at-a-hospital_us_590b401be4b0d5d90499d9a5?ir=Canada" class=" lnid-sec2_lnk2" target="_BLANK">This Real-Life Darth Vader Works As A Force Of Good At A Tennessee Hospital</a></h3>
+        	<p></p>
+        </div>
+            	<div class="gmod photo-lede mnid-daily-buzz2 plid-590cc22d5bf6234d9729e133 bCn" data-beacon='{"p":{"mnid":"daily-buzz2", "plid": "0"}}'>
+        	<div class="lftCol">
+        		<a name="om_daily-buzz_image_1" class="photo-link lnid-sec3_lnk1" href="http://www.huffingtonpost.com/entry/byron-emily-schlenker-tongues_us_590b8bd6e4b0104c734d351a?ir=Canada" target="_BLANK"><img alt="Did You See?" src="http://o.aolcdn.com/images/dims?resize=233%2C155&amp;image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Ff5aefd7512744f25afb1d57038f03941%2F205238133%2Ftongue.png&amp;client=cbc79c14efcebee57402&amp;signature=64e7127d7a895667589b50d315c87d11e938abb8"></a>
+        		<span class="credit dn"></span>
+        	</div>
+        	<h3><a name="om_daily-buzz_headline2" href="http://www.huffingtonpost.com/entry/byron-emily-schlenker-tongues_us_590b8bd6e4b0104c734d351a?ir=Canada" class=" lnid-sec3_lnk2" target="_BLANK">Father And Daughter Have The World&#039;s Widest Tongues</a></h3>
+        	<p></p>
+        </div>
+            	<div class="gmod photo-lede mnid-daily-buzz3 plid-590cc154bea17755b50b0693 bCn" data-beacon='{"p":{"mnid":"daily-buzz3", "plid": "0"}}'>
+        	<div class="lftCol">
+        		<a name="om_daily-buzz_image_1" class="photo-link lnid-sec4_lnk1" href="http://www.huffingtonpost.ca/2017/05/03/female-mannequins_n_16406678.html" target="_BLANK"><img alt="Did You See?" src="http://o.aolcdn.com/images/dims?resize=233%2C155&amp;image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Ff7bf104c1aaa1b759b7ca98a69651fff%2F205238129%2Fa-FEMALE-MANNEQUINS-233x155.jpg&amp;client=cbc79c14efcebee57402&amp;signature=11d67fea79052fd68b1d9be214234a1195398604"></a>
+        		<span class="credit dn"></span>
+        	</div>
+        	<h3><a name="om_daily-buzz_headline3" href="http://www.huffingtonpost.ca/2017/05/03/female-mannequins_n_16406678.html" class=" lnid-sec4_lnk2" target="_BLANK">Female Mannequins Are Almost Always &#039;Severely Underweight&#039;</a></h3>
+        	<p></p>
+        </div>
+            	<div class="gmod photo-lede mnid-daily-buzz4 plid-590cc11f6c3f6458cb5994f3 bCn" data-beacon='{"p":{"mnid":"daily-buzz4", "plid": "0"}}'>
+        	<div class="lftCol">
+        		<a name="om_daily-buzz_image_1" class="photo-link lnid-sec5_lnk1" href="https://www.aol.ca/article/2017/05/05/worst-celebrity-mother-mom-daughter-feud-relationship-hollywood-parent/22071399/" target="_BLANK"><img alt="Did You See?" src="http://o.aolcdn.com/images/dims?resize=233%2C155&amp;image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F8f204b72767e891dc79a51814b49c717%2F205239131%2Fa-JENNIFER-ANISTON-233x155.jpg&amp;client=cbc79c14efcebee57402&amp;signature=e1a78621ff0a975fb0efc51ea5fb82d0c99534d7"></a>
+        		<span class="credit dn"></span>
+        	</div>
+        	<h3><a name="om_daily-buzz_headline4" href="https://www.aol.ca/article/2017/05/05/worst-celebrity-mother-mom-daughter-feud-relationship-hollywood-parent/22071399/" class=" lnid-sec5_lnk2" target="_BLANK">The Worst Celeb Mother-Daughter Feuds</a></h3>
+        	<p></p>
+        </div>
+            	<div class="gmod photo-lede mnid-daily-buzz5 plid-590cc02ea8c7c42b62783853 bCn" data-beacon='{"p":{"mnid":"daily-buzz5", "plid": "0"}}'>
+        	<div class="lftCol">
+        		<a name="om_daily-buzz_image_1" class="photo-link lnid-sec6_lnk1" href="http://www.huffingtonpost.com/entry/iphone-calculator-app-swipe-hack-trick_us_590b39e1e4b0bb2d0875f1cd?ir=Canada" target="_BLANK"><img alt="Did You See?" src="http://o.aolcdn.com/images/dims?resize=233%2C155&amp;image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fbeba5f0e10d08a8dc135ee1739a6bd3%2F205238120%2Fcalc.png&amp;client=cbc79c14efcebee57402&amp;signature=376d989a8bb176df1cdfd9aa3d77e7e3acbcfdf7"></a>
+        		<span class="credit dn"></span>
+        	</div>
+        	<h3><a name="om_daily-buzz_headline5" href="http://www.huffingtonpost.com/entry/iphone-calculator-app-swipe-hack-trick_us_590b39e1e4b0bb2d0875f1cd?ir=Canada" class=" lnid-sec6_lnk2" target="_BLANK">This Swipe Trick For iPhone’s Calculator App Is Blowing People’s Minds</a></h3>
+        	<p></p>
+        </div>
+            	<div class="gmod photo-lede mnid-daily-buzz6 plid-590c9ffe6c3f642f124569c3 bCn" data-beacon='{"p":{"mnid":"daily-buzz6", "plid": "0"}}'>
+        	<div class="lftCol">
+        		<a name="om_daily-buzz_image_1" class="photo-link lnid-sec7_lnk1" href="http://www.huffingtonpost.ca/2017/05/04/janet-mock-trans-identity_n_16412494.html?utm_hp_ref=canada-living&amp;ir=Canada+Living" target="_BLANK"><img alt="Did You See?" src="http://o.aolcdn.com/images/dims?resize=233%2C155&amp;image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F126bc478bba752d963a48053f310376a%2F205237555%2Fa-JANET-MOCK-233x155.jpg&amp;client=cbc79c14efcebee57402&amp;signature=4b9856414cfbebc4548cdb015b9f849d6ad1683e"></a>
+        		<span class="credit dn"></span>
+        	</div>
+        	<h3><a name="om_daily-buzz_headline6" href="http://www.huffingtonpost.ca/2017/05/04/janet-mock-trans-identity_n_16412494.html?utm_hp_ref=canada-living&amp;ir=Canada+Living" class=" lnid-sec7_lnk2" target="_BLANK">Trans Activist Janet Mock On How Fear Of Being Outed Came True</a></h3>
+        	<p></p>
+        </div>
+            	<div class="gmod photo-lede mnid-daily-buzz7 plid-590c9f80a8c7c47e23275873 bCn" data-beacon='{"p":{"mnid":"daily-buzz7", "plid": "0"}}'>
+        	<div class="lftCol">
+        		<a name="om_daily-buzz_image_1" class="photo-link lnid-sec8_lnk1" href="http://www.huffingtonpost.com/entry/gold-toilets-take-a-trump_us_590a43bee4b05c397685fc0a?ir=Canada" target="_BLANK"><img alt="Did You See?" src="http://o.aolcdn.com/images/dims?resize=233%2C155&amp;image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fb38ecac051c990c201534a6695082ba%2F205237540%2FUntitled%2Bdesign.png&amp;client=cbc79c14efcebee57402&amp;signature=186683a3aaed564f40aafd4ab4bbefbcb6c671bd"></a>
+        		<span class="credit dn"></span>
+        	</div>
+        	<h3><a name="om_daily-buzz_headline7" href="http://www.huffingtonpost.com/entry/gold-toilets-take-a-trump_us_590a43bee4b05c397685fc0a?ir=Canada" class=" lnid-sec8_lnk2" target="_BLANK">Mysterious Gold Toilets Are Popping Up So People Can &#039;Take A Trump&#039;</a></h3>
+        	<p></p>
+        </div>
+          </div>
+  </div>
+</div>
+</div>
+          </div>
+  </div>
+
+    <div id="col3" class="mlid-col3">
+          <div id="mail_prev_pl"></div>
+                        <div class="mpid-1 resp-show1024 resp-show768 resp-hide">
+<div class="gmod topAd mdl">
+  <div id="fi_1374016173" class="ad__tile adwrap di refreshNO"></div>
+  <script type="text/javascript">
+    var mn = getMn({
+      1450: '93318772',
+      1265: '93318772',
+      1108: '93318772',
+      900: '93318772',
+      754: '93318772',
+      480: ''
+    }, "93318772", [1024,986,900,768,754], "fi_1374016173", "RR", "RR", true);
+
+    if (mn !== null) {
+      htmlAdWH(mn, 'RR', 'RR', 'ajax', 'fi_1374016173');
+    }
+  </script>
+</div>
+</div>
+                  <div class="mpid-2 ">
+	<div class="slideshowmod gmod plid-680712 mnid-slideshow" data-beacon='{"p":{"mnid":"slideshow", "plid": "680712"}}'>
+		<h2>Today&#039;s Must-See Pics</h2>
+		<div id="slideshow" class="slideshow ">
+			<div class="jcarousel-container jcarousel-container-horizontal">
+				<div class="jcarousel-clip jcarousel-clip-horizontal">
+					<ul class="jcarousel-list jcarousel-list-horizontal">
+										    					    							<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-1 jcarousel-item-1-horizontal" jcarouselindex="1">
+							<a class="lnid-sec2_lnk1" name="om_slideshow_img1" href="http://www.huffingtonpost.ca/2017/05/02/talli-osborne-confidence_n_16396514.html" target="_BLANK">
+								<img width="300" height="200" src="http://o.aolcdn.com/images/dims?resize=300%2C219&amp;image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F5c2b52b586a3fd84bfccdaaf295d8860%2F205238087%2Fs-TALLI-OSBORNE-large300.jpg&amp;client=cbc79c14efcebee57402&amp;signature=bade32672d7d06210ec84e7025335f12f1591d7e" alt="Talli Osborne Threw Away Her Prosthetic Limbs And Started To Feel Beautiful">
+							</a>
+							<h3>
+								<a class="lnid-sec3_lnk1" name="om_slideshow_lnk1" href="http://www.huffingtonpost.ca/2017/05/02/talli-osborne-confidence_n_16396514.html" target="_BLANK">Talli Osborne Threw Away Her Prosthetic Limbs And Started To Feel Beautiful</a>
+							</h3>
+						</li>
+										    											    							<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-2 jcarousel-item-2-horizontal" jcarouselindex="2">
+							<a class="lnid-sec2_lnk2" name="om_slideshow_img2" href="http://www.huffingtonpost.ca/2017/05/05/ariel-winter-dress_n_16431008.html" target="_BLANK">
+								<img width="300" height="200" src="http://o.aolcdn.com/images/dims?resize=300%2C219&amp;image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fa60bb4d2b9cb2289f82290efaeca88af%2F205237891%2Fs-MODERN-FAMILY-large300.jpg&amp;client=cbc79c14efcebee57402&amp;signature=487986d0e2baa7ddf415cf408159c9772d9ea22f" alt="Ariel Winter Has An Important Message For Everyone Telling Her To Cover Up">
+							</a>
+							<h3>
+								<a class="lnid-sec3_lnk2" name="om_slideshow_lnk2" href="http://www.huffingtonpost.ca/2017/05/05/ariel-winter-dress_n_16431008.html" target="_BLANK">Ariel Winter Has An Important Message For Everyone Telling Her To Cover Up</a>
+							</h3>
+						</li>
+										    											    							<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-3 jcarousel-item-3-horizontal" jcarouselindex="3">
+							<a class="lnid-sec2_lnk3" name="om_slideshow_img3" href="http://www.huffingtonpost.ca/2017/05/02/behind-the-scenes-moms_n_16368732.html" target="_BLANK">
+								<img width="300" height="200" src="http://o.aolcdn.com/images/dims?resize=300%2C219&amp;image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F2d0ee9071d479354227de954f7d7eb2a%2F205236862%2Fs-REAL-MOMS-PHOTOGRAPHS-large300.jpg&amp;client=cbc79c14efcebee57402&amp;signature=8e8c047daf0b37a0796d74af295ca07e6506323f" alt="Unlike Facebook, These Pics Show What Moms&#039; Lives Are Really Like">
+							</a>
+							<h3>
+								<a class="lnid-sec3_lnk3" name="om_slideshow_lnk3" href="http://www.huffingtonpost.ca/2017/05/02/behind-the-scenes-moms_n_16368732.html" target="_BLANK">Unlike Facebook, These Pics Show What Moms&#039; Lives Are Really Like</a>
+							</h3>
+						</li>
+										    											    							<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-4 jcarousel-item-4-horizontal" jcarouselindex="4">
+							<a class="lnid-sec2_lnk4" name="om_slideshow_img4" href="http://www.huffingtonpost.ca/2017/05/02/met-gala-2017-celebrity-offspring_n_16389450.html" target="_BLANK">
+								<img width="300" height="200" src="http://o.aolcdn.com/images/dims?resize=300%2C219&amp;image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fa2bb4a5158cfc543f2a356e953a869e8%2F205230126%2Fs-FRANCES-BEAN-COBAIN-large300.jpg&amp;client=cbc79c14efcebee57402&amp;signature=fccba50afd54d2a495330d90aa8b6f9957ae2045" alt="Did You Recognize The Celebrity Offspring At The Met Gala?">
+							</a>
+							<h3>
+								<a class="lnid-sec3_lnk4" name="om_slideshow_lnk4" href="http://www.huffingtonpost.ca/2017/05/02/met-gala-2017-celebrity-offspring_n_16389450.html" target="_BLANK">Did You Recognize The Celebrity Offspring At The Met Gala?</a>
+							</h3>
+						</li>
+										    											    							<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-5 jcarousel-item-5-horizontal" jcarouselindex="5">
+							<a class="lnid-sec2_lnk5" name="om_slideshow_img5" href="http://www.huffingtonpost.ca/2017/05/01/princess-charlotte-photo-2nd-birthday_n_16358832.html" target="_BLANK">
+								<img width="300" height="200" src="http://o.aolcdn.com/images/dims?resize=300%2C219&amp;image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F2576dcf3e66eca9efa32cb0774390712%2F205219653%2Fs-PRINCESS-CHARLOTTE-large300.jpg&amp;client=cbc79c14efcebee57402&amp;signature=9bf6efdad773f68b229a42538acc71582ac4e56e" alt="Royals Share New Photo Of Princess Charlotte">
+							</a>
+							<h3>
+								<a class="lnid-sec3_lnk5" name="om_slideshow_lnk5" href="http://www.huffingtonpost.ca/2017/05/01/princess-charlotte-photo-2nd-birthday_n_16358832.html" target="_BLANK">Royals Share New Photo Of Princess Charlotte</a>
+							</h3>
+						</li>
+										    											    							<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-6 jcarousel-item-6-horizontal" jcarouselindex="6">
+							<a class="lnid-sec2_lnk6" name="om_slideshow_img6" href="http://www.huffingtonpost.ca/2017/04/28/plus-size-string-bikini-sarah-sapora_n_16310402.html" target="_BLANK">
+								<img width="300" height="200" src="http://o.aolcdn.com/images/dims?resize=300%2C219&amp;image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F8ab06c0dcb3b273d13316b77ed5512f6%2F205214752%2Fs-SCREENSHOT-large300.jpg&amp;client=cbc79c14efcebee57402&amp;signature=914cc15ef76e3efc2f2d9ea199699d1f039f4bc0" alt="Curvy Blogger Rocks Bikini After 25 Years Of Covering Up">
+							</a>
+							<h3>
+								<a class="lnid-sec3_lnk6" name="om_slideshow_lnk6" href="http://www.huffingtonpost.ca/2017/04/28/plus-size-string-bikini-sarah-sapora_n_16310402.html" target="_BLANK">Curvy Blogger Rocks Bikini After 25 Years Of Covering Up</a>
+							</h3>
+						</li>
+										    											    							<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-7 jcarousel-item-7-horizontal" jcarouselindex="7">
+							<a class="lnid-sec2_lnk7" name="om_slideshow_img7" href="http://www.huffingtonpost.ca/2017/04/26/khoudia-diop-makeup-forever_n_16262816.html" target="_BLANK">
+								<img width="300" height="200" src="http://o.aolcdn.com/images/dims?resize=300%2C219&amp;image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F40a85172b57e3cb82a3f6ff305504daa%2F205205701%2Fs-MELANIN-GODDESS-large300.jpg&amp;client=cbc79c14efcebee57402&amp;signature=afe69880407167649b4fb0d8ea44702422e3b409" alt="Why The &#039;Melanin Goddess&#039; Starring In New Beauty Ad Is A Huge Win">
+							</a>
+							<h3>
+								<a class="lnid-sec3_lnk7" name="om_slideshow_lnk7" href="http://www.huffingtonpost.ca/2017/04/26/khoudia-diop-makeup-forever_n_16262816.html" target="_BLANK">Why The &#039;Melanin Goddess&#039; Starring In New Beauty Ad Is A Huge Win</a>
+							</h3>
+						</li>
+										    												</ul>
+				</div>
+			</div>
+			<a title="Previous" class="prev lnid-sec4_lnk1 sprite-bg sprite-prev-arrow-pink" name="om_slideshow_prev" id="slideshowprev" href="#">Previous</a>
+			<a title="Next" class="next lnid-sec4_lnk2 sprite-bg sprite-next-arrow-pink" name="om_slideshow_next" id="slideshownext" href="#">Next</a>
+			<div class="paginate_wrap">
+				<div class="paginate">
+					<div class="paginate_inner">
+																    							<a title="Image 1" class="lnid-sec5_lnk1 page1 sprite-bg sprite-circle-grey sel" name="om_slideshow_page1" href="#">Image 1</a>
+										    											    							<a title="Image 2" class="lnid-sec5_lnk2 page2 sprite-bg sprite-circle-grey sel" name="om_slideshow_page2" href="#">Image 2</a>
+										    											    							<a title="Image 3" class="lnid-sec5_lnk3 page3 sprite-bg sprite-circle-grey sel" name="om_slideshow_page3" href="#">Image 3</a>
+										    											    							<a title="Image 4" class="lnid-sec5_lnk4 page4 sprite-bg sprite-circle-grey sel" name="om_slideshow_page4" href="#">Image 4</a>
+										    											    							<a title="Image 5" class="lnid-sec5_lnk5 page5 sprite-bg sprite-circle-grey sel" name="om_slideshow_page5" href="#">Image 5</a>
+										    											    							<a title="Image 6" class="lnid-sec5_lnk6 page6 sprite-bg sprite-circle-grey sel" name="om_slideshow_page6" href="#">Image 6</a>
+										    											    							<a title="Image 7" class="lnid-sec5_lnk7 page7 sprite-bg sprite-circle-grey sel" name="om_slideshow_page7" href="#">Image 7</a>
+										    												</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+                                    <div class="mpid-4 ">
+  <div id="popular-videos-5min-main-wrapper" class="anid-1  gmod plid-462783 mnid-popular-videos-5min-main playlistMod  .  notCarouselClasscarouselClass">
+    <div class="dn cnf">
+      <div class="defaultCount">{"480":"","986":"","768":"","320":""}</div>
+      <div class="morenumPerSnap">{"480":"","986":"","768":"","320":""}</div>
+      <div class="moreClicksPerSnap">{"480":"","986":"","768":"","320":""}</div>
+    </div>
+    <h2>
+      <a name="om_popular-videos-5min-main_headline" class="lnid-sec0_lnk1 toggleModule toggle-popular-videos-5min-main" href="http://on.aol.ca/"  target="_BLANK">Popular Videos</a>
+            <span class="sponsorPromo">
+        <b>Presented by</b>
+        <a href="http://on.aol.ca/" name="om_popular-videos-5min-main_sponsor" class="lnid-sec0_lnk3 sponsor sprite-fg sprite-fg-aol-on-logo" target="_BLANK">
+          <img class="noion" src="http://www.blogsmithmedia.com/www.aol.ca/assets-h5954df642878c5b3be05d2fbf50952d7/images/legacy/sprite.png?h=845f841a321f92391fa54f313ff59387" alt="Popular Videos">
+        </a>
+      </span>
+          </h2>
+    <div class="collapse-popular-videos-5min-main">
+      <ul id="popular-videos-5min-main" class="videoPlaylist carouselClass plist-136827 max-6">
+                  <li id='vod590b1f37b90afb1eea850c09' class='vid '>
+            <a href ="http://on.aol.ca/playlist/136827/videoid=590b1f37b90afb1eea850c09/" target="_blank" class="imgLnk lnid-sec1_lnk1" name="om_popular-videos-5min-main_image_1">
+                                                      	                            	                            	                            	                            	                            	                            	                            	              	                	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            <img class="vidThumb noion" src="http://o.aolcdn.com/images/dims?resize=140%2C102&amp;image_uri=http%3A%2F%2Fimg.vidible.tv%2Fprod%2F2017-05%2F04%2F590b1f37b90afb1eea850c09%2F590b1f36c5ab0e3930aee5ff_160x90_F_v0.jpg&amp;client=cbc79c14efcebee57402&amp;signature=dc9bd498a290efec30d8a7ac995cbce8750dfd5f" alt="You Won't Believe Justin Bieber's Weird DEMANDS In India" title="You Won't Believe Justin Bieber's Weird DEMANDS In India" height="102" width="140"/>
+                        </a>
+            <div class='vidItemDetails'>
+              <div class='vidTitle'>
+                <a title="Popular Video" href="http://on.aol.ca/playlist/136827/videoid=590b1f37b90afb1eea850c09/" target="_blank" name="om_popular-videos-5min-main_title_1" class="lnid-sec1_lnk2" title="You Won't Believe Justin Bieber's Weird DEMANDS In India">You Won't Believe Justin Bieber's Weird DEMANDS In...</a>
+              </div>
+            </div>
+          </li>
+                  <li id='vod590b6bc6e0fa172006e06015' class='vid '>
+            <a href ="http://on.aol.ca/playlist/136827/videoid=590b6bc6e0fa172006e06015/" target="_blank" class="imgLnk lnid-sec2_lnk1" name="om_popular-videos-5min-main_image_2">
+                                                      	                            	                            	                            	                            	                            	                            	                            	              	                	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            <img class="vidThumb noion" src="http://o.aolcdn.com/images/dims?resize=140%2C102&amp;image_uri=http%3A%2F%2Fimg.vidible.tv%2Fprod%2F2017-05%2F04%2F590b6bc6e0fa172006e06015%2F590b6bc5670984539ac9ebc1_160x90_F_v0.jpg&amp;client=cbc79c14efcebee57402&amp;signature=08f3b7c4823cc8759a1d4dfd11157b2ccf7b6be6" alt="Taylor Swift BREAKS Her Instagram Silence!" title="Taylor Swift BREAKS Her Instagram Silence!" height="102" width="140"/>
+                        </a>
+            <div class='vidItemDetails'>
+              <div class='vidTitle'>
+                <a title="Popular Video" href="http://on.aol.ca/playlist/136827/videoid=590b6bc6e0fa172006e06015/" target="_blank" name="om_popular-videos-5min-main_title_2" class="lnid-sec2_lnk2" title="Taylor Swift BREAKS Her Instagram Silence!">Taylor Swift BREAKS Her Instagram Silence!</a>
+              </div>
+            </div>
+          </li>
+                  <li id='vod590b9bd19efa89247d01ae03' class='vid '>
+            <a href ="http://on.aol.ca/playlist/136827/videoid=590b9bd19efa89247d01ae03/" target="_blank" class="imgLnk lnid-sec3_lnk1" name="om_popular-videos-5min-main_image_3">
+                                                      	                            	                            	                            	                            	                            	                            	                            	              	                	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            <img class="vidThumb noion" src="http://o.aolcdn.com/images/dims?resize=140%2C102&amp;image_uri=http%3A%2F%2Fimg.vidible.tv%2Fprod%2F2017-05%2F04%2F590b9bd19efa89247d01ae03%2F590b9bcc670984539ac9edc1_160x90_F_v0.jpg&amp;client=cbc79c14efcebee57402&amp;signature=81e740e854838379b66c8626b4d3b46760d1e551" alt="U.S. House passes healthcare bill in big Trump victory" title="U.S. House passes healthcare bill in big Trump victory" height="102" width="140"/>
+                        </a>
+            <div class='vidItemDetails'>
+              <div class='vidTitle'>
+                <a title="Popular Video" href="http://on.aol.ca/playlist/136827/videoid=590b9bd19efa89247d01ae03/" target="_blank" name="om_popular-videos-5min-main_title_3" class="lnid-sec3_lnk2" title="U.S. House passes healthcare bill in big Trump victory">U.S. House passes healthcare bill in big Trump vic...</a>
+              </div>
+            </div>
+          </li>
+                  <li id='vod590d31bf9e451070c908e57c' class='vid '>
+            <a href ="http://on.aol.ca/playlist/136827/videoid=590d31bf9e451070c908e57c/" target="_blank" class="imgLnk lnid-sec4_lnk1" name="om_popular-videos-5min-main_image_4">
+                                                      	                            	                            	                            	                            	                            	                            	                            	              	                	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            <img class="vidThumb noion" src="http://o.aolcdn.com/images/dims?resize=140%2C102&amp;image_uri=http%3A%2F%2Fimg.vidible.tv%2Fprod%2F2017-05%2F06%2F590d31bf9e451070c908e57c%2F590d31b7670984539ac9f78e_160x90_F_v0.jpg&amp;client=cbc79c14efcebee57402&amp;signature=4c2ec71b13738eb6f47c9f8071be8b3719fd6bed" alt="Penn State Fraternity Charged in Hazing Death" title="Penn State Fraternity Charged in Hazing Death" height="102" width="140"/>
+                        </a>
+            <div class='vidItemDetails'>
+              <div class='vidTitle'>
+                <a title="Popular Video" href="http://on.aol.ca/playlist/136827/videoid=590d31bf9e451070c908e57c/" target="_blank" name="om_popular-videos-5min-main_title_4" class="lnid-sec4_lnk2" title="Penn State Fraternity Charged in Hazing Death">Penn State Fraternity Charged in Hazing Death</a>
+              </div>
+            </div>
+          </li>
+                  <li id='vod590b14cc1de5a17e0356dada' class='vid '>
+            <a href ="http://on.aol.ca/playlist/136827/videoid=590b14cc1de5a17e0356dada/" target="_blank" class="imgLnk lnid-sec5_lnk1" name="om_popular-videos-5min-main_image_5">
+                                                      	                            	                            	                            	                            	                            	                            	                            	              	                	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            <img class="vidThumb noion" src="http://o.aolcdn.com/images/dims?resize=140%2C102&amp;image_uri=http%3A%2F%2Fimg.vidible.tv%2Fprod%2F2017-05%2F04%2F590b14cc1de5a17e0356dada%2F590b14c80c2aff492174b8aa_160x90_F_v0.jpg&amp;client=cbc79c14efcebee57402&amp;signature=3a915cb88ac0550350e34500736daaf4848682e0" alt="Trump order to ease ban on political activity by churches" title="Trump order to ease ban on political activity by churches" height="102" width="140"/>
+                        </a>
+            <div class='vidItemDetails'>
+              <div class='vidTitle'>
+                <a title="Popular Video" href="http://on.aol.ca/playlist/136827/videoid=590b14cc1de5a17e0356dada/" target="_blank" name="om_popular-videos-5min-main_title_5" class="lnid-sec5_lnk2" title="Trump order to ease ban on political activity by churches">Trump order to ease ban on political activity by c...</a>
+              </div>
+            </div>
+          </li>
+                  <li id='vod5909bd469efa893b35c69a62' class='vid '>
+            <a href ="http://on.aol.ca/playlist/136827/videoid=5909bd469efa893b35c69a62/" target="_blank" class="imgLnk lnid-sec6_lnk1" name="om_popular-videos-5min-main_image_6">
+                                                      	                            	                            	                            	                            	                            	                            	                            	              	                	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            	                            <img class="vidThumb noion" src="http://o.aolcdn.com/images/dims?resize=140%2C102&amp;image_uri=http%3A%2F%2Fimg.vidible.tv%2Fprod%2F2017-05%2F03%2F5909bd469efa893b35c69a62%2F5909bd42670984539ac9d98e_160x90_F_v1.jpg&amp;client=cbc79c14efcebee57402&amp;signature=03500a94cd3784f4ce5573eccab4731df345b6c2" alt="Couple found strangled to death a week after going missing in Belize" title="Couple found strangled to death a week after going missing in Belize" height="102" width="140"/>
+                        </a>
+            <div class='vidItemDetails'>
+              <div class='vidTitle'>
+                <a title="Popular Video" href="http://on.aol.ca/playlist/136827/videoid=5909bd469efa893b35c69a62/" target="_blank" name="om_popular-videos-5min-main_title_6" class="lnid-sec6_lnk2" title="Couple found strangled to death a week after going missing in Belize">Couple found strangled to death a week after going...</a>
+              </div>
+            </div>
+          </li>
+              </ul>
+              <span class="view-more-videos"><a name="om_popular-videos-5min-main_more" class="lnid-sec2_lnk more newsmore" href="http://on.aol.ca/" target="_blank">More Videos</a></span>
+          </div>
+  </div>
+</div>
+                  <div id="flyertown_module_1114" class="gmod"></div><script src="http://api.flyertown.ca/1114/40f5f99cc822f830/flyertown_module.js"></script>
+<script>
+jQuery(document).ready(function(){
+	jQuery(".more_flyertown_link,.title_flyertown_link,.flyer_type_list a").attr("target","_BLANK");
+});
+</script>                  <div class="mpid-6 ">
+<div class="trend-v2"><div class="gmod plid-81725 mnid-trending-stories " id="aol-trendingstories">
+<div class="dn cnf">
+<div class="defaultCount">{"480":"","986":"","768":"","320":""}</div>
+<div class="morenumPerSnap">{"480":"","986":"","768":"","320":""}</div>
+<div class="moreClicksPerSnap">{"480":"","986":"","768":"","320":""}</div>
+</div><h2>
+<span class="toggleModule toggle-trending-stories">
+Most Popular</span>
+</h2>
+<div class="collapse-trending-stories">
+<div class="ctnt">
+<div class="mnid-trending-stories-feed plid-462784">
+ <div class="story">
+<a class="lnid-sec16498406_lnk16498406 storyimg" name="om_trending-stories_img_16498406" href="http://www.huffingtonpost.ca/2017/05/08/jared-kushner-nafta_n_16498406.html" target="_BLANK"><img alt="Call From Trump&#039;s Son-In-Law To Canada Set Off Scramble Over NAFTA" class="img97x75" src="http://o.aolcdn.com/images/dims?resize=97%2C75&amp;image_uri=http%3A%2F%2Fi.huffpost.com%2Fgen%2F5289248%2Fimages%2Fs-JARED-KUSHNER-large.jpg&amp;client=cbc79c14efcebee57402&amp;signature=8a7d9c1b576dd8c0906356da456b0c30e469cb13"></a><p><a class="lnid-sec1_lnk2 storytxt" name="om_trending-stories_link_1" href="http://www.huffingtonpost.ca/2017/05/08/jared-kushner-nafta_n_16498406.html" target="_BLANK">Call From Trump&#039;s Son-In-Law To Canada Set Off Scramble Over NAFTA</a></p>
+<span class="fcb"></span>
+</div>
+        <div class="story">
+<a class="lnid-sec16496916_lnk16496916 storyimg" name="om_trending-stories_img_16496916" href="http://www.huffingtonpost.ca/2017/05/08/brantford-house_n_16496916.html" target="_BLANK"><img alt="Terrifying Ontario Home For Sale Is FULL OF CLOWNS" class="img97x75" src="http://o.aolcdn.com/images/dims?resize=97%2C75&amp;image_uri=http%3A%2F%2Fi.huffpost.com%2Fgen%2F5289146%2Fimages%2Fs-CLOWN-HOUSE-large.jpg&amp;client=cbc79c14efcebee57402&amp;signature=206babc949861d4cc6b89666256caed032570195"></a><p><a class="lnid-sec1_lnk2 storytxt" name="om_trending-stories_link_1" href="http://www.huffingtonpost.ca/2017/05/08/brantford-house_n_16496916.html" target="_BLANK">Terrifying Ontario Home For Sale Is FULL OF CLOWNS</a></p>
+<span class="fcb"></span>
+</div>
+        <div class="story">
+<a class="lnid-sec16494104_lnk16494104 storyimg" name="om_trending-stories_img_16494104" href="http://www.huffingtonpost.ca/2017/05/08/rigaud-mayor-flood_n_16494104.html" target="_BLANK"><img alt="Flood Evacuees Are &#039;Crying Like Babies,&#039; Quebec Mayor Says" class="img97x75" src="http://o.aolcdn.com/images/dims?resize=97%2C75&amp;image_uri=http%3A%2F%2Fi.huffpost.com%2Fgen%2F5288980%2Fimages%2Fs-HANS-GRUENWALD-JR-large.jpg&amp;client=cbc79c14efcebee57402&amp;signature=a357584e5d0c8ec3145c3a4c20492dc4347910cd"></a><p><a class="lnid-sec1_lnk2 storytxt" name="om_trending-stories_link_1" href="http://www.huffingtonpost.ca/2017/05/08/rigaud-mayor-flood_n_16494104.html" target="_BLANK">Flood Evacuees Are &#039;Crying Like Babies,&#039; Quebec Mayor Says</a></p>
+<span class="fcb"></span>
+</div>
+        
+</div>
+</div>
+<div class="rectip">
+<a name="" class="" style="display:none"> </a>
+<a href="http://www.huffingtonpost.ca/" class="lnid-sec2_lnk" target="_blank">More Stories</a></span>
+</div>
+</div>
+</div>
+<!--
+newsBodySlotName=trending-stories
+-->
+</div></div>
+                    </div>
+    </div>
+    <div id="aol-footer" class="mlid-footer -wrapper">
+      
+<div class="mpid-3 ">
+    <div id="search-shadow"></div>
+    <div class="mnid-footer-search plid-0">
+        <div id="searchbox-container">
+            <form id="aol-footer-search" action="http://search.aol.ca/aol/search" method="get"
+                  class="search search-3 tabs-0">
+                <input type="hidden" id="footer-ghostText" value=""/>
+                <input type="hidden" id="footer-searchIcon" value=""/>
+                <input type="hidden" id="footer-enabledTerms" name="enabled_terms" value=""/>
+                <input type="hidden" id="footer-s_it" name="s_it" value="comsearch"/>
+                <input type="hidden" id="footer-s_it_h" value="comsearch"/>
+                <input type="hidden" id="footer-s_it_r" value="comsearch"/>
+                <input type="hidden" id="footer-s_it_f" value="comsearch"/>
+                <input type="hidden" id="footer-s_it_s" value="comsearch"/>
+                <input type="hidden" id="footer-initSmartSearch" value="false"/>
+                <input type="hidden" id="footer-apiDictionary" value=""/>
+                <input type="hidden" id="footer-initFocus" value="true"/>
+                <input type="hidden" id="footer-preserveGhostText" value=""/>
+                <input type="hidden" id="footer-ssExtraParams"
+                       value=""/>
+                <input type="hidden" id="footer-sExtraParams"
+                       value=""/>
+                <input type="hidden" id="footer-apiIt" value=""/>
+                <input type="hidden" id="footer-apiUrl" value="http://autosuggest.search.aol.com/autocomplete/get"/>
+                <input type="hidden" id="footer-apiCount" value="8"/>
+                <input type="hidden" id="footer-apiQueryParam" value="q"/>
+                <input type="hidden" id="footer-enableBestMatch" value="true"/>
+                <input type="hidden" id="footer-bestMatchQuery" value="bm_chan=2&bm_max=1&bm_limit=4&locale=CA&lang=en-CA"/>
+                <input type="hidden" id="footer-bestMatchPrefix" value="in"/>
+                <input type="hidden" id="footer-bestMatchAction" value="http://search.aol.com/aol/tracking"/>
+                <fieldset>
+                    <legend class="hidden">Search information</legend>
+                    <input type="text" value="" id="aol-footer-query" name="q" maxlength="150"
+                           title="Search the Web"/>
+                    <input class="om_footer-searchbutton lnid-sec2_lnk1" type="submit" value="Search"
+                           id="aol-footer-search-button" onclick="omn.omo('footer-searchbutton');"
+                           title="Search the Web"/>
+                                                    </fieldset>
+            </form>
+        </div>
+    </div>
+</div>
+<div class="mnid-footer-back-to-top back-to-top footer-refresh plid-0" id="back-to-top-footer">
+  <a href="?icid=acm50backtoplink" target="_self">Back to Top <span class="up-arrow"></span></a>
+</div>
+
+<div class="plid-0 mnid-footerlinks footer-refresh">
+  <div id="ftlinks">
+    <div class="footer-links-row1" id="om_footer_row1_">
+      <a target="_blank" href="http://canada.aol.com/portal/downloads/" class=" lnid-sec1_lnk1">AOL Downloads</a><a target="_blank" href="http://mail.aol.ca" class=" lnid-sec1_lnk2">Get Free Email</a><a class="ncid-txtlnkuswebr00000083 lnid-sec1_lnk3" href="mailto:advertise.with.us@aol.com">Advertise with Us</a><a target="_blank" href="http://adinfo.aol.com/about-our-ads/" class=" lnid-sec1_lnk4">About our Ads</a></div>
+    <div class="footer-links-row2" id="om_footer_row2_">
+      <a target="_blank" href="http://corp.aol.com/" class=" lnid-sec1_lnk4">AOL Inc.</a><a target="_blank" href="http://privacy.aol.ca/full_policy/" class=" lnid-sec1_lnk5">Privacy Policy</a><a target="_blank" href="http://privacy.aol.ca/Terms/" class=" lnid-sec1_lnk6">Terms of Service</a></div>
+    <div class="footer-links-row3" id="om_footer_row3_">
+    </div>
+    <div id="aol-copyright">
+    </div>
+  </div>
+</div>
+  <div id="follow-aol-footer" class="clearfix follow-aol mnid-follow-aol-footer plid-0 gmod">
+    <div class=" followaol-icons icons-5">
+      <div class="followaol-icon item1 first" style="">
+        <a title="Facebook" name="om_follow-aol-footer_item-1" target="_BLANK" class="lnid-sec2_lnk1" href="http://aol.it/facebook"><span class="sprite item-1 icon- "></span> <span class="title"></span></a><div class="tooltip" style="left: -6.5px; display: none;">
+          <div class="tooltip-arrow" style="left: 19.5px;"></div>
+          Facebook</div>
+      </div>
+      <span class="icondivider"></span><div class="followaol-icon item2" style="">
+        <a title="Twitter" name="om_follow-aol-footer_item-2" target="_BLANK" class="lnid-sec2_lnk2" href="http://aol.it/twitter"><span class="sprite item-2 icon- "></span> <span class="title"></span></a><div class="tooltip" style="left: -1px; display: none;">
+          <div class="tooltip-arrow" style="left: 14px;"></div>
+          Twitter</div>
+      </div>
+      <span class="icondivider"></span><div class="followaol-icon item3" style="">
+        <a title="Instagram" name="om_follow-aol-footer_item-3" target="_BLANK" class="lnid-sec2_lnk3" href="http://instagram.com/aol"><span class="sprite item-3 icon- "></span> <span class="title"></span></a><div class="tooltip" style="left: -6px; display: none;">
+          <div class="tooltip-arrow" style="left: 19px;"></div>
+          Instagram</div>
+      </div>
+      <span class="icondivider"></span><div class="followaol-icon item5 last" style="">
+        <a title="AOL Mobile" name="om_follow-aol-footer_item-6" target="_BLANK" class="lnid-sec2_lnk5" href="http://aolapps.aol.com/"><span class="sprite item-6 icon- "></span> <span class="title"></span></a><div class="tooltip" style="left: -11.5px; display: none;">
+          <div class="tooltip-arrow" style="left: 24.5px;"></div>
+          AOL Mobile</div>
+      </div>
+      <div class="clear"></div>
+    </div>
+  </div>
+</div>
+  <div class="plid-0 mnid-footerlinks-copyright-only footer-refresh">
+    <div id="ftlinks">
+      <div class="footer-links-row1" id="om_footer_row1_">
+      </div>
+      <div class="footer-links-row2" id="om_footer_row2_">
+      </div>
+      <div class="footer-links-row3" id="om_footer_row3_">
+      </div>
+      <div id="aol-copyright">
+        <span class="copy-text">&copy; 2017&nbsp; AOL Canada Corp.</span>
+        <a href="?icid=acm50footerlogo"><img class="footer-stamp-img"
+                                             src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAnCAYAAACbgcH8AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAARjSURBVHja1JltiFZVEMd/dzN3TbDNNnF7EdPUEj9kq5atQiIW9S3BQCx7oyz7YBFq0jtSEFH4RRBxi7QiipZAJdpcBdPtZdmitkwrdE3dWFJ31TRX3b19mSuzh3Pmnrv7UDlwH+69Z848/2fOnP+ZmSdJ05QLTQYBJEli6XwFnAK2Ao1AM3DuvwKcpql8hOUKIHWu48Am4Cng4v8j6Pke0Nl1qJ/fWzFQ0INydGYbY1v6CfgIsAf4EtgJNAFtSqcM6M13d1jaDE/fVxDwOKA2YKsdqFN7qAF4Ari6aHhcZwBOgeoCgGeJ93Yb9j4FRnneNwPPAZNiQD9ufMGPwMPAY8CVOYAvAX7NcUAKPAs8aYy3A0ke6I8NA6uA/XLfK0u6ArjBY2dVBOBUVuMLY3x1nqcvAo4aBl40xvYAlWJnpvyoPMDngNFAj6EzOwNdFvDyTcBlgbEeBconZ4AuYYo6IImI+RZgjjBHSBYDr1nsscL4xTuAn4zxlWLj9ciwSIE3ZSPm6R22wqPRmLhePNkFdHvGJwO35Cy1ez0IdCi7Ib2WEOghwGlj4gyl+4Aztk/CYncBwBnoPnQcuOpDMT0DKA/E1V/CFJl8CJxQz/XAC8CEAhy+F7g1Unc/gcCfY0z6xMnwTgHvqueDwLKCJ2ULcGcR0L7w+NZYnpkeQ5NlrAvY5ej/AiwERoruUOAO4DOls1HmxoTHXF9MVxm8+rPSGw/c7HjL1d8kp2FIMq7/ugDoGh/oe4wJTyu9pcAr6nmRo3sAGOZs7mmSn2vZAHQWAF3lA702oNwtq5DJduAH9TwMOKn0dVzfKHSW2VmgxmpUaOWBPhk6xvcGJryvdC5XHDxava9zuDqTBsdWp6p4ygRMDOhdvmN8DHBtIP7WOt5pBb4Hpqj369R9p7of69iqVKvWK0VBjPzuKwIeNRKgJNJwq8ypVe/WO/Z+U/YqVK7i8/Rx4G2pktb4wuOjiA2YJ0tULqEZabOA+84JnblGTJ92Ut1rMtBJmqYkSVIG/AkM92RsVwGH5Xm6Q3UA30idh8xvl5ivAv7OqRdbgInAMSdzzCqWaVa5VRPw8gfOnCaPTpOj816WsEv55JNKJ6vzefqYhyL7VOOhqnsw8JLcl4unXZkunH1Wnv+QOdWyHzbICdgBXCqn6kMOoAr1PZpGm4SVRgEvi43znv68YFaWVzYBzCuhzbNSTfWhvMoSNYDWAdvkvraEjaVDsk/QWd5UWc57gbfOZ1PF5IDDNB2SVxeRHjO7i2jWjBGeDC1Zo+TX2fPtATvDgbuAV6WJ2ZNTcQ+WA2kWcD/wvLQropo1NTlxNk6O8QZZnRgZEVNxD6QBudIw3urolkeCfsSweTSmC2u1ELLTyqpgtHRHgrZsblS0aUoI9AQ5qUJS308WaBbuHpjNQHg8YyzjvhJQ2PXAcmn39sqGHjLQpvpQ4G7gHU977I0SN/erpW4s2T8BWV/vNmkktgWK23/174vkQvx3658BAMtK+LRyGgRfAAAAAElFTkSuQmCC"
+                                             alt="Aol"></a>
+        <span class="rights-text">All Rights Reserved.</span>
+      </div>
+    </div>
+  </div>
+    </div>
+  </div>
+    
+    		  <div class="mpid-1 ">
+    <div id="mail_prev_w">
+        <div id="mail-arrow"></div>
+        <div id="newmail_prev" class="plid-0 mnid-mailpreview">
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">var dimsBaseUri = "http://portal.aolcdn.com/dims3/portal";
+        var ajaxCacheNum = "cv=6";
+        var requestPath = "/";
+        var origUrl = "";
+        Sonar = function (k) {
+        }, sonar = Sonar();
+        AOL.msgOverlayRespHeight = "95%";
+        AOL.msgOverlayRespWidth = "95%";
+        AOL.articlePrefetchDelay = 500;
+        AOL.articlePrefetchEnabled = true;
+        AOL.pathsToOpenInOverlayRegex = /(article|perspective)/;
+        AOL.overlayTrackingType = "default,prev,next,pop";
+        AOL.overlayTrackingTypeDataLayer = "default,prev,next,close,background,pop";
+        AOL.disableAjaxForType = "close,background,default,pop";
+        AOL.disableCategoryFilterFromHomepage = false;
+        AOL.disableCategoryFilterFromSidedoor = false;
+        AOL.disableCategoryFilterFromVertical = false;
+        AOL.articleVerticals = "";
+        AOL.articleVerticals = "news,entertainment,finance,lifestyle,sports";
+        AOL.headerHost = 'www.aol.com';
+        AOL.disableHnavDefaultItemHighlight = false;
+        AOL.articleCurrentRotationCookie = "arts-current";
+        AOL.articleInitialArticleCookie = "arts-initial";
+        AOL.imageCreditEnabled = true;</script>
+    <script type="text/javascript">AOL.imageCredit = {}
+        AOL.imageCredit.options = {defaultStyles: true, wrapper: false, setOffset: false}
+        AOL.imageCredit.disableFor = "";
+        AOL.asheBeaconEnabled = true;
+        AOL.asheBeaconSelectors = ["#bon-cw [data-beacon]", "#bon-rr [data-beacon]"];
+        AOL.asheBeaconTitle = "portal-ashe";</script>
+
+          <script type="text/javascript" src="http://www.blogsmithmedia.com/www.aol.ca/assets-h5954df642878c5b3be05d2fbf50952d7/js/portal/minified.js?h=7f26ae4f0dbb945e3139ef59a6a02d00"></script>
+      <script type="text/javascript" src="http://www.blogsmithmedia.com/www.aol.ca/assets-h5954df642878c5b3be05d2fbf50952d7/js/portal/main.js?h=874b59f425c7b85ebb6f7868ce656a17"></script>
+      <script type="text/javascript" src="http://www.blogsmithmedia.com/www.aol.ca/assets-h5954df642878c5b3be05d2fbf50952d7/js/portal/responsive.js?h=2cdc9b091e4a8dcecf0193b34edb5f8b"></script>
+    
+    <script type="text/javascript">var ae_url = "http://www.aim.com/popup";
+        var ae_dimension = "width=510,height=575";
+        var serverHour = "18";
+        var serverMmddyyyy = "05092017";
+        var serverDay = "2";
+        AOL.respCollAds = "false";
+        var secM = "true";
+        var rqServerName = "www.aol.com";</script>
+    <script type="text/javascript">window.dpcms = {};
+        window.dpcms.track = {};
+        window.dpcms.track.recordImpr = function (a, b) {
+        };</script>
+
+    <div id="umsdctag">
+        <script type="text/javascript">$('body').on("fixed-comment-on", function (e, current) {
+                $('#gravitymodarticle').hide();
+            });
+            $('body').on("fixed-comment-off", function (e, current) {
+                $('#gravitymodarticle').show();
+            });
+            if (AOL.hmpg) {
+                AOL.hmpg.responsiveGrid.onSnapListenerForArticlePage = function (snapPoint) {
+                    switch (snapPoint) {
+                        case 986:
+                            if ($("#col12_2 #col3").length) {
+                                $("#col3").insertAfter("#col12_2");
+                            }
+                            break;
+                        default:
+                            if ($("html").hasClass("aol20")) {
+                                if (snapPoint === 768) {
+                                    var shareBtm = $("#shared-services-articlebody-bottom-2-w");
+                                    if (shareBtm.length) {
+                                        shareBtm.appendTo($("#article-wrapper"));
+                                    }
+                                } else {
+                                    var wrapperShareBar = $("#article-wrapper").find("#shared-services-articlebody-bottom-2-w");
+                                    var shareBtm = $("#shared-services-articlebody-bottom-2-w");
+                                    var cObj = $("#aol-content").find("#col12_2 .col12_2-inner .mpid-2:first");
+                                    if (wrapperShareBar.length && cObj.length && shareBtm.length) {
+                                        shareBtm.appendTo(cObj);
+                                    }
+                                }
+                            }
+                            if ($("#aol-content").find("#col3").length) {
+                                var cObj = $("#aol-content").find("#col12_2 .col12_2-inner .mpid-2:first");
+                                if (cObj.length) {
+                                    var cObjNext = cObj.children(':first');
+                                    if (!cObjNext.length || cObjNext.attr("id") != "col3") {
+                                        $("#col3").prependTo(cObj);
+                                    }
+                                } else {
+                                    cObj = $("#aol-content").find("#col12_2 .mpid-2:first");
+                                    if (cObj.length) {
+                                        var cObjNext = cObj.children(':first');
+                                        if (!cObjNext.length || cObjNext.attr("id") != "col3") {
+                                            $("#col3").prependTo(cObj);
+                                        }
+                                    }
+                                }
+                            }
+                            break;
+                    }
+                };
+            }</script>
+        <script type="text/javascript">var cb_width = "100%";
+            var cb_height = "100%";
+            var cb_fixed = false;
+            var cb_top = false;
+            switch (getDeviceState()) {
+                case 320:
+                case 480:
+                case 768:
+                    cb_width = $(document.body).width();
+                    cb_height = $(document).height();
+                    cb_fixed = false;
+                    cb_top = "0px";
+                    break;
+                default:
+                    cb_width = "600px";
+                    cb_height = "600px";
+                    cb_fixed = true;
+                    cb_top = false;
+                    break;
+            }
+            $("body").on("click", "#the-catch-submit", function (e) {
+                var html = "<div class='scroll-wrapper' style='width:100%;height:100%;background:#f2f2f2;'><iframe src='http://aol-sports-upload-596851699.us-east-1.elb.amazonaws.com' frameborder='no' style='width:100%;height:100%;border:0;'><iframe></div>"
+                var cboxOptions = {
+                    html: html,
+                    width: cb_width,
+                    height: cb_height,
+                    scrolling: false,
+                    fixed: cb_fixed,
+                    top: cb_top,
+                    className: "msgolmtmhpWr",
+                    close: "<span class='moclose'></span>"
+                }
+                $.colorbox(cboxOptions);
+                e.preventDefault();
+            });
+            $("body").on("hmpg.snap", function (event) {
+                switch (event.snapPoint) {
+                    case 320:
+                    case 480:
+                    case 768:
+                        cb_width = $(document.body).width();
+                        cb_height = $(document).height();
+                        break;
+                    default:
+                        cb_width = "600px";
+                        cb_height = "600px"
+                        break;
+                }
+                $.fn.colorbox.resize({height: cb_height, width: cb_width});
+            });
+            var scrollTimer;
+            $(document).bind('cbox_open', function () {
+                switch (getDeviceState()) {
+                    case 320:
+                    case 480:
+                    case 768:
+                        break;
+                    default:
+                        $('html').css({overflow: 'hidden'});
+                        break;
+                }
+            }).bind('cbox_closed', function () {
+                switch (getDeviceState()) {
+                    case 320:
+                    case 480:
+                    case 768:
+                        break;
+                    default:
+                        $('html').css({overflow: 'auto'});
+                        break;
+                }
+            }).bind('cbox_load', function () {
+            })</script>
+
+        <script type="text/javascript">try {
+                if (window.$) {
+                    $(document).ready(function () {
+                        for (i = 0; i < lazyLoadJavascripts.length; ++i) {
+                            $.getScript(lazyLoadJavascripts[i]);
+                        }
+                    });
+                }
+            } catch (err) {
+            }</script>
+    </div>
+
+    <div class="mobile-ad">
+  <div class="ad__footer--sticky mpid-3 resp-show754 resp-show480 resp-show320 resp-hide">
+    <div id="fi_776132875" class="adwrap di refreshNO"></div>
+    <script type="text/javascript">
+              var mn = getMn({
+          754: '',
+          480: '348-14-15-8d',
+          320: ''
+        }, "348-14-15-8d", [754, 480, 320], "fi_776132875", "320", "50", true);
+            if (mn !== null) {
+        htmlAdWH(mn, '320', '50', 'f', 'fi_776132875');
+      }
+    </script>
+  </div>
+</div>
+
+<script type="text/javascript">
+  function beaconPlids() {
+        var beacons = document.querySelectorAll('[data-beacon]');
+        var plids = [];
+
+        for (var i = 0, l = beacons.length; i < l; i++) {
+            var beaconString = beacons[i].getAttribute('data-beacon');
+            var item = {};
+            if (beaconString) {
+                item = JSON.parse(beaconString);
+            }
+
+            if (item != '') {
+                if (item.p && item.p.plid && item.p.mnid) {
+                    var data = item.p.plid + '|' + item.p.mnid;
+
+                    if (item.p.mnid.indexOf('dl') > -1) {
+                        if (item.p.mnid !== 'dl1') {
+                            data = null;
+                        }
+                    }
+
+                    if (data) {
+                        plids.push(data);
+                    }
+                }
+            }
+        }
+
+        return plids.join(',');
+    };
+
+    setTimeout(function() {
+        bN.ping("plids", [
+            ["plids", beaconPlids(), 1]
+        ]);
+    }, 600);
+
+</script>
+  <script src="http://o.aolcdn.com/os/aol/jquery.openwindow.min.js"></script>
+<script src="http://o.aolcdn.com/os/aol/jquery.multiauth-2.2.min.js"></script>
+<script src="http://o.aolcdn.com/os/aol/jquery.cookie-1.4.0.js"></script>
+<script src="http://o.aolcdn.com/os/amp/auth/amp-jquery-multiauth.min.js"></script>
+
+<script>
+    function isAolClient(){
+  var userAgent = navigator.userAgent.toLowerCase(),
+  isOldAolClient = userAgent.indexOf('aol'),
+  isAolSecure= userAgent.indexOf('aolsecure'),
+  isNewAolClient = typeof window.external !== 'undefined'&& typeof window.external.jsWindow !== 'undefined' && typeof window.external.jsWindow.authState !== 'undefined' ? window.external.jsWindow.authState() : -1;
+  return (isOldAolClient !== -1 || isNewAolClient !== -1) && isAolSecure == -1;
+  }
+
+  var authServerUrl;
+  if(isAolClient()){
+    authServerUrl='http://api.screenname.aol.com'
+  }else{
+    authServerUrl='https://api.screenname.aol.com'
+  }
+
+  var actionUrl = Site.AuthActionURL;
+  if (actionUrl == "") {
+    Site.AuthActionURL = location.protocol+"//"+location.hostname+"/_uac/authReceiver-2.2.html";
+  }
+
+  var config = {
+        actionUrl: actionUrl,
+        devId: 'ao1Nvczuo8OWfsyO',
+        authServer: 'http://api.screenname.aol.com',
+        providers: String('aol,google,facebook,yahoo,twitter,more').split(','),
+        hasSession: Boolean(),
+        authCallback: function (attr) {
+            if (!attr) {
+            } else {
+            }
+        }
+    };
+
+    $(function() {
+        var $loginoutButton = $('<div id="hiddenAuth"/>');
+        if (Site.useMultiAuthForLogin) {
+          $loginoutButton = $('#amp-auth');
+        }
+        if (config.actionUrl) {
+            amp.auth.multiAuth($loginoutButton, config);
+        }
+
+        $loginoutButton.on('click',function(e){
+            e.preventDefault();
+        });
+    });
+
+    window.mqConfig = { devId: "ao1Nvczuo8OWfsyO", callback: null };
+</script>
+
+<script type="text/javascript" src="http://www.blogsmithmedia.com/www.aol.ca/assets-h5954df642878c5b3be05d2fbf50952d7/js/mail-preview.js?h=aabd3c8f0862b607452db1698f5b62cd"></script>
+
+<script type="text/javascript">
+    /* Mail */
+    function Mail(mailIconsArray) {
+        var self = this;
+        this.el = null;
+        this.elParent = null;
+        this.preview = null;
+        this.body = null;
+        this.over = null;
+        this.arrow = null;
+        this.showDelay = 500;
+        this.hideDelay = 250;
+        this.threshold = 500;
+        this.showTimeout = null;
+        this.showing = false;
+        this.hideTimeout = null;
+        this.hiding = false;
+        this.showTime = null;
+        this.open = false;
+        this.aol20LeftOffset = 13;
+
+        this.track = function(el) {
+            try {
+                if (typeof (bN) != 'undefined') {
+                    bN.extractIds(el);
+                    bN.ping("mail-preview");
+                }
+            } catch (e) {
+            }
+        }
+
+        $("body").on("hmpg.snap", function(event) {
+            if (event.snapPoint < 768) {
+                self.aol20LeftOffset = 23;
+            } else {
+                self.aol20LeftOffset = 11;
+            }
+        });
+
+        this.load = function($item) {
+            self.body.html("<div class='loading'></div>");
+            emailAPI = "https://api.mail.aol.com/mail/newMailList?f=json&a=" + authtoken + "&devId=" + window.mqConfig.devId + "&digest=text/plain&c=getMailPreviewCallback";
+            emailJSONScript = document.createElement("script");
+            emailJSONScript.setAttribute("type", "text/javascript");
+            emailJSONScript.setAttribute("src", emailAPI);
+            document.getElementsByTagName("head")[0].appendChild(emailJSONScript);
+
+            self.track(self.body[0]);
+            self.openPlaceholder($item);
+            self.over.fadeIn();
+            self.showArrow($item);
+            self.preview.fadeIn(function() {
+                var date = new Date();
+                self.showTime = date.getTime();
+            });
+        }
+
+        this.showArrow = function($item) {
+            if (self.arrow.length > 0) {
+                var elLeft = $item.offset().left;
+                var clLeft = $("#col3").offset().left;
+                var left = elLeft - clLeft;
+                self.arrow.css("left", left);
+            }
+        }
+
+        this.show = function($item) {
+            if (!self.showing && !self.open) {
+                self.showing = true;
+                self.showTimeout = setTimeout(function() {
+                    if (self.showing) {
+                        if ($(".userOptions").length && $(".usrMnuLst").is(":visible")) {
+                            usermenu.keepMenuOpen = false;
+                            usermenu.close();
+                        }
+                        if($(".qnprev_wr").length && $(".qnprev_wr").is(":visible")){
+                            quicknavmenu.clear();
+                            quicknavmenu.close();
+                        }
+                        self.open = true;
+                        self.showTime = null;
+                        if(typeof(authtoken) !== 'undefined') {
+                            self.load($item);
+                        }
+                    }
+                }, self.showDelay);
+            }
+        }
+
+        this.openPlaceholder = function($item) {
+            var plHeight = 0;
+            if (!$item.hasClass("nopushdown") && $item.closest('#scrollcurtain').length == 0 && $item.closest('#pnaol20.fixed').length == 0){
+                // determine height of placeholder div
+                // should be (height of preview) - (distance from bottom of icon to top of column)
+                var prevHeight = self.preview.height();
+                var colOffset = $("#col3").offset();
+                var iconOffset = $item.offset();
+
+                if (colOffset != null && iconOffset != null) {
+                    var colTop = colOffset.top;
+                    var iconBottom = iconOffset.top + $item.height();
+                    if ($("#col3").find("#newmailpreview").size() > 0) {
+                        iconBottom = iconOffset.top;
+                    }
+                    plHeight = prevHeight - (colTop - iconBottom);
+
+                    if (plHeight > 0) {
+                        self.wrap.css("height", plHeight);
+                    }
+                }
+
+                if(plHeight > 0){
+                    self.wrap.slideDown();
+                }
+            }
+        }
+
+        this.cancelShow = function() {
+            self.showing = false;
+            if (self.showTimeout != null) {
+                clearTimeout(self.showTimeout);
+            }
+        }
+
+        this.hide = function() {
+            if (!self.hiding) {
+                self.hiding = true;
+                self.hideTimeout = setTimeout(function() {
+                    if (self.hiding && self.open) {
+                        self.open = false;
+                        self.trackDuration("close");
+                        self.showTime = null;
+                        self.wrap.slideUp();
+                        self.over.fadeOut();
+                        self.preview.fadeOut();
+                    }
+                }, self.hideDelay);
+            }
+        };
+
+        this.cancelHide = function() {
+            self.hiding = false;
+            if (self.hideTimeout != null) {
+                clearTimeout(self.hideTimeout);
+            }
+        };
+
+        this.previewClick = function() {
+            self.trackDuration("preview");
+        }
+
+        this.iconClick = function() {
+            self.cancelShow();
+            self.trackDuration("icon");
+        }
+
+        // disable this omniture tracking
+        this.trackDuration = function(action) {
+            /*if (self.showTime != null) {
+             var date = new Date();
+             var duration = date.getTime() - self.showTime;
+             self.showTime = null;
+             if (duration > self.threshold) {
+             duration = Math.round(duration / 500) * 500;
+             //omn.omcl("mailpreview_time_" + action + "_" + duration);
+             }
+             }*/
+        }
+
+        this.triggerPreviewHandler = function(evt) {
+            var prevoffset = $(evt.currentTarget).offset();
+            var $item = $(evt.currentTarget);
+            var scrollCurtainMail = ($item.closest("#scrollcurtain-quicknav").length > 0)  ? true : false;
+
+            if (prevoffset === null) {
+                return;
+            }
+            if($('#mail_prev_w').hasClass('fixedPos')){
+                $('#mail_prev_w').removeClass('fixedPos');
+            }
+            if ($("#aol-header").hasClass("aol-global-header")) {
+                var prv_pl_offset = $("#mail_prev_pl").parent().offset();
+                if (typeof (prv_pl_offset) === 'undefined' || prv_pl_offset === null) {
+                    prv_pl_offset = 0;
+                }
+                if ($('html').hasClass('aol20') && $('#col3').length > 0) {
+                    var left = $('#col3').offset().left + $('#col3').outerWidth() - self.preview.outerWidth();
+                    self.preview.css({
+                        top: (prevoffset.top + 67),
+                        left: left
+                    });
+                    var prvTopLeft = prevoffset.left - left - self.aol20LeftOffset;
+                    if(scrollCurtainMail){
+                        prvTopLeft = prvTopLeft - 12;
+                        var cHeight = $("#scrollcurtain").height();
+                        $('#mail_prev_w').addClass('fixedPos');
+                        $('#mail_prev_w').css({"top": cHeight});
+                    }
+                    $('#mail_prev_w .prv_top').css({"left": prvTopLeft});
+                } else {
+                    self.preview.css({
+                        top: (prevoffset.top + 60),
+                        left: (prv_pl_offset.left + 9)
+                    });
+                }
+                self.over.css({
+                    top: (prevoffset.top),
+                    left: (prv_pl_offset.left + 56)
+                });
+                self.preview.addClass("glb-hdr");
+                self.over.addClass("glb-hdr");
+            } else {
+                self.preview.css({
+                    top: (prevoffset.top + 60),
+                    left: (prevoffset.left - self.preview_left)
+                });
+                self.over.css({
+                    top: (prevoffset.top),
+                    left: (prevoffset.left - 5)
+                });
+            }
+            self.cancelHide();
+            self.show($item);
+        };
+
+        this.bind = function($el) {
+
+            if ($el === null || $el.length < 1 || typeof $el[0] === 'undefined') {
+                return;
+            }
+
+            $elParent = $($el).closest("div.quicknav");
+
+            if ($elParent.length && $elParent.hasClass("nopushdown")) {
+                $el.addClass("nopushdown")
+            }
+
+            var auth = parseInt(utils.findClass($el[0], /auth-.*/).replace("auth-", ""));
+
+            //if (auth == "1") {
+                var showDelay = parseInt(utils.findClass($el[0], /show-.*/).replace("show-", ""));
+                var hideDelay = parseInt(utils.findClass($el[0], /hide-.*/).replace("hide-", ""));
+                var threshold = parseInt(utils.findClass($el[0], /thresh-.*/).replace("thresh-", ""));
+
+                if (!isNaN(showDelay)) {
+                    self.showDelay = showDelay;
+                }
+                if (!isNaN(hideDelay)) {
+                    self.hideDelay = hideDelay;
+                }
+                if (!isNaN(threshold)) {
+                    self.threshold = threshold;
+                }
+                var numItems = $elParent.attr("quick-nav-icons");
+                self.preview_left = 152;
+                if ($("#col3").find("#newmailpreview").size() > 0) {
+                    self.preview_left = 0;
+                }
+                if (typeof numItems == 'undefined') {
+                } else if (numItems == "0") {
+                    self.preview_left = 243;
+                } else if (numItems == "1") {
+                    self.preview_left = 205;
+                }
+
+
+                $el.hover(function(e) {
+                    self.triggerPreviewHandler(e);
+                }, function() {
+                    self.cancelShow();
+                    self.hide();
+                }).click(function() {
+                    self.iconClick();
+                });
+
+            //}
+        }
+
+        this.initPreview = function() {
+
+            if (!($.browser.msie && $.browser.version <= 7)) {
+                self.preview.remove().appendTo("body");
+                self.over.remove().appendTo("body");
+            }
+            if ($("html").hasClass("aol20")) {
+                self.preview.append("<div class='prv_top'></div>");
+            }
+
+            self.preview.hover(function() {
+                self.cancelHide();
+            }, function() {
+                self.hide();
+            }).click(function() {
+                self.previewClick();
+            });
+
+            self.body.delegate('li.new', 'click', $.proxy(function(event) {
+                if ($("#aol-header").hasClass("aol-global-header")) {
+                    var elm = $(event.target);
+                    if (elm.is("a"))
+                        return;
+                    if (elm.is("li")) {
+                        elm.find(":first-child").trigger('click');
+                    } else {
+                        elm.parent("li").find(":first-child").trigger('click');
+                    }
+                }
+            }));
+            if ($.browser.msie && $.browser.version == 6 && $("#aol-header").hasClass("aol-global-header")) {
+                try {
+                    self.body.delegate('li.new', 'mouseenter', function() {
+                        $(this).addClass("hover");
+                    });
+                    self.body.delegate('li.new', 'mouseleave', function() {
+                        $(this).removeClass("hover");
+                    });
+                }
+                catch (e) {
+                }
+            }
+        };
+
+        this.init = function() {
+            self.preview = $("#mail_prev_w");
+            self.body = $("#newmail_prev");
+            self.wrap = $("#mail_prev_pl");
+            self.over = $("#quick-nav-global #mailoverw");
+            self.arrow = $("#mail-arrow");
+
+            if (mailIconsArray != null && mailIconsArray.length > 0) {
+                for (var obj in mailIconsArray) {
+                    self.bind(mailIconsArray[obj]);
+                }
+            }
+
+            self.initPreview();
+
+        }
+        self.init();
+    }
+
+    mailquicknavs = new Mail(
+            [
+                $("#newmailpreview"),
+                $("#scrollcurtain-quicknav #newmailpreview")
+            ]
+    );
+
+    /* End Mail */
+
+    /* sns multiauth check */
+    function aolAuthdUserData(json){
+      var statusCode = parseInt( json.response.statusCode, 10 );
+      if ( statusCode === 200) {
+        var userData = json.response.data.userData;
+        json.response.data.token = { 'a' : Site.userToken};
+        var option = {devId: 'ao1Nvczuo8OWfsyO'};
+        /* for komentary confab comments */
+        $(window).trigger('got-token.aol-multiauth', {'json' : json, 'option' : option} );
+      }
+    }
+
+    function aolAuthdUser(token){
+      var aolGetUserUrl = [
+        "https://api.screenname.aol.com",
+        "/auth/getUserData?f=json",
+        "&attribute=email",
+        "&access_token=" + token,
+        "&devId=ao1Nvczuo8OWfsyO",
+        "&c=aolAuthdUserData"].join("");
+      scriptTag = document.createElement("script");
+      scriptTag.setAttribute("id", "getUserData");
+      scriptTag.setAttribute("src", aolGetUserUrl);
+      document.getElementsByTagName("head")[0].appendChild(scriptTag);
+    }
+
+
+    </script>
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            	                    		<script src="http://www.blogsmithmedia.com/www.aol.ca/assets-h5954df642878c5b3be05d2fbf50952d7/js/lib/featured-videos.js?h=2180de47f8ee352ea56f7e88467214f7"></script>
+                    	                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+  
+  </div>
+    <script src="http://o.aolcdn.com/os/df/production/js/tmf/2-underscore-min.js"></script>
+    <script src="http://o.aolcdn.com/os/df/production/js/tmf/klass.min.js"></script>
+    <script src="/assets/javascripts/config.js"></script>
+    <script src="http://www.blogsmithmedia.com/www.aol.ca/assets-h5954df642878c5b3be05d2fbf50952d7/javascripts/shared.js?h=1f44e4d56f9bd9188de9a04770f7dc6d"></script>
+      <script src="http://www.blogsmithmedia.com/www.aol.ca/assets-h5954df642878c5b3be05d2fbf50952d7/javascripts/hub-controller.js?h=49837e72b557a5fa31d6240e7b86339d"></script>
+    <script src="//quotespeed.morningstar.com/apis/common/apimanager.js"></script>
+
+							<script>
+  (function(d) {
+    var script = d.createElement('script');
+    script.type = 'text/javascript';
+    script.src = '';
+    script.id = '__skim_links_' + (new Date().getTime()) + '__';
+    d.getElementsByTagName("head")[0].appendChild(script);
+  }(document));
+</script>		
+	        <script>var s = document.createElement('script'); s.type = 'text/javascript'; s.src = "//feedback.aol.com/aol-feedback-plugin/aol-feedback-loader-latest.min.js"; s.async = true; document.body.appendChild(s);</script>
+    <script>
+            function beaconTracker() {
+        var obj = {
+          plids: [],
+          mvts: []
+        };
+        $('.bN').each(function () {
+            var beaconData = $(this).attr('data-beacon');
+            if (!$.isEmptyObject(beaconData)) {
+                beaconData = JSON.parse(beaconData);
+                if (beaconData.p && beaconData.p.mvt) {
+                    if (beaconData.p.plid){
+                        obj.plids.push(beaconData.p.plid);
+                    }
+                    obj.mvts.push(beaconData.p.mvt);
+                }
+            }
+        });
+
+        return obj;
+      }
+
+     (function dataLayerMvTracker() {
+        try {
+          var obj = beaconTracker();
+
+          if (obj.mvts.length > 0) {
+            bN.set('plids', obj.plids.join(';'), true);
+            bN.set('mvts', obj.mvts.join(';'), true);
+            bN.ping('mlt');
+          }
+        } catch(e) {
+          setTimeout(dataLayerMvTracker, 1000);
+        }
+      }());
+    </script>
+
+        	</body>
+
+</html>

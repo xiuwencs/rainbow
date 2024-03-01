@@ -1,0 +1,2203 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>  
+<UNION_TAG_INDEX_TITLE>    
+<title> 财经网 - CAIJING.COM.CN</title>
+</UNION_TAG_INDEX_TITLE>
+<!--UNION_COOPERATE(www_h_template)UNION_COOPERATE-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="qc:admins" content="2601216361631121676375636" />
+<meta name="keywords" content=" 财经|宏观|证券|金融|产经|汽车|科技|地产|政经|海外|生活|评论|博客|杂志|新媒体">
+<meta name="description" content=" 财经网——秉承《财经》杂志理念，严守新闻专业主义精神，坚持客观、中道、理性、建设性前提下批评性立场，整合《财经》杂志与财讯传媒旗下20余家媒体资源，融汇贯通海内外同品质媒体精华，以专业的网络新闻采编团队和强大的国际国内专家阵容，向希望一览海内外重大财经新闻并寻求真相的访问者，提供全方位的新闻、分析、评论与可信赖的信息源。为希望深度参与的访问者提供博客、微社区等参与、交流、观点传播、自我价值展现平台。" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<HEADS_TAG>
+</HEADS_TAG>
+<link href="http://file.caijing.com.cn/css/caijing.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+	var browser=function(){
+		var u = navigator.userAgent, app = navigator.appVersion;
+		var shell=function(){return {//浏览器版本信息
+			trident: u.indexOf('Trident/') > -1, //IE内核
+			presto: u.indexOf('Presto/') > -1, //opera内核
+			webKit: u.indexOf('AppleWebKit/') > -1 || u.indexOf('UCWEB') > -1, //苹果、谷歌内核（UC急速浏览器也支持webkit）
+			gecko: u.indexOf('Gecko/') > -1 && u.indexOf('KHTML') == -1, //火狐内核
+			mobile: !!u.match(/AppleWebKit.*Mobile.*|UCWEB/), //是否为移动终端
+			ios: !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X|iOS/), //ios终端
+			android: /Android|Linux.*UCWEB/i.test(u), //android终端
+			iPhone: u.indexOf('iPhone') > -1, //是否为iPhone
+			iPad: u.indexOf('iPad') > -1, //是否iPad
+			webApp: u.indexOf('Safari/') == -1, //是否web应该程序，没有头部与底部
+			UC: u.indexOf('UC') > -1
+		};
+		}();
+		if(shell.android || shell.iPhone || shell.UC){return true;}else{return false;}
+	}
+	function JumpLink(){
+		var s=browser();
+		var strInd = document.referrer;//获取来源链接
+		var reInd =/\/\/(.+)\.caijing/; //来源匹配
+		var objInd =strInd.match(reInd); 
+       		if(s){
+                     // alert(strInd +"----"+strInd.indexOf("http://m.caijing.com.cn"));
+                      
+                      if(strInd.indexOf("http://m.caijing.com.cn")>=0){//来源手机版
+                          return;
+                      }else{
+                          window.location="http://m.caijing.com.cn/";
+                      }
+                }
+	}JumpLink();
+</script>
+<script type="text/javascript" src="http://tx1.cdn.caijing.com.cn/js/itools_2012.js?2"></script>
+<script type="text/javascript" src="http://file.caijing.com.cn/templates/caijing/js/jquery.js"></script>
+<script type="text/javascript" src="http://file.caijing.com.cn/js/config.js"></script>
+<script type="text/javascript" src="http://file.caijing.com.cn/templates/caijing/js/jquery.cookie.js"></script>
+</head>
+
+<body>
+
+	<!-- 顶通广告位 begin -->
+	<div class="top_ad" id="area_index_dtgg_2011" style="">
+    	<style>
+		.head_ad{padding:4px 0}
+		</style>
+		<!-- AFP两段式代码-公用代码 -->
+		<script type="text/javascript" src="http://static.csbew.com/k.js"></script>
+		<div id="area_index_N_Banner_homepage" align="center" class="head_ad" style="height:auto;">
+						<style>
+
+			.head_ad span{background:#000;}
+
+			</style> 
+<div style="width:980px;margin:0 auto;height:auto;">
+<!-- 78051：首页顶部通栏 类型：固定广告位 尺寸：980x90-->
+<script type="text/javascript">
+_acK({aid:78051,format:0,mode:1,gid:1,serverbaseurl:"afp.csbew.com/"});
+</script>
+<!-- 88437：首页顶通广告位扩展 real 类型： 尺寸：980x90-->
+<script type="text/javascript">
+_acK({aid:88437,format:0,mode:1,gid:1,serverbaseurl:"afp.csbew.com/"});
+</script>
+<!-- 113333：首页顶通浮层 类型：浮层广告位 尺寸：--->
+<script type="text/javascript">
+_acK({aid:113333,format:0,mode:1,gid:1,serverbaseurl:"afp.csbew.com/"});
+</script>
+<!-- 124037：首页顶通浮层-下 类型：浮层广告位 尺寸：--->
+<script type="text/javascript">
+_acK({aid:124037,format:0,mode:1,gid:1,serverbaseurl:"afp.csbew.com/"});
+</script>
+</div>
+
+		</div>
+	</div>
+	<!-- 顶通广告位 begin -->
+	<!-- 微信扫一扫 begin -->
+	<div class="WeiXin" id="ycfc"><div class="wx_post"><span class="wx_close" id="djgb"></span></div></div>
+    <!-- 微信扫一扫 end -->
+    
+    <div class="cjnew">
+    <div class="cjnewMain">
+    
+	<UNION_TAG_INDEX_HEADER_1>
+	<!-- 头部 begin -->
+		<style>
+	.headup_lt li .cj_phone {background:url(http://tx3.cdn.caijing.com.cn/2012-12-04/112333638.gif ) 0 0 no-repeat; height:14px; margin:3px 0 0 5px; padding-left:15px; }
+	</style> 
+
+	<div class="head" id="area_index_comm_top1_2011">	
+		<div class="header">
+			<div class="headup">
+				<ul class="headup_lt">
+					<li><a href="javascript:void(0);" target="_self" onclick="SetHome(this)" style="behavior:url(#default#homepage);">设为首页</a></li>
+					<li><a href="http://www.caijing.com.cn/2012/mobile_caijing/" class="cj_phone">手机版</a></li>
+					<li><a href="http://corp.caijing.com.cn/caijingapp/app.shtml">财经网App</a></li>
+					
+				</ul>
+				<div class="headup_rt">
+					<ul id="logout_status" class="login" style="display:none;">
+						<li class="login_in">
+							<a href="http://app.caijing.com.cn/?app=member&controller=index&action=login" target="_self" rel="nofollow">登录</a>
+						</li>
+						<li><a href="http://app.caijing.com.cn/?app=member&controller=index&action=register" target="_self">注册</a></li>
+					</ul>
+					<a id="head_logout" target="_self" href="http://app.caijing.com.cn/?app=member&controller=index&action=logout" style="float:right;display:none;" class="quit">退出</a>
+					<span id="head_name" style="color:#25a5ff;float:right;display:none;"> </span>
+					<script type="text/javascript">
+						$(function(){
+							if ($.cookie(COOKIE_PRE+'auth')) {
+								$('#head_logout').show();
+								$('#head_name').show();
+								var username = $.cookie(COOKIE_PRE+'username');
+								if(!username) username = $.cookie(COOKIE_PRE+'rememberusername');
+								username = '<a href="http://app.caijing.com.cn/?app=member&controller=panel&action=index" target="_blank">&#12288;'+username+'&nbsp;</a>';
+								$('#head_name').html(username);
+							} else {
+								$('#logout_status').show();
+							}
+						});
+					</script>		
+					<div class="search">
+						<form action="http://search.caijing.com.cn/search.jsp" method="post" name="searchfrm" id="searchfrm" onsubmit="return searchsubmit(this); " target="_blank" rel="external">
+<input class="search_text" name="key" type="text" value="请输入搜索关键词" onfocus="if (value =='请输入搜索关键词'){value =''}" onblur="if (value ==''){value='请输入搜索关键词'}"/><input class="search_go" type="submit" value="搜索" />
+<input name="item" value="3" type="hidden">
+<input name="range" value="0" type="hidden">
+</form>		
+					</div>
+					<script type="text/javascript">
+					$(function(){
+						$("#head_wd").bind('focus', function(){
+							if($(this).val() == '请输入关键字')
+							$(this).val('');
+						});
+
+						$("#head_wd").bind('blur', function(){
+							if($(this).val() == '')
+							$(this).val('请输入关键字');
+						});
+					});
+					</script>
+				</div>
+			</div>
+			            	<div class="nav">
+            		<div class="logo"><a href="http://www.caijing.com.cn" target="_blank"><img src="http://img2.caijing.com.cn/index/images/logo.gif" alt="财经网" /></a></div>
+				<style>
+					.logo{padding-right:10px;}
+					.naviga .naviga1{width:360px;padding-left:10px;}
+
+					.naviga .naviga3{width:140px; padding:10px 0; padding-left:20px;}
+					.naviga .naviga4{width:240px; padding:10px 0; padding-left:20px;}
+					.naviga li{padding:0 7px;}
+					.naviga .naviga3 li{width:70px;}
+					.naviga .naviga3 .naviga3_li{width:60px;}
+					.naviga .naviga4 li{width:70px;}
+					.naviga .naviga4 .naviga4_li{width:100px;}
+				</style>				
+				<div class="naviga">
+					<ul class="naviga1">
+						<li><a href="http://economy.caijing.com.cn/index.html" target="_blank">宏观</a></li>
+						<li><a href="http://stock.caijing.com.cn/index.html" target="_blank">证券</a></li>
+						<li><a href="http://finance.caijing.com.cn/index.html" target="_blank">金融</a></li>
+						<li><a href="http://industry.caijing.com.cn/index.html" target="_blank">产经</a></li>
+						<li><a href="http://auto.caijing.com.cn/" target="_blank">汽车</a></li>
+						<li><a href="http://tech.caijing.com.cn/index.shtml" target="_blank">科技</a></li>
+						<li><a href="http://comments.caijing.com.cn/" target="_blank">评论</a></li>
+                        <li><a href="http://yuanchuang.caijing.com.cn/" target="_blank">原创</a></li>
+						<li><a href="http://estate.caijing.com.cn/index.html" target="_blank">地产</a></li>
+						<li><a href="http://politics.caijing.com.cn/index.html" target="_blank">政经</a></li>						
+						<li><a href="http://overseas.caijing.com.cn/index.html" target="_blank">海外</a></li>
+						<li><a href="http://life.caijing.com.cn/index.html" target="_blank">生活</a></li>
+						<li><a href="http://photos.caijing.com.cn/" target="_blank">图片</a></li>
+                        <li><a href="http://column.caijing.com.cn/" target="_blank">专栏</a></li>
+						<li><a href="http://blog.caijing.com.cn/" target="_blank">博客</a></li>
+                        <li><a href="http://roll.caijing.com.cn/" target="_blank">滚动</a></li>
+						<!-- <li class="naviga3_li"><a title="维护中" style="color:#5a8aba;cursor:pointer;">视频</a></li> -->
+					</ul>
+					<ul class="naviga3">
+                        <li><a href="http://www.caijing.com.cn/high_end_interview/" target="_blank">高端财访</a></li>
+                        <li id="weisq_index"><a href="http://tod.caijing.com.cn/" target="_blank">未来城市</a></li>
+                        <li><a href="http://finance.caijing.com.cn/tools/house_early_repayment.html" target="_blank">金融工具</a></li>
+						<li><a href="http://english.caijing.com.cn/" target="_blank">English</a></li>
+					</ul>
+					<ul class="naviga4">
+						<li><a href="http://magazine.caijing.com.cn/" target="_blank">财经杂志</a></li>
+						<li><a href="http://conference.caijing.com.cn/" target="_blank">财经会议</a></li>
+						<li class="naviga4_li"><a href="http://rvfchina.caijing.com.cn/" target="_blank">《葡萄酒评论》</a></li>
+						<li><a href="http://www.caijing.com.cn/subscription/" target="_blank">财经商城</a></li>
+						<li><a href="http://mobile.caijing.com.cn/" target="_blank">财经新媒体</a></li>
+						<li class="naviga4_li"><a href="http://www.hbrchina.org/" target="_blank">《哈佛商业评论》</a></li>
+					</ul>		
+				</div>
+			</div>
+		</div>	
+	</div>
+	<div style="display:none;"><a href="http://www.caijing.com.cn/hangye/">东方财经 </a></div>
+	<!-- 头部 end -->
+	</UNION_TAG_INDEX_HEADER_1>
+
+	<!-- 中部内容 begin -->
+	<div class="center">
+		<div class="content">
+			<style>
+.float_nav{width:48px; height:324px; background:url(http://tx1.cdn.caijing.com.cn/2014-02-11/113900795.jpg) 0 0 no-repeat; position:fixed; margin-left:-48px; top:160px;_position: absolute;_top: expression(documentElement.scrollTop+160 + "px");display:none;}
+.floats_nav{width:48px; height:324px; position:relative; z-index:999;}
+.floats_nav a{position:absolute; left:10px; display:block; font-size:12px; color:#FFF;}
+.fl_nav1{top:10px;}
+.fl_nav2{top:37px;}
+.fl_nav3{top:63px;}
+.fl_nav4{top:89px;}
+.fl_nav5{top:116px;}
+.fl_nav6{top:142px;}
+.fl_nav7{top:168px;}
+.fl_nav8{top:196px;}
+.fl_nav9{top:223px;}
+.fl_nav10{top:250px;}
+.fl_nav11{top:276px;}
+.fl_nav12{top:303px;}
+.floats_nav .fl_nav2{color:#000000;}
+
+
+</style>
+
+
+<!-- 浮动导航 begin -->
+<div class="float_nav" id="float_nav">
+    <div class="floats_nav">
+        <a class="fl_nav1" href="http://economy.caijing.com.cn/" target="_self">宏 观</a>
+        <a class="fl_nav2" href="http://auto.caijing.com.cn/" target="_self">汽 车</a>         
+        <a class="fl_nav3" href="http://stock.caijing.com.cn/" target="_self">证 券</a> 
+        <a class="fl_nav4" href="http://finance.caijing.com.cn/" target="_self">金 融</a>
+        <a class="fl_nav5" href="http://industry.caijing.com.cn/" target="_self">产 经</a>
+        <a class="fl_nav6" href="http://tech.caijing.com.cn/" target="_self">科 技</a>
+        <a class="fl_nav7" href="http://estate.caijing.com.cn/" target="_self">地 产</a>
+        <a class="fl_nav8" href="http://politics.caijing.com.cn/" target="_self">政 经</a>
+        <a class="fl_nav9" href="http://comments.caijing.com.cn/" target="_self">评 论</a> 
+        <a class="fl_nav10" href="http://column.caijing.com.cn/" target="_self">专 栏</a>
+        <a class="fl_nav11" href="http://blog.caijing.com.cn/" target="_self">博 客</a>
+        <a class="fl_nav12" href="http://life.caijing.com.cn/" target="_self">生 活</a>
+    </div>
+</div>
+<!-- 浮动导航 end -->
+
+
+<script type="text/javascript">var lastScrollY=0;
+var percent;
+function heartBeat(){
+lastScrollY =document.documentElement.scrollTop || document.body.scrollTop;
+if(lastScrollY<800)
+{
+document.getElementById("float_nav").style.display="none";
+}
+else
+{
+document.getElementById("float_nav").style.display="block";
+}
+}
+window.setInterval("heartBeat()",1);
+</script>
+			<UNION_TAG_INDEX_HEADER_2>
+			
+			<style>
+.cont_top {
+	padding:15px 5px;
+}
+.cont_top ul li {
+	background:none;
+	padding-left:0;
+}
+.cont_topad {
+	padding:0 5px;
+	width:728px;
+	height:90px;
+}
+.cont_top ul {
+	width:111px;
+	padding-top:5px;
+	height:80px;
+	overflow:hidden;
+}
+.cont_top ul li {
+	width:111px;
+}
+</style>
+<div class=cont_top id=area_index_comm_top2_2011>
+  <ul>
+    <li><!-- 52950387：首页焦点区文字链-左1 类型：固定 尺寸：150x20-->
+<script type="text/javascript">
+_acM({aid:"mm_113716037_12970143_52950387",format:1,mode:1,gid:1,serverbaseurl:"afpeng.alimama.com/"});
+</script></li>
+    <li><!-- 52950388：首页焦点区文字链-左2 类型：固定 尺寸：150x20-->
+<script type="text/javascript">
+_acM({aid:"mm_113716037_12970143_52950388",format:1,mode:1,gid:1,serverbaseurl:"afpeng.alimama.com/"});
+</script></li> 
+    <li><!-- 52950389：首页焦点区文字链-左3 类型：固定 尺寸：150x20-->
+<script type="text/javascript">
+_acM({aid:"mm_113716037_12970143_52950389",format:1,mode:1,gid:1,serverbaseurl:"afpeng.alimama.com/"});
+</script></li> 
+    <li><!-- 52950390：首页焦点区文字链-左4 类型：固定 尺寸：150x20-->
+<script type="text/javascript">
+_acM({aid:"mm_113716037_12970143_52950390",format:1,mode:1,gid:1,serverbaseurl:"afpeng.alimama.com/"});
+</script></li>
+  </ul>
+  <div class=cont_topad id=area_index_N_Focus_Banner_homepage style="padding:0;margin:0 5px;">
+    <!-- 92433：新首页焦点区半通栏 类型：固定广告位 尺寸：728x90-->
+    <script type="text/javascript">
+_acK({aid:92433,format:0,mode:1,gid:1,serverbaseurl:"afp.csbew.com/"});
+</script>
+  </div>
+  <ul>
+    <li><!-- 52950306：首页焦点区文字链右1 类型：固定 尺寸：150x20-->
+<script type="text/javascript">
+_acM({aid:"mm_113716037_12970143_52950306",format:1,mode:1,gid:1,serverbaseurl:"afpeng.alimama.com/"});
+</script></li>
+    <li><!-- 52950265：首页焦点区文字链右2 类型：固定 尺寸：150x20-->
+<script type="text/javascript">
+_acM({aid:"mm_113716037_12970143_52950265",format:1,mode:1,gid:1,serverbaseurl:"afpeng.alimama.com/"});
+</script></li>
+    <li><!-- 52950307：首页焦点区文字链右3 类型：固定 尺寸：150x20-->
+<script type="text/javascript">
+_acM({aid:"mm_113716037_12970143_52950307",format:1,mode:1,gid:1,serverbaseurl:"afpeng.alimama.com/"});
+</script>
+</li>
+    <li><!-- 52950308：首页焦点区文字链右4 类型：固定 尺寸：150x20-->
+<script type="text/javascript">
+_acM({aid:"mm_113716037_12970143_52950308",format:1,mode:1,gid:1,serverbaseurl:"afpeng.alimama.com/"});
+</script></li>
+  </ul>
+  <div class=clear> </div>
+</div>
+			
+			</UNION_TAG_INDEX_HEADER_2>
+			<!-- 新闻&热门搜索 begin -->
+            
+
+			<div class="news">
+
+				<div id = "area_index_gdxw_2011">
+				<div class="news_lt">
+    <strong><a href="http://roll.caijing.com.cn/index1.html">资讯：</a></strong>
+    <div class="news_marq" id="news_marq">
+        <div class="marquee">
+            <ul class="marq_ul" id="scllo_begin">
+            	                <li><a href="http://overseas.caijing.com.cn/20170509/4269704.shtml" target="_blank">印度警察没收的90万升酒失踪 报告称被老鼠喝光</a></li>
+                                <li><a href="http://politics.caijing.com.cn/20170509/4269703.shtml" target="_blank">教育部部长：培养又红又专的中国特色社会主义接班人</a></li>
+                                <li><a href="http://politics.caijing.com.cn/20170509/4269702.shtml" target="_blank">外交部:朝鲜将派出官方代表团出席一带一路论坛</a></li>
+                                <li><a href="http://overseas.caijing.com.cn/20170509/4269701.shtml" target="_blank">韩大选出口民调：文在寅得票率超41% 有望胜选</a></li>
+                                <li><a href="http://overseas.caijing.com.cn/20170509/4269700.shtml" target="_blank">韩大选出口民调：文在寅得票率超41% 有望胜选</a></li>
+                                <li><a href="http://politics.caijing.com.cn/20170509/4269699.shtml" target="_blank">外交部证实朝鲜将派代表团出席“一带一路”论坛</a></li>
+                                <li><a href="http://politics.caijing.com.cn/20170509/4269698.shtml" target="_blank">外交部回应台湾缺席世卫大会：搞挟洋自重没有出路</a></li>
+                                <li><a href="http://finance.caijing.com.cn/20170509/4269697.shtml" target="_blank">阳光融和医院：开诊一周年“融和模式”备受关注</a></li>
+                                <li><a href="http://politics.caijing.com.cn/20170509/4269696.shtml" target="_blank">国防部：火箭军近日在渤海某海域进行新型导弹作战检验</a></li>
+                                <li><a href="http://finance.caijing.com.cn/20170509/4269695.shtml" target="_blank">新华社：引导金融活水更好地浇灌实体经济</a></li>
+                            </ul>
+            <ul class="marq_ul" id="scllo_end">&nbsp;</ul>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    (function(){
+        var speed = 80;
+        var tab = document.getElementById("news_marq");
+        var tab1 = document.getElementById("scllo_begin");
+        var tab2 = document.getElementById("scllo_end");
+        tab2.innerHTML = tab1.innerHTML;
+        function Marquee(){
+            if(tab2.offsetWidth-tab.scrollLeft<=0)
+                tab.scrollLeft-=tab2.offsetWidth
+            else{
+                tab.scrollLeft++;
+            }
+        }
+        var gundong=setInterval(Marquee,speed);
+        tab.onmouseover=function(){  clearInterval(gundong)};
+        tab.onmouseout=function(){gundong=setInterval(Marquee,speed)};
+    })();
+</script>
+				</div>
+				<div class="news_rt" id="area_index_rmss_2011">
+					<div class="ggcx">
+						<strong>个股查询：</strong>
+						<div class="search_in search_in2" id="search_ingp" style="width:220px;">
+							<form action="" method="get" onsubmit="return changehqcode();"><ul class="autocomplete3" style="DISPLAY: none"><li class="selected"></li></ul><input autocomplete="off" value="请输入股票代码/首字母" name="hqstock" onclick="javascript:if(document.getElementById(&quot;hqstock&quot;).value==&quot;请输入股票代码/首字母&quot;){    document.getElementById(&quot;hqstock&quot;).value=&quot;&quot;; }" class="input_seachin"  style="width:165px;color:#979797;"id="hqstock"><input type="submit" value="查 询" class="menu_seachin"> </form>
+						</div>
+						<div class="clear"></div>
+					</div>
+				</div>
+				<div class="clear">&nbsp;</div>			
+			</div>
+			<!-- 新闻&热门搜索 end -->
+			<div class="firstview">
+				<!-- 今日头条 begin -->
+				<style type="text/css"><!--
+.STYLE1 {
+color: #FF0000;
+font-weight: bold;
+}
+--></style>
+<div id="area_index_jrtt_2011" class="fir_jrtt">
+<h3 class="fir_h3 sqrd_h3"><span>头条</span> <a href="http://www.caijing.com.cn/chengzhenhuagclt2015/index.shtml" target="_blank">更多&gt;&gt;</a></h3>
+<div class="jrtt_w">
+
+
+<h4><a href="http://finance.caijing.com.cn/20170508/4268764.shtml" target=_blank>一线城市全面收紧房贷“四限”扩容</a></h4>
+   <p>四大一线城市已全部上调房贷利率，提高购房的资金成本以达到去杠杆、调控楼市的目的。有业内人士认为，随着调控的层层深入，未来进入“四限”（限购、限贷、限价、限售）的城市还将持续扩容。</p></div>
+<ul class="jrtt_list">
+<li><a href="http://estate.caijing.com.cn/20170509/4269309.shtml" target="_blank">[南京首套房贷款收紧 多家银行取消9折优惠]</a></li>
+
+<li><a href="http://estate.caijing.com.cn/20170509/4269311.shtml" target="_blank">[济南楼市调控重磅消息：二手房交易酝酿全面资金监管]</a></li>
+
+<li><a href="http://estate.caijing.com.cn/20170509/4269308.shtml" target="_blank">[京新房网签量四连阴]</a><a href="http://estate.caijing.com.cn/20170509/4269310.shtml" target="_blank">[“多校划片”:北京城的一道房价杀手锏]</a></li>
+
+<li><a href="http://estate.caijing.com.cn/20170508/4268762.shtml" target="_blank">[银行紧缩首套房贷背后：融资成本上升 利率打折要亏损]</a></li>
+
+<li><a href="http://estate.caijing.com.cn/20170509/4269257.shtml" target="_blank">[136家房企负债直逼5万亿元 平均每家负债362亿元]</a></li>
+
+
+
+</ul>
+</div>
+				<!-- 今日头条 end -->
+				<!-- 焦点图片 begin -->
+				<div class="fir_jdtp" id="area_index_jdtp_2011">
+    <h3 class="fir_h3 sqrd_h3"><span><a href="http://photos.caijing.com.cn/" target="_blank">焦点图片</a></span><a href="http://photos.caijing.com.cn/" target="_blank">更多&gt;&gt;</a></h3>
+    <div class="index_jdtp">
+        <div id="index_jdtp">
+            <!-- 焦点图内容 begin-->
+            <script language="javascript">
+                //播放图片地址
+                var pics='http://tx2.cdn.caijing.com.cn/2017/0509/1494317764512.jpg|http://tx3.cdn.caijing.com.cn/2017/0509/1494289283806.jpg|http://img5.caijing.com.cn/2017/0509/1494290543529.jpg|http://img2.caijing.com.cn/2017/0509/1494300140900.jpg|http://tx3.cdn.caijing.com.cn/2017/0509/1494296639993.jpg';
+                var mylinks='http://photos.caijing.com.cn/20170509/4269584.shtml|http://photos.caijing.com.cn/20170509/4269255.shtml|http://photos.caijing.com.cn/20170509/4269270.shtml|http://photos.caijing.com.cn/20170509/4269408.shtml|http://photos.caijing.com.cn/20170509/4269347.shtml'
+                //图片对应描
+                var texts='“一带一路”国际合作重大工程项目盘点|重庆现最隐秘轨道站 称不具备开通条件|湖北襄阳废旧采石坑变巨型孟浩然、伏羲石雕|韩总统选举投票开始 候选人及前政要现身|东南大学拍别样毕业照 再现《人民的名义》';
+                var ivWidth=270;//自定义宽
+                var ivHeight=218;//自定义高
+                var _str='http://img1.caijing.com.cn/js/2010/imageView.swf';//flash文件地址
+                _str+="?Time="+"5000";//图片自动切换时间：毫秒
+                _str+="&Titles="+encodeURI(texts);//标题内容
+                _str+="&Mode="+"6";//窗口模式：6－淡入淡出，播放按钮；7－随机
+                _str+="&ImgUrls="+pics;//图片地址
+                _str+="&LinkUrls="+escape(mylinks);//链接地址
+                _str+="&TitlesColor="+"0x2c4484";//标题文字颜色
+                _str+="&TitlesLinkColor="+"0x2c4484";//文字链接颜色（鼠标划入标题时）
+                _str+="&TitlesBgColor="+"0xffffff";//标题衬底颜色
+                _str+="&TitlesBgAlpha="+"0.3";//标题衬底透明度
+                _str+="&TBHeight="+"21";//标题衬底高度
+                _str+="&Font="+"宋体";//标题文字字体
+                _str+="&Size="+"12";//标题文字大小
+                _str+="&Weight="+"bold";//标题文字粗细
+                _str+="&Align="+"left";
+                var f = new hxFoucs('index_jdtp',pics,mylinks,texts,_str,ivWidth,ivHeight);
+                f.init("sjdt_botbg","sjdt_num","sjdt_num_show","sjdt_tit");
+                f.create();
+            </script>
+            <!--焦点图内容 end-->
+        </div>
+    </div>
+</div><!-- 焦点图片 end -->
+				<!-- 社区热点 begin -->
+				<div class="fir_sqrd" id="area_index_sqrd_2011">
+    <style>
+    .sqrd_h3 span a{float:none;font-weight:bold;font-size:14px;padding:0;color:#5A5A5A;}
+    .sqrd_h3 span a:hover{color:#01a2fd;}
+    </style>
+    <h3 class="fir_h3 sqrd_h3"><span><a href="http://blog.caijing.com.cn/" target="_blank">名家说</a></span><a href="http://blog.caijing.com.cn/" target="_blank">更多&gt;&gt;</a></h3>
+        <div class=sprd_tit><span>【话题】</span><a href="http://yuanchuang.caijing.com.cn/2017/0508/4269216.shtml" target="_blank">“鹦鹉案”是又一起“冤案”？</a></div>
+    <div class=sprd_zw>
+        <p style="COLOR: rgb(90,90,90)">买卖鹦鹉的定罪量刑问题引发法律界人士和科学界人士的讨论。</p>
+        <a class=sprd_cjbl href="http://yuanchuang.caijing.com.cn/2017/0508/4269216.shtml" target="_blank">回复本条</a> 
+        <div class=clear> </div>
+    </div>
+    <div class=sprd_bg>
+                <div class=sprd_pl>
+            <a class=sprd_img href="http://yuanchuang.caijing.com.cn/2017/0417/4260967.shtml" target="_blank"><img height=100 src="http://img2.caijing.com.cn/2017/0418/1492482154378.jpg"border=0></a> 
+            <p><span><a href="http://yuanchuang.caijing.com.cn/2017/0417/4260967.shtml" target="_blank">[影视水军：200万能刷百亿流量]</a></span>豆瓣评论打分一次15元，想看一次5元；猫眼评论打分5元一次，3元一次想看。<a class=sprd_more href="http://yuanchuang.caijing.com.cn/2017/0417/4260967.shtml" target="_blank">回复本条</a></p>
+            <div class=clear>&nbsp;</div>
+        </div>
+                <div class=sprd_pl>
+            <a class=sprd_img href="http://yuanchuang.caijing.com.cn/2017/0415/4260433.shtml" target="_blank"><img height=100 src="http://img6.caijing.com.cn/2017/0417/1492402552464.jpg"border=0></a> 
+            <p><span><a href="http://yuanchuang.caijing.com.cn/2017/0415/4260433.shtml" target="_blank">[中国病人海外求生记]</a></span>这群人的共同特征是：强烈的求生欲望，对更好医疗的追求，以及富裕家境。<a class=sprd_more href="http://yuanchuang.caijing.com.cn/2017/0415/4260433.shtml" target="_blank">回复本条</a></p>
+            <div class=clear>&nbsp;</div>
+        </div>
+            </div>
+</div>
+				<!-- 社区热点 end -->
+				<div class="clear">&nbsp;</div>
+			</div>
+			<div class="main">
+				<!-- 主体左侧 begin -->
+				<div class="main_lt">
+					<!-- 左侧第一广告位 begin -->
+					<div id="area_index_cjzcgg1_2011">
+						<div class="lt_ad1" id="area_index_N_Mid_Page_Banner_1_homepage" style="height:90px;overflow:hidden;">
+							<span id="N_Mid_Page_Banner_1_homepage"></span>
+						</div>
+					</div>         
+					<!-- 左侧第一广告位 end -->
+					<!-- 左侧第一屏 begin -->
+					<div class="mainlt_top" style="margin-top:15px;">
+						<!-- 要闻 begin -->
+						<!-- 要闻 begin -->
+<div class="yaowen"  id="area_index_cjyw_2011">
+    <div class="public_h3 public_h3bg index_xingu">
+    <h3><a href="http://www.caijing.com.cn//dailynews">要闻&gt;</a></h3><a href="http://www.caijing.com.cn//dailynews" target="_blank">更多&gt;&gt;</a> <a class=index_xglink href="http://finance.caijing.com.cn/index.html" target="_blank">金融频道全新上线</a> 
+    <div class=clear></div></div>
+    <ul class="yaowen_ul yaowen_ulli">
+                    <li>
+                            <a href="http://estate.caijing.com.cn/20170509/4269401.shtml" target="_blank">中介行业初现门店关闭潮：链家明确已关闭87家门店</a>
+                        </li>
+                    <li>
+                            <a href="http://estate.caijing.com.cn/20170509/4269276.shtml" target="_blank">房地产市场长效机制正在制定 专家：建立需5到10年</a>
+                        </li>
+                    <li>
+                            <a href="http://stock.caijing.com.cn/20170509/4269275.shtml" target="_blank">资金面回暖持续性存疑 货币暂时不具放松可能性</a>
+                        </li>
+                    <li>
+                            <a href="http://economy.caijing.com.cn/20170509/4269484.shtml" target="_blank">47家央企参与1676个一带一路项目 大型央企担主力</a>
+                        </li>
+                    <li>
+                            <a href="http://economy.caijing.com.cn/20170509/4269295.shtml" target="_blank">贾康:中国正面中等收入陷阱考验 需要争取制度红利</a>
+                        </li>
+                    <li>
+                            <a href="http://economy.caijing.com.cn/20170509/4269279.shtml" target="_blank">河北书记：雄安不搞土地财政 严禁大规模房地产开发</a>
+                        </li>
+                    <li>
+                            <a href="http://stock.caijing.com.cn/20170509/4269280.shtml" target="_blank">辉山乳业不排除退市可能</a>
+                            <a href="http://stock.caijing.com.cn/20170509/4269302.shtml" target="_blank">走向何处 </a>
+                            <a href="http://stock.caijing.com.cn/20170509/4269304.shtml" target="_blank">走汉能老路？ </a>
+                        </li>
+                    <li>
+                            <a href="http://finance.caijing.com.cn/20170509/4269299.shtml" target="_blank">国防B成新规后第一只下折的分级B 还有12只高危 </a>
+                        </li>
+                    <li>
+                            <a href="http://finance.caijing.com.cn/20170509/4269284.shtml" target="_blank">交行拨备覆盖率逼近红线 不良贷款为五大行中最宽松</a>
+                        </li>
+                    <li>
+                            <a href="http://industry.caijing.com.cn/20170509/4269246.shtml" target="_blank">中储粮回应万吨小麦变质:已卖企业 但企业拒不出库</a>
+                        </li>
+                    <li>
+                            <a href="http://industry.caijing.com.cn/20170509/4269300.shtml  " target="_blank">俄罗斯封杀网购中国小米手机 进口关税较高水货多 </a>
+                        </li>
+                    <li>
+                            <a href=" http://industry.caijing.com.cn/20170509/4269293.shtml  " target="_blank">成品油有望刷新年内最大跌幅 预计每吨下调超200元</a>
+                        </li>
+            </ul>
+</div>
+<!-- 要闻 end -->
+						<!-- 要闻 end -->
+						<!-- 评论 begin -->
+						<div class="pinglun" id="area_index_cjpl_2011">
+							<div class=public_h3>
+								<h3><a href="http://comments.caijing.com.cn/">评论</a></h3></a><a href="http://comments.caijing.com.cn/">更多&gt;&gt;</a> <a href="javascript:void(0)" name=pl>
+								<div class=clear></div></a>
+							</div>
+							<div class=pingl_cont>
+    <h4><span><a href="http://comments.caijing.com.cn/" target="_blank">【热评】</a></span>
+        <a href="http://yuanchuang.caijing.com.cn/2017/0508/4268972.shtml" target="_blank">包头网约车困局从何而来？</a>
+    </h4>
+    <dl>
+        <dt><a href="http://yuanchuang.caijing.com.cn/2017/0508/4268972.shtml" target="_blank"><img src="http://img5.caijing.com.cn/2017/0508/thumb_54_54_1494229999173.jpg"></a></dt>
+        <dd>在现有的法律框架性下，消费者和网约车从业者并没有权利要求当地政府履行行政职责。</dd>
+    </dl>
+        <p class=zl_plink><a href="http://comments.caijing.com.cn/20170509/4269288.shtml" target="_blank">皮海洲：次新股业绩变脸，IPO提速之过？</a></p>
+        <p class=zl_plink><a href="http://comments.caijing.com.cn/20170509/4269277.shtml" target="_blank">任孟山：招生“查三代”更该反思教育资源短缺</a></p>
+    </div>
+							<div class=pingl_cont>
+    <h4><span><a href="http://comments.caijing.com.cn/" target="_blank">【观点】</a></span>
+        <a href="http://comments.caijing.com.cn/20170509/4269278.shtml" target="_blank">马克龙背后站着不团结的法国</a>
+    </h4>
+    <dl>
+        <dt><a href="http://comments.caijing.com.cn/20170509/4269278.shtml" target="_blank"><img src="http://img1.caijing.com.cn/2017/0509/thumb_54_54_1494292371635.jpg"></a></dt>
+        <dd>也许并不是马克龙有多么受欢迎，而是法国选民对传统主流政党和政客们已经厌倦了。</dd>
+    </dl>
+        <p class=zl_plink><a href="http://comments.caijing.com.cn/20170509/4269289.shtml" target="_blank">李曙光：《民法总则》对破产法修改有推动作用</a></p>
+        <p class=zl_plink><a href="http://comments.caijing.com.cn/20170509/4269286.shtml" target="_blank">远山： 拿到牌照的易到前路并不“易行”</a></p>
+    </div>
+							<div class="pingl_per"><a style="COLOR: rgb(254,89,33)" href="http://www.caijing.com.cn/column/" target="_blank">【<strong>观察家</strong>】</a>|
+			<a style="color:;" href="http://space.caijing.com.cn/pengwensheng" target="_blank">彭文生</a>
+				<a style="color:;" href="http://space.caijing.com.cn/shenjianguang/" target="_blank">沈建光</a>
+				<a style="color:;" href="http://space.caijing.com.cn/xugao" target="_blank">徐高</a>
+				<a style="color:;" href="http://space.caijing.com.cn/wangtao" target="_blank">汪涛</a>
+				<a style="color:;" href="http://space.caijing.com.cn/honghao" target="_blank">洪灏</a>
+				<a style="color:;" href="http://space.caijing.com.cn/liuligang" target="_blank">刘利刚</a>
+				<a style="color:;" href="http://space.caijing.com.cn/zhangtao" target="_blank">张弢</a>
+				<a style="color:;" href="http://space.caijing.com.cn/zhaoyang" target="_blank">赵扬</a>
+				<a style="color:;" href="http://space.caijing.com.cn/shenjianguang/" target="_blank">更多&gt;&gt;</a>
+		</div>
+						</div>
+						<!-- 评论 end -->
+						<div class="clear">&nbsp;</div>
+					</div>
+					<!-- 左侧第一屏 end -->
+					<!-- 左侧第二广告位 begin -->
+					<div id="area_index_cjzcgg2_2011">
+						<div class="lt_ad1" id="area_index_N_Mid_Page_Banner_2_homepage">
+							<span id="N_Mid_Page_Banner_2_homepage"></span>
+						</div>
+					</div>
+					<!-- 左侧第二广告位 end -->
+					<!-- 左侧第二屏 begin -->
+					<div class="mainlt_second">
+						<!-- 宏观&证券 begin -->
+						<div class="yaowen hongg">
+							<div id="area_index_cjzchg_2011">
+    <div class="public_h3 public_h3bg">
+    	<h3><a href="http://economy.caijing.com.cn/index.html" target="_blank">宏观&gt;</a></h3><a href="http://economy.caijing.com.cn/index.html" target="_blank">更多&gt;&gt;</a> <a href="javascript:void(0)" name="hg"></a><div class="clear"></div>
+    </div>
+    <ul class="yaowen_ul">
+                  <li class="yaowen_first">            <a href="http://economy.caijing.com.cn/20170509/4269480.shtml" target="_blank">IMF预计中国今年经济增长6.6% 明年将增长6.2%</a>
+                      </li>
+                  <li >            <a href="http://economy.caijing.com.cn/20170509/4269295.shtml" target="_blank">贾康：中国正面中等收入陷阱考验 需争取制度红利</a>
+                      </li>
+                  <li >            <a href="http://economy.caijing.com.cn/20170509/4269494.shtml" target="_blank">商务部前副部长魏建国：今年可能会出现贸易逆差</a>
+                      </li>
+                  <li >            <a href="http://economy.caijing.com.cn/20170509/4269556.shtml" target="_blank">央行为何频繁断流流动性：财政为流动性提供了动力</a>
+                      </li>
+                  <li >            <a href="http://economy.caijing.com.cn/20170509/4269559.shtml" target="_blank">赵克志人民日报刊文谈雄安建设：要系好第一颗扣子</a>
+                      </li>
+                  <li >            <a href="http://economy.caijing.com.cn/20170508/4268749.shtml" target="_blank">任泽平：去杠杆缩表流动性退潮 需求收缩供给出清</a>
+                      </li>
+                  <li >            <a href="http://economy.caijing.com.cn/20170508/4268754.shtml" target="_blank">经参头版评论:特朗普税改或成全球债务危机爆发推手</a>
+                      </li>
+                  <li >            <a href="http://economy.caijing.com.cn/20170508/4268782.shtml" target="_blank">巴菲特谈中国投资机会：看好中国经济 警惕投机风险</a>
+                      </li>
+                  <li >            <a href="http://economy.caijing.com.cn/20170509/4269484.shtml" target="_blank">47家央企参与1676个一带一路项目 大型央企担当主力</a>
+                      </li>
+            </ul>
+</div>
+							<div id="area_index_cjzcjr_2011">
+    <div class="public_h3 public_h3bg">
+    <h3><a href="http://stock.caijing.com.cn/index.html" target="_blank">证券&gt;</a></h3><a href="http://stock.caijing.com.cn/index.html" target="_blank">更多&gt;&gt;</a> <a href="javascript:void(0)" name="zq">丨 <strong></strong></a><strong><a href="http://stock.caijing.com.cn/newstock/" target="_blank">新股频道</a></strong> 
+    <div class="clear"></div></div>
+    <ul class="yaowen_ul">
+  <li class="yaowen_first">    <a href="http://stock.caijing.com.cn/20170509/4269272.shtml" target="_blank">MSCI：没计划修改MSCI中国A股国际指数编制方法</a>
+      </li>
+  <li >    <a href="http://stock.caijing.com.cn/20170509/4269274.shtml" target="_blank">超8%次新股亏损业绩波动引争议 IPO严审趋势未变</a>
+      </li>
+  <li >    <a href="http://stock.caijing.com.cn/20170509/4269281.shtml" target="_blank">因发行人出现媒体质疑事项</a>
+        <a href="http://stock.caijing.com.cn/20170509/4269282.shtml" target="_blank">今创集团暂缓IPO发行</a>
+      </li>
+  <li >    <a href="http://stock.caijing.com.cn/20170509/4269280.shtml" target="_blank">辉山乳业不排除退市可能</a>
+        <a href="http://stock.caijing.com.cn/20170509/4269302.shtml" target="_blank">走向何处 </a>
+        <a href="http://stock.caijing.com.cn/20170509/4269304.shtml" target="_blank">走汉能老路？ </a>
+      </li>
+  <li >    <a href="http://stock.caijing.com.cn/20170509/4269287.shtml" target="_blank">资本加磅三只松鼠IPO 毛利率只及同业6成谁掉眼镜</a>
+      </li>
+  <li >    <a href="http://stock.caijing.com.cn/20170509/4269374.shtml" target="_blank">受让标的涉1.4亿仲裁案 猛狮科技公告“只字未提” </a>
+      </li>
+  <li >    <a href="http://stock.caijing.com.cn/20170509/4269373.shtml" target="_blank">庞大集团5年5曝涉嫌违法违规 信披迟到因重视不够？ </a>
+      </li>
+  <li >    <a href="http://stock.caijing.com.cn/20170509/4269370.shtml" target="_blank">周大生逼近跌停 次新股开板走弱成常态</a>
+      </li>
+  <li >    <a href="http://stock.caijing.com.cn/20170509/4269368.shtml" target="_blank">京东方AB股齐跌 深股通大手笔出货</a>
+      </li>
+    </ul>
+</div>
+						</div>
+						<!-- 宏观&证券 end -->
+						<div class="lt_second">
+							<!-- 专栏 begin -->
+							<div class="pinglun zhuanlan" id="area_index_cjzczl_2011">
+								<div class=public_h3>
+								<h3><a href="http://column.caijing.com.cn/index.html">专栏</a></h3><a href="http://column.caijing.com.cn/">更多&gt;&gt;</a> <a href="javascript:void(0)" name=zl>
+								<div class=clear></div></a></div>
+								   <div class=pingl_cont>
+		<h4><span><a href="http://column.caijing.com.cn/caijingeleven/" target="_blank">【财经十一人】</a></span>
+		<a href="http://column.caijing.com.cn/20161216/4212804.shtml" target="_blank">创意流程用于企业的六种方式</a></h4>
+		<dl>
+			<dt><a href="http://column.caijing.com.cn/20161216/4212804.shtml" target="_blank"><img src="http://tx2.cdn.caijing.com.cn/2016/1216/1481860391861.jpg"></a></dt>
+			<dd>人们大多认为艺术追求仅存在于艺术界，但事实上舞者与管理者有着诸多共同之处</dd>
+		</dl>
+	</div>
+
+								<div class=pingl_cont>
+		<h4><span><a href="http://column.caijing.com.cn/chicago_booth_review/" target="_blank">【布斯评论】</a></span>
+		<a href="http://column.caijing.com.cn/20170330/4254457.shtml" target="_blank">股东不监管，管理层就可能犯错</a>
+		</h4>
+		<dl>
+		<dt><a href="http://column.caijing.com.cn/20170330/4254457.shtml" target="_blank"><img src="http://tx2.cdn.caijing.com.cn/2017/0330/thumb_54_54_1490861404553.jpg"></a></dt>
+		<dd>当股东注意力转移，企业的管理层往往会推行更多的并购交易</dd></dl>
+			<p class=zl_plink><a href="http://column.caijing.com.cn/caojie/" target="_blank">【东西七日谈 】</a></span><a href="http://column.caijing.com.cn/20170329/4253654.shtml" target="_blank">脱欧带给在英华人的问题</a></p>
+			<p class=zl_plink><a href="http://column.caijing.com.cn/aihe/" target="_blank">【艾禾爱书】</a><a href="http://column.caijing.com.cn/20170105/4220741.shtml" target="_blank">我们如何记录我们自己？</a></p>
+	</div>								
+							</div>
+							<div class="clear"></div>
+							<!-- 专栏 end -->
+							<!-- 全球经济学家 begin -->
+							<div class="fir_jjxj" id="area_index_cjzcjjxj_2011">
+								<div class="public_h3 qqjjxj_h3">
+									<h3><a href="http://comments.caijing.com.cn/economist.shtml">全球经济学家</a></h3><a href="http://comments.caijing.com.cn/economist.shtml">更多&gt;&gt;</a> 
+									<div class=clear>&nbsp;</div>
+								</div>
+								<div class=index_jjxj>
+													<div id="index_jjxj" class="jjxj_cct">
+										<!-- 焦点图内容 begin-->
+										<script language="javascript" src="http://tx1.cdn.caijing.com.cn/zhuanti/js/cjFoucs_2.js"></script>
+										<script language="javascript">
+											//播放图片地址
+											var pics='http://tx1.cdn.caijing.com.cn/2012-03-15/111749393.jpg|http://tx1.cdn.caijing.com.cn/2011-09-20/110866275.jpg|http://tx1.cdn.caijing.com.cn/2012-03-15/111749393.jpg|http://tx1.cdn.caijing.com.cn/2011-08-26/110828496.jpg|http://tx1.cdn.caijing.com.cn/2011-08-26/110828496.jpg';
+											var mylinks='http://comments.caijing.com.cn/20151216/4033570.shtml|http://comments.caijing.com.cn/20151216/4033535.shtml|http://comments.caijing.com.cn/20151216/4033530.shtml|http://comments.caijing.com.cn/20151202/4023872.shtml|http://comments.caijing.com.cn/20151202/4023727.shtml'
+											//图片对应描
+											var texts='爱德华·荣格：药物研发巨型基金|丹尼尔·格罗斯：申根和欧洲安全|埃里克·拜因霍克：零净排放势在必行|彭定康：正确地打击恐怖主义|阿尔弗雷德·哈尼格：银行家的革命';
+											var ivWidth=270;//自定义宽
+											var ivHeight=185;//自定义高
+											var _str='http://img1.caijing.com.cn/js/2010/imageView.swf';//flash文件地址
+											_str+="?Time="+"5000";//图片自动切换时间：毫秒
+											_str+="&Titles="+encodeURI(texts);//标题内容
+											_str+="&Mode="+"6";//窗口模式：6－淡入淡出，播放按钮；7－随机
+											_str+="&ImgUrls="+pics;//图片地址
+											_str+="&LinkUrls="+escape(mylinks);//链接地址
+											_str+="&TBHeight="+"20";//标题衬底高度
+											_str+="&Font="+"宋体";//标题文字字体
+											_str+="&Size="+"12";//标题文字大小
+											_str+="&Weight="+"normal";//标题文字粗细
+											_str+="&Align="+"left";
+											var f = new cjFoucs('index_jjxj',pics,mylinks,texts,_str,ivWidth,ivHeight);
+											 f.init2("rtjdt_botbg","rtjdt_num","rtjdt_num_show","jjxj_tit");
+											 f.create2();
+										</script>
+										<!--焦点图内容 end-->
+									</div>
+									<div class="jjxj_lk mjbk_a">
+    <a href="http://comments.caijing.com.cn/20160202/4065217.shtml" target="_blank">罗伯特·斯基德尔斯基：多少债务算太多？</a>
+    <a href="http://comments.caijing.com.cn/20160202/4065214.shtml" target="_blank">迈克尔·梅耶：即将到来的石油难民潮</a>
+    <a href="http://comments.caijing.com.cn/20160203/4065909.shtml" target="_blank">安娜·帕拉西奥：英国退出的原因和后果</a>
+ 
+</div>
+								</div>
+							</div>
+							<!-- 全球经济学家 end -->
+						</div>
+						<div class="clear">&nbsp;</div>
+					</div>
+					<!-- 左侧第二屏 end -->
+					<!-- 左侧第三广告位 begin -->
+					<div id="area_index_cjzcgg3_2011">
+						<div class="lt_ad1" id="">
+							<span id="N_Mid_Page_Banner_3_homepage"></span>
+						</div>					
+					</div>
+					<!-- 左侧第三广告位 end -->
+					<!-- 左侧第三屏 begin -->
+					<div class="mainlt_second">
+						<div class="yaowen hongg">
+							<div id="area_index_cjzchg_2011">
+    <div class="public_h3 public_h3bg">
+    	<h3><a href="http://finance.caijing.com.cn/index.html" target="_blank">金融&gt;</a></h3>
+        <a href="http://finance.caijing.com.cn/index.html" target="_blank">更多&gt;&gt;</a> <div class="clear"></div></a>
+    </div>
+<ul class="yaowen_ul">
+  <li class="yaowen_first">    <a href="http://finance.caijing.com.cn/20170509/4269284.shtml" target="_blank">交行拨备覆盖率逼近红线 不良贷为5大行中最宽松</a>
+      </li>
+  <li >    <a href="http://finance.caijing.com.cn/20170509/4269292.shtml" target="_blank">成都银行IPO不良率高于行业平均 三年共收20张罚单</a>
+      </li>
+  <li >    <a href="http://finance.caijing.com.cn/20170509/4269290.shtml" target="_blank">张家港银行净利增长另有玄机 税费抵冲+补贴</a>
+      </li>
+  <li >    <a href="http://finance.caijing.com.cn/20170509/4269285.shtml" target="_blank">商业银行押品管理指引出台 股票质押监管加强</a>
+      </li>
+  <li >    <a href="http://finance.caijing.com.cn/20170509/4269442.shtml" target="_blank">配置型FOF或成市场主流 内外部FOF各有优缺点</a>
+      </li>
+  <li >    <a href="http://finance.caijing.com.cn/20170509/4269299.shtml" target="_blank">国防B成新规后第一只下折的分级B 还有12只高危</a>
+      </li>
+  <li >    <a href="http://finance.caijing.com.cn/20170509/4269445.shtml" target="_blank">进取型保险前景十字路口：恒大富德生命利润为负</a>
+      </li>
+  <li >    <a href="http://finance.caijing.com.cn/20170509/4269446.shtml" target="_blank">非寿险投资型业务试点叫停 安邦天安临流动性之考</a>
+      </li>
+  <li >    <a href="http://finance.caijing.com.cn/20170509/4269437.shtml" target="_blank">多家银行收缩同业战线 部分小银行流动性压力凸显</a>
+      </li>
+</ul>
+
+</div>
+							<div id="area_index_cjzcgs_2011">
+    <div class="public_h3 public_h3bg">
+        <h3><a href="http://industry.caijing.com.cn/index.html" target="_blank">产经&gt;</a></h3><a href="http://industry.caijing.com.cn/index.html" target="_blank">更多&gt;&gt;</a> <a href="javascript:void(0)" name=cj>
+        <div class=clear></div></a>
+    </div>
+    <ul class=yaowen_ul>
+          <li class="yaowen_first">        <a href="http://industry.caijing.com.cn/20170509/4269300.shtml" target="_blank">俄罗斯封杀网购中国小米手机 进口关税高水货多</a>
+              </li>
+          <li >        <a href="http://industry.caijing.com.cn/20170509/4269497.shtml" target="_blank">中消协约谈易到 促其立即停止高风险充值返现活动</a>
+              </li>
+          <li >        <a href="http://industry.caijing.com.cn/20170509/4269293.shtml" target="_blank">成品油有望刷新年内最大跌幅 预计每吨下调超200元</a>
+              </li>
+          <li >        <a href="http://industry.caijing.com.cn/20170509/4269296.shtml" target="_blank">Coach将以每股18.5美元现金代价收购Kate Spade</a>
+              </li>
+          <li >        <a href="http://industry.caijing.com.cn/20170508/4269222.shtml" target="_blank">老干妈重大商业机密遭窃取 嫌疑人系离职人员已被拘</a>
+              </li>
+          <li >        <a href="http://industry.caijing.com.cn/20170509/4269318.shtml" target="_blank">C919机长揭秘首飞：飞行过程中全程背着救生衣</a>
+              </li>
+          <li >        <a href="http://industry.caijing.com.cn/20170508/4268828.shtml" target="_blank">揭秘全球首架787梦想商务机 收费50万元/小时</a>
+              </li>
+          <li >        <a href="http://industry.caijing.com.cn/20170508/4268798.shtml" target="_blank">凤凰自行车获ofo 500万辆大单 一辆车平均只赚8元</a>
+              </li>
+          <li >        <a href="http://industry.caijing.com.cn/20170427/4265436.shtml" target="_blank">电商拉动纳税成效显著 税收公平应体现在大小企业</a>
+              </li>
+        </ul>
+</div>
+						</div>
+						<div class="lt_second">
+							<!-- 名家博客 begin -->
+							<div class="pinglun mjbk" id="area_index_cjzcbk2011">
+								<style>
+								.bolg_new {width:260px;height:20px;overflow:hidden;}
+								</style>
+								<div class="public_h3 qqjjxj_h3">
+								<h3><a href="http://blog.caijing.com.cn/">博客</a></h3><a href="http://blog.caijing.com.cn/">更多&gt;&gt;</a> 
+								<a name="bk"><div class=clear></div></a></div>
+								<div class="pingl_cont zhuanl_n">
+									<dl class=mjbk_dl>
+            <dt><img src="http://img5.caijing.com.cn/2017/0418/1492482424310.jpg"><a href="http://blog.caijing.com.cn/expert_article-151728-95164.shtml" target="_blank">伯通</a></dt>
+            <dd><a href="http://blog.caijing.com.cn/expert_article-151728-95164.shtml" target="_blank"><strong>中国第一天团——共青团</strong></a></dd>
+            <dd>再没有任何一家机构或个人，能在体制舆论战场上与共青团掰手腕。</dd>
+        </dl>
+        <div class=mjbk_a>
+                            <a href="http://blog.caijing.com.cn/expert_article-151432-95160.shtml" target="_blank">李子暘：撞了豪车怎么办？</a>
+                                <a href="http://blog.caijing.com.cn/expert_article-151324-95144.shtml" target="_blank">王旭明：埋怨英语，语文更要争气</a>
+                                <a href="http://blog.caijing.com.cn/expert_article-151573-94587.shtml" target="_blank">蒋方舟：同居启示录</a>
+                                <a href="http://blog.caijing.com.cn/expert_article-151182-94539.shtml" target="_blank">张化桥：洋骗子比中国的还多</a>
+                                <a href="http://blog.caijing.com.cn/expert_article-151363-94594.shtml" target="_blank">孙骁骥：城市之间即将掀起劳动力争夺战</a>
+                                <a href="http://blog.caijing.com.cn/expert_article-151602-95026.shtml" target="_blank">断桥：为什么新闻“反转”这么流行？</a>
+                </div>
+									<div class="bolg_new" style="margin: 3px 0px 0px 3px"><b style="COLOR: #333333">最近更新：</b>
+																						<a href="http://blog.caijing.com.cn/fuweigang" target="_blank">傅蔚冈</a>
+																						<a href="http://blog.caijing.com.cn/fengqiaobin" target="_blank">冯俏彬</a>
+																				</div>
+								</div>					
+							</div>
+							<div class="clear"></div>
+							<!-- 名家博客 end -->
+							<!-- 路透专栏 begin -->
+							<div class="pinglun ltzl" style="padding-top:15px;" id="area_index_cjzcltzl_2011">
+<div class="public_h3 ltzl_h3">
+<h3 style="background:url(http://upimages.caijing.com.cn/2014/1112/1415780539520.jpg) 0 0 no-repeat;"><a href="http://tech.caijing.com.cn/index.html" target="_blank">极客群</a></h3><a href="http://tech.caijing.com.cn/index.html" target="_blank">更多&gt;&gt;</a> 
+<div class="clear"></div></div>
+<div class="pingl_cont zhuanl_n">
+	<dl class=mjbk_dl>
+		<dt><img src="http://img6.caijing.com.cn/2017/0427/thumb_54_54_1493250519313.jpg"><a href="http://tech.caijing.com.cn/20170427/4265161.shtml" target="_blank"></a></dt>
+		<dd><a href="http://tech.caijing.com.cn/20170427/4265161.shtml" target="_blank"><strong>现金贷生死一线，监管如何“划线”</strong></a></dd>
+		<dd>该来的，早晚会来。应该庆幸的是，时机刚好，而非姗姗来迟……</dd>
+	</dl>
+	<div class=mjbk_a>
+					<a href="http://tech.caijing.com.cn/20170427/4265156.shtml" target="_blank">小区不开门 共享停车成空想</a>
+						<a href="http://tech.caijing.com.cn/20170427/4265155.shtml" target="_blank">华为低端新机曝光：这配置惊呆！</a>
+						<a href="http://tech.caijing.com.cn/20170426/4264575.shtml" target="_blank">龙芯井喷式爆发：第一中国芯 直追Intel！</a>
+						<a href="http://tech.caijing.com.cn/20170426/4264574.shtml" target="_blank">疑似iPhone 8跑分图现身网络 甩骁龙835几条街</a>
+						<a href="http://tech.caijing.com.cn/20170426/4264573.shtml" target="_blank">微信成立搜索应用部，想在移动搜索上叫板百度</a>
+						<a href="http://tech.caijing.com.cn/20170425/4263960.shtml" target="_blank">乐Max 3真机曝光：无边框ID 或无缘发布</a>
+						<a href="http://tech.caijing.com.cn/20170425/4263952.shtml" target="_blank">整改新规欲出 北京网贷将洗牌</a>
+				</div>
+</div>				
+</div>
+							<div class="clear"></div>
+							<!-- 路透专栏 end -->
+						</div>
+						<div class="clear">&nbsp;</div>
+					</div>
+					<!-- 左侧第三屏 end -->
+					<!-- 左侧第四广告位 begin -->
+					<div id="area_index_cjzcgg3_2011">
+						<div id="">
+							<div class="lt_ad1" id="" style="padding-top:20px;">
+								<span id="N_Mid_Page_Banner_4_homepage"></span>
+							</div>					
+						</div>					
+					</div>
+					<!-- 左侧第四广告位 end -->
+					<!-- 左侧第四屏 begin -->
+					<div class="mainlt_second">
+						<div class="yaowen hongg">
+							<div id="area_index_cjzccj_2011">
+    <div class="public_h3 public_h3bg">
+        <h3><a href="http://estate.caijing.com.cn/index.html" target="_blank">地产&gt;</a></h3><a href="http://estate.caijing.com.cn/index.html" target="_blank">更多&gt;&gt;</a> <a href="javascript:void(0)" name=dc>
+        <div class=clear></div></a>
+    </div>
+    <ul class=yaowen_ul>
+  <li class="yaowen_first">    <a href="http://estate.caijing.com.cn/20170509/4269257.shtml" target="_blank">136家房企负债直逼5万亿元 平均每家负债362亿元</a>
+      </li>
+  <li >    <a href="http://estate.caijing.com.cn/20170509/4269307.shtml" target="_blank">上市途中左晖关北京部分门店</a>
+        <a href="http://estate.caijing.com.cn/20170509/4269401.shtml" target="_blank">链家明确已关闭87家门店</a>
+      </li>
+  <li >    <a href="http://estate.caijing.com.cn/20170509/4269460.shtml" target="_blank">社科院：2017年房地产投资进下行通道</a>
+        <a href="http://estate.caijing.com.cn/20170509/4269464.shtml" target="_blank">市场量价调整</a>
+      </li>
+  <li >    <a href="http://estate.caijing.com.cn/20170509/4269311.shtml" target="_blank">济南楼市调控重磅：二手房交易酝酿全面资金监管</a>
+      </li>
+  <li >    <a href="http://estate.caijing.com.cn/20170509/4269343.shtml" target="_blank">河北省委书记：雄安不搞土地财政 禁大规模房产开发</a>
+      </li>
+  <li >    <a href="http://estate.caijing.com.cn/20170509/4269276.shtml" target="_blank">房地产市场长效机制正制定 专家:完全建立需5-10年</a>
+      </li>
+  <li >    <a href="http://estate.caijing.com.cn/20170509/4269310.shtml" target="_blank">学区房大限将至？多校划片——北京房价的杀手锏</a>
+      </li>
+  <li >    <a href="http://estate.caijing.com.cn/20170509/4269471.shtml" target="_blank">国税局专家：降房价先降地价 10万房子6万土地成本</a>
+      </li>
+  <li >    <a href="http://estate.caijing.com.cn/20170509/4269486.shtml" target="_blank">绿城35亿卖京城商用物业 北京万科等曲线接烫手山芋</a>
+      </li>
+    </ul>
+</div>
+							<div id="area_index_cjzchw_2011">
+    <div class="public_h3 public_h3bg">
+        <h3><a href="http://politics.caijing.com.cn/index.html" target="_blank">政经&gt;</a></h3><a href="http://politics.caijing.com.cn/index.html" target="_blank">更多&gt;&gt;</a> <a href="javascript:void(0)" name="zj">
+    <div class="clear"></div></a></div>
+    <ul class="yaowen_ul">
+                  <li class="yaowen_first">            <a href="http://politics.caijing.com.cn/20170508/4269151.shtml" target="_blank">中国要美撤换太平洋司令？外交部：日媒无事生非</a>
+                      </li>
+                  <li >            <a href="http://politics.caijing.com.cn/20170508/4269200.shtml" target="_blank">国台办：台湾不能参加世卫大会的责任完全在民进党</a>
+                      </li>
+                  <li >            <a href="http://politics.caijing.com.cn/20170509/4269256.shtml" target="_blank">财政部：自9月起政府采购应公开具体成交记录</a>
+                      </li>
+                  <li >            <a href="http://politics.caijing.com.cn/20170509/4269433.shtml" target="_blank">两高：非法出售公民个人信息获利5000元以上可入罪</a>
+                      </li>
+                  <li >            <a href="http://politics.caijing.com.cn/20170509/4269240.shtml" target="_blank">世卫大会未寄邀请函 台湾当局称仍将派团前往</a>
+                      </li>
+                  <li >            <a href="http://politics.caijing.com.cn/20170509/4269563.shtml" target="_blank">四川绵阳男子在机场净空区放飞无人机 被拘留5天</a>
+                      </li>
+                  <li >            <a href="http://politics.caijing.com.cn/20170509/4269242.shtml" target="_blank">台媒:疑似大陆最新东风26B导弹曝光 或针对萨德</a>
+                      </li>
+                  <li >            <a href="http://politics.caijing.com.cn/20170509/4269441.shtml" target="_blank">山东威海隧道发生交通事故 造成9死1伤3人失踪</a>
+                      </li>
+                  <li >            <a href="http://politics.caijing.com.cn/20170508/4269211.shtml" target="_blank">湖南煤矿致18死事故曝内幕：非法冶炼厂排有毒气体</a>
+                      </li>
+                  <li >            <a href="http://politics.caijing.com.cn/20170509/4269534.shtml" target="_blank">黑车司机强抱亲吻留学生 路人询问称没付车费</a>
+                      </li>
+                  <li >            <a href="http://politics.caijing.com.cn/20170509/4269420.shtml" target="_blank">“红通”女逃犯隐匿英国3年 丈夫录视频将其劝返</a>
+                      </li>
+            </ul>
+</div>
+							<div id="area_index_cjzcadd1_2011">
+    <div class="public_h3 public_h3bg">
+        <h3><a href="http://overseas.caijing.com.cn/index.html" target="_blank">海外&gt;</a></h3><a href="http://overseas.caijing.com.cn/index.html" target="_blank">更多&gt;&gt;</a> 
+        <div class="clear"></div>
+    </div>
+    <ul class="yaowen_ul">
+                <li class="yaowen_first">
+        	        	<a href="http://overseas.caijing.com.cn/20170509/4269239.shtml" target="_blank">韩国大选60天选战今将落幕 文在寅支持率逾4成</a>
+                    </li>
+                <li >
+        	        	<a href="http://overseas.caijing.com.cn/20170509/4269262.shtml" target="_blank">美报告承认萨德费用分摊有争议 特朗普或对韩施压</a>
+                    </li>
+                <li >
+        	        	<a href="http://overseas.caijing.com.cn/20170509/4269330.shtml" target="_blank">白宫发表声明：北约峰会期间特朗普将会晤马克龙</a>
+                    </li>
+                <li >
+        	        	<a href="http://overseas.caijing.com.cn/20170509/4269266.shtml" target="_blank">地中海两艘偷渡船沉没 逾200名难民身亡或失踪</a>
+                    </li>
+                <li >
+        	        	<a href="http://overseas.caijing.com.cn/20170509/4269259.shtml" target="_blank">NBA球星:金正恩非常崇拜美国 试图改善两国关系</a>
+                    </li>
+                <li >
+        	        	<a href="http://overseas.caijing.com.cn/20170509/4269485.shtml" target="_blank">马来西亚IS头目被证实死亡 曾挪用作战经费来赌博</a>
+                    </li>
+                <li >
+        	        	<a href="http://overseas.caijing.com.cn/20170509/4269313.shtml" target="_blank">日本不满“慰安妇”史料申遗 拒缴教科文组织会费</a>
+                    </li>
+            </ul>
+</div>
+						</div>
+						<div class="lt_second">							
+							<!-- 对话CEO begin -->
+							<div id="area_index_cjzcadd2_2011" class="pinglun mjbk">
+    <div class="public_h3 qqjjxj_h3">
+        <h3><a href="http://www.caijing.com.cn/high_end_interview/" target="_blank">高端财访</a></h3><a href="http://www.caijing.com.cn/high_end_interview/" target="_blank">更多&gt;&gt;</a> 
+        <div class="clear"></div>
+    </div>
+    <div class="pingl_cont zhuanl_n">
+                <dl class="mjbk_dl">
+            <dt><img src="http://img5.caijing.com.cn/2015/1214/1450075004612.png"><a href="http://yuanchuang.caijing.com.cn/2015/1214/4031662.shtml" target="_blank">孙伟</a></dt>
+            <dd><a href="http://yuanchuang.caijing.com.cn/2015/1214/4031662.shtml" target="_blank"><strong>非标品是母婴电商用户沉淀关键</strong></a></dd>
+            <dd>标品相当于母婴电商行业的“硬通货”，针对标品的“价格战”是否有意义，取决于是否锁定了某一部分资源。</dd>
+        </dl>
+        <div class="mjbk_a">
+                    <a href="http://yuanchuang.caijing.com.cn/2015/1127/4019796.shtml" target="_blank">黑水创始人为中企在非洲跑运输</a>
+                        <a href="http://yuanchuang.caijing.com.cn/2015/0803/3939294.shtml" target="_blank">周凯源：学会驾驭(视频)</a>
+                        <a href="http://yuanchuang.caijing.com.cn/2015/0803/3939284.shtml" target="_blank">兄弟创业如何打破散伙魔咒(视频)</a>
+                    </div>
+    </div>				
+</div>
+							<div class="clear"></div>
+							<!-- 对话CEO end -->
+							<!-- 葡萄酒评论 begin -->
+							<div id="area_index_cjzcceo_2011" class="pinglun ltzl" style="padding-top:3px;">
+        <div class="public_h3 qqjjxj_h3">
+            <h3><a href="http://rvfchina.caijing.com.cn" target="_blank">葡萄美酒</a></h3><a href="http://rvfchina.caijing.com.cn" target="_blank">更多&gt;&gt;</a> <a href="javascript:void(0)" name="sh">
+            <div class="clear"></div></a>
+        </div>
+        <div class="pingl_cont cjshj" style="background:none;">
+                        <a class="cjshj_img" href="http://rvfchina.caijing.com.cn/20161024/4189418.shtml" target="_blank">
+                <img src="http://img2.caijing.com.cn/2016/1024/1477279072999.jpg">
+            </a> 
+            <dl class="cjshj_dl">
+                <dt><a href="http://rvfchina.caijing.com.cn/20161024/4189418.shtml" target="_blank">保加利亚葡萄酒知多少</a></dt>
+                <dd>自公元681年古色雷斯人开始酿酒起，虽然中间历经起起落落，保加利亚人的日常生活和艺术就与葡萄酒密不可分。</dd>
+            </dl>
+            <div class="cjshj_a">
+                            <p><span><a href="javascript:void(0)"></a></span><a href="http://rvfchina.caijing.com.cn/20161018/4187184.shtml" target="_blank">·新西兰葡萄酒的真味之马尔堡</a></p>
+                                <p><span><a href="javascript:void(0)"></a></span><a href="http://rvfchina.caijing.com.cn/20161014/4186061.shtml" target="_blank">·保加利亚：玫瑰、大教堂和迷人的葡萄酒</a></p>
+                                <p><span><a href="javascript:void(0)"></a></span><a href="http://rvfchina.caijing.com.cn/20161013/4186027.shtml" target="_blank">·RVF精选：新西兰美食推荐</a></p>
+                            </div>
+        </div>
+</div>
+							<div class="clear"></div>
+							<!-- 葡萄酒评论  end -->
+							<!-- 生活家 begin -->
+							<div class="pinglun ltzl" id="area_index_cjzcshj_2011">
+    <div id="area_index_cjzcshj_2011" class="pinglun ltzl">
+        <div class="public_h3 qqjjxj_h3">
+            <h3><a href="http://life.caijing.com.cn/index.html" target="_blank">生活</a></h3><a href="http://life.caijing.com.cn/index.html" target="_blank">更多&gt;&gt;</a> <a href="javascript:void(0)" name="sh">
+            <div class="clear"></div></a>
+        </div>
+        <div class="pingl_cont cjshj">
+                        <a class="cjshj_img" href="http://life.caijing.com.cn/20170508/4269140.shtml" target="_blank">
+                <img src="http://tx2.cdn.caijing.com.cn/2017/0508/thumb_270_143_1494234214640.jpg">
+            </a> 
+            <dl class="cjshj_dl">
+                <dt><a href="http://life.caijing.com.cn/20170508/4269140.shtml" target="_blank">五月份该怎么穿？舒服又好看的都在这里</a></dt>
+                <dd>不知不觉已经到了五月份，骚动的心又开始想法儿变造型了</dd>
+            </dl>
+            <div class="cjshj_a">
+                            <p><span><a href="javascript:void(0)"></a></span><a href="http://life.caijing.com.cn/20170508/4269126.shtml" target="_blank">·70岁的她，穿着热裤在巴厘岛开了家梦幻餐厅</a></p>
+                                <p><span><a href="javascript:void(0)"></a></span><a href="http://life.caijing.com.cn/20170505/4268528.shtml" target="_blank">·沙尘暴走了，好好来享受夏天吧！</a></p>
+                            </div>
+        </div>
+    </div>										
+</div>
+							<div class="clear"></div>
+							<!-- 生活家 end -->
+						</div>
+						<div class="clear">&nbsp;</div>
+					</div>
+					<!-- 左侧第四屏 end -->
+					<!-- 左侧第五广告位 begin -->
+					<div id="area_index_cjzcgg3_2011">
+						<div id="">
+							<div class="lt_ad1" id="" style="padding-top:20px;">
+								<span id="N_Mid_Page_Banner_5_homepage"></span>
+							</div>					
+						</div>					
+					</div>
+					<!-- 左侧第五广告位 end -->
+				</div>				
+				<!-- 主体右侧 begin -->
+				<div class="main_rt">
+					<!-- 右侧广告位 begin -->
+					<div id="area_index_cjycgg2_2011">
+						<div class="rt_topad" id="area_index_N_Right_In_Article_Ad_homepage" style="position:relative;z-index:1;">						<span id="N_Right_In_Article_Ad_homepage"></span>
+						</div>
+					</div>
+					<!-- 右侧广告位 end -->
+					<!-- 编辑推荐 begin -->
+					<!-- 编辑推荐 begin -->
+<div id="area_index_cjycbjtj2_2011" class="wzphb">
+<h3 class="wzphb_h3"><span> 编辑推荐 </span></h3>
+<ul id="wzph3_tit" class="wzph_tit wzph3_tit">
+<li class="pht_show"><span>宏观</span></li>
+<li><span> 金融 </span></li>
+<li><span> 产经 </span></li>
+<li><span> 地产 </span></li>
+<li><span> 政经 </span></li>
+<li><span> 评论 </span></li>
+<li><span> 生活 </span></li>
+<li><span> 海外 </span></li>
+</ul>
+<div id="wzph3_main" class="wzph_main wzph2_main">
+<ul class="phm_show" style="display: none;">
+<li><a href="http://economy.caijing.com.cn/20170206/4230849.shtml" target="_blank">解码中美GDP：专家称中国20年内将是美国两倍</a></li>
+<li><a href="http://economy.caijing.com.cn/20170206/4230946.shtml" target="_blank">两首席互撕:任泽平称货币政策收紧李迅雷直言过度解读</a></li>
+<li><a href="http://economy.caijing.com.cn/20170206/4230812.shtml" target="_blank">外汇局：加大对各类外汇违法违规行为的处罚力度</a></li>
+<li><a href="http://economy.caijing.com.cn/20170206/4230761.shtml" target="_blank">江苏农村经营性资产改革样本:集体股如何保障农民利益</a></li>
+
+</ul>
+<ul style="display: none;">
+<li><a href="http://finance.caijing.com.cn/20170206/4230661.shtml" target="_blank">银行业供给侧改革浙江样本：不良贷款拐点已至？</a></li>
+<li><a href="http://finance.caijing.com.cn/20170206/4230624.shtml" target="_blank">37只公募基金重仓乐视亏6.86亿 公募一哥任泽松折戟</a></li>
+<li><a href="http://finance.caijing.com.cn/20170206/4230621.shtml" target="_blank">蹊跷的基金份额转让：九鼎投资关联交易定价存疑</a></li>
+<li><a href="http://finance.caijing.com.cn/20170206/4230648.shtml" target="_blank">非寿险投资型保险暂停在即 天安财险内外交困</a></li>
+</ul>
+<ul style="display: block;">
+<li><a class="title_list" href="http://industry.caijing.com.cn/20170206/4230580.shtml" target="_blank">美对华不锈钢产品征收最高190%反补贴税 商务部回应</a></li>
+<li><a class="title_list" href="http://industry.caijing.com.cn/20170206/4230942.shtml" target="_blank">制造、外贸、税收 汽车产业面临特朗普“黑天鹅湖”</a></li>
+<li><a class="title_list" href="http://industry.caijing.com.cn/20170206/4230854.shtml" target="_blank">《锦绣未央》作者被起诉抄袭 IP影视屡陷版权纠纷困局</a></li>
+<li><a class="title_list" href="http://industry.caijing.com.cn/20170206/4230785.shtml" target="_blank">贾跃亭：FF工厂不会缩水 将全力保证FF91按时交付</a></li>
+</ul>
+<ul style="display: none;">
+<li><a href="http://estate.caijing.com.cn/20170206/4230729.shtml">山东省省长郭树清：严格限制投资投机性购房</a></li>
+<li><a href="http://estate.caijing.com.cn/20170206/4230815.shtml">炒楼资金悄然离场：一二线城市房价“疯狂”不再</a></li>
+<li><a href="http://estate.caijing.com.cn/20170206/4230926.shtml">节后深圳二手房价继续领跌 5个月降幅近1成</a></li>
+<li><a href="http://estate.caijing.com.cn/20170206/4230925.shtml">燕郊房产权突变引质疑 3000业主70年产权房是违建?</a></li>
+</ul>
+<ul style="display: none;">
+<li><a href="http://www.caijing.com.cn/160411/">汪玉凯：“提前离岗”是一种“赎买政策”</a></li>
+<li><a href="http://www.caijing.com.cn/160108/">快播案开审 王欣：技术本身并不可耻</a></li>
+<li><a href="http://politics.caijing.com.cn/20160205/4066803.shtml">春节长假生活指南：无大范围寒潮 跨行转账停3天</a></li>
+<li><a href="http://politics.caijing.com.cn/20160205/4066891.shtml">贵阳一对兄妹因拆迁流落街头 父母双双入狱</a></li>
+</ul>
+<ul style="display: none;">
+<li><a href="http://comments.caijing.com.cn/20150814/3947425.shtml">东莞地陷事故：人祸甚于天灾</a></li>
+<li><a href="http://comments.caijing.com.cn/20150814/3947449.shtml">对人民币汇率波动不必大惊小怪</a></li>
+<li><a href="http://comments.caijing.com.cn/20150814/3947469.shtml">华云：阿里苏宁联姻 谁哭晕在厕所</a></li>
+<li><a href="http://comments.caijing.com.cn/20150814/3947471.shtml">不睡觉的世界：睡眠如何被资本主义谋杀</a></li>
+</ul>
+<ul style="display: none;">
+<li><a href="http://life.caijing.com.cn/20150504/3874123.shtml">维密新晋10位天使 三围曝光你最爱谁？</a></li>
+<li><a href="http://life.caijing.com.cn/20150504/3874157.shtml">拳坛世纪之战：梅威瑟vs帕奎奥 同时段收视率超跑男</a></li>
+<li><a href="http://life.caijing.com.cn/20150430/3873246.shtml">最后再看一眼A&F男模的8块腹肌 想要自己练</a></li>
+<li><a href="http://life.caijing.com.cn/20150430/3873158.shtml">点亮我们童年的那个蓝胖子，终于要来了</a></li>
+</ul>
+<ul style="display: none;">
+<li><a href="http://overseas.caijing.com.cn/20160205/4066823.shtml">英回应“承认台湾是国家”连署申请:是中国一省</a></li>
+<li><a href="http://overseas.caijing.com.cn/20160205/4066869.shtml">联合国首次发行同性恋主题邮票 提倡自由权利</a></li>
+<li><a href="http://overseas.caijing.com.cn/20160205/4066861.shtml">卢森堡欲去近地小行星采矿 市场回报或达数万亿</a></li>
+<li><a href="http://overseas.caijing.com.cn/20160205/4066783.shtml">奥巴马建议每桶石油加税10美元 或成政治毒药</a></li>
+</ul>
+</div>
+</div>
+<!-- 编辑推荐 end -->
+					<!-- 编辑推荐 end -->
+					<!-- 右侧广告位 begin -->
+					<div id="area_index_cjycgg1_2011"  style="margin-top:15px;">
+						<span id="N_Right_In_Article_Ad_small"></span>
+					</div>
+					<!-- 右侧广告位 end -->
+					<!-- 邮件订阅 begin -->
+					<div id="area_index_cjycxwhg_2011">
+						<div class="dydy" style="margin-top:15px;">
+							<div id="area_index_dytxdy">
+								<form id="form1" name="form1" method="get" action="http://service.caijing.com.cn/usermanage/subscriptionmail/">
+									<table width="100%" border="0" cellspacing="0" cellpadding="0">
+										<tr>
+											<td width="121" align="right">电邮订阅：</td>
+											<td width="140"><label><input name="myemail" type="text" class="dydyinput" value="输入邮箱，订阅财经网新闻" onFocus="if(value=='输入邮箱，订阅财经网新闻') {value=''}" onBlur="if(value=='') {value='输入邮箱，订阅财经网新闻'}"/>
+											</label></td>
+											<td width="55" align="left"><a class="dingyue" target="_self" href="javascript:document.form1.submit()">订阅</a></td>
+										</tr>
+									</table>
+									<input type="hidden" name="content_type[]" value="1" checked="checked" /> 
+									<input type="hidden" name="content_type[]" value="2" checked="checked" /> 
+									<input type="hidden" name="content_type[]" value="3" checked="checked" /> 
+									<input type="hidden" name="radio"  value="1" /> 
+								</form>
+							</div>
+						</div>
+					</div>
+					<!-- 邮件订阅 begin -->
+					<!-- 股市行情 begin -->
+					<div id="area_index_cjycgshq_2011">
+						<div class="st_gpzs" style="margin-top:15px;position:relative;z-index:10;">					
+							<iframe width="270" scrolling="no" height="194" frameborder="0" src="http://stock.10jqka.com.cn/api/stock_10.html"></iframe>
+							<!--<script src="http://s.thsi.cn/js/jquery-1.2.8.min.js" type="text/javascript"></script>-->
+							<div class="st_search_in" id="search_ingp">
+								<form action="" method="get" onsubmit="return changehqcode1();">
+									<span>查询</span>
+									<ul style="display: none;" class="autocomplete3">
+										<li class="selected"></li>
+									</ul>
+									<ul class="autocomplete3" style="display: none;"></ul><input type="text" autocomplete="off" id="hqstock1" name="hqstock1" onclick="javascript:if(document.getElementById(&quot;hqstock1&quot;).value==&quot;请输入股票代码/首字母/简称&quot;){    document.getElementById(&quot;hqstock1&quot;).value=&quot;&quot;; }" value="请输入股票代码/首字母/简称" class="input_seachin"><input type="submit" class="st_menu_seachin" value="">
+								</form>
+							</div>
+							<script type="text/javascript" src="http://ws1.cdn.caijing.com.cn/js/hqkeyboard_s.js"></script>
+							<script type="text/javascript" src="http://ws1.cdn.caijing.com.cn/js/flashhq_cjw.min.20111125_s.js"></script>
+						</div>
+					</div>
+					<!-- 股市行情 begin -->
+					
+
+					<!-- 文章排行榜 begin -->
+					<div id="area_index_cjycwzphb_2011">
+
+
+					<style>
+.blog_link ul li {
+	border-bottom: 1px dotted #DFDFDF;
+	float: left;
+	height: 23px;
+	line-height: 23px;
+	width: 300px;
+	overflow:hidden;
+}
+.blog_link ul li span {
+	color: #F46B23;
+	float: left;
+	font-weight: bold;
+	height: 15px;
+	line-height: 15px;
+	margin: 4px 5px 0;
+	text-align: center;
+	width: 15px;
+}
+.wzphb .blog_link li a {
+	color: #414141;
+	float: left;
+	width:auto;
+}
+</style>
+<!-- 排行榜 begin -->
+<div class="wzphb">
+  <h3 class="wzphb_h3"><span>排行榜</span></h3>
+  <ul id="wzph_tit" class="wzph_tit phb_tit">
+    <li class="pht_show"><span>热文</span></li>
+    <li><span>本周热文</span></li>
+    <li><span>热图</span></li>
+    <li><span>热评</span></li>
+    <li><span>博客</span></li>
+  </ul>
+  <div id="wzph_main" class="wzph_main wzph1_main">
+    <ul class="phm_show" style="display:block;">
+            <li class="wzph_bg"><span>1</span><a href="http://overseas.caijing.com.cn/20170509/4269704.shtml" target="_blank">印度警察没收的90万升酒失踪 报告称被老鼠喝光</a>
+      </li>
+            <li class="wzph_bg"><span>2</span><a href="http://politics.caijing.com.cn/20170509/4269703.shtml" target="_blank">教育部部长：培养又红又专的中国特色社会主义接班人</a>
+      </li>
+            <li class="wzph_bg"><span>3</span><a href="http://politics.caijing.com.cn/20170509/4269702.shtml" target="_blank">外交部:朝鲜将派出官方代表团出席一带一路论坛</a>
+      </li>
+            <li ><span>4</span><a href="http://overseas.caijing.com.cn/20170509/4269701.shtml" target="_blank">韩大选出口民调：文在寅得票率超41% 有望胜选</a>
+      </li>
+            <li ><span>5</span><a href="http://overseas.caijing.com.cn/20170509/4269700.shtml" target="_blank">韩大选出口民调：文在寅得票率超41% 有望胜选</a>
+      </li>
+            <li ><span>6</span><a href="http://politics.caijing.com.cn/20170509/4269699.shtml" target="_blank">外交部证实朝鲜将派代表团出席“一带一路”论坛</a>
+      </li>
+            <li ><span>7</span><a href="http://politics.caijing.com.cn/20170509/4269698.shtml" target="_blank">外交部回应台湾缺席世卫大会：搞挟洋自重没有出路</a>
+      </li>
+            <li ><span>8</span><a href="http://finance.caijing.com.cn/20170509/4269697.shtml" target="_blank">阳光融和医院：开诊一周年“融和模式”备受关注</a>
+      </li>
+          </ul>
+    <ul>
+            <li class="wzph_bg"><span>1</span><a href="http://overseas.caijing.com.cn/20170509/4269704.shtml" target="_blank">印度警察没收的90万升酒失踪 报告称被老鼠喝光</a>
+      </li>
+            <li class="wzph_bg"><span>2</span><a href="http://politics.caijing.com.cn/20170509/4269703.shtml" target="_blank">教育部部长：培养又红又专的中国特色社会主义接班人</a>
+      </li>
+            <li class="wzph_bg"><span>3</span><a href="http://politics.caijing.com.cn/20170509/4269702.shtml" target="_blank">外交部:朝鲜将派出官方代表团出席一带一路论坛</a>
+      </li>
+            <li ><span>4</span><a href="http://overseas.caijing.com.cn/20170509/4269701.shtml" target="_blank">韩大选出口民调：文在寅得票率超41% 有望胜选</a>
+      </li>
+            <li ><span>5</span><a href="http://overseas.caijing.com.cn/20170509/4269700.shtml" target="_blank">韩大选出口民调：文在寅得票率超41% 有望胜选</a>
+      </li>
+            <li ><span>6</span><a href="http://politics.caijing.com.cn/20170509/4269699.shtml" target="_blank">外交部证实朝鲜将派代表团出席“一带一路”论坛</a>
+      </li>
+            <li ><span>7</span><a href="http://politics.caijing.com.cn/20170509/4269698.shtml" target="_blank">外交部回应台湾缺席世卫大会：搞挟洋自重没有出路</a>
+      </li>
+            <li ><span>8</span><a href="http://finance.caijing.com.cn/20170509/4269697.shtml" target="_blank">阳光融和医院：开诊一周年“融和模式”备受关注</a>
+      </li>
+          </ul>
+    <ul>
+            <li class="wzph_bg"><span>1</span><a href="http://photos.caijing.com.cn/20170509/4269608.shtml" target="_blank">意大利小镇成"鬼镇" 镇长倒贴1.5万招居民</a>
+      </li>
+            <li class="wzph_bg"><span>2</span><a href="http://photos.caijing.com.cn/20170509/4269602.shtml" target="_blank">杭州一女子被苹果汁炸晕 厂家称其保存不当</a>
+      </li>
+            <li class="wzph_bg"><span>3</span><a href="http://photos.caijing.com.cn/20170509/4269584.shtml" target="_blank">“一带一路”国际合作重大工程项目盘点</a>
+      </li>
+            <li ><span>4</span><a href="http://photos.caijing.com.cn/20170509/4269579.shtml" target="_blank">泰国模特网上出售“性爱佛牌” 遭网民批评</a>
+      </li>
+            <li ><span>5</span><a href="http://photos.caijing.com.cn/20170509/4269490.shtml" target="_blank">越南海警舰船首次访问中国 小学生献花</a>
+      </li>
+            <li ><span>6</span><a href="http://photos.caijing.com.cn/20170509/4269489.shtml" target="_blank">连遭两次塌方后 200万别墅门前成悬崖</a>
+      </li>
+            <li ><span>7</span><a href="http://photos.caijing.com.cn/20170509/4269462.shtml" target="_blank">安徽男子"卖妻救女" 妻子身穿婚纱为娃求救命钱</a>
+      </li>
+            <li ><span>8</span><a href="http://photos.caijing.com.cn/20170509/4269408.shtml" target="_blank">韩总统选举投票开始 候选人及前政要现身</a>
+      </li>
+          </ul>
+    <ul>
+            <li class="wzph_bg"><span>1</span><a href="http://comments.caijing.com.cn/20170509/4269625.shtml" target="_blank">中青报：放弃“新锐中产”炒作 扩大中等收入群体更靠谱</a>
+      </li>
+            <li class="wzph_bg"><span>2</span><a href="http://comments.caijing.com.cn/20170509/4269289.shtml" target="_blank">李曙光：《民法总则》对破产法修改有推动作用</a>
+      </li>
+            <li class="wzph_bg"><span>3</span><a href="http://comments.caijing.com.cn/20170509/4269288.shtml" target="_blank">皮海洲：次新股业绩变脸，IPO提速之过？</a>
+      </li>
+            <li ><span>4</span><a href="http://comments.caijing.com.cn/20170509/4269286.shtml" target="_blank">远山： 拿到牌照的易到前路并不“易行”</a>
+      </li>
+            <li ><span>5</span><a href="http://comments.caijing.com.cn/20170509/4269278.shtml" target="_blank">孙兴杰：马克龙背后站着不团结的法国</a>
+      </li>
+            <li ><span>6</span><a href="http://comments.caijing.com.cn/20170509/4269277.shtml" target="_blank">任孟山：招生“查三代”更该反思教育资源短缺</a>
+      </li>
+            <li ><span>7</span><a href="http://comments.caijing.com.cn/20170508/4269108.shtml" target="_blank">23岁消防员救95岁老人牺牲 军报：生命不是算术题</a>
+      </li>
+            <li ><span>8</span><a href="http://comments.caijing.com.cn/20170508/4268802.shtml" target="_blank">乔新生：霍尔果斯，为企业减税的另一条路</a>
+      </li>
+          </ul>
+    <ul class="blog_link">
+      <li class="wzph_bg"><span>1</span><a href="http://blog.caijing.com.cn/renzhiqiang" target="_blank">任志强<font size="2">:</font> </a><a href="http://blog.caijing.com.cn/expert_article-40-69593.shtml" target="_blank">楼市</a></li>
+      <li class="wzph_bg"><span>2</span><a href="http://blog.caijing.com.cn/yanghengjun" target="_blank">杨恒均<font size="2">:</font> </a><a href="http://blog.caijing.com.cn/expert_article-151642-69101.shtml" target="_blank">在港央企少数高管是如何贪污</a></li>
+      <li class="wzph_bg"><span>3</span><a href="http://blog.caijing.com.cn/fuweigang" target="_blank">傅蔚冈<font size="2">:</font> </a><a href="http://blog.caijing.com.cn/expert_article-151580-69348.shtml" target="_blank">为什么北京地铁比上海拥挤？</a></li>
+      <li><span>4</span><a href="http://blog.caijing.com.cn/zhengfengtian" target="_blank">郑风田<font size="2">:</font> </a><a href="http://blog.caijing.com.cn/expert_article-151316-69266.shtml" target="_blank">郑风田：中国城镇化发展存在</a></li>
+      <li><span>5</span><a href="http://blog.caijing.com.cn/mpettis" target="_blank">迈克尔•佩蒂斯<font size="2">:</font> </a><a href="http://blog.caijing.com.cn/expert_article-151686-69142.shtml" target="_blank">Do we underst</a></li>
+      <li><span>6</span><a href="http://blog.caijing.com.cn/chenyongdong" target="_blank">陈永东<font size="2">:</font> </a><a href="http://blog.caijing.com.cn/expert_article-151318-68748.shtml" target="_blank">深度分析微软腾云驾雾的两件</a></li>
+      <li><span>7</span><a href="http://blog.caijing.com.cn/yetan" target="_blank">叶檀<font size="2">:</font> </a><a href="http://blog.caijing.com.cn/expert_article-151295-68992.shtml" target="_blank">荒谬的GDP全球第一</a></li>
+      <li><span>8</span><a href="http://blog.caijing.com.cn/zhouqiren" target="_blank">周其仁<font size="2">:</font> </a><a href="http://blog.caijing.com.cn/expert_article-151195-69057.shtml" target="_blank">改革要成功 市场逻辑一定要</a></li>
+    </ul>
+  </div>
+</div>
+<div style="margin-top:15px; border:1px solid #a4c1d4; width:298px;">
+<iframe width="298" height="300" frameborder="0" scrolling="no" src="http://stock.10jqka.com.cn/api/stock_25.html"></iframe>
+</div>
+					</div>
+					<!-- 文章排行榜 end -->
+					<!-- 每日焦点 begin -->
+					<div class="fir_bjtj" id="area_index_cjycbjtj_2011">
+						<h3 class=bjtj_h3><span>每日焦点</span></h3>
+						<div class=index_bjtj >
+							<div id=index_bjtj>
+								<!-- 焦点图内容 begin-->
+								<script language="javascript" src="http://ws1.cdn.caijing.com.cn/zhuanti/js/cjFoucs_mrjd.js"></script>
+								<script language="javascript">
+									//播放图片地址
+									//图片大小限制：300*220
+									var pics='http://tx1.cdn.caijing.com.cn/2017/0427/thumb_300_240_1493250718716.jpeg|http://img5.caijing.com.cn/2017/0427/thumb_300_240_1493250619709.jpeg|http://tx2.cdn.caijing.com.cn/2017/0427/thumb_300_240_1493250519313.jpg|http://img1.caijing.com.cn/2017/0427/thumb_300_240_1493250286700.png|http://img6.caijing.com.cn/2017/0427/thumb_300_240_1493250176520.jpg|http://tx1.cdn.caijing.com.cn/2017/0427/thumb_300_240_1493250072819.jpg|http://img4.caijing.com.cn/2017/0426/thumb_300_240_1493164023354.jpg|http://tx3.cdn.caijing.com.cn/2017/0505/thumb_300_240_1493941266394.jpg|http://img5.caijing.com.cn/2017/0505/thumb_300_240_1493940367895.jpg|http://img1.caijing.com.cn/2017/0505/thumb_300_240_1493941824875.jpg';
+									var mylinks='http://tech.caijing.com.cn/20170427/4265163.shtml|http://tech.caijing.com.cn/20170427/4265162.shtml|http://tech.caijing.com.cn/20170427/4265161.shtml|http://tech.caijing.com.cn/20170427/4265160.shtml|http://tech.caijing.com.cn/20170427/4265159.shtml|http://tech.caijing.com.cn/20170427/4265158.shtml|http://tech.caijing.com.cn/20170426/4264584.shtml|http://tech.caijing.com.cn/20170505/4268097.shtml|http://tech.caijing.com.cn/20170505/4268093.shtml|http://tech.caijing.com.cn/20170505/4268098.shtml'
+									//图片对应描
+									var texts='乐视网第一季度经营活动现金净流出7.41亿|遭海归专家诉专利侵权 永安行将举证应诉|现金贷生死一线，监管如何“划线”？|PayPal第一季度营收29.75亿美元 净利润同比增5%|新旧媒体围剿 今日头条的版权鏖战|无桩单车营收占比少 已过会的永安行如何跟对手过招|开售就降价 HTC用这种思路迎接VR的春天？|银联闪付对战支付宝、微信扫码 支付大战再起？|低价红利逐渐衰退 互联网手机下半场格局生变|网红店乱象调查：质量服务良莠不齐 套单砍单频发';
+									var ivWidth=300;//自定义宽
+									var ivHeight=240;//自定义高
+									var _str='http://ws1.cdn.caijing.com.cn/js/2010/imageView.swf';//flash文件地址
+									_str+="?Time="+"5000";//图片自动切换时间：毫秒
+									_str+="&Titles="+encodeURI(texts);//标题内容
+									_str+="&Mode="+"6";//窗口模式：6－淡入淡出，播放按钮；7－随机
+									_str+="&ImgUrls="+pics;//图片地址
+									_str+="&LinkUrls="+escape(mylinks);//链接地址
+									_str+="&TBHeight="+"20";//标题衬底高度
+									_str+="&Font="+"宋体";//标题文字字体
+									_str+="&Size="+"12";//标题文字大小
+									_str+="&Weight="+"normal";//标题文字粗细
+									_str+="&Align="+"left";
+									var f = new hxFoucs_2('index_bjtj',pics,mylinks,texts,_str,ivWidth,ivHeight);
+									 f.init_2("rtjdt_botbg","rtjdt_num","rtjdt_num_show","rtjdt_tit");
+									 f.create_2();
+								</script>
+								<!--焦点图内容 end-->
+							</div>
+						</div>
+					</div>
+					<!-- 每日焦点 end -->
+					<!-- 热门车型 begin -->
+					<div class="area_rt_auto" id="area_rt_auto" style="margin-bottom:15px">
+<!-- 53458723：2016-04-19右侧小通栏 类型：固定 尺寸：300x220-->
+<script type="text/javascript">
+_acM({aid:"mm_113716037_12970143_53458723",format:1,mode:1,gid:1,serverbaseurl:"afpeng.alimama.com/"});
+</script>
+
+</div>
+					<!-- 热门车型 end -->
+					<!-- 专题报道 begin -->
+					<div class="rt_ztbd">
+    <div class="public_h3 ztbd_h3">
+        <h3><a href="http://www.caijing.com.cn/2008/topiclist/" target="_blank">专题报道</a></h3><a href="http://www.caijing.com.cn/zhuantibaodao/index.shtml" target="_blank">更多&gt;&gt;</a> 
+        <div class=clear></div>
+    </div>	
+    <div id="area_index_cjycztbd_2011">		
+    	<a class=ztbd_img href="http://www.caijing.com.cn/boao2017/" target="_blank"><img border=0 src=" http://img4.caijing.com.cn/2017/0328/thumb_300_83_1490683013212.jpg" width=300 height=83></a>        <ul class="yaowen_ul ztbd_ul">
+                        <li>
+                            <a href="http://www.caijing.com.cn/170424/index.shtml"  target="_blank">聚焦雄安新区建设的企业机会</a> 
+                            <a href="http://www.caijing.com.cn/qglh2017/"  target="_blank">2017年全国两会</a> 
+                        </li>
+                        <li>
+                            <a href="http://www.caijing.com.cn/170308/"  target="_blank">证监会打恶记</a> 
+                            <a href="http://www.caijing.com.cn/sycjgjlt2016/"  target="_blank">三亚论坛</a> 
+                            <a href="http://www.caijing.com.cn/caijingnianhui2017/index.shtml"  target="_blank">2017财经年会</a> 
+                        </li>
+                        <li>
+                            <a href="http://www.caijing.com.cn/170306/"  target="_blank">进化的社保制度</a> 
+                            <a href="http://www.caijing.com.cn/160622-1/"  target="_blank">英国脱欧</a> 
+                            <a href="http://www.caijing.com.cn/160615/index.shtml"  target="_blank">MSCI再拒A股</a> 
+                            <a href="http://www.caijing.com.cn/gzzn/"  target="_blank">股灾反思</a> 
+                        </li>
+                        <li>
+                            <a href="http://www.caijing.com.cn/160824/"  target="_blank">2016杭州G20峰会</a> 
+                            <a href="http://www.caijing.com.cn/160704/"  target="_blank">2016高校毕业致辞</a> 
+                            <a href="http://www.caijing.com.cn/170308/index.shtml"  target="_blank">证监打恶记</a> 
+                        </li>
+                        <li>
+                            <a href="http://www.caijing.com.cn/160607-1/index.shtml"  target="_blank">一汽违背承诺</a> 
+                            <a href="http://www.caijing.com.cn/150923"  target="_blank">大众检测门</a> 
+                            <a href="http://www.caijing.com.cn/tpp/"  target="_blank">TPP来了</a> 
+                            <a href="http://www.caijing.com.cn/160301-1/#g4076422=1"  target="_blank">去库存VS泡沫</a> 
+                        </li>
+                        <li>
+                            <a href="http://www.caijing.com.cn/150317/"  target="_blank">中国发展高层论坛</a> 
+                            <a href="http://www.caijing.com.cn/zscjgjlt/"  target="_blank">2016浙商论坛</a> 
+                            <a href="http://finance.caijing.com.cn/boc2015/"  style="color:#FF0000;" target="_blank">中行CRI、ORI指数</a> 
+                        </li>
+                        <li>
+                            <a href="http://www.caijing.com.cn/caijingnh2016/#g4012872=1"  target="_blank">2015财经年会</a> 
+                            <a href="http://www.caijing.com.cn/gylt2015/"  target="_blank">公益论坛</a> 
+                            <a href="http://www.caijing.com.cn/sycjgjlt2015/"  target="_blank">三亚论坛</a> 
+                            <a href="http://www.caijing.com.cn/boaoforum2016/index.shtml"  target="_blank">2016博鳌论坛</a> 
+                        </li>
+                        <li>
+                            <a href="http://www.caijing.com.cn/zqscnh2015/"  target="_blank">证券市场年会</a> 
+                            <a href="http://www.caijing.com.cn/caifuluntan2016/"  target="_blank">青岛财富论坛</a> 
+                            <a href="http://www.caijing.com.cn/150824/#g3964257=1"  target="_blank">达沃斯2015</a> 
+                            <a href="http://www.caijing.com.cn/qinghuacaijing2015/"  target="_blank">论房产税</a> 
+                        </li>
+                    </ul>
+    </div>
+</div>
+					<!-- 专题报道 end -->																							
+					<!-- 公告栏 begin -->
+					<div class="rtggl" id="area_index_cjycggl_2011" style="margin-top:15px;">
+    <div class=ggl_h3>
+        <h3><a href="http://www.caijing.com.cn/board/" target="_blank">公告/《财经》新闻发布</a></h3><a href="http://www.caijing.com.cn/board/" target="_blank">更多&gt;&gt;</a> 
+        <div class=clear></div>
+    </div>
+    <div class=ggl_a>
+            <a href="http://yuanchuang.caijing.com.cn/2017/0221/4237143.shtml" target="_blank">更正与致歉</a>
+            <a href="http://www.caijing.com.cn/20161205/4206984.shtml" target="_blank">致歉声明</a>
+            <a href="http://www.caijing.com.cn/20151209/4029085.shtml" target="_blank">《财经》记者获“2015国际健康新闻报道奖”</a>
+            <a href="http://politics.caijing.com.cn/20150430/3873363.shtml" target="_blank">《财经》获公安部“猎狐” 办表彰</a>
+            <a href="http://economy.caijing.com.cn/20150115/3799881.shtml" target="_blank">“财经网用户最喜爱的企业票选”揭晓 </a>
+            <a href="http://www.caijing.com.cn/20151111/4008435.shtml" target="_blank">《财经》三组报道获“安平·北大公益传播奖”</a>
+        </div>
+</div>
+					<!-- 公告栏 end -->
+				</div>
+				<!-- 主体右侧 end -->
+				<div class="clear"></div>
+			</div>
+			<!-- 汽车 begin -->
+			<div class="cj_auto" id="area_index_auto_2012">
+				<div class="public_h3 ztbd_h3">
+    <h3><a href="http://auto.caijing.com.cn/" target="_blank">汽车></a></h3><a href="http://auto.caijing.com.cn/" target="_blank">更多>></a> <a href="javascript:void(0)" name=qc>
+    <div class=clear></div></a>
+</div>
+<div class="cjAuto_top">
+    <dl class=cjAuto_qcdq>
+    <dt><a href="http://car.auto.caijing.com.cn/" target="_blank"><strong>财经网</strong>汽车大全</a></dt>
+        <dd>
+            <ul>
+                <li><a href="http://car.auto.caijing.com.cn/xuanchegongju/?p=0-5" target=_blank>5万以下</a></li>
+
+                <li><a href="http://car.auto.caijing.com.cn/xuanchegongju/?p=5-8" target=_blank>5万-8万</a></li>
+
+                <li><a href="http://car.auto.caijing.com.cn/xuanchegongju/?p=8-12" target=_blank>8万-12万</a></li>
+
+                <li><a href="http://car.auto.caijing.com.cn/xuanchegongju/?p=12-18" target=_blank>12万-18万</a></li>
+
+                <li><a href="http://car.auto.caijing.com.cn/xuanchegongju/?p=18-25" target=_blank>18万-25万</a></li>
+
+                <li><a href="http://car.auto.caijing.com.cn/xuanchegongju/?p=25-40" target=_blank>25万-40万</a></li>
+
+                <li><a href="http://car.auto.caijing.com.cn/xuanchegongju/?p=40-80" target=_blank>40万-80万</a></li>
+
+                <li><a href="http://car.auto.caijing.com.cn/xuanchegongju/?p=80-9999" target=_blank>80万以上</a></li>
+            </ul>
+
+            <ul>
+                <li><a href="http://car.auto.caijing.com.cn/weixingche/" target=_blank>微型车</a></li>
+
+                <li><a href="http://car.auto.caijing.com.cn/xiaoxingche/" target=_blank>小型车</a></li>
+
+                <li><a href="http://car.auto.caijing.com.cn/jincouxingche/" target=_blank>紧凑型车</a></li>
+
+                <li><a href="http://car.auto.caijing.com.cn/zhongxingche/" target=_blank>中型车</a></li>
+
+                <li><a href="http://car.auto.caijing.com.cn/zhongdaxingche/" target=_blank>中大型车</a></li>
+
+                <li><a href="http://car.auto.caijing.com.cn/haohuaxingche/" target=_blank>豪华车</a></li>
+
+                <li><a href="http://car.auto.caijing.com.cn/mpv/" target=_blank>MPV</a></li>
+
+                <li><a href="http://car.auto.caijing.com.cn/suv/" target=_blank>SUV</a></li>
+
+                <li><a href="http://car.auto.caijing.com.cn/paoche/" target=_blank>跑车</a></li>
+
+                <li><a href="http://car.auto.caijing.com.cn/mianbaoche/" target=_blank>面包车</a></li>
+            </ul>
+        </dd>
+    </dl>
+    <dl class=cjAuto_rmpp>
+        <dt><a href="http://car.auto.caijing.com.cn/" target=_blank><strong>热门<br>品牌</strong></a></dt>
+        <dd>
+            <ul>
+                <li><a href="http://car.auto.caijing.com.cn/beijingbenchi/" target=_blank><img src="http://img1.bitauto.com/bt/car/default/images/carimage/m_2_100.jpg"></a></li>
+
+                <li><a href="http://car.auto.caijing.com.cn/cadillac/" target=_blank><img src="http://tx3.cdn.caijing.com.cn/2013-08-19/113188967.jpg"></a></li>
+
+                <li><a href="http://car.auto.caijing.com.cn/chevrolet/" target=_blank><img src="http://img1.bitauto.com/bt/car/default/images/carimage/m_49_100.jpg"></a></li>
+
+                <li><a href="http://car.auto.caijing.com.cn/toyota/" target=_blank><img src="http://img1.bitauto.com/bt/car/default/images/carimage/m_7_100.jpg"></a></li>
+
+                <li><a href="http://car.auto.caijing.com.cn/hyundai/" target=_blank><img src="http://img1.bitauto.com/bt/car/default/images/carimage/m_13_100.jpg"></a></li>
+            </ul>
+        </dd>
+    </dl>
+
+</div>
+				<div class="cjAuto_cot">
+					<div class="cjAuto_qctt">
+    <div class="public_h3">
+        <h3>汽车</h3><a href="http://auto.caijing.com.cn/" target="_blank">更多&gt;&gt;</a> 
+        <div class="clear"></div></div>
+        <ul class="car2Yaowen car2Yaowen2">
+                                    <li><a href="http://auto.caijing.com.cn/2017/0509/4269693.shtml" target="_blank">被路虎撞崩溃的本田，到底犯了多少错？</a></li>
+                                        <li><a href="http://auto.caijing.com.cn/2017/0509/4269578.shtml" target="_blank">女司机买来一辆奥迪，打开引擎盖里面居然是大众车标</a></li>
+                                        <li><a href="http://auto.caijing.com.cn/2017/0509/4269428.shtml" target="_blank">新车减少寿命，这五大禁忌，你中招了吗？</a></li>
+                                        <li><a href="http://auto.caijing.com.cn/2017/0509/4269425.shtml" target="_blank">宝骏510现六大质量问题，车主上诉无门，后悔死了</a></li>
+                                        <li><a href="http://auto.caijing.com.cn/2017/0509/4269413.shtml" target="_blank">大众10速双离合研制失败：彻底放弃</a></li>
+                                        <li><a href="http://auto.caijing.com.cn/2017/0509/4269412.shtml" target="_blank">福布斯全球十大电动汽车品牌：中国占五 没有比亚迪</a></li>
+                                        <li><a href="http://auto.caijing.com.cn/2017/0509/4269344.shtml" target="_blank">长安CS95两驱/四驱顶配车型亮相 </a></li>
+                                        <li><a href="http://auto.caijing.com.cn/2017/0508/4268978.shtml" target="_blank">男子52万提途昂380顶配，当场拆车，结果很失望</a></li>
+                                        <li><a href="http://auto.caijing.com.cn/2017/0508/4268958.shtml" target="_blank">加价销售和质量问题或将毁途昂热销劲儿</a></li>
+                        </ul>
+</div>
+					<div class="cjAuto_yjlx">
+    <div class=public_h3>
+        <h3>汽车·意见领袖</h3><a href="http://blog.caijing.com.cn/expert.html" target="_blank">更多&gt;&gt;</a> 
+        <div class=clear></div>
+    </div>
+    <div class=carQcdr>
+                        <dl class=carQcdr_dl>
+                    <dt><img src="http://img.blog.caijing.com.cn/attachment/avatar/151254_954c64bf4d878ab.jpg"><a href="http://blog.caijing.com.cn/expert_article-151254-75929.shtml" target="_blank"></a> </dt>
+                    <dd><a href="http://blog.caijing.com.cn/expert_article-151254-75929.shtml" target="_blank"><strong>自主品牌主动挑起中外品牌竞争</strong></a> </dd>
+                    <dd>越来越多的自主品牌开始主导向合资公司生产的外资品牌产品发起竞争的要约</dd>
+                </dl>
+                <ul class=carQcdr_ul>
+                            <dl class=carQcdr_dl>
+                    <dt><img src="http://tx2.cdn.caijing.com.cn/2015/0430/1430381929356.jpg"><a href="http://auto.caijing.com.cn/20141111/3745982.shtml" target="_blank"></a> </dt>
+                    <dd><a href="http://auto.caijing.com.cn/20141111/3745982.shtml" target="_blank"><strong>汽车平行进口将终结豪车暴利时代</strong></a> </dd>
+                    <dd>经销商也可以不与车企总经销商玩，最终可能导致总经销商以及4S店体系崩溃</dd>
+                </dl>
+                <ul class=carQcdr_ul>
+                                <li><a href="http://auto.caijing.com.cn/20141020/3726126.shtml" target="_blank">调整股比不是目的 达到共赢才是目标</a></li>
+                    </ul>
+                                <li><a href="http://auto.caijing.com.cn/20141013/3719976.shtml" target="_blank">给经销商带来增量是车企电商的必由之路</a></li>
+                    </ul>
+                </div>
+</div>
+					<div class="cjAuto_jdtp">
+     <div class="car_jdtp" id="car_jdtp">
+        <script language="javascript" src="http://auto.caijing.com.cn/js/cjFoucs_car.js"></script>
+        <script language="javascript">
+            //播放图片地址
+            //图片大小限制：296*197
+            var pics='http://tx3.cdn.caijing.com.cn/2017/0509/thumb_296_242_1494298979715.jpg|http://img6.caijing.com.cn/2017/0509/thumb_296_242_1494297532941.jpg|http://tx3.cdn.caijing.com.cn/2017/0509/thumb_296_242_1494296620678.jpg|http://tx2.cdn.caijing.com.cn/2017/0508/thumb_296_242_1494219682827.jpg|http://tx2.cdn.caijing.com.cn/2017/0508/thumb_296_242_1494219525724.jpg';
+            var mylinks='http://auto.caijing.com.cn/2017/0509/4269388.shtml|http://auto.caijing.com.cn/2017/0509/4269359.shtml|http://auto.caijing.com.cn/2017/0509/4269348.shtml|http://auto.caijing.com.cn/2017/0508/4268950.shtml|http://auto.caijing.com.cn/2017/0508/4268949.shtml'
+            //图片对应描
+            var texts='混动宝马3系将于年内上市 |新款高尔夫谍照曝光 或2017年底上市|2017款丰田汉兰达上市|保时捷老总啥表情众泰SUV售价曝光|丰田陆巡暴改2000马力';
+            var ivWidth=296;//自定义宽
+            var ivHeight=242;//自定义高
+            var _str='http://ws1.cdn.caijing.com.cn/js/2010/imageView.swf';//flash文件地址
+            _str+="?Time="+"5000";//图片自动切换时间：毫秒
+            _str+="&Titles="+encodeURI(texts);//标题内容
+            _str+="&Mode="+"6";//窗口模式：6－淡入淡出，播放按钮；7－随机
+            _str+="&ImgUrls="+pics;//图片地址
+            _str+="&LinkUrls="+escape(mylinks);//链接地址
+            _str+="&TBHeight="+"25";//标题衬底高度
+            _str+="&Font="+"宋体";//标题文字字体
+            _str+="&Size="+"12";//标题文字大小
+            _str+="&Weight="+"normal";//标题文字粗细
+            _str+="&Align="+"center";
+            var f = new cjFoucs('car_jdtp',pics,mylinks,texts,_str,ivWidth,ivHeight);
+             f.init2("rtjdt_botbg","rtjdt_num","rtjdt_num_show","jjxj_tit");
+             f.create2();
+        </script>
+    </div>
+</div>
+				</div>
+			</div>
+			<!-- 汽车 end -->
+			<!-- 科技 begin -->
+			<div class="caij_keji" id="area_index_tech_2012">
+				<div class="public_h3 public_h3bg ztbd_h3">
+					<h3><a href="http://tech.caijing.com.cn/index.html">科技&gt;</a></h3><a href="http://tech.caijing.com.cn/index.html">更多&gt;&gt;</a> <a href="javascript:void(0)" name=kj>
+					<div class=clear></div></a>
+				</div>
+				<div class="cjKeji_cont">
+					<div class="cjKeji_yaowen">
+						<!-- 焦点图 begin -->
+												<div class="phone_jdt">
+							<div id="phone_jdt">														
+								<!-- 焦点图内容 begin-->
+								<script language="javascript" src="http://ws1.cdn.caijing.com.cn/js/keji_pic.js"></script>
+								<script language="javascript">
+									//播放图片地址
+									//图片大小限制：
+									var pics='http://tx2.cdn.caijing.com.cn/2017/0509/thumb_360_175_1494282272688.jpg|http://file.caijing.com.cn/images/nopic.gif|http://img4.caijing.com.cn/2017/0509/thumb_360_175_1494282052843.jpeg|http://img6.caijing.com.cn/2017/0509/thumb_360_175_1494282002177.jpeg|http://img4.caijing.com.cn/2017/0509/thumb_360_175_1494281946287.jpeg';
+									var mylinks='http://tech.caijing.com.cn/20170509/4269236.shtml|http://tech.caijing.com.cn/20170509/4269235.shtml|http://tech.caijing.com.cn/20170509/4269234.shtml|http://tech.caijing.com.cn/20170509/4269233.shtml|http://tech.caijing.com.cn/20170509/4269232.shtml'
+									//图片对应描
+									var texts='途牛订好的酒店“不存在” 耽误行程每人仅获赔100元|陈欧早期项目Garena融资5.5亿美元 成东南亚估值最高|戴尔公开风投基金戴尔科技资本 年投资额约1亿美元|Spotify创始人写信给欧盟：指控苹果和谷歌滥用霸权|三星集团本月或高管大换血 之前因李在镕案耽搁了';
+									var ivWidth=360;//自定义宽
+									var ivHeight=175;//自定义高
+									var _str='http://img.caijing.com.cn/js/2010/imageView.swf';//flash文件地址
+									_str+="?Time="+"5000";//图片自动切换时间：毫秒
+									_str+="&Titles="+encodeURI(texts);//标题内容
+									_str+="&Mode="+"6";//窗口模式：6－淡入淡出，播放按钮；7－随机
+									_str+="&ImgUrls="+pics;//图片地址
+									_str+="&LinkUrls="+escape(mylinks);//链接地址
+									_str+="&TBHeight="+"30";//标题衬底高度
+									_str+="&Font="+"宋体";//标题文字字体
+									_str+="&Size="+"14";//标题文字大小
+									_str+="&Weight="+"bold";//标题文字粗细
+									_str+="&Align="+"center";
+									var f = new hxFoucs_keji('phone_jdt',pics,mylinks,texts,_str,ivWidth,ivHeight);
+									f.init_2("rtjdt_botbg","rtjdt_num","rtjdt_num_show","rtjdt_tit");
+									f.create_2();
+								</script>
+								<!--焦点图内容 end-->
+							</div>	
+						</div>	 
+						<!-- 焦点图 end -->
+						<ul class="kjBoke_ul">
+            <li><a href="http://tech.caijing.com.cn/20170505/4268094.shtml" target="_blank">多地现扫码给服务员打赏 有人最多每月收三千多</a></li>
+            <li><a href="http://tech.caijing.com.cn/20170509/4269231.shtml" target="_blank">亚马逊将统领美国智能音箱市场 今年有望独占70.6%份额</a></li>
+            <li><a href="http://tech.caijing.com.cn/20170509/4269230.shtml" target="_blank">巴菲特：我买苹果股票是因为消费者不想要廉价手机</a></li>
+    </ul>
+					</div>
+					<div class="cjKeji_bowen">
+						<div class=cjkjbw_cont>
+							<div class="cjkjbw_top">
+            <dl>
+            <dt><a href="http://tech.caijing.com.cn/20170509/4269228.shtml" target="_blank"><strong>华尔街调高苹果目标股价 市值将率先突破1万亿美元</strong></a>
+        </dt><dd><p>
+                <a href="http://tech.caijing.com.cn/20170509/4269230.shtml" target="_blank">巴菲特：我买苹果股票是因为消费者不想要廉价手机</a>
+                <a href="http://tech.caijing.com.cn/20170509/4269234.shtml" target="_blank">戴尔公开风投基金戴尔科技资本 年投资额约1亿美元</a>
+                </p>
+    <p></p></dd></dl>
+</div>
+							<ul class=kjBoke_ul>
+            <li><a href="http://tech.caijing.com.cn/20170509/4269236.shtml" target="_blank">途牛订好的酒店“不存在” 耽误行程每人仅获赔100元</a></li>
+            <li><a href="http://tech.caijing.com.cn/20170509/4269235.shtml" target="_blank">陈欧早期项目Garena融资5.5亿美元 成东南亚估值最高</a></li>
+            <li><a href="http://tech.caijing.com.cn/20170509/4269234.shtml" target="_blank">戴尔公开风投基金戴尔科技资本 年投资额约1亿美元</a></li>
+            <li><a href="http://tech.caijing.com.cn/20170509/4269233.shtml" target="_blank">Spotify创始人写信给欧盟：指控苹果和谷歌滥用霸权</a></li>
+            <li><a href="http://tech.caijing.com.cn/20170509/4269232.shtml" target="_blank">三星集团本月或高管大换血 之前因李在镕案耽搁了</a></li>
+            <li><a href="http://tech.caijing.com.cn/20170509/4269231.shtml" target="_blank">亚马逊将统领美国智能音箱市场 今年有望独占70.6%份额</a></li>
+            <li><a href="http://tech.caijing.com.cn/20170509/4269230.shtml" target="_blank">巴菲特：我买苹果股票是因为消费者不想要廉价手机</a></li>
+            <li><a href="http://tech.caijing.com.cn/20170508/4268722.shtml" target="_blank">摩拜单车投资人谈共享充电宝：没什么特别大需求</a></li>
+    </ul>
+						</div>
+					</div>
+					<div class="keji_tpkj">
+    <div class=keji_tpkj>
+        <div class=keji_ptit><h2>图片科技</h2></div>
+        <div class=kejiTpkj>
+            <ul>
+                                    <li><a href="http://tech.caijing.com.cn/20160129/4063571.shtml" target="_blank"><img src="http://img5.caijing.com.cn/2016/0129/1454044240206.jpg"></a><a href="http://tech.caijing.com.cn/20160129/4063571.shtml">HUAWEI WATCH体验</a></li>
+                                    <li><a href="http://tech.caijing.com.cn/20160128/4063031.shtml" target="_blank"><img src="http://tx1.cdn.caijing.com.cn/2016/0128/1453972553519.jpg"></a><a href="http://tech.caijing.com.cn/20160128/4063031.shtml">华为Mate 8体验</a></li>
+                                    <li><a href="http://photos.caijing.com.cn/20150310/3835851.shtml" target="_blank"><img src="http://img2.caijing.com.cn/2015/0310/1425946266339.jpg"></a><a href="http://photos.caijing.com.cn/20150310/3835851.shtml">Apple Watch真机上手</a></li>
+                            </ul>
+        </div>
+    </div>
+</div>
+				</div>
+			</div>
+			<!-- 科技 end -->
+			<!-- 92395：首页视窗2 类型：浮层广告位 尺寸：--->
+<script type="text/javascript">
+_acK({aid:92395,format:0,mode:1,gid:1,serverbaseurl:"afp.csbew.com/"});
+</script>
+
+<!-- 78075：首页视窗 类型：浮层广告位 尺寸：--->
+<script type="text/javascript">
+_acK({aid:78075,format:0,mode:1,gid:1,serverbaseurl:"afp.csbew.com/"});
+</script>
+			<!-- 人文生活 begin -->
+			<div class="rwsh" id="area_index_cjycrwsh_2011">
+<ul id=rwsh_tit class=rwsh_tit>
+<li class=rwt_show><span class=rw_ren>生活</span></li>
+<li><span class=rw_sheng>家园</span></li>
+<li><span class=rw_ren>影视</span></li>
+</ul>
+<div id=rwsh_main class=rwsh_main>
+<ul class="rwm_show renwen">
+
+
+<li class=rwsh_li><a href="" target="_blank"><strong></strong></a>
+<a href="http://yuanchuang.caijing.com.cn/2017/0320/4249466.shtml" target="_blank"><img src="http://img5.caijing.com.cn/2017/0405/thumb_160_131_1491365722112.jpg"></a>
+<a class=rwsh_list href="http://yuanchuang.caijing.com.cn/2017/0320/4249466.shtml" target="_blank">你和纽约顶尖牛排馆只隔一扇门</a></li>
+
+<li class=rwsh_li><a href="" target="_blank"><strong></strong></a>
+<a href="http://life.caijing.com.cn/20170418/4261518.shtml" target="_blank"><img src="http://img5.caijing.com.cn/2017/0424/thumb_160_131_1493002865350.png"></a>
+<a class=rwsh_list href="http://life.caijing.com.cn/20170418/4261518.shtml" target="_blank">早春寒意未退，一件时髦白T拯救品位</a></li>
+
+<li class=rwsh_li><a href="" target="_blank"><strong></strong></a>
+<a href="http://life.caijing.com.cn/20170419/4262058.shtml" target="_blank"><img src="http://img2.caijing.com.cn/2017/0424/thumb_160_131_1493002939766.jpg"></a>
+<a class=rwsh_list href="http://life.caijing.com.cn/20170419/4262058.shtml" target="_blank">我听过你的歌我的城城哥：情商考试送命题怎么答</a></li>
+
+<li class=rwsh_li><a href="" target="_blank"><strong></strong></a>
+<a href="http://life.caijing.com.cn/20170414/4260282.shtml" target="_blank"><img src="http://tx1.cdn.caijing.com.cn/2017/0424/thumb_160_131_1493003267959.jpg"></a>
+<a class=rwsh_list href="http://life.caijing.com.cn/20170414/4260282.shtml" target="_blank">芭蕾鞋轻盈舒适，穿出毫不费力的时髦感</a></li>
+
+<li class=rwsh_li><a href="" target="_blank"><strong></strong></a>
+<a href="http://life.caijing.com.cn/20170410/4257901.shtml" target="_blank"><img src="http://tx1.cdn.caijing.com.cn/2017/0424/thumb_160_131_1493003367361.jpg"></a>
+<a class=rwsh_list href="http://life.caijing.com.cn/20170410/4257901.shtml" target="_blank">人生太短，减肥太长！plus size模特也是一条出路</a></li>
+</ul><ul class=shengh>
+
+<li class=rwsh_li><a href="" target="_blank"><strong></strong></a>
+<a href="http://life.caijing.com.cn/20170208/4231664.shtml" target="_blank"><img src="http://tx1.cdn.caijing.com.cn/2017/0405/thumb_160_131_1491365660892.jpg"></a>
+<a class=rwsh_list href="http://life.caijing.com.cn/20170208/4231664.shtml" target="_blank">迷人的海边小屋，温馨的老式风格</a></li>
+
+<li class=rwsh_li><a href="" target="_blank"><strong></strong></a>
+<a href="http://life.caijing.com.cn/20160809/4160214.shtml" target="_blank"><img src="http://tx2.cdn.caijing.com.cn/2016/0816/1471334082574.jpg"></a>
+<a class=rwsh_list href="http://life.caijing.com.cn/20160809/4160214.shtml" target="_blank">【花园达人】巧分区 花园空间胜过客厅</a></li>
+
+<li class=rwsh_li><a href="" target="_blank"><strong></strong></a>
+<a href="http://life.caijing.com.cn/20160509/4116467.shtml" target="_blank"><img src="http://img3.caijing.com.cn/2016/0627/1467015989471.jpg"></a>
+<a class=rwsh_list href="http://life.caijing.com.cn/20160509/4116467.shtml" target="_blank">看看园艺爱好者是如何改造自己的家</a></li>
+
+<li class=rwsh_li><a href="" target="_blank"><strong></strong></a>
+<a href="http://life.caijing.com.cn/20160627/4138639.shtml" target="_blank"><img src="http://tx3.cdn.caijing.com.cn/2016/0627/1467016061847.jpg"></a>
+<a class=rwsh_list href="http://life.caijing.com.cn/20160627/4138639.shtml" target="_blank">【美家经典】田园牧歌般的日子</a></li>
+
+<li class=rwsh_li><a href="" target="_blank"><strong></strong></a>
+<a href="http://life.caijing.com.cn/20160701/4141696.shtml" target="_blank"><img src="http://img2.caijing.com.cn/2016/1114/1479100880305.jpg"></a>
+<a class=rwsh_list href="http://life.caijing.com.cn/20160701/4141696.shtml" target="_blank">设计，为家书写幸福</a></li>
+</ul><ul class="renwen">
+<li class=rwsh_li><a href="" target="_blank"><strong></strong></a>
+<a href="http://life.caijing.com.cn/20170417/4260877.shtml" target="_blank"><img src="http://img6.caijing.com.cn/2017/0424/thumb_160_131_1493003061827.jpg"></a>
+<a class=rwsh_list href="http://life.caijing.com.cn/20170417/4260877.shtml" target="_blank">奥斯卡影后配置的《小谎大事》，解惑30岁之后的所有迷思</a></li>
+
+<li class=rwsh_li><a href="" target="_blank"><strong></strong></a>
+<a href="http://life.caijing.com.cn/20170216/4235455.shtml" target="_blank"><img src="http://img5.caijing.com.cn/2017/0222/thumb_160_131_1487752781288.jpg"></a>
+<a class=rwsh_list href="http://life.caijing.com.cn/20170216/4235455.shtml" target="_blank">志明与春娇结婚了，“长大”的爱情什么模样？</a></li>
+
+<li class=rwsh_li><a href="" target="_blank"><strong></strong></a>
+<a href="http://life.caijing.com.cn/20170113/4224549.shtml" target="_blank"><img src="http://img2.caijing.com.cn/2017/0119/thumb_160_131_1484805969937.jpg"></a>
+<a class=rwsh_list href="http://life.caijing.com.cn/20170113/4224549.shtml" target="_blank">《国土安全》第六季来了！奎恩没死</a></li>
+
+<li class=rwsh_li><a href="" target="_blank"><strong></strong></a>
+<a href="http://life.caijing.com.cn/20170221/4237167.shtml" target="_blank"><img src="http://img2.caijing.com.cn/2017/0222/thumb_160_131_1487752895857.jpg"></a>
+<a class=rwsh_list href="http://life.caijing.com.cn/20170221/4237167.shtml" target="_blank">被赵又廷的夜华圈粉，对高圆圆只剩羡慕嫉妒恨</a></li>
+
+<li class=rwsh_li><a href="" target="_blank"><strong></strong></a>
+<a href="http://life.caijing.com.cn/20170323/4251281.shtml" target="_blank"><img src="http://img5.caijing.com.cn/2017/0323/thumb_160_131_1490271115677.jpg"></a>
+<a class=rwsh_list href="http://life.caijing.com.cn/20170323/4251281.shtml" target="_blank">休•格兰特今天长这样！？《真爱至上》续集14年回归</a></li>
+</ul>
+</div>
+</div>
+			<!-- 人文生活 end -->
+			<!-- 杂志 begin -->
+			<div class="zazhi">
+				<!-- 杂志上 begin -->
+				<div id=area_index_zazhi_up class=zazhi_up>
+<h3 class=zazhi_lth3><a href="http://magazine.caijing.com.cn/">杂志></a></h3>
+
+<div class=zzlb_lt>
+  <div class=zzlb_img><a href="http://magazine.caijing.com.cn/caijingmagazine/2017/98/" target=_blank><img src="http://img5.caijing.com.cn/2017/0508/thumb_276_360_1494242370738.jpg" width=188></a></div>
+</div>
+
+<div class=zzlb_rt>
+  <div class=zzlb_bt><a class=zzlb_cj href="http://magazine.caijing.com.cn/caijingmagazine/2017/98/" target=_blank>《财经》</a> 杂志 2017年 第10期 总第497期 出版日期：2017年5月1日 下期出版：2017年5月15日 <a class=zzlb_btn1 href="http://www.caijing.com.cn/subscription/" target=_blank>订阅杂志</a> <a class=zzlb_btn2 href="http://magazine.caijing.com.cn/caijingmagazine/2017/98/" target=_blank>在线阅读</a></div>
+  <div class=zzlb_nr>
+    <div class=zzlb_nr_lt>
+      <h3>封面></h3>
+      <div class=fmwz>
+        <div class=fmwz_bt><a href="" target=_blank></a></div>
+        <p></p>
+      </div>
+      
+      <div class=fmwz> </div>
+     </div>
+     <div class=zzlb_nr_rt>
+        <div class=jctj>
+          <h3>精彩推荐></h3>
+          <ul class=jctj_main>
+            <li><a class=jctj_nav href="http://magazine.caijing.com.cn/financial_observer/" target=_blank>[社评]</a><a class=jctj_wz href="http://magazine.caijing.com.cn/20170405/4256319.shtml" target=_blank>以改革促稳，以改革求进</a></li>
+            <li><a class=jctj_nav href="http://magazine.caijing.com.cn/economists/" target=_blank>[经济学家]</a><a class=jctj_wz href="http://magazine.caijing.com.cn/20170222/4237641.shtml" target=_blank>中国的经济“大棒”</a></li>
+            <li><a class=jctj_nav href="http://magazine.caijing.com.cn/financial/" target=_blank>[资本与金融]</a><a class=jctj_wz href="http://magazine.caijing.com.cn/20170222/4237636.shtml" target=_blank>货币宽松淡出 信贷调控加码</a></li>
+            <li><a class=jctj_nav href="http://magazine.caijing.com.cn/view_comment/" target=_blank>[观点评述]</a><a class=jctj_wz href="http://magazine.caijing.com.cn/20170222/4237593.shtml" target=_blank>善用中国的外汇储备</a></li>
+            <li><a class=jctj_nav href="http://magazine.caijing.com.cn/coverage/" target=_blank>[时事报道]</a><a class=jctj_wz href="http://magazine.caijing.com.cn/20161226/4216874.shtml" target=_blank>特朗普外交迷局</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class=clear></div>
+    </div>
+    <div class=zzlb_cont> <span>杂志栏目></span> <a href="http://magazine.caijing.com.cn/economy/" target=_blank>[经济全局]</a> <a href="http://magazine.caijing.com.cn/special/" target=_blank>[公共政策]</a> <a href="http://magazine.caijing.com.cn/environ_tech/" target=_blank>[环境与科技]</a> <a href="http://magazine.caijing.com.cn/rule/" target=_blank>[市场与法治]</a> <a href="http://magazine.caijing.com.cn/industry/" target=_blank>[公司与产业]</a> <a href="http://magazine.caijing.com.cn/roundtable/" target=_blank>[财经论衡]</a> </div>
+  </div>
+  <div class="clear"></div>
+</div>
+				<!-- 杂志上 end -->
+                <!-- 杂志下 begin -->
+                <div class="zazhi_down" id="area_index_zazhi_down">
+					<div class=zazhi_down_lt>
+  <div class=zazhi_down_nr>
+    <div class=down_lt><a href="http://www.hbrchina.org/141205/index.shtml" target=_blank><img src="http://tx2.cdn.caijing.com.cn/2014-12-08/114361149.png" width=100 height=130></a> </div>
+    <div class=down_rt>
+      <div class=down_bt><a href="http://www.hbrchina.org/141205/index.shtml" target=_blank>《哈佛商业评论》</a> 2014年第12期（12月） </div>
+      <div class=zznr_main>
+        <div class=zznr_lt><a href="http://www.hbrchina.org/141205/index.shtml" target=_blank>“新权力”时代</a><a href="http://www.hbrchina.org/141205/index.shtml" target=_blank>破解“团体迷思”</a><a href="http://www.hbrchina.org/141205/index.shtml" target=_blank>女性要想成功，先重构家庭责任</a><a href="http://www.hbrchina.org/141205/index.shtml" target=_blank>90天成功创新法</a></div>
+        <div class=zznr_rt><a href="http://www.hbrchina.org/141205/index.shtml" target=_blank>更多详情</a> <a href="http://www.caijing.com.cn/subscription/" target=_blank>订阅杂志</a> <a href="http://www.hbrchina.org/141205/index.shtml" target=_blank>在线阅读</a> </div>
+        <div class=clear></div>
+      </div>
+    </div>
+    <div class=clear></div>
+  </div>
+</div>
+
+					<div class=zazhi_down_rt>
+  <div class=zazhi_down_nr>
+    <div class=down_lt><a href="http://www.lensmagazine.com.cn/magazine/2015-01" target=_blank><img src="http://tx3.cdn.caijing.com.cn/2015-01-06/114366578.jpg" width=100 height=130></a> </div>
+    <div class=down_rt>
+      <div class=down_bt><a href="http://www.lensmagazine.com.cn/magazine/2015-01" target=_blank>《文景Lens》</a> 2015年 第1期</div>
+      <div class=zznr_main>
+        <div class=zznr_lt><a href="http://www.lensmagazine.com.cn/magazine/2015-01" target=_blank>面对生命终点时</a> <a href="http://www.lensmagazine.com.cn/magazine/2015-01" target=_blank>请同我学习死亡，像个孩子一样</a> <a href="http://www.lensmagazine.com.cn/magazine/2015-01" target=_blank>这里，死者帮助生者</a> <a href="http://www.lensmagazine.com.cn/magazine/2015-01" target=_blank>美会慰藉那些死亡与悲伤</a> </div>
+        <div class=zznr_rt><a href="http://www.lensmagazine.com.cn/magazine/2015-01" target=_blank>更多详情</a> <a href="http://www.lensmagazine.com.cn/subscribe" target=_blank>订阅杂志</a> <a href="http://www.lensmagazine.com.cn/magazine/2015-01" target=_blank>在线阅读</a> </div>
+        <div class=clear></div>
+      </div>
+    </div>
+    <div class=clear></div>
+  </div>
+</div>
+
+					<div class=zazhi_down_lt>
+  <div class=zazhi_down_nr>
+    <div class=down_lt><a href="http://magazine.caijing.com.cn/shijianxian/" target=_blank><img src="http://tx3.cdn.caijing.com.cn/2014-11-05/114354713.jpg" width=100 height=130></a> </div>
+    <div class=down_rt>
+      <div class=down_bt><a href="http://magazine.caijing.com.cn/shijianxian/" target=_blank>《时间线》</a> 2014年11月</div>
+      <div class=zznr_main>
+        <div class=zznr_lt><a href="http://magazine.caijing.com.cn/shijianxian/" target=_blank>联想YOGA术</a> <a href="http://magazine.caijing.com.cn/shijianxian/" target=_blank>新高德 画“云图”</a> <a href="http://magazine.caijing.com.cn/shijianxian/" target=_blank>运动不做孤胆英雄</a> <a href="http://magazine.caijing.com.cn/shijianxian/" target=_blank>Yun OS重出江湖</a> </div>
+        <div class=zznr_rt><a href="http://magazine.caijing.com.cn/shijianxian/" target=_blank>更多详情</a> <a href="http://www.caijing.com.cn/subscription/" target=_blank>订阅杂志</a> <a href="http://www.caijing.com.cn/subscription/" target=_blank>在线购买</a> </div>
+        <div class=clear></div>
+      </div>
+    </div>
+    <div class=clear></div>
+  </div>
+</div>
+					
+					<div class=zazhi_down_rt>
+    <div class=zazhi_down_nr>
+        <div class=down_lt><a href="http://magazine.caijing.com.cn/2013/le_point2/index.html" target=_blank><img src="http://tx3.cdn.caijing.com.cn/2013-07-31/113112395.jpg" width=100 height=130></a> </div>
+        <div class=down_rt>
+            <div class=down_bt><a href="http://magazine.caijing.com.cn/2013/le_point2/index.html" target=_blank>《财经》Le Point</a> 2013年 第2期</div>
+            <div class=zznr_main>
+                <div class=zznr_lt><a href="http://magazine.caijing.com.cn/2013-07-31/113112354.html" target=_blank>有一种理想名为大学</a> <a href="http://magazine.caijing.com.cn/2013-07-31/113112352.html" target=_blank>葡萄酒硕士班：新秀登场</a> <a href="http://magazine.caijing.com.cn/2013-07-31/113112332.html" target=_blank>马赛小海湾里的女航海家</a> <a href="http://magazine.caijing.com.cn/2013-07-31/113112006.html" target=_blank>洛桑酒店管理学院：成功秘诀</a> </div>
+                <div class=zznr_rt><a href="http://magazine.caijing.com.cn/lepoint_before/" target=_blank>更多详情</a> <a href="http://tx2.cdn.caijing.com.cn/upload/caijinglepoint0617.pdf" target=_blank>在线下载</a> <a href="http://magazine.caijing.com.cn/2013/le_point2/index.html" target=_blank>在线阅读</a> </div>
+                <div class=clear></div>
+            </div>
+        </div>
+        <div class=clear></div>
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="clear"></div>
+                </div>
+                <!-- 杂志下 end -->
+				<div class="clear"></div>
+			</div>
+			<!-- 杂志 end -->
+			<!-- 底部广告位 begin -->
+			<div id="area_index_cjdbgg_2011"> </div>
+			<!-- 底部广告位 edn -->
+
+		
+            <!-- 52950259：首页右侧画中画 类型：固定 尺寸：300x440-->
+            <script type="text/javascript">
+            _acM({aid:"mm_113716037_12970143_52950259",format:1,mode:1,gid:1,destid:"N_Right_In_Article_Ad_homepage",serverbaseurl:"afpeng.alimama.com/"});
+            </script>
+
+			<!-- 52950260：首页中部半通栏1 类型：固定 尺寸：645x90-->
+			<script type="text/javascript">
+            _acM({aid:"mm_113716037_12970143_52950260",format:1,mode:1,gid:1,destid:"N_Mid_Page_Banner_1_homepage",serverbaseurl:"afpeng.alimama.com/"});
+            </script>
+
+            <!-- 52950261：首页中部半通栏2 类型：固定 尺寸：645x90-->
+            <script type="text/javascript">
+            _acM({aid:"mm_113716037_12970143_52950261",format:1,mode:1,gid:1,destid:"N_Mid_Page_Banner_2_homepage",serverbaseurl:"afpeng.alimama.com/"});
+            </script>      
+            
+            <!-- 52950262：首页中部半通栏3 类型：固定 尺寸：645x90-->
+            <script type="text/javascript">
+            _acM({aid:"mm_113716037_12970143_52950262",format:1,mode:1,gid:1,destid:"N_Mid_Page_Banner_3_homepage",serverbaseurl:"afpeng.alimama.com/"});
+            </script>
+
+            <!-- 52950330：首页中部半通栏4 类型：固定 尺寸：645x90-->
+            <script type="text/javascript">
+            _acM({aid:"mm_113716037_12970143_52950330",format:1,mode:1,gid:1,destid:"N_Mid_Page_Banner_4_homepage",serverbaseurl:"afpeng.alimama.com/"});
+            </script>
+						
+      		<!-- 52950207：首页中部半通栏5 类型：固定 尺寸：645x90-->
+            <script type="text/javascript">
+            _acM({aid:"mm_113716037_12970143_52950207",format:1,mode:1,gid:1,destid:"N_Mid_Page_Banner_5_homepage",serverbaseurl:"afpeng.alimama.com/"});
+            </script>
+
+            <!-- 52950258：首页右侧小通栏 类型：固定 尺寸：300x220-->
+            <script type="text/javascript">
+            _acM({aid:"mm_113716037_12970143_52950258",format:1,mode:1,gid:1,destid:"N_Right_In_Article_Ad_small",serverbaseurl:"afpeng.alimama.com/"});
+            </script>
+			
+			
+			
+			
+			
+			<script type="text/javascript" src="http://tx1.cdn.caijing.com.cn/js/endtools_2012.js?2013"></script>
+			<UNION_TAG_INDEX_FOOTER>
+						<!-- 底部链接 begin -->
+			<div id="area_index_comm_footer1_2011">
+				<div class="bottom">
+
+					<div class="bott_hz">
+						<div class="bott_tab">
+							<div class="btab_tit" >
+								<ul id="btab_tit" >
+									<li class="tabt_show">财讯集团</li>
+<li >合作伙伴</li>
+<li >财经资讯</li>
+<li >股票金融</li>
+<li >商务管理</li>
+<li >时尚娱乐</li>
+<li >友情视频</li>
+<li >友情链接</li>
+
+									
+									<!-- <li>合作客户</li> -->							
+								</ul>
+								<ul>
+									<li class="btab_more"><a target="_blank" href="http://corp.caijing.com.cn/link/">更多</a></li>
+								</ul>
+							</div>
+
+															<div id="btab_main" class="btab_main">
+  <ul class="tabt_show">
+            <li><a target="_blank" href="http://www.seecmedia.net/">SEEC财讯</a></li>
+              <li><a target="_blank" href="http://www.hexun.com/">和讯</a></li>
+              <li><a target="_blank" href="http://www.sichina.com/">体育画报</a></li>
+              <li><a target="_blank" href="http://beijing.timeoutcn.com/">TimeOut消费导刊</a></li>
+              <li><a target="_blank" href="http://www.cnap.com.cn/">中国汽车画报</a></li>
+              <li><a target="_blank" href="http://www.autocarcn.com/">动感驾驭</a></li>
+              <li><a target="_blank" href="http://www.xinlvxing.com.cn">新旅行</a></li>
+              <li><a target="_blank" href="http://www.bhgmag.com.cn">美好家园</a></li>
+              <li><a target="_blank" href="http://www.xindichan.com.cn">新地产</a></li>
+              <li><a target="_blank" href="http://www.capitalweek.com.cn">证券市场周刊</a></li>
+              <li><a target="_blank" href="http://www.hislife.com.cn">HisLife他生活</a></li>
+              <li><a target="_blank" href="http://www.vmarketing.cn/index.html">成功营销</a></li>
+              <li><a target="_blank" href="http://www.ihongpan.com/">证券市场红周刊</a></li>
+              <li><a target="_blank" href="http://www.qxrisk.com/">旗星公司</a></li>
+              <li><a target="_blank" href="http://www.grazia.com.cn/">红秀Grazia</a></li>
+              <li><a target="_blank" href="http://www.hbrchina.org/">哈佛商业评论</a></li>
+        </ul>
+  <ul >
+            <li><a target="_blank" href="http://finance.sina.com.cn/">新浪财经</a></li>
+              <li><a target="_blank" href="http://finance.qq.com/">腾讯财经</a></li>
+              <li><a target="_blank" href="http://money.163.com/">网易财经</a></li>
+              <li><a target="_blank" href="http://finance.ifeng.com/">凤凰财经</a></li>
+              <li><a target="_blank" href="http://www.cnfol.com/">中金在线</a></li>
+              <li><a target="_blank" href="http://cn.reuters.com/">路透中文网</a></li>
+              <li><a target="_blank" href="http://www.ftchinese.com/">FT中文网</a></li>
+              <li><a target="_blank" href="http://jingji.cntv.cn/">CCTV经济频道</a></li>
+              <li><a target="_blank" href="http://www.jrj.com.cn/">金融界</a></li>
+              <li><a target="_blank" href="http://www.yicai.com/">第一财经</a></li>
+              <li><a target="_blank" href="http://www.inewsweek.cn/">中国新闻周刊</a></li>
+              <li><a target="_blank" href="http://www.wujieinfo.com/">无界新辉</a></li>
+              <li><a target="_blank" href="http://www.chinaweekly.cn/">中国周刊</a></li>
+              <li><a target="_blank" href="http://www.cyzone.cn/">创业邦</a></li>
+              <li><a target="_blank" href="http://www.glinfo.com/">大宗商品网</a></li>
+              <li><a target="_blank" href="http://www.eme2000.com/">中小企业服务平台</a></li>
+              <li><a target="_blank" href="http://finance.china.com.cn/">中国网财经中心</a></li>
+              <li><a target="_blank" href="http://csm.macrochina.com.cn/">宏观经济学会</a></li>
+              <li><a target="_blank" href="http://www.7tin.cn">青亭网</a></li>
+              <li><a target="_blank" href="http://www.10jqka.com.cn/">同花顺</a></li>
+              <li><a target="_blank" href="http://www.prnasia.com/">美通社</a></li>
+              <li><a target="_blank" href="http://oil.chem99.com/">卓创资讯石油网</a></li>
+              <li><a target="_blank" href="http://www.ipivot.cn/">《支点》杂志</a></li>
+              <li><a target="_blank" href="http://www.hjysh.cn/">环境与生活网</a></li>
+              <li><a target="_blank" href="http://www.xcf.cn/">新财富</a></li>
+        </ul>
+  <ul >
+            <li><a target="_blank" href="http://www.cctvcj.com">CCTV证券资讯</a></li>
+              <li><a target="_blank" href="http://business.sohu.com/ ">搜狐财经频道</a></li>
+              <li><a target="_blank" href="http://biz.tianya.cn/">天涯经济频道</a></li>
+              <li><a target="_blank" href="http://finance.southcn.com/">南方网财经频道</a></li>
+              <li><a target="_blank" href="http://www.ccstock.cn/">中国资本证券网</a></li>
+              <li><a target="_blank" href="http://www.21our.com/">天下财经</a></li>
+              <li><a target="_blank" href="http://www.p5w.net/">全景网</a></li>
+              <li><a target="_blank" href="http://www.58188.com/">顶尖财经</a></li>
+              <li><a target="_blank" href="http://www.jfinfo.com/">巨丰投顾</a></li>
+              <li><a target="_blank" href="http://wallstreetcn.com/">华尔街见闻</a></li>
+              <li><a target="_blank" href="http://finance.haiwainet.cn/">海外网财经</a></li>
+        </ul>
+  <ul >
+            <li><a target="_blank" href="http://www.bankrate.com.cn/">银率网</a></li>
+              <li><a target="_blank" href="https://www.leqian.com/">乐钱</a></li>
+              <li><a target="_blank" href="http://www.mycaixun.com/">我的财讯</a></li>
+              <li><a target="_blank" href="http://www.kiiik.com/index.jsp">中国金融投资</a></li>
+              <li><a target="_blank" href="http://www.ppa18.com/">平安保险</a></li>
+              <li><a target="_blank" href="http://www.55188.com/">理想在线证券网</a></li>
+              <li><a target="_blank" href="http://www.cnfund.cn/ ">中国基金网</a></li>
+              <li><a target="_blank" href="http://www.cfachina.org/ ">中国期货业协会</a></li>
+              <li><a target="_blank" href="http://www.southmoney.com/">南方财富网</a></li>
+              <li><a target="_blank" href="http://www.591hx.com/">华讯财经</a></li>
+              <li><a target="_blank" href="http://www.hzins.com/">慧择保险网</a></li>
+              <li><a target="_blank" href="http://www.emoney.cn/">益盟操盘手</a></li>
+              <li><a target="_blank" href="http://www.jnlc.com/">金牛理财网</a></li>
+              <li><a target="_blank" href="http://www.fx168.com/">FX168财经网</a></li>
+        </ul>
+  <ul >
+            <li><a target="_blank" href="http://www.hc360.com/">慧聪网</a></li>
+              <li><a target="_blank" href="http://www.rongzicn.com/ ">融资网</a></li>
+              <li><a target="_blank" href="http://www.topfo.com/">中国招商投资网</a></li>
+              <li><a target="_blank" href="http://www.chinaccm.com/">中华商务网</a></li>
+              <li><a target="_blank" href="http://www.hroot.com/default/index.html ">HRoot管理世界</a></li>
+              <li><a target="_blank" href="http://www.embatimes.com/">EMBA时代网</a></li>
+              <li><a target="_blank" href="http://wiki.mbalib.com">MBA智库</a></li>
+        </ul>
+  <ul >
+            <li><a target="_blank" href="http://www.ucar.cn/">优卡二手车</a></li>
+              <li><a target="_blank" href="http://www.chinasspp.com/">中国时尚品牌网</a></li>
+              <li><a target="_blank" href="http://www.idoican.com.cn/ ">爱读爱看网</a></li>
+              <li><a target="_blank" href="http://www.yokamen.cn/ ">YOKA男士网</a></li>
+        </ul>
+  <ul >
+            <li><a target="_blank" href="http://www.joy.cn/">激动网</a></li>
+              <li><a target="_blank" href="http://v.6.cn/">六间房</a></li>
+              <li><a target="_blank" href="http://tv.hexun.com/">和讯视频</a></li>
+              <li><a target="_blank" href="http://www.v1.cn/">第一视频</a></li>
+              <li><a target="_blank" href="http://v.ifeng.com/">凤凰视频</a></li>
+              <li><a target="_blank" href="http://www.iqiyi.com/business/">爱奇艺财经</a></li>
+              <li><a target="_blank" href="http://v.114la.com/">114啦电影 </a></li>
+        </ul>
+  <ul >
+            <li><a target="_blank" href="http://www.gmw.cn/">光明网</a></li>
+              <li><a target="_blank" href="http://www.ccidnet.com/">赛迪网</a></li>
+              <li><a target="_blank" href="http://www.xinmin.cn/">新民网</a></li>
+              <li><a target="_blank" href="http://www.sino-manager.com/ ">经理人网</a></li>
+              <li><a target="_blank" href="http://www.tianji.com/ ">天际网</a></li>
+              <li><a target="_blank" href="http://www.ezcap.cn/ ">EZCapital</a></li>
+              <li><a target="_blank" href="http://www.ipr.gov.cn/">中国保护知识产权网</a></li>
+              <li><a target="_blank" href="http://www.zuojing.com/ ">坐井网</a></li>
+              <li><a target="_blank" href="http://www.cnpickups.com/ ">中国皮卡网</a></li>
+              <li><a target="_blank" href="http://www.cnautonews.com/ ">汽车网</a></li>
+              <li><a target="_blank" href="http://www.iqilu.com/ ">齐鲁网</a></li>
+              <li><a target="_blank" href="http://home.soufun.com/ ">搜房家居网</a></li>
+              <li><a target="_blank" href="http://www.chnsuv.com/ ">SUV汽车</a></li>
+              <li><a target="_blank" href="http://www.lietou.com/ ">猎聘网</a></li>
+              <li><a target="_blank" href="http://www.chinadaily.com.cn/hqzx/index.html">中国日报网</a></li>
+              <li><a target="_blank" href="http://finance.cn.yahoo.com/">雅虎财经</a></li>
+              <li><a target="_blank" href="http://www.zhongdaonet.com/">中道网</a></li>
+              <li><a target="_blank" href="http://www.cneo.com.cn/">企业观察网</a></li>
+              <li><a target="_blank" href="http://tianqi.114la.com/">114啦天气 </a></li>
+              <li><a target="_blank" href="http://www.ccud.org.cn/">城市中国网</a></li>
+              <li><a target="_blank" href="http://www.askci.com/">中商情报网</a></li>
+              <li><a target="_blank" href="http://www.thfr.com.cn/">清华金融评论</a></li>
+              <li><a target="_blank" href="http://www.cngold.com.cn/">中金网</a></li>
+        </ul>
+
+								<!-- <ul>
+									<li><a target="_blank" href="http://www.wenjun.com.cn/wj/index.html">文君酒</a></li>
+								</ul> -->						
+							</div>
+
+
+						</div>
+						<div class="bott_join" style="position:relative;">
+							<div style="width:300px;height:140px;overflow:hidden;z-index:-1">
+								<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="300" title="">
+									<param width="300" height="" name="movie" value="http://tx1.cdn.caijing.com.cn/index/swf/joinus2.swf" />
+									<param name="quality" value="high" />
+									<param name="wmode" value="opaque">
+									<embed src="http://tx1.cdn.caijing.com.cn/index/swf/joinus2.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="300" height="" wmode="opaque"></embed>
+								</object> 
+								<div id="masker" style="cursor: hand; position:absolute; top:0px; left:0; width:300px; height:140px; z-index:1; visibility: visible;"><a href="http://www.caijing.com.cn/"><img src="http://tx1.cdn.caijing.com.cn/index/images/blank.gif" width="300" height="140" border="0" /></a></div>
+							</div>
+						</div>
+					</div>
+					<div class="clear"></div>
+					</div>
+				</div>
+				<div class="clear"></div>
+				<!--<script type="text/javascript" >
+					document.domain="caijing.com.cn";
+				</script>-->	
+			</div>
+			<!-- 底部链接 end -->
+		</div>
+	</div>
+	<!-- 中部内容 begin -->
+	
+	</div></div>
+
+	<!-- 底部 begin -->
+	<div class="foot" id="area_index_comm_footer2_2011">
+		<div class="footer">
+			<div class="footer_link">
+				<div class="flink_lt">
+					<a href="http://corp.caijing.com.cn/caijing/" rel="nofollow">关于财经网</a>|<a href="http://corp.caijing.com.cn/aboutus/index.html" rel="nofollow">关于我们</a>|<a href="http://corp.caijing.com.cn/contactus/index.html" rel="nofollow">联系我们</a>|<a href="http://corp.caijing.com.cn/ads/index.shtml" rel="nofollow">广告合作</a>|<a href="http://corp.caijing.com.cn/fellowship/">财经奖学金</a>|<a href="http://corp.caijing.com.cn/joinus/" rel="nofollow">财经招聘</a>|<a href="http://corp.caijing.com.cn/environment/">环境公益中心</a>|<a href="http://www.caijing.com.cn/webmap/">网站地图</a>|<a href="http://english.caijing.com.cn/aboutus/">About caijing.com.cn</a>
+				</div>
+				<div class="flink_rt">
+					<a class="flink_return" href="javascript:window.scrollTo('0','0');" target="_self"></a>
+				</div>
+			</div>
+			<div class="copybd">有意与本刊合作者，有关合作事宜请与财经网联系。未经财经网书面授权，请勿转载或建立镜像，否则即为侵权。<br/>
+				 [<a class="copybd_a" href="http://www.miibeian.gov.cn/"><span>京ICP证150772号</span></a>]　增值电信业务经营许可证[<a class="copybd_a" href="http://www.miibeian.gov.cn/"><span>B2-20040250</span></a>]　广告经营许可证<span>[京海工商广字第0407号]</span>　<span style=" background:url(http://img1.caijing.com.cn/2016/0728/1469684072583.png) left center no-repeat; padding-left:25px;height:20px; line-height:20px; display:inline-block;"><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502031381" style="height:20px; line-height:20px;color:#fff;">京公网安备11010502031381号</a></span>　<span>京ICP备15020712号-1</span><br/>违法和不良信息举报电话：010-85651074   举报邮箱：jubao@caijing.com.cn<br/>Copyright 财经网 All Rights   Reserved 版权所有 复制必究<br/>
+			</div>
+		</div>
+	</div>
+	<style>
+    .foot{overflow:hidden;height:auto;background:#05172f url(http://upimages.caijing.com.cn/2017/0123/1485142527811.gif) 0 0 repeat-x}
+    .security{width:100%; background:#05172f;}
+	.securitys{width:670px; margin:0 auto; padding-bottom:20px;}
+	.securitys span{padding:0 5px; display:block; float:left;}
+
+    </style>
+    <div class="security">
+    	<div class="securitys">
+            <span><a href="http://www.bj.cyberpolice.cn/index.do" target="_blank"><img src="http://tx3.cdn.caijing.com.cn/2013-10-29/113492530.jpg" /></a></span>
+            <span><a href="http://www.bjjubao.org/" target="_blank"><img src="http://tx1.cdn.caijing.com.cn/2013-10-29/113492554.jpg" /></a></span>
+            <span><a href="http://net.china.com.cn/index.htm" target="_blank"><img src="http://tx2.cdn.caijing.com.cn/2013-10-29/113492557.jpg" /></a></span>
+            <span><a href="http://www.wenming.cn/" target="_blank"><img src="http://tx1.cdn.caijing.com.cn/2013-10-29/113492588.jpg" /></a></span>
+            <!--可信网站图片LOGO安装开始-->
+            <script src="http://kxlogo.knet.cn/seallogo.dll?sn=e13102211010042996flqg000000&size=0"></script>
+            <!--可信网站图片LOGO安装结束-->
+            <div class="clear"></div>
+        </div>
+    </div>
+
+<!--google analytics start-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-12405649-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!--google analytics end -->
+<!--Baidu analytics start-->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?b0bfb2d8ed2ed295c7354d304ad369f1";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<!--Baidu analytics end-->
+<!--Baidu qudao analytics start-->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?3694d7ec09e48181debb3e5b975f1721";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<!--Baidu qudao analytics end-->
+
+<!-- 左右边浮动按钮 begin -->
+<script type="text/javascript">
+$(document).ready(function(){
+(function(){
+	var $backToTopTxt = "", 
+	
+	$backToTopEle = $('<div class="backToTop"></div>').appendTo($("body"))
+		.text($backToTopTxt).attr("title", $backToTopTxt).click(function(){
+			$("html, body").animate({ scrollTop: 0 }, 350);
+	}), 
+	$backToTopFun = function(){
+		var st = $(document).scrollTop(), winh = $(window).height();
+		(st > 800)? $backToTopEle.show(): $backToTopEle.hide();
+		
+		//(st > 800)? fnav.show(): fnav.hide();
+		//IE6下的定位
+		if(!window.XMLHttpRequest){
+			$backToTopEle.css("top", st + winh - 280);
+		}
+	};
+	
+	$(window).bind("scroll", $backToTopFun);
+	$(function(){ $backToTopFun(); });
+
+})();
+});
+
+var lastScrollY=0;
+var percent;
+function heartBeat(){
+lastScrollY =document.documentElement.scrollTop || document.body.scrollTop;
+if(lastScrollY<800)
+{
+document.getElementById("float_nav").style.display="none";
+}
+else
+{
+document.getElementById("float_nav").style.display="block";
+}
+}
+window.setInterval("heartBeat()",1);
+</script>
+<!-- 左右边浮动按钮 end -->
+</UNION_TAG_INDEX_FOOTER>
+<script type="text/javascript">
+	Tabp("wzph_tit","wzph_main","pht_show");
+	Tabp("wzph2_tit","wzph2_main","pht_show");
+	Tabp("rwsh_tit","rwsh_main","rwt_show");
+	Tabp("btab_tit","btab_main","tabt_show");
+    Tabp("wzph3_tit","wzph3_main","pht_show");
+</script>
+</body>
+</html>

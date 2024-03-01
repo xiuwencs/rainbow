@@ -1,0 +1,1142 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>斗鱼 - 每个人的直播平台</title>
+    <meta name="renderer" content="webkit">
+    <meta name="keywords" content="热门游戏直播,游戏直播,高清游戏直播," />
+    <meta name="description" content="斗鱼 - 每个人的直播平台提供高清、快捷、流畅的视频直播和游戏赛事直播服务，包含英雄联盟lol直播、穿越火线cf直播、dota2直播、美女直播等各类热门游戏赛事直播和各种名家大神游戏直播，内容丰富，推送及时，带给你不一样的视听体验，一切尽在斗鱼 - 每个人的直播平台。" />
+    <link href="/favicon.ico" type="image/x-icon" rel=icon>
+    <link href="/favicon.ico" type="image/x-icon" rel="shortcut icon">
+
+    <script type="text/javascript">
+    var $SYS = {"cookie_pre":"acf_","web_url":"https:\/\/shark.douyucdn.cn\/","upload_url":"https:\/\/staticlive.douyucdn.cn\/upload\/","res_url":"https:\/\/staticlive.douyucdn.cn\/common\/","res_ver":"8.439","resource_url":"https:\/\/res.douyucdn.cn\/resource\/","swf_ver":"v81618","avatar_url":"https:\/\/apic.douyucdn.cn\/","sgate":"","pay_site_host":"https:\/\/cz.douyu.com","tvk":"ccn","tn":"ctn","fh":"https:\/\/dotcounter.douyucdn.cn\/deliver\/fish","fh2":"https:\/\/dotcounter.douyucdn.cn\/deliver\/fish2","ucp_front":"https:\/\/ucp.douyucdn.cn\/ucp.do","webconfUrl":"https:\/\/webconf.douyucdn.cn\/","pmChatPopwindUrl":"https:\/\/msg.douyu.com","yubaDomain":"\/\/yuba.douyu.com\/","vsite_url":"https:\/\/v.douyu.com"};
+    $SYS['sport'] = [];
+    var $DYS = {};
+    $DYS['page_init_time'] = new Date().getTime();
+        window.passport_host = '//passport.douyu.com/';
+    window.client_id = '1';
+</script>
+
+<link rel="stylesheet" type="text/css" href="https://shark.douyucdn.cn/shark/lib/css/base/1.0/base.css?160114" /><link rel="stylesheet" type="text/css" href="https://shark.douyucdn.cn/app/douyu/third/jquery.mCustomScrollbar/jquery.mCustomScrollbar.min.css?170112" /><script type="text/javascript" charset="utf-8" src="https://shark.douyucdn.cn/shark/lib/js/port/shark-all.js?160113"></script><script type="text/javascript" charset="utf-8" src="https://shark.douyucdn.cn/shark/lib/js/lib/jquery.js?160113"></script><script type="text/javascript" charset="utf-8" src="https://shark.douyucdn.cn/app/douyu/third/jquery.mCustomScrollbar/jquery.mCustomScrollbar.concat.min.js?170508"></script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+	setTimeout(function(){
+		var hm = document.createElement("script");
+		hm.src = "//hm.baidu.com/hm.js?e99aee90ec1b2106afe7ec3b199020a7";
+		var s = document.getElementsByTagName("script")[0]; 
+		s.parentNode.insertBefore(hm, s);
+	},0);
+})();
+</script>    <link rel="stylesheet" type="text/css" href="https://shark.douyucdn.cn/app/douyu/css/common.css?nv=8.439" /><link rel="stylesheet" type="text/css" href="https://shark.douyucdn.cn/app/douyu/css/com/app-all.css?nv=8.439" /><link rel="stylesheet" type="text/css" href="https://shark.douyucdn.cn/app/douyu/css/page/index/app-all.css?nv=8.439" />
+            <style type="text/css">
+            .banner .bglink {background: url(https://staticlive.douyucdn.cn/upload/signs/201705091800136648.jpg) center bottom no-repeat;}
+        </style>
+    
+    <script type="text/javascript">
+    var _pageadvar = [{"adid":"612299","srcid":"signs\/201705031432187816.jpg","link":"http:\/\/g.wan.douyu.com\/s\/1\/1259\/104.html?frm=sy-fl-xt","posid":"1","proid":"2180","priority":"1","ec":{"innerlink":"0"}},{"adid":"612304","srcid":"signs\/201705031443484797.jpg","link":"http:\/\/g.wan.douyu.com\/s\/1\/1259\/193.html?frm=sy-yx-xt","posid":"2","proid":"2180","priority":"1","ec":{"innerlink":"0"}},{"adid":"612305","srcid":"signs\/201705031447316994.jpg","link":"http:\/\/g.wan.douyu.com\/s\/1\/1259\/109.html?frm=sy-zbtl1","posid":"3","proid":"2180","priority":"1","ec":{"innerlink":"0"}},{"adid":"610403","srcid":"signs\/201702081833143037.jpg","link":"http:\/\/ccc.spdb.com.cn\/miniSite\/1324\/douyu.shtml","posid":"4","proid":"1920","priority":"1","ec":{"innerlink":"0"}},{"adid":"612300","srcid":"signs\/201705031434389049.jpg","link":"http:\/\/g.wan.douyu.com\/s\/1\/1259\/147.html?frm=sy-gz-xt","posid":"23","proid":"2180","priority":"1","ec":{"innerlink":"0"}},{"adid":"612301","srcid":"signs\/201705031436208898.jpg","link":"http:\/\/g.wan.douyu.com\/s\/1\/1259\/146.html?frm=sy-ls-xt","posid":"24","proid":"2180","priority":"1","ec":{"innerlink":"0"}},{"adid":"612441","srcid":"signs\/201705091628452782.png","link":"http:\/\/wan.douyu.com\/","posid":"31","proid":"2180","priority":"1","ec":{"title":"\u5feb\u4e50\u6e38\u620f","subtitle":"\u5feb\u4e50\u751f\u6d3b","hovertitle":"\u73a9\u6e38\u620f\u9886\u53d6\u767e\u4e07\u9c7c\u7fc5","color":"#ffffff","color_text":""}},{"adid":"612416","srcid":"signs\/201705072346497113.jpg","link":"http:\/\/www.douyu.com\/t\/kuanghuan","posid":"32","proid":"2212","priority":"0","ec":{"title":"\u7c89\u4e1d\u72c2\u6b22","subtitle":"\u5b9a\u5236\u7c89\u4e1d\u52cb\u7ae0","hovertitle":"\u6597\u9c7c\u7c89\u4e1d\u8282\u798f\u5229\u91cd\u78c5\u5347\u7ea7","color":"#ffffff","color_text":""}},{"adid":"612289","srcid":"signs\/201705022107462714.jpg","link":"http:\/\/www.douyu.com\/t\/schoolGirl","posid":"33","proid":"2190","priority":"0","ec":{"title":"\u767e\u4e07\u5956\u91d1","subtitle":"\u9752\u6625\u7ec3\u4e60\u751f\u5f00\u542f","hovertitle":"\u6210\u5c31\u4f60\u7684\u5076\u50cf\u68a6\u60f3","color":"#ffffff","color_text":""}},{"adid":"612442","srcid":"signs\/201705091648247920.jpg","link":"https:\/\/www.douyu.com\/cms\/new_list\/201705\/09\/5296.shtml","posid":"34","proid":"2174","priority":"0","ec":{"title":"\u82f1\u96c4\u8054\u76df","subtitle":"\u5b63\u4e2d\u51a0\u519b\u8d5b","hovertitle":"\u7fa4\u96c4\u9010\u9e7f   \u738b\u8005\u4e89\u9738","color":"#ffffff","color_text":""}},{"adid":"612183","srcid":"signs\/201704271825446905.jpg","link":"http:\/\/g.wan.douyu.com\/s\/1\/1259\/99.html?frm=sy-dytg1","posid":"41","proid":"2095","priority":"1","ec":[]},{"adid":"612184","srcid":"signs\/201704271826099881.jpg","link":"http:\/\/g.wan.douyu.com\/s\/1\/1259\/117.html?frm=sy-dytg2","posid":"42","proid":"2095","priority":"1","ec":[]},{"adid":"612185","srcid":"signs\/201704271826463735.jpg","link":"http:\/\/g.wan.douyu.com\/s\/1\/1259\/98.html?frm=sy-dytg3","posid":"43","proid":"2095","priority":"1","ec":[]},{"adid":"612437","srcid":"signs\/201705081857056310.jpg","link":"https:\/\/www.douyu.com\/mobileGame\/detail\/1203","posid":"44","proid":"2194","priority":"0","ec":[]},{"adid":"612275","srcid":"signs\/201705021057308775.jpg","link":"http:\/\/gc.hgame.com\/home\/game\/appid\/100506\/gameid\/100220\/sr\/2#reload","posid":"45","proid":"2188","priority":"1","ec":[]},{"adid":"612433","srcid":"signs\/201705081751097574.png","link":"https:\/\/www.douyu.com\/mobileGame\/detail\/1205","posid":"46","proid":"2194","priority":"0","ec":[]},{"adid":"609317","srcid":"signs\/201612161404431270.png","link":"http:\/\/www.douyu.com\/web_game\/welcome\/18","posid":"51","proid":"1768","priority":"0","ec":{"innerlink":"0"}},{"adid":"609312","srcid":"signs\/201612161235381665.png","link":"https:\/\/www.douyu.com\/client","posid":"52","proid":"1756","priority":"0","ec":{"innerlink":"0"}},{"adid":"612389","srcid":"signs\/201705051751302371.jpg","link":"https:\/\/www.douyu.com\/cms\/new_list\/201705\/04\/5268.shtml","posid":"53","proid":"2208","priority":"0","ec":{"innerlink":"0"}},{"adid":"609315","srcid":"signs\/201612161402235386.png","link":"http:\/\/www.douyu.com\/cms\/zt\/anchor_guide.html","posid":"54","proid":"1769","priority":"0","ec":{"innerlink":"0"}}];    var $newYearSwitch = 0</script>
+</head>
+
+<body data-page-point="1">
+
+
+<div id="container" class="container">
+    <div id="header">
+	<div class="head">
+		<a class="head-logo fl" href="/"></a>
+
+		<ul class="head-nav fl">
+			<li class="fl index current">
+				<a href="/">首页</a>
+			</li>
+			<li class="fl live ">
+				<a href="/directory/all">直播</a>
+			</li>
+			<li class="fl assort ">
+				<a href="/directory">分类</a>
+                <i></i>
+<div class="a-pop">
+    <i></i>
+
+    <div class="a-list">
+                <h3>热门分类</h3>
+        <ul class="btns">
+                        <li><a target="_blank" class="btn" href="/directory/game/LOL">英雄联盟</a></li>
+                                <li><a target="_blank" class="btn" href="/directory/game/How">炉石传说</a></li>
+                                <li><a target="_blank" class="btn" href="/directory/game/DOTA2">DOTA2</a></li>
+                                <li><a target="_blank" class="btn" href="/directory/game/TVgame">主机游戏</a></li>
+                                <li><a target="_blank" class="btn" href="/directory/game/Overwatch">守望先锋</a></li>
+                                <li><a target="_blank" class="btn" href="/directory/game/yys">阴阳师</a></li>
+                            </ul>
+                            <h3>玩家推荐</h3>
+        <ul class="btns">
+                                <li><a target="_blank" class="btn" href="/directory/game/ecy">二次元</a></li>
+                                        <li><a target="_blank" class="btn" href="/directory/game/FTG">格斗游戏</a></li>
+                                        <li><a target="_blank" class="btn" href="/directory/game/classic">怀旧游戏</a></li>
+                                        <li><a target="_blank" class="btn" href="/directory/game/MC">我的世界</a></li>
+                                        <li><a target="_blank" class="btn" href="/directory/game/wzry">王者荣耀</a></li>
+                                        <li><a target="_blank" class="btn" href="/directory/game/hszz">皇室战争</a></li>
+                                        <li><a target="_blank" class="btn" href="/directory/game/jtlq">街头篮球</a></li>
+                                        <li><a target="_blank" class="btn" href="/directory/game/DNF">DNF</a></li>
+                                        <li><a target="_blank" class="btn" href="/directory/game/outdoor">户外</a></li>
+                            </ul>
+                    <div class="btn-all">
+            <a target="_blank" href="/directory">全部&gt;&gt;</a>
+        </div>
+		<div class="assort-ad hide" data-dysign="1"></div>
+    </div>
+</div>            </li>
+            <li class="fl funny ">
+                <a href="http://wan.douyu.com" target="_blank">游戏</a>
+                <span class="g_hot_icon"></span>
+                
+<i></i>
+<div class="a-pop">
+    <i></i>
+    <div class="a-list">
+        <h3>网游推荐</h3>
+                <ul class="btns" data-type="webgame">
+                            <li>
+                    <a target="_blank" class="btn" href="http://wan.douyu.com/xyfyp/" data-id="5022" data-name="西游伏妖篇">
+                        西游伏妖篇                    </a>
+                </li>
+                            <li>
+                    <a target="_blank" class="btn" href="http://wan.douyu.com/lycq/" data-id="5003" data-name="蓝月传奇">
+                        蓝月传奇                    </a>
+                </li>
+                            <li>
+                    <a target="_blank" class="btn" href="http://wan.douyu.com/sxj/" data-id="5015" data-name="神仙劫">
+                        神仙劫                    </a>
+                </li>
+                            <li>
+                    <a target="_blank" class="btn" href="http://wan.douyu.com/lhfs/" data-id="5017" data-name="烈火封神">
+                        烈火封神                    </a>
+                </li>
+                            <li>
+                    <a target="_blank" class="btn" href="http://wan.douyu.com/qkzj/" data-id="5016" data-name="乾坤战纪">
+                        乾坤战纪                    </a>
+                </li>
+                            <li>
+                    <a target="_blank" class="btn" href="http://wan.douyu.com/dyjd/" data-id="5018" data-name="第一舰队">
+                        第一舰队                    </a>
+                </li>
+                    </ul>
+                <div class="btn-all" data-type="webgame"><a target="_blank" href="http://wan.douyu.com/">全部&gt;&gt;</a></div>
+
+                <h3>手游推荐</h3>
+        <ul class="btns" data-type="mobilegame">
+                            <li>
+                    <a target="_blank" class="btn" href="/mobileGame/detail/1194" data-id="1194" data-name="龙之谷 ">
+                        龙之谷                     </a>
+                </li>
+                            <li>
+                    <a target="_blank" class="btn" href="/mobileGame/detail/1187" data-id="1187" data-name="轩辕剑3">
+                        轩辕剑3                    </a>
+                </li>
+                            <li>
+                    <a target="_blank" class="btn" href="/mobileGame/detail/1180" data-id="1180" data-name="妖萌战姬">
+                        妖萌战姬                    </a>
+                </li>
+                            <li>
+                    <a target="_blank" class="btn" href="/mobileGame/detail/1176" data-id="1176" data-name="口袋妖怪VS">
+                        口袋妖怪VS                    </a>
+                </li>
+                            <li>
+                    <a target="_blank" class="btn" href="/mobileGame/detail/1188" data-id="1188" data-name="刀剑乱舞">
+                        刀剑乱舞                    </a>
+                </li>
+                            <li>
+                    <a target="_blank" class="btn" href="/mobileGame/detail/1218" data-id="1218" data-name="永恒之歌">
+                        永恒之歌                    </a>
+                </li>
+                    </ul>
+        <div class="btn-all" data-type="mobilegame"><a target="_blank" href="/mobileGame/home">全部&gt;&gt;</a></div>
+                <!-- 兼容旧代码 -->
+        <div class="assort-ad hide sign_posid" data-sign_posid="2" id="sign_p_2" data-dysign="2"></div>
+    </div>
+</div>
+            </li>
+            <li class="fl yuba">
+                <a href="http://yuba.douyu.com/" target="_blank">鱼吧</a>
+            </li>
+            <li class="fl wxr-menu status-hidden">
+                <a href="javascript:;" target="_blank"></a>
+                <span class="wxr-hot-icon"><img src="" ></span>
+            </li>
+        </ul>
+
+        <div class="head-oth fr">
+            <div class="o-search fl">
+                <input class="s-ipt fl" type="text" autocomplete="off" placeholder="房间/主播/分类/视频" value="">
+                <a class="s-ico fr" href="#">
+                    <i class="icofont"></i>
+                </a>
+            </div>
+            <div class="o-history fl hide">
+                <span class="icofont h-ico"></span>
+                <span class="h-txt">历史</span>
+                <div class="h-pop">
+                    <i></i>
+                    <div class="h-load">
+                        <img src="https://shark.douyucdn.cn/app/douyu/res/com/loading.gif">
+                        <span>数据加载中...</span>
+                    </div>
+                    <div class="h-none">
+                        <p class="n-tt">信息动态</p>
+                        <p class="n-cn">
+                            <img src="https://shark.douyucdn.cn/app/douyu/res/com/sg-cry.png?v=20161204" alt="">
+                            <span>你的历史列表空空如也~</span>
+                        </p>
+                    </div>
+                    <ul class="h-list">
+                    </ul>
+                    <div class='his-sign-cont hide' data-dysign="24"></div>
+                </div>
+            </div>
+            <div class="o-follow fl hide">
+                <span class="icofont f-ico"></span>
+                <span class="f-txt">关注</span>
+                <div class="f-pop">
+                    <i></i>
+                    <div class="f-load">
+                        <img src="https://shark.douyucdn.cn/app/douyu/res/com/loading.gif">
+                        <span>数据加载中...</span>
+                    </div>
+                    <div class="f-none">
+                        <p class="n-tt">信息动态</p>
+                        <p class="n-cn">
+                            <img src="https://shark.douyucdn.cn/app/douyu/res/com/sg-cry.png?v=20161204" alt="">
+                            <span>你的关注列表空空如也~</span>
+                        </p>
+                    </div>
+                    <ul class="f-list">
+                    </ul>
+                    <p class="f-all">
+                        <a href="/room/my_follow">查看全部</a>
+                    </p>
+                    <div class='f-sign-cont hide' data-dysign="23"></div>
+                </div>
+            </div>
+			<div class="o-download fl">
+                <a href="/client?platform=0" target="_blank">
+    				<span class="icofont d-ico"></span>
+                    <span class="d-txt">下载</span>
+                </a>
+                <i></i>
+                <div class="d-list">
+                	<i></i>
+                	<ul>
+                      	<li>
+                      		<a href="/client?platform=2" target="_blank">App下载</a>
+                      	</li>
+                      	<li>
+                      		<a href="/client?platform=1" target="_blank">主播工具下载</a>
+                      	</li>
+                  	</ul>
+                </div>
+			</div>
+			<div class="o-unlogin fl">
+				<span class="icofont u-ico fl"></span>
+                <a class="u-login fl" href="/member/login" data-button-type="login">登录</a>
+                <em class="fl">|</em>
+                <a class="u-reg fl" href="/member/register" data-button-type="regis">注册</a>
+			</div>
+            <div class="o-login fl hide" data-login-content="yes">
+                <a  class="o-login-a" href="/member/cp" target="_blank">
+				<span class="l-pic">
+				</span>
+                <span class="l-txt"> </span>
+                </a>
+                <i></i>
+                <b class="hide umes-icon"></b>
+                       <!-- l-menu -->
+                <div class="l-menu">
+                            <i class="lmsj-top"></i>
+                            <div class="uinfo-dropmenu">
+                                <div class="box1 chat-member" >
+                                    <div class="chat-mem-con clearfix">
+                                        <div class="mem-pic">
+                                            <a href="/member/cp" target="_blank" data-login-user="img-href">
+                                                <img src="" data-login-user="header-img">
+                                            </a>
+                                            <!-- S 贵族图标 -->
+                                            <img class="nobility-icon" src="" alt="贵族">
+                                            <!-- E 贵族图标 -->
+                                        </div>
+                                        <div class="logname">
+                                            <a class="name" data-login-user="user-name" href="/member/cp" target="_blank"></a>
+                                            </div>
+                                            <div class="authenticate">
+                                            <a class="uname-aut"><i class="high"></i></a>
+                                            <a class="mobile-aut"><i class="high"></i></a>
+                                            <a class="email-aut"><i class="high"></i></a>
+                                            </div>
+                                        <div class="level-con clearfix">
+                                            <a class="user-level user-level-loading"  data-login-user="level-img" href="https://www.douyu.com/member/mylevel" target="_blank">
+                                            </a>
+                                            <a class="bar fl" href="/member/mylevel" target="_blank" data-exp-bar="btn">
+                                                <div class="bar-per-wp">
+                                                    <span class="bar-per" data-login-user="exp" style=""></span>
+                                                </div>
+                                                <span class="bar-num" data-login-user="exp-txt"></span>
+                                                <div class="level-tip hide" data-exp-bar="box">
+                                                    <p>
+                                                        还需 <em data-login-user="up-exp-num"></em> 经验值到达下一级
+                                                    </p>
+                                                    <i></i>
+                                                </div>
+                                            </a>
+                                            <a class="user-level-next user-level-loading"  data-login-user="level-next-img"  href="/member/mylevel" target="_blank">
+                                            </a>
+                                        </div>
+                                        <a class="invisible is-invisible">进房间隐身
+                                            <span class="invisible-sp">
+                                                <i class="icon-invisible"></i>
+                                                关闭进房间隐身
+                                            </span>
+                                            <span class="is-invisible-sp">
+                                                <i class="icon-invisible"></i>
+                                                开启隐身，隐藏进场信息
+                                            </span>
+                                        </a>
+                                        <a class="logout" href="javascript:;" >登出</a>
+                                    </div>
+                                </div>
+                                <!-- S nobility-privilege-->
+                                <div class="nobility-privilege">
+                                    <!-- S 非贵族用户 -->
+                                  
+                                    <!-- E 非贵族用户 -->
+                                </div>
+                                <!-- E nobility-privilege-->
+                                <!--wallet -->
+                                <div class="box4 wallet">
+                                    <div class="wallet-con clearfix">
+                                        <div class="fl">
+                                            <h2 class="title">我的钱包</h2>
+                                            <div class="m-wealth">
+                                                <span class="y1" title="做任务可获得鱼丸">鱼丸 <em data-login-user="silver"><img src="https://shark.douyucdn.cn/app/douyu/res/page/room-normal/loading.gif"></em></span>
+                                                <span class="y2">鱼翅 <em data-login-user="gold"><img src="https://shark.douyucdn.cn/app/douyu/res/page/room-normal/loading.gif"></em></span>
+                                                <!-- S 贵族鱼翅 -->
+                                                <a class="y3" href="/member/noble/record" target="_blank">
+                                                    (贵族鱼翅<em data-login-user="nobleGold"></em>)
+                                                    <span class="y3-mask">
+                                                        <i class="y3-mask-arrow"></i>
+                                                        在贵族生效期间一直有效
+                                                        <!-- <em data-login-user="ngdate"></em>-->
+                                                    </span>
+                                                </a>
+                                                <!-- E 贵族鱼翅 -->
+                                            </div>
+                                        </div>
+                                        <a class="r-com-btn getYc fr" href="/web_game/welcome/18" target="_blank">充值</a>
+                                    </div>
+                                </div>
+                                <!--wallet -->
+                                <!--task start-->
+                                  <div class="box5 task clearfix">
+                                    <h2 class="task-title">我的任务</h2>
+                                    <div class="task-con">
+                                        <a class="fl task-img task-a">
+                                           
+                                        </a>
+                                        <div class="fl task-text">
+                                            <a class="task-a clearfix"><h2 class="title"></h2></a>
+                                            <p class="comment"></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--task end-->
+                                <div class="box6 uim-foot">
+                                    <ul class="clearfix">
+                                        <li class="personal-center">
+                                            <a href="/member" class="pc-a " target="_blank">
+                                                <i></i>
+                                                <p>个人中心</p>
+                                            </a>
+                       	</li>
+                                        <li class="focus">
+                                            <a href="/room/my_follow" class="focus-a " target="_blank">
+                                                <i></i>
+                                                <p>我的关注</p>
+                                            </a>
+                                        </li>
+                                                                <li class="message">
+                                            <a href="/member/pm" class="message-a " target="_blank">
+                                                <i></i>
+                                                <p>站内信</p>
+                                                <b class="mes-icon hide"></b>
+                                            </a>
+                       	</li>
+                                                                <li class="live-set">
+                                            <a href="/room/my" class="live-set-a " target="_blank">
+                                                <i></i>
+                                                <em class="live-hot hide"></em>
+                                                <p>直播设置</p>
+                                            </a>
+                        </li>
+                    </ul>
+                </div>
+			</div>
+		</div>
+                        <!-- l-menu -->
+
+	</div>
+        </div>
+    </div>
+</div>    <div id="mainbody">
+
+        <!--首页顶部焦点区域-->
+        <div class="banner" data-type="banner">
+
+            <!--背景链接-->
+            <div class="bglink" data-dysign="30015" data-dysign-show='true' data-dysign-proid='2218' data-dysign-adid='612449' >
+                                    <a class="b-left" href="/lapi/sign/signapi/click?roomid=0&aid=612449&posid=30015&projid=2218" target="_blank"></a><a class="b-right" href="/lapi/sign/signapi/click?roomid=0&aid=612449&posid=30015&projid=2218" target="_blank"></a>                            </div>
+
+            <!--频道-->
+            <div class="channel">
+                <div class="c-video"></div>
+                <div class="c-items">
+                    <ul>
+                                                        <li data-id="428250"
+                                    data-status="1"
+                                    data-online="31528">
+                                    <a href="#">
+                                        <div class="pic">
+                                            <img src="https://staticlive.douyucdn.cn/upload/signs/201701211850236842.jpg">
+                                        </div>
+                                        <div class="txt">
+                                            <span>守望青蛙  绿色小清新</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                                            <li data-id="1729456"
+                                    data-status="1"
+                                    data-online="4299">
+                                    <a href="#">
+                                        <div class="pic">
+                                            <img src="https://staticlive.douyucdn.cn/upload/signs/201704141400214014.jpg">
+                                        </div>
+                                        <div class="txt">
+                                            <span>小贝：中国好女声！</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                                            <li data-id="796666"
+                                    data-status="1"
+                                    data-online="65168">
+                                    <a href="#">
+                                        <div class="pic">
+                                            <img src="https://staticlive.douyucdn.cn/upload/signs/201705051524115483.jpg">
+                                        </div>
+                                        <div class="txt">
+                                            <span>惊蛰：上分之旅</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                                            <li data-id="212689"
+                                    data-status="1"
+                                    data-online="1518">
+                                    <a href="#">
+                                        <div class="pic">
+                                            <img src="https://staticlive.douyucdn.cn/upload/signs/201704181708316153.jpg">
+                                        </div>
+                                        <div class="txt">
+                                            <span>DOTA2歌姬初桃酱</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                                            <li data-id="1655657"
+                                    data-status="1"
+                                    data-online="20883">
+                                    <a href="#">
+                                        <div class="pic">
+                                            <img src="https://staticlive.douyucdn.cn/upload/signs/201705081109589586.jpg">
+                                        </div>
+                                        <div class="txt">
+                                            <span>饺子的5月之恋</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                                            <li data-id="441582"
+                                    data-status="1"
+                                    data-online="2615">
+                                    <a href="#">
+                                        <div class="pic">
+                                            <img src="https://staticlive.douyucdn.cn/upload/signs/201705052155266028.png">
+                                        </div>
+                                        <div class="txt">
+                                            <span>老道长绕柱尬聊</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                                </ul>
+                </div>
+            </div>
+
+            <!--雪花秀-->
+            <div class="starshow">
+                <div class="s-content">
+                                                    <div class="classify ">
+                                    <h3>
+                                        <a href="https://www.douyu.com/directory/game/ecy" title="冲破次元壁垒">
+                                            <i><img src="https://staticlive.douyucdn.cn/upload/abc47e929b7d6c1595ee09379197dc37.png"></i>
+                                            <span>御宅领域</span>
+                                         </a>
+                                        <span class="title-info">冲破次元壁垒</span>
+                                    </h3>
+                                    <ul class="clearfix">
+                                                                                    <li>
+                                                <a href =/319435>
+                                                    <div class="pic">
+                                                        <img data-original="https://rpic.douyucdn.cn/a1705/09/20/319435_170509205816.jpg" src="https://rpic.douyucdn.cn/a1705/09/20/319435_170509205816.jpg">
+                                                        <span><b></b></span>
+                                                    </div>
+                                                    <div class="txt">很热很热很热的一天</div>
+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href =/924327>
+                                                    <div class="pic">
+                                                        <img data-original="https://rpic.douyucdn.cn/roomCover/2017/05/08/5a70edb7a5a7b5bdb35a8c22cff70d32.jpg" src="https://rpic.douyucdn.cn/roomCover/2017/05/08/5a70edb7a5a7b5bdb35a8c22cff70d32.jpg">
+                                                        <span><b></b></span>
+                                                    </div>
+                                                    <div class="txt">下午睡了个午觉。。。然后</div>
+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href =/425823>
+                                                    <div class="pic">
+                                                        <img data-original="https://rpic.douyucdn.cn/roomCover/2017/05/09/0957249b791e184a0a494fe7cea17cdf.png" src="https://rpic.douyucdn.cn/roomCover/2017/05/09/0957249b791e184a0a494fe7cea17cdf.png">
+                                                        <span><b></b></span>
+                                                    </div>
+                                                    <div class="txt">【十三】听不见我的声音怎么睡得着</div>
+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href =/2070327>
+                                                    <div class="pic">
+                                                        <img data-original="https://rpic.douyucdn.cn/a1705/09/21/2070327_170509210654.jpg" src="https://rpic.douyucdn.cn/a1705/09/21/2070327_170509210654.jpg">
+                                                        <span><b></b></span>
+                                                    </div>
+                                                    <div class="txt">【ASMR直播】萌新小姐姐日语哄睡觉</div>
+                                                </a>
+                                            </li>
+                                                                            </ul>
+                                </div>
+                                                            <div class="classify ">
+                                    <h3>
+                                        <a href="https://www.douyu.com/directory/game/xx" title="颜值燃爆眼球">
+                                            <i><img src="https://staticlive.douyucdn.cn/upload/70ebf27645dcbc0226558a61388410d4.png"></i>
+                                            <span>鲜肉女神</span>
+                                         </a>
+                                        <span class="title-info">颜值燃爆眼球</span>
+                                    </h3>
+                                    <ul class="clearfix">
+                                                                                    <li>
+                                                <a href =/2100483>
+                                                    <div class="pic">
+                                                        <img data-original="https://rpic.douyucdn.cn/roomCover/2017/05/05/fbb32f23d82f74c8fe7093976822d27a.jpg" src="https://rpic.douyucdn.cn/roomCover/2017/05/05/fbb32f23d82f74c8fe7093976822d27a.jpg">
+                                                        <span><b></b></span>
+                                                    </div>
+                                                    <div class="txt">我想记住你i</div>
+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href =/2074653>
+                                                    <div class="pic">
+                                                        <img data-original="https://rpic.douyucdn.cn/roomCover/2017/05/05/2a1648fb889c8801f0050bfaea4c1e1a.jpg" src="https://rpic.douyucdn.cn/roomCover/2017/05/05/2a1648fb889c8801f0050bfaea4c1e1a.jpg">
+                                                        <span><b></b></span>
+                                                    </div>
+                                                    <div class="txt">大脸：给六个么么哒送主播</div>
+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href =/1772139>
+                                                    <div class="pic">
+                                                        <img data-original="https://rpic.douyucdn.cn/roomCover/2017/05/05/35295578377b796864df990dc5bae936.jpg" src="https://rpic.douyucdn.cn/roomCover/2017/05/05/35295578377b796864df990dc5bae936.jpg">
+                                                        <span><b></b></span>
+                                                    </div>
+                                                    <div class="txt">有可能的夜晚~</div>
+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href =/1521591>
+                                                    <div class="pic">
+                                                        <img data-original="https://rpic.douyucdn.cn/roomCover/2017/04/26/5ef2842bed835e5e84ad627347dd3ba3.jpg" src="https://rpic.douyucdn.cn/roomCover/2017/04/26/5ef2842bed835e5e84ad627347dd3ba3.jpg">
+                                                        <span><b></b></span>
+                                                    </div>
+                                                    <div class="txt">我想要爱你多一点点</div>
+                                                </a>
+                                            </li>
+                                                                            </ul>
+                                </div>
+                                                            <div class="classify last">
+                                    <h3>
+                                        <a href="https://www.douyu.com/directory/game/wzry" title="英雄热血竞技">
+                                            <i><img src="https://staticlive.douyucdn.cn/upload/68994677046f5b81ef0b7d85c2442233.png"></i>
+                                            <span>王者荣耀</span>
+                                         </a>
+                                        <span class="title-info">英雄热血竞技</span>
+                                    </h3>
+                                    <ul class="clearfix">
+                                                                                    <li>
+                                                <a href =/174640>
+                                                    <div class="pic">
+                                                        <img data-original="https://rpic.douyucdn.cn/a1705/09/20/174640_170509205754.jpg" src="https://rpic.douyucdn.cn/a1705/09/20/174640_170509205754.jpg">
+                                                        <span><b></b></span>
+                                                    </div>
+                                                    <div class="txt">老K：国服声优皮皮K，皮皮直播，求波关注</div>
+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href =/1795336>
+                                                    <div class="pic">
+                                                        <img data-original="https://rpic.douyucdn.cn/roomCover/cover_update/2017/05/05/edcc5b81849fff241c82c984a0f991ec.jpg" src="https://rpic.douyucdn.cn/roomCover/cover_update/2017/05/05/edcc5b81849fff241c82c984a0f991ec.jpg">
+                                                        <span><b></b></span>
+                                                    </div>
+                                                    <div class="txt">【我邪恶】一股强势王者龙卷风！</div>
+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href =/1537918>
+                                                    <div class="pic">
+                                                        <img data-original="https://rpic.douyucdn.cn/roomCover/cover_update/2017/05/07/01f1942f5347591ed21263324853529b.jpg" src="https://rpic.douyucdn.cn/roomCover/cover_update/2017/05/07/01f1942f5347591ed21263324853529b.jpg">
+                                                        <span><b></b></span>
+                                                    </div>
+                                                    <div class="txt">180星荣耀刺客无敌韩信视觉的享受。</div>
+                                                </a>
+                                            </li>
+                                                                                    <li>
+                                                <a href =/2022238>
+                                                    <div class="pic">
+                                                        <img data-original="https://rpic.douyucdn.cn/a1705/09/20/2022238_170509204741.jpg" src="https://rpic.douyucdn.cn/a1705/09/20/2022238_170509204741.jpg">
+                                                        <span><b></b></span>
+                                                    </div>
+                                                    <div class="txt">大姐头的微信区，一起上分吧！！</div>
+                                                </a>
+                                            </li>
+                                                                            </ul>
+                                </div>
+                                            </div>
+            </div>
+        </div>
+
+        <!--第一行：广告、新闻、推广-->
+        <div class="row row-1" data-type="news">
+            <div data-module="left-cont">
+                                <div class="hot-sign-1" data-dysign="19" data-dysign-show='true' data-dysign-proid='2180' data-dysign-adid='612339' >
+                                        <i class="sign-spec"></i>
+                                        <a href="/lapi/sign/signapi/click?roomid=0&aid=612339&posid=19&projid=2180" target="_blank"><img src="https://staticlive.douyucdn.cn/upload/signs/201705041505083398.jpg" style="width:100%;height:100%"></a>                </div>
+                                <div class="hot-sign-2">
+                                        <div class="s-pic-1" data-dysign="20" data-dysign-show='true' data-dysign-proid='2181' data-dysign-adid='612444'>
+                                                <a href="/lapi/sign/signapi/click?roomid=0&aid=612444&posid=20&projid=2181" target="_blank"><img src="https://staticlive.douyucdn.cn/upload/signs/201705091652239963.jpg" style="width:100%;height:100%"></a>                    </div>
+                                        <div class="s-pic-2">
+                                                <div class="s-wrap fl" data-dysign="21" data-dysign-show='true' data-dysign-proid='2212' data-dysign-adid='612414'>
+                                                        <a href="/lapi/sign/signapi/click?roomid=0&aid=612414&posid=21&projid=2212" target="_blank"><img src="https://staticlive.douyucdn.cn/upload/signs/201705072314042828.jpg" style="width:100%;height:100%"></a>                        </div>
+                                                                        <div class="s-wrap fr" data-dysign="22"data-dysign-show='true' data-dysign-proid='2180' data-dysign-adid='612338'>
+                                                            <i class="sign-spec"></i>
+                                                        <a href="/lapi/sign/signapi/click?roomid=0&aid=612338&posid=22&projid=2180" target="_blank"><img src="https://staticlive.douyucdn.cn/upload/signs/201705041458235682.jpg" style="width:100%;height:100%"></a>                        </div>
+                                            </div>
+                </div>
+            </div>
+
+            <div class="hot-word">
+                <div class="hot-word-more">
+                                            <a href="https://www.douyu.com/cms/huo/201705/04/5270.shtml" target="_blank">
+                            <h2 class="ellipsis">斗鱼粉丝狂欢节 感恩陪伴鱼你同乐！</h2>
+                            <p class="ellipsis">5月13-14日 一场感恩粉丝的空前盛宴开启</p>
+                        </a>
+                        <a href="https://www.douyu.com/cms/new_list/201705/08/5292.shtml" target="_blank">
+                            <h2 class="ellipsis">5月9日锤子科技2017春季新品发布</h2>
+                            <p class="ellipsis">科技界的春晚 罗永浩带着他的产品讲相声</p>
+                        </a>
+                        <a href="https://www.douyu.com/cms/new_list/201705/08/5290.shtml" target="_blank">
+                            <h2 class="ellipsis">斗鱼嘉年华独占江滩 邀你来三日狂欢</h2>
+                            <p class="ellipsis">明星主播云集 斗鱼嘉年华十里江滩等你来！</p>
+                        </a>
+                                    </div>
+
+                <div class="hot-word-list">
+                    <ul>
+                                                        <li>
+                                    <em>[</em>
+                                    <a class="h-al">新闻</a>
+                                    <em>]</em>
+                                    <a class="h-ar" href="/cms/new_list/201705/08/5294.shtml" target="_blank">技艺无处施展？奇艺奇葩主播招募啦</a>
+                                </li>
+                                                            <li>
+                                    <em>[</em>
+                                    <a class="h-al">新闻</a>
+                                    <em>]</em>
+                                    <a class="h-ar" href="/cms/new_list/201705/03/5262.shtml" target="_blank">惊艳！乌克兰真人芭比空降斗鱼直播</a>
+                                </li>
+                                                            <li>
+                                    <em>[</em>
+                                    <a class="h-al">活动</a>
+                                    <em>]</em>
+                                    <a class="h-ar" href="/cms/huo/201705/08/5285.shtml" target="_blank">上车吧！好声音 长沙地区鱼儿招募中</a>
+                                </li>
+                                                            <li>
+                                    <em>[</em>
+                                    <a class="h-al">活动</a>
+                                    <em>]</em>
+                                    <a class="h-ar" href="/cms/huo/201705/05/5271.shtml" target="_blank">王者荣耀战队对抗赛 万元奖金等你来</a>
+                                </li>
+                                                            <li>
+                                    <em>[</em>
+                                    <a class="h-al">新闻</a>
+                                    <em>]</em>
+                                    <a class="h-ar" href="/cms/new_list/201705/05/5278.shtml" target="_blank">斗鱼情报局第三季 资深电竞人面对面</a>
+                                </li>
+                                                            <li>
+                                    <em>[</em>
+                                    <a class="h-al">直播指南</a>
+                                    <em>]</em>
+                                    <a class="h-ar" href="/cms/zhibo/201604/25/3424.shtml" target="_blank">斗鱼直播伴侣——手播竖屏教程</a>
+                                </li>
+                                                </ul>
+                </div>
+            </div>
+
+            <div class="recommend-type-cont">
+                <div class="recommend-top">
+                    <div class="hot-bg recommend-common-bg recommend-active" data-target="hot-play"><span>热门</span></div>
+                    <div class="webplay-bg recommend-common-bg" data-target="web-play"><span>页游</span></div>
+                    <div class="phoneplay-bg recommend-common-bg" data-target="phone-play"><span>手游</span></div>
+                </div>
+                <div class="hot-play">
+                                        <ul>
+                                                                                                <li>
+                                        <a href="https://www.douyu.com/directory/game/jdqs" target="_blank">
+                                            <div class="pic-box">
+                                                <img class="pb-img" src="https://staticlive.douyucdn.cn/upload/signs/201703311837539530.png" alt="">
+                                                <p class="pb-info ellipsis">
+                                                    <i class="pb-icon"></i>
+                                                    <span>正在直播....</span>
+                                                </p>
+                                                                                                <p class="pb-score">新游</p>
+                                                                                                <p class="pb-bor"></p>
+                                            </div>
+                                            <div class="text-box">
+                                                <div class="tb-tt ellipsis">[绝地求生]</div>
+                                                <a href="https://www.douyu.com/directory/game/jdqs" title="技术决定你的跳伞次数！" target="_blank"><div class="tb-cn ellipsis">技术决定你的跳伞次数！</div></a>
+                                                <div class="tb-tag">
+                                                                                                                                                                        <span>PC</span>
+                                                                                                        </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                                                                                    <li>
+                                        <a href="https://www.douyu.com/directory/game/wzry" target="_blank">
+                                            <div class="pic-box">
+                                                <img class="pb-img" src="https://staticlive.douyucdn.cn/upload/signs/201703031444547884.png" alt="">
+                                                <p class="pb-info ellipsis">
+                                                    <i class="pb-icon"></i>
+                                                    <span>正在直播....</span>
+                                                </p>
+                                                                                                <p class="pb-score">热游</p>
+                                                                                                <p class="pb-bor"></p>
+                                            </div>
+                                            <div class="text-box">
+                                                <div class="tb-tt ellipsis">[王者荣耀]</div>
+                                                <a href="https://www.douyu.com/directory/game/wzry" title="2亿玩家“聚”好玩" target="_blank"><div class="tb-cn ellipsis">2亿玩家“聚”好玩</div></a>
+                                                <div class="tb-tag">
+                                                                                                                                                                        <span>IOS/安卓</span>
+                                                                                                        </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                                                                                    <li>
+                                        <a href="https://www.douyu.com/directory/game/TVgame" target="_blank">
+                                            <div class="pic-box">
+                                                <img class="pb-img" src="https://staticlive.douyucdn.cn/upload/signs/201705051745234816.png" alt="">
+                                                <p class="pb-info ellipsis">
+                                                    <i class="pb-icon"></i>
+                                                    <span>正在直播....</span>
+                                                </p>
+                                                                                                <p class="pb-score">新游</p>
+                                                                                                <p class="pb-bor"></p>
+                                            </div>
+                                            <div class="text-box">
+                                                <div class="tb-tt ellipsis">[掠食]</div>
+                                                <a href="https://www.douyu.com/directory/game/TVgame" title="火力全开激战外星人" target="_blank"><div class="tb-cn ellipsis">火力全开激战外星人</div></a>
+                                                <div class="tb-tag">
+                                                                                                                                                                        <span>PC</span>
+                                                                                                        </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                                                                                    <li>
+                                        <a href="https://www.douyu.com/directory/game/TVgame" target="_blank">
+                                            <div class="pic-box">
+                                                <img class="pb-img" src="https://staticlive.douyucdn.cn/upload/signs/201704241634014372.jpg" alt="">
+                                                <p class="pb-info ellipsis">
+                                                    <i class="pb-icon"></i>
+                                                    <span>正在直播....</span>
+                                                </p>
+                                                                                                <p class="pb-score">新游</p>
+                                                                                                <p class="pb-bor"></p>
+                                            </div>
+                                            <div class="text-box">
+                                                <div class="tb-tt ellipsis">[逃生2]</div>
+                                                <a href="https://www.douyu.com/directory/game/TVgame" title="超乎想象的恐惧体验" target="_blank"><div class="tb-cn ellipsis">超乎想象的恐惧体验</div></a>
+                                                <div class="tb-tag">
+                                                                                                                                                                        <span>PC</span>
+                                                                                                        </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                                    </ul>
+                                    </div>
+                <div class="web-play">
+                                        <ul>
+                                                            <li>
+                                    <a href="http://g.wan.douyu.com/s/1/1259/170.html?frm=sy-xwyc-ph1" target="_blank">
+                                        <div class="pic-box">
+                                            <img class="pb-img" src="https://staticlive.douyucdn.cn/upload/signs/201704281016266299.jpg" alt="">
+                                        </div>
+                                        <div class="text-box">
+                                            <div class="tb-tt">
+                                                <span class="ellipsis">[西游伏妖篇]</span>
+                                                <a href="http://g.wan.douyu.com/s/1/1259/170.html?frm=sy-xwyc-ph1" title="正版授权-颠覆西游传说" target="_blank"><div class="tb-cn ellipsis">正版授权-颠覆西游传说</div>
+                                                <i></i>
+                                                </a>
+                                                
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://g.wan.douyu.com/s/1/1259/171.html?frm=sy-xwyc-ph2" target="_blank">
+                                        <div class="pic-box">
+                                            <img class="pb-img" src="https://staticlive.douyucdn.cn/upload/signs/201704281016436391.jpg" alt="">
+                                        </div>
+                                        <div class="text-box">
+                                            <div class="tb-tt">
+                                                <span class="ellipsis">[神仙劫]</span>
+                                                <a href="http://g.wan.douyu.com/s/1/1259/171.html?frm=sy-xwyc-ph2" title="明星大玩家“唐嫣”领衔" target="_blank"><div class="tb-cn ellipsis">明星大玩家“唐嫣”领衔</div>
+                                                <i></i>
+                                                </a>
+                                                
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://g.wan.douyu.com/s/1/1259/172.html?frm=sy-xwyc-ph3" target="_blank">
+                                        <div class="pic-box">
+                                            <img class="pb-img" src="https://staticlive.douyucdn.cn/upload/signs/201704281017096499.jpg" alt="">
+                                        </div>
+                                        <div class="text-box">
+                                            <div class="tb-tt">
+                                                <span class="ellipsis">[乾坤战纪]</span>
+                                                <a href="http://g.wan.douyu.com/s/1/1259/172.html?frm=sy-xwyc-ph3" title="迪丽热巴正在玩" target="_blank"><div class="tb-cn ellipsis">迪丽热巴正在玩</div>
+                                                <i></i>
+                                                </a>
+                                                
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="http://g.wan.douyu.com/s/1/1259/173.html?frm=sy-xwyc-ph4" target="_blank">
+                                        <div class="pic-box">
+                                            <img class="pb-img" src="https://staticlive.douyucdn.cn/upload/signs/201704071628288239.jpg" alt="">
+                                        </div>
+                                        <div class="text-box">
+                                            <div class="tb-tt">
+                                                <span class="ellipsis">[蓝月传奇]</span>
+                                                <a href="http://g.wan.douyu.com/s/1/1259/173.html?frm=sy-xwyc-ph4" title="一刀9999不再是梦" target="_blank"><div class="tb-cn ellipsis">一刀9999不再是梦</div>
+                                                <i></i>
+                                                </a>
+                                                
+                                            </div>
+                                        </div>
+                                    </a>
+                                </li>
+                                                </ul>
+                                    </div>
+                <div class="phone-play">
+                                        <ul>
+                                                            <li>
+                                    <div class="pp_cont">
+                                        <div class="pic-box">
+                                            <img class="pb-img" src="https://staticlive.douyucdn.cn/upload/signs/201704111532372708.png" alt="" />
+                                        </div>
+                                        <div class="text-box">
+                                            <div class="tb-tt ">
+                                                <span class="ellipsis">[凡人修仙传]</span>
+                                            </div>
+                                            <div class="down-cont">
+                                                                                                <a class="ad-btn" href="https://www.douyu.com/mobileGame/detail/1205" target="_blank"></a>
+                                                                                                                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                                            <li>
+                                    <div class="pp_cont">
+                                        <div class="pic-box">
+                                            <img class="pb-img" src="https://staticlive.douyucdn.cn/upload/signs/201704111533597169.jpg" alt="" />
+                                        </div>
+                                        <div class="text-box">
+                                            <div class="tb-tt ">
+                                                <span class="ellipsis">[梦幻之翼]</span>
+                                            </div>
+                                            <div class="down-cont">
+                                                                                                <a class="ad-btn" href="https://www.douyu.com/mobileGame/detail/1203" target="_blank"></a>
+                                                                                                                                                <a class="ph-btn" href="http://landingpage.fpwap.com/xz/2150.html" target="_blank"></a>
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                                            <li>
+                                    <div class="pp_cont">
+                                        <div class="pic-box">
+                                            <img class="pb-img" src="https://staticlive.douyucdn.cn/upload/signs/201701051521214134.jpg" alt="" />
+                                        </div>
+                                        <div class="text-box">
+                                            <div class="tb-tt ">
+                                                <span class="ellipsis">[阴阳师]</span>
+                                            </div>
+                                            <div class="down-cont">
+                                                                                                <a class="ad-btn" href="https://www.douyu.com/mobileGame/detail/1136" target="_blank"></a>
+                                                                                                                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                                            <li>
+                                    <div class="pp_cont">
+                                        <div class="pic-box">
+                                            <img class="pb-img" src="https://staticlive.douyucdn.cn/upload/signs/201701051521428458.png" alt="" />
+                                        </div>
+                                        <div class="text-box">
+                                            <div class="tb-tt ">
+                                                <span class="ellipsis">[斗鱼三国]</span>
+                                            </div>
+                                            <div class="down-cont">
+                                                                                                <a class="ad-btn" href="https://www.douyu.com/mobileGame/detail/1150" target="_blank"></a>
+                                                                                                                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                                </ul>
+                                    </div>
+            </div>
+        </div>
+    </div>
+    <div id="lifter">
+    <div class="lift">
+        <a class="ngad" href="#" >
+            <span></span>
+        </a>
+        <a class="tolive" href="/cms/zt/anchor_guide.html" target="_blank">
+            <span>我要直播</span>
+        </a>
+        <a class="feedback" href="/member/message/release" target="_blank">
+            <span>意见反馈</span>
+        </a>
+        <a class="downapp" href="/client" target="_blank" >
+            <span>APP下载</span>
+        </a>
+        <div class="game">
+            <a href="">
+                <span>网页游戏</span>
+            </a>
+            <div class="game-pop hide">
+                <i class="game-pop-widget"></i>
+                <div class="game-pop-main">
+                    <div class="game-pop-hello">
+                        <label>您好：</label><span class="nickname"></span>
+                    </div>
+                    <strong>最近登录过的服务器</strong>
+                    <div class="server-list">
+                        
+                    </div>
+                </div>
+                <a class="more" href="">查看更多</a>
+            </div>
+        </div>
+
+        <a class="gotop" href="#">
+            <span></span>
+        </a>
+    </div>
+    <div class="ngad-cont">
+        <span class="ngad-cont-close"></span>
+        <div class="ngad-info"  data-dysign="25"></div>
+    </div>
+    <div class="downcode" style="display: none;">
+        <a href="/client" target="_blank">
+            <div class="icon-2code"></div><div class="c-box">
+                <span>扫一扫</span>
+                <span>手机看直播</span>
+                <img src="https://shark.douyucdn.cn/app/douyu/res/com/lifter-appcode.png?20160818">
+                <span class="btn-2code"></span>
+            </div>
+        </a>
+    </div>
+</div>    <div id="footer">
+	<div class="foot">
+	  	<div class="friendly fl">
+            	    	<h3>友情链接</h3>
+	      	<div class="links">
+                                <ul>
+                                        <li><a href="http://dev-bbs.douyutv.com" target="_blank">斗鱼开发者论坛</a></li>
+                                        <li><a href="http://live.qq.com/" target="_blank">企鹅直播</a></li>
+                                        <li><a href="http://www.acfun.tv/" target="_blank">AcFun弹幕视频网</a></li>
+                                        <li><a href="http://app.shafa.com/" target="_blank">沙发管家</a></li>
+                                        <li><a href="http://www.77l.com/" target="_blank">齐齐乐</a></li>
+                                        <li><a href="http://bbs.a9vg.com" target="_blank">A9VG电玩部落</a></li>
+                                    </ul>
+                                    <ul>
+                                        <li><a href="http://www.dangbei.com/" target="_blank">当贝市场</a></li>
+                                        <li><a href="http://www.tuwan.com/" target="_blank">兔玩网</a></li>
+                                        <li><a href="http://www.qcast.cn/" target="_blank">快投电视</a></li>
+                                        <li><a href="http://www.iqing.in/" target="_blank">轻文轻小说</a></li>
+                                    </ul>
+                    			</div>
+            	  	</div>
+	  
+		<div class="anchor-help fl">
+			<h3>主播帮助</h3>
+			<div class="links">
+                <ul>
+                    <li><a target="_blank" href="https://www.douyu.com/cms/zhibo/201412/26/324.shtml">新手主播上路</a></li>
+                    <li><a target="_blank" href="/client?platform=1">主播工具下载</a></li>
+                    <li><a target="_blank" href="https://www.douyu.com/cms/zhibo/201407/29/283.shtml">主播工具教程</a></li>
+                </ul>
+			</div>  
+		</div>
+	  
+	  	<div class="software fl">
+	    	<h3>斗鱼手机客户端</h3>
+			<ul>
+				<li>
+					<a href="/client" target="_blank">
+						<span class="foot-ico1" id="android_tit">IOS/Android下载</span>
+						<img src="https://shark.douyucdn.cn/app/douyu/res/com/appcode.png" alt="">
+					</a>
+				</li>
+			</ul>
+	    </div>
+
+	   	<div class="focusus fl">
+	       	<h3>关注我们</h3>
+	       	<ul>
+	         	<li>
+	         		<span class="foot-ico2">微信公众号</span>
+	         		<img src="https://shark.douyucdn.cn/app/douyu/res/com/dyweixin.png" alt="">
+	         	</li>
+	       	</ul>
+	    </div>
+
+		<div class="contact fr">
+			<p title="点击链接加入群【斗鱼官方交流4群】">
+				<a class="gfqq" href="http://jq.qq.com/?_wv=1027&amp;k=c63S3v" target="_blank">官方交流群：149256047</a>
+			</p>
+			<p> 
+				<a href="http://weibo.com/u/3982726153" target="_blank" class="sina"></a> 
+				<a href="http://t.qq.com/douyutv" target="_blank" class="txwb"></a> 
+			</p>
+		</div>
+	</div>
+	    
+	<div class="outlink-bg">
+	    <div class="outlink">
+			<ul class="about" style="width:888px;">
+                <li><a href="/cms/about/about_us.html">关于我们</a><span>|</span></li>
+                <li><a href="/member/customer_service" target="_blank">联系客服</a><span>|</span></li>
+                <li><a href="https://zhaopin.douyu.com">招聘信息</a><span>|</span></li>
+                <li><a href="/cms/about/cooperate.html">友情链接</a><span>|</span></li>
+                <li><a href="/cms/zhibo/list_16.shtml" target="_blank">我要直播</a><span>|</span></li>
+                <li><a href="/member/message/release" onclick="try{ check_message(); return false; } catch(e){}">意见反馈</a><span>|</span></li>
+                <li><a href="/cms/gong/201509/22/2229.shtml" target="_blank">版权保护投诉指引</a><span>|</span></li>
+                <li><a href="https://www.douyu.com/cms/gong/201605/30/3643.shtml" target="_blank">斗鱼官方QQ号</a><span>|</span></li>
+                <li><a href="http://jb.ccm.gov.cn/" target="_blank">12318 全国文化市场举报网站</a><span>|</span></li>
+                <li><a href="http://jubao.12377.cn:13225/reportinputcommon.do" target="_blank">网上有害信息举报专区</a></li>
+			</ul>
+	        <p id="footer-company-info-1" style="display:none">
+				武汉斗鱼网络科技有限公司 版权所有 ©www.douyu.com 粤ICP备14043701号-1  |
+				<a href="https://shark.douyucdn.cn/app/douyu/res/dyidcard2.png" target="_blank" style="color:#b1b1b1">鄂网文[2014]0686-286 号</a> <br>
+				公司地址：湖北省武汉市东湖开发区光谷软件园F4栋8楼  客户服务热线：027-65026248
+			</p>
+			<p id="footer-company-info-2" style="display:none">武汉斗鱼网络科技有限公司 版权所有 ©www.douyu.com 鄂ICP备15011961号-1  |
+				<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=42018502000107" style="color: #b1b1b1;"><img src="https://staticlive.douyucdn.cn/common/douyu/images/ghs.png" style="vertical-align: text-bottom;">鄂公网安备 42018502000107号</a>  |
+				<a target="_blank" href="http://whgswj.whhd.gov.cn:8089/whwjww/indexquery/indexqueryAction!dizview.dhtml?chr_id=9d45299953ce85733b2ef87d05820ac0&amp;bus_ent_id=420000000009311039&amp;bus_ent_chr_id=82c93ffb8f1b40458298daf104c3f87d" style="color: #b1b1b1;">
+					<img src="https://staticlive.douyucdn.cn/common/douyu/images/gswj.gif" style="vertical-align: text-bottom;"> 工商网监
+				</a> |
+				<a href="https://shark.douyucdn.cn/app/douyu/res/dyidcard.jpg" target="_blank" style="color:#b1b1b1">鄂网文[2015]1925-037 号</a> <br>
+				公司地址：湖北省武汉市东湖开发区光谷软件园F4栋8楼  客户服务热线：027-65026248</p>
+	    </div>
+	</div>
+</div></div>
+
+<script type="text/javascript" charset="utf-8" src="https://shark.douyucdn.cn/app/douyu-passport/js/page/sdk/douyu-user-sdk.js?nv=8.439"></script>
+<script id="dytemp-loginpop-shadow" type="douyu/template">
+    <div class="login-pop-shadow hide"></div>
+</script>
+
+<script id="dytemp-vcode9-shadow" type="douyu/template">
+    <div class="vcode9-shadow hide"></div>
+</script>
+
+<script id="dytemp-vcode9" type="douyu/template">
+    <div class="vcode9" data-src="/member/register/regcaptcha">
+        <div class="vcode9-tit clearfix">
+            <h3>输入验证码完成注册</h3>
+            <a href="#" class="vcode9-close">关闭</a>
+        </div>
+
+        <div class="vcode9-con"> 
+            <div class="vcode9-preview clearfix">
+                <span>验证码</span>
+                <b></b>
+                <b></b>
+                <b></b>
+                <b></b>
+                <b class="p-delete" title="清除"></b>
+            </div>
+            <div class="vcode9-guide">
+                <span></span>
+                <a href="#">看不清？</a>
+            </div>
+            <div class="vcode9-action">点击框内文字输入验证码</div>
+            <div class="vcode9-input clearfix">
+                <a class="i-0" href="#">
+                    <b data-num="0"></b>
+                </a>
+                <a class="i-1" href="#">
+                    <b data-num="1"></b>
+                </a>
+                <a class="i-2" href="#">
+                    <b data-num="2"></b>
+                </a>
+                <a class="i-3" href="#">
+                    <b data-num="3"></b>
+                </a>
+                <a class="i-4" href="#">
+                    <b data-num="4"></b>
+                </a>
+                <a class="i-5" href="#">
+                    <b data-num="5"></b>
+                </a>
+                <a class="i-6" href="#">
+                    <b data-num="6"></b>
+                </a>
+                <a class="i-7" href="#">
+                    <b data-num="7"></b>
+                </a>
+                <a class="i-8" href="#">
+                    <b data-num="8"></b>
+                </a>
+            </div>
+        </div>
+    </div>
+</script>
+
+<script id="dytemp-loginbox-shadow" type="douyu/template">
+    <div class="loginbox-shadow hide" id="loginbox-shadow"></div>
+</script><script type="text/javascript" charset="utf-8" src="https://shark.douyucdn.cn/app/douyu/third/art-dialog-dy/jquery.artDialog.js?skin=blue"></script><script type="text/javascript" charset="utf-8" src="https://shark.douyucdn.cn/app/douyu/third/art-dialog-dy/plugins/iframeTools.js?nv=8.439"></script><script type="text/javascript" charset="utf-8" src="https://shark.douyucdn.cn/app/douyu/js/page/index/app-all-asyn.js?nv=8.439"></script><script type="text/javascript" charset="utf-8" src="https://shark.douyucdn.cn/app/douyu/js/com/device.js?nv=8.439"></script><script type="text/javascript" charset="utf-8" src="https://shark.douyucdn.cn/stream/dist/dys-douyutv.js?nv=8.439"></script></body>
+</html>

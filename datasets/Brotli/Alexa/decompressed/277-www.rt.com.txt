@@ -1,0 +1,976 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta property="fb:pages" content="326683984410" />
+        <meta name="msvalidate.01" content="36879475773792950F4872586A371571" />
+        <meta name="google-site-verification" content="VQLbsaWKiXW2-Vt4lP7MevnhMES537NO4fQjfGgLcbI" />
+        <meta name="apple-mobile-web-app-capable" content="no" />
+        <meta name="format-detection" content="telephone=yes" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+        <meta name="HandheldFriendly" content="true" />
+        <meta name="MobileOptimzied" content="width" />
+        <meta http-equiv="cleartype" content="on" />
+        <meta name="navigation" content="tabbed" />
+        <title>RT</title>
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+        <link rel="icon" href="/favicon.ico" type="image/x-icon" />    
+        <link rel="apple-touch-icon" href="/static/block/touch-icon/apple-touch-icon-precomposed.png"/>
+        <link rel="apple-touch-icon" sizes="72x72" href="/static/block/touch-icon/apple-touch-icon-72x72-precomposed.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="/static/block/touch-icon/apple-touch-icon-114x114-precomposed.png" />
+        <link rel="apple-touch-icon" sizes="144x144" href="/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" />
+        <meta name="description" content="RT is the first Russian 24/7 English-language news channel which brings the Russian view on global news." />
+        <meta property="og:site_name" content="RT International" />
+        <meta property="og:locale" content="en_EN" />
+                    <meta property="og:title" content="RT" />
+            <meta property="og:type" content="website" />
+            <meta property="og:url" content="https://www.rt.com" />
+            <meta property="og:description" content="RT is the first Russian 24/7 English-language news channel which brings the Russian view on global news." />
+                            <meta property="og:image" content="https://www.rt.com/static/img/og-logo-rt.png"/>
+                                            <meta name="twitter:card" content="summary_large_image">
+            <meta name="twitter:site" content="@RT_com">
+            <meta name="twitter:creator" content="@RT_com">
+            <meta name="twitter:title" content="RT">
+            <meta name="twitter:description" content="RT is the first Russian 24/7 English-language news channel which brings the Russian view on global news.">
+            <meta property="twitter:image" content=""/>
+                                        <!-- rev-hash -->
+<link rel="stylesheet" href="/static/css/template.css?v=a9db08fafa0a010e5eagbd734c5e821e28"/>
+<!-- end -->
+                
+
+                    
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="/static/libs/jquery-1.11.2.js"><\/script>')</script>
+                            <script>
+                var _prum = [['id', '54ca2d51abe53ddb6be85738'],
+                ['mark', 'firstbyte', (new Date()).getTime()]];
+                (function() {
+                var s = document.getElementsByTagName('script')[0]
+                , p = document.createElement('script');
+                p.async = 'async';
+                p.src = '//rum-static.pingdom.net/prum.min.js';
+                s.parentNode.insertBefore(p, s);
+                })();
+            </script>
+                
+                                    <script type="text/javascript" src="//ruptly-d.openx.net/w/1.0/jstag?nc=144751494-RT"></script>
+                <script async type='text/javascript'>
+                   var googletag = googletag || {};
+                   googletag.cmd = googletag.cmd || [];
+                   (function() {
+                     var gads = document.createElement('script');
+                     gads.async = true;
+                     gads.type = 'text/javascript';
+                     var useSSL = 'https:' == document.location.protocol;
+                     gads.src = (useSSL ? 'https:' : 'http:') +
+                       '//www.googletagservices.com/tag/js/gpt.js';
+                     var node = document.getElementsByTagName('script')[0];
+                     node.parentNode.insertBefore(gads, node);
+                   })();
+                 </script>
+              
+<!-- EN_RT_Homepage --> 
+<script type='text/javascript'>
+    googletag.cmd.push(function() {
+    var mappingLeaderboard = googletag.sizeMapping().
+        addSize([1000, 0], [[728, 90], [970, 90], [970, 250], [1228, 90]]).
+        addSize([768, 0], [[468, 60], [728, 90]]).
+        addSize([0, 0], [[300, 50], [320, 50]]).
+        build();
+    var mappingBox = googletag.sizeMapping().
+        addSize([1000, 0], [[250, 250], [300, 250], [375, 180], [375, 250], [376, 252]]).
+        addSize([768, 0], [[250, 250], [300, 250]]).
+        addSize([0, 0], [300, 250]).
+        build();    
+    var mappingSkyscraper = googletag.sizeMapping().
+        addSize([1000, 0], [[160, 600], [300, 250], [300, 600]]).
+        addSize([768, 0], [[160, 600], [300, 250], [300, 600]]).
+        addSize([0, 0], [300, 250]).
+        build();
+
+    googletag.defineSlot('/144751494/EN_RT_Homepage', [[300, 50], [320, 50], [468, 60], [728, 90], [970, 90], [970,250], [1228, 90]], 'div-gpt-ad-1432640570396-0').defineSizeMapping(mappingLeaderboard).addService(googletag.pubads());
+    googletag.defineSlot('/144751494/EN_RT_Homepage', [[300, 50], [320, 50], [468, 60], [728, 90], [970, 90], [970,250], [1228, 90]], 'div-gpt-ad-1432640570396-1').defineSizeMapping(mappingLeaderboard).addService(googletag.pubads());
+    googletag.defineSlot('/144751494/EN_RT_Homepage', [[250, 250], [300, 250], [375, 180], [375, 250]], 'div-gpt-ad-1432640570396-2').defineSizeMapping(mappingBox).addService(googletag.pubads());
+    googletag.defineSlot('/144751494/EN_RT_Homepage', [1, 1], 'div-gpt-ad-1432640570396-3').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+    });
+</script>
+                        </head>
+
+    <body>
+                <div class="layout">
+            <div class="offers" id="offers"></div>
+            <div class="layout__header" id="layout__header">
+                <div class="header" id="header">
+	<div class="header__section header__section_gray">
+		<div class="header__content">
+			<div class="header__social">
+				
+<ul class="socials  ">
+    <li class="socials__item  ">
+            <a href="//www.facebook.com/RTnews/" class="socials__link socials__link_facebook" target="_blank">facebook</a>
+        </li><li class="socials__item  ">
+            <a href="//twitter.com/#!/RT_com" class="socials__link socials__link_twitter" target="_blank">twitter</a>
+        </li><li class="socials__item  ">
+            <a href="//www.youtube.com/user/RussiaToday" class="socials__link socials__link_youtube" target="_blank">youtube</a>
+        </li><li class="socials__item  ">
+            <a href="//plus.google.com/102728491539958529040/posts" class="socials__link socials__link_google-plus" target="_blank">google-plus</a>
+        </li><li class="socials__item  ">
+            <a href="//instagram.com/rt" class="socials__link socials__link_instagram" target="_blank">instagram</a>
+        </li><li class="socials__item  ">
+            <a href="//soundcloud.com/rttv" class="socials__link socials__link_soundcloud" target="_blank">soundcloud</a>
+        </li><li class="socials__item  ">
+            <a href="//coub.com/russiatoday" class="socials__link socials__link_coub" target="_blank">coub</a>
+        </li></ul>			</div>
+			<div class="header__alternative-links">
+				<ul class="alternative-links ">
+  <li class="alternative-links__item ">
+    <a href="/applications/" class="alternative-links__link " onclick="ga('send', 'event', 'Links', 'Click', 'App Down');">Applications</a></li>
+  <li class="alternative-links__item  ">
+    <a href="/rss/" class="alternative-links__link alternative-links__link_rss " target="_blank">RSS</a>
+  </li>
+</ul>			</div>
+			<div class="header__langs">
+				<ul class="langs">
+  <li class="langs__item"><a href="//arabic.rt.com/" class="langs__link" title="RT " target="_blank">العربية</a></li><li class="langs__item"><a href="//actualidad.rt.com/" class="langs__link" title="RT " target="_blank">ESP</a></li><li class="langs__item"><a href="//russian.rt.com/" class="langs__link" title="RT " target="_blank">РУС</a></li><li class="langs__item"><a href="//deutsch.rt.com/" class="langs__link" title="RT " target="_blank">DE</a></li><li class="langs__item"><a href="//francais.rt.com/" class="langs__link" title="RT " target="_blank">FR</a></li></ul>			</div>
+			<div class="header__media-projects">
+				<ul class="media-projects">
+  <li class="media-projects__item"><a href="//russian.rt.com/inotv" class="media-projects__link" title="RT " target="_blank">ИНОТВ</a></li><li class="media-projects__item"><a href="//rtd.rt.com/" class="media-projects__link" title="RT " target="_blank">RTД</a></li><li class="media-projects__item"><a href="//ruptly.tv/" class="media-projects__link" title="RT " target="_blank">RUPTLY</a></li></ul>			</div>
+			<div class="clears-mh"></div>
+		</div>
+	</div>
+	<div class="header__section header__section_border-bottom_gray">
+		<div class="header__content">
+			<div class="header__logo">
+                <a class="logo " href="/">
+    <span class="logo__image">RT</span><span class="logo__text">Question more</span>
+</a>			</div>
+			<div class="header__live">
+				<a href="/on-air/" class="live-button">live</a>
+			</div>
+			<div class="header__seach-form">
+				    <form name="search" class="seach-form" action="/search" >
+    <div class="seach-form__wrapper">
+        <span class="seach-form__wrapper-input-text seach-form__wrapper-input-text_size_small">
+            <input class="seach-form__input-text " type="text" name="q" value="" maxlength="100" />
+
+            
+        </span>
+        <label class="seach-form__wrapper-input-submit">
+            <input class="seach-form__input-submit" type="submit" value="Search" />
+        </label>
+
+        
+    </div>
+    </form>
+				<div class="header__date">
+					<time class="date">
+	                  
+	                  13:12 GMT, May 09, 2017
+	            	</time>
+				</div>
+			</div>
+			<ul class="mobile-nav">
+				<li class="mobile-nav__item">
+					<a class="js-mobile-element-nav mobile-nav__link mobile-nav__link_search">search</a>
+				</li><li class="mobile-nav__item">
+					<a class="js-mobile-element-nav mobile-nav__link mobile-nav__link_menu">Menu mobile</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<div class="header__section" id="header-nav">
+		<div class="header__content">
+                    <ul class="nav">
+  <li class="nav__item "><a class="nav__link  " href="/news/">News</a></li><li class="nav__item "><a class="nav__link  " href="/usa/">America</a></li><li class="nav__item "><a class="nav__link  " href="/uk/">UK</a></li><li class="nav__item "><a class="nav__link  " href="/politics/">Russian politics</a></li><li class="nav__item "><a class="nav__link  " href="/business/">Business</a></li><li class="nav__item "><a class="nav__link  " href="/sport/">Sport</a></li><li class="nav__item "><a class="nav__link  " href="/op-edge/">Op-Edge</a></li><li class="nav__item "><a class="nav__link  " href="/in-vision/">In vision</a></li><li class="nav__item "><a class="nav__link  " href="/in-motion/">In motion</a></li><li class="nav__item "><a class="nav__link  nav__link_herbal" href="/360/">RT360</a></li><li class="nav__item "><a class="nav__link  " href="/shows/">Shows</a></li><li class="nav__item nav__item_static_hide"><a class="nav__link  " href="/onair-talent/">On-Air Talent</a></li><li class="nav__item "><a class="nav__link  " href="/more/">More</a></li></ul>
+		</div>
+	</div>
+</div>            </div>
+            <div class="layout__wrapper ">
+            <div class="layout__control-width ">
+                  
+            </div>
+            <div class="layout__breaking ">
+                <div class="breaking-news"><div class="breaking-news__content"><a class="breaking-news__text" href="https://www.rt.com/on-air/387710-immortal-regiment-march-moscow/">
+	                Immortal Regiment March on V-Day in Moscow (WATCH LIVE) 
+	            </a></div></div>
+
+            </div>      
+                <div class="layout__content ">
+                 
+<div class="columns columns_margin_main-top"><div class="columns__column static-75_high-100"><div class="columns__content columns__content_margin_main-top"><div class="news-block"><div class="main-promobox" data-tb-region="main_promobox"><ul class="main-promobox__list"><li class="main-promobox__item" data-tb-region-item><div class="main-promobox__heading"><a class="main-promobox__link" href="/on-air/387656-moscow-marks-victory-day/">
+
+                                RT’s special coverage: Russia celebrates Victory Day
+
+                             
+
+                                <span class="live-button live-button_size_small">LIVE</span></a></div><div class="main-promobox__cover"><div class="media  "><div class="media__image "><a href="/on-air/387656-moscow-marks-victory-day/" class="link link_disabled"><img class="media__item media__item_ratio " src="https://cdn.rt.com/files/2017.05/thumbnail/5910bf48c361887d5f8b4626.jpg" alt="RT’s special coverage: Russia celebrates Victory Day"></a></div></div></div></li><li class="main-promobox__item" data-tb-region-item><div class="main-promobox__heading"><a class="main-promobox__link" href="/news/387691-moscow-victory-day-parade/">
+
+                                1,000s of troops, state-of-the-art weaponry parade through Moscow on V-Day (FULL VIDEO)
+
+                            
+                            
+                            </a></div><div class="main-promobox__cover"><div class="media  "><div class="media__image "><a href="/news/387691-moscow-victory-day-parade/" class="link link_disabled"><img class="media__item media__item_ratio " src="https://cdn.rt.com/files/2017.05/thumbnail/59118528c46188183e8b45b8.jpg" alt="1,000s of troops, state-of-the-art weaponry parade through Moscow on V-Day (FULL VIDEO)"></a></div></div></div></li><li class="main-promobox__item" data-tb-region-item><div class="main-promobox__heading"><a class="main-promobox__link" href="/news/387699-putin-victory-day-ww2/">
+
+                                Putin says WW2 started due to disunity of world’s leading countries, calls on world to unite
+
+                            
+                            
+                            </a></div><div class="main-promobox__cover"><div class="media  "><div class="media__image "><a href="/news/387699-putin-victory-day-ww2/" class="link link_disabled"><img class="media__item media__item_ratio " src="https://cdn.rt.com/files/2017.05/thumbnail/591194afc36188eb7c8b45e2.jpg" alt="Putin says WW2 started due to disunity of world’s leading countries, calls on world to unite"></a></div></div></div></li><li class="main-promobox__item" data-tb-region-item><div class="main-promobox__heading"><a class="main-promobox__link" href="/news/387711-us-warship-collides-south-korea/">
+
+                                US warship & S. Korean fishing boat collide in Sea of Japan
+
+                            
+                            
+                            </a></div><div class="main-promobox__cover"><div class="media  "><div class="media__image "><a href="/news/387711-us-warship-collides-south-korea/" class="link link_disabled"><img class="media__item media__item_ratio " src="https://img.rt.com/files/2017.05/thumbnail/591197f2c4618822618b461e.jpg" alt="US warship &amp; S. Korean fishing boat collide in Sea of Japan"></a></div></div></div></li><li class="main-promobox__item" data-tb-region-item><div class="main-promobox__heading"><a class="main-promobox__link" href="/news/387694-ww2-film-boris-sokolov/">
+
+                                ‘30 seconds to film’: Last Soviet WW2 cameraman shares surreal frontline experience with RT
+
+                            
+                            
+                            </a></div><div class="main-promobox__cover"><div class="media  "><div class="media__image media__image_type_video "><a href="/news/387694-ww2-film-boris-sokolov/" class="link link_disabled"><img class="media__item media__item_ratio " src="https://cdn.rt.com/files/2017.05/thumbnail/590ed6e8c3618817298b456c.jpg" alt="‘30 seconds to film’: Last Soviet WW2 cameraman shares surreal frontline experience with RT"></a></div></div></div></li></ul></div></div></div></div><div class="columns__column static-24_high-100"><div class="columns__content columns__content_margin_main-top"><div class="news-block"><div class="main-viralbox"><h2 class="main-viralbox__title">
+            LIVE
+        </h2><div class="main-viralbox__cover"><div class="media"><div class="media__video"><script type="text/javascript" src="/static/libs/jwplayer/jwplayer.js"></script><script type="text/javascript">
+        jwplayer.key="vubALmkUQoFfQTKjsdLKY7Oox0kDInQGMzt2VA=="
+    </script><div id='mediaspace'></div><div class="message hidden" id="streamlink" style="display:none;"><ul class="streambuttons"><li class="streambuttons__item"><a class="streambuttons__link" href="http://wpc.5442D.systemcdn.net/245442D/eng1/eng-live.m3u8">Play</a></li></ul></div><script>
+            if (navigator.userAgent.match(/Android/i)) {
+                $('#streamlink').show();
+            } else {
+                jwplayer("mediaspace").setup({
+                    autostart: 'true',
+                    primary: "html5",
+                    playlist: [{
+                        sources: [{
+                            file: "http://wpc.5442D.systemcdn.net/245442D/eng1/eng-live.m3u8"
+                        }]
+                    }],
+                    height: '100%',
+                    width: '100%',
+                    mediaid: "591185ecc36188eb7c8b45cb",
+                    title: "Immortal Regiment March on V-Day in Moscow",
+                    sharing: {
+                        code: '<iframe width="630" height="354" src="https://www.rt.com/on-air/387710-immortal-regiment-march-moscow/embed/" frameborder="0" allowfullscreen></iframe>'
+                    },
+                    ga: {},
+                    skin:     '/static/libs/jwplayer/skins/rtskin-live.xml',                
+                    events: {
+                        onPlay: function(){
+                            myStreamingTag.playVideoContentPart(metadata);
+                        },
+                        onPause: function(){
+                            myStreamingTag.stop();
+                        },
+                        onComplete: function(){
+                            myStreamingTag.stop();
+                        }
+                    }
+                });
+            }
+        </script><style>
+            #mediaspace {
+                position: absolute;
+            }
+
+        </style></div></div></div><strong class="main-viralbox__heading"><a class="link link_hover" href="/on-air/387710-immortal-regiment-march-moscow/" >
+
+        
+                Immortal Regiment March on V-Day in Moscow 
+                
+                
+        
+            </a></strong></div></div></div></div></div><div class="columns"><div class="columns__column static-75_high-100_med-hidden"><div class="columns__content"><div class="news-block"><div class="news-line"><div class="news-line__controls"><button class="news-line__controls-prev js-ticker-prev"></button><button class="news-line__controls-play js-ticker-play"></button><button class="news-line__controls-pause js-ticker-pause"></button><button class="news-line__controls-next js-ticker-next"></button></div><strong class="news-line__title">News line</strong><div class="news-line__content"><ul class="news-line__list"><li class="news-line__item"><a href="/news/line/" class="news-line__link">Putin set to meet Palestinian leader Abbas in Sochi – Kremlin</a></li><li class="news-line__item"><a href="/news/line/" class="news-line__link">Almost 250 feared dead in Mediterranean shipwrecks</a></li><li class="news-line__item"><a href="/news/line/" class="news-line__link">Some 300 migrants storm border fence in Spanish enclave</a></li><li class="news-line__item"><a href="/news/line/" class="news-line__link">10 South Korean children killed in traffic accident in China</a></li><li class="news-line__item"><a href="/news/line/" class="news-line__link">French police clear 1,000 migrants from camp in Paris</a></li><li class="news-line__item"><a href="/news/line/" class="news-line__link">South Koreans go to polls to replace impeached president</a></li></ul></div></div></div></div></div><div class="columns__column columns__column_high_hidden static-24_high-100"><div class="columns__content"><div class="news-block"><ul class="buttons"><li class="buttons__item"><div class="button"><a class="button__link" href="/where-to-watch/">Where to watch</a></div></li><li class="buttons__item"><div class="button"><a class="button__link" href="/schedule/">Schedule</a></div></li></ul></div></div></div>    <div class="columns__content">
+        <div class="news-block news-block_padding_size_small"><div class="banners"><div class="news-block news-block_padding_size_small"><div class="banners"><div class="banners__border"><a href="https://1917.rt.com "  target="_blank"><img src="https://img.rt.com/files/2017.03/original/58c92843c361881f798b45d7.png" alt=""></a></div></div></div></div></div>		
+
+    </div>
+    <div class="columns__content">
+    <div class="card-rows"><div class="card-rows__item static-three_med-one" data-tb-region="main_news"><div class="card-rows__content card-rows__content_padding-zero"><ul class="card-list"><li class="card-list__item" data-tb-region-item><div class="card"><div class="card__title card__title_mainnews"><a class="link link_hover" href="/news/">
+
+            
+                    News
+
+            
+                </a></div><div class="card__cover "><div class="media  "><div class="media__image "><a href="/news/387706-camp-paris-migrants-evacuation/" class="link link_disabled"><img class="media__item media__item_ratio " src="https://cdn.rt.com/files/2017.05/thumbnail/59119eb8c46188c1588b4652.jpg" alt="French police clear up to 1,600 migrants from camp in Paris"></a></div></div></div><strong class="card__header  card__header_background_3f3f3f"><a class="link link_hover-underline" href="/news/387706-camp-paris-migrants-evacuation/">
+
+                        French police clear up to 1,600 migrants from camp in Paris
+
+                     
+
+                    
+
+                    </a></strong></div></li><li class="card-list__item" data-tb-region-item><div class="card"><strong class="card__header  "><a class="link link_hover" href="/news/387707-360-moscow-military-hardware/">
+
+                        Ride V-Day military hardware through Moscow with RT’s 360 videos
+
+                     
+
+                    
+
+                    </a></strong></div></li><li class="card-list__item" data-tb-region-item><div class="card"><strong class="card__header  "><a class="link link_hover" href="/news/387635-russia-celebrates-victory-day/">
+
+                        Victory Day celebrations across Russia
+
+                     
+
+                    
+                        <span class="live-updates">Live updates</span></a></strong></div></li><li class="card-list__item" data-tb-region-item><div class="card"><strong class="card__header  "><a class="link link_hover" href="/news/387702-indonesia-governor-jailed-blasphemy/">
+
+                        Christian Jakarta governor sentenced to 2 years for ‘blasphemy’ against Islam
+
+                     
+
+                    
+
+                    </a></strong></div></li></ul></div></div><div class="card-rows__item static-three_med-one" data-tb-region="main_usa"><div class="card-rows__content  card-rows__content_padding-zero"><ul class="card-list"><li class="card-list__item" data-tb-region-item><div class="card"><div class="card__title card__title_mainnews"><a class="link link_hover" href="/usa/">
+
+            
+                    America
+
+            
+                </a></div><div class="card__cover "><div class="media  "><div class="media__image "><a href="/usa/387720-san-francisco-donation-homelessness/" class="link link_disabled"><img class="media__item media__item_ratio " src="https://img.rt.com/files/2017.05/thumbnail/5911a2bcc36188eb7c8b460b.jpg" alt="San Francisco NGO pledges $100mn to fight homelessness "></a></div></div></div><strong class="card__header  card__header_background_3f3f3f"><a class="link link_hover-underline" href="/usa/387720-san-francisco-donation-homelessness/">
+
+                        San Francisco NGO pledges $100mn to fight homelessness 
+
+                     
+
+                    
+
+                    </a></strong></div></li><li class="card-list__item" data-tb-region-item><div class="card"><strong class="card__header  "><a class="link link_hover" href="/usa/387650-domestic-abuse-immigrant-spike/">
+
+                        Domestic violence hotline sees sharp rise in calls from immigrants ‒ study
+
+                     
+
+                    
+
+                    </a></strong></div></li><li class="card-list__item" data-tb-region-item><div class="card"><strong class="card__header  "><a class="link link_hover" href="/usa/387651-epa-dismissed-half-advisers/">
+
+                        EPA to replace half of science advisors, critics fear industry takeover
+
+                     
+
+                    
+
+                    </a></strong></div></li><li class="card-list__item" data-tb-region-item><div class="card"><strong class="card__header  "><a class="link link_hover" href="/usa/387629-jane-sanders-investigation-burlington/">
+
+                        FBI investigates Bernie Sanders’ wife for bank fraud ‒ report
+
+                     
+
+                    
+
+                    </a></strong></div></li></ul></div></div><div class="card-rows__item static-three_med-one" data-tb-region="main_viral"><div class="card-rows__content  card-rows__content_padding-zero"><ul class="card-list"><li class="card-list__item" data-tb-region-item><div class="card"><div class="card__title card__title_mainnews"><a class="link link_hover" href="/viral/">
+
+            
+                    Viral
+
+            
+                </a></div><div class="card__cover "><div class="media  "><div class="media__image "><a href="/usa/387709-ashes-mail-gop-healthcare/" class="link link_disabled"><img class="media__item media__item_ratio " src="https://cdn.rt.com/files/2017.05/thumbnail/5911a143c36188e1798b4621.jpg" alt="‘Mail my body to Paul Ryan&#039;s house’: Ashes of protesters could be sent to ‘TrumpCare’ backers"></a></div></div></div><strong class="card__header  card__header_background_3f3f3f"><a class="link link_hover-underline" href="/usa/387709-ashes-mail-gop-healthcare/">
+
+                        ‘Mail my body to Paul Ryan's house’: Ashes of protesters could be sent to ‘TrumpCare’ backers
+
+                     
+
+                    
+
+                    </a></strong></div></li><li class="card-list__item" data-tb-region-item><div class="card"><strong class="card__header  "><a class="link link_hover" href="/viral/387688-leap-crane-victory-russia/">
+
+                        Leap for Victory: Russian daredevil takes patriotic plunge to celebrate historic day
+
+                     
+
+                    
+
+                    </a></strong></div></li><li class="card-list__item" data-tb-region-item><div class="card"><strong class="card__header  "><a class="link link_hover" href="/viral/387678-cannabis-restores-cognitive-function/">
+
+                        Daily dose of cannabis extract could help memory in old age - study
+
+                     
+
+                    
+
+                    </a></strong></div></li><li class="card-list__item" data-tb-region-item><div class="card"><strong class="card__header  "><a class="link link_hover" href="/viral/387658-veterans-swing-sochi-victory-day/">
+
+                        WWII veterans mark V-Day riding world’s biggest swing in Sochi (VIDEO)
+
+                     
+
+                    
+
+                    </a></strong></div></li></ul></div></div><div class="card-rows__item static-three_med-one" data-tb-region="main_uk"><div class="card-rows__content  card-rows__content_padding-zero"><ul class="card-list"><li class="card-list__item" data-tb-region-item><div class="card"><div class="card__title card__title_mainnews"><a class="link link_hover" href="/uk/">
+
+            
+                    UK
+
+            
+                </a></div><div class="card__cover "><div class="media  "><div class="media__image "><a href="/uk/387722-london-tour-holiday-brexit/" class="link link_disabled"><img class="media__item media__item_ratio " src="https://cdn.rt.com/files/2017.05/thumbnail/5911b6cbc361889c028b456d.jpg" alt="‘Brexit means Brexit’ tour of London offered to Americans… for a mere $6K"></a></div></div></div><strong class="card__header  card__header_background_3f3f3f"><a class="link link_hover-underline" href="/uk/387722-london-tour-holiday-brexit/">
+
+                        ‘Brexit means Brexit’ tour of London offered to Americans… for a mere $6K
+
+                     
+
+                    
+
+                    </a></strong></div></li><li class="card-list__item" data-tb-region-item><div class="card"><strong class="card__header  "><a class="link link_hover" href="/uk/387721-london-knife-stabbings-deaths/">
+
+                        Wave of knife attacks in London claims 11th victim in 2 weeks
+
+                     
+
+                    
+
+                    </a></strong></div></li><li class="card-list__item" data-tb-region-item><div class="card"><strong class="card__header  "><a class="link link_hover" href="/uk/387696-eu-rights-british-passport/">
+
+                        Fear of Brexit causes stampede of EU residents applying for British passports 
+
+                     
+
+                    
+
+                    </a></strong></div></li><li class="card-list__item" data-tb-region-item><div class="card"><strong class="card__header  "><a class="link link_hover" href="/uk/387703-corbyn-socialist-labour-leader/">
+
+                        Liberal pundits slam Corbyn pledge to carry on as Labour leader even if party loses election
+
+                     
+
+                    
+
+                    </a></strong></div></li></ul></div></div><div class="card-rows__item static-three_med-one" data-tb-region="main_popularposts"><div class="card-rows__content  card-rows__content_padding-zero"><ul class="card-list"><li class="card-list__item" data-tb-region-item><div class="card"><div class="card__title card__title_mainnews"><a class="link link_hover" href="/op-edge/">
+
+            
+                    Op-Edge
+
+            
+                </a></div><div class="card__cover "><div class="media  "><div class="media__image "><a href="/op-edge/387672-centrist-macron-global-capitalism/" class="link link_disabled"><img class="media__item media__item_ratio " src="https://cdn.rt.com/files/2017.05/thumbnail/591164dac46188455b8b4582.jpg" alt="‘Centrist’ Macron? Yes, a dead-center insider for global capitalism"></a></div></div></div><strong class="card__header  card__header_background_3f3f3f"><a class="link link_hover-underline" href="/op-edge/387672-centrist-macron-global-capitalism/">
+
+                        ‘Centrist’ Macron? Yes, a dead-center insider for global capitalism
+
+                     
+
+                    
+
+                    </a></strong></div></li><li class="card-list__item" data-tb-region-item><div class="card"><strong class="card__header  "><a class="link link_hover" href="/op-edge/387685-media-children-suffering-war/">
+
+                        Media walks fine line when portraying the suffering of children 
+
+                     
+
+                    
+
+                    </a></strong></div></li><li class="card-list__item" data-tb-region-item><div class="card"><strong class="card__header  "><a class="link link_hover" href="/op-edge/387593-women-violence-saudi-arabia/">
+
+                        ‘World continues to reward Saudi Arabia despite crimes against women' 
+
+                     
+
+                    
+
+                    </a></strong></div></li><li class="card-list__item" data-tb-region-item><div class="card"><strong class="card__header  "><a class="link link_hover" href="/op-edge/387584-macron-president-france-elections/">
+
+                        'New brand for an old product, Macron supports EU, immigration & globalization'
+
+                     
+
+                    
+
+                    </a></strong></div></li></ul></div></div><div class="card-rows__item static-three_med-one" data-tb-region="main_business"><div class="card-rows__content  card-rows__content_padding-zero"><ul class="card-list"><li class="card-list__item" data-tb-region-item><div class="card"><div class="card__title card__title_mainnews"><a class="link link_hover" href="/business/">
+
+            
+                    Business
+
+            
+                </a></div><div class="card__cover "><div class="media  "><div class="media__image "><a href="/business/387528-gazprom-turkish-stream-start-construction/" class="link link_disabled"><img class="media__item media__item_ratio " src="https://cdn.rt.com/files/2017.05/thumbnail/590fe804c36188c4358b4588.jpg" alt="Gazprom begins Turkish Stream pipeline construction"></a></div></div></div><strong class="card__header  card__header_background_3f3f3f"><a class="link link_hover-underline" href="/business/387528-gazprom-turkish-stream-start-construction/">
+
+                        Gazprom begins Turkish Stream pipeline construction
+
+                     
+
+                    
+
+                    </a></strong></div></li><li class="card-list__item" data-tb-region-item><div class="card"><strong class="card__header  "><a class="link link_hover" href="/business/387266-france-vineyards-suffer-losses/">
+
+                        Vineyards in France suffer biggest loss in decades
+
+                     
+
+                    
+
+                    </a></strong></div></li><li class="card-list__item" data-tb-region-item><div class="card"><strong class="card__header  "><a class="link link_hover" href="/business/387212-oil-prices-fall-low/">
+
+                        Oil prices drop to six-month lows as hopes fade for OPEC supply cut
+
+                     
+
+                    
+
+                    </a></strong></div></li><li class="card-list__item" data-tb-region-item><div class="card"><strong class="card__header  "><a class="link link_hover" href="/business/387262-johnson-millions-talc-cancer-case/">
+
+                        US pharma Johnson & Johnson loses $110mn talc cancer case
+
+                     
+
+                    
+
+                    </a></strong></div></li></ul></div></div></div>    </div>
+
+    <div class="columns__content">
+        <div class="news-block news-block_padding_size_small">
+            <div class="banners">
+                <div class="banners__border">
+<!-- EN_RT_Homepage 0 -->
+                    <div id='div-gpt-ad-1432640570396-0'>
+                        <script type='text/javascript'>
+                        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1432640570396-0'); });
+                        </script>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="columns__content">
+    <div class="news-block"><div class="card-rows card-rows_decor_light"><div class="card-rows__item static-three_med-one" data-tb-region="main_politics"><div class="card-rows__content card-rows__content_border-retreat"><ul class="card-list"><li class="card-list__item" data-tb-region-item><div class="card"><div class="card__title card__title_mainnews"><a class="link link_hover" href="/politics/">
+
+            
+                    Russian politics
+
+            
+                </a></div><div class="card__cover "><div class="media  "><div class="media__image "><a href="/politics/387218-russians-approve-immortal-regiment/" class="link link_disabled"><img class="media__item media__item_ratio " src="https://cdn.rt.com/files/2017.05/thumbnail/590c44efc4618867318b462a.jpg" alt="Russians approve of ‘Immortal Regiment’ memorial act, poll shows"></a></div></div></div><strong class="card__header  card__header_background_3f3f3f"><a class="link link_hover-underline" href="/politics/387218-russians-approve-immortal-regiment/">
+
+                        Russians approve of ‘Immortal Regiment’ memorial act, poll shows
+
+                     
+
+                    
+
+                    </a></strong></div></li><li class="card-list__item" data-tb-region-item><div class="card"><strong class="card__header  "><a class="link link_hover" href="/politics/387092-government-reports-success-putin/">
+
+                        Govt reports successful execution of Putin’s ‘May Orders’ program
+
+                     
+
+                    
+
+                    </a></strong></div></li><li class="card-list__item" data-tb-region-item><div class="card"><strong class="card__header  "><a class="link link_hover" href="/politics/386947-lawmakers-propose-obligatory-psychological-and/">
+
+                        Lawmakers propose obligatory psychological selection of Russian military conscripts
+
+                     
+
+                    
+
+                    </a></strong></div></li><li class="card-list__item" data-tb-region-item><div class="card"><strong class="card__header  "><a class="link link_hover" href="/politics/386865-putin-tops-electoral-ratings-in/">
+
+                        Putin tops latest polls by wide margin
+
+                     
+
+                    
+
+                    </a></strong></div></li></ul></div></div><div class="card-rows__item static-three_med-one" data-tb-region="main_sport"><div class="card-rows__content card-rows__content_border-retreat"><ul class="card-list"><li class="card-list__item" data-tb-region-item><div class="card"><div class="card__title card__title_mainnews"><a class="link link_hover" href="/sport/">
+
+            
+                    Sport
+
+            
+                </a></div><div class="card__cover "><div class="media  "><div class="media__image "><a href="/sport/387588-alexander-shlemenko-brandon-halsey-m1/" class="link link_disabled"><img class="media__item media__item_ratio " src="https://cdn.rt.com/files/2017.05/thumbnail/59107300c4618848778b45ff.jpg" alt="‘I don’t think Brandon Halsey will show up’ – Alexander Shlemenko on upcoming rematch at M-1"></a></div></div></div><strong class="card__header  card__header_background_3f3f3f"><a class="link link_hover-underline" href="/sport/387588-alexander-shlemenko-brandon-halsey-m1/">
+
+                        ‘I don’t think Brandon Halsey will show up’ – Alexander Shlemenko on upcoming rematch at M-1
+
+                     
+
+                    
+
+                    </a></strong></div></li><li class="card-list__item" data-tb-region-item><div class="card"><strong class="card__header  "><a class="link link_hover" href="/sport/387107-bansketball-governing-body-allow-hijabs/">
+
+                        Hijabs allowed for basketball players under new governing body ruling
+
+                     
+
+                    
+
+                    </a></strong></div></li><li class="card-list__item" data-tb-region-item><div class="card"><strong class="card__header  "><a class="link link_hover" href="/sport/387290-mexican-embassy-official-confed-cup/">
+
+                        ‘In Mexico there is a lot of curiosity about Russia’ - Mexican embassy official
+
+                     
+
+                    
+
+                    </a></strong></div></li><li class="card-list__item" data-tb-region-item><div class="card"><strong class="card__header  "><a class="link link_hover" href="/sport/387257-messi-four-game-ban-quashed-fifa/">
+
+                        'Insufficient evidence' - Messi has 4-game ban quashed following FIFA appeal
+
+                     
+
+                    
+
+                    </a></strong></div></li></ul></div></div><div class="card-rows__item static-three_med-one" data-tb-region="main_populargalleries"><div class="card-rows__content card-rows__content_border-retreat"><ul class="card-list"><li class="card-list__item" data-tb-region-item><div class="card"><div class="card__title card__title_mainnews"><a class="link link_hover" href="/in-vision/">
+
+            
+                    In vision
+
+            
+                </a></div><div class="card__cover "><div class="media  "><div class="media__image "><a href="/in-vision/387432-victory-day-parade-rehearsal/" class="link link_disabled"><img class="media__item media__item_ratio " src="https://cdn.rt.com/files/2017.05/thumbnail/590ed44dc3618817298b456a.jpg" alt="10,000 Russian troops rehearse 2017 Victory Day parade in Moscow "></a></div></div></div><strong class="card__header  card__header_background_3f3f3f"><a class="link link_hover-underline" href="/in-vision/387432-victory-day-parade-rehearsal/">
+
+                        10,000 Russian troops rehearse 2017 Victory Day parade in Moscow 
+
+                     
+
+                    
+
+                    </a></strong></div></li><li class="card-list__item" data-tb-region-item><div class="card"><strong class="card__header  "><a class="link link_hover" href="/in-vision/387239-mexico-protests-tires-roadblocks/">
+
+                        Mexican demonstrators burn tires, mount roadblocks in army protest
+
+                     
+
+                    
+
+                    </a></strong></div></li><li class="card-list__item" data-tb-region-item><div class="card"><strong class="card__header  "><a class="link link_hover" href="/in-vision/387242-victory-day-parade-rehearsal/">
+
+                        Russian military hardware warms up for V-Day parade
+
+                     
+
+                    
+
+                    </a></strong></div></li><li class="card-list__item" data-tb-region-item><div class="card"><strong class="card__header  "><a class="link link_hover" href="/in-vision/386719-world-celebrates-labor-day/">
+
+                        People worldwide rally on International Workers’ Day
+
+                     
+
+                    
+
+                    </a></strong></div></li></ul></div></div></div></div>    </div>
+
+    <div class="columns__content">
+        <div class="news-block news-block_padding_size_small">
+            <div class="banners">
+                <div class="banners__border">
+<!-- EN_RT_Homepage 1 -->
+                    <div id='div-gpt-ad-1432640570396-1'>
+                        <script type='text/javascript'>
+                            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1432640570396-1'); });
+                        </script>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="columns__content">
+        <div class="news-block news-block_heading"><h2 class="heading heading_bgcolor-2B2B2B"><a class="link link_hover-underline" href="/in-motion/">In motion</a></h2><ul class="card-rows card-rows_bgcolor-2B2B2B"><li class="card-rows__item static-four_med-two_low-one"><div class="card-rows__content card-rows__content_border_555"><div class="card "><div class="card__cover card__cover_color_fff"><div class="media  "><div class="media__image media__image_type_video "><a href="/in-motion/387601-khabarovsk-russia-cars-symbol/" class="link link_disabled"><img class="media__item media__item_ratio " src="https://cdn.rt.com/files/2017.05/thumbnail/59105b17c461887f278b45e2.jpg" alt="Russia: Cars synchronize to make Soviet military decoration for Victory Day"></a></div><div class="media__footer media__footer_size "><div class="media__title media__title_mainepisodes "><a href="/in-motion/387601-khabarovsk-russia-cars-symbol/" class="link link_hover-underline" >
+                Russia: Cars synchronize to make Soviet military decoration for Victory Day
+            </a></div></div></div></div></div></div></li><li class="card-rows__item static-four_med-two_low-one"><div class="card-rows__content card-rows__content_border_555"><div class="card "><div class="card__cover card__cover_color_fff"><div class="media  "><div class="media__image media__image_type_video "><a href="/in-motion/387600-voronezh-mark-victory-day/" class="link link_disabled"><img class="media__item media__item_ratio " src="https://cdn.rt.com/files/2017.05/thumbnail/59106d4ec461886a278b4627.jpg" alt="Russian leaps off crane with giant St. George ribbon to mark Victory Day"></a></div><div class="media__footer media__footer_size "><div class="media__title media__title_mainepisodes "><a href="/in-motion/387600-voronezh-mark-victory-day/" class="link link_hover-underline" >
+                Russian leaps off crane with giant St. George ribbon to mark Victory Day
+            </a></div></div></div></div></div></div></li><li class="card-rows__item static-four_med-two_low-one"><div class="card-rows__content card-rows__content_border_555"><div class="card "><div class="card__cover card__cover_color_fff"><div class="media  "><div class="media__image media__image_type_video "><a href="/in-motion/387602-nigerian-president-meets-chibok/" class="link link_disabled"><img class="media__item media__item_ratio " src="https://cdn.rt.com/files/2017.05/thumbnail/5910753ac461887f278b4619.jpg" alt="Nigerian president meets freed Chibok school girls"></a></div><div class="media__footer media__footer_size "><div class="media__title media__title_mainepisodes "><a href="/in-motion/387602-nigerian-president-meets-chibok/" class="link link_hover-underline" >
+                Nigerian president meets freed Chibok school girls
+            </a></div></div></div></div></div></div></li><li class="card-rows__item static-four_med-two_low-one"><div class="card-rows__content card-rows__content_border_555"><div class="card "><div class="card__cover card__cover_color_fff"><div class="media  "><div class="media__image media__image_type_video "><a href="/in-motion/387576-turetsky-choir-berlin-performance/" class="link link_disabled"><img class="media__item media__item_ratio " src="https://cdn.rt.com/files/2017.05/thumbnail/59105bb8c461888e218b45f4.jpg" alt="Turetsky Choir holds performance ‘Songs of Victory’ in central Berlin"></a></div><div class="media__footer media__footer_size "><div class="media__title media__title_mainepisodes "><a href="/in-motion/387576-turetsky-choir-berlin-performance/" class="link link_hover-underline" >
+                Turetsky Choir holds performance ‘Songs of Victory’ in central Berlin
+            </a></div></div></div></div></div></div></li></ul></div>
+
+    </div>
+
+    <div class="columns__content">
+        <div class="news-block news-block_heading_card-rows"><h2 class="heading"><a class="link link_hover" href="/shows/">Shows</a></h2><ul class="card-rows card-rows_margin-minus"><li class="card-rows__item static-three_med-one"><div class="card-rows__content"><div class="card "><div class="card__wrapper"><div class="card__cover card__cover_all-flleft"><div class="media  "><div class="media__image media__image_type_video "><a href="/shows/crosstalk/386164-france-macron-le-pen/" class="link link_disabled"><img class="media__item media__item_ratio " src="https://cdn.rt.com/files/2017.04/thumbnail/59005020c36188fa408b4604.jpg" alt="Le Pen vs. Macron"></a></div></div></div><strong class="card__header card__header_color_044faa"><a class="link link_hover" href="/shows/crosstalk/ ">
+
+                CrossTalk
+
+                
+            </a></strong><div class="card__summary ">
+
+        
+        
+            'CrossTalk' is RT's flagship program. This TV debate experience presents hot-topic discussions on...
+
+        
+    
+        </div></div><div class="card__decorline-verticall"><div class="decorline-verticall decorline-verticall_corners"><div class="decorline-verticall__wrapper"></div></div><strong class="card__header card__header_color_A00505"><a class="link link_hover" href="/shows/crosstalk/386164-france-macron-le-pen/">
+
+                        Le Pen vs. Macron
+
+                    </a></strong><div class="card__summary ">  
+
+                                    The choice could not be starker. In the second and final round of France&rsquo;s presidential election, voters have before them two candidates: Macron is an arch-Europhile and Le Pen is a Eurosceptic. This is truly momentous for France, Europe, and...
+
+            
+                </div></div></div></div></li><li class="card-rows__item static-three_med-one"><div class="card-rows__content"><div class="card "><div class="card__wrapper"><div class="card__cover card__cover_all-flleft"><div class="media  "><div class="media__image media__image_type_video "><a href="/shows/keiser-report/387679-episode-max-keiser-1068/" class="link link_disabled"><img class="media__item media__item_ratio " src="https://cdn.rt.com/files/2017.05/thumbnail/59108e2fc361887d5f8b45c3.jpg" alt="Episode 1068"></a></div></div></div><strong class="card__header card__header_color_044faa"><a class="link link_hover" href="/shows/keiser-report/ ">
+
+                Keiser Report
+
+                
+            </a></strong><div class="card__summary ">
+
+        
+        
+            Markets!  Finance!  Scandal!  Keiser Report is a no holds barred look at the shocking scandals...
+
+        
+    
+        </div></div><div class="card__decorline-verticall"><div class="decorline-verticall decorline-verticall_corners"><div class="decorline-verticall__wrapper"></div></div><strong class="card__header card__header_color_A00505"><a class="link link_hover" href="/shows/keiser-report/387679-episode-max-keiser-1068/">
+
+                        Episode 1068
+
+                    </a></strong><div class="card__summary ">  
+
+                                    In this episode of the Keiser Report, Max and Stacy discuss pledging more austerity in exchange for the never-ending Greek bailout. &nbsp;In the second half, Max interviews Sol Trumbo Vila about a report he co-authored entitled The Bailout Business....
+
+            
+                </div></div></div></div></li><li class="card-rows__item static-three_med-one"><div class="card-rows__content"><div class="card "><div class="card__wrapper"><div class="card__cover card__cover_all-flleft"><div class="media  "><div class="media__image media__image_type_video "><a href="/shows/documentary/386891-philippines-illegal-goldmines-documentary/" class="link link_disabled"><img class="media__item media__item_ratio " src="https://cdn.rt.com/files/2017.05/thumbnail/5908d9a0c46188cd128b4639.jpg" alt="Golden gamble"></a></div></div></div><strong class="card__header card__header_color_044faa"><a class="link link_hover" href="/shows/documentary/ ">
+
+                Documentary
+
+                
+            </a></strong><div class="card__summary ">
+
+        
+        
+            RT's documentaries give a varied and unique view on different aspects of life worldwide. They...
+
+        
+    
+        </div></div><div class="card__decorline-verticall"><div class="decorline-verticall decorline-verticall_corners"><div class="decorline-verticall__wrapper"></div></div><strong class="card__header card__header_color_A00505"><a class="link link_hover" href="/shows/documentary/386891-philippines-illegal-goldmines-documentary/">
+
+                        Golden gamble
+
+                    </a></strong><div class="card__summary ">  
+
+                                    Paracale in the Philippines&rsquo; is also known as &lsquo;Goldtown&rsquo;. RTD visits its illegal goldmines where child labor is rife, and health and safety virtually non-existent. To extract gold, miners dive into a mud-filled shaft, sometimes...
+
+            
+                </div></div></div></div></li></ul></div>
+
+    </div>
+
+    <div class="columns__content">
+        <div class="news-block news-block_padding_size_small"><div class="banners"><div class="banners__border banners__border_color-77BC1F"><p class="rtd-banner"><a  class="link link_hover" href="https://rtd.rt.com/films/immortal-letters/"  target="_blank">
+							Private letters give touching glimpse into lives lived and lost in WWII
+						</a></p></div></div></div>
+
+    </div>
+
+    <div class="columns__column static-66_high-100">
+        <div class="columns__content">
+            <div class="news-block">
+                <div class="photo-day"><h2 class="photo-day__title">Photo of the day</h2><div class="photo-day__cover"><div class="media  "><div class="media__image "><a href="/in-vision/387432-victory-day-parade-rehearsal/" class="link link_disabled"><img class="media__item media__item_ratio " src="https://cdn.rt.com/files/2017.05/article/590ed44dc3618817298b456a.jpg" alt="10,000 Russian troops rehearse 2017 Victory Day parade in Moscow "></a></div></div></div><div class="photo-day__footer"><strong class="photo-day__heading"><a class="link link_hover-underline" href="/in-vision/387432-victory-day-parade-rehearsal/">10,000 Russian troops rehearse 2017 Victory Day parade in Moscow </a></strong></div></div>
+
+            </div>          
+        </div>  
+    </div><div class="columns__column static-33_high-100">
+<div class="columns__column static-one_high-two_med-one"><div class="columns__content"><div class="news-block"><div class="rightpoll">
+        <h2 class="rightpoll__title">RT asks</h2>    
+    <div class="js-voting" data-closed="0" data-id="59117053c36188ec798b45d0">
+                <form class="js-voting-answers" action="/vote/59117053c36188ec798b45d0" method="post">
+            <div class="rightpoll__wrapper">
+                <input type="hidden" name="redirect" value="https://www.rt.com" class="js-voting-redirect">
+                <h3 class="rightpoll__header">What does the future hold for Emmanuel Macron’s presidency?</h3>
+                <div class="clears mh"></div>                      
+                                    <label class="rightpoll__item">
+                        <input  type="radio" name="vote[]" value="5911708ac46188275b8b45a2" class="rightpoll__radio js-voting-input"><span  class="rightpoll__answer">Obama-style left-leaning decade in power (including re-election)</span>
+                    </label>
+                                    <label class="rightpoll__item">
+                        <input  type="radio" name="vote[]" value="5911708ac46188275b8b45a3" class="rightpoll__radio js-voting-input"><span  class="rightpoll__answer">He’ll fail to live up to his promises, just as Hollande did, will be a disappointment</span>
+                    </label>
+                                    <label class="rightpoll__item">
+                        <input  type="radio" name="vote[]" value="5911708ac46188275b8b45a4" class="rightpoll__radio js-voting-input"><span  class="rightpoll__answer">Angela Merkel rules France now, just like Le Pen said</span>
+                    </label>
+                                <input  class="rightpoll__submit js-voting-submit" type="submit" value="Vote"></input>
+                <p class="rightpoll__footer">
+                    <a href="#" class="link link_hover-underline js-voting-view-answers">View answers without voting</a>
+                </p>
+            </div>
+        </form>
+        <div class="js-voting-results" style="display:none;">
+            <div class="rightpoll__wrapper">                
+                <p class="rightpoll__header js-voting-message">Thank you for voting!</p>
+                <h3 class="rightpoll__header">What does the future hold for Emmanuel Macron’s presidency?</h3>
+                <div class="clears mh"></div>                          
+                <ul class="rightpoll__results">
+                                        <li class="js-voting-result rightpoll__band" data-result-id="5911708ac46188275b8b45a2" data-result-votes="0">
+                        <p class="rightpoll__band-percent"><strong class="js-voting-percent">0%</strong></p>    
+                        <h4 class="rightpoll__band-answer">- Obama-style left-leaning decade in power (including re-election)</h4>
+                    </li>
+                                        <li class="js-voting-result rightpoll__band" data-result-id="5911708ac46188275b8b45a3" data-result-votes="0">
+                        <p class="rightpoll__band-percent"><strong class="js-voting-percent">0%</strong></p>    
+                        <h4 class="rightpoll__band-answer">- He’ll fail to live up to his promises, just as Hollande did, will be a disappointment</h4>
+                    </li>
+                                        <li class="js-voting-result rightpoll__band" data-result-id="5911708ac46188275b8b45a4" data-result-votes="0">
+                        <p class="rightpoll__band-percent"><strong class="js-voting-percent">0%</strong></p>    
+                        <h4 class="rightpoll__band-answer">- Angela Merkel rules France now, just like Le Pen said</h4>
+                    </li>
+                                    </ul>
+                <p class="rightpoll__footer">
+                    <a href="#" class="link link_hover-underline js-voting-view-voting">Vote</a>
+                </p>
+            </div>
+        </div>
+    </div>  
+</div>
+</div></div></div><div class="columns__column static-one_high-two_med-one"><div class="columns__content"><div class="news-block news-block_padding_size_small"><div class="banners"><div class="banners__border"><!-- 300x250 --><div id='div-gpt-ad-1432640570396-2'><script type='text/javascript'>
+                                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1432640570396-2'); });
+                            </script></div></div></div></div></div></div>    </div>
+
+</div>
+                </div>
+            </div>
+            <div class="clears-mh"></div>
+            <div class="layout__footer">
+                <div class="footer js-mediator-footer"><div class="footer__control-width"><div class="footer__buttons"><ul class="buttons"><li class="buttons__item"><div class="button"><a class="button__link" href="/where-to-watch/">Where to watch</a></div></li><li class="buttons__item"><div class="button"><a class="button__link" href="/schedule/">Schedule</a></div></li></ul></div><div class="footer__navs footer__navs_item_1"><ul class="footer__nav footer__nav_1"><li class="footer__nav-item"><a href="/news/" class="footer__nav-link  " >News</a></li><li class="footer__nav-item"><a href="/usa/" class="footer__nav-link  " >America</a></li><li class="footer__nav-item"><a href="/uk/" class="footer__nav-link  " >UK</a></li><li class="footer__nav-item"><a href="/politics/" class="footer__nav-link  " >Russian politics</a></li><li class="footer__nav-item"><a href="/business/" class="footer__nav-link  " >Business</a></li><li class="footer__nav-item"><a href="/sport/" class="footer__nav-link  " >Sport</a></li><li class="footer__nav-item"><a href="/op-edge/" class="footer__nav-link  " >Op-Edge</a></li><li class="footer__nav-item"><a href="/more/" class="footer__nav-link  " >More</a></li></ul><ul class="footer__nav footer__nav_2"><li class="footer__nav-item"><a href="/on-air/" class="footer__nav-link  " >Live</a></li><li class="footer__nav-item"><a href="/where-to-watch/" class="footer__nav-link  " >Where to watch</a></li><li class="footer__nav-item"><a href="/in-vision/" class="footer__nav-link  " >In vision</a></li><li class="footer__nav-item"><a href="/in-motion/" class="footer__nav-link  " >In motion</a></li><li class="footer__nav-item"><a href="/360/" class="footer__nav-link  footer__nav-link_herbal" >RT360</a></li><li class="footer__nav-item"><a href="/shows/" class="footer__nav-link  " >Shows</a></li><li class="footer__nav-item"><a href="/schedule/" class="footer__nav-link  " >Schedule</a></li><li class="footer__nav-item"><a href="/business-projects/" class="footer__nav-link  " >Business projects</a></li></ul><ul class="footer__nav footer__nav_3"><li class="footer__nav-item"><a href="/legal-disclaimer/" class="footer__nav-link  " >Legal disclaimer</a></li><li class="footer__nav-item"><a href="/privacy-policy/" class="footer__nav-link  " >Privacy policy</a></li><li class="footer__nav-item"><a href="mailto:feedback@rttv.ru" class="footer__nav-link  " >Feedback</a></li><li class="footer__nav-item"><a href="/about-us/" class="footer__nav-link  " >About us</a></li><li class="footer__nav-item"><a href="/about-us/vacancies/" class="footer__nav-link  " >Vacancies</a></li><li class="footer__nav-item"><a href="/about-us/contact-info/" class="footer__nav-link  " >Contact info</a></li><li class="footer__nav-item"><a href="/onair-talent/" class="footer__nav-link  " >On-Air Talent</a></li></ul><ul class="footer__nav footer__nav_4"><li class="footer__nav-item">RT NEWS APP</li><li class="footer__nav-item"><a href="https://play.google.com/store/apps/details?id=com.rt.mobile.english" class="footer__nav-link footer__nav-link_color_fff"  target="_blank"  onclick="ga('send', 'event', 'Footer', 'Click', 'Android');">Android</a></li><li class="footer__nav-item"><a href="https://itunes.apple.com/us/app/rt-news-english/id649316948" class="footer__nav-link footer__nav-link_color_fff"  target="_blank"  onclick="ga('send', 'event', 'Footer', 'Click', 'iOS');">iOS</a></li><li class="footer__nav-item"><a href="http://www.windowsphone.com/s?appid=1eaa6301-170d-4aeb-a8d0-815fe7dbd682" class="footer__nav-link footer__nav-link_color_fff"  target="_blank"  onclick="ga('send', 'event', 'Footer', 'Click', 'Windows phone');">Windows phone</a></li><li class="footer__nav-item"><a href="http://apps.microsoft.com/windows/app/rt-news-english/b1c6d600-6486-4498-a3c8-773db151b6f0" class="footer__nav-link footer__nav-link_color_fff"  target="_blank"  onclick="ga('send', 'event', 'Footer', 'Click', 'Windows 8');">Windows 8</a></li></ul><ul class="footer__nav footer__nav_5"><li class="footer__nav-item"><a href="//arabic.rt.com/" class="footer__nav-link footer__nav-link_color_fff"  target="_blank">العربية</a></li><li class="footer__nav-item"><a href="//actualidad.rt.com/" class="footer__nav-link footer__nav-link_color_fff"  target="_blank">Español</a></li><li class="footer__nav-item"><a href="//russian.rt.com/" class="footer__nav-link footer__nav-link_color_fff"  target="_blank">Русский</a></li><li class="footer__nav-item"><a href="//deutsch.rt.com/" class="footer__nav-link footer__nav-link_color_fff"  target="_blank">Deutsch</a></li><li class="footer__nav-item"><a href="//francais.rt.com/" class="footer__nav-link footer__nav-link_color_fff"  target="_blank">Français</a></li><li class="footer__nav-item"><a href="//inotv.rt.com/" class="footer__nav-link footer__nav-link_color_fff"  target="_blank">ИНОТВ</a></li><li class="footer__nav-item"><a href="//rtd.rt.com/" class="footer__nav-link footer__nav-link_color_fff"  target="_blank">RTД</a></li><li class="footer__nav-item"><a href="//ruptly.tv/" class="footer__nav-link footer__nav-link_color_fff"  target="_blank">RUPTLY</a></li></ul></div><div class="footer__right"><div class="footer__seach-form"><form name="search" class="seach-form" action="/search" ><div class="seach-form__wrapper"><span class="seach-form__wrapper-input-text seach-form__wrapper-input-text_size_small"><input class="seach-form__input-text " type="text" name="q" value="" maxlength="100" /></span><label class="seach-form__wrapper-input-submit"><input class="seach-form__input-submit" type="submit" value="Searh" /></label></div></form></div><div class="footer__alternative"><ul class="alternative-links alternative-links_footer"><li class="alternative-links__item alternative-links__item_footer"><a href="/applications/" class="alternative-links__link alternative-links__link_footer" onclick="ga('send', 'event', 'Links', 'Click', 'App Down');">Applications</a></li><li class="alternative-links__item alternative-links__item_footer alternative-links__item_padding_left"><a href="/rss/" class="alternative-links__link alternative-links__link_rss alternative-links__link_footer" target="_blank">RSS</a></li></ul></div><div class="footer__social"><ul class="socials  "><li class="socials__item  "><a href="//www.facebook.com/RTnews/" class="socials__link socials__link_facebook" target="_blank">facebook</a></li><li class="socials__item  "><a href="//twitter.com/#!/RT_com" class="socials__link socials__link_twitter" target="_blank">twitter</a></li><li class="socials__item  "><a href="//www.youtube.com/user/RussiaToday" class="socials__link socials__link_youtube" target="_blank">youtube</a></li><li class="socials__item  "><a href="//plus.google.com/102728491539958529040/posts" class="socials__link socials__link_google-plus" target="_blank">google-plus</a></li><li class="socials__item  "><a href="//instagram.com/rt" class="socials__link socials__link_instagram" target="_blank">instagram</a></li><li class="socials__item  "><a href="//soundcloud.com/rttv" class="socials__link socials__link_soundcloud" target="_blank">soundcloud</a></li><li class="socials__item  "><a href="//coub.com/russiatoday" class="socials__link socials__link_coub" target="_blank">coub</a></li></ul></div></div></div><div class="footer__copyright "><div class="footer__control-width"><div class="copyright"><div class="copyright__logo"><a href="/" class=""><img class="copyright__logotip" src="/static/img/logo-bottom.png" alt="RT.com"></a></div><div class="copyright__text">
+        &copy; Autonomous Nonprofit Organization “TV-Novosti”, 2005–2017. All rights reserved.
+    </div><div class="copyright__age-limit"></div></div></div></div></div>                <!-- 1x1 -->
+<div id='div-gpt-ad-1432640570396-3' style='height:1px; width:1px;'>
+    <script type='text/javascript'>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1432640570396-3'); });
+    </script>
+</div>
+            </div>
+        </div>
+        <div class="widget"></div>
+        <script defer="defer" async data-main="/static/js/common.min.js?v=35e249a715ce560aac99644854374f0526" src="/static/js/libs/require.js"></script>
+                        <script type="application/ld+json">
+            {
+              "@context" : "http://schema.org",
+              "@type" : "Organization",
+              "name" : "RT",
+              "url" : "https://www.rt.com/",
+              "sameAs" : [
+                "https://www.facebook.com/RTnews",
+                "https://twitter.com/RT_com",
+                "https://www.youtube.com/user/RussiaToday",
+                "https://plus.google.com/+RT/", 
+                "https://instagram.com/rt/",
+                "https://soundcloud.com/rttv",
+              ]
+            }
+        </script>
+
+            
+            <script>
+        window._newsroom = window._newsroom || [];
+        window._newsroom.push({pageTemplate: 'home'});
+        window._newsroom.push({pageDashboard: 'home'});
+        window._newsroom.push('auditClicks');
+        window._newsroom.push('trackPage');
+        !function (e, f, u) {
+            e.async = 1;
+            e.src = u;
+            f.parentNode.insertBefore(e, f);
+        }(document.createElement('script'),
+                document.getElementsByTagName('script')[0], '//c2.taboola.com/nr/rt-rtcom/newsroom.js');
+    </script>
+
+                    <!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "17935924" });
+(function() {
+var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+el.parentNode.insertBefore(s, el);
+})();
+</script>
+<noscript>
+<img src="http://b.scorecardresearch.com/p?c1=2&c2=17935924&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<script type='text/javascript'>
+var _sf_async_config={};
+/** CONFIGURATION START /
+_sf_async_config.uid = 55718;
+_sf_async_config.domain = 'rt.com';
+_sf_async_config.useCanonical = true;
+/ CONFIGURATION END **/
+(function(){
+function loadChartbeat() {
+window._sf_endpt=(new Date()).getTime();
+var e = document.createElement('script');
+e.setAttribute('language', 'javascript');
+e.setAttribute('type', 'text/javascript');
+e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+document.body.appendChild(e);
+}
+var oldonload = window.onload;
+window.onload = (typeof window.onload != 'function') ?
+loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-5773642-2', 'auto');
+    ga('send', 'pageview');
+</script>
+<!--LiveInternet counter-->
+  <script type="text/javascript">
+  new Image().src = "//counter.yadro.ru/hit?r"+
+  escape(document.referrer)+((typeof(screen)=="undefined")?"":
+  ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+  screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+  ";"+Math.random();</script>
+<!--/LiveInternet-->
+<!-- tns-counter.ru -->
+<script>
+	(new Image()).src = '//www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*russianrt_com/ru/UTF-8/tmsec=rt_total/' + Math.round(Math.random()*1E9);	
+</script>
+<noscript>
+	<img src="//www.tns-counter.ru/V13a****russianrt_com/ru/UTF-8/tmsec=rt_total/" width="1" height="1" alt="" />
+</noscript>
+<!--/ tns-counter.ru -->
+<script>
+    (function (w, d) {
+        var s1 = d.getElementsByTagName('script')[0],
+            s = d.createElement('script'),
+            cid = '476';
+        s.src = '//tru.am/scripts/ta-pagesocial-sdk.js';
+        if (s.addEventListener) {
+            s.addEventListener('load', function () {
+                w.TRUE_ANTHEM.configure(cid);
+            }, false);
+        } else {
+            s.onreadystatechange = function () {
+                if (s.readyState in {loaded: 1, complete: 1}) {
+                    s.onreadystatechange = null;
+                    w.TRUE_ANTHEM.configure(cid);
+                }
+            };
+        }
+        s1.parentNode.insertBefore(s, s1);
+    }(window, document));
+</script>
+<!-- begin of Top100 code -->
+<!-- end of Top100 code -->
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter32550500 = new Ya.Metrika({id:32550500,
+                        clickmap:true,
+                        trackLinks:true,
+                        accurateTrackBounce:true});
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+    </script>
+    <noscript><div><img src="//mc.yandex.ru/watch/32550500" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+        
+            </body>
+</html>

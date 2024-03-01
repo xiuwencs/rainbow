@@ -1,0 +1,1373 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="head"><title>
+	  Home - ABS-CBN Entertainment
+</title><meta http-equiv="content-type" content="text/html; charset=UTF-8" /> 
+ 
+<meta http-equiv="content-style-type" content="text/css" /> 
+<meta http-equiv="content-script-type" content="text/javascript" /> 
+<link href="/CMSPages/GetResource.ashx?stylesheetname=ABSCBN-home" type="text/css" rel="stylesheet"/> 
+<!--Added Meta Start.-->
+<title>Home - ABS-CBN Entertainment</title>
+
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="" />
+<meta name="rights" content="All rights reserved by ABS-CBN Corporation" />
+<meta name="description" content="">
+<meta name="author" content="ABS-CBN Corp.">
+
+
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+<meta property="fb:pages" content="196309417055528" />
+<meta name="robots" content="noindex" />
+<meta name="google-site-verification" content="SX-GM5zSvaPBU6xiIZOsH9fxwSaF5UUjr1J61zQIi7U" />
+<!--<meta property="og:title" content="ABS-CBN Entertainment" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://entertainment.abs-cbn.com/" />
+<meta property="og:site_name" content="ABS-CBN Entertainment" />
+<meta property="og:image" content="https://azuretv2devewu00sca63.blob.core.windows.net/abscbnscripts/universalnav/img/logo-abs-cbn.png" />-->
+
+<link rel="shortcut icon" href="//azuretv2devewu00sca63.blob.core.windows.net/abscbnimages/icon.png" />
+<link type="text/plain" rel="author" href="humans.txt" />
+
+<link rel="canonical" href="http://staging.entertainment.abs-cbn.com/" />
+<meta property="og:title" content="ABS-CBN Entertainment" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://staging.entertainment.abs-cbn.com/" />
+<meta property="og:site_name" content="ABS-CBN Entertainment" />
+<meta property="og:image" content="http://sa.kapamilya.com/entertainment/abs-cbnent/media/home/entertainment_ogimage.jpg" />
+<meta property="og:description" content="Welcome to the official online playground of ABS-CBN where you can get the most legitimate, credible, and up-to-date source of comprehensive information and activities about ABS-CBN Entertainment programs and celebrities." />
+
+<!--TWITTER CARDS-->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@abscbndotcom">
+<meta name="twitter:creator" content="@abscbndotcom">
+<meta name="twitter:title" content="">
+<meta name="twitter:description" content="">
+<!--Added Meta End-->
+<!--Added css for new html-->
+
+
+<link media="screen" href="/CMSPages/GetResource.ashx?stylesheetname=ABS-CBNEntertainment_master" type="text/css" rel="stylesheet"/>
+
+<!--<link media="screen" href="/CMSPages/GetResource.ashx?stylesheetname=uninav-v2" type="text/css" rel="stylesheet"/>-->
+<!--<link rel="stylesheet" media="screen" href="http://azuretv2devewu00sca63.blob.core.windows.net/abscbnscripts/universalnav/uninav-v2.css">-->
+<link href="//assets.abs-cbn.com/universalnav/live/uninav-v4.css" rel="stylesheet" type="text/css" media="screen">
+<!--<link href="//assets.abs-cbn.com/universalnav/uninav-v2.css" rel="stylesheet" type="text/css" media="screen">-->
+
+<link media="screen" href="/CMSPages/GetResource.ashx?stylesheetname=ABSCBNKapamilyachatMaster" type="text/css" rel="stylesheet"/>
+<!--Ends. -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<!--<script type="text/javascript" src="//cdn.gigya.com/js/gigya.js?apiKey=3_y371BxRcbliMob49FJnT0D_CNP07DJKLW_6sx_n0oxuvNJcgz9UmffDLfYqBTGH2"></script>-->
+<!--<script src='http://cdn.gigya.com/JS/gigya.js?apiKey=3__XCEJImeXsOZeISvjcGpqxR-AhkGTn6sfRlyspRFRxOhJTWGhQQBxN-uDkUaF9cm' type='text/javascript'></script>-->
+
+<script type='text/javascript'>
+  (function() {
+    var useSSL = 'https:' == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+</script>
+<script type="text/javascript" charset="UTF-8" src="http://avd.innity.net/audsync.js"></script>
+
+<script type='text/javascript'>
+	
+   var dfp_s = 'home'; // update variable depending on page this script is present on
+
+  googletag.cmd.push(function() {
+  
+	var SLBmapping = googletag.sizeMapping()
+            .addSize([970, 0], [970, 90])
+            .addSize([728, 0], [728, 90])
+            .addSize([468, 0], [468, 60])
+            .addSize([0, 0], [320, 50])
+            .build();
+			
+	var LBmapping = googletag.sizeMapping()
+            .addSize([728, 0], [728, 90])
+            .addSize([468, 0], [468, 60])
+            .addSize([0, 0], [320, 50])
+            .build();
+  
+    googletag.defineOutOfPageSlot('/2744311/Entertainment_OutofPage', 'div-gpt-ad-1469444158448-0').addService(googletag.pubads());
+    googletag.defineSlot('/2744311/Entertainment_SuperLeaderboard', [[728, 90], [320, 50], [468, 60], [970, 90]], 'div-gpt-ad-1469444158448-1').defineSizeMapping(SLBmapping).addService(googletag.pubads());
+ 
+    googletag.defineSlot('/2744311/Entertainment_Leaderboard', [[728, 90], [320, 50], [468, 60]], 'div-gpt-ad-1469444158448-2').defineSizeMapping(LBmapping).addService(googletag.pubads());
+
+    googletag.pubads().setTargeting("Section", dfp_s); 
+	
+	//googletag.pubads().enableSingleRequest();
+    googletag.pubads().enableSyncRendering();
+   innityaudsync._setTargeting('dfp-gpt', {"cl": "4", "targetKeys": ["innityaud","DemographicsGender"]});
+    googletag.enableServices();
+  });
+  
+</script>
+
+<!--KapamilyaChat-->
+ 
+<!--Social Share Script Start-->
+<script>
+!function (e, a, f) {
+    var c, b = e.getElementsByTagName(a)[0];
+    if (!e.getElementById(f)) {
+        c = e.createElement(a);
+        c.id = f;
+        c.src = "//platform.twitter.com/widgets.js";
+        b.parentNode.insertBefore(c, b)
+    }
+}
+(document, "script", "twitter-wjs");
+$(function () {
+    function k(m) {
+        //alert(location.href);
+        window.open(m, "sharer", "width=625,height=300,left=350,top=200")
+    }
+    $("a.fb").click(function (n) {
+        n.preventDefault();
+        var m = "https://www.facebook.com/sharer/sharer.php?u=" + location.href;
+        k(m)
+    }
+	);
+    $("a.twitter").click(function (n) {
+        n.preventDefault();
+        var o = $("title:first").text();
+        var m = "https://twitter.com/share?url=&text=" + o.trim().replace('|', '-') + " ";
+        k(m)
+        //?source=tweetbutton&text=mytexthere&url=myurl
+    }
+	);
+    $("a.email").click(function () {
+        var n = $("title").text();
+        var m = $('meta[name="og:description"]').attr("content");
+        $(this).attr("href", "mailto:?Subject=ABS-CBN.com&body=" + n + "%0D%0A" + m)
+    }
+	);
+    $("a.btn-close").click(function () {
+        $(".leaderboard.top").slideUp();
+        $("#wrapper").animate({
+            "background-position-y": "-100px"
+        }
+		)
+    }
+	);
+    var j = null;
+    $(".main-nav li").has("ul.dropdown").hover(function () {
+        var m = $(this);
+        j = setTimeout(function () {
+            m.children("a").addClass("current");
+            m.children("ul.dropdown").stop(true, true).slideDown("400")
+        }
+		, 200)
+    }
+	, function () {
+	    clearTimeout(j);
+	    $(this).children("a").removeClass("current");
+	    $(this).children("ul.dropdown").stop(true, true).slideUp("fast")
+	}
+	);
+    $(".show-content:first").show();
+    $("ul.dropdown li > a:first").addClass("hovered");
+    $("ul.dropdown li > a").hover(function () {
+        $(".show-content").hide();
+        $("ul.dropdown li a").removeClass("hovered");
+        $(this).addClass("hovered");
+        $(this).next(".show-content").show()
+    }
+	);
+    $("ul.dropdown").hover(function () {
+        $(this).prev("a").addClass("drop-hover")
+    }
+	, function () {
+	    $(this).prev("a").removeClass("drop-hover")
+	}
+	);
+    Date.prototype.customFormat = function (r) {
+        var L, v, B, o, A, u, w, t, F, z, G, p, H, I, C, E, y, x, K, n, q;
+        var J = this;
+        v = ((L = J.getFullYear()) + "").slice(-2);
+        A = (u = J.getMonth() + 1) < 10 ? ("0" + u) : u;
+        o = (B = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"][u - 1]).substring(0, 3);
+        F = (z = J.getDate()) < 10 ? ("0" + z) : z;
+        t = (w = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"][J.getDay()]).substring(0, 3);
+        q = (z >= 10 && z <= 20) ? "th" : ((n = z % 10) == 1) ? "st" : (n == 2) ? "nd" : (n == 3) ? "rd" : "th";
+        r = r.replace("#YYYY#", L).replace("#YY#", v).replace("#MMMM#", B).replace("#MMM#", o).replace("#MM#", A).replace("#M#", u).replace("#DDDD#", w).replace("#DDD#", t).replace("#DD#", F).replace("#D#", z).replace("#th#", q);
+        H = (G = J.getHours());
+        if (H == 0) {
+            H = 24
+        }
+        if (H > 12) {
+            H -= 12
+        }
+        p = H < 10 ? ("0" + H) : H;
+        K = (x = G < 12 ? "am" : "pm").toUpperCase();
+        I = (C = J.getMinutes()) < 10 ? ("0" + C) : C;
+        E = (y = J.getSeconds()) < 10 ? ("0" + y) : y;
+        return r.replace("#hhh#", G).replace("#hh#", p).replace("#h#", H).replace("#mm#", I).replace("#m#", C).replace("#ss#", E).replace("#s#", y).replace("#ampm#", x).replace("#AMPM#", K)
+    }
+    ;
+    $.getJSON("https://api.instagram.com/v1/users/342854217/media/recent?count=5&access_token=5623115.1fb234f.d582d3feb5654785b6d7d0f1e4e6a80a&callback=?", function (n) {
+        var m = $(".instagram-feed ul");
+        $.each(n.data, function (t, x) {
+            var s = x.caption ? x.caption.text : "";
+            var w = x.images.thumbnail.url;
+            var o = x.images.low_resolution.url;
+            var u = x.images.standard_resolution.url;
+            var y = x.caption ? x.caption.created_time + "000" : "000";
+            var p = new Date(parseInt(y));
+            var r = x.likes.count;
+            var v = x.comments.count;
+            var q = $('<li><a rel="instagramphoto" href="#" title=""><img src=""><span class="date"></span></a></li>');
+            q.find("img").attr("src", (t == 0) ? o : w);
+            q.find("a").attr("href", u);
+            q.find("a").attr("title", s);
+            q.find("span.date").text(p.customFormat("#MMM# #DD# #YYYY# | #hh#:#mm##AMPM#"));
+            m.append(q)
+        }
+		)
+    }
+	);
+
+    /*var f=$("#assets li");
+	var e=$("#assets li").length;
+	var i=$("<ul/>").appendTo($("#assets").parent());
+	e=e/2+1;
+	f.slice(e).appendTo(i);
+	*/
+
+    window.fbAsyncInit = function () {
+        FB.init({
+            status: true, cookie: true, xfbml: true
+        }
+		)
+    }
+    ;
+    (function (o) {
+        var n, p = "facebook-jssdk", m = o.getElementsByTagName("script")[0];
+        if (o.getElementById(p)) {
+            return
+        }
+        n = o.createElement("script");
+        n.id = p;
+        n.async = true;
+        n.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=241652265969060";
+        m.parentNode.insertBefore(n, m)
+    }
+	(document));
+    var l = $("#sticky-footer");
+    var b = $("#wrapper").height();
+    var a = $(window).height();
+    $(".footer-bottom").css({
+        "margin-bottom": 50
+    }
+	);
+    if ((b - a) < 500) {
+        l.removeClass("sticky");
+        $(".footer-bottom").css({
+            "margin-bottom": 0
+        }
+		)
+    }
+    $(window).scroll(function () {
+        if ($(window).scrollTop() > 500) {
+            if (!l.hasClass("scrolled")) {
+                l.addClass("scrolled");
+                l.stop(true, false).animate({
+                    bottom: 0
+                }
+				, 500)
+            }
+        } else {
+            l.stop(true, false).animate({
+                bottom: "-50"
+            }
+			, 300, function () {
+			    l.removeClass("scrolled")
+			}
+			)
+        }
+    }
+	);
+    $(".tab-content:first").show();
+    $(".tabs a").click(function () {
+        $(".tabs a").removeClass("active");
+        $(this).addClass("active");
+        $(".tab-content").hide();
+        var m = $(this).attr("href");
+        $(m).fadeIn();
+        return false
+    }
+	);
+    $("section.videos").find("a").append('<span class="icn-play">');
+    $(".icn-video").find("a").append('<span class="icn-play">');
+    $(".icn-video a img, .aside article a img").wrap('<div class="black-bg">');
+    var g = Math.ceil(($(".photo-selector").children().length) / 6 - 1);
+    var h = 0;
+    function d() {
+        var m = 98 * (6 * h);
+        $(".photo-selector").animate({
+            left: -m
+        }
+		, "slow")
+    }
+    $(".photo-thumb-slider .arrow-nav a.next").click(function (m) {
+        m.preventDefault();
+        if (h + 1 <= g) {
+            h++;
+            d()
+        }
+    }
+	);
+    $(".photo-thumb-slider .arrow-nav a.prev").click(function (m) {
+        m.preventDefault();
+        if (h - 1 >= 0) {
+            h--;
+            d()
+        }
+    }
+	);
+    $(".members").find("a").append('<span class="name-plate"><span class="number">');
+    var c = $(".members li");
+    $.each(c, function (m, n) {
+        $("span.number", this).text($(this).index() + 1)
+    }
+	);
+    $("a.top").click(function () {
+        $("body").animate({
+            scrollTop: $(".main-content").offset().top
+        }
+		, 800);
+        return false
+    }
+	);
+    $(".mentors a, .coach a").click(function () {
+        var m = $(this).attr("href");
+        $("body").animate({
+            scrollTop: $(m).offset().top
+        }
+		, 800);
+        return false
+    }
+	)
+}
+);
+  </script>
+<!--Social Share Links END-->
+<link href="/CMSPages/GetResource.ashx?_templates=24422;24419" type="text/css" rel="stylesheet"/> 
+</head>
+<body class="LTR ENUS ContentBody"  ><!-- Google Tag Manager --> <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-57B699" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-57B699');</script> <!-- End Google Tag Manager -->
+    <form method="post" action="/tv/home" id="form">
+<div class="aspNetHidden">
+<input type="hidden" name="manScript_HiddenField" id="manScript_HiddenField" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEyMTY0MTExOTEPFgIeE1ZhbGlkYXRlUmVxdWVzdE1vZGUCARYCAgEPFgIeBmFjdGlvbgUIL3R2L2hvbWUWAgIFD2QWAmYPDxYEHghDc3NDbGFzcwUPUGFnZVBsYWNlaG9sZGVyHgRfIVNCAgJkFgJmD2QWAgILD2QWAmYPZBYCAgEPZBYCAgIPFhQeDFplcm9Sb3dzVGV4dAUNTm8gZGF0YSBmb3VuZB4ORGF0YVNvdXJjZU5hbWVlHgxFbmFibGVQYWdpbmdoHhBOZXN0ZWRDb250cm9sc0lEZR4QU2hvd0RlbGV0ZUJ1dHRvbmgeHUFsdGVybmF0aW5nVHJhbnNmb3JtYXRpb25OYW1lZR4OU2hvd0VkaXRCdXR0b25oHgtfIUl0ZW1Db3VudAIGHhJUcmFuc2Zvcm1hdGlvbk5hbWUFHkFCU0NCTi5MaW5rLnhGb290ZXJTdGF0aWNQYWdlcx4WSGlkZUNvbnRyb2xGb3JaZXJvUm93c2dkZGmqiyPVozIP9Jc3n7tREaaQYuAz" />
+</div>
+
+<input type="hidden" name="lng" id="lng" value="en-US" />
+<script type="text/javascript">
+	//<![CDATA[
+
+function PM_Postback(param) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); } if(window.CMSContentManager) { CMSContentManager.allowSubmit = true; }; __doPostBack('m$am',param); }
+function PM_Callback(param, callback, ctx) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }if (window.CMSContentManager) { CMSContentManager.storeContentChangedStatus(); };WebForm_DoCallback('m$am',param,callback,ctx,null,true); }
+//]]>
+</script>
+<script src="/ScriptResource.axd?d=gWvQ42LJcaeBk3vzMYd38Sc19RiolYNs-WiAW8n9Zbh4ASaVlF9did-gZuv9kokemDfNJzr1-tXmWdYLMX2KNT5ELptwz4k-54efFrAQYYqrPDFZ03ISO_-wzkyo_6PR1EJzKg2&amp;t=7c776dc1" type="text/javascript"></script>
+<script type="text/javascript">
+	//<![CDATA[
+
+var CMS = CMS || {};
+CMS.Application = {
+  "isRTL": "false",
+  "applicationUrl": "/",
+  "imagesUrl": "/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2f",
+  "isDialog": false
+};
+
+//]]>
+</script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A5343185" />
+</div>
+    
+    <div id="ctxM">
+
+</div>
+    <!--body-->
+<!-- Zone Tag : Entertainment ABS-CBN Overlay ROS -->
+<script type="text/javascript" src="http://cdn.innity.net/admanager.js"></script>
+<script type="text/javascript">
+  innity_pcu = "%%CLICK_URL_UNESC%%";
+  new innity_adZone("acf922154627f6788918f03c42b123cd", "54832", {});
+</script>
+<script type="text/javascript" src="http://cdn.innity.net/synd.js"></script>
+<!-- Zone Tag : Entertainment ABS-CBN Mobile Overlay ROS -->
+<script type="text/javascript" src="http://cdn.innity.net/admanager.js"></script>
+<script type="text/javascript">
+  innity_pcu = "%%CLICK_URL_UNESC%%";
+  new innity_adZone("acf922154627f6788918f03c42b123cd", "54835", {});
+</script>
+
+ 
+<!-- Innity Container Tag -->
+<script type="text/javascript" charset="UTF-8">(function(w,d,s,i,c){var f=d.createElement(s);f.type="text/javascript";f.async=true;f.src=("https:"==d.location.protocol? "https://ssl-avd.innity.net":"http://avd.innity.net")+"/"+i+"/container_"+c+".js";var g=d.getElementsByTagName(s)[0];g.parentNode.insertBefore(f, g);})(window, document, "script", "4", "54e158f61c51b1092e256530");</script>
+<!-- End Innity Container Tag -->
+
+<!-- /2744311/Entertainment_OutofPage -->
+<div id='div-gpt-ad-1469444158448-0'>
+  <script type='text/javascript'>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1469444158448-0'); });
+  </script>
+</div>
+
+
+
+
+<!-- START: SOCIAL PLUGINS -->
+<div id="fb-root"></div>
+
+<!-- END: SOCIAL PLUGINS-->
+<!-- WRAPPER START -->
+<div id="wrapper">
+  
+  <!-- HEADER START -->
+  <header class="main uninav-header uninav-default uninav-television">
+    <div class="header-fixed">
+      <div class="header-bar">
+        <button type="button" class="navbar-toggle collapsed header-nav-toggle" data-toggle="collapse" data-target="#header-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+		<a class="uninav-toggler" href="javascript:void(0)">
+          <button id="uninav-toggle" type="button" class="navbar-toggle collapsed uninav-toggle pull-right">
+            <span class="sr-only">Toggle Universal Navigation</span>
+            <span class="uninav-icon-new uninav-icon-uninav"></span>
+          </button>
+		</a>
+        <div class="header-bar-inner">
+          <h1 class="logo">
+            <a href="//entertainment.abs-cbn.com/tv/home">
+              <img src="http://azuretv2devewu00sca63.blob.core.windows.net/abscbnscripts/universalnav/img/logo-abs-cbn.png" alt="ABS-CBN"> <span>Television</span>
+            </a>
+          </h1>
+          <ul class="header-social list-unstyled">
+            <li class="search-container-lg"></li>
+            <!--<div class="search-container">-->
+            
+            <!--</div>-->
+                        <li>
+              <a href="javascript:void(0);" class="search">
+                <i  name="sa" class="uninav-icon-new uninav-icon-search" >
+                  <script type="text/javascript" language="javascript">
+                    
+                    var cx= '005440597263792543704:64z0f3luayw'; // Custom search engine "CX" value has to be given
+                    
+                    function URLEncode (clearString) {
+                      var output= '';
+                      var x= 0;
+                      clearString= clearString.toString();
+                      var regex= /(^[a-zA-Z0-9_.]*)/;
+                      while (x < clearString.length) {
+                        var match= regex.exec(clearString.substr(x));
+                        if (match != null && match.length > 1 && match[1] != '') {
+                          output += match[1];
+                          x += match[1].length;
+                        } else {
+                          if (clearString[x]== ' ')
+                            output += '+';
+                          else {
+                            var charCode= clearString.charCodeAt(x);
+                            var hexVal= charCode.toString(16);
+                            output += '%' + ( hexVal.length < 2 ? '0' : '' ) + hexVal.toUpperCase();
+                          }
+                          x++;
+                        }
+                      }
+                      return output;
+                    }
+                    
+                    function SubmitOnEnter(myfield, e)
+                    {
+                      var keycode;
+                      if (window.event)
+                        keycode= window.event.keyCode;
+                      else if (e)
+                        keycode= e.which;
+                      else
+                        return true;
+                      if (keycode== 13)
+                      {
+                        SearchSite();
+                        return false;
+                      }
+                      else
+                        return true;
+                    }
+                    function SearchSite()  
+                    {
+                      document.location.href='/TV/Search-Result?cx='+cx+'&cof=FORID%3A11&ie=UTF-8&q=' + 
+                        URLEncode(document.getElementById('q').value) + '&sa=Search';
+                    }
+                  </script> <!--End-->
+                  
+                  
+                  <span class="sr-only">search</span>
+                </i>
+              </a>
+            </li>
+            
+            
+<li><a href="https://www.facebook.com/ABSCBNnetwork"><i class="uninav-icon uninav-icon-fb"></i><span class="sr-only">Facebook</span></a></li>
+
+<li><a href="https://twitter.com/ABSCBN"><i class="uninav-icon uninav-icon-tw"></i><span class="sr-only">Twitter</span></a></li>
+
+<li><a href="https://www.youtube.com/user/ABSCBNOnline?sub_confirmation=1"><i class="uninav-icon uninav-icon-yt"></i><span class="sr-only">YouTube</span></a></li>
+
+
+
+            <li ><a class="sso-uninav-login" href="javascript:void(0)"><i class="uninav-icon-new uninav-icon-login"></i><span class="sr-only">LogIn</span></a></li>
+            <!--
+<a class="uninav-toggler" href="javascript:void(0)">
+<button id="uninav-toggler" type="button" class="navbar-toggle  uninav-toggle pull-right collapsed">
+<span class="sr-only">Toggle Universal Navigation</span>
+<span class="uninav-icon uninav-icon-uninav"></span>
+</button>
+</a>
+end-->
+          </ul>
+        </div>
+      </div>
+      
+      <nav id="header-collapse" class="header-collapse collapse">
+        <div class="header-nav">
+          <div class="search-container">
+            <div class="search-form" autocomplete="off">
+              
+              
+            </div>
+          </div>
+          
+<ul class="list-unstyled clearfix">
+ <li><a href='/tv/home'>Home</a></li><li><a href='/tv/show'>Shows</a><span class="has-child-drop"></span>
+<ul><li> <a href='/tv/shows/asap/main' Target="_blank" >ASAP 20</a></li><li> <a href='/tv/shows/ggv/main' Target="_blank" >GANDANG GABI VICE</a></li><li> <a href='http://mmk.abs-cbn.com/'>Maalaala Mo Kaya</a></li><li> <a href='/tv/shows/angprobinsyano/main' Target="_blank" >FPJ's ANG PROBINSYANO</a></li><li> <a href='/tv/shows/wildflower/main' Target="_blank" >WILDFLOWER</a></li><li> <a href='/tv/shows/alovetolast/main' Target="_blank" >A LOVE TO LAST</a></li><li> <a href='/tv/shows/magandangbuhay/main' Target="_blank" >MAGANDANG BUHAY</a></li><li> <a href='http://entertainment.abs-cbn.com/tv/shows/pusongligaw/main' Target="_blank" >Pusong Ligaw</a></li><li> <a href='http://entertainment.abs-cbn.com/tv/shows/ikawlangangiibigin/main' Target="_blank" >Ikaw Lang Ang Iibigin</a></li><li> <a href='http://entertainment2.abs-cbn.com/tv/shows/itsshowtime/main' Target="_blank" >IT'S SHOWTIME</a></ul></li><li><a href='/tv/schedule'>Schedules</a></li><li><a href='/tv/updates'>Updates</a><span class="has-child-drop"></span>
+<ul><li> <a href='/tv/updates?type=Articles'>Articles</a></li><li> <a href='/tv/updates?type=Images'>Photos</a></li><li> <a href='/tv/updates?type=Videos'>Videos</a></ul></li><li><a href=' http://entertainment.abs-cbn.com/tv/updates/kapamilya-chat-schedule'>Kapamilya Chat</a></li><li><a href='https://goo.gl/v0KYGn'>STORE</a></ul>
+
+        </div>
+        <div class="header-login">
+          <ul class="list-unstyled">
+            <li><a href="#"><i class="uninav-icon-new uninav-icon-login"></i> Log in</a></li>
+            <li>
+              <a href="#" class="clearfix header-profile">
+                <img src="http://placehold.it/20x20" alt=""> John Doe
+                <span class="pull-right text-underline">View Profile</span>
+              </a>
+            </li>
+            <li><a href="#">Log Out</a></li>
+          </ul>
+        </div>
+      </nav>
+	  <!--uninaversal Start-->
+      
+     <!-- <div class="uninav-main" style="max-height:none;display:none;">
+        <div class="uninav-container">
+          <h2 class="uninav-main-heading">Welcome to your one-stop hub for everything Kapamilya!<br>Where would you like to go next?</h2>
+        </div>
+        <div class="uninav-main-divider"></div>
+        <div class="uninav-container">
+          <div class="uninav-main-links clearfix">
+            <div class="uninav-main-links-bp-left">
+              <ul class="uninav-main-links-group">
+                <li><a target="_blank" class="active">ABS-CBN.COM</a></li>
+                <li><a target="_blank" href="http://abscbnmobile.com/">ABS-CBN mobile</a></li>
+                <li><a target="_blank" href="http://store.abs-cbn.com/">ABS-CBN Store</a></li>
+                <li><a target="_blank" href="http://tvplus.abs-cbn.com/">ABS-CBN TVplus</a></li>
+                <li><a target="_blank" href="http://www.abs-cbnnews.com/anc">ANC</a></li>
+                <li><a target="_blank" href="http://ballschannel.tv/">Balls</a></li>
+                <li><a target="_blank" href="http://bmpm.abs-cbnnews.com/">BMPM</a></li>
+                <li><a target="_blank" href="http://www.choosephilippines.com/">Choose Philippines</a></li>
+                <li><a target="_blank" href="http://dzmm.abs-cbnnews.com/">DZMM</a></li>
+                <li><a target="_blank" href="http://lifestyle.abs-cbn.com/">Lifestyle</a></li>
+              </ul>
+              <ul class="uninav-main-links-group">
+                <li><a target="_blank" href="http://www.mor1019.com/">MOR 101.9</a></li>
+                <li><a target="_blank" href="http://myxph.com/">Myx PH</a></li>
+                <li><a target="_blank" href="http://www.abs-cbnnews.com/">News <br> and Current Affairs</a></li>
+                <li><a target="_blank" href="http://push.abs-cbn.com/">Push</a></li>
+                <li><a target="_blank" href="http://sports.abs-cbn.com/">Sports</a></li>
+                <li><a target="_blank" href="http://starcinema.abs-cbn.com/">Star Cinema</a></li>
+                <li><a target="_blank" href="http://starmagicphils.abs-cbn.com/">Star Magic</a></li>
+                <li><a target="_blank" href="http://starmusic.abs-cbn.com/">Star Music</a></li>
+                <li><a target="_blank" href="http://www.uaapsports.tv/">UAAP</a></li>
+              </ul>
+            </div>
+            <div class="uninav-main-links-bp-right">
+              <ul class="uninav-main-links-group"><li>
+                <ul>
+                  <li><a target="_blank" href="https://tfcmyremit.com/">TFC myREMIT</a></li>
+                  <li><a target="_blank" href="http://www.tfc.tv/">TFC.tv</a></li>
+                </ul>
+                </li>
+                <li>
+                  <ul>
+                    <li><a target="_blank" href="http://www.iwantv.com.ph/">iWant TV</a></li>
+                    <li><a target="_blank" href="http://www.mysky.com.ph/">Sky</a></li>
+                  </ul>
+                </li>
+              </ul>
+              <ul class="uninav-main-links-group">
+                <li><a target="_blank" href="http://www.abs-cbnfoundation.com/">ABS-CBN Foundation</a></li>
+                <li><a target="_blank" href="http://corporate.abs-cbn.com/careers/">Careers</a></li>
+                <li><a target="_blank" href="http://corporate.abs-cbn.com/">Corporate</a></li>
+                <li><a target="_blank" href="http://internationalsales.abs-cbn.com/">International Sales</a></li>
+                <li><a target="_blank" href="http://marketportal.abs-cbn.com/">Market Portal</a></li>
+              </ul>
+            </div>
+          </div>
+          
+          
+        </div>
+      </div>-->
+       <!-- new Uni nav code end -->
+    </div>
+   <!-- new Uni nav code end -->
+    <div id="mobile-uninav">
+      <section id="mobile-icons"> 
+        <div class="pull-right mobile-menu"> 
+          <a href="javascript:void(0);" class="link-uninav"> 
+            <span id="mobile-icon" class="icon uninav-icon-dashboard"></span> 
+          </a> 
+        </div> 
+        <div class="pull-right"> 
+          <a href="javascript:void(0);" class="link-uninav"> 
+            <span id="mobile-icon" class="icon uninav-icon-new"></span> 
+          </a> 
+        </div> 
+        <div class="pull-left"> 
+          <a href="http://staging-kapamilyaaccounts.abs-cbn.com/profile" class="link-uninav"> 
+            <span id="mobile-icon" class="icon uninav-icon-login-new"><p></p></span> 
+          </a> 
+        </div> 
+        <div class="pull-right"> 
+          <a href="javascript:void(0);" class="link-uninav"> 
+            <span id="mobile-icon" class="icon uninav-icon-search-new"></span> 
+          </a> 
+        </div> 
+        <div class="pull-left site-logo"> 
+          <a href="javascript:void(0);" class="link-uninav"> 
+            <span id="mobile-icon" class="icon entertainment"></span> 
+          </a> 
+        </div> 
+      </section>
+    </div>
+
+    
+    
+  </header>
+  <!-- HEADER END -->
+  <!-- CONTENT START -->
+  <div class="main" role="main">
+    
+<!-- SuperLeaderboard: START -->
+
+<div class="ads-block light">
+  <div class="superleaderboard">
+    <!-- Include Cxense Script close to opening body tag -->
+<!--<script type="text/javascript"> (function() { try { var scriptEl = document.createElement('script'); scriptEl.type = 'text/javascript'; scriptEl.async = 'async'; scriptEl.src = ('https:' == document.location.protocol) ? 'https://scdn.cxense.com/cx.js' : 'http://cdn.cxense.com/cx.js'; var targetEl = document.getElementsByTagName('script')[0]; targetEl.parentNode.insertBefore(scriptEl, targetEl); } catch (e) {}; })(); </script>-->
+
+
+<!-- START Custom JS to determine appropriate Ad size to request -->
+<!--<script type="text/javascript">
+  
+  var adUnitSize = '0';
+  var windowWidth = self.innerWidth;
+  
+  if(windowWidth > 970){adUnitW = '970';	adUnitH = '90';
+                       }else if (windowWidth > 728){adUnitW = '728';	adUnitH = '90';
+                                                   }else if (windowWidth > 468){adUnitW = '468';	adUnitH = '60';
+                                                                               }else{adUnitW = '320';	adUnitH = '50';
+                                                                                    }
+  
+  adUnitSize = adUnitW + 'x' + adUnitH; 
+  
+  var cX = cX || {}; cX.callQueue = cX.callQueue || []; 
+  cX.callQueue.push(['insertAdSpace', { 
+    adSpaceId:'0000000161e3943b',  //AdSpace ID!
+    sz: adUnitSize, //Size of the Ad to Request
+    width: adUnitW, height: adUnitH, //Size of the Ad Div
+    ps:1, //One ad only
+    clickTargetFrame:'_blank', //Ads open in a new Window
+    targetElementId: 'cxSuperLeaderBoard1' //Reference the place holder Div This MUST EXIST somewhere on the page
+  } ]); 
+  
+</script>-->
+<!-- END Custom Script -->
+
+
+<!-- Placeholder for Ads -->
+<!--<div id="cxSuperLeaderBoard1" style="display:none"></div>-->
+
+
+
+
+<!-- /2744311/Entertainment_SuperLeaderboard -->
+<div id='div-gpt-ad-1469444158448-1'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1469444158448-1'); });
+</script>
+</div>
+  </div>
+</div>
+<!-- SuperLeaderboard: END -->
+
+<!-- Main Feature: START -->
+<section class="main-feature">
+  
+  
+<article class="photo">
+  <a href="http://entertainment.abs-cbn.com/tv/shows/asianovelas/photos/albums/130050817-six-reasons-why-you-should-watch-goblin-on-abs-cbn">
+    <img data-lazy="http://entmain.blob.core.windows.net/carousel/2017/05/050917/050917-CAROUSEL01.jpg" alt="Show Title"/>
+  </a>
+  <div class="details">
+    <h3><a href="http://entertainment.abs-cbn.com/tv/shows/asianovelas/photos/albums/130050817-six-reasons-why-you-should-watch-goblin-on-abs-cbn">
+      <span class="icon"></span>
+      Six Reasons Why You Should Watch ‘Goblin’ on ABS-CBN
+      </a></h3>
+  </div>
+</article><article class="photo">
+  <a href="http://entertainment.abs-cbn.com/tv/shows/angprobinsyano/photos/albums/71050817-behind-the-scenes-ang-pagbabalik-serbisyo-ni-cardo">
+    <img data-lazy="http://entmain.blob.core.windows.net/carousel/2017/05/050917/050917-CAROUSEL02.jpg" alt="Show Title"/>
+  </a>
+  <div class="details">
+    <h3><a href="http://entertainment.abs-cbn.com/tv/shows/angprobinsyano/photos/albums/71050817-behind-the-scenes-ang-pagbabalik-serbisyo-ni-cardo">
+      <span class="icon"></span>
+      Behind-the-scenes: Ang pagbabalik-serbisyo ni Cardo
+      </a></h3>
+  </div>
+</article><article class="video">
+  <a href="http://entertainment.abs-cbn.com/tv/updates/136050817-judy-ann-gives-tips-on-how-to-be-fit-and-healthy">
+    <img data-lazy="http://entmain.blob.core.windows.net/carousel/2017/05/050917/050917-CAROUSEL03.jpg" alt="Show Title"/>
+  </a>
+  <div class="details">
+    <h3><a href="http://entertainment.abs-cbn.com/tv/updates/136050817-judy-ann-gives-tips-on-how-to-be-fit-and-healthy">
+      <span class="icon"></span>
+      Judy Ann gives tips on how to be fit and healthy
+      </a></h3>
+  </div>
+</article><article class="article">
+  <a href="http://entertainment.abs-cbn.com/tv/shows/alovetolast/Show-Updates/2017/05/08/70050817-5-intense-face-offs-of-grace-and-andeng-in-a-love-to-last">
+    <img data-lazy="http://entmain.blob.core.windows.net/carousel/2017/05/050917/050917-CAROUSEL04.jpg" alt="Show Title"/>
+  </a>
+  <div class="details">
+    <h3><a href="http://entertainment.abs-cbn.com/tv/shows/alovetolast/Show-Updates/2017/05/08/70050817-5-intense-face-offs-of-grace-and-andeng-in-a-love-to-last">
+      <span class="icon"></span>
+      5 Intense Face Offs of Grace and Andeng In A Love To Last
+      </a></h3>
+  </div>
+</article><article class="photo">
+  <a href="http://entertainment.abs-cbn.com/tv/shows/ikawlangangiibigin/videos/2017/05/08/131050817-whats-inside-jake-cuencas-sportsbag">
+    <img data-lazy="http://entmain.blob.core.windows.net/carousel/2017/05/050917/050917-CAROUSEL05.jpg" alt="Show Title"/>
+  </a>
+  <div class="details">
+    <h3><a href="http://entertainment.abs-cbn.com/tv/shows/ikawlangangiibigin/videos/2017/05/08/131050817-whats-inside-jake-cuencas-sportsbag">
+      <span class="icon"></span>
+      What's Inside Jake Cuenca's Sportsbag?
+      </a></h3>
+  </div>
+</article><article class="video">
+  <a href="http://entertainment.abs-cbn.com/tv/shows/pusongligaw/videos/2017/05/08/72050817-beauty-bianca-and-joem-may-revelations-tungkol-sa-cast-ng-pusong-ligaw">
+    <img data-lazy="http://entmain.blob.core.windows.net/carousel/2017/05/050917/050917-CAROUSEL06.jpg" alt="Show Title"/>
+  </a>
+  <div class="details">
+    <h3><a href="http://entertainment.abs-cbn.com/tv/shows/pusongligaw/videos/2017/05/08/72050817-beauty-bianca-and-joem-may-revelations-tungkol-sa-cast-ng-pusong-ligaw">
+      <span class="icon"></span>
+      Beauty, Bianca and Joem, may revelations tungkol sa cast ng Pusong Ligaw
+      </a></h3>
+  </div>
+</article><article class="photo">
+  <a href="http://entertainment.abs-cbn.com/tv/shows/magandangbuhay/photos/albums/105050817-photos-mb-momshies-fun-trip-with-ylona-and-angelina">
+    <img data-lazy="http://entmain.blob.core.windows.net/carousel/2017/05/050917/050917-CAROUSEL07.jpg" alt="Show Title"/>
+  </a>
+  <div class="details">
+    <h3><a href="http://entertainment.abs-cbn.com/tv/shows/magandangbuhay/photos/albums/105050817-photos-mb-momshies-fun-trip-with-ylona-and-angelina">
+      <span class="icon"></span>
+      PHOTOS: MB Momshies’ Fun Trip with Ylona and Angelina
+      </a></h3>
+  </div>
+</article><article class="photo">
+  <a href="http://entertainment.abs-cbn.com/tv/shows/starmagic/photos/albums/112050817-in-photos-maymays-grand-birthday-celebration">
+    <img data-lazy="http://entmain.blob.core.windows.net/carousel/2017/05/050917/050917-CAROUSEL08.jpg" alt="Show Title"/>
+  </a>
+  <div class="details">
+    <h3><a href="http://entertainment.abs-cbn.com/tv/shows/starmagic/photos/albums/112050817-in-photos-maymays-grand-birthday-celebration">
+      <span class="icon"></span>
+      IN PHOTOS: Ang engrandeng 20th birthday celebration ni Maymay
+      </a></h3>
+  </div>
+</article>
+
+  
+</section>
+<!-- Main Feature: END -->
+<!-- Skin Ad: START -->
+<div class="skinning">
+  
+<!-- <script type='text/javascript'>   (function() {     var useSSL = 'https:' == document.location.protocol;     var src = (useSSL ? 'https:' : 'http:') +         '//www.googletagservices.com/tag/js/gpt.js';     document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');   })(); </script> <div id="div-gpt-ad-ENTSkin">     <script type='text/javascript'>         var Smapping = googletag.sizeMapping().addSize([1140, 0], [1400, 150]).addSize([970, 0], [1140, 150]).addSize([728, 0], [980, 150]).addSize([568, 0], [728, 150]).addSize([0, 0], [568, 150]).build();         googletag.defineSlot('/2744311/Entertainment_Skinning', [             [568, 150],             [728, 150],             [1140, 150],             [1400, 150],             [980, 150]         ], 'div-gpt-ad-ENTSkin').defineSizeMapping(Smapping).addService(googletag.pubads()).setTargeting("Section", "home");         googletag.pubads().enableSyncRendering();         googletag.enableServices();         googletag.display('div-gpt-ad-ENTSkin');     </script> </div> -->
+
+</div>
+<!-- Skin Ad: END -->
+
+
+<!-- Schedule Block: START -->
+<div class="sched-block">		
+  <div class="title-holder">
+    <h2>Schedules</h2>
+    <a href="/tv/schedule" class="view-all">View all »</a>
+  </div>
+  <ul>
+    
+<li>
+  <div>
+    <span>NOW ON TV (MNL)</span>
+    <span class="time-slot">
+      <span>08:30 PM</span>
+      <p>My Dear Heart </p>
+    </span>
+  </div>
+  <img src="http://entmydearheart.blob.core.windows.net/images/SCHEDULE-Thumbnail.jpg" alt="Home">
+</li>
+
+
+ 
+<li>
+  <div>
+    <span>NEXT</span>
+    <span class="time-slot">
+      <span>09:15 PM</span>
+      <p>A Love To Last</p>
+    </span>
+  </div>
+  <img src="http://alovetolast.blob.core.windows.net/images/SCHEDULE-Thumbnail.jpg" alt="Home">
+</li>
+
+
+ 
+  </ul>
+</div>
+<!-- Schedule Block: END -->
+<!-- Display Block - Large : START -->
+<div class="display-block colored">
+  <div class="title-holder">
+    <h2>What you must see on TV</h2>
+
+
+
+
+<a id="p_lt_WebPartZone5_ZoneBodyContent_pageplaceholder1_p_lt_WebPartZone6_ZoneWhatYouMustSeeTitle&Link_lbWhatYouMustSee_btnElem_hyperLink" class="view-all" href="/tv/updates?browse=1&amp;media-type=0"><span id="p_lt_WebPartZone5_ZoneBodyContent_pageplaceholder1_p_lt_WebPartZone6_ZoneWhatYouMustSeeTitle&Link_lbWhatYouMustSee_btnElem_lblText">View all &#187;</span></a>
+
+  </div>
+  <section class="featured-block carousel">
+    
+<article class="video">
+  <a href="http://entertainment.abs-cbn.com/TV/Updates/82050917-maymay-entrata-mala-prinsesa-sa-kanyang-20th-birthday-celebration">
+    <div class="overlay">
+      <span class="icon"></span>
+      <img src="http://entmain.blob.core.windows.net/logos/LOGOS 160pv X height/TVPLOGO160.png" alt="">
+    </div>
+    <img src="http://entmain.blob.core.windows.net/videos/2017/05/050917/050417-TVPATROL3.jpg" alt="">
+  </a>
+  <h4><a href="http://entertainment.abs-cbn.com/TV/Updates/82050917-maymay-entrata-mala-prinsesa-sa-kanyang-20th-birthday-celebration">
+    <span class="icon"></span>
+    Maymay Entrata, mala-prinsesa sa kanyang 20th birthday celebration
+    </a></h4>
+  
+   <span class="timestamp">May 09, 2017 08:22 PM</span>
+</article><article class="video">
+  <a href="http://entertainment.abs-cbn.com/tv/updates/81050917-lyceum-of-the-philippines-university-ginawaran-sina-noli-de-castro-at-bernadette-sembrano">
+    <div class="overlay">
+      <span class="icon"></span>
+      <img src="http://entmain.blob.core.windows.net/logos/LOGOS 160pv X height/TVPLOGO160.png" alt="">
+    </div>
+    <img src="http://entmain.blob.core.windows.net/videos/2017/05/050917/050417-TVPATROL2.jpg" alt="">
+  </a>
+  <h4><a href="http://entertainment.abs-cbn.com/tv/updates/81050917-lyceum-of-the-philippines-university-ginawaran-sina-noli-de-castro-at-bernadette-sembrano">
+    <span class="icon"></span>
+    Lyceum of the Philippines University ginawaran sina Noli De Castro at Bernadette Sembrano
+    </a></h4>
+  
+   <span class="timestamp">May 09, 2017 08:22 PM</span>
+</article><article class="video">
+  <a href="http://entertainment.abs-cbn.com/TV/Updates/80050917-sandara-park-sinagot-ang-pagkakadawit-sa-hiwalayang-robi-gretchen">
+    <div class="overlay">
+      <span class="icon"></span>
+      <img src="http://entmain.blob.core.windows.net/logos/LOGOS 160pv X height/TVPLOGO160.png" alt="">
+    </div>
+    <img src="http://entmain.blob.core.windows.net/videos/2017/05/050917/050417-TVP1.jpg" alt="">
+  </a>
+  <h4><a href="http://entertainment.abs-cbn.com/TV/Updates/80050917-sandara-park-sinagot-ang-pagkakadawit-sa-hiwalayang-robi-gretchen">
+    <span class="icon"></span>
+    Sandara Park, sinagot ang pagkakadawit sa hiwalayang Robi-Gretchen
+    </a></h4>
+  
+   <span class="timestamp">May 09, 2017 08:22 PM</span>
+</article><article class="video">
+  <a href="http://entertainment.abs-cbn.com/tv/shows/itsshowtime/videos/2017/05/09/46050917-vice-ganda-itinuro-ang-tamang-paglalaro-ng-chinese-garter">
+    <div class="overlay">
+      <span class="icon"></span>
+      <img src="http://entmain.blob.core.windows.net/logos/LOGOS 160pv X height/showtime1.png" alt="">
+    </div>
+    <img src="http://abscbnshowtime.blob.core.windows.net/videos/2017/05/050917/050917-st15_ONCAM.jpg" alt="">
+  </a>
+  <h4><a href="http://entertainment.abs-cbn.com/tv/shows/itsshowtime/videos/2017/05/09/46050917-vice-ganda-itinuro-ang-tamang-paglalaro-ng-chinese-garter">
+    <span class="icon"></span>
+    Vice Ganda, itinuro ang tamang paglalaro ng Chinese garter
+    </a></h4>
+  
+   <span class="timestamp">May 09, 2017 08:22 PM</span>
+</article><article class="video">
+  <a href="http://entertainment.abs-cbn.com/tv/shows/itsshowtime/videos/2017/05/09/41050917-vice-ganda-to-anne-ang-arte-arte-nito">
+    <div class="overlay">
+      <span class="icon"></span>
+      <img src="http://entmain.blob.core.windows.net/logos/LOGOS 160pv X height/showtime1.png" alt="">
+    </div>
+    <img src="http://abscbnshowtime.blob.core.windows.net/videos/2017/05/050917/050917-st10_ONCAM.jpg" alt="">
+  </a>
+  <h4><a href="http://entertainment.abs-cbn.com/tv/shows/itsshowtime/videos/2017/05/09/41050917-vice-ganda-to-anne-ang-arte-arte-nito">
+    <span class="icon"></span>
+    Vice Ganda to Anne: “Ang arte-arte nito!”
+    </a></h4>
+  
+   <span class="timestamp">May 09, 2017 08:22 PM</span>
+</article><article class="video">
+  <a href="http://entertainment.abs-cbn.com/tv/shows/itsshowtime/videos/2017/05/09/37050917-vhong-at-vice-ganda-ipinakita-kung-paano-ang-paraan-nila-ng-pagkain-ng-puto">
+    <div class="overlay">
+      <span class="icon"></span>
+      <img src="http://entmain.blob.core.windows.net/logos/LOGOS 160pv X height/showtime1.png" alt="">
+    </div>
+    <img src="http://abscbnshowtime.blob.core.windows.net/videos/2017/05/050917/050917-st7_ONCAM.jpg" alt="">
+  </a>
+  <h4><a href="http://entertainment.abs-cbn.com/tv/shows/itsshowtime/videos/2017/05/09/37050917-vhong-at-vice-ganda-ipinakita-kung-paano-ang-paraan-nila-ng-pagkain-ng-puto">
+    <span class="icon"></span>
+    Vhong at Vice Ganda, ipinakita kung paano ang paraan nila ng pagkain ng puto
+    </a></h4>
+  
+   <span class="timestamp">May 09, 2017 08:22 PM</span>
+</article><article class="video">
+  <a href="http://entertainment.abs-cbn.com/tv/shows/itsshowtime/videos/2017/04/28/28042817-vice-ganda-may-hamon-na-ibinigay-kay-anne">
+    <div class="overlay">
+      <span class="icon"></span>
+      <img src="http://entmain.blob.core.windows.net/logos/LOGOS 160pv X height/showtime1.png" alt="">
+    </div>
+    <img src="http://abscbnshowtime.blob.core.windows.net/videos/2017/04/042817/042817-st1_oncam.jpg" alt="">
+  </a>
+  <h4><a href="http://entertainment.abs-cbn.com/tv/shows/itsshowtime/videos/2017/04/28/28042817-vice-ganda-may-hamon-na-ibinigay-kay-anne">
+    <span class="icon"></span>
+    Vice Ganda, may hamon na ibinigay kay Anne
+    </a></h4>
+  
+   <span class="timestamp">April 29, 2017 01:56 PM</span>
+</article>
+
+  </section>
+</div>
+<!-- Display Block - Large : END -->
+<!-- Display Block - Gray : START -->
+<div class="display-block gray">
+  <div class="title-holder">
+    <h2>What's sizzling in showbiz from Push.com.ph</h2>
+
+
+
+<a id="p_lt_WebPartZone5_ZoneBodyContent_pageplaceholder1_p_lt_WebPartZone8_ZonePush.ComTitle&ViewAll_lbPushcom_btnElem_hyperLink" class="view-all" href="http://push.abs-cbn.com/" target="_blank"><span id="p_lt_WebPartZone5_ZoneBodyContent_pageplaceholder1_p_lt_WebPartZone8_ZonePush.ComTitle&ViewAll_lbPushcom_btnElem_lblText">View all &#187;</span></a>
+
+  </div>
+  <section>
+    <article>
+  <a href='http://push.abs-cbn.com/features/79160/angel-locsin-angelica-panganiban-team-up-with-richard-gutierrez-in-new-film/' target="_blank">
+    <div class="overlay">
+      <img src="https://azuretv2devewu00sca63.blob.core.windows.net/tv2images/placeholders/logo-small-9.png" alt="Logo Title">
+    </div>
+    <img src='http://push.abs-cbn.com/features/00-2017/05-May/050917/UP/050917-RICHARD-ANGE_PUSH.jpg' alt="Article Title">
+  </a>
+  <h4>Angel Locsin, Angelica Panganiban team up with Richard Gutierrez in new film</h4>
+  
+</article><article>
+  <a href='http://push.abs-cbn.com/features/79159/sharon-cuneta-ayaw-nang-umuwi-sa-pinas/' target="_blank">
+    <div class="overlay">
+      <img src="https://azuretv2devewu00sca63.blob.core.windows.net/tv2images/placeholders/logo-small-9.png" alt="Logo Title">
+    </div>
+    <img src='http://push.abs-cbn.com/features/00-2017/05-May/050917/POTD/050917-SHARONFINAL_POTD.jpg' alt="Article Title">
+  </a>
+  <h4>Sharon Cuneta, ayaw nang umuwi sa Pinas? </h4>
+  
+</article><article>
+  <a href='http://push.abs-cbn.com/features/79156/is-jodi-sta-maria-going-to-work-again-with-richard-yap/' target="_blank">
+    <div class="overlay">
+      <img src="https://azuretv2devewu00sca63.blob.core.windows.net/tv2images/placeholders/logo-small-9.png" alt="Logo Title">
+    </div>
+    <img src='http://push.abs-cbn.com/features/00-2017/05-May/050917/UP/050917-JodiStaMaria1_PUSH.jpg' alt="Article Title">
+  </a>
+  <h4>Is Jodi Sta. Maria going to work again with Richard Yap? </h4>
+  
+</article><article>
+  <a href='http://push.abs-cbn.com/features/79157/anne-curtis-photographer/' target="_blank">
+    <div class="overlay">
+      <img src="https://azuretv2devewu00sca63.blob.core.windows.net/tv2images/placeholders/logo-small-9.png" alt="Logo Title">
+    </div>
+    <img src='http://push.abs-cbn.com/features/00-2017/05-May/050917/UP/050917-Listerine_PUSH.jpg' alt="Article Title">
+  </a>
+  <h4>Anne Curtis, Photographer</h4>
+  
+</article><article>
+  <a href='http://push.abs-cbn.com/features/79158/gong-yoo-reacts-to-kuya-kim-atienza-saying-they-look-alike/' target="_blank">
+    <div class="overlay">
+      <img src="https://azuretv2devewu00sca63.blob.core.windows.net/tv2images/placeholders/logo-small-9.png" alt="Logo Title">
+    </div>
+    <img src='http://push.abs-cbn.com/features/00-2017/05-May/050917/UP/050917-GongYoo_PUSH.jpg' alt="Article Title">
+  </a>
+  <h4>Gong Yoo reacts to Kuya Kim Atienza saying they look alike</h4>
+  
+</article><article>
+  <a href='http://push.abs-cbn.com/features/79155/iza-calzado-reacts-to-being-bashed-by-tondeng-fans/' target="_blank">
+    <div class="overlay">
+      <img src="https://azuretv2devewu00sca63.blob.core.windows.net/tv2images/placeholders/logo-small-9.png" alt="Logo Title">
+    </div>
+    <img src='http://push.abs-cbn.com/features/00-2017/05-May/050917/UP/050917-IzaCalzado3_PUSH.jpg' alt="Article Title">
+  </a>
+  <h4>Iza Calzado reacts to being bashed by TonDeng fans</h4>
+  
+</article>
+
+  </section>
+</div>
+<!-- Display Block - Gray : END -->
+<!-- Display Block - Default : START -->
+<div class="display-block">
+  <div class="title-holder">
+    <h2>What you won't see on TV
+
+
+
+</h2><a id="p_lt_WebPartZone5_ZoneBodyContent_pageplaceholder1_p_lt_WebPartZone10_ZoneWhatYouWontSeeOnTVTitle&ViewAll_lbwhatYouWontSeeOnTv_btnElem_hyperLink" class="view-all" href="/tv/updates?browse=2&amp;media-type=0"><span id="p_lt_WebPartZone5_ZoneBodyContent_pageplaceholder1_p_lt_WebPartZone10_ZoneWhatYouWontSeeOnTVTitle&ViewAll_lbwhatYouWontSeeOnTv_btnElem_lblText">View all &#187;</span></a>
+
+  </div>
+  <section>
+    
+<article class="photo">
+  <a href="http://entertainment.abs-cbn.com/tv/shows/asianovelas/photos/albums/106050417-photos-meet-the-characters-in-goblin">
+    <div class="overlay">
+      <img src="http://entmain.blob.core.windows.net/logos/LOGOS 90px X height/Asianovelas-mini-logo.png" alt="">
+    </div>
+    <img src="http://entmain.blob.core.windows.net/videos/2017/05/050817/050817-BEHIND1.jpg" alt="">
+  </a>
+  <h4><a href="http://entertainment.abs-cbn.com/tv/shows/asianovelas/photos/albums/106050417-photos-meet-the-characters-in-goblin">
+    <span class="icon"></span>
+    PHOTOS: Meet the characters in Goblin
+    </a></h4>
+  
+  
+  
+  <span class="timestamp">May 09, 2017 01:58 AM</span>
+</article><article class="photo">
+  <a href="http://entertainment.abs-cbn.com/tv/shows/asianovelas/photos/albums/105050417-photos-meet-the-characters-in-legend-of-the-blue-sea">
+    <div class="overlay">
+      <img src="http://entmain.blob.core.windows.net/logos/LOGOS 90px X height/Asianovelas-mini-logo.png" alt="">
+    </div>
+    <img src="http://entmain.blob.core.windows.net/videos/2017/05/050817/050817-BEHIND2.jpg" alt="">
+  </a>
+  <h4><a href="http://entertainment.abs-cbn.com/tv/shows/asianovelas/photos/albums/105050417-photos-meet-the-characters-in-legend-of-the-blue-sea">
+    <span class="icon"></span>
+    PHOTOS: Meet the characters in Legend Of The Blue Sea
+    </a></h4>
+  
+  
+  
+  <span class="timestamp">May 09, 2017 01:58 AM</span>
+</article><article class="photo">
+  <a href="http://entertainment.abs-cbn.com/tv/shows/alovetolast/photos/albums/119050517-behind-the-scenes-antons-surprise-proposal-to-andeng">
+    <div class="overlay">
+      <img src="http://entmain.blob.core.windows.net/logos/LOGOS 90px X height/ALTL-PNG.png" alt="">
+    </div>
+    <img src="http://entmain.blob.core.windows.net/videos/2017/05/050817/050817-BEHIND3.jpg" alt="">
+  </a>
+  <h4><a href="http://entertainment.abs-cbn.com/tv/shows/alovetolast/photos/albums/119050517-behind-the-scenes-antons-surprise-proposal-to-andeng">
+    <span class="icon"></span>
+    PHOTOS: Anton's surprise proposal to Andeng
+    </a></h4>
+  
+  
+  
+  <span class="timestamp">May 09, 2017 01:58 AM</span>
+</article><article class="photo">
+  <a href="http://entertainment.abs-cbn.com/tv/shows/wildflower/photos/albums/110050517-behind-the-scenes-ang-muling-pakikipagharap-ni-camia-sa-pamilya-ardiente-wildflowerpasabog">
+    <div class="overlay">
+      <img src="http://entmain.blob.core.windows.net/logos/LOGOS 90px X height/Wildflower-90.png" alt="">
+    </div>
+    <img src="http://entmain.blob.core.windows.net/videos/2017/05/050817/050817-BEHIND4.jpg" alt="">
+  </a>
+  <h4><a href="http://entertainment.abs-cbn.com/tv/shows/wildflower/photos/albums/110050517-behind-the-scenes-ang-muling-pakikipagharap-ni-camia-sa-pamilya-ardiente-wildflowerpasabog">
+    <span class="icon"></span>
+    BEHIND-THE-SCENES: Ang muling pakikipagharap ni Camia sa pamilya Ardiente #WildflowerPasabog
+    </a></h4>
+  
+  
+  
+  <span class="timestamp">May 09, 2017 01:58 AM</span>
+</article><article class="photo">
+  <a href="http://entertainment.abs-cbn.com/TV/Updates/34050617-photos-katarina-rodriguez-is-the-new-binibining-pilipinas-intercontinental">
+    <div class="overlay">
+      <img src="http://entmain.blob.core.windows.net/logos/LOGOS 90px X height/ABSCBN-90.png" alt="">
+    </div>
+    <img src="http://entmain.blob.core.windows.net/carousel/2017/05/050817/050717-BEHIND1.jpg" alt="">
+  </a>
+  <h4><a href="http://entertainment.abs-cbn.com/TV/Updates/34050617-photos-katarina-rodriguez-is-the-new-binibining-pilipinas-intercontinental">
+    <span class="icon"></span>
+    PHOTOS: Katarina Rodriguez is the new Binibining Pilipinas Intercontinental
+    </a></h4>
+  
+  
+  
+  <span class="timestamp">May 09, 2017 01:58 AM</span>
+</article><article class="photo">
+  <a href="http://entertainment.abs-cbn.com/TV/Updates/35050617-photos-hosts-miss-universe-2015-pia-wurtzbach-xian-lim-at-the-binibining-pilipinas-2017-coronation-night">
+    <div class="overlay">
+      <img src="http://entmain.blob.core.windows.net/logos/LOGOS 90px X height/kapamilyapics2016new.png" alt="">
+    </div>
+    <img src="http://entmain.blob.core.windows.net/carousel/2017/05/050817/050717-BEHIND2.jpg" alt="">
+  </a>
+  <h4><a href="http://entertainment.abs-cbn.com/TV/Updates/35050617-photos-hosts-miss-universe-2015-pia-wurtzbach-xian-lim-at-the-binibining-pilipinas-2017-coronation-night">
+    <span class="icon"></span>
+    PHOTOS: Hosts Miss Universe 2015 Pia Wurtzbach & Xian Lim at the Binibining Pilipinas 2017 Coronation Night
+    </a></h4>
+  
+  
+  
+  <span class="timestamp">May 09, 2017 01:58 AM</span>
+</article>
+    
+  </section>
+</div>
+<!-- Display Block - Default : END -->
+<!-- Display Block - Gray : START -->
+<div class="display-block gray">
+  <div class="title-holder">
+    <h2>WHAT&#39;S TRENDING ON ABS-CBN LIFESTYLE</h2>
+
+
+
+
+
+    <a class="view-all" href="http://lifestyle.abs-cbn.com/?_ga=1.212411281.402170519.1441800131" target="_blank">View all &raquo;</a>
+
+
+
+
+  </div>
+  <section  class="content-display col6" data="lifestylefeed">
+    
+  </section>
+</div>
+<!-- Display Block - Gray : END -->
+<!-- Display Block - Gray : START -->
+<div class="display-block">
+  <div class="title-holder">
+    <h2>SPORTS
+
+
+
+</h2><a id="p_lt_WebPartZone5_ZoneBodyContent_pageplaceholder1_p_lt_WebPartZone15_ZoneSportsTitle_Sportsfeed_Link_Button_btnElem_hyperLink" class="view-all" href="http://sports.abs-cbn.com/?_ga=1.114724933.371033858.1442376754" target="_blank"><span id="p_lt_WebPartZone5_ZoneBodyContent_pageplaceholder1_p_lt_WebPartZone15_ZoneSportsTitle_Sportsfeed_Link_Button_btnElem_lblText">View all &#187;</span></a>
+
+  </div>
+  <section class="content-display col6" data="sportsfeed">
+    
+  </section>
+</div>
+<!-- Display Block - Gray : END -->
+<!-- Display Block - Gray : START -->
+<div class="display-block gray">
+  <div class="title-holder">
+    <h2>WHY CHOOSE PHILIPPINES
+
+
+
+</h2>
+    <a class="view-all" href="http://www.choosephilippines.com/" target="_blank">View all &raquo;</a>
+
+
+
+
+  </div>
+  <section data="choosefeed">
+    
+  </section>
+  
+</div>
+<div class="display-block">
+  <div class="title-holder">
+    <h2>WHAT TO CHECK OUT ON SOCIAL MEDIA</h2>
+  </div>
+  <div data-crowdynews-widget="ABSCBNLSE_abs-cbn-entertainment"><script src="//widget.crowdynews.com/ABSCBNLSE_abs-cbn-entertainment.js" async="true" type="text/javascript"></script></div>
+
+</div>
+<!-- Display Block - Gray : END -->
+<!-- Leaderboard: START -->
+<div class="ads-block dark">
+  <div class="leaderboard">
+    <!-- /2744311/Entertainment_Leaderboard -->
+<div id='div-gpt-ad-1469444158448-2'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1469444158448-2'); });
+</script>
+</div>
+  </div>
+</div>
+<!-- Leaderboard:END-->
+
+<script>
+  $(function(){
+    $('.skinning').find('iframe').css('left','50%');
+  });
+  </script>
+
+  </div>
+  <!-- CONTENT END -->
+  <!-- FOOTER START -->
+  <footer class="main">
+    <div class="misc">
+      <div class="holder">
+        <p><p>&copy; 2017. ABS-CBN Corporation. All Rights Reserved.</p>
+
+
+
+
+</p>	<p class="right">
+<a href="/tv/about" target="_blank">About</a><a href="/tv/careers" target="_blank">Careers</a><a href="/tv/privacy" target="_blank">Privacy</a><a href="/tv/terms" target="_blank">Terms</a><a href="/tv/contact-us" target="_blank">Contact Us</a><a href="/tv/advertise-with-us" target="_blank">Advertise With Us</a>
+</p>
+      </div>
+    </div>
+  </footer>
+  <!-- FOOTER END -->
+  
+  <!-- WRAPPER END -->
+</div>
+<!-- TYPEKIT -->
+<script type="text/javascript" src="//use.typekit.net/hkd3jik.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<!-- SCRIPTS START -->
+<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>-->
+<!--<script>window.jQuery || document.write('<script src="theme/scripts/vendor/jquery-1.10.2.min.js"><\/script>')</script>-->
+<script type="text/javascript" src="//abskenticocms.blob.core.windows.net/hentscripts/slick.min.js"></script>
+<script type="text/javascript" src="//abskenticocms.blob.core.windows.net/hentscripts/sticky-kit.js"></script>
+<script type="text/javascript" src="//abskenticocms.blob.core.windows.net/hentscripts/jquery.clever-infinite-scroll.js"></script>
+<script type="text/javascript" src="//abskenticocms.blob.core.windows.net/hentscripts/Infinite_master.js"></script>
+<script type="text/javascript" src="//assets.abs-cbn.com/universalnav/uninav-v4.js"></script>
+<!-- SCRIPTS END -->
+<script type="text/javascript">
+  
+  
+  function search(){
+    setTimeout(function(){
+      $('form.search-form .search-field').attr('onkeypress','return SubmitOnEnter(this,event)');
+      $('form.search-form .search-field').attr('id','q');
+      $('form.search-form .search-button').attr('type','button');
+      $('form.search-form .search-button').attr('onclick','SearchSite()');
+      $('.uninav-close').css('height','100%');
+    },10);
+  };
+  $(document).ready(function() {
+    $('ul.uninav-main-links-group li:first a').addClass('active');
+    $('.search').click(function(){
+      search();
+    });
+    $(document).ready(function() {
+    $('h1.logo a:nth(1)').remove();
+  });
+    
+    $('#mobile-search .uninav-close').css('height','100%')
+      /*$('.uninav-toggler').click(function(event) {
+$('.uninav-main').slideToggle('slow');
+event.stopPropagation();
+});
+$('body').click(function(event) {
+$('.uninav-main').slideUp('slow');
+});*/
+      });
+  var anchor=$(".uninav-main-links ul li a.active");
+  anchor.removeAttr("href");
+  anchor.removeAttr("target");
+</script>
+
+<script>
+  $('header').uninav({
+    type: "default",
+    uninav : true,
+    sso: true,
+    uninavAnimation : true,
+    uninavAnimationSpeed : 'fast',
+    dataDomain: 'entertainment',
+    mobileNav: true,
+    oldsearch: false
+  });
+  $(window).load(function(){
+    setTimeout(function(){
+      $('.link-uninav').click(function(){
+        search();
+      });
+    },10);
+  });
+
+</script>
+
+<!--<script src='http://cdn.gigya.com/JS/gigya.js?apiKey=3__XCEJImeXsOZeISvjcGpqxR-AhkGTn6sfRlyspRFRxOhJTWGhQQBxN-uDkUaF9cm' type='text/javascript'></script>-->
+
+<script type="text/javascript" src="//abskenticocms.blob.core.windows.net/hentscripts/iframeResizer.min.js"></script>
+<script type='text/javascript'>
+var asec = $('.right-content').find('input').eq(0).val(); // Section
+var aaut = $('.right-content').find('input').eq(1).val(); // Author
+var _sf_async_config = _sf_async_config || {};
+/** CONFIGURATION START **/
+_sf_async_config.sections = asec; 
+_sf_async_config.authors = aaut; 
+ 
+/** CONFIGURATION END **/
+(function() {
+  function loadChartbeat() {
+      window._sf_endpt = (new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+     
+      document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() {
+          oldonload();
+          loadChartbeat();
+      };
+ 
+  })();
+</script>
+	<style>		
+  header .uninav-main.mobile {		
+    top: 0;		
+    max-height: 100%;		
+    padding-bottom: 0;		
+    height: calc(100% - 40px);		
+    position: fixed;		
+}		
+  </style>
+    
+    
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("manScript_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();//]]>
+</script>
+</form>
+</body>
+</html>

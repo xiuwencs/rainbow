@@ -1,0 +1,737 @@
+
+
+
+    
+
+
+
+<!doctype html>
+<html>
+<head>
+    
+
+    <meta charset="utf-8"/>
+<meta name="renderer" content="webkit"/>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+<link rel="dns-prefetch" href="//g.alicdn.com"/>
+<link rel="dns-prefetch" href="//img.alicdn.com"/>
+<link rel="dns-prefetch" href="//gm.mmstat.com"/>
+<link rel="dns-prefetch" href="//ald.taobao.com"/>
+<link rel="dns-prefetch" href="//bar.tmall.com"/>
+<link href="//g.alicdn.com/mui/global/1.2.35/file/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<link title="天猫Tmall.com" href="//g.alicdn.com/mui/global/1.2.35/file/search.xml" type="application/opensearchdescription+xml" rel="search"/>
+<meta name="spm-id" content="a3204.7139825"/>
+
+<title>天猫超市-上天猫，就够了</title>
+<script>
+    window.g_config = {
+        devId: 'pc',
+        headerVersion: '1.4.0',
+        loadModulesLater: true,
+         bizId: 'chaoshi', 
+         sysId: 'index', 
+        sl: 'node'
+    };
+</script>
+
+
+<base target="_blank"/>
+    
+
+    
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <link rel="stylesheet" href="//g.alicdn.com/??mui/common/4.0.87/index-pc.css,mui/popbox/4.0.6/index-pc.css,tm/chaoshi/4.1.26/app.css,tm/chaoshi/4.1.26/mods/floor/floor.css,tm/chaoshi/4.1.26/pages/index/index.css,tm/chaoshi/4.1.26/mods/lottery-index/lottery-index.css" />
+<script>window.g_config = window.g_config || {};window.g_config.loadedCss = window.g_config.loadedCss || [];window.g_config.loadedCss = ["mui/common/index-pc.css","mui/popbox/index-pc.css","tm/chaoshi/app.css","tm/chaoshi/mods/floor/floor.css","tm/chaoshi/pages/index/index.css","tm/chaoshi/mods/lottery-index/lottery-index.css"];</script>
+
+
+
+
+
+
+<script src="//g.alicdn.com/secdev/pointman/js/index.js" app="tmall"></script>
+
+    
+
+    <script>
+        window.g_config || (g_config = {});
+        g_config.notInitSearchBar=true;
+        g_config.ueUrl = '//feedback.taobao.com/pc/feedbacks?productId=335&source=chaoshi.tmall';
+        g_config.muiChaoshiCitySelector = {
+            notRefresh: true
+        };
+    </script>
+
+</head>
+
+    
+
+
+<div id="mallPage" class="mui-global-biz-chaoshi w1190 ">
+    
+    
+        <!--dingtianB begin -->
+
+<!--dingtianB end -->
+    
+    
+    
+        <div id="site-nav" data-spm="a2226mz">
+    <div id="sn-bg">
+        <div class="sn-bg-right">
+        </div>
+    </div>
+    <div id="sn-bd">
+        <b class="sn-edge"></b>
+        <div class="sn-container">
+            <p id="login-info" class="sn-login-info"></p>
+            <ul class="sn-quick-menu">
+                <li class="sn-mytaobao menu-item j_MyTaobao">
+                    <div class="sn-menu">
+                        <a class="menu-hd"
+                           href="//i.taobao.com/my_taobao.htm"
+                           target="_top" rel="nofollow">我的淘宝<b></b></a>
+                        <div class="menu-bd">
+                            <div class="menu-bd-panel" id="myTaobaoPanel">
+                                <a href="//trade.taobao.com/trade/itemlist/list_bought_items.htm?t=20110530"
+                                   target="_top" rel="nofollow">已买到的宝贝</a>
+                                <a href="//trade.taobao.com/trade/itemlist/list_sold_items.htm?t=20110530"
+                                   target="_top" rel="nofollow">已卖出的宝贝</a>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="sn-seller-center hidden j_SellerCenter">
+                    <a target="_top" href="//mai.taobao.com/seller_admin.htm">商家中心</a>
+                </li>
+                <li class="sn-mybrand"><i class="mui-global-iconfont">&#x3449;</i>
+                    <a target="_top" id="J_SnMyBrand" class="sn-mybrand-link"
+                       href="//mybrand.tmall.com?scm=1048.1.1.1">我关注的品牌</a>
+                </li>
+                <li class="sn-cart"><i class="mui-global-iconfont">&#xf0148;</i>
+                    <a class="sn-cart-link" href="//cart.tmall.com/cart/myCart.htm?from=btop" target="_top"
+                       rel="nofollow">购物车
+                    </a>
+                </li>
+                <li class="sn-favorite menu-item">
+                    <div class="sn-menu">
+                        <a class="menu-hd"
+                           href="//shoucang.taobao.com/shop_collect_list.htm?scjjc=c1"
+                           target="_top" rel="nofollow">收藏夹<b></b></a>
+
+                        <div class="menu-bd">
+                            <div class="menu-bd-panel">
+                                <a href="//shoucang.taobao.com/item_collect.htm" target="_top"
+                                   rel="nofollow">收藏的宝贝</a>
+                                <a href="//shoucang.taobao.com/shop_collect_list.htm" target="_top"
+                                   rel="nofollow">收藏的店铺</a>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="sn-separator"></li>
+                <li class="sn-mobile">
+                    <i class="mui-global-iconfont">&#x3448;</i>
+                    <a title="天猫无线" target="_top" class="sn-mobile-link" href="//pages.tmall.com/wow/portal/act/app-download?scm=1027.1.1.1">手机版</a>
+                </li>
+                <li class="sn-home">
+                    <a href="//www.taobao.com/">淘宝网</a>
+                </li>
+                <li class="sn-b">
+                    <a href="//b.tmall.com/">企业购</a>
+                </li>
+                <li class="sn-seller menu-item">
+                    <div class="sn-menu J_DirectPromo">
+                        <a class="menu-hd" href="//mai.taobao.com" target="_top">商家支持<b></b></a>
+                        <div class="menu-bd sn-seller-lazy">
+                        </div>
+                    </div>
+                </li>
+                <li class="sn-sitemap">
+                    <div class="sn-menu">
+                        <h3 class="menu-hd"><i class="mui-global-iconfont">&#xe601;</i><span>网站导航</span><b></b></h3>
+                        <div class="menu-bd sn-sitemap-lazy sn-sitemap-bd" data-spm="a2228l4">
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+    
+    
+    <div id="header" data-spm="a2226n0">
+        <div class="headerLayout">
+            <div class="headerCon">
+                <h1 id="mallLogo">
+                    <span class="mlogo">
+                    
+                        
+                             
+<a href="//chaoshi.tmall.com?notjump=true&_ig=logo" title="天猫超市-chaoshi.tmall.com"><s></s>天猫超市-chaoshi.tmall.com</a>
+                        
+                    
+                    </span>
+                    
+                 </h1>
+                <div class="header-extra">
+                    
+                        <div class="header-banner">
+                            
+                                 <ul class="market-feature">
+	<li><a href="///pages.tmall.com/wow/chaoshi/act/yizhanshigouqi?spm=a312d.7832034.0.0.snz6y7"><s>&#x347d;</s>一站式购齐</a></li>
+	<li><a href="//service.tmall.com/support/tmall/knowledge-1137790.htm"><s>&#x3489;</s>满88包邮</a></li>
+	<li class="license"><a href="//pages.tmall.com/wow/chaoshi/act/paper-list"><img src="//img.alicdn.com/tps/i1/TB1L25iFFXXXXXcbpXXgBrbGpXX-36-36.png"/></a></li>
+</ul>
+                            
+                        </div>
+                    
+                    
+<div id="mallSearch" class="mall-search">
+    <form name="searchTop" action="//list.tmall.com/search_product.htm" class="mallSearch-form clearfix" target="_top" acceptCharset="gbk">
+        <fieldset>
+            <legend>天猫搜索</legend>
+                  <div class="mallSearch-input clearfix">
+                      <label for="mq">搜索 天猫 商品/品牌/店铺</label>
+                      <div class="s-combobox">
+                          <div class="s-combobox-input-wrap">
+                                  <input type="text" name="q" accesskey="s" autocomplete="off" x-webkit-speech="" x-webkit-grammar="builtin:translate" value="" id="mq" autocomplete="off"/>
+                          </div>
+                      </div>
+                      <button type="submit">搜索<s></s></button>
+                      <input id="J_Type" type="hidden" name="type" value="p"/>
+                      <input id="J_MallSearchStyle" type="hidden" name="style" value="">
+                      <input id="J_Cat" type="hidden" name="cat" value="all"/>
+                      <input type="hidden" name="vmarket" value="">
+                  </div>
+         </fieldset>
+     </form>
+</div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+<body id="app-chaoshi" class="app-chaoshi-act os-win-10"><script type="text/javascript">
+(function (d) {
+var t=d.createElement("script");t.type="text/javascript";t.async=true;t.id="tb-beacon-aplus";
+t.setAttribute("exparams","category=&userid=&aplus");
+t.src=("https:"==d.location.protocol?"https://s":"http://a")+".tbcdn.cn/s/aplus_v2.js";
+d.getElementsByTagName("head")[0].appendChild(t);
+})(document);
+</script>
+
+<div id="content">
+
+    <div class="tm-chaoshi-nav" data-spm="1998159256">
+    <div class="layout">
+        <div class="nav-extra">
+            <div id="cat">所有产品分类</div>
+            <div id="J_NavCart"></div>
+            <a class="my-welfare" href="//chaoshi.tmall.com/oclottery/oclottery.htm"><span></span>我的福利</a>
+        </div>
+    </div>
+</div>
+<style>.hot-query{display: none;}</style>
+
+
+
+
+
+
+<div class="fs">
+    <div class="category"></div>
+    <div class="courtyard">
+        <div class="tm-chaoshi-slide"></div>
+        <div class="tm-chaoshi-markets" data-spm="1997320521"></div>
+    </div>
+    <div class="chaoshi-sidebar">
+        
+<div class="m-lottery-index">
+    <div class="title"><span></span>我的福利</div>
+    <div class="content">
+        <div class="user-lottory" data-spm="1998159221">
+            <a href="//chaoshi.tmall.com/oclottery/oclottery.htm" class="logo-lottery"></a>
+            <div class="text"></div>
+        </div>
+        <div class="user-others clearfix" data-spm="1998159245">
+            <a href="/coupon.htm" class="user-coupon">优惠券</a>
+            <a href="/gift-card.htm" class="user-card">享淘卡</a>
+            <a href="/bought.htm" class="user-bought">我常买</a>
+        </div>
+    </div>
+</div>
+
+        <div class="tm-chaoshi-sidebar" data-spm="1997320525"></div>
+    </div>
+</div>
+
+ 
+
+
+
+
+
+
+    <div class="mui-zebra-module" data-module-id="config" id="J_config">
+
+
+<div class="j-mdv-chaoshi j-mdv-chaoshi-floor tm-chaoshi-floorlayout" mdv-cls="chaoshi/mods/floor/floor" mdv-cfg='{"alias":"sxsg","area":"510100,500100,510600,511100,511400,510700,511000,510900,511800,511500,512000,510300","links":"201505180","list":"sxsg","listNew":"201506250","promoList":"201505187","promoTitle":"201505186","recomToggle":true,"recommendBanner":"201505185","recommendBg":"#8dd514","recommendList":"201505184","recommendListNew":"201506251","spm":"2996785438","title":"生鲜水果"}' data-spm="2996785438" data-name="生鲜水果" data-area="510100,500100,510600,511100,511400,510700,511000,510900,511800,511500,512000,510300">
+	<div class="m-floor">
+		<div class="header"><h2>生鲜水果</h2></div>
+		<div class="content"></div>
+	</div>
+</div>
+
+
+
+<div class="j-mdv-chaoshi j-mdv-chaoshi-floor tm-chaoshi-floorlayout" mdv-cls="chaoshi/mods/floor/floor" mdv-cfg='{"alias":"jklsss","area":"","links":"201505181","list":"jklsss","listNew":"201507200","promoList":"2015051812","promoTitle":"2015051811","recomToggle":true,"recommendBanner":"2015051810","recommendBg":"#ff9228","recommendList":"201505189","recommendListNew":"201507201","spm":"1996780317","title":"进口零食速食"}' data-spm="1996780317" data-name="进口零食速食" data-area="">
+	<div class="m-floor">
+		<div class="header"><h2>进口零食速食</h2></div>
+		<div class="content"></div>
+	</div>
+</div>
+
+
+
+<div class="j-mdv-chaoshi j-mdv-chaoshi-floor tm-chaoshi-floorlayout" mdv-cls="chaoshi/mods/floor/floor" mdv-cfg='{"alias":"jkjyly","area":"","links":"201507229","list":"jkjyly","listNew":"201507202","promoList":"201507228","promoTitle":"2015072211","recomToggle":true,"recommendBanner":"2015072210","recommendBg":"#b373fb","recommendList":"2015072212","recommendListNew":"201507203","spm":"1998630275","title":"进口酒饮粮油"}' data-spm="1998630275" data-name="进口酒饮粮油" data-area="">
+	<div class="m-floor">
+		<div class="header"><h2>进口酒饮粮油</h2></div>
+		<div class="content"></div>
+	</div>
+</div>
+
+
+
+<div class="j-mdv-chaoshi j-mdv-chaoshi-floor tm-chaoshi-floorlayout" mdv-cls="chaoshi/mods/floor/floor" mdv-cfg='{"alias":"nzp","area":"","links":"2015051813","list":"nzp","listNew":"201506254","promoList":"2015051818","promoTitle":"2015051817","recomToggle":true,"recommendBanner":"2015051816","recommendBg":"#2abff6","recommendList":"2015051815","recommendListNew":"201506255","spm":"1996784986","title":"奶制品"}' data-spm="1996784986" data-name="奶制品" data-area="">
+	<div class="m-floor">
+		<div class="header"><h2>奶制品</h2></div>
+		<div class="content"></div>
+	</div>
+</div>
+
+
+
+<div class="j-mdv-chaoshi j-mdv-chaoshi-floor tm-chaoshi-floorlayout" mdv-cls="chaoshi/mods/floor/floor" mdv-cfg='{"alias":"xxls","area":"","links":"2015051819","list":"xxls","listNew":"201506256","promoList":"2015051824","promoTitle":"2015051823","recomToggle":true,"recommendBanner":"2015051822","recommendBg":"#67cd7d","recommendList":"2015051821","recommendListNew":"201506257","spm":"1996784290","title":"休闲零食"}' data-spm="1996784290" data-name="休闲零食" data-area="">
+	<div class="m-floor">
+		<div class="header"><h2>休闲零食</h2></div>
+		<div class="content"></div>
+	</div>
+</div>
+
+
+
+<div class="j-mdv-chaoshi j-mdv-chaoshi-floor tm-chaoshi-floorlayout" mdv-cls="chaoshi/mods/floor/floor" mdv-cfg='{"alias":"bgtq","area":"","links":"2015051825","list":"bgtq","listNew":"201506258","promoList":"2015051830","promoTitle":"2015051829","recomToggle":true,"recommendBanner":"2015051828","recommendBg":"#ff7a64","recommendList":"2015051827","recommendListNew":"201506259","spm":"1996784291","title":"饼干糖巧"}' data-spm="1996784291" data-name="饼干糖巧" data-area="">
+	<div class="m-floor">
+		<div class="header"><h2>饼干糖巧</h2></div>
+		<div class="content"></div>
+	</div>
+</div>
+
+
+
+<div class="j-mdv-chaoshi j-mdv-chaoshi-floor tm-chaoshi-floorlayout" mdv-cls="chaoshi/mods/floor/floor" mdv-cfg='{"alias":"jsyl","area":"","links":"2015051831","list":"jsyl","listNew":"2015062510","promoList":"2015051836","promoTitle":"2015051835","recomToggle":true,"recommendBanner":"2015051834","recommendBg":"#83cfff","recommendList":"2015051833","recommendListNew":"2015062511","spm":"1996780493","title":"酒水饮料"}' data-spm="1996780493" data-name="酒水饮料" data-area="">
+	<div class="m-floor">
+		<div class="header"><h2>酒水饮料</h2></div>
+		<div class="content"></div>
+	</div>
+</div>
+
+
+
+<div class="j-mdv-chaoshi j-mdv-chaoshi-floor tm-chaoshi-floorlayout" mdv-cls="chaoshi/mods/floor/floor" mdv-cfg='{"alias":"cybj","area":"","links":"2015051837","list":"cybj","listNew":"2015062512","promoList":"2015051842","promoTitle":"2015051841","recomToggle":true,"recommendBanner":"2015051840","recommendBg":"#c6a868","recommendList":"2015051839","recommendListNew":"2015062513","spm":"1996780494","title":"冲饮保健"}' data-spm="1996780494" data-name="冲饮保健" data-area="">
+	<div class="m-floor">
+		<div class="header"><h2>冲饮保健</h2></div>
+		<div class="content"></div>
+	</div>
+</div>
+
+
+
+<div class="j-mdv-chaoshi j-mdv-chaoshi-floor tm-chaoshi-floorlayout" mdv-cls="chaoshi/mods/floor/floor" mdv-cfg='{"alias":"mmzl","area":"","links":"2015051843","list":"mmzl","listNew":"2015062514","promoList":"2015051848","promoTitle":"2015051847","recomToggle":true,"recommendBanner":"2015051846","recommendBg":"#ffbb00","recommendList":"2015051845","recommendListNew":"2015062515","spm":"1996780481","title":"米面杂粮"}' data-spm="1996780481" data-name="米面杂粮" data-area="">
+	<div class="m-floor">
+		<div class="header"><h2>米面杂粮</h2></div>
+		<div class="content"></div>
+	</div>
+</div>
+
+
+
+<div class="j-mdv-chaoshi j-mdv-chaoshi-floor tm-chaoshi-floorlayout" mdv-cls="chaoshi/mods/floor/floor" mdv-cfg='{"alias":"yptw","area":"","links":"2015051849","list":"yptw","listNew":"2015062516","promoList":"2015051854","promoTitle":"2015051853","recomToggle":true,"recommendBanner":"2015051852","recommendBg":"#f4935f","recommendList":"2015051851","recommendListNew":"2015062517","spm":"2996780482","title":"油品调味"}' data-spm="2996780482" data-name="油品调味" data-area="">
+	<div class="m-floor">
+		<div class="header"><h2>油品调味</h2></div>
+		<div class="content"></div>
+	</div>
+</div>
+
+
+
+<div class="j-mdv-chaoshi j-mdv-chaoshi-floor tm-chaoshi-floorlayout" mdv-cls="chaoshi/mods/floor/floor" mdv-cfg='{"alias":"grqj","area":"","links":"2015051855","list":"grqj","listNew":"2015062518","promoList":"2015051860","promoTitle":"2015051859","recomToggle":true,"recommendBanner":"2015051858","recommendBg":"#6290f6","recommendList":"2015051857","recommendListNew":"2015062519","spm":"2996780337","title":"个人清洁"}' data-spm="2996780337" data-name="个人清洁" data-area="">
+	<div class="m-floor">
+		<div class="header"><h2>个人清洁</h2></div>
+		<div class="content"></div>
+	</div>
+</div>
+
+
+
+<div class="j-mdv-chaoshi j-mdv-chaoshi-floor tm-chaoshi-floorlayout" mdv-cls="chaoshi/mods/floor/floor" mdv-cfg='{"alias":"mrhf","area":"","links":"2015051861","list":"mrhf","listNew":"2015062520","promoList":"2015051866","promoTitle":"2015051865","recomToggle":true,"recommendBanner":"2015051864","recommendBg":"#ff909f","recommendList":"2015051863","recommendListNew":"2015062521","spm":"2996780338","title":"美容护肤"}' data-spm="2996780338" data-name="美容护肤" data-area="">
+	<div class="m-floor">
+		<div class="header"><h2>美容护肤</h2></div>
+		<div class="content"></div>
+	</div>
+</div>
+
+
+
+<div class="j-mdv-chaoshi j-mdv-chaoshi-floor tm-chaoshi-floorlayout" mdv-cls="chaoshi/mods/floor/floor" mdv-cfg='{"alias":"grhl","area":"","links":"2015051867","list":"grhl","listNew":"2015062522","promoList":"2015051872","promoTitle":"2015051871","recomToggle":true,"recommendBanner":"2015051870","recommendBg":"#28cfc1","recommendList":"2015051869","recommendListNew":"2015062523","spm":"2996780339","title":"个人护理"}' data-spm="2996780339" data-name="个人护理" data-area="">
+	<div class="m-floor">
+		<div class="header"><h2>个人护理</h2></div>
+		<div class="content"></div>
+	</div>
+</div>
+
+
+
+<div class="j-mdv-chaoshi j-mdv-chaoshi-floor tm-chaoshi-floorlayout" mdv-cls="chaoshi/mods/floor/floor" mdv-cfg='{"alias":"zzp","area":"","links":"2015051873","list":"zzp","listNew":"2015062524","promoList":"2015051878","promoTitle":"2015051877","recomToggle":true,"recommendBanner":"2015051876","recommendBg":"#f8c374","recommendList":"2015051875","recommendListNew":"2015062525","spm":"1996780329","title":"纸制品"}' data-spm="1996780329" data-name="纸制品" data-area="">
+	<div class="m-floor">
+		<div class="header"><h2>纸制品</h2></div>
+		<div class="content"></div>
+	</div>
+</div>
+
+
+
+<div class="j-mdv-chaoshi j-mdv-chaoshi-floor tm-chaoshi-floorlayout" mdv-cls="chaoshi/mods/floor/floor" mdv-cfg='{"alias":"jtqj","area":"","links":"2015051879","list":"jtqj","listNew":"2015062526","promoList":"2015051884","promoTitle":"2015051883","recomToggle":true,"recommendBanner":"2015051882","recommendBg":"#84aeff","recommendList":"2015051881","recommendListNew":"2015062527","spm":"4996780325","title":"家庭清洁"}' data-spm="4996780325" data-name="家庭清洁" data-area="">
+	<div class="m-floor">
+		<div class="header"><h2>家庭清洁</h2></div>
+		<div class="content"></div>
+	</div>
+</div>
+
+
+
+<div class="j-mdv-chaoshi j-mdv-chaoshi-floor tm-chaoshi-floorlayout" mdv-cls="chaoshi/mods/floor/floor" mdv-cfg='{"alias":"cfyp","area":"","links":"2015051885","list":"cfyp","listNew":"2015062528","promoList":"2015051890","promoTitle":"2015051889","recomToggle":true,"recommendBanner":"2015051888","recommendBg":"#6adea6","recommendList":"2015051887","recommendListNew":"2015062529","spm":"4996780326","title":"厨房用品"}' data-spm="4996780326" data-name="厨房用品" data-area="">
+	<div class="m-floor">
+		<div class="header"><h2>厨房用品</h2></div>
+		<div class="content"></div>
+	</div>
+</div>
+
+
+
+<div class="j-mdv-chaoshi j-mdv-chaoshi-floor tm-chaoshi-floorlayout" mdv-cls="chaoshi/mods/floor/floor" mdv-cfg='{"alias":"jjyp","area":"","links":"2015051891","list":"jjyp","listNew":"2015062530","promoList":"2015051896","promoTitle":"2015051895","recomToggle":true,"recommendBanner":"2015051894","recommendBg":"#c97bff","recommendList":"2015051893","recommendListNew":"2015062531","spm":"4996780327","title":"家居用品"}' data-spm="4996780327" data-name="家居用品" data-area="">
+	<div class="m-floor">
+		<div class="header"><h2>家居用品</h2></div>
+		<div class="content"></div>
+	</div>
+</div>
+
+
+
+<div class="j-mdv-chaoshi j-mdv-chaoshi-floor tm-chaoshi-floorlayout" mdv-cls="chaoshi/mods/floor/floor" mdv-cfg='{"alias":"jyfz","area":"","links":"2015051897","list":"jyfz","listNew":"2015062532","promoList":"20150518102","promoTitle":"20150518101","recomToggle":true,"recommendBanner":"20150518100","recommendBg":"#f59cec","recommendList":"2015051899","recommendListNew":"2015062533","spm":"1996780321","title":"家用纺织"}' data-spm="1996780321" data-name="家用纺织" data-area="">
+	<div class="m-floor">
+		<div class="header"><h2>家用纺织</h2></div>
+		<div class="content"></div>
+	</div>
+</div>
+
+
+
+<div class="j-mdv-chaoshi j-mdv-chaoshi-floor tm-chaoshi-floorlayout" mdv-cls="chaoshi/mods/floor/floor" mdv-cfg='{"alias":"shdq","area":"","links":"20150518103","list":"shdq","listNew":"2015062534","promoList":"20150518108","promoTitle":"20150518107","recomToggle":true,"recommendBanner":"20150518106","recommendBg":"#5095fc","recommendList":"20150518105","recommendListNew":"2015062535","spm":"1996768917","title":"生活电器"}' data-spm="1996768917" data-name="生活电器" data-area="">
+	<div class="m-floor">
+		<div class="header"><h2>生活电器</h2></div>
+		<div class="content"></div>
+	</div>
+</div>
+
+
+
+<div class="j-mdv-chaoshi j-mdv-chaoshi-floor tm-chaoshi-floorlayout" mdv-cls="chaoshi/mods/floor/floor" mdv-cfg='{"alias":"bgyp","area":"","links":"20150518109","list":"bgyp","listNew":"2015062536","promoList":"20150518114","promoTitle":"20150518113","recomToggle":true,"recommendBanner":"20150518112","recommendBg":"#49bcb0","recommendList":"20150518111","recommendListNew":"2015062537","spm":"1996768918","title":"办公用品"}' data-spm="1996768918" data-name="办公用品" data-area="">
+	<div class="m-floor">
+		<div class="header"><h2>办公用品</h2></div>
+		<div class="content"></div>
+	</div>
+</div>
+
+
+
+<div class="j-mdv-chaoshi j-mdv-chaoshi-floor tm-chaoshi-floorlayout" mdv-cls="chaoshi/mods/floor/floor" mdv-cfg='{"alias":"myyp","area":"","links":"20150518115","list":"myyp","listNew":"2015062538","promoList":"20150518120","promoTitle":"20150518119","recomToggle":true,"recommendBanner":"20150518118","recommendBg":"#ff77ad","recommendList":"20150518117","recommendListNew":"2015062539","spm":"1996768919","title":"母婴用品"}' data-spm="1996768919" data-name="母婴用品" data-area="">
+	<div class="m-floor">
+		<div class="header"><h2>母婴用品</h2></div>
+		<div class="content"></div>
+	</div>
+</div>
+
+
+</div>
+    <style>
+    /*pub-1|2014-01-22 16:11:04*/
+.tm-chaoshi-shortcut .shortcut {
+  background-color: #efefef;
+  border-top: 1px solid #e4e4e4;
+  padding: 20px 0;
+  font-size: 12px;
+  line-height: 1.5
+}
+
+.tm-chaoshi-shortcut .shortcut * {
+  margin: 0;
+  padding: 0
+}
+
+.tm-chaoshi-shortcut .shortcut ul {
+  width: 1190px;
+  margin: 0 auto;
+  overflow: hidden
+}
+
+.tm-chaoshi-shortcut .shortcut ul {
+  *zoom: 1
+}
+
+.tm-chaoshi-shortcut .shortcut ul:after {
+  display: block;
+  clear: both;
+  height: 0;
+  content: ' '
+}
+
+.tm-chaoshi-shortcut .shortcut li {
+  float: left;
+  height: 95px;
+  width: 197px;
+  padding: 20px;
+  border-left: 1px solid #e4e4e4;
+  margin-left: -1px;
+  list-style: none
+}
+
+.tm-chaoshi-shortcut .shortcut li h3 {
+  font-family: \5FAE\8F6F\96C5\9ED1;
+  font-size: 16px;
+  color: #e8394e
+}
+
+.tm-chaoshi-shortcut .shortcut li h3 i {
+  margin-right: 5px;
+  font-size: 25px;
+  vertical-align: -2px
+}
+
+.tm-chaoshi-shortcut .shortcut li p a {
+  margin-bottom: 5px;
+  float: left;
+  width: 50%;
+  color: #444;
+  text-decoration: none
+}
+
+.tm-chaoshi-shortcut .shortcut li p a:hover {
+  color: #e8394e
+}
+
+.Banzdy {
+  width: 1000px;
+  margin: 0 auto;
+  padding: 0;
+  height: auto;
+  overflow: hidden;
+  clear: both
+}
+
+.Banzdy ul, .Banzdy li, .Banzdy em {
+  height: auto;
+  margin: 0;
+  padding: 0;
+  list-style: none outside none
+}
+
+.Banzdy img {
+  border: 0;
+  display: block
+}
+
+.Banzdy a {
+  text-decoration: none
+}
+
+.Banzdy img {
+  float: left;
+  margin: 0 6px 10px 4px;
+  display: inline-block
+}
+</style>
+
+<div class="tb-module  tm-chaoshi-shortcut">
+    <!-- 超市底部快捷人口 -->
+    <div class="shortcut">
+        <ul>
+            
+        </ul>
+    </div>
+</div>
+
+
+
+</div>
+
+
+
+
+    <div class="mui-global-footer-bottom-banner">
+        <!--lidiB begin -->
+
+<!--lidiB end -->
+    </div>
+
+<div id="footer" data-spm="a2226n1">
+    
+    
+    <div id="tmall-desc">
+        
+            
+                 <style>
+
+    @media (max-width: 1280px) {
+    #tmall-ensure {
+        width:990px !important;
+        background-image: url(//img.alicdn.com/tps/i2/T1vYemFC0eXXcnC4Lh-990-100.jpg)
+    }
+
+    #tmall-ensure a {
+        width: 247px
+    }
+
+    #tmall-desc {
+        width:990px !important;
+        background-position: 12px bottom;
+    }
+
+    #tmall-desc dl {
+        padding-left: 15px;
+        width: 200px
+    }
+
+    #tmall-desc #mobile {
+        width: 110px
+    }
+
+    #tmall-copyright .footer-tmallinfo,#tmall-copyright .footer-otherlink,#tmall-copyright .footer-copyright {
+        width: 990px
+    }
+}
+
+</style>
+<img src="//img.alicdn.com/tps/i2/TB1ijJ1HFXXXXayXVXXFq5g_FXX-112-40.png" class="logo"/>
+<dl id="beginner">
+    <dt><span><a href="//www.tmall.com/wow/chaoshi/act/help-gouwuzhinan?spm=a312d.7832034.0.0.Fe3sLx">购物指南</a></span></dt>
+    <dd>
+        <a href="//www.tmall.com/wow/chaoshi/act/help-gouwuzhinan?spm=a312d.7832034.0.0.Fe3sLx#dh1" target="_blank"><i></i>购物流程</a>
+        <a class="chaoshi-highlight" href="//service.tmall.com/support/tmall/knowledge-1137790.htm?spm=a3204.7843358.5906693.23.CIA5Jh"><i></i>配送时效说明</a>
+        <a class="chaoshi-highlight" href="//service.tmall.com/support/tmall/knowledge-1137790.htm?spm=a3204.7843358.5906693.23.CIA5Jh"><i></i>配送区域及费用</a>
+        <a class="chaoshi-highlight" href="//service.tmall.com/support/tmall/knowledge-5695577.htm" target="_blank"><i></i>购买生鲜须知</a>
+        <a href="//service.tmall.com/support/tmall/knowledge-5529465.htm?spm=a3204.7843358.5906693.28.s3noiz" target="_blank"><i></i>发票流程</a>
+    </dd>
+</dl>
+<dl id="saleservice">
+    <dt><span><a href="//www.tmall.com/wow/chaoshi/act/help-shouhoufuwu?spm=a3204.7843358.5906693.8.pmRqaP">售后服务</a></span></dt>
+    <dd>
+        <a href="//service.tmall.com/support/tmall/knowledge-1137792.htm?spm=a3204.7843371.5906693.9.qfbQpn" target="_blank"><i></i>退货规则</a>
+        <a href="//www.tmall.com/wow/chaoshi/act/help-shouhoufuwu?spm=a3204.7843358.5906693.8.pmRqaP#dh3" target="_blank"><i></i>退货指南</a>
+        <a href="//service.tmall.com/support/tmall/knowledge-5415346.htm" target="_blank"><i></i>保质期说明</a>
+        <a href="//service.tmall.com/support/tmall/knowledge-5650874.htm" target="_blank"  style="white-space: nowrap;width: 103px;"><i></i>联系客服</a>
+    </dd>
+</dl>
+<dl id="payment">
+    <dt><span><a href="//www.tmall.com/wow/chaoshi/act/help-zizhufuwu?spm=a3204.7843371.5906693.13.wz4NsW">自助服务</a></span></dt>
+    <dd>
+        <a href="//trade.taobao.com/trade/itemlist/list_bought_items.htm" target="_blank"><i></i>订单物流查询</a>
+        <a href="//chaoshi.tmall.com/cart/my_cart.htm?spm=3.405264.0.791.Bg1frD&tp_id=725677994" target="_blank"><i></i>我的购物车</a>
+        <a href="//ecrm.taobao.com/mallcoupon/got_bonus.htm?spm=a1z09.2.a2109.d1000376.pIvZYG&nekot=1366359455986" target="_blank"><i></i>我的现金券</a>
+        <a href="//service.tmall.com/support/tmall/knowledge-5529466.htm" target="_blank"><i></i>购物常见问题</a>
+        <a class="chaoshi-highlight" href="//feedback.taobao.com/pc/feedbacks?productId=335&source=chaoshi.tmall" target="_blank"><i></i>建议反馈</a>
+    </dd>
+</dl>
+
+<dl id="about">
+    <dt><span><a href="//www.tmall.com/wow/chaoshi/act/help-shangjiafuwu?spm=a3204.7843387.5906693.19.Wzlo6D">商家服务</a></span></dt>
+    <dd>
+        <a href="//service.tmall.com/support/tmall/knowledge-1137800.htm" target="_blank"><i></i>关于天猫超市</a>
+        <a class="chaoshi-highlight" href="//www.tmall.com/wow/chaoshi/act/chaoshi-rjru" target="_blank"><i></i>入驻天猫超市</a>
+        <a href="//www.tmall.com/wow/chaoshi/act/help-shangjiafuwu?spm=a3204.7843387.5906693.19.Wzlo6D#dh3" target="_blank"><i></i>商家常见问题</a>
+    </dd>
+</dl>
+
+<dl class="tmall-mobile" id="mobile">
+    <dt>随时随地逛</dt>
+    <dd>
+        <a href="//chaoshi.m.tmall.com/" class="join"><img src="//gtms03.alicdn.com/tps/i3/T1zuSAFRJbXXaSJVsE-115-115.png" alt="随时随地逛"/></a>
+    </dd>
+</dl>
+            
+        
+    </div>
+    <div id="tmall-copyright">
+        <div class="mui-global-fragment-load" data-fragment="tmbase/mui_footer_link"></div>
+    </div>
+    
+</div>
+</div>
+
+    <script>window.g_config = window.g_config || {};window.g_config.seed = window.g_config.seed || {"packages":{"kissy":{"base":"//g.alicdn.com/kissy/k/1.4.14/","version":"1.4.14"},"mui/babel-polyfill":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/babel-polyfill/6.2.4/","version":"6.2.4","name":"mui/babel-polyfill","base":"//g.alicdn.com/mui/babel-polyfill/6.2.4/"},"mui/chaoshi-address":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/chaoshi-address/4.1.5/","version":"4.1.5"},"mui/chaoshi-ald":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/chaoshi-ald/4.1.11/","version":"4.1.11","name":"mui/chaoshi-ald","base":"//g.alicdn.com/mui/chaoshi-ald/4.1.11/"},"mui/chaoshi-app":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/chaoshi-app/4.0.20/","version":"4.0.20","name":"mui/chaoshi-app","base":"//g.alicdn.com/mui/chaoshi-app/4.0.20/"},"mui/chaoshi-city-selector":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/chaoshi-city-selector/4.0.14/","version":"4.0.14","name":"mui/chaoshi-city-selector","base":"//g.alicdn.com/mui/chaoshi-city-selector/4.0.14/"},"mui/chaoshi-daily-sale":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/chaoshi-daily-sale/4.0.1/","version":"4.0.1"},"mui/chaoshi-sync":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/chaoshi-sync/4.1.7/","version":"4.1.7","name":"mui/chaoshi-sync","base":"//g.alicdn.com/mui/chaoshi-sync/4.1.7/"},"mui/city-selector":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/city-selector/4.0.10/","version":"4.0.10"},"mui/common":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/common/4.0.87/","version":"4.0.87","name":"mui/common","base":"//g.alicdn.com/mui/common/4.0.87/"},"mui/cookie":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/cookie/4.1.0/","version":"4.1.0","name":"mui/cookie","base":"//g.alicdn.com/mui/cookie/4.1.0/"},"mui/countdown":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/countdown/4.0.3/","version":"4.0.3"},"mui/cover":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/cover/4.0.1/","version":"4.0.1"},"mui/crossimage":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/crossimage/4.1.6/","version":"4.1.6"},"mui/ctk":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/ctk/4.0.6/","version":"4.0.6"},"mui/custom-event":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/custom-event/4.0.3/","version":"4.0.3","name":"mui/custom-event","base":"//g.alicdn.com/mui/custom-event/4.0.3/"},"mui/datalazyload":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/datalazyload/4.0.21/","version":"4.0.21","name":"mui/datalazyload","base":"//g.alicdn.com/mui/datalazyload/4.0.21/"},"mui/dialog":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/dialog/4.0.4/","version":"4.0.4"},"mui/feloader":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/feloader/4.0.30/","version":"4.0.30","name":"mui/feloader","base":"//g.alicdn.com/mui/feloader/4.0.30/"},"mui/fetch":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/fetch/4.1.11/","version":"4.1.11","name":"mui/fetch","base":"//g.alicdn.com/mui/fetch/4.1.11/"},"mui/flipsnap":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/flipsnap/4.0.1/","version":"4.0.1","name":"mui/flipsnap","base":"//g.alicdn.com/mui/flipsnap/4.0.1/"},"mui/global-nav":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/global-nav/4.0.3/","version":"4.0.3"},"mui/hybrid":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/hybrid/4.0.60/","version":"4.0.60"},"mui/innerfbk":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/innerfbk/4.0.3/","version":"4.0.3"},"mui/jquery":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/jquery/4.0.1/","version":"4.0.1"},"mui/kissy":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/kissy/4.0.10/","version":"4.0.10","name":"mui/kissy","base":"//g.alicdn.com/mui/kissy/4.0.10/"},"mui/kissy-polyfill":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/kissy-polyfill/4.0.15/","version":"4.0.15","name":"mui/kissy-polyfill","base":"//g.alicdn.com/mui/kissy-polyfill/4.0.15/"},"mui/lazyload":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/lazyload/4.1.5/","version":"4.1.5"},"mui/md5":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/md5/4.0.1/","version":"4.0.1"},"mui/minicart":{"debug":true,"ignorePackageNameInUri":true,"notUseGConfigPath":true,"path":"//g.alicdn.com/mui/minicart/3.0.32/","version":"3.0.32"},"mui/mtb-windvane":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/mtb-windvane/4.0.3/","version":"4.0.3","name":"mui/mtb-windvane","base":"//g.alicdn.com/mui/mtb-windvane/4.0.3/"},"mui/mtop":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/mtop/4.0.25/","version":"4.0.25","name":"mui/mtop","base":"//g.alicdn.com/mui/mtop/4.0.25/"},"mui/pagination":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/pagination/4.0.1/","version":"4.0.1"},"mui/popbox":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/popbox/4.0.6/","version":"4.0.6","name":"mui/popbox","base":"//g.alicdn.com/mui/popbox/4.0.6/"},"mui/prompt":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/prompt/4.0.0/","version":"4.0.0"},"mui/pull-to-request":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/pull-to-request/4.0.2/","version":"4.0.2"},"mui/slide":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/slide/4.0.3/","version":"4.0.3","name":"mui/slide","base":"//g.alicdn.com/mui/slide/4.0.3/"},"mui/sticky":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/sticky/4.0.4/","version":"4.0.4"},"mui/storage":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/storage/4.0.1/","version":"4.0.1"},"mui/tes":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/tes/4.2.9/","version":"4.2.9"},"mui/xtemplate":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/xtemplate/4.0.10/","version":"4.0.10","name":"mui/xtemplate","base":"//g.alicdn.com/mui/xtemplate/4.0.10/"},"mui/zebra-dynamic":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/zebra-dynamic/4.1.33/","version":"4.1.33"},"mui/zepto":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/zepto/4.0.7/","version":"4.0.7","name":"mui/zepto","base":"//g.alicdn.com/mui/zepto/4.0.7/"},"tm/chaoshi":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/tm/chaoshi/4.1.26/","version":"4.1.26","name":"tm/chaoshi","base":"//g.alicdn.com/tm/chaoshi/4.1.26/"},"mui/bucket":{"debug":true,"ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/bucket/3.0.4/","version":"3.0.4"},"mui/common-script":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/common-script/4.0.1/","version":"4.0.1"},"mui/mallbar":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/mallbar/3.2.24/","version":"3.2.24"},"mui/minilogin":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/minilogin/4.1.5/","version":"4.1.5"},"mui/searchbar":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/searchbar/3.3.29/","version":"3.3.29"},"mui/view-port-listen":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/view-port-listen/4.0.3/","version":"4.0.3"},"zebra-solution/common-seed":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/common-seed/1.0.8/","version":"1.0.8"},"mui/bat":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/bat/4.0.8/","version":"4.0.8","name":"mui/bat","base":"//g.alicdn.com/mui/bat/4.0.8/"},"zebra-solution/common-monitor":{"debug":true,"group":"tm","ignorePackageNameInUri":true,"path":"//g.alicdn.com/mui/common-monitor/1.0.9/","version":"1.0.9"}},"modules":{"mui/chaoshi-address/division":{"xtpl":{"requires":["mui/xtemplate/runtime"]}},"mui/chaoshi-address/index":{"requires":["mui/zepto/zepto","mui/zepto/event","mui/zepto/touch","mui/prompt/indicator/index","mui/chaoshi-address/index.css","mui/babel-polyfill/index","mui/custom-event/index","./index.xtpl","./division.xtpl","mui/fetch/jsonp"],"xtpl":{"requires":["mui/xtemplate/runtime"]}},"mui/chaoshi-ald/index":{"requires":["mui/mtop/index","mui/custom-event/index","mui/chaoshi-app/site-info","mui/zebra-dynamic/ald-bottom"]},"mui/chaoshi-app/city-code":{"requires":["mui/babel-polyfill/index","mui/cookie/index"]},"mui/chaoshi-app/oc":{"requires":["mui/mtop/index","./site-info"]},"mui/chaoshi-app/site-info":{"requires":["mui/babel-polyfill/index","mui/cookie/index"]},"mui/chaoshi-app/user-info":{"requires":["mui/babel-polyfill/index","mui/mtop/index"]},"mui/chaoshi-city-selector/city-list":{"requires":["mui/mtop/index"]},"mui/chaoshi-city-selector/index":{"requires":["mui/prompt/indicator/index","mui/city-selector/selector","mui/chaoshi-app/site-info","./set-city","./city-list","mui/mtop/index"]},"mui/chaoshi-city-selector/set-city":{"requires":["mui/fetch/jsonp","mui/hybrid/index"]},"mui/chaoshi-daily-sale/index":{"requires":["mui/babel-polyfill/index","mui/zepto/event","mui/mtop/index","mui/datalazyload/index","mui/chaoshi-sync/price-inventory","mui/chaoshi-daily-sale/items.tpl.xtpl","./pullRequest","mui/chaoshi-daily-sale/index.css"]},"mui/chaoshi-daily-sale/items":{"tpl":{"xtpl":{"requires":["mui/xtemplate/runtime"]}}},"mui/chaoshi-daily-sale/pullRequest":{"requires":["mui/zepto/event"]},"mui/chaoshi-sync/index":{"requires":["./inventory-act","./price-inventory"]},"mui/chaoshi-sync/index-pc":{"requires":["./index"]},"mui/chaoshi-sync/inventory-act":{"requires":["./util","mui/mtop/index","mui/chaoshi-app/site-info","mui/zepto/zepto"]},"mui/chaoshi-sync/price-inventory":{"requires":["./util","mui/mtop/index","mui/chaoshi-app/site-info","mui/zepto/zepto"]},"mui/city-selector/divisionchild":{"xtpl":{"requires":["mui/xtemplate/runtime"]}},"mui/city-selector/gps":{"requires":["mui/hybrid/index","mui/dialog/index"]},"mui/city-selector/index":{"requires":["mui/zepto/zepto","mui/zepto/event","mui/cover/sliding-menu/index","mui/city-selector/index.xtpl","mui/prompt/indicator/index","mui/custom-event/index","mui/city-selector/index.css"],"xtpl":{"requires":["mui/xtemplate/runtime"]}},"mui/city-selector/letterbar":{"xtpl":{"requires":["mui/xtemplate/runtime"]}},"mui/city-selector/selector":{"requires":["mui/zepto/zepto","mui/zepto/event","mui/zepto/touch","mui/cover/sliding-menu/index","mui/city-selector/selector.xtpl","mui/city-selector/letterbar.xtpl","mui/prompt/indicator/index","mui/custom-event/index","mui/city-selector/selector.css","mui/babel-polyfill/index"],"xtpl":{"requires":["mui/xtemplate/runtime"]}},"mui/countdown/index":{"requires":["mui/zepto/zepto"],"xtpl":{"requires":["mui/xtemplate/index"]}},"mui/cover/index":{"requires":["mui/zepto/zepto","mui/custom-event/index","mui/cover/index.css"]},"mui/cover/sliding-menu/index":{"requires":["mui/zepto/event","mui/cover/index","mui/cover/sliding-menu/index.css"]},"mui/crossimage/index":{"requires":["mui/babel-polyfill/index"]},"mui/datalazyload/index":{"requires":["mui/zepto/zepto","mui/zepto/event"]},"mui/dialog/index":{"requires":["./index.css","mui/zepto/touch"]},"mui/fetch/fetch":{"requires":["mui/babel-polyfill/index"]},"mui/fetch/iframePostForm":{"requires":["mui/zepto/zepto"]},"mui/fetch/jsonp":{"requires":["mui/fetch/fetch","mui/fetch/tool"]},"mui/lazyload/index":{"requires":["mui/babel-polyfill/index"]},"mui/minicart/chaoshi/cart":{"requires":["dom","event","anim","mui/minicart/model","mui/minicart/util","mui/minicart/fly","mui/minicart/modelext","mui/minicart/chaoshi/cart.css"]},"mui/minicart/fly":{"requires":["dom","event","anim"]},"mui/minicart/fullext":{"requires":["mui/minicart/proxy","mui/minicart/modelext","mui/minicart/minicartext"]},"mui/minicart/minicart":{"requires":["dom","event","anim","ua","mui/minicart/model","mui/minicart/util","mui/minicart/minicart.css"]},"mui/minicart/minicartext":{"requires":["dom","event","anim","json","ua","ajax","mui/minicart/minicart","mui/minicart/model","mui/minicart/util"]},"mui/minicart/model":{"requires":["ajax","base","json","event","promise","mui/minilogin/"]},"mui/minicart/modelext":{"requires":["json","mui/minicart/model"]},"mui/minicart/proxy":{"requires":["dom","ajax"]},"mui/minicart/trip/cart":{"requires":["dom","event","anim","ua","cookie","mui/minicart/model","mui/minicart/util","mui/minicart/fly","mui/minicart/trip/cart.css"]},"mui/minicart/trip/cartext":{"requires":["dom","event","anim","json","ua","ajax","mui/minicart/trip/cart","mui/minicart/model","mui/minicart/util"]},"mui/minicart/trip/fullext":{"requires":["mui/minicart/proxy","mui/minicart/modelext","mui/minicart/trip/cartext"]},"mui/minicart/util":{"requires":["dom"]},"mui/mtop/index":{"requires":["mui/mtb-windvane/","mui/babel-polyfill/"]},"mui/mtop/storage-middleware":{"requires":["mui/babel-polyfill/"]},"mui/pagination/index":{"requires":["mui/zepto/zepto","mui/zepto/event","mui/xtemplate/index","mui/pagination/themes/front_big","./paginate/index"],"xtpl":{"requires":["mui/xtemplate/index"]}},"mui/pagination/paginate/index":{"requires":["./isNatural"]},"mui/pagination/themes/back_big":{"requires":["../back.css","../btn.css"]},"mui/pagination/themes/back_middle":{"requires":["../back.css","../btn.css"]},"mui/pagination/themes/back_mini":{"requires":["../back.css","../btn.css"]},"mui/pagination/themes/back_mini_input":{"requires":["../back.css"]},"mui/pagination/themes/front_big":{"requires":["../front.css","../btn.css"]},"mui/prompt/indicator/index":{"requires":["mui/zepto/zepto","mui/prompt/css/loading.css","mui/prompt/css/indicator/index.css"]},"mui/prompt/loading":{"requires":["mui/zepto/zepto","mui/custom-event/index"]},"mui/slide/base":{"requires":["./utils/assign"]},"mui/slide/carousel":{"requires":["./slide","./flipsnap"]},"mui/slide/crossfade":{"requires":["./base","./utils/assign","./utils/dom_event","./utils/"]},"mui/slide/flipsnap":{"requires":["./utils/dom_event","mui/flipsnap/","./utils/"]},"mui/slide/index":{"requires":["./slide","./carousel","./crossfade","./mixins/autoplay","./mixins/pointmove"]},"mui/slide/index-pc":{"requires":["./polyfill","./index"]},"mui/slide/mixins/autoplay":{"requires":["./events","../utils/viewport"]},"mui/slide/mixins/events":{"requires":["../utils/dom_event","../utils/assign"]},"mui/slide/mixins/pointmove":{"requires":["./events"]},"mui/slide/polyfill":{"requires":["mui/babel-polyfill/index","./ie8"]},"mui/slide/slide":{"requires":["./base","mui/flipsnap/"]},"mui/xtemplate/compiler":{"requires":["./runtime","./compiler/tools","./compiler/parser","./compiler/ast"]},"mui/xtemplate/index":{"requires":["./runtime","./compiler"]},"mui/xtemplate/runtime":{"requires":["./runtime/util","./runtime/commands","./runtime/scope","./runtime/linked-buffer"]},"mui/xtemplate/runtime/commands":{"requires":["./scope","./util"]},"mui/xtemplate/runtime/linked-buffer":{"requires":["./util"]},"mui/xtemplate/runtime/util":{"requires":["./escape-html"]},"mui/zebra-dynamic/ald-bottom":{"requires":["mui/zebra-dynamic/io"]},"mui/zebra-dynamic/channel":{"requires":["mui/zepto/touch","mui/zebra-dynamic/request"]},"mui/zebra-dynamic/detector":{"requires":["mui/hybrid/index"]},"mui/zebra-dynamic/index":{"requires":["mui/zepto/touch","mui/zebra-dynamic/request"]},"mui/zebra-dynamic/io":{"requires":["mui/mtop/index","mui/zepto/zepto"]},"mui/zebra-dynamic/request":{"requires":["mui/zebra-dynamic/io","mui/zepto/touch","mui/zebra-dynamic/ald-bottom","mui/fetch/tool"]},"mui/zepto/event":{"requires":["mui/zepto/zepto"]},"mui/zepto/form":{"requires":["mui/zepto/zepto"]},"mui/zepto/fx":{"requires":["mui/zepto/zepto"]},"mui/zepto/fx_methods":{"requires":["mui/zepto/zepto","mui/zepto/fx"]},"mui/zepto/gesture":{"requires":["mui/zepto/zepto"]},"mui/zepto/ie":{"requires":["mui/zepto/zepto"]},"mui/zepto/selector":{"requires":["mui/zepto/zepto"]},"mui/zepto/stack":{"requires":["mui/zepto/zepto"]},"mui/zepto/touch":{"requires":["mui/zepto/zepto","mui/zepto/event"]},"tm/chaoshi-m/pages/welfare-pc3/lottery/popup":{"requires":["base","node","./overlay"]},"tm/chaoshi/app":{"requires":["mui/zepto/event","mui/chaoshi-app/site-info","mui/chaoshi-app/user-info","mui/fetch/jsonp","tm/chaoshi/mods/category/index","tm/chaoshi/mods/cart/index","mui/babel-polyfill/index"]},"tm/chaoshi/control/cart":{"requires":["dom","event","mui/minicart/model","mui/minicart/util","mui/minicart/fly","mui/minicart/modelext","tm/chaoshi/control/cart.css"]},"tm/chaoshi/control/cartTooltip":{"requires":["dom","event","tm/chaoshi/control/cartTooltip.tpl","tm/chaoshi/control/cartTooltip.css"],"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/control/floatbar":{"requires":["mui/jquery/jquery"]},"tm/chaoshi/control/list":{"requires":["dom","event","io"]},"tm/chaoshi/control/smartFloater":{"requires":["dom","event","tm/chaoshi/control/floatbar"]},"tm/chaoshi/control/toggleProp":{"requires":["dom","event"]},"tm/chaoshi/control/tree":{"requires":["dom","event","io"]},"tm/chaoshi/mods/beijing/index":{"requires":["base","./index.tpl","./index.css"],"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/beijing/is":{"requires":["mui/server/"]},"tm/chaoshi/mods/beijing/result":{"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/bought/bought":{"requires":["./bought.tpl","./category.tpl","mui/popbox/index","../resource/index","mui/chaoshi-app/site-info","mui/chaoshi-app/user-info","mui/zepto/zepto"],"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/bought/category":{"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/browsed/browsed":{"requires":["./browsed.tpl","../resource/index","mui/chaoshi-app/site-info","mui/chaoshi-app/user-info","mui/zepto/zepto"],"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/card-charge/charge":{"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/card-charge/chargeSuccess":{"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/card-charge/index":{"requires":["mui/zepto/event","mui/mtop/index","mui/popbox/index","mui/custom-event/index","./charge.tpl","./chargeSuccess.tpl","./index.css"]},"tm/chaoshi/mods/card/bindRecord":{"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/card/consumeRecord":{"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/card/index":{"requires":["mui/zepto/event","mui/mtop/index","mui/custom-event/index","mui/pagination/index","./bindRecord.tpl","./consumeRecord.tpl","./index.css"]},"tm/chaoshi/mods/cart/cart":{"requires":["mui/minicart/model","mui/minicart/util","mui/minicart/fly","mui/fetch/jsonp","mui/zepto/zepto","mui/custom-event/index","tm/chaoshi/mods/cart/cart.css","mui/minicart/modelext"]},"tm/chaoshi/mods/cart/cartTooltip":{"requires":["tm/chaoshi/mods/cart/cartTooltip.tpl","tm/chaoshi/mods/cart/cartTooltip.css","mui/zepto/zepto"],"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/cart/index":{"requires":["mui/chaoshi-app/site-info","tm/chaoshi/mods/util/util","mui/zepto/touch","mui/popbox/index-pc","mui/fetch/jsonp","mui/chaoshi-city-selector/city-list"]},"tm/chaoshi/mods/cart/modelext":{"requires":["json","mui/minicart/model"]},"tm/chaoshi/mods/category/index":{"requires":["mui/zepto/zepto","mui/chaoshi-app/site-info","mui/chaoshi-app/user-info","mui/fetch/jsonp","tm/chaoshi/mods/category/popup.tpl","tm/chaoshi/mods/category/index.tpl"],"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/category/popup":{"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/coupon-widget/coupon-widget":{"requires":["mui/popbox/index-pc","mui/custom-event/index","mui/fetch/jsonp","./coupon-widget.css","mui/zepto/zepto"]},"tm/chaoshi/mods/daily-sale-switch/index":{"requires":["mui/zepto/event","mui/mtop/index","tm/chaoshi/mods/util/util","mui/chaoshi-daily-sale/index","mui/chaoshi-app/site-info","./sticky","./tabs.tpl","./itemCon.tpl"]},"tm/chaoshi/mods/daily-sale-switch/itemCon":{"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/daily-sale-switch/sticky":{"requires":["mui/zepto/event"]},"tm/chaoshi/mods/daily-sale-switch/tabs":{"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/direction-top/index":{"requires":["mui/chaoshi-ald/","./index.tpl","mui/zepto/zepto"],"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/featured/featured":{"requires":["./featured.tpl","mui/chaoshi-ald/","mui/fetch/jsonp","mui/datalazyload/","mui/chaoshi-sync/price-inventory","mui/zepto/event"],"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/float-ad/float-ad":{"requires":["mui/zepto/zepto","mui/chaoshi-ald/index","./float-ad.tpl"],"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/floor-hk/floor":{"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/floor-hk/index":{"requires":["./floor.tpl","mui/chaoshi-ald/","mui/chaoshi-app/site-info","mui/fetch/jsonp","mui/datalazyload/","mui/chaoshi-sync/price-inventory","mui/zepto/event"]},"tm/chaoshi/mods/floor/floor":{"requires":["node","base","io","./floor.tpl","tm/chaoshi/widgets/chaoshi-ald/fallback","./floor.css"],"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/floor/index":{"requires":["./floor.tpl","mui/chaoshi-ald/","mui/chaoshi-app/site-info","mui/fetch/jsonp","mui/datalazyload/","mui/chaoshi-sync/price-inventory","mui/zepto/event","./floor.css"]},"tm/chaoshi/mods/hongbao/index":{"requires":["node","./is","./index.css"]},"tm/chaoshi/mods/hongbao/is":{"requires":["mui/server/"]},"tm/chaoshi/mods/hot-buy/hot-buy":{"requires":["./hot-buy.tpl","../resource/index","mui/chaoshi-app/site-info","mui/chaoshi-app/user-info","mui/zepto/zepto"],"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/lift/lift":{"requires":["./lift.tpl","mui/zepto/zepto","mui/zepto/fx","./scrollto"],"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/list-recommend/index":{"requires":["tm/chaoshi/widgets/lazyload/","tm/chaoshi/widgets/chaoshi-ald/","tm/chaoshi-common-m/app/site-info","./index.tpl","./index.css"],"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/lottery-broadcast/lottery-broadcast":{"requires":["mui/zepto/zepto","../lottery-model/index","./lottery-broadcast.tpl","../../widgets/event-emitter/event-emitter","mui/zepto/fx"],"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/lottery-index/lottery-index":{"requires":["mui/chaoshi-app/site-info","mui/fetch/jsonp","mui/zepto/zepto"]},"tm/chaoshi/mods/lottery-mine/lottery-mine":{"requires":["mui/zepto/zepto","../lottery-model/index","./lottery-mine.tpl","mui/countdown/index","mui/zepto/fx"],"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/lottery-model/index":{"requires":["mui/fetch/jsonp","../../mods/util/util"]},"tm/chaoshi/mods/lottery/golden-card":{"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/lottery/helper":{"requires":["mui/fetch/jsonp","mui/fetch/tool"]},"tm/chaoshi/mods/lottery/index":{"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/lottery/item":{"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/lottery/item-or-coupon-popup":{"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/lottery/lottery":{"requires":["mui/zepto/zepto","../../widgets/event-emitter/event-emitter","mui/chaoshi-sync/index-pc","../../mods/util/util","./item.tpl","./item-or-coupon-popup.tpl","./pop-pkg.tpl","./golden-card.tpl","mui/popbox/index-pc","mui/countdown/","../../mods/cart/cart","./overlay","../../mods/lottery-model/index","./helper","mui/zepto/fx"]},"tm/chaoshi/mods/lottery/overlay":{"requires":["mui/zepto/zepto"]},"tm/chaoshi/mods/lottery/pop-pkg":{"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/lottery/undergoing-btn":{"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/market/market":{"requires":["mui/chaoshi-ald/","./market.tpl","mui/zepto/zepto"],"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/navbar/index":{"requires":["./info","mui/chaoshi-app/site-info","mui/zepto/zepto","./index.css"]},"tm/chaoshi/mods/navbar/info":{"requires":["mui/chaoshi-ald/"]},"tm/chaoshi/mods/recommend-activity/index":{"requires":["base","tm/chaoshi/widgets/chaoshi-ald/","./index.tpl","./index.css"],"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/resource/index":{"requires":["mui/fetch/jsonp","mui/fetch/fetch","mui/fetch/tool"]},"tm/chaoshi/mods/search-hot/index":{"requires":["mui/chaoshi-ald/","./index.tpl","mui/zepto/zepto","./index.css"],"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/sidebar/sidebar":{"requires":["mui/chaoshi-ald/","./sidebar.tpl","mui/zepto/zepto"],"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/site-notice/index":{"requires":["mui/chaoshi-ald/","./index.tpl","mui/zepto/zepto","./index.css"],"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/slide/slide":{"requires":["mui/slide/index-pc","mui/chaoshi-ald/","mui/zepto/zepto"],"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/slide/slide-hk":{"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/slider/slider":{"requires":["node","tm/chaoshi/widgets/view/view","tm/chaoshi/widgets/chaoshi-ald/","./slider.tpl","mui/slider/"],"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/top/top":{"requires":["node","tm/chaoshi/widgets/server/server","./top.tpl","./top.css"],"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/mods/udp959104/udp959104":{"requires":["node","tm/chaoshi/widgets/server/server","tm/chaoshi/mods/util/util"]},"tm/chaoshi/mods/welfare-mine/index":{"requires":["mui/zepto/zepto","mui/countdown/","mui/chaoshi-sync/index-pc","../../mods/lottery/helper","../../mods/welfare-mine/index.tpl","mui/zepto/event"],"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/pages/bought/index":{"requires":["../../app","mui/zepto/zepto"]},"tm/chaoshi/pages/browsed/index":{"requires":["../../app","mui/zepto/zepto"]},"tm/chaoshi/pages/card-charge/index":{"requires":["../../app","tm/chaoshi/mods/card-charge/index"]},"tm/chaoshi/pages/card/index":{"requires":["../../app","tm/chaoshi/mods/card/index"]},"tm/chaoshi/pages/coupon/index":{"requires":["../../app","mui/zepto/zepto"]},"tm/chaoshi/pages/daily-sale/index":{"requires":["../../app","mui/chaoshi-ald/index","mui/zepto/zepto","tm/chaoshi/mods/daily-sale-switch/sticky","tm/chaoshi/mods/daily-sale-switch/index"]},"tm/chaoshi/pages/gift-card/index":{"requires":["../../app","mui/zepto/touch"]},"tm/chaoshi/pages/hypermarket/banner/index":{"requires":["mui/slide/index-pc","mui/zepto/event","./index.css"]},"tm/chaoshi/pages/hypermarket/floor/index":{"requires":["./index.tpl","mui/zepto/zepto","./index.css"],"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/pages/hypermarket/index":{"requires":["../../app","./banner/index","./list/index"]},"tm/chaoshi/pages/hypermarket/list/index":{"requires":["./index.tpl","tm/chaoshi/widgets/countdown/countdown","mui/datalazyload/index","tm/chaoshi/mods/util/util","../floor/index","mui/chaoshi-app/site-info","mui/chaoshi-ald/index","mui/chaoshi-sync/price-inventory","mui/custom-event/index","mui/zepto/event","./index.css"],"tpl":{"requires":["mui/xtemplate/runtime"]}},"tm/chaoshi/pages/index-hk/index":{"requires":["../../app","../../mods/floor-hk/index","../../mods/lift/lift","../../mods/slide/slide","../../mods/slide/slide-hk.tpl","../../mods/float-ad/float-ad","../../mods/featured/featured","mui/zepto/zepto"]},"tm/chaoshi/pages/index/index":{"requires":["../../app","../../mods/floor/index","../../mods/lift/lift","../../mods/market/market","../../mods/sidebar/sidebar","../../mods/lottery-index/lottery-index","../../mods/slide/slide","../../mods/slide/slide.tpl","mui/zepto/zepto"]},"tm/chaoshi/pages/welfare-mine/index":{"requires":["../welfare/welfare-base","../../mods/welfare-mine/index"]},"tm/chaoshi/pages/welfare/index":{"requires":["mui/zepto/zepto","./welfare-base","../../mods/lottery/lottery","../../mods/lottery/helper","../../mods/lottery/index.tpl","../../mods/lottery/item.tpl"]},"tm/chaoshi/pages/welfare/welfare-base":{"requires":["mui/zepto/zepto","../../app","../../mods/lottery-broadcast/lottery-broadcast","../../mods/lottery-mine/lottery-mine","../../mods/lottery/helper","../../widgets/event-emitter/event-emitter"]},"tm/chaoshi/widgets/chaoshi-ald/fallback":{"requires":["./index","tm/chaoshi-common-m/app/site-info","mui/md5/"]},"tm/chaoshi/widgets/chaoshi-ald/index":{"requires":["mui/server/","tm/chaoshi-common-m/app/site-info"]},"tm/chaoshi/widgets/countdown/countdown":{"requires":["mui/custom-event/index","mui/zepto/zepto"]},"tm/chaoshi/widgets/lazyload/index":{"requires":["base","dom","node"]},"tm/chaoshi/widgets/msg/msg":{"requires":["dom","cookie","tm/chaoshi/widgets/address/address","tm/chaoshi/widgets/msg/msg.tpl"]},"tm/chaoshi/widgets/server/server":{"requires":["base","io"]},"tm/chaoshi/widgets/view/view":{"requires":["base","node"]},"mui/common/index":{"requires":["mui/common/js/tm","mui/common/js/tool","mui/common/js/plugin","mui/babel-polyfill/index"]},"mui/common/index-pc":{"requires":["mui/common/js/tool","mui/common/js/event","mui/common/js/tm","mui/babel-polyfill/index","mui/common/js/site-nav","mui/common/js/plugin-pc"]},"mui/common/js/plugin":{"requires":["mui/common/js/event","mui/common/js/tool","mui/common/js/tm"]},"mui/common/js/plugin-pc":{"requires":["mui/common/js/event","mui/common/js/tool","mui/common/js/tm"]},"mui/common/js/site-nav":{"requires":["mui/common/js/tool","mui/common/js/event"]},"mui/common/js/tm":{"requires":["mui/custom-event/index"]},"mui/common/js/tool":{"requires":["mui/common/js/event","mui/common/js/tm"]},"mui/global-nav/index":{"requires":["mui/global-nav/index.css","mui/zepto/touch"]},"mui/innerfbk/index.xtpl":{"requires":["kg/xtemplate/4.1.4/runtime"]},"mui/bucket/index":{"requires":["base","ajax","cookie","mui/bucket/tool"]},"mui/mallbar/index":{"requires":["base","event","node","anim","ua","swf","dom","cookie","ajax","xtemplate","mui/mallbar/conf","mui/mallbar/util","mui/mallbar/model","mui/mallbar/mallbar-item","mui/mallbar/store","mui/mallbar/mallbar.css","mui/mallbar/mallbar-tab.css","mui/mallbar/mallbar-guide","mui/mallbar/plugin-prof","mui/mallbar/plugin-asset","mui/mallbar/plugin-brand","mui/mallbar/plugin-live","mui/mallbar/plugin-foot","mui/mallbar/plugin-top","mui/mallbar/plugin-ue","mui/mallbar/plugin-qrcode","mui/mallbar/plugin-favor","mui/mallbar/plugin-charge","mui/mallbar/plugin-cart","mui/mallbar/plugin-nav","mui/mallbar/plugin-worth"]},"mui/mallbar/mallbar-guide":{"requires":["node","event","dom","mui/mallbar/mallbar-guide.css"]},"mui/mallbar/mallbar-item":{"requires":["base","event","node","anim","xtemplate","mui/minilogin/index","mui/mallbar/conf","mui/mallbar/util","mui/mallbar/store"]},"mui/mallbar/model":{"requires":["base","cookie","mui/mallbar/conf","mui/mallbar/util","mui/mallbar/store"]},"mui/mallbar/plugin-asset":{"requires":["base","node","anim","event","mui/mallbar/conf","mui/mallbar/util","xtemplate","mui/mallbar/store","mui/mallbar/plugin-asset.css"]},"mui/mallbar/plugin-brand":{"requires":["base","xtemplate","mui/mallbar/conf","mui/mallbar/util","mui/mallbar/store","mui/mallbar/plugin-brand.css"]},"mui/mallbar/plugin-cal":{"requires":["base","node","event","ua","xtemplate","mui/mallbar/conf","mui/mallbar/util","mui/mallbar/store","mui/mallbar/plugin-cal.css"]},"mui/mallbar/plugin-cart":{"requires":["base","event","ua","mui/mallbar/conf","mui/mallbar/util","mui/mallbar/store","mui/minicart/minicart","mui/minicart/model","mui/mallbar/plugin-cart.css"]},"mui/mallbar/plugin-charge":{"requires":["base","node","event","mui/mallbar/conf","mui/mallbar/util","mui/mallbar/plugin-charge.css"]},"mui/mallbar/plugin-example":{"requires":["base","node","event","mui/mallbar/conf","mui/mallbar/util","mui/mallbar/plugin-example.css"]},"mui/mallbar/plugin-favor":{"requires":["base","node","event","ajax","mui/mallbar/conf","mui/mallbar/util","mui/mallbar/plugin-favor.css"]},"mui/mallbar/plugin-foot":{"requires":["base","node","ajax","event","anim","ua","mui/mallbar/conf","mui/mallbar/util","mui/mallbar/store","mui/mallbar/plugin-foot.css"]},"mui/mallbar/plugin-live":{"requires":["base","node","event","xtemplate","anim","mui/mallbar/conf","mui/mallbar/util","mui/mallbar/store","cookie","json","mui/mallbar/plugin-live.css"]},"mui/mallbar/plugin-my":{"requires":["base","node","event","mui/mallbar/conf","mui/mallbar/util","mui/mallbar/store","mui/mallbar/plugin-my.css"]},"mui/mallbar/plugin-nav":{"requires":["base","node","ua","event","mui/mallbar/conf","mui/mallbar/util","mui/mallbar/store","mui/mallbar/plugin-nav.css"]},"mui/mallbar/plugin-prof":{"requires":["cookie","base","dom","node","event","ajax","mui/minilogin/index","mui/mallbar/conf","mui/mallbar/util","mui/mallbar/store","xtemplate","mui/mallbar/plugin-prof.css"]},"mui/mallbar/plugin-promotion":{"requires":["base","node","dom","event","mui/mallbar/conf","mui/mallbar/util","mui/mallbar/store","mui/mallbar/plugin-promotion.css"]},"mui/mallbar/plugin-qrcode":{"requires":["base","dom","node","event","mui/minilogin/index","mui/mallbar/conf","mui/mallbar/util","mui/mallbar/store","xtemplate","mui/mallbar/plugin-qrcode.css"]},"mui/mallbar/plugin-top":{"requires":["base","node","event","mui/mallbar/conf","mui/mallbar/util","mui/mallbar/store","mui/mallbar/plugin-top.css"]},"mui/mallbar/plugin-trip":{"requires":["base","node","event","ua","mui/mallbar/conf","mui/mallbar/util","mui/mallbar/store","mui/mallbar/plugin-trip.css"]},"mui/mallbar/plugin-ue":{"requires":["base","node","event","mui/mallbar/conf","mui/mallbar/util","mui/mallbar/store","mui/mallbar/plugin-ue.css"]},"mui/mallbar/plugin-worth":{"requires":["base","node","event","mui/mallbar/conf","mui/mallbar/util","mui/mallbar/store","xtemplate","mui/mallbar/plugin-worth.css"]},"mui/mallbar/prof-muying":{"requires":["xtemplate","io","node","mui/mallbar/conf","mui/mallbar/util","mui/mallbar/prof-muying.css"]},"mui/mallbar/store":{"requires":["mui/mallbar/conf","mui/mallbar/util","mui/storage/index"]},"mui/mallbar/util":{"requires":["cookie","ajax","event","dom","ua","mui/mallbar/conf","mui/minilogin/index"]},"mui/minilogin/index":{"requires":["mui/popbox/index-pc","mui/zepto/zepto","mui/popbox/index-pc.css"]},"mui/minilogin/index.xtpl":{"requires":["mui/xtemplate/runtime"]},"mui/popbox/index":{"requires":["mui/custom-event/index","mui/zepto/event","mui/popbox/index.css","mui/babel-polyfill/"]},"mui/popbox/index-pc":{"requires":["mui/custom-event/index","mui/zepto/event","mui/popbox/index-pc.css","mui/babel-polyfill/"]},"mui/searchbar/base":{"requires":["node","rich-base","dom","combobox","ua","cookie","event","io"]},"mui/searchbar/index":{"requires":["mui/searchbar/base","mui/searchbar/plugin/spm","mui/searchbar/plugin/hq4Mb","mui/searchbar/plugin/hq4Pc","mui/searchbar/plugin/placeholder","mui/searchbar/plugin/inShop","mui/searchbar/plugin/history/index","mui/searchbar/template/index","mui/searchbar/suggest.css"]},"mui/searchbar/instance/chaoshi":{"requires":["node","ajax","mui/searchbar/base","mui/searchbar/plugin/spm","mui/searchbar/plugin/placeholder","mui/searchbar/template/cat","mui/searchbar/template/list","mui/searchbar/suggest.css"]},"mui/searchbar/instance/chaoshi-m":{"requires":["node","ajax","mui/searchbar/base","mui/searchbar/plugin/spm","mui/searchbar/plugin/placeholder","mui/searchbar/plugin/hq4Mb","mui/searchbar/template/hq","mui/searchbar/template/list"]},"mui/searchbar/instance/default":{"requires":["node","ajax","mui/searchbar/base","mui/searchbar/plugin/spm","mui/searchbar/plugin/placeholder","mui/searchbar/plugin/hubaccess","mui/searchbar/template/act","mui/searchbar/template/shipShop","mui/searchbar/template/cat","mui/searchbar/template/list","mui/searchbar/template/shop","mui/searchbar/template/quickSearch","mui/bucket/index","mui/searchbar/template/meetingPlace","mui/searchbar/suggest.css"]},"mui/searchbar/instance/default-m":{"requires":["node","ajax","mui/searchbar/base","mui/searchbar/plugin/spm","mui/searchbar/plugin/placeholder","mui/searchbar/plugin/hq4Mb","mui/searchbar/template/hq4Mb","mui/searchbar/template/act","mui/searchbar/template/cat","mui/searchbar/template/list","mui/searchbar/plugin/popSearchBar","mui/searchbar/template/meetingPlace4Mb","mui/searchbar/instance/native"]},"mui/searchbar/instance/detail":{"requires":["node","ajax","json","cookie","mui/searchbar/base","mui/searchbar/plugin/spm","mui/searchbar/plugin/placeholder","mui/searchbar/plugin/inShop","mui/searchbar/template/act","mui/searchbar/template/shipShop","mui/searchbar/template/cat","mui/searchbar/template/list","mui/searchbar/template/shop","mui/searchbar/template/quickSearch","mui/searchbar/plugin/hq4Pc","mui/bucket/index","mui/searchbar/template/meetingPlace","mui/searchbar/suggest.css"]},"mui/searchbar/instance/h5":{"requires":["dom","event"]},"mui/searchbar/instance/hk":{"requires":["node","ajax","mui/searchbar/base","mui/searchbar/plugin/spm","mui/searchbar/plugin/placeholder","mui/searchbar/template/list","mui/searchbar/suggest.css"]},"mui/searchbar/instance/list-m":{"requires":["ajax","mui/searchbar/base","mui/searchbar/plugin/spm","mui/searchbar/plugin/placeholder","mui/searchbar/template/act","mui/searchbar/template/cat","mui/searchbar/template/list"]},"mui/searchbar/instance/native":{"requires":["node"]},"mui/searchbar/instance/tmhk":{"requires":["node","ajax","mui/searchbar/base","mui/searchbar/plugin/spm","mui/searchbar/plugin/placeholder","mui/searchbar/template/act","mui/searchbar/template/cat","mui/searchbar/template/list","mui/searchbar/template/quickSearch","mui/bucket/index","mui/searchbar/plugin/hq4Pc","mui/searchbar/suggest.css"]},"mui/searchbar/plugin/history/cloud":{"requires":["base","ajax","cookie"]},"mui/searchbar/plugin/history/index":{"requires":["base","event","node","ajax","cookie","mui/searchbar/plugin/history/remoteBridge","mui/searchbar/template/history"]},"mui/searchbar/plugin/history/localBridge":{"requires":["base","mui/searchbar/plugin/history/storage"]},"mui/searchbar/plugin/history/remoteBridge":{"requires":["base","mui/searchbar/plugin/history/cloud"]},"mui/searchbar/plugin/history/storage":{"requires":["base","ua"]},"mui/searchbar/plugin/history4Mb":{"requires":["dom","base","ajax"]},"mui/searchbar/plugin/hq4Mb":{"requires":["dom","base","ajax"]},"mui/searchbar/plugin/hq4Pc":{"requires":["dom","event","base","ajax"]},"mui/searchbar/plugin/hubaccess":{"requires":["dom","base","event","uri","ua"]},"mui/searchbar/plugin/inShop":{"requires":["event","base","node"]},"mui/searchbar/plugin/login4Mb":{"requires":["dom","base","mui/login-m"]},"mui/searchbar/plugin/placeholder":{"requires":["dom","base"]},"mui/searchbar/plugin/popSearchBar":{"requires":["dom","base","ajax","event","mui/searchbar/suggest-m.css"]},"mui/searchbar/plugin/spm":{"requires":["dom","base"]},"mui/searchbar/template/act":{"requires":["ajax"]},"mui/searchbar/template/cat":{"requires":["dom"]},"mui/searchbar/template/history":{"requires":["dom"]},"mui/searchbar/template/hq4Mb":{"requires":["dom","event"]},"mui/searchbar/template/index":{"requires":["mui/searchbar/template/act","mui/searchbar/template/history","mui/searchbar/template/cat","mui/searchbar/template/list","mui/searchbar/template/item","mui/searchbar/template/shop","mui/searchbar/template/quickSearch"]},"mui/searchbar/template/meetingPlace":{"requires":["dom","uri"]},"mui/searchbar/template/meetingPlace4Mb":{"requires":["dom","uri"]},"mui/storage/basic":{"requires":["mui/babel-polyfill/"]},"mui/storage/conf":{"requires":["mui/babel-polyfill/"]},"mui/storage/index":{"requires":["mui/babel-polyfill/","./conf.js","./util.js","./xd.js"]},"mui/storage/name":{"requires":["mui/babel-polyfill/"]},"mui/storage/proxy":{"requires":["mui/babel-polyfill/","./xd.js","./basic.js","./conf.js","./util.js","mui/fetch/tool"]},"mui/storage/util":{"requires":["mui/babel-polyfill/","mui/storage/conf"]},"mui/storage/xd":{"requires":["mui/babel-polyfill/","./conf.js","./util.js","./name.js"]},"mui/view-port-listen/index":{"requires":["mui/zepto/touch"]}}};</script>
+<script src="//g.alicdn.com/??mui/feloader/4.0.30/feloader-min.js,mui/common/4.0.87/js/mod-config.js,mui/babel-polyfill/6.2.4/index.js,mui/bat/4.0.8/index.js,mui/common/4.0.87/js/event.js,mui/custom-event/4.0.3/index.js,mui/common/4.0.87/js/tm.js,mui/common/4.0.87/js/tool.js,mui/common/4.0.87/js/site-nav.js,mui/common/4.0.87/js/plugin-pc.js,mui/common/4.0.87/index-pc.js,tm/chaoshi/4.1.26/seed.js,mui/kissy/4.0.10/seed-min.js,mui/kissy-polyfill/4.0.15/index.js,mui/xtemplate/4.0.10/runtime/escape-html.js,mui/xtemplate/4.0.10/runtime/util.js,mui/xtemplate/4.0.10/runtime/scope.js,mui/xtemplate/4.0.10/runtime/commands.js,mui/xtemplate/4.0.10/runtime/linked-buffer.js,mui/xtemplate/4.0.10/runtime.js,mui/zepto/4.0.7/zepto.js,mui/zepto/4.0.7/event.js,mui/cookie/4.1.0/index.js,mui/chaoshi-app/4.0.20/site-info.js,mui/mtb-windvane/4.0.3/index.js,mui/mtop/4.0.25/index.js,mui/chaoshi-app/4.0.20/user-info.js,mui/fetch/4.1.11/fetch.js,mui/fetch/4.1.11/tool.js,mui/fetch/4.1.11/jsonp.js,tm/chaoshi/4.1.26/mods/category/popup.tpl.js,tm/chaoshi/4.1.26/mods/category/index.tpl.js,tm/chaoshi/4.1.26/mods/category/index.js,tm/chaoshi/4.1.26/mods/util/util.js,mui/zepto/4.0.7/touch.js,mui/popbox/4.0.6/index-pc.js,mui/chaoshi-city-selector/4.0.14/city-list.js,tm/chaoshi/4.1.26/mods/cart/index.js,tm/chaoshi/4.1.26/app.js,tm/chaoshi/4.1.26/mods/floor/floor.tpl.js"></script>
+<script src="//g.alicdn.com/??mui/chaoshi-ald/4.1.11/index.js,mui/datalazyload/4.0.21/index.js,mui/chaoshi-sync/4.1.7/util.js,mui/chaoshi-sync/4.1.7/price-inventory.js,tm/chaoshi/4.1.26/mods/floor/index.js,tm/chaoshi/4.1.26/mods/lift/lift.tpl.js,mui/zepto/4.0.7/fx.js,tm/chaoshi/4.1.26/mods/lift/scrollto.js,tm/chaoshi/4.1.26/mods/lift/lift.js,tm/chaoshi/4.1.26/mods/market/market.tpl.js,tm/chaoshi/4.1.26/mods/market/market.js,tm/chaoshi/4.1.26/mods/sidebar/sidebar.tpl.js,tm/chaoshi/4.1.26/mods/sidebar/sidebar.js,tm/chaoshi/4.1.26/mods/lottery-index/lottery-index.js,mui/slide/4.0.3/ie8.js,mui/slide/4.0.3/polyfill.js,mui/slide/4.0.3/utils/assign.js,mui/slide/4.0.3/base.js,mui/flipsnap/4.0.1/index.js,mui/slide/4.0.3/slide.js,mui/slide/4.0.3/utils/dom_event.js,mui/slide/4.0.3/utils/index.js,mui/slide/4.0.3/flipsnap.js,mui/slide/4.0.3/carousel.js,mui/slide/4.0.3/crossfade.js,mui/slide/4.0.3/mixins/events.js,mui/slide/4.0.3/utils/viewport.js,mui/slide/4.0.3/mixins/autoplay.js,mui/slide/4.0.3/mixins/pointmove.js,mui/slide/4.0.3/index.js,mui/slide/4.0.3/index-pc.js,tm/chaoshi/4.1.26/mods/slide/slide.js,tm/chaoshi/4.1.26/mods/slide/slide.tpl.js,tm/chaoshi/4.1.26/pages/index/index.js"></script>
+
+
+
+
+
+
+
+<script>
+
+    require(['tm/chaoshi/pages/index/index'], function(Index){
+        new Index();
+    });
+</script>
+
+
+   
+    <script>
+        __Chaoshi_siteInfoV1 = {"tpId":"725677994","sonic":true,"coupon":true,"sxLogica":"HB","siteName":"east","cityId":610100,"isSupported":true,"sellerId":725677994,"cityName":"西安","logica":"XN","siteChName":"华东","siteId":1,"provinceName":"陕西省","freshSupport":true,"sellers":"725677994,2243902285"}
+    </script>
+    
+    
+    <script>
+        __Chaoshi_userInfo = {"isNew":false,"nk":null,"isReceiveCoupon":true}
+    </script>
+    
+</body>
+</html>
+
+
+
+
+
+
+
+

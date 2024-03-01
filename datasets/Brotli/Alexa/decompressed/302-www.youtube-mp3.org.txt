@@ -1,0 +1,199 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta name="robots" content="index, follow" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="language" content="en" />
+    <meta name="description" content="Download your favorite YouTube videos as mp3 files without registration." />
+    <meta name="google" content="notranslate" />
+  <title>YouTube to mp3 Converter</title>
+  
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="//assets.youtube-mp3.org/s/42d682ad5a90c6a5f7f64d26fa34afb2/style-beta.css" />
+
+      <script type="text/javascript">﻿var _ytmp3Lang = { 	
+'INVALID_URL' : 'Invalid URL',
+'MAINTENANCE' : 'There is some Maintenance going on. <br />Please try again within the next hour.',
+'ERROR' : 'There was an Error caused by YouTube, we cannot deliver this Video!<br />This error is mostly caused by copyright issues or the length of the video.<br />We only support videos with maximum of 20 minutes.',
+'LIMIT' : 'Limit reached!<br />We allow 15 conversions per half hour.<br />If you think this limit is too low <a href="/impress">contact us</a>.',
+
+'TITLE' : '<b>Title:</b> $0',
+'LENGTH' : '<b>Length:</b> $0 minutes',
+'CONVERTING' : 'Download complete: Converting Video',
+'PROGRESS' : '$0% downloaded ($1 kB/s)',
+'CONVERTED' : 'Video successfully converted to mp3',
+'DOWNLOAD' : 'Download',
+'PROCESSING' : 'Processing Video'
+};</script>
+      
+  <script type="text/javascript">
+    // y
+    adcc = '55b7e8d';
+    enableBetaAds = true;
+    inp_t = '';
+    
+    var _acbl = [];
+    var _ytmp3_autostart = true;
+    
+            // addjs
+        hashed_ads = true;
+
+ _ytmp3Lang['MAINTENANCE'] = 'We are sorry, this service is not available from your jurisdiction.'; 
+        // --
+      </script>
+  <style>
+  @media screen and (max-width: 700px) {
+    #sad {
+        display:none !important;
+    }
+  }
+  </style>
+  
+                            <script type="text/javascript">
+                    var _bfl = false;
+                    
+                    window.addEventListener('error', function (evt) {
+                        // popads backfill fix
+                        if(evt.message == "Uncaught ReferenceError: c2 is not defined") {
+                            console.log("pa fix triggered");
+                            _as_bf();
+                            //evt.preventDefault();
+                            //return;
+                        }
+                    });
+            
+                    _asup = function() {
+                                    <!-- def_c86526 -->
+            var s = document.createElement("script");
+            s.type = "text/javascript";
+            s.async = true;
+            s.src = "http://cdn.engine.4dsply.com/Scripts/infinity.js.aspx?guid=2744a599-1bb6-410f-ae2c-bd18110f82af";
+            s.id = "infinity";
+            s.setAttribute("data-guid", "2744a599-1bb6-410f-ae2c-bd18110f82af");
+            s.setAttribute("data-version", "async");
+            s.onerror = function() {
+                if(typeof asup_error !== "undefined") {
+                    asup_error();
+                }
+            };
+            var e = document.getElementsByTagName('script')[0];
+            e.parentNode.insertBefore(s, e);
+                    };
+                    
+                    _as_bf = function() {
+                        if(_bfl == false) {
+                            eval(function(p,a,c,k,e,d){e=function(c){return c.toString(36)};if(!''.replace(/^/,String)){while(c--){d[c.toString(a)]=k[c]||c.toString(a)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('!1(){2 e=d;2 t,o=["//g.s.j/3.5","//l.h/3.5",""],n=0,r=1(){f(""!=o[n]){t=e.4.c("6"),t.b="7/8",t.9=!0;2 a=e.4.q("6")[0];t.i=o[n],t.k=1(){n++,r()},a.m.p(t,a)}};r()}();',30,30,'|function|var|38892|document|js|script|text|javascript|async||type|createElement|window||if|code|tk|src|com|onerror|cfasync|parentNode|||insertBefore|getElementsByTagName||poptm|'.split('|'),0,{}))
+                        };
+                        _bfl = true;
+                    };
+                    
+                    asup_error = function() {
+                        _as_bf();
+                    };
+                    
+                    isHidden = function (el) {
+                        return (el.offsetParent === null);
+                    };
+                    
+                    isAb = function () {
+                        var _d = document.getElementById("rad");
+                        return isHidden(_d);
+                    };
+                    
+                    _acbl.push(function() {
+                        if(isAb()) {
+                            console.log("adb detected");
+                            /*<![CDATA[/* */
+ (function(){ var y=window; y["_pop"]=[["siteId", 16762], ["minBid", 0.000250], ["popundersPerIP", 0], ["delayBetween", 0], ["default", "X2FzX2JmKCk="], ["defaultPerDay", 0], ["topmostLayer", !1]]; var x=["//c1.popads.net/pop.js", "//c2.popads.net/pop.js", "//www.qyvpgddwqynp.com/rnbk.js", "//www.nawdwtocxqru.com/fkho.js", ""], r=0, h, f=function(){if(""==x[r])return;h=y["document"]["createElement"]("script"); h["type"]="text/javascript"; h["async"]=!0; var g=y["document"]["getElementsByTagName"]("script")[0]; h["src"]=x[r]; if(r<2){h["crossOrigin"]="anonymous";}; h["onerror"]=function(){r++;f()}; g["parentNode"]["insertBefore"](h,g)}; f()})();
+/*]]>/* */
+                        } else {
+                            _asup();
+                        }
+                    });
+                </script>    </head>
+
+<body>
+    <script type="text/javascript">
+    _acbl.push(function() {
+        var vid = getArg(window.location.hash,'v');
+        if(vid != null)
+        {
+            document.body.innerHTML = '<iframe src="http://www.youtube-mp3.org/privacy" width="100%" height="1450px" scrolling="no" frameborder="0" style="border:0px"></iframe>';
+            _gaq.push(['_trackEvent', 'v-error', vid]);
+        }
+    });
+</script>
+
+<div id="content">
+<div id="inner">
+ 
+    <div class="pd">
+        <h1><a href="/"><img src="//assets.youtube-mp3.org/s/42d682ad5a90c6a5f7f64d26fa34afb2/logo.gif" alt="YouTube mp3" width="290" height="59" /></a></h1>
+
+        <div id="progress_info">
+            <div id="error_text"></div>
+            <div id="image"></div>
+
+            <div id="details">
+                <div id="status_text"></div>
+                <div id="title"></div>
+                <div id="length"></div>
+                <div id="dl_link"></div>
+                <div id="progress"></div>
+                <div id="loader"><img src="//assets.youtube-mp3.org/s/42d682ad5a90c6a5f7f64d26fa34afb2/ajax-loader-b.gif" alt="loading.." width="16" height="11" /></div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    
+        <noscript>
+        <div class="warning">You have to enable JavaScript to use this Service!</div>
+        </noscript>
+  
+        <div id="form">
+                        
+            <form method="get" action="/" id="submit-form">
+                                <input type="text" id="youtube-url" value="http://www.youtube.com/watch?v=KMU0tzLwhbE" onclick="sAll(this)" autocomplete="off" />
+                                <div id="btns">
+                    <input type="submit" id="submit" value="Convert Video" disabled="disabled" />
+                </div>
+            </form>
+        </div>
+    </div>
+  
+        <div id="rad">
+    </div>
+    
+      
+    <div class="clear"></div>
+
+    <div class="pd">
+        <div id="description">
+            <h2>What is YouTube mp3?</h2>
+            <p>YouTube-mp3.org is the easiest online service for converting videos to mp3. You do not need an account, the only thing you need is a YouTube URL. We will start to convert the audiotrack of your videofile to mp3 as soon as you have submitted it and you will be able to download it. Different from other services the whole conversion process will be perfomed by our infrastructure and you only have to download the audio file from our servers. Because of this our software is platform-independent: You can use it with your Mac, a Linux PC or even an iPhone. All our conversions will be perfomed in high quality mode with a bitrate of at least 128 kBit/s. Do not worry, our service is completely free. We need approximately 3 to 4 minutes per video.</p>
+                    </div>
+
+        <div id="footer">
+            <div class="r">
+            <a href="http://blog.youtube-mp3.org/">Blog</a> &middot; <a href="/addons">Addons</a> &middot; <a href="/privacy" rel="nofollow">Privacy</a> &middot; <a href="/impress?" rel="nofollow">Impress</a>
+            </div>
+            <a href="/">English</a> &middot; <a href="/de">Deutsch</a> &middot; <a href="/tr">Türkçe</a> &middot; <a href="/pl">Polski</a> &middot; <a href="/fr">Français</a> &middot; <a href="/ka">ქართული</a><br /><a href="/eu">Euskara</a> &middot; <a href="/es">Español</a> &middot; <a href="/gr">Ελληνικά</a> &middot; <a href="/nl">Nederlands</a> &middot; <a href="/zh">繁體中文</a><br /><a href="/it">Italiano</a> &middot; <a href="/sv">Svenska</a> &middot; <a href="/sk">Slovensky</a> &middot; <a href="/sr">Српски</a> &middot; <a href="/ar">العربية</a><br /><a href="/pt">Português</a> &middot; <a href="/sl">Slovenščina</a> &middot; <a href="/ua">українська</a> &middot; <a href="/ru">Русский</a> <br /> <a href="/da">Dansk</a> &middot; <a href="/fi">suomi</a> &middot; <a href="/jp">日本語</a> &middot; <a href="/no">Norsk</a> &middot; <a href="/ko">한국어</a>
+        </div>
+    </div>
+        
+</div>
+<div id="sad">
+</div>
+</div>
+
+<script type="text/javascript" src="//assets.youtube-mp3.org/s/42d682ad5a90c6a5f7f64d26fa34afb2/client.js" async></script>
+
+    <script type="text/javascript">
+    _acbl.push(function() {
+        if(getArg(window.location.hash,'v') != null)
+        {
+            g('content').parentNode.removeChild(g('content'));
+        }
+    });
+</script></body>
+</html>

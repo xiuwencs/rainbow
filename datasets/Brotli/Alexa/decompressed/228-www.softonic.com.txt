@@ -1,0 +1,1405 @@
+<!DOCTYPE html>
+<!-- "Thank you Mario! But your princess is in another castle!"
+Get a ★ and become Super Mario at http://careers.en.softonic.com/super-mario -->
+<html lang="es-ES" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml">
+<head>
+<title>Noticias, análisis y descargas de software, guía de las mejores apps - Softonic</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta charset="utf-8" />
+<meta name="description" content="Softonic es el lugar perfecto para descubrir las mejores apps y contenidos para tu dispositivo: noticias, artículos, descargas y más. ¡Bienvenido a tu guía de apps!" />
+    <meta name="robots" content="all" />
+    <meta name="keywords" content="Reseñas de software, guía de software, guía de apps, noticias de software, artículos sobre software, descubrir apps, descubrir software, consejos de software" />
+
+    <link rel="canonical" href="https://www.softonic.com/" type="text/html" />
+
+
+	<link rel="alternate" hreflang="es" href="https://www.softonic.com/" type="text/html" />
+		<link rel="alternate" hreflang="en" href="https://en.softonic.com" type="text/html" />
+		<link rel="alternate" hreflang="fr" href="https://fr.softonic.com" type="text/html" />
+		<link rel="alternate" hreflang="de" href="https://de.softonic.com" type="text/html" />
+		<link rel="alternate" hreflang="it" href="https://it.softonic.com" type="text/html" />
+		<link rel="alternate" hreflang="pt" href="https://www.softonic.com.br" type="text/html" />
+		<link rel="alternate" hreflang="pl" href="https://www.softonic.pl" type="text/html" />
+		<link rel="alternate" hreflang="nl" href="https://nl.softonic.com" type="text/html" />
+		<link rel="alternate" hreflang="jp" href="https://www.softonic.jp" type="text/html" />
+		<link rel="alternate" hreflang="tr" href="http://tr.softonic.com" type="text/html" />
+		<link rel="alternate" hreflang="ko" href="http://ko.softonic.com" type="text/html" />
+		<link rel="alternate" hreflang="sv" href="http://sv.softonic.com" type="text/html" />
+		<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.en.softonic.com/" type="text/html" />
+	<link rel="alternate" media="handheld" href="https://m.en.softonic.com/" type="text/html" />
+	<meta name="mobile-agent" content="format=html5;url=https://m.en.softonic.com/" />
+	<meta name="mobile-agent" content="format=xhtml;url=https://m.en.softonic.com/" />
+
+
+	<meta property="og:title" content="Noticias, análisis y descargas de software, guía de las mejores apps - Softonic" />
+	<meta property="og:description" content="Softonic es el lugar perfecto para descubrir las mejores apps y contenidos para tu dispositivo: noticias, artículos, descargas y más. ¡Bienvenido a tu guía de apps!" />
+	<meta property="og:image" content="https://va1es.sftcdn.net/shared/img/icons/Softonic_logo_icon.png" />
+	<meta property="og:url" content="https://www.softonic.com/" />
+	<meta property="og:site_name" content="Softonic" />
+	<meta property="og:type" content="softonic_action:app" />
+	<meta property="fb:app_id" content="315637968501782" />
+	<meta property="SiteAdvisor" content="For SiteAdvisor Verification Process" />
+	<link rel="shortcut icon" href="https://va1es.sftcdn.net/shared/img/favicon.ico" type="image/x-icon" />
+			<!--[if gte IE 9 | !IE ]><!-->
+			<link rel="stylesheet" type="text/css" href="https://va1es.sftcdn.net/es/css/generated/24dbb-96f22.css" media="screen" />
+		<![endif]-->
+				<!--[if lt IE 9]>
+			<link rel="stylesheet" type="text/css" href="https://va1es.sftcdn.net/es/css/generated/c2200-f910a.css" media="screen" />
+		<![endif]-->
+	
+	<link title="Softonic" rel="search" type="application/opensearchdescription+xml" href="//www.softonic.com/opensearch.xml" />
+
+
+	<script src="https://va1es.sftcdn.net/es/js/generated/826d5-2c660.js"></script>
+		<!--[if lt IE 9]>
+	<script src="https://va1es.sftcdn.net/es/js/generated/5b037-3d667.js"></script>
+<![endif]-->
+	
+	<script type="text/javascript">
+		<!--
+		var tracking_page_type = 'home' || undefined,
+			url_images_shared = 'https://va1es.sftcdn.net/shared/img/',
+			url_images = 'https://va1es.sftcdn.net/es/img/',
+			url_flash = 'https://va1es.sftcdn.net/shared/flash/',
+			url_proxy = 'http://stc.softonic.com/shared/crossdomain/proxy.html',
+			url_absolute = '//www.softonic.com/',
+			url_cookie = '.softonic.com',
+			url_articles_absolute = 'https://articulos.softonic.com',
+			url_articles_search =  'https://articulos.softonic.com/b/',
+			url_news_absolute = 'https://noticias.softonic.com/',
+			url_news_search =  'https://noticias.softonic.com/b/',
+			url_answers_absolute =  'http://answers.softonic.com/',
+			url_answers_search =  'https://answers.softonic.com/b',
+			url_search = 's',
+			url_softonic_ads = 'https://ads.softonic.com/',
+			seo_separator_cat = ':',
+			section_search_name	= 'windows',
+			softonic_site = 'softonic',
+			softonic_domain = 'softonic_com',
+			meta_company = 'Softonic',
+			meta_domain = 'Softonic.com',
+			id_platform = '2',
+			id_program = '',
+			program_title = '',
+			id_version ='',
+			mobile_so_name = '',
+			analytics_domain = '.softonic.com',
+			instance = 'es',
+			lang_iso = 'es',
+			ga_atts = '*pt*/home*pt**ph*windows*ph*',
+						jump_list_links = [],
+			thumb_list_links = [],
+			facebook_appId,
+			is_multiplatform = '1',
+			url_facebook_receiver,
+			gigya_js;
+				jump_list_links['url_onsoftware'] = ['Blog de software','','https://www.softonic.com/shared/images/ie9/blog_JL.ico'];
+				jump_list_links['url_top_downloads'] = ['Top descargas','https://www.softonic.com/windows/top-descargas','https://www.softonic.com/shared/images/ie9/top_downloads_JL.ico'];
+				jump_list_links['url_top_valuated'] = ['Top valorados','https://www.softonic.com/windows/mejor-valorados','https://www.softonic.com/shared/images/ie9/top_valuated_JL.ico'];
+				jump_list_links['url_login'] = ['Mi Ficha','https://www.softonic.com/identificate','https://www.softonic.com/shared/images/ie9/user_JL.ico'];
+					thumb_list_links['url_top_downloads'] = ['Top downloads ','https://www.softonic.com/windows/top-descargas','https://www.softonic.com/shared/images/ie9/top_downloads.ico'];
+				thumb_list_links['url_top_valuated'] = ['Top rated ','https://www.softonic.com/windows/mejor-valorados','https://www.softonic.com/shared/images/ie9/top_valuated.ico'];
+				thumb_list_links['url_login'] = ['My Profile ','https://www.softonic.com/identificate','https://www.softonic.com/shared/images/ie9/user.ico'];
+				facebook_appId	= '315637968501782';
+			url_facebook_receiver = '//www.softonic.com/facebook/xd_receiver.htm';
+			gigya_js = 'https://cdns.gigya.com/JS/gigya.js?apikey=3_nsXKOEbetpa-5D09jGp0RK5vZvh0lNU3ENWM0ORahnXYfDJJs_6q3Q3GdJf-fWg5&lang=' + lang_iso;
+		-->
+	</script>
+	<script type="text/javascript">
+		if(typeof Namespace.globals == "undefined")
+		{
+			Namespace.globals = [];
+		}
+		if(typeof Namespace.globals.ga == "undefined")
+		{
+			Namespace.globals.ga = [];
+		}
+		if(typeof Namespace.globals.ga.customVars == "undefined")
+		{
+			Namespace.globals.ga.customVars = [];
+		}
+		if(typeof Namespace.globals.ga.customVars.variables == "undefined")
+		{
+			Namespace.globals.ga.customVars.variables = [];
+		}
+
+		Namespace.globals.ga.showTracking = true;
+
+		window.sCookie = Namespace.utilities.cookie.getCookie('softonic-ut');
+
+		Namespace.globals.ga.user_type =  window.sCookie? window.sCookie : 'anonymous' ;
+
+		Namespace.globals.ga.account = 'UA-43493347-1';
+
+		Namespace.globals.ga.campaignCookieTimeout = 2592000000;
+
+		Namespace.globals.ga.domain = '.softonic.com';
+		window.google_analytics_uacct = Namespace.globals.ga.account;
+
+		Namespace.globals.ga.bUseCustomVars = true;
+		Namespace.globals.ga.customVars.page = 'home/index/';
+
+		Namespace.globals.ga.customVars.variables.push([ '_setCustomVar', 2, 'path', "", 3 ]);
+		Namespace.globals.ga.customVars.variables.push([ '_setCustomVar', 5, 'user_type', Namespace.globals.ga.user_type, 2 ]);
+
+		Namespace.globals.ga.fdh = Namespace.utilities.cookie.getCookie('softonic-fdh');
+
+		var sFdhMatch;
+		if (!Namespace.globals.ga.fdh && (sFdhMatch = window.location.href.match("\\\?.*ptn=([^&]+)")))
+		{
+			Namespace.globals.ga.fdh = sFdhMatch[1];
+		}
+
+		Namespace.globals.ga.license = '';
+		Namespace.globals.ga.urating = '';
+		Namespace.globals.ga.rtype = '';
+		Namespace.globals.ga.plang = '';
+		Namespace.globals.ga.strating = '';
+		Namespace.globals.ga.downloadtype = '';
+		Namespace.globals.ga.compliance = '';
+
+		Namespace.globals.ga.eCommercePrices =  { 
+			"SD":0.0136,
+			"Free":0.0015 }; 
+	</script>
+
+<script>var sft_adunit = '';</script>
+<script>var abp;</script>
+<script src="/shared/abp_detection/px.js?ch=1"></script>
+<script src="/shared/abp_detection/px.js?ch=2"></script>
+<script src='https://c.amazon-adsystem.com/aax2/amzn_ads.js'></script>
+<script>
+	try {
+		amznads.getAds('3177');
+		var key = 'amznslots',
+				values = amznads.getTokens(); 	} catch(e) {}
+</script>
+
+<script>
+	var PREBID_TIMEOUT = 1000;
+
+	var adUnits = [
+				{
+			code: 'show_banner_leaderboard',
+			sizes: [[728, 90],[970, 90],[970, 250]],
+			bids: [
+				{
+					bidder: 'rubicon',
+					params: {
+						accountId: '10496',
+						siteId: '44168',
+						zoneId: '191566',
+						position: 'atf'					}
+				},
+				{
+					bidder: 'appnexus',
+					params: {
+						placementId: '9785933'
+					}
+				}
+			]
+		}
+		,		{
+			code: 'show_banner_medium_rectangle',
+			sizes: [[300, 250],[300, 600]],
+			bids: [
+				{
+					bidder: 'rubicon',
+					params: {
+						accountId: '10496',
+						siteId: '44168',
+						zoneId: '191566',
+						position: 'atf'					}
+				},
+				{
+					bidder: 'appnexus',
+					params: {
+						placementId: '9785931'
+					}
+				}
+			]
+		}
+	];
+
+	var adUnitsPostDownload = [
+	];
+
+	var pbjs = pbjs || {};
+	pbjs.que = pbjs.que || [];
+
+	function refreshBids() {
+		pbjs.que.push(function() {
+			pbjs.requestBids({
+				timeout: PREBID_TIMEOUT,
+				bidsBackHandler: function() {
+					pbjs.setTargetingForGPTAsync();
+					googletag.pubads().refresh(oSlotsPDP);
+				}
+			});
+		});
+	}
+</script>
+
+<script src="//www.softonic.com/shared/prebid/prebid-rubicon-appnexus.js" async></script>
+<script>
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	googletag.cmd.push(function() {
+		googletag.pubads().disableInitialLoad();
+	});
+
+	pbjs.que.push(function() {
+		pbjs.setPriceGranularity("dense");
+		pbjs.addAdUnits(adUnits);
+		pbjs.requestBids({
+			bidsBackHandler: sendAdserverRequest
+		});
+	});
+
+	function sendAdserverRequest() {
+		if (pbjs.adserverRequestSent) return;
+		pbjs.adserverRequestSent = true;
+		googletag.cmd.push(function() {
+			pbjs.que.push(function() {
+				pbjs.setTargetingForGPTAsync();
+				googletag.pubads().refresh();
+			});
+		});
+	}
+
+	setTimeout(function() {
+		sendAdserverRequest();
+	}, PREBID_TIMEOUT);
+</script>
+
+<script>
+	(function() {
+		var gads = document.createElement('script');
+		gads.async = true;
+		gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script>
+
+<script>
+	var oSlotsPDP = [];
+	googletag.cmd.push(function() {
+		var oSlot,
+			oAds = googletag.pubads();
+		googletag.ads=[];
+		googletag.adIds=[];
+
+									if( 'softonic_presents'.indexOf('wallpaper_background') === -1 || window.screen.width >= 1280 ) {
+					oSlot = googletag.defineOutOfPageSlot('/5302/Desktop/Desktop-Web-ES/Homepage','show_banner_softonic_presents' )
+							.addService(oAds)
+							.setTargeting('type', 'softonic_presents')
+				.setTargeting('pos', 'none');
+			googletag.ads.push(oSlot);
+			googletag.adIds.push('show_banner_softonic_presents');
+
+			 } 												oSlot = googletag.defineSlot('/5302/Desktop/Desktop-Web-ES/Homepage',
+					[[728, 90],[970, 90],[970, 250]],
+					'show_banner_leaderboard' )
+							.addService(oAds)
+							.addService(googletag.companionAds())
+							.setTargeting('type', 'leaderboard')
+				.setTargeting('pos', 'top');
+			googletag.ads.push(oSlot);
+			googletag.adIds.push('show_banner_leaderboard');
+
+															oSlot = googletag.defineSlot('/5302/Desktop/Desktop-Web-ES/Homepage',
+					[[300, 250],[300, 600]],
+					'show_banner_medium_rectangle' )
+							.addService(oAds)
+							.addService(googletag.companionAds())
+							.setTargeting('type', 'medium_rectangle')
+				.setTargeting('pos', 'top');
+			googletag.ads.push(oSlot);
+			googletag.adIds.push('show_banner_medium_rectangle');
+
+															if( 'wallpaper_background'.indexOf('wallpaper_background') === -1 || window.screen.width >= 1280 ) {
+					oSlot = googletag.defineOutOfPageSlot('/5302/Desktop/Desktop-Web-ES/Homepage','show_banner_wallpaper_background' )
+							.addService(oAds)
+							.setTargeting('type', 'wallpaper_background')
+				.setTargeting('pos', 'top');
+			googletag.ads.push(oSlot);
+			googletag.adIds.push('show_banner_wallpaper_background');
+
+			 } 												if( 'interstitial'.indexOf('wallpaper_background') === -1 || window.screen.width >= 1280 ) {
+					oSlot = googletag.defineOutOfPageSlot('/5302/Desktop/Desktop-Web-ES/Homepage','show_banner_interstitial' )
+							.addService(oAds)
+							.setTargeting('type', 'interstitial')
+				.setTargeting('pos', 'top');
+			googletag.ads.push(oSlot);
+			googletag.adIds.push('show_banner_interstitial');
+
+			 } 					
+					oAds.setTargeting('plat','2');
+							oAds.setTargeting('devel','');
+							oAds.setTargeting('compliant','1');
+							oAds.setTargeting('file','');
+							oAds.setTargeting('kw','');
+							oAds.setTargeting('tab_content','home');
+							oAds.setTargeting('author','');
+							oAds.setTargeting('description_url','https://www.softonic.com/?uniqifyingToken=Nf4kkzK5bdFnhCx3SW7K');
+							oAds.setTargeting('tag', []);
+							oAds.setTargeting('dc_ref','https%3A%2F%2Fwww.softonic.com%2F%3FuniqifyingToken%3DNf4kkzK5bdFnhCx3SW7K');
+							oAds.setTargeting('cat','null');
+							oAds.setTargeting('contentid','');
+			
+	
+		oAds.setTargeting('abp',(!!window.abp).toString());
+		oAds.setTargeting('country', Namespace.utilities.cookie.getCookie('country') || '');
+
+		var expKey = Namespace.utilities.cookie.getCookie('_swo_vis');
+		if (expKey) { oAds.setTargeting('ab', expKey.replace('.', '-')); }
+
+		oAds.setTargeting('hb_pb','');
+
+		oAds.collapseEmptyDivs();
+
+			googletag.companionAds().setRefreshUnfilledSlots(true);
+	
+		if ( window.tracking_page_type !== 'download' )
+		{
+			oAds.enableSingleRequest();
+		}
+
+		googletag.enableServices();
+
+		var adUnitPath,
+			pathIndex;
+
+		if ( !!googletag && !!googletag.ads && !!googletag.ads[0] )
+		{
+			adUnitPath = googletag.ads[0].getAdUnitPath();
+			pathIndex = adUnitPath.indexOf( '/', 1 ) + 1;
+			window.sft_adunit = adUnitPath.substring( pathIndex );
+		}
+	});
+</script>
+
+<script>
+oGTM = oGTM || [];
+oGTM.push( {
+	'catLevel1' : 'none',
+	'catLevel2' : 'none',
+	'catLevel3' : 'none',
+	'pageType' : '/home',
+	'section' : 'home',
+	'uaNumber' : 'UA-366832-1'
+} );
+</script>
+</head>
+
+<body id="home">
+	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WH2GLV" height="0" width="0" class="hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','oGTM','GTM-WH2GLV');</script>
+
+	<script type="application/ld+json">{ "@context": "http://schema.org/", "@type": "WebSite", "url": "//www.softonic.com/",
+"name":"softonic", "potentialAction": { "@type": "SearchAction", "target": "//www.softonic.com/s/{search_term_string}",
+"query-input": "required name=search_term_string" } }
+</script>
+	
+<header id="header-bar" data-registerurl="registro"  class="header-site" data-ua-common="c=Header"  data-st-common="e=click,component=header">
+	<div class="container">
+
+		<a title="Página principal de Softonic" href="//www.softonic.com/" class="header-site-logo" data-ua="#c,a=logo,l=logo" target="_parent">
+								<img src="https://va1es.sftcdn.net/es/img/interface/softonic_web_logo.png" alt="Softonic" width="160" height="34" />
+					</a>
+				
+<nav id="header-mainsections-bar" class="header-site-main-sections">
+	<ul>
+							<li class="ct-applications">
+			<a title="Programas" class="header-site-main-sections-item nav-item" href="https://www.softonic.com/windows" data-ua="#c,a=applications,l=applications" data-selection-class="section-applications" target="_parent">
+				Programas			</a>
+			<section class="section-preview tag-section-applications d-n" data-ua-common="c=Persiana">
+							</section>
+		</li>
+											<li class="ct-games">
+			<a title="Juegos" class="header-site-main-sections-item nav-item" href="http://gaming.softonic.com/es/?utm_source=Cross%20Promotion&amp;utm_medium=Home%20header" data-ua="#c,a=games,l=games" data-selection-class="section-games" target="_parent">
+				Juegos			</a>
+			<section class="section-preview tag-section-games d-n" data-ua-common="c=Persiana">
+							</section>
+		</li>
+								<li class="ct-articles">
+			<a title="Artículos" class="header-site-main-sections-item nav-item" href="https://articulos.softonic.com" data-ua="#c,a=articles,l=articles" data-selection-class="section-articles" target="_parent">
+				Artículos			</a>
+			<section class="section-preview tag-section-articles d-n" data-ua-common="c=Persiana">
+							</section>
+		</li>
+													<li class="ct-videos">
+			<a title="Vídeos" class="header-site-main-sections-item nav-item" href="https://videos.softonic.com" data-ua="#c,a=videos,l=videos" data-selection-class="section-videos" target="_parent">
+				Vídeos			</a>
+			<section class="section-preview tag-section-videos d-n" data-ua-common="c=Persiana">
+							</section>
+		</li>
+				</ul>
+</nav>
+
+		<div id="header-site-actions" class="header-site-actions">
+						
+	
+<form id="search-box" class="header-site-search" name="search_form_top" method="post" action="//www.softonic.com/s" target="_parent">
+			<input type="hidden" name="id_section" id="search-box-filter" value="multiplatform" data-platform-name="multiplatform" />
+	
+	<div class="header-site-input-block clearfix">
+		<div id="multisearch-transition-helper" class="multisearch-transition-helper js-searchbar-items">
+			<input id="search-box-input" class="search-box-input" name="search" type="text" autocomplete="off" placeholder="DESCUBRE EL MEJOR SOFTWARE" />
+			<a href="#" id="multisearch-filters-button" class="header-site-multisearch-btn">
+				<i class="header-site-multisearch-icon"></i>
+				<span class="separator js-display-text">Programas</span>
+			</a>
+		</div>
+		<button type="submit" id="search-box-submit" class="header-site-search-btn js-searchbar-items">
+			<i class="ico-search"></i>
+		</button>
+	</div>
+	<div id="multisearch-filters" class="multisearch">
+		<div class="ct-applications js-multisearch-ct active">
+			<a title="Programas" href="#" id="toggle-app" class="multisearch-toggle" data-collapse="collapse-app">
+				<div class="multisearch-input-box">
+					<input name="multisearch-type" type="radio" id ="multisearch-app"  checked data-multisearch-subct="collapse-app" value="Programas" >
+				</div>
+				<span class="multisearch-more-platforms js-multisearch-more-subct">Más plataformas<i class="multisearch-more-icon"></i></span>
+				<label for="multisearch-app">Programas</label>
+			</a>
+			<a title="" href="#" id="collapse-app" class="multisearch-collapse clearfix">
+									<label class="multisearch-collapse-label col-9" for="windows">
+						
+				
+<input id="windows" type="checkbox" checked value="2" data-platform-name="windows">Windows</label>
+									<label class="multisearch-collapse-label col-9 last" for="mac">
+						
+				
+<input id="mac" type="checkbox" checked value="724" data-platform-name="mac">Mac</label>
+									<label class="multisearch-collapse-label col-9" for="aplicaciones-web">
+						
+				
+<input id="aplicaciones-web" type="checkbox" checked value="2900" data-platform-name="aplicaciones-web">Web</label>
+									<label class="multisearch-collapse-label col-9 last" for="android">
+						
+				
+<input id="android" type="checkbox" checked value="4006" data-platform-name="android">Android</label>
+									<label class="multisearch-collapse-label col-9" for="iphone">
+						
+				
+<input id="iphone" type="checkbox" checked value="4005" data-platform-name="iphone">iPhone</label>
+									<label class="multisearch-collapse-label col-9 last" for="windows-phone-7">
+						
+				
+<input id="windows-phone-7" type="checkbox" checked value="4008" data-platform-name="windows-phone-7">Windows Phone</label>
+									<label class="multisearch-collapse-label col-9" for="blackberry">
+						
+				
+<input id="blackberry" type="checkbox"  value="4002" data-platform-name="blackberry">Blackberry</label>
+									<label class="multisearch-collapse-label col-9 last" for="linux">
+						
+				
+<input id="linux" type="checkbox"  value="910" data-platform-name="linux">Linux</label>
+									<label class="multisearch-collapse-label col-9" for="java">
+						
+				
+<input id="java" type="checkbox"  value="4003" data-platform-name="java">Java2ME</label>
+									<label class="multisearch-collapse-label col-9 last" for="symbian">
+						
+				
+<input id="symbian" type="checkbox"  value="4001" data-platform-name="symbian">Symbian</label>
+									<label class="multisearch-collapse-label col-9" for="windowsmobile">
+						
+				
+<input id="windowsmobile" type="checkbox"  value="4004" data-platform-name="windowsmobile">Windows Mobile</label>
+									<label class="multisearch-collapse-label col-9 last" for="palm">
+						
+				
+<input id="palm" type="checkbox"  value="1020" data-platform-name="palm">Palm OS</label>
+									<label class="multisearch-collapse-label col-9" for="pocketpc">
+						
+				
+<input id="pocketpc" type="checkbox"  value="1111" data-platform-name="pocketpc">Pocket PC</label>
+							</a>
+		</div>
+					<div class="ct-articles js-multisearch-ct">
+				<a title="Artículos" href="#" id="toggle-articles" class="multisearch-toggle">
+					<div class="multisearch-input-box">
+						<input name="multisearch-type" type="radio" id ="multisearch-articles" data-search-type="articles" value="Artículos">
+					</div>
+					<label for="multisearch-articles">Artículos</label>
+				</a>
+			</div>
+		
+		<button type="submit" class="multisearch-submit-btn">
+			<i class="ico-search"></i>Buscar		</button>
+	</div>
+</form>
+
+						<div class="header-site-platforms" id="header-site-platforms">
+		<a title="Elige tu sistema operativo" class="header-site-platforms-btn" href="#" data-ua="#c,a=platform_select,l=open">
+					<i class="ico-all-platforms-main"></i>
+			</a>
+	<div id="dropdown-platforms" class="dropdown-platforms">
+	<ul>
+										<li class="header-dropdown-item">
+				<a title="Windows" href="https://www.softonic.com/windows-os" data-ua="#c,a=platform_select,l=select Windows" target="_parent">
+					<i class="ico-plat-windows"></i>
+					Windows
+				</a>
+			</li>
+								<li class="header-dropdown-item">
+				<a title="Mac" href="https://www.softonic.com/mac-os" data-ua="#c,a=platform_select,l=select Mac" target="_parent">
+					<i class="ico-plat-mac"></i>
+					Mac
+				</a>
+			</li>
+								<li class="header-dropdown-item">
+				<a title="Android" href="https://www.softonic.com/android-os" data-ua="#c,a=platform_select,l=select Android" target="_parent">
+					<i class="ico-plat-android"></i>
+					Android
+				</a>
+			</li>
+								<li class="header-dropdown-item">
+				<a title="iPhone" href="https://www.softonic.com/iphone-os" data-ua="#c,a=platform_select,l=select iPhone" target="_parent">
+					<i class="ico-plat-iphone"></i>
+					iPhone
+				</a>
+			</li>
+								<li class="header-dropdown-item">
+				<a title="Aplicaciones web" href="https://www.softonic.com/aplicaciones-web-os" data-ua="#c,a=platform_select,l=select Aplicaciones web" target="_parent">
+					<i class="ico-plat-web-apps"></i>
+					Aplicaciones web
+				</a>
+			</li>
+								<li class="header-dropdown-item">
+				<a title="Java" href="https://www.softonic.com/java-os" data-ua="#c,a=platform_select,l=select Java" target="_parent">
+					<i class="ico-plat-java"></i>
+					Java
+				</a>
+			</li>
+								<li class="header-dropdown-item">
+				<a title="Symbian" href="https://www.softonic.com/symbian-os" data-ua="#c,a=platform_select,l=select Symbian" target="_parent">
+					<i class="ico-plat-symbian"></i>
+					Symbian
+				</a>
+			</li>
+								<li class="header-dropdown-item">
+				<a title="Windows Phone" href="https://www.softonic.com/windows-phone-7-os" data-ua="#c,a=platform_select,l=select Windows Phone" target="_parent">
+					<i class="ico-plat-windows-phone"></i>
+					Windows Phone
+				</a>
+			</li>
+								<li class="header-dropdown-item">
+				<a title="Blackberry" href="https://www.softonic.com/blackberry-os" data-ua="#c,a=platform_select,l=select Blackberry" target="_parent">
+					<i class="ico-plat-blackberry"></i>
+					Blackberry
+				</a>
+			</li>
+								<li class="header-dropdown-item">
+				<a title="Linux" href="https://www.softonic.com/linux-os" data-ua="#c,a=platform_select,l=select Linux" target="_parent">
+					<i class="ico-plat-linux"></i>
+					Linux
+				</a>
+			</li>
+								<li class="header-dropdown-item">
+				<a title="Windows Mobile" href="https://www.softonic.com/windowsmobile-os" data-ua="#c,a=platform_select,l=select Windows Mobile" target="_parent">
+					<i class="ico-plat-windows-mobile"></i>
+					Windows Mobile
+				</a>
+			</li>
+								<li class="header-dropdown-item">
+				<a title="Palm OS" href="https://www.softonic.com/palm-os" data-ua="#c,a=platform_select,l=select Palm OS" target="_parent">
+					<i class="ico-plat-palm-os"></i>
+					Palm OS
+				</a>
+			</li>
+								<li class="header-dropdown-item">
+				<a title="Pocket PC" href="https://www.softonic.com/pocketpc-os" data-ua="#c,a=platform_select,l=select Pocket PC" target="_parent">
+					<i class="ico-plat-pocket-pc"></i>
+					Pocket PC
+				</a>
+			</li>
+			</ul>
+	<a title="Más" href="#" id="dropdown-platforms-more" class="dropdown-platforms-more">
+		<i class="ico-plus"></i>
+		Más	</a>
+</div>
+</div>
+																		
+<div class="header-site-user" id="header-site-user">
+	<a title="Identificarse en Softonic" id="header-login-link" data-modal-content="https://www.softonic.com/login-modal" href="https://www.softonic.com/identificate" class="header-site-user-btn" 			data-ua="#c,a=login_open,l=login_open"
+		>
+		
+					<i class="ico-avatar"></i>
+		
+	</a>
+	</div>
+		</div>
+	</div>
+</header>
+
+		<div class="cu-choice-placeholder">
+		<div class="container" data-ua-common="c=Home">
+			
+								
+		
+	
+	
+
+	<article class="cu-choice cu-choice-m ct-applications">
+		<a title="ABBYY FineReader 14: OCR, PDF y comparación de documentos" href="http://abbyy-finereader.softonic.com/" data-ua="#c,a=OneHomeMain,l=http://abbyy-finereader.softonic.com/">
+			<img src="https://imagenes.es.sftcdn.net/es/scrn/trih/10000/10479/10479_776x437.jpg" alt="ABBYY FineReader 14: OCR, PDF y comparación de documentos" />
+			<div class="cu-choice-info">
+				<div class="cu-choice-labels-group">
+					<i class="cu-choice-label cu-choice-label-icon ico-plat-windows"></i>					<span class="cu-choice-label cu-choice-label-text">App</span>
+				</div>
+				<div class="cu-choice-app-headline">
+					<h1  class="cu-choice-app-name">ABBYY FineReader 14: OCR, PDF y comparación de documentos</h1>
+				</div>
+			</div>
+		</a>
+	</article>
+			
+					
+	
+				
+
+	<article class="cu-choice cu-choice-s ct-articles">
+		<a title="Avast 2017: descubre todas sus novedades" href="http://articulos.softonic.com/avast-2017-novedades" data-ua="#c,a=OneHomeTopRight,l=http://articulos.softonic.com/avast-2017-novedades,articleType=article_preview">
+			<img src="https://imagenes.es.sftcdn.net/es/scrn/trih/10000/10465/10465_386x217.jpg" alt="Avast 2017: descubre todas sus novedades" />
+			<div class="cu-choice-info">
+				<div class="cu-choice-labels-group">
+										<span class="cu-choice-label cu-choice-label-text">Avances</span>
+				</div>
+				<div class="cu-choice-headline">
+					<h1 >Avast 2017: descubre todas sus novedades</h1>
+				</div>
+			</div>
+		</a>
+	</article>
+			
+					
+	
+				
+
+	<article class="cu-choice cu-choice-s ct-articles last">
+		<a title="Deja de perder el tiempo en las redes sociales y procrastina productivamente" href="http://articulos.softonic.com/procrastinacion-productiva-facebook" data-ua="#c,a=OneHomeBottomRight,l=http://articulos.softonic.com/procrastinacion-productiva-facebook,articleType=article_preview">
+			<img src="https://imagenes.es.sftcdn.net/es/scrn/trih/10000/10467/10467_386x217.jpg" alt="Deja de perder el tiempo en las redes sociales y procrastina productivamente" />
+			<div class="cu-choice-info">
+				<div class="cu-choice-labels-group">
+										<span class="cu-choice-label cu-choice-label-text">Avances</span>
+				</div>
+				<div class="cu-choice-headline">
+					<h1 >Deja de perder el tiempo en las redes sociales y procrastina productivamente</h1>
+				</div>
+			</div>
+		</a>
+	</article>
+
+		</div>
+	</div>
+	<div class="container" data-ua-common="c=Home">
+		<div class="col-18 mt">
+			<div id="show_banner_leaderboard" class="show_banner_leaderboard banner-center" data-column-balancer="fixed">
+
+	<script>
+		try {
+		amznads.setTargetingForGPTAsync('amznslots');
+	} catch(e) {}
+
+
+				googletag.cmd.push(
+				function() { googletag.display('show_banner_leaderboard'); }
+		);
+	</script>
+</div>
+		</div>
+		<div class="col-12">
+			
+																		<div class="col-12-7">
+														
+
+
+
+
+
+<article class="cu-card-l ct-videos" data-ua-common="a=BoxRow1Col1Top,l=https://whatsapp.softonic.com/iphone/video/whatsapp-messenger-como-poner-negrita-en-whatsapp-20906" >
+	<div class="cu-card-image">
+		<a title="Cómo poner negrita en WhatsApp" href="https://whatsapp.softonic.com/iphone/video/whatsapp-messenger-como-poner-negrita-en-whatsapp-20906" data-ua="#c,#a,#l">
+							<img src="https://imagenes.es.sftcdn.net/ves/20000/20906/whatsapp-messenger-tips-17052016-es_img350.jpg" alt="Cómo poner negrita en WhatsApp" />
+						<div class="cu-card-labels-group">
+									<i class="cu-card-label-icon ico-plat-iphone"></i>
+								<span class="cu-card-label-text">Vídeos</span>
+			</div>
+							<div class="play-icon-m">
+					<i class="ico-play-circle" alt=" PLAY "></i>
+				</div>
+					</a>
+	</div>
+			<h1 class="cu-card-headline">
+			<a title="Cómo poner negrita en WhatsApp" href="https://whatsapp.softonic.com/iphone/video/whatsapp-messenger-como-poner-negrita-en-whatsapp-20906" data-ua="#c,#a,#l">
+				<span>Cómo poner negrita en WhatsApp</span>
+			</a>
+		</h1>
+				<p class="cu-card-description">En WhatsApp puedes marcar tus palabras en negrita, tachado y cursiva con pequeños símbolos que rodeen las palabras, tal como harías en un texto HTML. </p>
+		</article>
+															
+
+
+		
+
+
+<article class="cu-card-l ct-applications" data-ua-common="a=BoxRow2Col1Top,l=https://utorrent-plus.softonic.com" >
+	<div class="cu-card-image">
+		<a title="uTorrent Plus" href="https://utorrent-plus.softonic.com" data-ua="#c,#a,#l">
+							<img src="https://imagenes.es.sftcdn.net/es/scrn/3335000/3335337/utorrent-plus-03-224x168.png" alt="uTorrent Plus" />
+						<div class="cu-card-labels-group">
+									<i class="cu-card-label-icon ico-plat-windows"></i>
+								<span class="cu-card-label-text">Programas</span>
+			</div>
+					</a>
+	</div>
+			<h1 class="cu-card-headline-applications">
+			<a title="uTorrent Plus" href="https://utorrent-plus.softonic.com" data-ua="#c,#a,#l">
+				<span>uTorrent Plus</span>
+			</a>
+		</h1>
+					<div class="cu-card-app">
+			<div class="cu-card-app-info">
+									<span>Versión completa</span>
+												<span class="cu-card-app-language">Español</span>
+			</div>
+							<a title="Descargar uTorrent Plus" href="https://utorrent-plus.softonic.com/descargar" class="button-main-download-m" data-ua="#c,#a,l=https://utorrent-plus.softonic.com/descargar" ><strong>Descargar</strong><i class="ico-download"></i></a>
+					</div>
+	</article>
+									</div>
+																<div class="col-12-5 last">
+														
+
+		
+
+
+	
+<article class="cu-card-s ct-articles" data-ua-common="a=BoxRow1Col2Top,l=https://articulos.softonic.com/que-es-un-spoiler-nzn,articleType=article_trivia" >
+	<div class="cu-card-image">
+		<a title="¿Qué es un spoiler?" href="https://articulos.softonic.com/que-es-un-spoiler-nzn" data-ua="#c,#a,#l,#articleType">
+							<img src="https://articles-images.sftcdn.net/wp-content/uploads/sites/2/2017/05/maxresdefault-1-2-304x170.jpg" alt="¿Qué es un spoiler?" />
+						<div class="cu-card-labels-group">
+								<span class="cu-card-label-text">Curiosidades</span>
+			</div>
+					</a>
+	</div>
+			<h1 class="cu-card-headline">
+			<a title="¿Qué es un spoiler?" href="https://articulos.softonic.com/que-es-un-spoiler-nzn" data-ua="#c,#a,#l,#articleType">
+				<span>¿Qué es un spoiler?</span>
+			</a>
+		</h1>
+				<p class="cu-card-description">Con el enorme crecimiento de internet y la ola de series de TV que las grandes cadenas nos han traído, es muy común encontrar el término &quot;spoiler&quot;...</p>
+		</article>
+															
+
+		
+
+
+	
+<article class="cu-card-s ct-articles" data-ua-common="a=BoxRow2Col2Top,l=https://articulos.softonic.com/actualizar-bios-ordenador-nzn,articleType=article_tutorial" >
+	<div class="cu-card-image">
+		<a title="Aprende a actualizar el BIOS de tu PC para mejorar su rendimiento" href="https://articulos.softonic.com/actualizar-bios-ordenador-nzn" data-ua="#c,#a,#l,#articleType">
+							<img src="https://articles-images.sftcdn.net/wp-content/uploads/sites/2/2017/05/bios-hd1-304x170.jpg" alt="Aprende a actualizar el BIOS de tu PC para mejorar su rendimiento" />
+						<div class="cu-card-labels-group">
+								<span class="cu-card-label-text">Tutoriales</span>
+			</div>
+					</a>
+	</div>
+			<h1 class="cu-card-headline">
+			<a title="Aprende a actualizar el BIOS de tu PC para mejorar su rendimiento" href="https://articulos.softonic.com/actualizar-bios-ordenador-nzn" data-ua="#c,#a,#l,#articleType">
+				<span>Aprende a actualizar el BIOS de tu PC para mejorar su rendimiento</span>
+			</a>
+		</h1>
+				<p class="cu-card-description">El BIOS es el sistema más básico de un ordenador. A través de esta aplicación, la placa madre controla todos los componentes de la máquina, lo...</p>
+		</article>
+									</div>
+	
+
+	<div class="col-12-12">
+		
+
+
+	
+
+<article class="cu-featured ct-articles">
+	<a title="Cómo convertir archivos Word a PDF" href="https://articulos.softonic.com/como-convertir-archivos-word-pdf-nzn" data-ua="#c,a=BigCentralBox,l=https://articulos.softonic.com/como-convertir-archivos-word-pdf-nzn,articleType=article_tutorial">
+				
+							<img src="https://articles-images.sftcdn.net/wp-content/uploads/sites/2/2017/05/Untitled-2-768x433.jpg" alt="Cómo convertir archivos Word a PDF" />
+				<div class="cu-featured-info">
+			<div class="cu-featured-labels-group">
+								<span class="cu-featured-label cu-featured-label-text">Tutoriales</span>
+			</div>
+			<div class="cu-featured-headline">
+				<h1 >Cómo convertir archivos Word a PDF</h1>
+			</div>
+		</div>
+	</a>
+</article>	</div>
+
+																		<div class="col-12-6">
+														
+
+		
+
+
+	
+<article class="cu-card-m ct-articles" data-ua-common="a=BoxRow1Col1Bottom,l=https://articulos.softonic.com/como-bloquear-webs-sin-programa-nzn,articleType=article_tutorial" >
+	<div class="cu-card-image">
+		<a title="Cómo bloquear sitios web sin instalar un programa" href="https://articulos.softonic.com/como-bloquear-webs-sin-programa-nzn" data-ua="#c,#a,#l,#articleType">
+							<img src="https://articles-images.sftcdn.net/wp-content/uploads/sites/2/2017/05/HTTP-370x208.jpg" alt="Cómo bloquear sitios web sin instalar un programa" />
+						<div class="cu-card-labels-group">
+								<span class="cu-card-label-text">Tutoriales</span>
+			</div>
+					</a>
+	</div>
+			<h1 class="cu-card-headline">
+			<a title="Cómo bloquear sitios web sin instalar un programa" href="https://articulos.softonic.com/como-bloquear-webs-sin-programa-nzn" data-ua="#c,#a,#l,#articleType">
+				<span>Cómo bloquear sitios web sin instalar un programa</span>
+			</a>
+		</h1>
+				<p class="cu-card-description">Tener el control sobre los sitios web que se abren y cierran en tu ordenador es más sencillo de lo que parece. Y para ello no se requiere de...</p>
+		</article>
+															
+
+
+		
+
+	
+<article class="cu-card-m ct-applications" data-ua-common="a=BoxRow2Col1Bottom,l=https://pandora-pokki.softonic.com" >
+	<div class="cu-card-image">
+		<a title="Pandora" href="https://pandora-pokki.softonic.com" data-ua="#c,#a,#l">
+							<img src="https://imagenes.es.sftcdn.net/es/scrn/3352000/3352600/image-04-224x168.png" alt="Pandora" />
+						<div class="cu-card-labels-group">
+									<i class="cu-card-label-icon ico-plat-windows"></i>
+								<span class="cu-card-label-text">Programas</span>
+			</div>
+					</a>
+	</div>
+			<h1 class="cu-card-headline-applications">
+			<a title="Pandora" href="https://pandora-pokki.softonic.com" data-ua="#c,#a,#l">
+				<span>Pandora</span>
+			</a>
+		</h1>
+					<div class="cu-card-app">
+			<div class="cu-card-app-info">
+									<span>Gratis</span>
+												<span class="cu-card-app-language">Inglés</span>
+			</div>
+							<a title="Descargar Pandora" href="https://pandora-pokki.softonic.com/descargar" class="button-main-download-m" data-ua="#c,#a,l=https://pandora-pokki.softonic.com/descargar" ><strong>Descargar</strong><i class="ico-download"></i></a>
+					</div>
+	</article>
+															
+
+		
+
+
+	
+<article class="cu-card-m ct-articles" data-ua-common="a=BoxRow3Col1Bottom,l=https://articulos.softonic.com/lamparas-led-impacto-nzn,articleType=article_review" >
+	<div class="cu-card-image">
+		<a title="Cómo las lámparas LED pueden estar quitando algo muy precioso para los humanos" href="https://articulos.softonic.com/lamparas-led-impacto-nzn" data-ua="#c,#a,#l,#articleType">
+							<img src="https://articles-images.sftcdn.net/wp-content/uploads/sites/2/2017/05/led-370x208.jpg" alt="Cómo las lámparas LED pueden estar quitando algo muy precioso para los humanos" />
+						<div class="cu-card-labels-group">
+								<span class="cu-card-label-text">A fondo</span>
+			</div>
+					</a>
+	</div>
+			<h1 class="cu-card-headline">
+			<a title="Cómo las lámparas LED pueden estar quitando algo muy precioso para los humanos" href="https://articulos.softonic.com/lamparas-led-impacto-nzn" data-ua="#c,#a,#l,#articleType">
+				<span>Cómo las lámparas LED pueden estar quitando algo muy precioso para los humanos</span>
+			</a>
+		</h1>
+				<p class="cu-card-description">Es un hecho: las lámparas LED son económicas, duraderas y ecológicas. Sin embargo, mientras nos proveen de luz, también están quitando algo de...</p>
+		</article>
+									</div>
+																<div class="col-12-6 last">
+														
+
+
+		
+
+	
+<article class="cu-card-m ct-applications" data-ua-common="a=BoxRow1Col2Bottom,l=https://srs-audio-essentials.softonic.com" >
+	<div class="cu-card-image">
+		<a title="SRS Audio Essentials" href="https://srs-audio-essentials.softonic.com" data-ua="#c,#a,#l">
+							<img src="https://imagenes.es.sftcdn.net/es/scrn/334000/334783/2011-10-20-09-224x168.png" alt="SRS Audio Essentials" />
+						<div class="cu-card-labels-group">
+									<i class="cu-card-label-icon ico-plat-windows"></i>
+								<span class="cu-card-label-text">Programas</span>
+			</div>
+					</a>
+	</div>
+			<h1 class="cu-card-headline-applications">
+			<a title="SRS Audio Essentials" href="https://srs-audio-essentials.softonic.com" data-ua="#c,#a,#l">
+				<span>SRS Audio Essentials</span>
+			</a>
+		</h1>
+					<div class="cu-card-app">
+			<div class="cu-card-app-info">
+									<span>Versión completa</span>
+												<span class="cu-card-app-language">Inglés</span>
+			</div>
+							<a title="Descargar SRS Audio Essentials" href="https://srs-audio-essentials.softonic.com/descargar" class="button-main-download-m" data-ua="#c,#a,l=https://srs-audio-essentials.softonic.com/descargar" ><strong>Descargar</strong><i class="ico-download"></i></a>
+					</div>
+	</article>
+															
+
+		
+
+
+	
+<article class="cu-card-m ct-articles" data-ua-common="a=BoxRow2Col2Bottom,l=https://articulos.softonic.com/como-recuperar-contrasena-wifi-usando-un-ordenador-android-nzn,articleType=article_tutorial" >
+	<div class="cu-card-image">
+		<a title="Cómo recuperar tu contraseña WiFi usando un ordenador o un móvil Android" href="https://articulos.softonic.com/como-recuperar-contrasena-wifi-usando-un-ordenador-android-nzn" data-ua="#c,#a,#l,#articleType">
+							<img src="https://articles-images.sftcdn.net/wp-content/uploads/sites/2/2017/05/Untitled-1-370x208.jpg" alt="Cómo recuperar tu contraseña WiFi usando un ordenador o un móvil Android" />
+						<div class="cu-card-labels-group">
+								<span class="cu-card-label-text">Tutoriales</span>
+			</div>
+					</a>
+	</div>
+			<h1 class="cu-card-headline">
+			<a title="Cómo recuperar tu contraseña WiFi usando un ordenador o un móvil Android" href="https://articulos.softonic.com/como-recuperar-contrasena-wifi-usando-un-ordenador-android-nzn" data-ua="#c,#a,#l,#articleType">
+				<span>Cómo recuperar tu contraseña WiFi usando un ordenador o un móvil Android</span>
+			</a>
+		</h1>
+				<p class="cu-card-description">Sabemos que para que una conexión privada de WiFi se pueda compartir, la misma contraseña debe ser usada por todos los usuarios de la red. Sin...</p>
+		</article>
+															
+
+
+		
+
+	
+<article class="cu-card-m ct-applications" data-ua-common="a=BoxRow3Col2Bottom,l=https://minecraft-x-ray.softonic.com" >
+	<div class="cu-card-image">
+		<a title="Minecraft X-Ray" href="https://minecraft-x-ray.softonic.com" data-ua="#c,#a,#l">
+							<img src="https://imagenes.es.sftcdn.net/es/scrn/334000/334254/minecraft-x-ray-04-224x168.png" alt="Minecraft X-Ray" />
+						<div class="cu-card-labels-group">
+									<i class="cu-card-label-icon ico-plat-windows"></i>
+								<span class="cu-card-label-text">Programas</span>
+			</div>
+					</a>
+	</div>
+			<h1 class="cu-card-headline-applications">
+			<a title="Minecraft X-Ray" href="https://minecraft-x-ray.softonic.com" data-ua="#c,#a,#l">
+				<span>Minecraft X-Ray</span>
+			</a>
+		</h1>
+				<p class="cu-card-description-applications">Encuentra rápidamente materiales en Minecraft</p>
+				<div class="cu-card-app">
+			<div class="cu-card-app-info">
+									<span>Gratis</span>
+												<span class="cu-card-app-language">Inglés</span>
+			</div>
+							<a title="Descargar Minecraft X-Ray" href="https://minecraft-x-ray.softonic.com/descargar" class="button-main-download-m" data-ua="#c,#a,l=https://minecraft-x-ray.softonic.com/descargar" ><strong>Descargar</strong><i class="ico-download"></i></a>
+					</div>
+	</article>
+									</div>
+	
+
+		</div>
+		<div class="col-6 last">
+			<div id="show_banner_medium_rectangle" class="show_banner_medium_rectangle banner" data-column-balancer="fixed">
+	<span class="banner-caption">Publicidad</span>
+
+	<script>
+		try {
+		amznads.setTargetingForGPTAsync('amznslots');
+	} catch(e) {}
+
+
+				googletag.cmd.push(
+				function() { googletag.display('show_banner_medium_rectangle'); }
+		);
+	</script>
+</div>
+			<div id="show_banner_softonic_presents" class="show_banner_softonic_presents" data-column-balancer="fixed">
+
+	<script>
+		try {
+		amznads.setTargetingForGPTAsync('amznslots');
+	} catch(e) {}
+
+
+				googletag.cmd.push(
+				function() { googletag.display('show_banner_softonic_presents'); }
+		);
+	</script>
+</div>
+			<article id="top-downloads" class="top" data-sprite-url=https://va1es.sftcdn.net/es/img-generated/top-sprite/>
+	<div class="top__title top__title--download">
+		<h1>APPS MÁS DESCARGADAS</h1>
+	</div>
+	<nav class="top-tabs js-top-tabs" data-ua-common="a=TopDownloadsOS">
+		<ul>
+						<li>
+				<a title="Windows" href="#"
+					class="top-tabs-item active js-windows-tab"
+					data-platform="windows" data-get-items="https://www.softonic.com/home-tops/windows"
+					data-ua="#c,#a,l=Windows">
+						<i class="ico-plat-windows"></i>
+				</a>
+			</li>
+						<li>
+				<a title="Mac" href="#"
+					class="top-tabs-item js-mac-tab"
+					data-platform="mac" data-get-items="https://www.softonic.com/home-tops/mac"
+					data-ua="#c,#a,l=Mac">
+						<i class="ico-plat-mac"></i>
+				</a>
+			</li>
+						<li>
+				<a title="Android" href="#"
+					class="top-tabs-item js-android-tab"
+					data-platform="android" data-get-items="https://www.softonic.com/home-tops/android"
+					data-ua="#c,#a,l=Android">
+						<i class="ico-plat-android"></i>
+				</a>
+			</li>
+						<li>
+				<a title="iPhone" href="#"
+					class="top-tabs-item js-iphone-tab"
+					data-platform="iphone" data-get-items="https://www.softonic.com/home-tops/iphone"
+					data-ua="#c,#a,l=iPhone">
+						<i class="ico-plat-iphone"></i>
+				</a>
+			</li>
+						<li>
+				<a title="Aplicaciones Web" href="#"
+					class="top-tabs-item js-web-apps-tab"
+					data-platform="web-apps" data-get-items="https://www.softonic.com/home-tops/aplicaciones-web"
+					data-ua="#c,#a,l=Aplicaciones Web">
+						<i class="ico-plat-web-apps"></i>
+				</a>
+			</li>
+						<li>
+				<a title="Java2ME" href="#"
+					class="top-tabs-item js-java-tab"
+					data-platform="java" data-get-items="https://www.softonic.com/home-tops/java"
+					data-ua="#c,#a,l=Java2ME">
+						<i class="ico-plat-java"></i>
+				</a>
+			</li>
+					</ul>
+	</nav>
+	<div id="top-sponsored" class="top-sponsored d-n">
+		<span class="top-sponsored-label">Patrocinado</span>
+		<div id="show_banner_tops_sponsored"></div>
+	</div>
+	<section class="top-list top-list--download active js-windows" data-ua-common="a=TopDownloadsProgram" data-sprite-name="S0DOhcKGI568sM5/DeVrgIJmp6wzw/CYUGH9/CC40uxkxcjY5YQYB7n2GXjEBxm/rRDq5lHaUdBvAL/sH+5V3NATmh35FOF1130LQZQtQe1EZqwhQCDoIna2SAWp7bPY">
+	<ol>
+					<li class="top-list__item">
+				<a title="aTube Catcher" href="https://atube-catcher.softonic.com" class="top-list__title top-list__title--1 js-top-list-item"
+					data-ua="#c,#a,l=Pos1">
+												<span class="top-truncate">aTube Catcher</span>
+				</a>
+			</li>
+					<li class="top-list__item">
+				<a title="Google Chrome" href="https://chrome.softonic.com" class="top-list__title top-list__title--2 js-top-list-item"
+					data-ua="#c,#a,l=Pos2">
+												<span class="top-truncate">Google Chrome</span>
+				</a>
+			</li>
+					<li class="top-list__item">
+				<a title="Windows Movie Maker" href="https://windows-movie-maker-vista.softonic.com" class="top-list__title top-list__title--3 js-top-list-item"
+					data-ua="#c,#a,l=Pos3">
+													<i class="top-ico-trend ico-tops-arrow-up"></i>
+												<span class="top-truncate">Windows Movie Maker</span>
+				</a>
+			</li>
+					<li class="top-list__item">
+				<a title="uTorrent" href="https://utorrent.softonic.com" class="top-list__title top-list__title--4 js-top-list-item"
+					data-ua="#c,#a,l=Pos4">
+												<span class="top-truncate">uTorrent</span>
+				</a>
+			</li>
+					<li class="top-list__item">
+				<a title="Windows Movie Maker 2012" href="https://windows-movie-maker.softonic.com" class="top-list__title top-list__title--5 js-top-list-item"
+					data-ua="#c,#a,l=Pos5">
+												<span class="top-truncate">Windows Movie Maker 2012</span>
+				</a>
+			</li>
+			</ol>
+	<div class="top-view-more">
+		<a title="Ver todo el ranking" href="https://www.softonic.com/windows/top-descargas" class="top-button-view-more"
+				data-ua="#c,a=TopDownloadsSeeFull,l=TopDownloadsSeeFull">
+			Ver todo el ranking		</a>
+	</div>
+</section>
+
+</article>
+
+			
+<article class="widget-twitter-timeline">
+	<div class="title-twitter-colored">
+		<a title="Tweets" href="https://twitter.com/softonic_es" target="_blank" data-ua="#c,a=BoxWidgetTwitter">Tweets</a>
+	</div>
+	<div class="twitter-timeline-content">
+		<a title="Tweets" class="twitter-timeline" href="https://twitter.com/softonic_es" data-widget-id="479281625495121920" data-chrome="noheader noscrollbar transparent">Tweets</a>
+	</div>
+</article>
+			
+<a title="Sigue @Softonic" href="https://twitter.com/softonic_es" class="follow-twitter" target="_blank" data-ua="#c,a=FollowTwitter,l=FollowTwitter">
+	<i class="follow-icon ico-twitter"></i>
+	<span class="follow-message-group">
+		<span class="follow-message">Síguenos en Twitter</span>
+		<span class="follow-message-emphasis">Sigue @Softonic</span>
+	</span>
+</a>
+			
+<article class="widget-facebook-timeline">
+	<div class="title-facebook-colored">
+		<a title="Facebook" href="https://www.facebook.com/Softonic" target="_blank" data-ua="#c,a=BoxWidgetFacebook">Facebook</a>
+	</div>
+	<div class="fb-like-box" data-href="https://www.facebook.com/Softonic" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="true" data-show-border="false"></div>
+</article>
+			
+<a title="Sigue Softonic" href="https://www.facebook.com/Softonic" class="follow-facebook" target="_blank" data-ua="#c,a=FollowFacebook,l=FollowFacebook">
+	<i class="ico-facebook follow-icon"></i>
+	<span class="follow-message-group">
+		<span class="follow-message">Síguenos en Facebook</span>
+		<span class="follow-message-emphasis">Sigue Softonic</span>
+	</span>
+</a>
+		</div>
+	</div>
+	
+	<footer class="footer-site">
+		
+<div class="footer-searches" data-ua-common="c=Footer">
+	<div class="container footer-content">
+		<h5 class="footer-searches-title"><i class="ico-search"></i> <span>Búsquedas:</span></h5>
+		<ul class="footer-searches-list">
+			<li class="footer-searches-list-items"><a title="Búsquedas populares en Softonic en las últimas 48 horas" href="https://www.softonic.com/windows/busquedaspopulares"data-ua="#c,a=LoMasBuscado,l=LoMasBuscado">Búsquedas populares</a></li>
+					<li class="footer-searches-list-items"><a title="Otras búsquedas en Softonic" target="_parent" href="//www.softonic.com/busquedas" data-ua="#c,a=OtrasBusquedas,l=OtrasBusquedas">Otras búsquedas</a></li>
+							<li class="footer-searches-list-items"><a title="Todos los vídeos (pág. 2)" href="https://videos.softonic.com/2" target="_top" >T</a><a title="Todos los vídeos (pág. 3)" href="https://videos.softonic.com/3" target="_top" >o</a><a title="Todos los vídeos (pág. 4)" href="https://videos.softonic.com/4" target="_top" >o</a><a title="Todos los vídeos (pág. 5)" href="https://videos.softonic.com/5" target="_top" >o</a><a title="Todos los vídeos (pág. 6)" href="https://videos.softonic.com/6" target="_top" >o</a><a title="Todos los vídeos (pág. 7)" href="https://videos.softonic.com/7" target="_top" >d</a><a title="Todos los vídeos (pág. 8)" href="https://videos.softonic.com/8" target="_top" >o</a><a title="Todos los vídeos (pág. 9)" href="https://videos.softonic.com/9" target="_top" >s</a> <a title="Todos los vídeos" href="https://videos.softonic.com" target="_top" >los vídeos</a></li>
+					<li class="footer-searches-list-items"><a title="Descargar programas gratis (pág. 2)" href="https://www.softonic.com/descargar-programas-gratis/2" target="_top"data-ua="#c,a=Todos,l=Todos">T</a><a title="Descargar programas gratis (pág. 3)" href="https://www.softonic.com/descargar-programas-gratis/3" target="_top"data-ua="#c,a=Todos,l=Todos">o</a><a title="Descargar programas gratis (pág. 4)" href="https://www.softonic.com/descargar-programas-gratis/4" target="_top"data-ua="#c,a=Todos,l=Todos">o</a><a title="Descargar programas gratis (pág. 5)" href="https://www.softonic.com/descargar-programas-gratis/5" target="_top"data-ua="#c,a=Todos,l=Todos">o</a><a title="Descargar programas gratis (pág. 6)" href="https://www.softonic.com/descargar-programas-gratis/6" target="_top"data-ua="#c,a=Todos,l=Todos">o</a><a title="Descargar programas gratis (pág. 7)" href="https://www.softonic.com/descargar-programas-gratis/7" target="_top"data-ua="#c,a=Todos,l=Todos">d</a><a title="Descargar programas gratis (pág. 8)" href="https://www.softonic.com/descargar-programas-gratis/8" target="_top"data-ua="#c,a=Todos,l=Todos">o</a><a title="Descargar programas gratis (pág. 9)" href="https://www.softonic.com/descargar-programas-gratis/9" target="_top"data-ua="#c,a=Todos,l=Todos">s</a> <a title="Descargar todos los programas gratis" href="https://www.softonic.com/descargar-programas-gratis" target="_top"data-ua="#c,a=Todos,l=Todos">los programas</a></li>
+		</ul>
+	</div>
+</div>
+
+<div class="footer-links" data-ua-common="c=Footer">
+	<div class="container footer-content">
+		<div class="col-4">
+			<h5 class="footer-links-title">Sobre nosotros</h5>
+			<ul data-ua-common="l=InformacionSoftonic">
+				<li class="footer-links-items"><a title="Conócenos" href="https://hello.softonic.com/" target="_blank" data-ua="#c,a=AcercaSoftonic,#l">Conócenos</a></li>
+				<li class="footer-links-items"><a title="Ayuda y Soporte" href="http://get-support.softonic.com" target="_blank" data-ua="#c,a=AtencionCliente,#l">Ayuda y Soporte</a></li>
+				<li class="footer-links-items"><a title="Empleo" href="https://hello.softonic.com/careers/#join-us" target="_blank" data-ua="#c,a=TrabajaConNosotros,#l">Empleo</a></li>
+				<li class="footer-links-items"><a title="Softonic News" href="https://hello.softonic.com/press-room" target="_blank" data-ua="#c,a=SoftonicApi,#l">Softonic News</a></li>
+				<li class="footer-links-items"><a title="Información legal" href="https://hello.softonic.com/legal-information" target="_blank" data-ua="#c,a=InformacionLegal,#l">Información legal</a></li>
+				<li class="footer-links-items"><a title="Cookies Policy" href="https://hello.softonic.com/cookies-policy" target="_blank">Cookies Policy</a></li>
+			</ul>
+		</div>
+		<div class="col-5">
+			<h5 class="footer-links-title">Desarrolladores</h5>
+			<ul data-ua-common="a=Developers">
+				<li class="footer-links-items"><a title="Softonic Developer Center" href="http://dev-support.softonic.com/customer/es/portal/articles/2560330-softonic-developer-center-ya-no-est%C3%A1-disponible" target="_blank" data-ua="#c,#a,l=sdc home">Softonic Developer Center</a></li>
+				<li class="footer-links-items"><a title="Publica y administra tu software" href="http://dev-support.softonic.com/customer/es/portal/articles/2567950-c%C3%B3mo-puedo-publicar-my-app-en-softonic" target="_blank" data-ua="#c,#a,l=sdc dcp">Publica y administra tu software</a></li>
+				<li class="footer-links-items"><a title="Software Policy" href="https://hello.softonic.com/software-policy" target="_blank">Software Policy</a></li>
+			</ul>
+		</div>
+		<div class="col-4">
+			<h5 class="footer-links-title">Partners</h5>
+			<ul>
+				<li class="footer-links-items"><a title="Publicidad en Softonic" href="https://hello.softonic.com/for-advertisers/#advertising-solutions" target="_blank" data-ua="#c,a=PublicidadSoftonic,l=B2B">Publicidad en Softonic</a></li>
+			</ul>
+		</div>
+		<div class="col-5 last">
+			<h5 class="footer-links-title">Usuarios</h5>
+			<ul>
+				<li>
+					<ul class="social-follow-us__list">
+												<li class="social-follow-us__list-item">
+							<a class="button-social button-social--S button-social--facebook" title="Softonic en Facebook" href="https://www.facebook.com/Softonic" target="_blank" data-ua="#c,a=Facebook,l=Comunidad" rel="nofollow">
+								<span class="button-social__text--hidden">Softonic en Facebook</span>
+								<i class="ico-facebook"></i>
+							</a>
+						</li>
+																		<li class="social-follow-us__list-item">
+							<a class="button-social button-social--S button-social--twitter" title="Síguenos en @Softonic" href="https://twitter.com/softonic_es" target="_blank" data-ua="#c,a=Twitter,l=Comunidad" rel="nofollow">
+								<span class="button-social__text--hidden">Síguenos en @Softonic</span>
+								<i class="ico-twitter"></i>
+							</a>
+						</li>
+																		<li class="social-follow-us__list-item">
+							<a class="button-social button-social--S button-social--google-plus" title="Google+" href="https://plus.google.com/u/0/112638281780859343687" target="_blank" data-ua="#c,a=GooglePlus,l=Comunidad" rel="nofollow">
+								<span class="button-social__text--hidden">Google+</span>
+								<i class="ico-google-plus"></i>
+							</a>
+						</li>
+																		<li class="social-follow-us__list-item">
+							<a class="button-social button-social--S button-social--linkedin" title="LinkedIn" href="https://www.linkedin.com/company/50208" target="_blank" data-ua="#c,a=LinkedIn,l=Comunidad" rel="nofollow">
+								<span class="button-social__text--hidden">LinkedIn</span>
+								<i class="ico-linkedin"></i>
+							</a>
+						</li>
+																		<li class="social-follow-us__list-item">
+							<a class="button-social button-social--S button-social--flickr" title="Flickr" href="https://www.flickr.com/photos/softonic" target="_blank" data-ua="#c,a=flickr,l=Comunidad" rel="nofollow">
+								<span class="button-social__text--hidden">Flickr</span>
+								<i class="ico-flickr"></i>
+							</a>
+						</li>
+												<li class="social-follow-us__list-item">
+							<a class="button-social button-social--S button-social--rss" title="Suscríbete a nuestros RSS" href="//www.softonic.com/feeds" target="_blank" data-ua="#c,a=RSS,l=Comunidad" rel="nofollow">
+								<span class="button-social__text--hidden">Suscríbete a nuestros RSS</span>
+								<i class="ico-rss"></i>
+							</a>
+						</li>
+					</ul>
+				</li>
+				<li class="footer-links-items"><a title="Softonic Solutions" href="https://solutions.softonic.com/?utm_source=Cross%20Promotion&utm_medium=Footer&utm_term=es_ES" target="_blank">Softonic Solutions</a></li>
+				<li class="footer-links-items"><a title="Mejora tu Android" href="http://enjoyapps.softonic.com/?utm_source=softonic_es-ES&utm_medium=getzry&utm_campaign=footer" target="_blank">Mejora tu Android</a></li>
+				<li class="footer-links-items"><a title="Softonic Newsletters" href="https://newsletters.softonic.com/es/?utm_medium=referral&utm_source=softonic.com&utm_campaign=ES-footer" target="_blank" data-ua=&quot;#c,a=SuscripcionBoletin,l=Comunidad&quot;>Softonic Newsletters</a></li>
+				<li class="footer-links-items"><a title="Softonic Deals" href="https://deals.softonic.com/" target="_blank" >Softonic Deals</a></li>
+						</ul>
+		</div>
+		
+<div class="col-18 last footer-languages">
+	<h5>Softonic en:</h5>
+	<ul>
+			<li>
+			<a title="Español" hreflang="es-ES" href="https://www.softonic.com/" class="footer-language-selected" data-ua="#c,a=Language,l=Español">
+				Español
+			</a>
+		</li>
+			<li>
+			<a title="English" hreflang="en-US" href="https://en.softonic.com/" data-ua="#c,a=Language,l=English">
+				English
+			</a>
+		</li>
+			<li>
+			<a title="Français" hreflang="fr-FR" href="https://fr.softonic.com/" data-ua="#c,a=Language,l=Français">
+				Français
+			</a>
+		</li>
+			<li>
+			<a title="Deutsch" hreflang="de-DE" href="https://de.softonic.com/" data-ua="#c,a=Language,l=Deutsch">
+				Deutsch
+			</a>
+		</li>
+			<li>
+			<a title="Italiano" hreflang="it-IT" href="https://it.softonic.com/" data-ua="#c,a=Language,l=Italiano">
+				Italiano
+			</a>
+		</li>
+			<li>
+			<a title="Português" hreflang="pt-BR" href="https://www.softonic.com.br/" data-ua="#c,a=Language,l=Português">
+				Português
+			</a>
+		</li>
+			<li>
+			<a title="Polski" hreflang="pl-PL" href="https://www.softonic.pl/" data-ua="#c,a=Language,l=Polski">
+				Polski
+			</a>
+		</li>
+			<li>
+			<a title="Nederlands" hreflang="nl-NL" href="https://nl.softonic.com/" data-ua="#c,a=Language,l=Nederlands">
+				Nederlands
+			</a>
+		</li>
+			<li>
+			<a title="日本語" hreflang="ja-JP" href="https://www.softonic.jp/" data-ua="#c,a=Language,l=日本語">
+				日本語
+			</a>
+		</li>
+			<li>
+			<a title="Türkçe" hreflang="tr-TR" href="http://tr.softonic.com/" data-ua="#c,a=Language,l=Türkçe">
+				Türkçe
+			</a>
+		</li>
+			<li>
+			<a title="한국어/조선말" hreflang="ko-KR" href="http://ko.softonic.com/" data-ua="#c,a=Language,l=한국어/조선말">
+				한국어/조선말
+			</a>
+		</li>
+			<li>
+			<a title="Svenska" hreflang="sv-SE" href="http://sv.softonic.com/" data-ua="#c,a=Language,l=Svenska">
+				Svenska
+			</a>
+		</li>
+		</ul>
+</div>
+	</div>
+</div>
+
+		<div class="footer-legal">
+	<div class="container footer-content">
+			<img src="https://va1es.sftcdn.net/shared/img/interface/softonic_logo.png" alt="logotipo de Softonic" width="160" height="34" class="footer-legal-logo" />
+			<p>El nombre y el logotipo de Softonic son marcas registradas de SOFTONIC INTERNACIONAL S.A.</p>
+					<p>Copyright SOFTONIC INTERNACIONAL S.A. © 1997-2017 - Todos los derechos reservados</p>
+			</div>
+</div>
+
+	</footer>
+		<div id="cookie-policies" class="msg-fixed-bottom d-n">
+	<p class="container msg-fixed-bottom-content">
+		<i class="ico-remove"></i>
+		Utilizamos nuestras propias cookies y de terceros para mejorar nuestros servicios y su experiencia. Mediante ellas personalizamos anuncios, proporcionamos funciones de las redes sociales y analizamos nuestro tráfico. También compartimos información sobre la manera en que usa nuestro sitio con nuestros socios de redes sociales, publicidad y análisis. Al continuar navegando, se considera que acepta lo anterior. Puede cambiar los ajustes de sus cookies y obtener más información <a title="Información legal" href="https://hello.softonic.com/cookies-policy" target="_blank">aquí</a>.	</p>
+</div>
+	<!-- Begin comScore Tag -->
+<script>
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "15548145" });
+	(function() {
+		var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+		s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s, el);
+	})();
+	</script>
+<noscript>
+	<img src="https://sb.scorecardresearch.com/p?c1=2&amp;c2=15548145&amp;cv=2.0&amp;cj=1" alt="Comscore" />
+</noscript>
+<!-- End comScore Tag -->
+<script type="text/javascript">
+	window._stp = window._stp || {};
+	window._stq = window._stq || [];
+	window._stp.host = 'softonic-analytics.net/blank.gif';
+	window._stp.pageview_id = '4c447aafbeb1dc3cd814659277b6a729';
+	window._stp.product = 'web';
+</script>
+<script>
+(function() { var csid = "F09828"; var bpid = "softonic"; var e = document.createElement("script"); var s = document.getElementsByTagName("script")[0]; e.src = "//js.revsci.net/gateway/gw.js?auto=t&csid=" + csid + "&bpid=" + bpid; e.async = true; s.parentNode.insertBefore(e, s); } )();
+// PageFair pixel and its tracking
+function pf_notify(a){var n=a?"true":"false";Namespace.tracking.oCTS.trackEvent({UACategory:"is_adblocking",UAAction:n,UALabel:n,UANonInteraction:!0},"ua")}
+(function(){function async_load(a){var b=('https:'==document.location.protocol?'https://':'http://');var s=document.createElement('script');s.src=b+a;var x=document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x)}bm_website_code='992B8C8C22834BFF';$(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});$(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')})})();
+</script>
+	<div id="show_banner_wallpaper_background" class="show_banner_wallpaper_background" data-column-balancer="fixed">
+
+	<script>
+		try {
+		amznads.setTargetingForGPTAsync('amznslots');
+	} catch(e) {}
+
+
+				googletag.cmd.push(
+				function() { googletag.display('show_banner_wallpaper_background'); }
+		);
+	</script>
+</div>
+	<div id="show_banner_interstitial" class="show_banner_interstitial" data-column-balancer="fixed">
+
+	<script>
+		try {
+		amznads.setTargetingForGPTAsync('amznslots');
+	} catch(e) {}
+
+
+				googletag.cmd.push(
+				function() { googletag.display('show_banner_interstitial'); }
+		);
+	</script>
+</div>
+	
+</body>
+</html>

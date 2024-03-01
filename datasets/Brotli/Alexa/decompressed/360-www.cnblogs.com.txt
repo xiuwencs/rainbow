@@ -1,0 +1,591 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>博客园 - 开发者的网上家园</title>
+    <meta name="keywords" content="开发者,博客园,开发者,程序猿,程序媛,极客,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,技术社区" />
+        <meta name="description" content="博客园是一个面向开发者的知识分享社区。自创建以来，博客园一直致力并专注于为开发者打造一个纯净的技术交流社区，推动并帮助开发者通过互联网分享知识，从而让更多开发者从中受益。博客园的使命是帮助开发者用代码改变世界。" />
+    <link rel="shortcut icon" href="//common.cnblogs.com/favicon.ico" type="image/x-icon" />
+    <link rel="Stylesheet" type="text/css" href="/bundles/aggsite.css?v=IhfFDNk6saBQuSizNqMno4eFb5L3OoXlsUCqkaSgNvA1" />
+    <link id="RSSLink" title="RSS" type="application/rss+xml" rel="alternate" href="http://feed.cnblogs.com/blog/sitehome/rss" />
+    <script src="//common.cnblogs.com/script/jquery.js" type="text/javascript"></script>
+    <script src="/bundles/aggsite.js?v=vWqa5z-vvnUBiauXGl6S0-ZbtOAq_fbE-A1hKZngtlw1" type="text/javascript"></script>
+</head>
+<body>
+    <div id="wrapper">
+        <div id="hd_info">
+            <div id="cnts">
+                <div id="site_nav_top">代码改变世界</div>
+                <div id="login_area"><span id="span_userinfo"></span></div>
+                <div class="clear"></div>
+            </div>
+        </div>
+        <div id="header">
+            <p class="h_r_3"></p><p class="h_r_2"></p><p class="h_r_1"></p>
+            <div id="header_block">
+                <div id="logo">
+                    <h1>
+                        <a href="https://www.cnblogs.com/" title="开发者的网上家园"><img src="/images/logo_small.gif" alt="博客园Logo" width="142" height="55" /></a>
+                    </h1>
+                </div>
+
+                <div class="clear"></div>
+            </div>
+            <p class="h_r_1"></p><p class="h_r_2"></p><p class="h_r_3"></p>
+        </div>
+        <div id="nav_menu"><a href="https://home.cnblogs.com/">园子</a><a href="https://news.cnblogs.com">新闻</a><a href="https://q.cnblogs.com/">博问</a><a href="https://ing.cnblogs.com/">闪存</a><a href="https://group.cnblogs.com/">小组</a><a href="https://wz.cnblogs.com/">收藏</a><a href="https://job.cnblogs.com/">招聘</a><a href="http://kb.cnblogs.com/">知识库</a><a href="http://zzk.cnblogs.com/">找找看</a></div>
+        <div id="main">
+            <div class="post_nav_block_wrapper">
+                <ul class="post_nav_block">
+                        <li><a href="/"  class="current_nav" >首页</a></li>
+                        <li><a href="/pick/"   title="编辑精选博文">精华</a></li>
+                        <li><a href="/candidate/"   title="候选区的博文">候选</a></li>
+                        <li><a href="/news/"   title="新闻频道最新新闻">新闻</a></li>
+                        <li><a href="/following"   title="我关注博客的最新博文">关注</a></li>
+                        <li><a href="/aggsite/mycommented"   title="我评论过的博文">我评</a></li>
+                        <li><a href="/aggsite/mydigged"   title="我推荐过的博文">我赞</a></li>
+                </ul>
+                <div class="clear"></div>
+            </div>
+            <div class="rss_link" id="rss_block">
+<span id="posts_refresh_tips"></span><a id="posts_refresh" href="#" class="refresh" title="刷新博文列表" onclick="aggSite.loadCategoryPostList();return false">刷新</a>                <a href="http://feed.cnblogs.com/blog/sitehome/rss"><img src="//common.cnblogs.com/images/icon_rss.gif" alt="点击订阅" style="position:relative;top:2px;" title="订阅博客园文章" /></a>            </div>
+                <div id="headline_block" class="headline"><ul><li class="editor_pick"><a href="http://www.cnblogs.com/aspwebchh/p/6823393.html" id="editor_pick_lnk" target="_blank">【编辑推荐】使用测试用例来约束自己的代码<span id="editor_pick_count"></span></a> <a href="/aggsite/headline" title="查看更多编辑推荐" class="right_more">»</a></li><li><a href="http://www.cnblogs.com/xiexj/p/6828204.html" target="_blank" title="阅读3384, 评论59, 推荐34">[最多推荐]和真正的程序员在一起是怎样的体验(59/3384)</a> <a href="/aggsite/topdigged24h" title="查看24小时推荐排行" class="right_more">»</a></li><li><a href="http://www.cnblogs.com/biehongli/p/6831510.html" target="_blank" title="阅读446, 评论25, 推荐4">[最多评论]一个忙着找实习工作的大三在校生的真实感受！！！(25/446)</a> <a href="/aggsite/topcommented24h" title="查看24小时评论排行" class="right_more">»</a></li><li><a href="http://news.cnblogs.com/n/568922/" target="_blank" title="阅读1074, 评论1, 推荐13">[新闻头条]给火山“加个盖子”来发电可行吗？冰岛正在这么干(1/1074)</a> <a href="http://news.cnblogs.com/" title="查看更多新闻" class="right_more">»</a></li><li><a href="http://news.cnblogs.com/n/568867/" target="_blank" title="阅读2527, 评论5, 推荐10">[推荐新闻]Google Fuchsia系统UI设计曝光(5/2527)</a> <a href="http://news.cnblogs.com/n/recommend" title="查看更多推荐新闻" class="right_more">»</a></li></ul></div>
+
+            
+
+            
+            <div id="pager_top" style="display:none"></div>
+            <div id="post_list_tips" class="hide"></div>
+            
+            <div id="post_list">
+                
+<div class="post_item">
+<div class="digg">
+    <div class="diggit" onclick="DiggPost('liuyongqi',6832709,338250,1)"> 
+	<span class="diggnum" id="digg_count_6832709">0</span>
+	</div>
+	<div class="clear"></div>
+	<div id="digg_tip_6832709" class="digg_tip"></div>
+</div>      
+<div class="post_item_body">
+	<h3><a class="titlelnk" href="http://www.cnblogs.com/liuyongqi/p/6832709.html" target="_blank">JavaScript面向对象编程—this详解</a></h3>               	
+    <p class="post_item_summary">
+    this详解 作者的话 在JavaScriptOPPt面向对象编程中，this这位老大哥，相信大家不会陌生。大家在遇到this时，很多朋友难免会有个疑问：“这个this是什么，它到底指向谁？” 今天，博主针对this的指向问题，进行了整理。本篇博客，博主给大家详尽介绍了不同情况下，this的指向！！ ...
+    </p>              
+    <div class="post_item_foot">                    
+    <a href="http://www.cnblogs.com/liuyongqi/" class="lightblue">Q的前端世界</a> 
+    发布于 2017-05-09 21:13 
+    <span class="article_comment"><a href="http://www.cnblogs.com/liuyongqi/p/6832709.html#commentform" title="" class="gray">
+        评论(0)</a></span><span class="article_view"><a href="http://www.cnblogs.com/liuyongqi/p/6832709.html" class="gray">阅读(1)</a></span></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="post_item">
+<div class="digg">
+    <div class="diggit" onclick="DiggPost('tjyoung',6832234,271379,1)"> 
+	<span class="diggnum" id="digg_count_6832234">0</span>
+	</div>
+	<div class="clear"></div>
+	<div id="digg_tip_6832234" class="digg_tip"></div>
+</div>      
+<div class="post_item_body">
+	<h3><a class="titlelnk" href="http://www.cnblogs.com/tjyoung/p/6832234.html" target="_blank">【vue系列之一】使用vue脚手架工具搭建vue-webpack项目</a></h3>               	
+    <p class="post_item_summary">
+<a href="http://www.cnblogs.com/tjyoung/" target="_blank"><img width="48" height="48" class="pfs" src="//pic.cnblogs.com/face/908144/20160817174726.png" alt=""/></a>    对于Vue.js来说，如果你想要快速开始，那么只需要在你的html中引入一个&lt;script&gt;标签，加上CDN的地址即可。但是，这并不算是一个完整的vue实际应用。在实际应用中，我们必须要一系列的工具，包括：模块化，转译，预处理，热加载，静态检测和自动化测试等。对于一个需要长期维护和大型的项目而言，这 ...
+    </p>              
+    <div class="post_item_foot">                    
+    <a href="http://www.cnblogs.com/tjyoung/" class="lightblue">TJYoung</a> 
+    发布于 2017-05-09 21:06 
+    <span class="article_comment"><a href="http://www.cnblogs.com/tjyoung/p/6832234.html#commentform" title="" class="gray">
+        评论(0)</a></span><span class="article_view"><a href="http://www.cnblogs.com/tjyoung/p/6832234.html" class="gray">阅读(7)</a></span></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="post_item">
+<div class="digg">
+    <div class="diggit" onclick="DiggPost('lxp503238',6832682,339342,1)"> 
+	<span class="diggnum" id="digg_count_6832682">0</span>
+	</div>
+	<div class="clear"></div>
+	<div id="digg_tip_6832682" class="digg_tip"></div>
+</div>      
+<div class="post_item_body">
+	<h3><a class="titlelnk" href="http://www.cnblogs.com/lxp503238/p/6832682.html" target="_blank">Spring框架入门</a></h3>               	
+    <p class="post_item_summary">
+<a href="http://www.cnblogs.com/lxp503238/" target="_blank"><img width="48" height="48" class="pfs" src="//pic.cnblogs.com/face/1122904/20170310151351.png" alt=""/></a>    技术分析之什么是Spring框架 1. Spring框架的概述 * Spring是一个开源框架 * Spring是于2003 年兴起的一个轻量级的Java开发框架，由Rod Johnson在其著作Expert One-On-One J2EE Development and Design中阐述的部分理 ...
+    </p>              
+    <div class="post_item_foot">                    
+    <a href="http://www.cnblogs.com/lxp503238/" class="lightblue">晓梦蝶</a> 
+    发布于 2017-05-09 21:06 
+    <span class="article_comment"><a href="http://www.cnblogs.com/lxp503238/p/6832682.html#commentform" title="" class="gray">
+        评论(0)</a></span><span class="article_view"><a href="http://www.cnblogs.com/lxp503238/p/6832682.html" class="gray">阅读(7)</a></span></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="post_item">
+<div class="digg">
+    <div class="diggit" onclick="DiggPost('pleiades',6716353,154311,1)"> 
+	<span class="diggnum" id="digg_count_6716353">0</span>
+	</div>
+	<div class="clear"></div>
+	<div id="digg_tip_6716353" class="digg_tip"></div>
+</div>      
+<div class="post_item_body">
+	<h3><a class="titlelnk" href="http://www.cnblogs.com/pleiades/p/6716353.html" target="_blank">通用报文解析服务的演进之路（基于磁盘目录的分布式消息消费者服务）之二</a></h3>               	
+    <p class="post_item_summary">
+<a href="http://www.cnblogs.com/pleiades/" target="_blank"><img width="48" height="48" class="pfs" src="//pic.cnblogs.com/face/345405/20130604154007.png" alt=""/></a>    书接上回，继续分享。 通用报文解析服务，用C#开发，经历了三版更新，支撑起了关区内的绝大多数数据交换业务，截止至今，每日收发报文约20万，数据量约5G，平均延迟在1分钟内。 回想起那些半夜处理积压报文的场景，不胜唏嘘，决定把这个演进过程向大家讲述一下。回顾历史，展望未来，如果能给大家一些启发，是再好 ...
+    </p>              
+    <div class="post_item_foot">                    
+    <a href="http://www.cnblogs.com/pleiades/" class="lightblue">Pleiades</a> 
+    发布于 2017-05-09 20:49 
+    <span class="article_comment"><a href="http://www.cnblogs.com/pleiades/p/6716353.html#commentform" title="" class="gray">
+        评论(0)</a></span><span class="article_view"><a href="http://www.cnblogs.com/pleiades/p/6716353.html" class="gray">阅读(21)</a></span></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="post_item">
+<div class="digg">
+    <div class="diggit" onclick="DiggPost('hackbee',6832394,351337,1)"> 
+	<span class="diggnum" id="digg_count_6832394">0</span>
+	</div>
+	<div class="clear"></div>
+	<div id="digg_tip_6832394" class="digg_tip"></div>
+</div>      
+<div class="post_item_body">
+	<h3><a class="titlelnk" href="http://www.cnblogs.com/hackbee/p/6832394.html" target="_blank">微信开发之向用户群发文本消息</a></h3>               	
+    <p class="post_item_summary">
+<a href="http://www.cnblogs.com/hackbee/" target="_blank"><img width="48" height="48" class="pfs" src="//pic.cnblogs.com/face/1153957/20170425212130.png" alt=""/></a>    本文目录 ： 1. "给单一用户发文本消息" 2. "给多个用户发文本消息" 3. "给所有用户发文本消息" 4. "遇到的问题" 5. "小结" 微信提供的api，对于针对用户openid发消息的话，没有向所有关注者群发消息的接口，但提供了向单一用户和多用户发文本消息的接口，我们可以基于此开发向所 ...
+    </p>              
+    <div class="post_item_foot">                    
+    <a href="http://www.cnblogs.com/hackbee/" class="lightblue">猿声</a> 
+    发布于 2017-05-09 20:03 
+    <span class="article_comment"><a href="http://www.cnblogs.com/hackbee/p/6832394.html#commentform" title="" class="gray">
+        评论(0)</a></span><span class="article_view"><a href="http://www.cnblogs.com/hackbee/p/6832394.html" class="gray">阅读(60)</a></span></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="post_item">
+<div class="digg">
+    <div class="diggit" onclick="DiggPost('crushlinux',6832387,340952,1)"> 
+	<span class="diggnum" id="digg_count_6832387">0</span>
+	</div>
+	<div class="clear"></div>
+	<div id="digg_tip_6832387" class="digg_tip"></div>
+</div>      
+<div class="post_item_body">
+	<h3><a class="titlelnk" href="http://www.cnblogs.com/crushlinux/p/6832387.html" target="_blank">Linux系统管理10——进程和计划任务管理</a></h3>               	
+    <p class="post_item_summary">
+<a href="http://www.cnblogs.com/crushlinux/" target="_blank"><img width="48" height="48" class="pfs" src="//pic.cnblogs.com/face/1126758/20170316103149.png" alt=""/></a>    Linux系统管理10——进程和计划任务管理 一、程序和进程的关系 1、程序 &#183;保存在硬盘、光盘等介质中的可执行代码和数据 &#183;静态保存的代码 2、进程 &#183;在CPU及内存中运行的程序代码 &#183;动态执行的代码 &#183;父、子进程：每一个进程可以创建一个或多个进程 二、静态查看进程统计信息&#160;ps命令 1、ps a ...
+    </p>              
+    <div class="post_item_foot">                    
+    <a href="http://www.cnblogs.com/crushlinux/" class="lightblue">房佳亮</a> 
+    发布于 2017-05-09 20:02 
+    <span class="article_comment"><a href="http://www.cnblogs.com/crushlinux/p/6832387.html#commentform" title="" class="gray">
+        评论(0)</a></span><span class="article_view"><a href="http://www.cnblogs.com/crushlinux/p/6832387.html" class="gray">阅读(25)</a></span></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="post_item">
+<div class="digg">
+    <div class="diggit" onclick="DiggPost('zhcs',6832228,349610,1)"> 
+	<span class="diggnum" id="digg_count_6832228">2</span>
+	</div>
+	<div class="clear"></div>
+	<div id="digg_tip_6832228" class="digg_tip"></div>
+</div>      
+<div class="post_item_body">
+	<h3><a class="titlelnk" href="http://www.cnblogs.com/zhcs/p/6832228.html" target="_blank">C++中发声函数Beep详解</a></h3>               	
+    <p class="post_item_summary">
+    By zhcs 以前，我听过一个神犇用C++函数做的音乐，当时的心里就十分激动：哇，好厉害啊，好神啊。 这次，我终于通过自己无助的盲目的摸索、研究，写出了这篇文章（此时我的内心是鸡冻的233） 下面是正文： 其实啊，Windows API 就提供了一个这样奇妙的发音函数，它就是Beep函数。Beep ...
+    </p>              
+    <div class="post_item_foot">                    
+    <a href="http://www.cnblogs.com/zhcs/" class="lightblue">zhcs</a> 
+    发布于 2017-05-09 19:22 
+    <span class="article_comment"><a href="http://www.cnblogs.com/zhcs/p/6832228.html#commentform" title="" class="gray">
+        评论(0)</a></span><span class="article_view"><a href="http://www.cnblogs.com/zhcs/p/6832228.html" class="gray">阅读(58)</a></span></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="post_item">
+<div class="digg">
+    <div class="diggit" onclick="DiggPost('magicsoar',6832204,155434,1)"> 
+	<span class="diggnum" id="digg_count_6832204">0</span>
+	</div>
+	<div class="clear"></div>
+	<div id="digg_tip_6832204" class="digg_tip"></div>
+</div>      
+<div class="post_item_body">
+	<h3><a class="titlelnk" href="http://www.cnblogs.com/magicsoar/p/6832204.html" target="_blank">openresty源码剖析——lua代码的执行</a></h3>               	
+    <p class="post_item_summary">
+<a href="http://www.cnblogs.com/magicsoar/" target="_blank"><img width="48" height="48" class="pfs" src="//pic.cnblogs.com/face/412433/20140305002157.png" alt=""/></a>    上一篇文章中我们讨论了openresty如何加载lua代码，那么加载完成之后的lua代码又是如何执行的呢？ ...
+    </p>              
+    <div class="post_item_foot">                    
+    <a href="http://www.cnblogs.com/magicsoar/" class="lightblue">magicsoar</a> 
+    发布于 2017-05-09 19:15 
+    <span class="article_comment"><a href="http://www.cnblogs.com/magicsoar/p/6832204.html#commentform" title="" class="gray">
+        评论(0)</a></span><span class="article_view"><a href="http://www.cnblogs.com/magicsoar/p/6832204.html" class="gray">阅读(40)</a></span></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="post_item">
+<div class="digg">
+    <div class="diggit" onclick="DiggPost('phpstudy2015-6',6821478,258167,1)"> 
+	<span class="diggnum" id="digg_count_6821478">2</span>
+	</div>
+	<div class="clear"></div>
+	<div id="digg_tip_6821478" class="digg_tip"></div>
+</div>      
+<div class="post_item_body">
+	<h3><a class="titlelnk" href="http://www.cnblogs.com/phpstudy2015-6/p/6821478.html" target="_blank">掀开断点续传那一层面纱（下载篇）</a></h3>               	
+    <p class="post_item_summary">
+<a href="http://www.cnblogs.com/phpstudy2015-6/" target="_blank"><img width="48" height="48" class="pfs" src="//pic.cnblogs.com/face/789055/20161204181900.png" alt=""/></a>    1、简介 这一篇文章主要介绍的是http协议下载时的断点续传，详细到各个步骤。主要步骤有：DNS查找、TCP三次握手、http请求发送、TCP协议数据传输、暂停后的状态、继续下载、TCP三次握手、http请求发送、数据传输、。。。、下载成功发送http响应信息、TCP四次握手断开连接。 2、原理知识 ...
+    </p>              
+    <div class="post_item_foot">                    
+    <a href="http://www.cnblogs.com/phpstudy2015-6/" class="lightblue">那一叶随风</a> 
+    发布于 2017-05-09 18:15 
+    <span class="article_comment"><a href="http://www.cnblogs.com/phpstudy2015-6/p/6821478.html#commentform" title="" class="gray">
+        评论(0)</a></span><span class="article_view"><a href="http://www.cnblogs.com/phpstudy2015-6/p/6821478.html" class="gray">阅读(138)</a></span></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="post_item">
+<div class="digg">
+    <div class="diggit" onclick="DiggPost('NextNight',6829923,228524,1)"> 
+	<span class="diggnum" id="digg_count_6829923">1</span>
+	</div>
+	<div class="clear"></div>
+	<div id="digg_tip_6829923" class="digg_tip"></div>
+</div>      
+<div class="post_item_body">
+	<h3><a class="titlelnk" href="http://www.cnblogs.com/NextNight/p/6829923.html" target="_blank">[大数据]-Elasticsearch5.3.1+Kibana5.3.1从单机到分布式的安装与使用&lt;2&gt;</a></h3>               	
+    <p class="post_item_summary">
+<a href="http://www.cnblogs.com/NextNight/" target="_blank"><img width="48" height="48" class="pfs" src="//pic.cnblogs.com/face/721561/20150228153811.png" alt=""/></a>    前言：上篇[大数据]-Elasticsearch5.3.1+Kibana5.3.1从单机到分布式的安装与使用&lt;1&gt;中介绍了ES ,Kibana的单机到分布式的安装，这里主要是介绍Elasticsearch5.3.1的一些概念。官方示例的基本数据导入，数据查询以及ES，kibana的功能组件的认识和熟 ...
+    </p>              
+    <div class="post_item_foot">                    
+    <a href="http://www.cnblogs.com/NextNight/" class="lightblue">NextNight</a> 
+    发布于 2017-05-09 18:07 
+    <span class="article_comment"><a href="http://www.cnblogs.com/NextNight/p/6829923.html#commentform" title="" class="gray">
+        评论(0)</a></span><span class="article_view"><a href="http://www.cnblogs.com/NextNight/p/6829923.html" class="gray">阅读(74)</a></span></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="post_item">
+<div class="digg">
+    <div class="diggit" onclick="DiggPost('evaling',6831840,344868,1)"> 
+	<span class="diggnum" id="digg_count_6831840">0</span>
+	</div>
+	<div class="clear"></div>
+	<div id="digg_tip_6831840" class="digg_tip"></div>
+</div>      
+<div class="post_item_body">
+	<h3><a class="titlelnk" href="http://www.cnblogs.com/evaling/p/6831840.html" target="_blank">如何将angular-ui的分页组件封装成一个指令</a></h3>               	
+    <p class="post_item_summary">
+<a href="http://www.cnblogs.com/evaling/" target="_blank"><img width="48" height="48" class="pfs" src="//pic.cnblogs.com/face/1137066/20170404132412.png" alt=""/></a>    准备工作： （1）一如既往的我还是使用了requireJS进行js代码的编译 （2）必须引入angualrJS , ui-bootstrap-tpls-1.3.2.js , bootstrap.css.... 首先抛出几个问题： a）:何时回用到分页 (当后端返回的数据过多，一页装不满时，我们必须要 ...
+    </p>              
+    <div class="post_item_foot">                    
+    <a href="http://www.cnblogs.com/evaling/" class="lightblue">你的一灯</a> 
+    发布于 2017-05-09 17:54 
+    <span class="article_comment"><a href="http://www.cnblogs.com/evaling/p/6831840.html#commentform" title="" class="gray">
+        评论(0)</a></span><span class="article_view"><a href="http://www.cnblogs.com/evaling/p/6831840.html" class="gray">阅读(64)</a></span></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="post_item">
+<div class="digg">
+    <div class="diggit" onclick="DiggPost('tongkaiqiang',6831618,351989,1)"> 
+	<span class="diggnum" id="digg_count_6831618">1</span>
+	</div>
+	<div class="clear"></div>
+	<div id="digg_tip_6831618" class="digg_tip"></div>
+</div>      
+<div class="post_item_body">
+	<h3><a class="titlelnk" href="http://www.cnblogs.com/tongkaiqiang/p/6831618.html" target="_blank">JavaScript异步编程</a></h3>               	
+    <p class="post_item_summary">
+<a href="http://www.cnblogs.com/tongkaiqiang/" target="_blank"><img width="48" height="48" class="pfs" src="//pic.cnblogs.com/face/606599/20170428114525.png" alt=""/></a>    前言 如果你有志于成为一个优秀的前端工程师，或是想要深入学习JavaScript，异步编程是必不可少的一个知识点，这也是区分初级，中级或高级前端的依据之一。如果你对异步编程没有太清晰的概念，那么我建议你花点时间学习JavaScript异步编程，如果你对异步编程有自己的独特理解，也欢迎阅读本文，一起交 ...
+    </p>              
+    <div class="post_item_foot">                    
+    <a href="http://www.cnblogs.com/tongkaiqiang/" class="lightblue">NickTong</a> 
+    发布于 2017-05-09 17:22 
+    <span class="article_comment"><a href="http://www.cnblogs.com/tongkaiqiang/p/6831618.html#commentform" title="" class="gray">
+        评论(0)</a></span><span class="article_view"><a href="http://www.cnblogs.com/tongkaiqiang/p/6831618.html" class="gray">阅读(182)</a></span></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="post_item">
+<div class="digg">
+    <div class="diggit" onclick="DiggPost('biehongli',6831510,297404,1)"> 
+	<span class="diggnum" id="digg_count_6831510">4</span>
+	</div>
+	<div class="clear"></div>
+	<div id="digg_tip_6831510" class="digg_tip"></div>
+</div>      
+<div class="post_item_body">
+	<h3><a class="titlelnk" href="http://www.cnblogs.com/biehongli/p/6831510.html" target="_blank">一个忙着找实习工作的大三在校生的真实感受！！！</a></h3>               	
+    <p class="post_item_summary">
+<a href="http://www.cnblogs.com/biehongli/" target="_blank"><img width="48" height="48" class="pfs" src="//pic.cnblogs.com/face/1002211/20160802092308.png" alt=""/></a>    时光荏苒，时间过得真快啊&#128649;&#128640;✈️，现在依然清清楚楚记得大一开学时的情景，而现在已经快大三结束了。到了自己找工作的时间了，这几天心里挺忐忑的&#129318;，心跳也加速&#128147;❤️️&#128156;，分享一下吧，希望对同时在校生有所帮助吧&#128147;❤️️&#128156;。 1：因为还是在校生，也许现在有点小心急了吧&#128540;&#128541;&#128539;，之前三月份学校 ...
+    </p>              
+    <div class="post_item_foot">                    
+    <a href="http://www.cnblogs.com/biehongli/" class="lightblue">别先生</a> 
+    发布于 2017-05-09 17:21 
+    <span class="article_comment"><a href="http://www.cnblogs.com/biehongli/p/6831510.html#commentform" title="2017-05-09 21:10" class="gray">
+        评论(26)</a></span><span class="article_view"><a href="http://www.cnblogs.com/biehongli/p/6831510.html" class="gray">阅读(452)</a></span></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="post_item">
+<div class="digg">
+    <div class="diggit" onclick="DiggPost('mantouyefan',6831552,318397,1)"> 
+	<span class="diggnum" id="digg_count_6831552">0</span>
+	</div>
+	<div class="clear"></div>
+	<div id="digg_tip_6831552" class="digg_tip"></div>
+</div>      
+<div class="post_item_body">
+	<h3><a class="titlelnk" href="http://www.cnblogs.com/mantouyefan/p/6831552.html" target="_blank">虚幻UE4中移动端水材质的设置</a></h3>               	
+    <p class="post_item_summary">
+    在本教程中，我们将教您如何创建可以在移动设备上使用的实例化水资源。本教程是最新版本，支持只有在高端移动设备（如iPad Pro）才能进行的高品质移动端反射渲染功能。 ...
+    </p>              
+    <div class="post_item_foot">                    
+    <a href="http://www.cnblogs.com/mantouyefan/" class="lightblue">虚拟现实开发</a> 
+    发布于 2017-05-09 17:12 
+    <span class="article_comment"><a href="http://www.cnblogs.com/mantouyefan/p/6831552.html#commentform" title="" class="gray">
+        评论(0)</a></span><span class="article_view"><a href="http://www.cnblogs.com/mantouyefan/p/6831552.html" class="gray">阅读(65)</a></span></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="post_item">
+<div class="digg">
+    <div class="diggit" onclick="DiggPost('flycenter',6831474,180609,1)"> 
+	<span class="diggnum" id="digg_count_6831474">0</span>
+	</div>
+	<div class="clear"></div>
+	<div id="digg_tip_6831474" class="digg_tip"></div>
+</div>      
+<div class="post_item_body">
+	<h3><a class="titlelnk" href="http://www.cnblogs.com/flycenter/p/6831474.html" target="_blank">selenium 利用testNG对异常进行自动截图</a></h3>               	
+    <p class="post_item_summary">
+<a href="http://www.cnblogs.com/flycenter/" target="_blank"><img width="48" height="48" class="pfs" src="//pic.cnblogs.com/face/617745/20150922180526.png" alt=""/></a>    哈哈哈，很久没写博客了，懒了。 因为一些原因最近需要把监听事件重新整理一下，开始没细想，直接copy网上的，其实结果发现报错很多，或者是达不到效果，然后把之前的代码翻出来，仔细看了一下。下面给一些需要的小伙伴整理一下思路： 1、首先我们用到的是testng里面的监听，所以这个毋庸置疑 2、我们需要重 ...
+    </p>              
+    <div class="post_item_foot">                    
+    <a href="http://www.cnblogs.com/flycenter/" class="lightblue">Risker</a> 
+    发布于 2017-05-09 17:01 
+    <span class="article_comment"><a href="http://www.cnblogs.com/flycenter/p/6831474.html#commentform" title="2017-05-09 17:03" class="gray">
+        评论(0)</a></span><span class="article_view"><a href="http://www.cnblogs.com/flycenter/p/6831474.html" class="gray">阅读(74)</a></span></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="post_item">
+<div class="digg">
+    <div class="diggit" onclick="DiggPost('ck7193',6831466,161867,1)"> 
+	<span class="diggnum" id="digg_count_6831466">1</span>
+	</div>
+	<div class="clear"></div>
+	<div id="digg_tip_6831466" class="digg_tip"></div>
+</div>      
+<div class="post_item_body">
+	<h3><a class="titlelnk" href="http://www.cnblogs.com/ck7193/p/6831466.html" target="_blank">回首过去那些年...</a></h3>               	
+    <p class="post_item_summary">
+    11年高考，不出意料的落榜。高中几年几乎都是混过来的，也没怎么专心学习，最后拿到分数的时候我爹也恨我不争气，差点都哭了。 原本是想和老家一些出去打工早的亲戚一样，去东莞某些厂做做体力活，先自己养活自己。邻居家朋友那边正好缺人，在网上招生那种，就去他那边做了几个月，也稍微了解了一些电脑的基础知识。中途 ...
+    </p>              
+    <div class="post_item_foot">                    
+    <a href="http://www.cnblogs.com/ck7193/" class="lightblue">Heaven空白</a> 
+    发布于 2017-05-09 17:00 
+    <span class="article_comment"><a href="http://www.cnblogs.com/ck7193/p/6831466.html#commentform" title="2017-05-09 18:04" class="gray">
+        评论(4)</a></span><span class="article_view"><a href="http://www.cnblogs.com/ck7193/p/6831466.html" class="gray">阅读(219)</a></span></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="post_item">
+<div class="digg">
+    <div class="diggit" onclick="DiggPost('Bigtre',6817353,341015,1)"> 
+	<span class="diggnum" id="digg_count_6817353">2</span>
+	</div>
+	<div class="clear"></div>
+	<div id="digg_tip_6817353" class="digg_tip"></div>
+</div>      
+<div class="post_item_body">
+	<h3><a class="titlelnk" href="http://www.cnblogs.com/Bigtre/p/6817353.html" target="_blank">Python学习之路-Day4</a></h3>               	
+    <p class="post_item_summary">
+    Python学习之路第4天 学习内容： 1.迭代器与生成器 2.装饰器 1.迭代器与生成器 迭代器 迭代是Python最强大的功能之一，是访问集合元素的一种方式。 迭代器是一个可以记住遍历的位置的对象。 迭代器对象从集合等第一个元素开始访问，直到所有的元素被访问结束，迭代器只能往前不会后退。 迭代器 ...
+    </p>              
+    <div class="post_item_foot">                    
+    <a href="http://www.cnblogs.com/Bigtre/" class="lightblue">Bigtre</a> 
+    发布于 2017-05-09 16:43 
+    <span class="article_comment"><a href="http://www.cnblogs.com/Bigtre/p/6817353.html#commentform" title="" class="gray">
+        评论(0)</a></span><span class="article_view"><a href="http://www.cnblogs.com/Bigtre/p/6817353.html" class="gray">阅读(138)</a></span></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="post_item">
+<div class="digg">
+    <div class="diggit" onclick="DiggPost('rcltocode',6831295,346755,1)"> 
+	<span class="diggnum" id="digg_count_6831295">0</span>
+	</div>
+	<div class="clear"></div>
+	<div id="digg_tip_6831295" class="digg_tip"></div>
+</div>      
+<div class="post_item_body">
+	<h3><a class="titlelnk" href="http://www.cnblogs.com/rcltocode/p/6831295.html" target="_blank">php 中时间函数date及常用的时间计算</a></h3>               	
+    <p class="post_item_summary">
+<a href="http://www.cnblogs.com/rcltocode/" target="_blank"><img width="48" height="48" class="pfs" src="//pic.cnblogs.com/face/1142012/20170508182444.png" alt=""/></a>    曾在项目中需要使用到今天，昨天，本周，本月，本季度，今年，上周上月，上季度等等时间戳，趁最近时间比较充足，因此计划对php的相关时间知识点进行总结学习 1，阅读php手册date函数 常用时间函数： checkdate()验证一个时间是否正确 date_default_timezone_get()取 ...
+    </p>              
+    <div class="post_item_foot">                    
+    <a href="http://www.cnblogs.com/rcltocode/" class="lightblue">码上平天下</a> 
+    发布于 2017-05-09 16:40 
+    <span class="article_comment"><a href="http://www.cnblogs.com/rcltocode/p/6831295.html#commentform" title="" class="gray">
+        评论(0)</a></span><span class="article_view"><a href="http://www.cnblogs.com/rcltocode/p/6831295.html" class="gray">阅读(43)</a></span></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="post_item">
+<div class="digg">
+    <div class="diggit" onclick="DiggPost('itlkNote',6830682,342231,1)"> 
+	<span class="diggnum" id="digg_count_6830682">1</span>
+	</div>
+	<div class="clear"></div>
+	<div id="digg_tip_6830682" class="digg_tip"></div>
+</div>      
+<div class="post_item_body">
+	<h3><a class="titlelnk" href="http://www.cnblogs.com/itlkNote/p/6830682.html" target="_blank">npm 常用命令详解</a></h3>               	
+    <p class="post_item_summary">
+<a href="http://www.cnblogs.com/itlkNote/" target="_blank"><img width="48" height="48" class="pfs" src="//pic.cnblogs.com/face/1129708/20170509153006.png" alt=""/></a>    本文以Windows平台上做测试，以gulp为示例做教程，出自作者白树，转载请声明！ 目录 npm是什么 npm install 安装模块 npm uninstall 卸载模块 npm update 更新模块 npm outdated 检查模块是否已经过时 npm ls 查看安装的模块 npm in ...
+    </p>              
+    <div class="post_item_foot">                    
+    <a href="http://www.cnblogs.com/itlkNote/" class="lightblue">小矮人Web前端</a> 
+    发布于 2017-05-09 15:11 
+    <span class="article_comment"><a href="http://www.cnblogs.com/itlkNote/p/6830682.html#commentform" title="2017-05-09 16:25" class="gray">
+        评论(1)</a></span><span class="article_view"><a href="http://www.cnblogs.com/itlkNote/p/6830682.html" class="gray">阅读(219)</a></span></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="post_item">
+<div class="digg">
+    <div class="diggit" onclick="DiggPost('liferecord',6830531,198060,1)"> 
+	<span class="diggnum" id="digg_count_6830531">1</span>
+	</div>
+	<div class="clear"></div>
+	<div id="digg_tip_6830531" class="digg_tip"></div>
+</div>      
+<div class="post_item_body">
+	<h3><a class="titlelnk" href="http://www.cnblogs.com/liferecord/p/6830531.html" target="_blank">Java并发，看到了，就记录下呗</a></h3>               	
+    <p class="post_item_summary">
+<a href="http://www.cnblogs.com/liferecord/" target="_blank"><img width="48" height="48" class="pfs" src="//pic.cnblogs.com/face/672564/20150920190853.png" alt=""/></a>    在这篇博客中，主要把之前看的书的内容记录一下，个人感觉还是可以的，原题是这样的：开发一个高效的缓存。这里指的是单机. 首先我来看当前的一个版本 在该版本中利用HashMap来保存之前计算的结果，compute方法首先检查缓存中是否有结果，没有则计算，把其结果放入缓存并且返回。大家都知道HashMap ...
+    </p>              
+    <div class="post_item_foot">                    
+    <a href="http://www.cnblogs.com/liferecord/" class="lightblue">vOoT</a> 
+    发布于 2017-05-09 14:45 
+    <span class="article_comment"><a href="http://www.cnblogs.com/liferecord/p/6830531.html#commentform" title="2017-05-09 16:25" class="gray">
+        评论(1)</a></span><span class="article_view"><a href="http://www.cnblogs.com/liferecord/p/6830531.html" class="gray">阅读(387)</a></span></div>
+</div>
+<div class="clear"></div>
+</div>
+   
+
+            </div>
+            <script>editorPickStat();aggSite.user.getUserInfo();</script>
+            <script type="text/javascript">
+                var aggSiteModel = {"CategoryType":"SiteHome","ParentCategoryId":0,"CategoryId":808,"PageIndex":1,"TotalPostCount":4000,"ItemListActionName":"PostList"};
+            </script>
+            <div id="pager_bottom"><div id="paging_block"><div class="pager"><a href="/" class="p_1 current" onclick="aggSite.loadCategoryPostList(1,20);buildPaging(1);return false;">1</a><a href="/sitehome/p/2" class="p_2 middle" onclick="aggSite.loadCategoryPostList(2,20);buildPaging(2);return false;">2</a><a href="/sitehome/p/3" class="p_3 middle" onclick="aggSite.loadCategoryPostList(3,20);buildPaging(3);return false;">3</a><a href="/sitehome/p/4" class="p_4 middle" onclick="aggSite.loadCategoryPostList(4,20);buildPaging(4);return false;">4</a><a href="/sitehome/p/5" class="p_5 middle" onclick="aggSite.loadCategoryPostList(5,20);buildPaging(5);return false;">5</a><a href="/sitehome/p/6" class="p_6 middle" onclick="aggSite.loadCategoryPostList(6,20);buildPaging(6);return false;">6</a><a href="/sitehome/p/7" class="p_7 middle" onclick="aggSite.loadCategoryPostList(7,20);buildPaging(7);return false;">7</a><a href="/sitehome/p/8" class="p_8 middle" onclick="aggSite.loadCategoryPostList(8,20);buildPaging(8);return false;">8</a><a href="/sitehome/p/9" class="p_9 middle" onclick="aggSite.loadCategoryPostList(9,20);buildPaging(9);return false;">9</a><a href="/sitehome/p/10" class="p_10 middle" onclick="aggSite.loadCategoryPostList(10,20);buildPaging(10);return false;">10</a><a href="/sitehome/p/11" class="p_11 middle" onclick="aggSite.loadCategoryPostList(11,20);buildPaging(11);return false;">11</a><span class="ellipsis">···</span><a href="/sitehome/p/200" class="p_200 last" onclick="aggSite.loadCategoryPostList(200,20);buildPaging(200);return false;">200</a><a href="/sitehome/p/2" onclick="aggSite.loadCategoryPostList(2,20);buildPaging(2);return false;">Next &gt;</a></div></div><script type="text/javascript">var pagingBuider={"OnlyLinkText":false,"TotalCount":4000,"PageIndex":1,"PageSize":20,"ShowPageCount":5,"SkipCount":0,"UrlFormat":"/sitehome/p/{0}","OnlickJsFunc":"aggSite.loadCategoryPostList()","FirstPageLink":"/","AjaxUrl":"/mvc/ToolkitPaging/load.aspx","AjaxCallbak":null,"TopPagerId":"pager_top","IsRenderScript":true};function buildPaging(pageIndex){pagingBuider.PageIndex=pageIndex;$.ajax({url:pagingBuider.AjaxUrl,data:JSON.stringify(pagingBuider),type:'post',dataType:'text',contentType:'application/json; charset=utf-8',success:function (data) { $('#paging_block').html(data); var pagerTop=$('#pager_top');if(pageIndex>1){$(pagerTop).html(data).show();}else{$(pagerTop).hide();}}});}</script>
+</div>
+            <div id="side_nav">
+                
+<div id="cate_title_block">
+<div id="cate_title_title"><div class="cate_title">网站分类</div></div>
+<ul id="cate_item">
+<li id="cate_item_108698" onmouseover="cateShow(108698)" onmouseout="cateHidden(108698)">
+<a href="/cate/108698/">.NET技术(14)</a>
+</li>
+<li id="cate_item_2" onmouseover="cateShow(2)" onmouseout="cateHidden(2)">
+<a href="/cate/2/">编程语言(40)</a>
+</li>
+<li id="cate_item_108701" onmouseover="cateShow(108701)" onmouseout="cateHidden(108701)">
+<a href="/cate/108701/">软件设计(2)</a>
+</li>
+<li id="cate_item_108703" onmouseover="cateShow(108703)" onmouseout="cateHidden(108703)">
+<a href="/cate/108703/">Web前端(22)</a>
+</li>
+<li id="cate_item_108704" onmouseover="cateShow(108704)" onmouseout="cateHidden(108704)">
+<a href="/cate/108704/">企业信息化(1)</a>
+</li>
+<li id="cate_item_108705" onmouseover="cateShow(108705)" onmouseout="cateHidden(108705)">
+<a href="/cate/108705/">手机开发(9)</a>
+</li>
+<li id="cate_item_108709" onmouseover="cateShow(108709)" onmouseout="cateHidden(108709)">
+<a href="/cate/108709/">软件工程(2)</a>
+</li>
+<li id="cate_item_108712" onmouseover="cateShow(108712)" onmouseout="cateHidden(108712)">
+<a href="/cate/108712/">数据库技术(4)</a>
+</li>
+<li id="cate_item_108724" onmouseover="cateShow(108724)" onmouseout="cateHidden(108724)">
+<a href="/cate/108724/">操作系统(8)</a>
+</li>
+<li id="cate_item_4" onmouseover="cateShow(4)" onmouseout="cateHidden(4)">
+<a href="/cate/4/">其他分类(23)</a>
+</li>
+<li id="cate_item_0" onmouseover="cateShow(0)" onmouseout="cateHidden(0)">
+<a href="/cate/all/">所有随笔(2957)</a>
+</li>
+<li id="cate_item_-1" onmouseover="cateShow(-1)" onmouseout="cateHidden(-1)">
+<a href="/comment/">所有评论(768)</a>
+</li>
+</ul>
+<div class="cate_bottom"></div>
+<div id="cate_sub_block"></div>
+<script type="text/javascript">var cateIdList = '108698,2,108701,108703,108704,108705,108709,108712,108724,4';aggSite.loadSubCategories();</script>
+</div>
+    <div class="l_s"></div>
+<p class="r_l_3"></p><p class="r_l_2"></p><p class="r_l_1"></p>
+<div class="w_l">
+<h4>链接</h4>        
+<ul>
+    <li><a href="http://space.cnblogs.com/forum/public" target="_blank">反馈或建议</a></li> 
+    <li><a href="http://www.cnblogs.com/cmt/" target="_blank">官方博客</a></li>
+    <li><a href="/skins.aspx" target="_blank">博客模板</a></li>
+    <li><a href="http://www.blogjava.net/">Java博客</a></li>
+    <li><a href="http://www.cppblog.com/">C++博客</a></li>
+    <li><a href="http://www.cnblogs.com/cmt/archive/2009/09/26/1574616.html">手机版</a></li>
+</ul>
+</div>
+<p class="r_l_1"></p><p class="r_l_2"></p><p class="r_l_3"></p>
+<div class="l_s"></div>
+<div id="user_stats"></div>
+<div class="l_s"></div>        
+<p class="r_l_3"></p><p class="r_l_2"></p><p class="r_l_1"></p>
+<div class="w_l">                
+<h4>统计信息</h4>
+<div id="site_stats"></div>      
+</div>
+<p class="r_l_1"></p><p class="r_l_2"></p><p class="r_l_3"></p>
+
+            </div>
+            <div id="side_right">
+                    <div id="search_block">
+                        <div class="side_search">
+                            <input type="text" id="zzk_q" class="search_input" onkeydown="return zzk_go_enter(event);" tabindex="3" /><input onclick="zzk_go()" type="button" class="search_btn" value="找找看" />
+                        </div>
+                        <div id="google_search" class="side_search">
+                            <input type="text" id="google_search_q" class="search_input" onkeydown="return google_search_enter(event);" /><input type="button" value="Google" class="search_btn" onclick="return google_search();" />
+                        </div>
+                    </div>
+                <div id="cnblogs_a1"></div>                                           
+                <div id="cnblogs_b1" class="sidebar-image"></div>
+                <div id="ad_right_text" class="ad_right_text"></div>
+                <div id="side_right_block"></div>
+            </div>
+        </div>
+        <div id="footer">
+            <div class="footer_block">
+                <p class="r_b_3"></p><p class="r_b_2"></p><p class="r_b_1"></p><div id="friend_link">
+友情链接：<a href="http://click.aliyun.com/m/994/" target="_blank"><img src="//common.cnblogs.com/images/friend_link/aliyun.png" alt="阿里云" /></a><a href="http://www.hujiang.com" target="_blank">沪江网</a><a href="http://www.chinaz.com/" target="_blank">站长之家</a><a href="http://dev.yesky.com" target="_blank">天极网</a><a href="http://down.admin5.com" target="_blank">A5源码下载</a><a href="http://www.gcpowertools.com.cn" target="_blank">葡萄城控件</a><a href="https://www.upyun.com/?md=cnblogs" target="_blank">又拍云存储</a><a href="http://zt.cnblogs.com/tingyun/" target="_blank">听云APP</a><a href="http://www.rongcloud.cn/" target="_blank">融云IM云</a><a href="http://www.hightopo.com/cn-index.html" target="_blank">图扑软件</a><a href="https://yq.aliyun.com/" target="_blank">阿里云栖社区</a><a href="http://www.cnblogs.com/mipengine/" target="_blank">百度MIP博客</a><a href="http://www.easemob.com" target="_blank">环信IM</a><a href="http://wetest.qq.com/?from=coop_cnblogs" target="_blank">腾讯WeTest</a>
+</div><p class="r_b_1"></p><p class="r_b_2"></p><p class="r_b_3"></p>
+            </div>
+        </div>
+        <div id="footer_bottom">
+            <div><a href="/AboutUS.aspx">关于博客园</a><a href="/ContactUs.aspx">联系我们</a>&copy;2004-2017<a href="http://www.cnblogs.com/">博客园</a>保留所有权利<a href="http://www.miitbeian.gov.cn" target="_blank">沪ICP备09004260号</a></div>
+            <div><a href="https://ss.knet.cn/verifyseal.dll?sn=e131108110100433392itm000000&amp;ct=df&amp;a=1&amp;pa=0.25787803245785335" rel="nofollow" target="_blank"><img id="cnnic_img" src="//common.cnblogs.com/images/cnnic.png" alt="" width="64" height="23" /></a><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31011502001144" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="//common.cnblogs.com/images/ghs.png" alt="" /><span style="float:left;height:20px;line-height:20px;margin: 0 5px 0 5px; color:#939393;">沪公网安备 31011502001144号</span></a></div>
+        </div>
+    </div>
+</body>
+</html>

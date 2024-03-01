@@ -1,0 +1,403 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title>나무위키:대문 - 나무위키</title>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="generator" content="the seed">
+<meta name="application-name" content="나무위키">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="msapplication-tooltip" content="나무위키">
+<meta name="msapplication-starturl" content="/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%8C%80%EB%AC%B8">
+<link rel="canonical" href="https://namu.wiki/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%8C%80%EB%AC%B8">
+<link rel="search" type="application/opensearchdescription+xml" title="나무위키" href="/opensearch.xml">
+<meta name="theme-color" content="#008275"><meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="icon" sizes="128x128" href="/img/icon.png">
+<link rel="apple-touch-icon" href="/img/apple_icon.png">
+<meta name="googlebot" content="noarchive">
+		<link rel="copyright" href="//creativecommons.org/licenses/by-nc-sa/2.0/kr/" />
+
+<!--
+<meta property="og:type" content="wiki">
+<meta property="og:title" content="나무위키:대문">
+<meta name="description" content="namuwiki">
+<meta name="keywords" content="Wiki,namuwiki,나무위키,나무위키:대문">
+-->
+
+
+<link rel="stylesheet" href="/css/diffview.css?05e3f5dd">
+<link rel="stylesheet" href="/css/katex.min.css?5b2eab19">
+<link rel="stylesheet" href="/css/wiki.css?04beb4cb">
+<link rel="stylesheet" href="/skins/senkawa/css/lib/jquery-ui.min.css?840cca94">
+<link rel="stylesheet" href="/skins/senkawa/css/lib/bootstrap.min.css?f040bd43">
+<link rel="stylesheet" href="/skins/senkawa/css/lib/ionicons.min.css?2d4234e8">
+<link rel="stylesheet" href="/skins/senkawa/css/bootstrap-fix.css?e0e9a7e3">
+<link rel="stylesheet" href="/skins/senkawa/css/layout.css?fc96f7f6">
+<link rel="stylesheet" href="/skins/senkawa/css/wiki.css?be6b96db">
+<link rel="stylesheet" href="/skins/senkawa/css/discuss.css?95742b8f">
+<link rel="stylesheet" href="/skins/senkawa/css/dark.css?e1d99211">
+
+<!--[if (!IE)|(gt IE 8)]><!--><script type="text/javascript" src="/js/jquery-2.1.4.min.js?f9c7afd0"></script><!--<![endif]-->
+<!--[if lt IE 9]><script type="text/javascript" src="/js/jquery-1.11.3.min.js?895323ed"></script><![endif]-->
+<script type="text/javascript" src="/js/dateformatter.js?508d6dd4"></script>
+<script type="text/javascript" src="/js/theseed.js?0fbaf1ac"></script>
+<script type="text/javascript" src="/skins/senkawa/js/lib/jquery.pjax.js?56bf87c4"></script>
+<script type="text/javascript" src="/skins/senkawa/js/lib/jquery.lazyload.min.js?5c01d7af"></script>
+<script type="text/javascript" src="/skins/senkawa/js/lib/jquery-ui.min.js?557e2375"></script>
+<script type="text/javascript" src="/skins/senkawa/js/lib/tether.min.js?e21e4520"></script>
+<script type="text/javascript" src="/skins/senkawa/js/lib/bootstrap.min.js?a2f0eda8"></script>
+<script type="text/javascript" src="/skins/senkawa/js/namu.js?f85bab24"></script>
+<script type="text/javascript" src="/skins/senkawa/js/wiki.js?3d0a8242"></script>
+<script src="https://www.google.com/recaptcha/api.js?render=explicit&onload=recaptchaOnLoad" async defer></script>
+</head>
+<body class="senkawa">
+	<script type="text/javascript" src="/skins/senkawa/js/layout.js?e4665c6b"></script>
+	<div class="navbar-wrapper">
+		<nav class="navbar navbar-dark bg-inverse navbar-static-top">
+			<a class="navbar-brand wiki-logo" href="/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%8C%80%EB%AC%B8"></a>
+			<ul class="nav navbar-nav">
+				<li class="nav-item">
+					<a class="nav-link" href="/RecentChanges" title="최근 변경">
+						<span class="icon ion-compass"></span>
+						<span class="icon-title">최근 변경</span>
+					</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="/RecentDiscuss" title="최근 토론">
+						<span class="icon ion-android-textsms"></span>
+						<span class="icon-title">최근 토론</span>
+					</a>
+				</li>
+				<li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" href="#" title="특수 기능" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+						<span class="icon ion-ios-gear"></span>
+						<span class="icon-title">특수 기능</span>
+
+						<span class="caret"></span>
+					</a>
+
+					<div class="dropdown-menu right">
+						<a class="dropdown-item" href="https://board.namu.wiki/" data-npjax="true">
+							<span class="icon ion-clipboard"></span>
+							<span class="icon-title">게시판</span>
+						</a>
+
+						<div class="dropdown-divider"></div>
+
+						<a class="dropdown-item" href="/NeededPages">
+							<span class="icon ion-coffee"></span>
+							<span class="icon-title">작성이 필요한 문서</span>
+						</a>
+						<a class="dropdown-item" href="/OrphanedPages">
+							<span class="icon ion-sad-outline"></span>
+							<span class="icon-title">고립된 문서</span>
+						</a>
+						<a class="dropdown-item" href="/OldPages">
+							<span class="icon ion-pause"></span>
+							<span class="icon-title">편집된 지 오래된 문서</span>
+						</a>
+						<a class="dropdown-item" href="/ShortestPages">
+							<span class="icon ion-heart-broken"></span>
+							<span class="icon-title">내용이 짧은 문서</span>
+						</a>
+						<a class="dropdown-item" href="/LongestPages">
+							<span class="icon ion-star"></span>
+							<span class="icon-title">내용이 긴 문서</span>
+						</a>
+						<a class="dropdown-item" href="/BlockHistory">
+							<span class="icon ion-eye-disabled"></span>
+							<span class="icon-title">차단 내역</span>
+						</a>
+						<a class="dropdown-item" href="/RandomPage">
+							<span class="icon ion-shuffle"></span>
+							<span class="icon-title">RandomPage</span>
+						</a>
+						<a class="dropdown-item" href="/Upload">
+							<span class="icon ion-android-upload"></span>
+							<span class="icon-title">파일 올리기</span>
+						</a>
+						<a class="dropdown-item" href="/SearchImage">
+							<span class="icon ion-image"></span>
+							<span class="icon-title">외부 이미지 참조 검색</span>
+						</a>
+						<a class="dropdown-item" href="/License">
+							<span class="icon ion-pricetag"></span>
+							<span class="icon-title">라이선스</span>
+						</a>
+
+
+
+
+
+					</div>
+				</li>
+
+				<li class="nav-item">
+					<a class="nav-link" href="//namu.live/" title="나무라이브">
+						<span class="icon ion-android-list"></span>
+						<span class="icon-title">라이브</span>
+					</a>
+				</li>
+			</ul>
+
+			<!-- middle -->
+
+			<ul class="nav navbar-nav pull-right">
+				<li class="nav-item dropdown user-menu-parent">
+					<a class="nav-link dropdown-toggle user-menu" href="#" title="Member Menu" data-toggle="dropdown" aria-haspopup="true">
+					
+						<span class="icon ion-person"></span>
+					
+					</a>
+
+					<div class="dropdown-menu user-dropdown right">
+					
+						<div class="dropdown-item user-info">
+							<div class="user-info">
+								<div>23.83.250.137</div>
+								<div>Please login!</div>
+							</div>
+						</div>
+					
+						<div class="dropdown-divider"></div>
+						<a id="settingsLink" class="dropdown-item" href="/settings" style="display: none;">설정</a>
+						<a id="darkToggleLink" class="dropdown-item" href="#">어두운 화면으로</a>
+						<div class="dropdown-divider"></div>
+					
+						<a class="dropdown-item" href="/contribution/ip/23.83.250.137/document">내 문서 기여 목록</a>
+						<a class="dropdown-item" href="/contribution/ip/23.83.250.137/discuss">내 토론 기여 목록</a>
+					
+						<div class="dropdown-divider"></div>
+					
+						<a class="dropdown-item" href="/login?redirect=%2Fw%2F%25EB%2582%2598%25EB%25AC%25B4%25EC%259C%2584%25ED%2582%25A4%3A%25EB%258C%2580%25EB%25AC%25B8">로그인</a>
+					
+					</div>
+				</li>
+			</ul>
+
+			<form class="form-inline navbar-form search-box-parent">
+				<div class="input-group search-box">
+					<span class="input-group-btn left-search-btns">
+						<a class="btn btn-secondary" href="/random" role="button">
+							<span class="icon ion-shuffle"></span>
+						</a>
+					</span>
+					<input type="text" id="searchInput" class="form-control" placeholder="Search" tabindex="1">
+					<span class="input-group-btn right-search-btns">
+						<button id="searchBtn" class="btn btn-secondary" type="button">
+							<span class="icon ion-search"></span>
+						</button>
+						<button id="goBtn" class="btn btn-secondary" type="button">
+							<span class="icon ion-arrow-right-c"></span>
+						</button>
+					</span>
+				</div>
+			</form>
+		</nav>
+	</div>
+
+	<div class="content-wrapper">
+		<aside class="sidebar has-site-notice">
+			<div class="card recent-card">
+				<h5 class="card-title">최근 변경</h5>
+				<div class="link-table" id="recentChangeTable">
+					<a><span>00:00</span>갱신중...</a>
+				</div>
+				<a class="more-link" href="/RecentChanges">[더 보기]</a>
+			</div>
+
+			<div class="card live-list-card" data-slug="headline" data-count="5">
+				<h5 class="card-title">라이브 헤드라인 최신글</h5>
+				<div class="link-table">
+					<a><span>00:00</span>갱신중...</a>
+				</div>
+				<a class="more-link" href="//namu.live/b/headline">[더 보기]</a>
+			</div>
+
+			
+		</aside>
+
+		<article class="container-fluid wiki-article">
+			
+			
+			<div class="live-topbar-area">&nbsp;</div>
+
+			
+			
+				
+				<div class="wiki-article-menu">
+					<div class="btn-group" role="group">
+						<a class="btn btn-secondary" href="/xref/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%8C%80%EB%AC%B8" role="button">역링크</a>
+						<a class="btn btn-secondary" href="/discuss/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%8C%80%EB%AC%B8" role="button">토론</a>
+						<a class="btn btn-secondary" rel="nofollow" href="/edit/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%8C%80%EB%AC%B8" role="button">편집</a>
+						<a class="btn btn-secondary" href="/history/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%8C%80%EB%AC%B8" role="button">역사</a>
+					
+					
+					</div>
+				</div>
+				
+			
+			
+				<h1 class="title">
+				
+					<a href="/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%8C%80%EB%AC%B8" data-npjax="true">나무위키:대문</a>
+				
+				</h1>
+			
+			
+			
+	
+	<p class="wiki-edit-date">최근 수정 시각: <time datetime="2017-05-09T12:34:24.000Z" data-format="Y-m-d H:i:sO">2017-05-09 12:34:24+0000</time></p>
+	
+
+	
+
+	
+
+	<div class="wiki-content clearfix">
+		
+		
+		<div class="wiki-inner-content">
+			
+			<hr class='wiki-hr-4'><p><div style='text-align:center;'><strong><span class='wiki-size size-2'><a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4' title='나무위키'><span class='wiki-color' style='color:#00a495'>나무위키</span></a>에 오신 것을 환영합니다!</span></strong><br><br>나무위키는 백과사전이 아닙니다.<br>검증되지 않았거나 편향적인 서술이 있을 수 있습니다.</div></p><hr class='wiki-hr-4'><div class='wiki-table-wrap' style='width:100%'><table class='wiki-table' style='background-color:white;width: 100%;border: 2px solid #00a495;'><tr><td><p><a class='wiki-link-internal' href='/w/%ED%8C%8C%EC%9D%BC:xoLuZMR.png' title='파일:xoLuZMR.png'><img class='wiki-image wiki-lazy-image wiki-lazy-loading' alt='파일:xoLuZMR.png' height='25' data-original='//cdn.namuwikiusercontent.com/05/05abcf47a32c41c87bd7e2118fc73499c836e17e189dc2424b65fcda6fc5cc80.png?e=1499359567&amp;k=QPAVU3QILkxm8G8Riu05Ww' data-filesize='22672'><noscript><img class='wiki-image' alt='파일:xoLuZMR.png' height='25' data-filesize='22672' src='//cdn.namuwikiusercontent.com/05/05abcf47a32c41c87bd7e2118fc73499c836e17e189dc2424b65fcda6fc5cc80.png?e=1499359567&amp;k=QPAVU3QILkxm8G8Riu05Ww'></noscript></a> <span class='wiki-size size-1'><a href="https://board.namu.wiki"><font color="#00a495">나무위키의 게시판</font></a></span></p></td></tr><tr><td style='background-color:#00a495;'><p><a href="http://board.namu.wiki/notice" target="_blank"><font color="white">공지사항</font></a> <a href="https://namu.wiki/w/나무위키:공지사항" target="_blank"><font color="white">(문서 형태)</font></a> <span class='wiki-color' style='color:white'>·</span> <a href="http://board.namu.wiki/free" target="_blank"><font color="white">그루터기</font></a> <span class='wiki-color' style='color:white'>·</span> <a href="http://board.namu.wiki/qna" target="_blank"><font color="white">문의</font></a> <span class='wiki-color' style='color:white'>·</span> <a href="http://board.namu.wiki/report" target="_blank"><font color="white">신고</font></a> <span class='wiki-color' style='color:white'>·</span> <a href="https://board.namu.wiki/whyiblocked" target="_blank"><font color="white">차단소명</font></a> <span class='wiki-color' style='color:white'>·</span> <a href="http://board.namu.wiki/copyright" target="_blank"><font color="white">저작권 요청</font></a> <span class='wiki-color' style='color:white'>·</span> <a href="http://board.namu.wiki/ghost" target="_blank"><font color="white">다중 계정 검사 요청</font></a> <span class='wiki-color' style='color:white'>·</span> <a href="http://board.namu.wiki/discuss" target="_blank"><font color="white">토론 문의</font></a></p></td></tr></table></div><hr class='wiki-hr-4'><div class='wiki-table-wrap' style='width:100%'><table class='wiki-table' style='width: 100%;border: 2px solid #00a495;'><tr><td colspan='2' style='background-color:#00a495; text-align:center;'><p><strong><span class='wiki-size size-2'><a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EC%A0%9C6%EA%B8%B0%201%ED%9A%8C%20%EA%B4%80%EB%A6%AC%EC%9E%90%20%EB%B3%B4%EA%B6%90%20%EC%84%A0%EA%B1%B0' title='나무위키:제6기 1회 관리자 보궐 선거'><span class='wiki-color' style='color:white'>나무위키 제6기 1회 관리자 보궐 선거 공지</span></a></span></strong></p></td></tr><tr><td style='background-color:white; width:50px; text-align:center;'><p><a class='wiki-link-internal' href='/w/%ED%8C%8C%EC%9D%BC:vHt9mBh.png' title='파일:vHt9mBh.png'><img class='wiki-image wiki-lazy-image wiki-lazy-loading' alt='파일:vHt9mBh.png' width='65' data-original='//cdn.namuwikiusercontent.com/28/28471d36e744d2d1eaef544695a21f4f7fbad03d4a362d7fca0dd8f05a54355f.png?e=1498411488&amp;k=0Ebqi_k2vTHxnWrxjE_-0w' data-filesize='6510'><noscript><img class='wiki-image' alt='파일:vHt9mBh.png' width='65' data-filesize='6510' src='//cdn.namuwikiusercontent.com/28/28471d36e744d2d1eaef544695a21f4f7fbad03d4a362d7fca0dd8f05a54355f.png?e=1498411488&amp;k=0Ebqi_k2vTHxnWrxjE_-0w'></noscript></a></p></td><td><p><strong><a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EC%A0%9C6%EA%B8%B0%201%ED%9A%8C%20%EA%B4%80%EB%A6%AC%EC%9E%90%20%EB%B3%B4%EA%B6%90%20%EC%84%A0%EA%B1%B0' title='나무위키:제6기 1회 관리자 보궐 선거'>나무위키 제6기 1회 관리자 보궐 선거 </a></strong> 일정이 시작되었습니다.</p><hr class='wiki-hr-4'><p><strong>2017년 05월 10일 22시 00분 부터 후보 등록이 가능합니다.</strong></p></td></tr></table></div><p></p><hr class='wiki-hr-4'><div class='wiki-table-wrap' style='width:100%'><table class='wiki-table' style='width: 100%;border: 2px solid #00a495;'><tr><td colspan='2' style='background-color:#00a495; text-align:center;'><p><strong><span class='wiki-size size-2'><a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4' title='나무위키'><span class='wiki-color' style='color:white'>나무위키</span></a> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B0%80%EC%9D%B4%EB%93%9C' title='나무위키:가이드'><span class='wiki-color' style='color:white'>이용안내</span></a></span></strong></p></td></tr><tr><td style='background-color:white; width:50px;'><p><a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B0%80%EC%9D%B4%EB%93%9C' title='나무위키:가이드'><img class='wiki-image wiki-lazy-image wiki-lazy-loading' alt='파일:틀:이용안내 로고.png' width='65' data-original='//cdn.namuwikiusercontent.com/c9/c93f691c865c3d8c92e1be2e20c99e6c8f080af55625c2fea91ada8a7cbd85cf.png?e=1496221510&amp;k=Dor7HmPsgdbRLfDWKRD64g' data-filesize='12967'><noscript><img class='wiki-image' alt='파일:틀:이용안내 로고.png' width='65' data-filesize='12967' src='//cdn.namuwikiusercontent.com/c9/c93f691c865c3d8c92e1be2e20c99e6c8f080af55625c2fea91ada8a7cbd85cf.png?e=1496221510&amp;k=Dor7HmPsgdbRLfDWKRD64g'></noscript></a></p></td><td style='text-align:left;'><p><span class='wiki-size size-1'><strong><a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4' title='나무위키'><span class='wiki-color' style='color:#00a495'>나무위키</span></a></strong><span class='wiki-color' style='color:#000'>의 이용방법이 궁금하시다면</span> <strong><a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B8%B0%EB%B3%B8%EB%B0%A9%EC%B9%A8' title='나무위키:기본방침'><span class='wiki-color' style='color:#000'>규정</span></a></strong><span class='wiki-color' style='color:#000'>과</span> <strong><a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%8F%84%EC%9B%80%EB%A7%90' title='나무위키:도움말'><span class='wiki-color' style='color:#000'>도움말</span></a></strong>을 확인해 보세요.</span></p><hr class='wiki-hr-4'><p><strong><a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4' title='나무위키'><span class='wiki-color' style='color:#00A495'>나무위키</span></a>의 <a class='wiki-link-internal' href='/w/%EC%97%AD%EB%A7%81%ED%81%AC' title='역링크'><span class='wiki-color' style='color:#000'>역링크</span></a></strong>에 <strong><a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B0%80%EC%9D%B4%EB%93%9C#s-4.1' title='나무위키:가이드'><span class='wiki-color' style='color:#000'>새로운 기능</span></a></strong>이 추가되었습니다!</p></td></tr></table></div><p></p><hr class='wiki-hr-4'><div class='wiki-table-wrap' style='width:100%'><table class='wiki-table' style='width: 100%;border: 2px solid #00A495;'><tr><td style='background-color:#00A495; width:50%; text-align:center;'><p><strong><span class='wiki-size size-1'><a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EC%98%A4%EB%8A%98%EC%9D%98%20%ED%86%A0%EB%A7%89%EA%B8%80' title='나무위키:오늘의 토막글'><span class='wiki-color' style='color:white'>오늘의 토막글</span></a></span></strong></p></td><td style='background-color:#00A495; width:50%; text-align:center;'><p><strong><span class='wiki-size size-1'><a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8' title='나무위키:프로젝트'><span class='wiki-color' style='color:white'>나무위키 프로젝트</span></a></span></strong></p></td></tr><tr style='background-color:#ffffff;'><td style='text-align:center;'><p><a class='wiki-link-internal' href='/w/%EC%98%A4%EB%8A%98%EC%9D%98%20%ED%86%A0%EB%A7%89%EA%B8%80' title='오늘의 토막글'><img class='wiki-image wiki-lazy-image wiki-lazy-loading' alt='파일:Trunknew.png' height='75' data-original='//cdn.namuwikiusercontent.com/fc/fc1be5454ff1241869a2ba6590ca75abc6e5f3e61729a9fdd89f65425786e687.png?e=1499839140&amp;k=EPuOJBgSoOqMlj1YeHMVTQ' data-filesize='89547'><noscript><img class='wiki-image' alt='파일:Trunknew.png' height='75' data-filesize='89547' src='//cdn.namuwikiusercontent.com/fc/fc1be5454ff1241869a2ba6590ca75abc6e5f3e61729a9fdd89f65425786e687.png?e=1499839140&amp;k=EPuOJBgSoOqMlj1YeHMVTQ'></noscript></a></p></td><td style='text-align:center;'><p><a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8' title='나무위키:프로젝트'><img class='wiki-image wiki-lazy-image wiki-lazy-loading' alt='파일:나무위키프로젝트.png' height='60' data-original='//cdn.namuwikiusercontent.com/47/471f3dab3663c630a6aa5ffaef8675bf755c4efd81a2d5c2cb78ef7b7e3c9cd5.png?e=1495799570&amp;k=Ubq-Qm3CS5T52MWELQFQ_A' data-filesize='48086'><noscript><img class='wiki-image' alt='파일:나무위키프로젝트.png' height='60' data-filesize='48086' src='//cdn.namuwikiusercontent.com/47/471f3dab3663c630a6aa5ffaef8675bf755c4efd81a2d5c2cb78ef7b7e3c9cd5.png?e=1495799570&amp;k=Ubq-Qm3CS5T52MWELQFQ_A'></noscript></a></p></td></tr><tr><td style='text-align:center;'><p><strong><a class='wiki-link-internal' href='/w/%EC%A0%84%EB%A7%9D%EC%9D%B4%EB%A1%A0' title='전망이론'>전망이론</a></strong></p></td><td style='text-align:center;'><p><strong>프로젝트에 참여해서 관련 문서에 기여의 손길을 보내주세요! <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4%20GregTech%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8' title='나무위키 GregTech 프로젝트'>나무위키 GregTech 프로젝트</a>, <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4%20%EC%A0%95%EB%8B%B9%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8' title='나무위키 정당 프로젝트'>나무위키 정당 프로젝트</a>, <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4%20%EC%97%AC%EA%B0%9D%EC%84%A0%20%ED%84%B0%EB%AF%B8%EB%84%90%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8' title='나무위키 여객선 터미널 프로젝트'>나무위키 여객선 터미널 프로젝트</a>, <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4%20%EB%84%A4%ED%83%80%20%EA%B3%84%EC%97%B4%20%EC%9A%B0%ED%83%80%EC%9D%B4%ED%85%8C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8' title='나무위키 네타 계열 우타이테 프로젝트'>나무위키 네타 계열 우타이테 프로젝트</a>가 개설되었습니다.</strong></p></td></tr><tr><td colspan='2' style='background-color:#00A495; text-align:center;'><p><a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:FAQ#s-6.4' title='나무위키:FAQ'><img class='wiki-image wiki-lazy-image wiki-lazy-loading' alt='파일:노란색경고표시.png' height='17' data-original='//cdn.namuwikiusercontent.com/c1/c1465de99b62a1de81bf7196add4b2bb60c4c464b443931441f65be0b8006b77.png?e=1494869104&amp;k=poLom4roGqUuurO5SEBWwg' data-filesize='17794'><noscript><img class='wiki-image' alt='파일:노란색경고표시.png' height='17' data-filesize='17794' src='//cdn.namuwikiusercontent.com/c1/c1465de99b62a1de81bf7196add4b2bb60c4c464b443931441f65be0b8006b77.png?e=1494869104&amp;k=poLom4roGqUuurO5SEBWwg'></noscript></a> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:FAQ#s-6.4' title='나무위키:FAQ'><span class='wiki-color' style='color:white'><em>이것이 무엇인가요?</em></span></a></p></td></tr></table></div><hr class='wiki-hr-4'><div class='wiki-table-wrap' style='width:100%'><table class='wiki-table' style='width: 100%;border: 2px solid #00a495;'><tr><td colspan='2' style='background-color:#00a495; text-align:center;'><p><strong><span class='wiki-size size-2'><span class='wiki-color' style='color:white'>저작권 문제 소통 창구</span></span></strong></p></td></tr><tr><td style='background-color:white; width:50px; text-align:center;'><p><a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B6%8C%EB%A6%AC%EC%B9%A8%ED%95%B4%20%EB%8F%84%EC%9B%80%EB%A7%90' title='나무위키:권리침해 도움말'><img class='wiki-image wiki-lazy-image wiki-lazy-loading' alt='파일:나무위키:Gavel.png' height='65' data-original='//cdn.namuwikiusercontent.com/e9/e9992e0f4486baccd2b7b94745e9fdb1021c7843a35b84e22466ecc6e8659fc7.png?e=1497623520&amp;k=7JfagCXviIScbAbpiodptA' data-filesize='4566'><noscript><img class='wiki-image' alt='파일:나무위키:Gavel.png' height='65' data-filesize='4566' src='//cdn.namuwikiusercontent.com/e9/e9992e0f4486baccd2b7b94745e9fdb1021c7843a35b84e22466ecc6e8659fc7.png?e=1497623520&amp;k=7JfagCXviIScbAbpiodptA'></noscript></a></p></td><td><p>나무위키의 문서 중 본인 혹은 대리인으로서 문의를 원하시면 아래의 게시판을 이용해주세요!</p><hr class='wiki-hr-4'><p><a href="https://board.namu.wiki/copyright">저작권 요청 게시판</a> · <a href="https://board.namu.wiki/notice/50684">임시조치 방침</a> · <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B6%8C%EB%A6%AC%EC%B9%A8%ED%95%B4%20%EB%8F%84%EC%9B%80%EB%A7%90' title='나무위키:권리침해 도움말'>권리침해 도움말</a></p></td></tr></table></div><p></p><hr class='wiki-hr-4'><p><div style='border:1px solid gray; border-top:5px solid #00A495; padding:12px;'><strong><span class='wiki-size size-2'><span class='wiki-color' style='color:#00A495'>주요 운영 알림</span></span></strong><br><hr class='wiki-hr-4'><ul class='wiki-list'><li><p><a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:FAQ/%EC%86%8C%EC%9C%A0%EA%B6%8C%20%EC%9D%B4%EC%A0%84' title='나무위키:FAQ/소유권 이전'>나무위키 소유권 이전 관련 FAQ</a></p></li></ul><hr class='wiki-hr-4'><ul class='wiki-list'><li><p><a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:FAQ/%EA%B4%80%EC%84%A0%20%EA%B6%8C%ED%95%9C' title='나무위키:FAQ/관선 권한'>나무위키 관선 권한 관련 FAQ</a></p></li></ul><hr class='wiki-hr-4'><ul class='wiki-list'><li><p>중재자를 모집하고 있습니다. <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EC%A4%91%EC%9E%AC%EC%9E%90%20%EC%84%A0%EC%B6%9C' title='나무위키:중재자 선출'>나무위키:중재자 선출</a>에서 지원가능합니다.</p></li></ul><hr class='wiki-hr-4'><ul class='wiki-list'><li><p><a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EC%9A%B4%EC%98%81%EC%97%85%EB%AC%B4%20%EC%95%8C%EB%A6%BC%EC%9A%A9%20%EB%AC%B8%EC%84%9C' title='나무위키:운영업무 알림용 문서'>나무위키:운영업무 알림용 문서</a>가 생성되었습니다.</p></li></ul><hr class='wiki-hr-4'><ul class='wiki-list'><li><p><a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B8%B0%EB%B3%B8%EB%B0%A9%EC%B9%A8/%EC%9A%B4%EC%98%81%20%EA%B4%80%EB%A6%AC%20%EB%B0%A9%EC%B9%A8' title='나무위키:기본방침/운영 관리 방침'>나무위키:기본방침/운영 관리 방침</a>의 의견서 제출 기간에 대한 조항이 <a class='wiki-link-external' href='https://namu.wiki/diff/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B8%B0%EB%B3%B8%EB%B0%A9%EC%B9%A8/%EC%9A%B4%EC%98%81%20%EA%B4%80%EB%A6%AC%20%EB%B0%A9%EC%B9%A8?rev=54&amp;oldrev=53' target='_blank' title='https://namu.wiki/diff/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B8%B0%EB%B3%B8%EB%B0%A9%EC%B9%A8/%EC%9A%B4%EC%98%81%20%EA%B4%80%EB%A6%AC%20%EB%B0%A9%EC%B9%A8?rev=54&amp;oldrev=53'>개정</a>되었습니다.</p></li></ul><hr class='wiki-hr-4'><ul class='wiki-list'><li><p><a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B8%B0%EB%B3%B8%EB%B0%A9%EC%B9%A8/%EC%84%A0%EA%B1%B0%20%EA%B4%80%EB%A6%AC%20%EB%B0%A9%EC%B9%A8' title='나무위키:기본방침/선거 관리 방침'>나무위키:기본방침/선거 관리 방침</a>의 중재자 선출 절차, 상임 중재자 선출 절차에 대한 조항이 <a class='wiki-link-external' href='https://namu.wiki/diff/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B8%B0%EB%B3%B8%EB%B0%A9%EC%B9%A8/%EC%84%A0%EA%B1%B0%20%EA%B4%80%EB%A6%AC%20%EB%B0%A9%EC%B9%A8?rev=149&amp;oldrev=148' target='_blank' title='https://namu.wiki/diff/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B8%B0%EB%B3%B8%EB%B0%A9%EC%B9%A8/%EC%84%A0%EA%B1%B0%20%EA%B4%80%EB%A6%AC%20%EB%B0%A9%EC%B9%A8?rev=149&amp;oldrev=148'>개정</a>되었습니다.</p></li></ul><hr class='wiki-hr-4'><ul class='wiki-list'><li><p><a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B8%B0%EB%B3%B8%EB%B0%A9%EC%B9%A8/%EC%84%A0%EA%B1%B0%20%EA%B4%80%EB%A6%AC%20%EB%B0%A9%EC%B9%A8' title='나무위키:기본방침/선거 관리 방침'>나무위키:기본방침/선거 관리 방침</a>의 임명 에 대한 조항이 <a class='wiki-link-external' href='https://namu.wiki/diff/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B8%B0%EB%B3%B8%EB%B0%A9%EC%B9%A8/%EC%84%A0%EA%B1%B0%20%EA%B4%80%EB%A6%AC%20%EB%B0%A9%EC%B9%A8?rev=150&amp;oldrev=149' target='_blank' title='https://namu.wiki/diff/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B8%B0%EB%B3%B8%EB%B0%A9%EC%B9%A8/%EC%84%A0%EA%B1%B0%20%EA%B4%80%EB%A6%AC%20%EB%B0%A9%EC%B9%A8?rev=150&amp;oldrev=149'>개정</a>되었습니다</p></li></ul><hr class='wiki-hr-4'><ul class='wiki-list'><li><p><a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B8%B0%EB%B3%B8%EB%B0%A9%EC%B9%A8/%ED%86%A0%EB%A1%A0%20%EA%B4%80%EB%A6%AC%20%EB%B0%A9%EC%B9%A8' title='나무위키:기본방침/토론 관리 방침'>나무위키:기본방침/토론 관리 방침</a>의 서술 시점 고정에 대한 조항이 <a class='wiki-link-external' href='https://namu.wiki/diff/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B8%B0%EB%B3%B8%EB%B0%A9%EC%B9%A8/%ED%86%A0%EB%A1%A0%20%EA%B4%80%EB%A6%AC%20%EB%B0%A9%EC%B9%A8?rev=56&amp;oldrev=55' target='_blank' title='https://namu.wiki/diff/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B8%B0%EB%B3%B8%EB%B0%A9%EC%B9%A8/%ED%86%A0%EB%A1%A0%20%EA%B4%80%EB%A6%AC%20%EB%B0%A9%EC%B9%A8?rev=56&amp;oldrev=55'>개정</a>되었습니다.</p></li></ul><hr class='wiki-hr-4'><ul class='wiki-list'><li><p><a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4%20%ED%94%BC%EA%B7%9C%EC%96%B4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8' title='나무위키 피규어 프로젝트'>나무위키 피규어 프로젝트</a>,<a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4%20%EB%B3%B4%EB%93%9C%EA%B2%8C%EC%9E%84%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8' title='나무위키 보드게임 프로젝트'>나무위키 보드게임 프로젝트</a>가 재개설되었습니다.</p></li></ul></div><br></p><hr class='wiki-hr-4'><p><div style='border:1px solid gray; border-top:5px solid #00A495; padding:12px;'><strong><span class='wiki-size size-2'><span class='wiki-color' style='color:#00A495'>최근 운영 토론</span></span></strong><hr class='wiki-hr-4'><ul class='wiki-list'><li><p><a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B8%B0%EB%B3%B8%EB%B0%A9%EC%B9%A8/%ED%86%A0%EB%A1%A0%20%EA%B4%80%EB%A6%AC%20%EB%B0%A9%EC%B9%A8' title='나무위키:기본방침/토론 관리 방침'>나무위키:기본방침/토론 관리 방침</a>의 중재자에 대한 <a class='wiki-link-external' href='https://namu.wiki/topic/83189#11' target='_blank' title='https://namu.wiki/topic/83189'>개정안</a>이 마련되었습니다. 호민관 승인 절차 진행중입니다.</p></li></ul><hr class='wiki-hr-4'><ul class='wiki-list'><li><p><a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B8%B0%EB%B3%B8%EB%B0%A9%EC%B9%A8/%EC%84%A0%EA%B1%B0%20%EA%B4%80%EB%A6%AC%20%EB%B0%A9%EC%B9%A8' title='나무위키:기본방침/선거 관리 방침'>나무위키:기본방침/선거 관리 방침</a>의 인수인계 조항에 대한 <a class='wiki-link-external' href='https://namu.wiki/topic/83403' target='_blank' title='https://namu.wiki/topic/83403'>합의안</a>이 마련되었습니다. 이의제기 기간은 KST 2017-05-10 07:16:24까지 입니다.</p></li></ul></div><br></p><div class='wiki-indent'><p></p></div><hr class='wiki-hr-4'><p><div style='border:1px solid gray; border-top:5px solid #00A495; padding:12px;'><strong><span class='wiki-size size-2'><span class='wiki-color' style='color:#00A495'>주요 이메일</span></span></strong><br><hr class='wiki-hr-4'><ul class='wiki-list'><li><p>임시조치, 기술지원, umanle S.R.L.에 문의: <strong>support@namu.wiki</strong> (<a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%ED%88%AC%EB%AA%85%EC%84%B1%20%EB%B3%B4%EA%B3%A0%EC%84%9C' title='나무위키:투명성 보고서'>투명성 보고서</a>에 공개될 수 있음)</p></li></ul></div></p><hr class='wiki-hr-4'><div class='wiki-table-wrap' style='width:100%'><table class='wiki-table' style='background-color:white;width: 100%;border: 2px solid #00a495;'><tr><td><p><a class='wiki-link-internal' href='/w/%ED%8C%8C%EC%9D%BC:%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%A1%9C%EA%B3%A02.png' title='파일:나무위키:로고2.png'><img class='wiki-image wiki-lazy-image wiki-lazy-loading' alt='파일:나무위키:로고2.png' height='25' data-original='//cdn.namuwikiusercontent.com/3b/3b6ce66667dea8c02595281c54fc46589f1af93394820fe7246d4fa920e32bd7.png?e=1496203488&amp;k=liIa8xS_QfTWn9JA9QidEw' data-filesize='22672'><noscript><img class='wiki-image' alt='파일:나무위키:로고2.png' height='25' data-filesize='22672' src='//cdn.namuwikiusercontent.com/3b/3b6ce66667dea8c02595281c54fc46589f1af93394820fe7246d4fa920e32bd7.png?e=1496203488&amp;k=liIa8xS_QfTWn9JA9QidEw'></noscript></a> <a class='wiki-link-internal' href='/w/%EB%B6%84%EB%A5%98:%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4%EC%9D%98%20%EA%B7%9C%EC%A0%95' title='분류:나무위키의 규정'><span class='wiki-color' style='color:#00a495'><span class='wiki-size size-1'>나무위키의 규정</span></span></a></p></td></tr><tr><td style='background-color:#00a495;'><p><a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B8%B0%EB%B3%B8%EB%B0%A9%EC%B9%A8' title='나무위키:기본방침'><span class='wiki-color' style='color:white'>기본방침</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B8%B0%EB%B3%B8%EB%B0%A9%EC%B9%A8/%EB%AC%B8%EC%84%9C%20%EA%B4%80%EB%A6%AC%20%EB%B0%A9%EC%B9%A8' title='나무위키:기본방침/문서 관리 방침'><span class='wiki-color' style='color:white'>문서 관리 방침</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B8%B0%EB%B3%B8%EB%B0%A9%EC%B9%A8/%ED%86%A0%EB%A1%A0%20%EA%B4%80%EB%A6%AC%20%EB%B0%A9%EC%B9%A8' title='나무위키:기본방침/토론 관리 방침'><span class='wiki-color' style='color:white'>토론 관리 방침</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B8%B0%EB%B3%B8%EB%B0%A9%EC%B9%A8/%EC%9A%B4%EC%98%81%20%EA%B4%80%EB%A6%AC%20%EB%B0%A9%EC%B9%A8' title='나무위키:기본방침/운영 관리 방침'><span class='wiki-color' style='color:white'>운영 관리 방침</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B8%B0%EB%B3%B8%EB%B0%A9%EC%B9%A8/%EC%9D%B4%EC%9A%A9%EC%9E%90%20%EA%B4%80%EB%A6%AC%20%EB%B0%A9%EC%B9%A8' title='나무위키:기본방침/이용자 관리 방침'><span class='wiki-color' style='color:white'>이용자 관리 방침</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B8%B0%EB%B3%B8%EB%B0%A9%EC%B9%A8/%EC%84%A0%EA%B1%B0%20%EA%B4%80%EB%A6%AC%20%EB%B0%A9%EC%B9%A8' title='나무위키:기본방침/선거 관리 방침'><span class='wiki-color' style='color:white'>선거 관리 방침</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B8%B0%EB%B3%B8%EB%B0%A9%EC%B9%A8%20%EA%B0%9C%EC%A0%95%EB%82%B4%EC%97%AD' title='나무위키:기본방침 개정내역'><span class='wiki-color' style='color:white'>기본방침 개정내역</span></a>  <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%ED%8E%B8%EC%A7%91%EC%A7%80%EC%B9%A8' title='나무위키:편집지침'><span class='wiki-color' style='color:white'>편집지침</span></a> <span class='wiki-color' style='color:white'>(</span><a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%ED%8E%B8%EC%A7%91%EC%A7%80%EC%B9%A8/%EB%AA%A8%EB%93%A0%20%EB%AC%B8%EC%84%9C' title='나무위키:편집지침/모든 문서'><span class='wiki-color' style='color:white'>모든 문서</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%ED%8E%B8%EC%A7%91%EC%A7%80%EC%B9%A8/%ED%8A%B9%EC%A0%95%20%EB%B6%84%EC%95%BC' title='나무위키:편집지침/특정 분야'><span class='wiki-color' style='color:white'>특정 분야</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%ED%8E%B8%EC%A7%91%EC%A7%80%EC%B9%A8/%EB%93%B1%EC%9E%AC%20%EA%B8%B0%EC%A4%80' title='나무위키:편집지침/등재 기준'><span class='wiki-color' style='color:white'>등재 기준</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%ED%8E%B8%EC%A7%91%EC%A7%80%EC%B9%A8/%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%97%85%EB%A1%9C%EB%93%9C' title='나무위키:편집지침/이미지 업로드'><span class='wiki-color' style='color:white'>이미지 업로드</span></a><span class='wiki-color' style='color:white'>)</span> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%ED%86%A0%EB%A1%A0%EC%A7%80%EC%B9%A8' title='나무위키:토론지침'><span class='wiki-color' style='color:white'>토론지침</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%ED%8E%B8%EC%A7%91%20%EC%A0%9C%ED%95%9C' title='나무위키:편집 제한'><span class='wiki-color' style='color:white'>편집 제한</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%ED%8E%B8%EC%A7%91%EC%9E%A5' title='나무위키:편집장'><span class='wiki-color' style='color:white'>편집장</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B3%B5%EA%B0%9C%20%EC%9A%B4%EC%98%81%ED%9A%8C%EC%9D%98' title='나무위키:공개 운영회의'><span class='wiki-color' style='color:white'>공개 운영회의</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EC%A0%95%EA%B8%B0%20%EC%9A%B4%EC%98%81%20%EC%95%88%EA%B1%B4%20%EC%8B%AC%EC%82%AC' title='나무위키:정기 운영 안건 심사'><span class='wiki-color' style='color:white'>정기 운영 안건 심사</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%ED%88%AC%EB%AA%85%EC%84%B1%20%EB%B3%B4%EA%B3%A0%EC%84%9C' title='나무위키:투명성 보고서'><span class='wiki-color' style='color:white'>투명성 보고서</span></a></p></td></tr><tr><td><p><a class='wiki-link-internal' href='/w/%ED%8C%8C%EC%9D%BC:%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%A1%9C%EA%B3%A02.png' title='파일:나무위키:로고2.png'><img class='wiki-image wiki-lazy-image wiki-lazy-loading' alt='파일:나무위키:로고2.png' height='25' data-original='//cdn.namuwikiusercontent.com/3b/3b6ce66667dea8c02595281c54fc46589f1af93394820fe7246d4fa920e32bd7.png?e=1496203488&amp;k=liIa8xS_QfTWn9JA9QidEw' data-filesize='22672'><noscript><img class='wiki-image' alt='파일:나무위키:로고2.png' height='25' data-filesize='22672' src='//cdn.namuwikiusercontent.com/3b/3b6ce66667dea8c02595281c54fc46589f1af93394820fe7246d4fa920e32bd7.png?e=1496203488&amp;k=liIa8xS_QfTWn9JA9QidEw'></noscript></a> <a class='wiki-link-internal' href='/w/%EB%B6%84%EB%A5%98:%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4%EC%9D%98%20%EB%8F%84%EC%9B%80%EB%A7%90' title='분류:나무위키의 도움말'><span class='wiki-color' style='color:#00a495'><span class='wiki-size size-1'>나무위키의 도움말</span></span></a></p></td></tr><tr><td style='background-color:#00a495;'><p><a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%8F%84%EC%9B%80%EB%A7%90' title='나무위키:도움말'><span class='wiki-color' style='color:white'>도움말</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:FAQ' title='나무위키:FAQ'><span class='wiki-color' style='color:white'>FAQ</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B0%80%EC%9D%B4%EB%93%9C' title='나무위키:가이드'><span class='wiki-color' style='color:white'>가이드</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B0%80%EC%9D%B4%EB%93%9C/%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%97%85%EB%A1%9C%EB%93%9C' title='나무위키:가이드/이미지 업로드'><span class='wiki-color' style='color:white'>이미지 업로드 가이드</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EC%84%A4%EC%A0%95%20%EB%8F%84%EC%9B%80%EB%A7%90' title='나무위키:설정 도움말'><span class='wiki-color' style='color:white'>설정 도움말</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%ED%8E%B8%EC%A7%91%20%EB%8F%84%EC%9B%80%EB%A7%90' title='나무위키:편집 도움말'><span class='wiki-color' style='color:white'>편집 도움말</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%AC%B8%EB%B2%95%20%EB%8F%84%EC%9B%80%EB%A7%90' title='나무위키:문법 도움말'><span class='wiki-color' style='color:white'>문법 도움말</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%ED%86%A0%EB%A1%A0%20%EB%8F%84%EC%9B%80%EB%A7%90' title='나무위키:토론 도움말'><span class='wiki-color' style='color:white'>토론 도움말</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EC%86%8C%EB%AA%85%EA%B3%BC%20%EC%9D%B4%EC%9D%98%EC%A0%9C%EA%B8%B0%20%EB%8F%84%EC%9B%80%EB%A7%90' title='나무위키:소명과 이의제기 도움말'><span class='wiki-color' style='color:white'>소명과 이의제기 도움말</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EC%9A%B4%EC%98%81%EC%A7%84%20%EC%84%A0%EA%B1%B0%20%EB%8F%84%EC%9B%80%EB%A7%90' title='나무위키:운영진 선거 도움말'><span class='wiki-color' style='color:white'>선거 도움말</span> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B6%8C%EB%A6%AC%EC%B9%A8%ED%95%B4%20%EB%8F%84%EC%9B%80%EB%A7%90' title='나무위키:권리침해 도움말'><span class='wiki-color' style='color:white'>권리침해 도움말</span></a></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B2%8C%EC%8B%9C%ED%8C%90%20%EC%9D%B4%EC%9A%A9%20%EB%8F%84%EC%9B%80%EB%A7%90' title='나무위키:게시판 이용 도움말'><span class='wiki-color' style='color:white'>게시판 이용 도움말</span></a></p></td></tr><tr><td><p><a class='wiki-link-internal' href='/w/%ED%8C%8C%EC%9D%BC:%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%A1%9C%EA%B3%A02.png' title='파일:나무위키:로고2.png'><img class='wiki-image wiki-lazy-image wiki-lazy-loading' alt='파일:나무위키:로고2.png' height='25' data-original='//cdn.namuwikiusercontent.com/3b/3b6ce66667dea8c02595281c54fc46589f1af93394820fe7246d4fa920e32bd7.png?e=1496203488&amp;k=liIa8xS_QfTWn9JA9QidEw' data-filesize='22672'><noscript><img class='wiki-image' alt='파일:나무위키:로고2.png' height='25' data-filesize='22672' src='//cdn.namuwikiusercontent.com/3b/3b6ce66667dea8c02595281c54fc46589f1af93394820fe7246d4fa920e32bd7.png?e=1496203488&amp;k=liIa8xS_QfTWn9JA9QidEw'></noscript></a> <a class='wiki-link-internal' href='/w/%EB%B6%84%EB%A5%98:%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4%EC%9D%98%20%EA%B8%B0%EB%8A%A5' title='분류:나무위키의 기능'><span class='wiki-color' style='color:#00a495'><span class='wiki-size size-1'>나무위키의 기능</span></span></a></p></td></tr><tr><td style='background-color:#00a495;'><p><a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B2%8C%EC%8B%9C%ED%8C%90' title='나무위키:게시판'><span class='wiki-color' style='color:white'>게시판</span></a> <span class='wiki-color' style='color:white'>·</span>  <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EC%9D%B4%EC%8A%88%20%ED%8A%B8%EB%9E%98%EC%BB%A4' title='나무위키:이슈 트래커'><span class='wiki-color' style='color:white'>이슈 트래커</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EC%97%94%EC%A7%84' title='나무위키:엔진'><span class='wiki-color' style='color:white'>엔진</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%ED%86%B5%EA%B3%84' title='나무위키:통계'><span class='wiki-color' style='color:white'>통계</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%20%EB%8D%A4%ED%94%84' title='나무위키:데이터베이스 덤프'><span class='wiki-color' style='color:white'>DB 덤프</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EC%97%B0%EC%8A%B5%EC%9E%A5' title='나무위키:연습장'><span class='wiki-color' style='color:white'>연습장</span></a></p></td></tr><tr><td><p><a class='wiki-link-internal' href='/w/%ED%8C%8C%EC%9D%BC:%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%A1%9C%EA%B3%A02.png' title='파일:나무위키:로고2.png'><img class='wiki-image wiki-lazy-image wiki-lazy-loading' alt='파일:나무위키:로고2.png' height='25' data-original='//cdn.namuwikiusercontent.com/3b/3b6ce66667dea8c02595281c54fc46589f1af93394820fe7246d4fa920e32bd7.png?e=1496203488&amp;k=liIa8xS_QfTWn9JA9QidEw' data-filesize='22672'><noscript><img class='wiki-image' alt='파일:나무위키:로고2.png' height='25' data-filesize='22672' src='//cdn.namuwikiusercontent.com/3b/3b6ce66667dea8c02595281c54fc46589f1af93394820fe7246d4fa920e32bd7.png?e=1496203488&amp;k=liIa8xS_QfTWn9JA9QidEw'></noscript></a> <a class='wiki-link-internal' href='/w/%EB%B6%84%EB%A5%98:%EB%B6%84%EB%A5%98' title='분류:분류'><span class='wiki-color' style='color:#00a495'><span class='wiki-size size-1'>나무위키의 분류</span></span></a></p></td></tr><tr><td style='background-color:#00a495;'><p><a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8' title='나무위키:프로젝트'><span class='wiki-color' style='color:white'>프로젝트</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EC%A3%BC%EC%9A%94%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EB%A7%81%ED%81%AC' title='나무위키:주요 페이지 링크'><span class='wiki-color' style='color:white'>주요 페이지 링크</span></a> <span class='wiki-color' style='color:white'>·</span>  <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%B3%B4%EC%A1%B4%EB%AC%B8%EC%84%9C' title='나무위키:보존문서'><span class='wiki-color' style='color:white'>보존문서</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%B6%84%EB%A5%98:%ED%8C%8C%EC%9D%BC' title='분류:파일'><span class='wiki-color' style='color:white'>파일</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%ED%8B%80' title='나무위키:틀'><span class='wiki-color' style='color:white'>틀</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%B6%84%EB%A5%98:%ED%85%9C%ED%94%8C%EB%A6%BF' title='분류:템플릿'><span class='wiki-color' style='color:white'>템플릿</span></a></p></td></tr><tr><td><p><a class='wiki-link-internal' href='/w/%ED%8C%8C%EC%9D%BC:%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EB%A1%9C%EA%B3%A02.png' title='파일:나무위키:로고2.png'><img class='wiki-image wiki-lazy-image wiki-lazy-loading' alt='파일:나무위키:로고2.png' height='25' data-original='//cdn.namuwikiusercontent.com/3b/3b6ce66667dea8c02595281c54fc46589f1af93394820fe7246d4fa920e32bd7.png?e=1496203488&amp;k=liIa8xS_QfTWn9JA9QidEw' data-filesize='22672'><noscript><img class='wiki-image' alt='파일:나무위키:로고2.png' height='25' data-filesize='22672' src='//cdn.namuwikiusercontent.com/3b/3b6ce66667dea8c02595281c54fc46589f1af93394820fe7246d4fa920e32bd7.png?e=1496203488&amp;k=liIa8xS_QfTWn9JA9QidEw'></noscript></a> <a class='wiki-link-internal' href='/w/%EB%B6%84%EB%A5%98:%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4%EC%9D%98%20%EC%9A%B4%EC%98%81%EC%A7%84' title='분류:나무위키의 운영진'><span class='wiki-color' style='color:#00a495'><span class='wiki-size size-1'>나무위키의 운영진</span></span></a></p></td></tr><tr><td style='background-color:#00a495; text-align:left;'><p><a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EC%B5%9C%EA%B3%A0%20%EA%B4%80%EB%A6%AC%EC%9E%90' title='나무위키:최고 관리자'><span class='wiki-color' style='color:white'>최고 관리자</span></a> <span class='wiki-color' style='color:white'>·</span>  <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EA%B4%80%EB%A6%AC%EC%9E%90' title='나무위키:관리자'><span class='wiki-color' style='color:white'>관리자</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%ED%98%B8%EB%AF%BC%EA%B4%80' title='나무위키:호민관'><span class='wiki-color' style='color:white'>호민관</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EC%83%81%EC%9E%84%EC%A4%91%EC%9E%AC%EC%9E%90' title='나무위키:상임중재자'><span class='wiki-color' style='color:white'>상임중재자</span></a> <span class='wiki-color' style='color:white'>·</span> <a class='wiki-link-internal' href='/w/%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4:%EC%A4%91%EC%9E%AC%EC%9E%90' title='나무위키:중재자'><span class='wiki-color' style='color:white'>중재자</span></a></p></td></tr></table></div><p></p>
+			
+		</div>
+
+		
+
+		
+
+		
+		<div class="clearfix"></div>
+		<div class="wiki-category">
+			<h2>분류</h2>
+			<ul>
+			
+				<li><a href='/w/%EB%B6%84%EB%A5%98:%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4'>나무위키</a></li>
+			
+			</ul>
+		</div>
+		
+	</div>
+
+	<footer>
+		<p>
+			<img src="/skins/senkawa/img/license/ca9238c7df97342cfcca7252507d24153031d8a3334e150154bb072d2e87d7a6.png?d6c34310" style="display:none;">
+			<img alt="크리에이티브 커먼즈 라이선스" style="border-width: 0;" src="/skins/senkawa/img/cc-by-nc-sa-2.0-88x31.png?65c20b73">
+		</p>
+		<p>
+			이 저작물은 <a rel="license" href="//creativecommons.org/licenses/by-nc-sa/2.0/kr/">CC BY-NC-SA 2.0 KR</a>에 따라 이용할 수 있습니다. (단, 라이선스가 명시된 일부 문서 및 삽화 제외)<br />
+			기여하신 문서의 저작권은 각 기여자에게 있으며, 각 기여자는 기여하신 부분의 저작권을 갖습니다.
+		</p>
+		<p>
+			나무위키는 백과사전이 아니며 검증되지 않거나, 편향적, 잘못된 서술이 있을 수 있습니다.<br />나무위키는 위키위키입니다. 여러분이 직접 문서를 고칠 수 있으며, 다른 사람의 의견을 원할 경우 직접 토론을 발제할 수 있습니다.
+		</p>
+	</footer>
+
+		</article>
+	</div>
+
+	<div class="footer-wrapper">
+		<footer class="footer">
+			<p>namu.wiki<span class="sep"></span><a href="mailto:support@namu.wiki">Contáctenos</a><span class="sep"></span><a href="/Policy">Términos de uso</a><span class="sep"></span>Operado por umanle S.R.L.<span class="sep"></span>Hecho con &lt;3 en Asunción, República del Paraguay</p>
+			<p>Su zona horaria es <span id="timezone"></span><span class="sep"></span>Impulsado por <i>the seed engine</i></p>
+		</footer>
+	</div>
+
+	<ul class="nav-control">
+		<li>
+			<a href="#top" id="goTopBtn">
+				<span class="ion-arrow-up-b"></span>
+			</a>
+		</li>
+		<li>
+			<a href="#bottom" id="goBottomBtn">
+				<span class="ion-arrow-down-b"></span>
+			</a>
+		</li>
+	</ul>
+
+	<div class="modal fade" id="shortcutHelpModal">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+					<span aria-hidden="true">&times;</span>
+					<span class="sr-only">Close</span>
+					</button>
+					<h5 class="modal-title">단축키 도움말</h5>
+				</div>
+				<div class="modal-body">
+					<dl class="dl-horizontal">
+						<dt class="col-sm-3"><b>F</b>ront Gate</dt>
+						<dd class="col-sm-9">대문</dd>
+
+						<dt class="col-sm-3">Recent<b>C</b>hanges</dt>
+						<dd class="col-sm-9">최근 변경</dd>
+
+						<dt class="col-sm-3">Recent<b>D</b>iscuss</dt>
+						<dd class="col-sm-9">최근 토론</dd>
+
+						<dt class="col-sm-3">R<b>A</b>ndom</dt>
+						<dd class="col-sm-9">랜덤 문서</dd>
+
+						<dt class="col-sm-3"><b>Shift</b> + <b>S</b>earch</dt>
+						<dd class="col-sm-9">검색</dd>
+
+						<dt class="col-sm-3"><b>E</b>dit</dt>
+						<dd class="col-sm-9">문서 편집</dd>
+
+						<dt class="col-sm-3"><b>?</b></dt>
+						<dd class="col-sm-9">단축키 도움말</dd>
+					</dl>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="modal fade" id="searchModal" data-backdrop="false">
+		<div class="modal-dialog modal-sm">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+					<span aria-hidden="true">&times;</span>
+					<span class="sr-only">Close</span>
+					</button>
+					<h6 class="modal-title">검색</h6>
+				</div>
+				<div class="modal-body">
+					<div class="input-group search-box">
+						<input type="text" id="searchInput" class="form-control" placeholder="Search" tabindex="1">
+						<span class="input-group-btn">
+							<button id="searchBtn" class="btn btn-secondary" type="button" style="margin-left: 0;">
+								<span class="icon ion-search"></span>
+							</button>
+							<button id="goBtn" class="btn btn-secondary" type="button">
+								<span class="icon ion-arrow-right-c"></span>
+							</button>
+						</span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="modal" id="footnoteModal">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title">각주:</h5>
+				</div>
+				<div class="modal-body"></div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-block" data-dismiss="modal">닫기</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+</body>
+</html>
+

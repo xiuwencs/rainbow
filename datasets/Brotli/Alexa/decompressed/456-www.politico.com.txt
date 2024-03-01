@@ -1,0 +1,2518 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie ie8 lte8 lt-ie9"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie ie9 lte9"> <![endif]-->
+<!--[if gt IE 9]> <html class="no-js"> <![endif]-->
+<!--[if !IE]><!--><html class="no-js"> <!--<![endif]-->
+
+
+    <head>
+    <meta charset="utf-8" />
+    <script>window['optimizely'] = window['optimizely'] || []; window['optimizely'].push(["customTag", "site_section", "homepage"]);</script>
+                <script src="//cdn.optimizely.com/js/553701075.js"></script>
+            
+<link rel="stylesheet" type="text/css" href="http://static.politico.com/resource/assets/css/style-core.min.9aafe18e3e5e0097e2a0a0187d47818f.gz.css">
+<title>Politics, Policy, Political News - POLITICO</title>
+<meta property="og:title" content="POLITICO">
+<meta name="description" content="Political news about Congress, the White House, campaigns, lobbyists and issues.">
+<meta property="og:description" content="Nobody knows politics like POLITICO.">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:type" content="website">
+<link rel="canonical" href="http://www.politico.com/">
+<meta property="og:url" content="http://politi.co/jl5uz">
+<meta property="og:image" content="http://static.politico.com/51/39/958e25a2475dafd4f496e5eecf1e/politics-policy-political-news.jpg">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:site" content="@politico">
+<meta property="twitter:creator" content="@politico">
+<meta property="og:fb_appid" content="114037015331397">
+<link rel="shortcut icon" type="image/x-icon" href="http://static.politico.com/cf/05/ee684a274496b04fa20ba2978da1/politico.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://static.politico.com/dims4/default/9d80474/2147483647/legacy_thumbnail/144x144/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fcf%2F05%2Fee684a274496b04fa20ba2978da1%2Fpolitico.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://static.politico.com/dims4/default/ae63e1f/2147483647/legacy_thumbnail/114x114/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fcf%2F05%2Fee684a274496b04fa20ba2978da1%2Fpolitico.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://static.politico.com/dims4/default/b9a28c5/2147483647/legacy_thumbnail/72x72/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fcf%2F05%2Fee684a274496b04fa20ba2978da1%2Fpolitico.png">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://static.politico.com/dims4/default/b61d6ee/2147483647/legacy_thumbnail/57x57/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fcf%2F05%2Fee684a274496b04fa20ba2978da1%2Fpolitico.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" sizes="32x32" type="image/png" href="/favicon-32x32.png">
+<link rel="icon" sizes="192x192" type="image/png" href="/android-chrome-192x192.png">
+<link rel="icon" sizes="96x96" type="image/png" href="/favicon-96x96.png">
+<link rel="icon" sizes="16x16" type="image/png" href="/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta msapplication-TileColor="content">
+<meta msapplication-TileImage="content">
+<meta theme-color="content">
+<meta property="og:site_name" content="POLITICO">
+<link type="application/rss+xml" rel="alternate" title="POLITICO - TOP Stories" href="http://www.politico.com/rss/politicopicks.xml">
+<meta name="host" content="www.politico.com">
+<meta name="build" content="hotfix/emily 3b055de 2017-05-04T14:01:41Z"><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script><script type="text/javascript">window.jQuery || document.write('<script src="http://static.politico.com/resource/js/website/shared/libraries/jquery-1.11.0.min.daf47dbdebc0881066106b1dda1c9db3.gz.js"><\/script>')</script><script type="text/javascript" src="http://static.politico.com/resource/js/website/shared/libraries/modernizr-2.8.3.min.eb9167fd3c12f05553135ffda5fcd108.gz.js"></script><script type="text/javascript" src="http://static.politico.com/resource/assets/js.min/preload.62fed04045c8440c2240a494ad569fed.gz.js"></script><script type="text/javascript" src="//tk.politico.com/zmr6qqx.js"></script><script type="text/javascript">try{Typekit.load();}catch(e){}</script><meta http-equiv="refresh" content="300; URL=http://www.politico.com/"></head>
+<body  class="template-home" id="pageHome">
+        <div class="global-wrapper" id="globalWrapper">
+
+            <div class="global-header" role="banner">
+    <div class="global-header-inner">
+        <div class="global-branding">
+            <h1>
+                <a href="http://www.politico.com/" title="Home" target="_top"><b aria-hidden="true" class="icon icon-politico "></b>
+                    <span class="icon-text">POLITICO</span>
+                </a></h1>
+        </div>
+
+        <nav class="nav-micro" role="navigation">
+            <ul class="micro-list">
+                <li class="subnav micro-core-header-magazine-column conditional has-arrow format-s pos-alpha">
+    <div class="subnav-content">
+        <ul class="micro-sublist">
+            <li>
+                    <a href="http://www.politico.com/magazine/" target="_top">Magazine Home</a></li>
+            <li>
+                    <a href="http://www.politico.com/magazine/" target="_blank">Today's Cover</a></li>
+            <li>
+                    <a href="http://www.politico.com/magazine/tag/opinion" target="_top">Opinion</a></li>
+            <li>
+                    <a href="/magazine/#superLatest" target="_top">Latest Stories</a></li>
+            <li>
+                    <a href="http://www.politico.com/magazine/subscribe" target="_top">Weekly Email Signups</a></li>
+            <li>
+                    <a href="http://www.politico.com/magazine/what-works/" target="_top">What Works</a></li>
+            </ul>
+    </div>
+<a href="http://www.politico.com/magazine/table-of-contents/2016/01" class="subnav-toggle" target="_blank">Magazine</a><div class="subnav-content">
+        <ul class="micro-sublist">
+            <li>
+                    <a href="http://www.politico.com/magazine/" target="_top">Magazine Home</a></li>
+            <li>
+                    <a href="http://www.politico.com/magazine/" target="_blank">Today's Cover</a></li>
+            <li>
+                    <a href="http://www.politico.com/magazine/tag/opinion" target="_top">Opinion</a></li>
+            <li>
+                    <a href="/magazine/#superLatest" target="_top">Latest Stories</a></li>
+            <li>
+                    <a href="http://www.politico.com/magazine/subscribe" target="_top">Weekly Email Signups</a></li>
+            <li>
+                    <a href="http://www.politico.com/magazine/what-works/" target="_top">What Works</a></li>
+            </ul>
+    </div>
+</li>
+<li class="subnav micro-core-header-policy-column conditional has-arrow format-s pos-alpha">
+    <div class="subnav-content">
+        <ul class="micro-sublist">
+            <li>
+                    <a href="http://www.politico.com/agriculture" target="_top">Agriculture</a></li>
+            <li>
+                    <a href="http://www.politico.com/cybersecurity" target="_top">Cybersecurity</a></li>
+            <li>
+                    <a href="http://www.politico.com/defense" target="_top">Defense</a></li>
+            <li>
+                    <a href="http://www.politico.com/education" target="_top">Education</a></li>
+            <li>
+                    <a href="http://www.politico.com/ehealth" target="_top">eHealth</a></li>
+            <li>
+                    <a href="http://www.politico.com/energy-and-environment" target="_top">Energy & Environment</a></li>
+            <li>
+                    <a href="http://www.politico.com/finance" target="_top">Finance & Tax</a></li>
+            <li>
+                    <a href="http://www.politico.com/health-care" target="_top">Health Care</a></li>
+            <li>
+                    <a href="http://www.politico.com/tag/employment-immigration" target="_top">Employment & Immigration</a></li>
+            <li>
+                    <a href="http://www.politico.com/technology" target="_top">Technology</a></li>
+            <li>
+                    <a href="http://www.politico.com/trade" target="_top">Trade</a></li>
+            <li>
+                    <a href="http://www.politico.com/transportation" target="_top">Transportation & Infrastructure</a></li>
+            </ul>
+    </div>
+<a href="#" class="subnav-toggle" target="_blank">Policy</a><div class="subnav-content">
+        <ul class="micro-sublist">
+            <li>
+                    <a href="http://www.politico.com/agriculture" target="_top">Agriculture</a></li>
+            <li>
+                    <a href="http://www.politico.com/cybersecurity" target="_top">Cybersecurity</a></li>
+            <li>
+                    <a href="http://www.politico.com/defense" target="_top">Defense</a></li>
+            <li>
+                    <a href="http://www.politico.com/education" target="_top">Education</a></li>
+            <li>
+                    <a href="http://www.politico.com/ehealth" target="_top">eHealth</a></li>
+            <li>
+                    <a href="http://www.politico.com/energy-and-environment" target="_top">Energy & Environment</a></li>
+            <li>
+                    <a href="http://www.politico.com/finance" target="_top">Finance & Tax</a></li>
+            <li>
+                    <a href="http://www.politico.com/health-care" target="_top">Health Care</a></li>
+            <li>
+                    <a href="http://www.politico.com/tag/employment-immigration" target="_top">Employment & Immigration</a></li>
+            <li>
+                    <a href="http://www.politico.com/technology" target="_top">Technology</a></li>
+            <li>
+                    <a href="http://www.politico.com/trade" target="_top">Trade</a></li>
+            <li>
+                    <a href="http://www.politico.com/transportation" target="_top">Transportation & Infrastructure</a></li>
+            </ul>
+    </div>
+</li>
+<li class="subnav micro-core-header-pro-column format-s pos-alpha">
+    <a href="https://www.politicopro.com" target="_top"><b aria-hidden="true" class="icon icon-pro-small-bold"></b>
+    <span class="icon-text">https://www.politicopro.com</span>
+</a></li>
+<li class="subnav micro-core-header-search-link format-m pos-beta">
+    <a href="#" class="subnav-toggle" target="_blank"><b aria-hidden="true" class="icon icon-search"></b>
+            <span class="icon-text">Search</span>
+            </a><div class="subnav-content">
+        <form class="simple-search" action="http://www.politico.com/search" method="get">
+            <fieldset>
+                <input type="search" name="q" id="searchTerm" placeholder=""/>
+                <button class="button type-link" type="submit">Search</button>
+            </fieldset>
+        </form>
+    </div>
+</li>
+<li class="subnav micro-core-header-login-link format-s pos-beta">
+    <a href="#" class="subnav-toggle" target="_blank"><b aria-hidden="true" class="icon icon-logged-in"></b>
+            <span class="icon-text">Login</span>
+            </a><div class="subnav-content">
+        <ul class="micro-sublist">
+            <li>
+                    <a href="https://secure.politico.com/settings" target="_top">Account Details</a></li>
+            <li>
+                    <a href="https://login.politico.com/_login?base=http%3A%2F%2Fwww.politico.com&redirect=/_login&logout=/_logout&lRedirect=true&sRedirect=&js=false" style="display: none;" class="politico-auth auth-log-in auth-logged-out " target="_blank" data-login="https://login.politico.com/_login?base=http%3A%2F%2Fwww.politico.com&redirect=/_login&logout=/_logout&lRedirect=true&sRedirect=">Log In</a>
+    <a href="https://login.politico.com/_logout?base=http%3A%2F%2Fwww.politico.com&redirect=/_logout&js=false" style="display: none;" class="politico-auth auth-log-out auth-logged-in" data-logout="https://login.politico.com/_logout?base=http%3A%2F%2Fwww.politico.com&redirect=/_logout" target="_blank">Log Out</a>
+            </li>
+            </ul>
+    </div>
+</li>
+<li class="subnav micro-core-header-editions-dropdown has-arrow vary-text-visibility format-s pos-beta">
+    <a href="#" class="subnav-toggle" target="_blank"><b aria-hidden="true" class="icon icon-globe"></b>
+    <span class="icon-text">U.S. Edition</span>
+ </a><div class="subnav-content">
+        <ul class="micro-sublist">
+            <li>
+                    <a href="http://www.politico.eu" target="_blank">Europe Edition</a></li>
+            <li>
+                    <a href="http://www.politico.com/media" target="_blank">POLITICO Media </a></li>
+            <li>
+                    <a href="http://www.politico.com/states/florida" target="_blank">POLITICO Florida </a></li>
+            <li>
+                    <a href="http://www.politico.com/states/new-jersey" target="_blank">POLITICO New Jersey </a></li>
+            <li>
+                    <a href="http://www.politico.com/states/new-york" target="_blank">POLITICO New York </a></li>
+            </ul>
+    </div>
+</li>
+</ul>
+        </nav>
+
+        <nav class="nav-macro subnav" role="navigation">
+    <h5 class="subnav-toggle keyboard-accessible">
+        <b aria-hidden="true" class="icon icon-menu"></b>
+        <span class="icon-text">Menu</span>
+    </h5>
+    <div class="subnav-content">
+        <div class="macro-row macro-verticals">
+            <div class="vertical-group capacity-small menu reveal-at-medium reveal-at-large reveal-at-extra">
+                    <h6 class="menu-toggle keyboard-accessible">
+                        Sections</h6>
+
+                    <ul class="vertical-list menu-content">
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="http://www.politico.com/congress" target="_top">Congress</a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="http://www.politico.com/white-house" target="_top">White House</a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="http://www.politico.com/magazine/" target="_top">Magazine</a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="http://www.politico.com/agenda/" target="_blank">The Agenda</a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="http://www.politico.com/2016-election/results/map/president" target="_blank">Latest Election Results </a></li>
+                            </ul>
+                    </div>
+            <div class="vertical-group capacity-small menu reveal-at-medium reveal-at-large reveal-at-extra">
+                    <h6 class="menu-toggle keyboard-accessible">
+                        POLITICO Live </h6>
+
+                    <ul class="vertical-list menu-content">
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="http://www.politico.com/live-events" target="_blank">POLITICO Live Home</a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="http://www.politico.com/live-events/upcoming" target="_blank">Upcoming Events</a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="http://www.politico.com/live-events/previous" target="_blank">Previous Events</a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="http://www.politico.com/live-events/about" target="_blank">About POLITICO Live</a></li>
+                            </ul>
+                    </div>
+            <div class="vertical-group capacity-small menu reveal-at-medium reveal-at-large reveal-at-extra">
+                    <h6 class="menu-toggle keyboard-accessible">
+                        Multimedia</h6>
+
+                    <ul class="vertical-list menu-content">
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="http://www.politico.com/video" target="_top">All Video</a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="http://www.politico.com/podcasts" target="_blank">POLITICO Podcasts</a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="http://www.politico.com/news/playback" target="_top">Playback </a></li>
+                            </ul>
+                    </div>
+            <div class="vertical-group capacity-small menu reveal-at-medium reveal-at-large reveal-at-extra">
+                    <h6 class="menu-toggle keyboard-accessible">
+                        Blogs & Columns</h6>
+
+                    <ul class="vertical-list menu-content">
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="http://www.politico.com/playbook-plus" target="_top">Playbook Plus</a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="http://www.politico.com/news/simon-says" target="_top">Roger Simon</a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="http://www.politico.com/blogs/media" target="_top">On Media</a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="http://www.politico.com/blogs/under-the-radar" target="_top">Josh Gerstein</a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="http://www.politico.com/magazine/tag/rich-lowry" target="_blank">Rich Lowry </a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="http://www.politico.com/blogs/donald-trump-administration" target="_blank">45 Presidential Tracker</a></li>
+                            </ul>
+                    </div>
+            <div class="vertical-group capacity-small menu reveal-at-medium reveal-at-large reveal-at-extra">
+                    <h6 class="menu-toggle keyboard-accessible">
+                        Series</h6>
+
+                    <ul class="vertical-list menu-content">
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="http://www.politico.com/magazine/what-works/" target="_top">What Works</a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="http://www.politico.com/WomenRule" target="_top">Women Rule </a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="http://www.politico.com/caucus" target="_blank">POLITICO Caucus </a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="http://www.politico.com/agenda/issue/agenda-2020-november-2016" target="_blank">Agenda 2020</a></li>
+                            <li>
+                                    <!-- leaving otherwise block so it can fall to somewhere -->
+                                            <a href="http://www.politico.com/agenda/issue/100-days-trade" target="_blank">The First 100 Days: Trade</a></li>
+                            </ul>
+                    </div>
+            <div class="vertical-group capacity-small menu reveal-at-medium reveal-at-large reveal-at-extra">
+                    <h6 class="menu-toggle">Connect With Us</h6>
+                    <ul class="vertical-follow menu-content">
+                        <li class="facebook">
+                                <div class="fb-follow" data-href="https://www.facebook.com/politico"
+                                         data-width="61" data-height="20" data-colorscheme="light"
+                                         data-layout="button" data-show-faces="false"></div>
+                            </li>
+                        <li class="twitter">
+                                <iframe
+                                        src="//platform.twitter.com/widgets/follow_button.html?screen_name=politico"
+                                        style="width: 59px; height: 20px;"
+                                        allowtransparency="true"
+                                        frameborder="0"
+                                        scrolling="no">
+                                </iframe>
+                            </li>
+                        </ul>
+                </div>
+            </div>
+    </div>
+</nav>
+</div>
+</div>
+
+<main class="super-duper" role="main">
+    <div class="super  contrast-high fixed-top">
+    <div class="super-inner">
+        <div class="content layout-full">
+            <section class="content-groupset pos-omega">
+                <div class="content-group ad ads-hide-sibling">
+    <div class="ad-slot flex horizontal ads-hide-sibling" id="pol-01" >
+        </div>
+
+    </div>
+    </section>
+        </div>
+    </div>
+</div>
+<div class="super  contrast-high overlap-bottom no-border  homepage-section-a" >
+        <div class="super-inner">
+            <div class="content layout-full ">
+                <section class="content-groupset pos-omega">
+                    </section>
+            </div>
+            <div class="content layout-bi-unequal-fixed ">
+                <section class="content-groupset pos-alpha">
+                    <div class="content-group module-four-pack">
+    <div class="lead layout-default">
+
+        <div class="lead-group pos-alpha">
+            <article class="lead-frag format-l">
+    <figure class="thumb">
+        <div class="fig-graphic ">
+            <a href="http://www.politico.com/interactives/2017/trump-white-house-visitor-logs-and-records/index.html" style="background-image:url(&#39;http://static.politico.com/dims4/default/53768e4/2147483647/legacy_thumbnail/1160x629%5E/quality/90/format/jpg/?url=http%3A%2F%2Fstatic.politico.com%2Fbb%2Fba%2F2c62cd564fa3966c3af66ba71b1e%2Fhp-visitor-log.gif&#39;);" target="_blank">
+                        &nbsp;
+                    </a></div>
+    </figure>
+
+    <div class="summary  ">
+        <header>
+            <h1 class=" size-s "><a href="http://www.politico.com/interactives/2017/trump-white-house-visitor-logs-and-records/index.html" target="_blank">Who has Trump’s ear? Often rich, white, Republican men.</a></h1>
+            <p class="subhead">POLITICO's exclusive database lists everyone known to have gotten face or phone time with the president since his swearing-in.</p>
+            </header>
+
+        <footer class="meta">
+    <p class="byline">
+            By <span class="vcard" >
+                            <a href="http://www.politico.com/staff/andrew-restuccia" rel="author" class="url fn" target="_top"><span itemprop="author" itemscope itemtype="https://schema.org/Person">
+                                    <span itemprop="name">Andrew Restuccia</span>
+                                    </span></a></span>
+                     and <span class="vcard" >
+                            Aidan Quigley</span>
+                    </p>
+    </footer><div class="related orient-horizontal">
+                <h6>The database: </h6>
+                <ul class="related-list">
+                    <li><a href="http://www.politico.com/interactives/databases/trump-white-house-visitor-logs-and-records/index.html" target="_blank">All the President’s Guests</a></li>
+                    </ul>
+            </div>
+        </div>
+</article>
+</div>
+
+        <div class="lead-group pos-beta">
+            <ul class="lead-frag-list layout-grid grid-3">
+                <li>
+                        <article class="lead-frag format-s">
+    <figure class="thumb">
+            <div class="fig-graphic ">
+                <a href="http://www.politico.com/story/2017/05/09/republicans-war-over-taxes-238136" style="background-image:url(&#39;http://static.politico.com/dims4/default/d17319e/2147483647/legacy_thumbnail/266x150%5E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F26%2F24%2F933fa2194b39a2e21ed6f6acf591%2F170505-paul-ryan-gty-1160.jpg&#39;);" target="_top">
+                            &nbsp;
+                        </a></div>
+        </figure>
+    <div class="summary  ">
+        <header>
+            <h2 class=" size-s "><a href="http://www.politico.com/story/2017/05/09/republicans-war-over-taxes-238136" target="_top">Republicans war over taxes </a></h2>
+        </header>
+
+        </div>
+</article>
+</li>
+                <li>
+                        <article class="lead-frag format-s">
+    <figure class="thumb">
+            <div class="fig-graphic ">
+                <a href="http://www.politico.com/story/2017/05/09/democrats-funerals-obamacare-repeal-238127" style="background-image:url(&#39;http://static.politico.com/dims4/default/7e6002b/2147483647/legacy_thumbnail/266x150%5E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fde%2F13%2Fe8b0f94040d9abecfda4f0cbd4cb%2F170508-obamacare-protest-1-ap-1160.jpg&#39;);" target="_top">
+                            &nbsp;
+                        </a></div>
+        </figure>
+    <div class="summary  ">
+        <header>
+            <h2 class=" size-s "><a href="http://www.politico.com/story/2017/05/09/democrats-funerals-obamacare-repeal-238127" target="_top">Left adopts shock tactics in Obamacare repeal fight</a></h2>
+        </header>
+
+        </div>
+</article>
+</li>
+                <li>
+                        <article class="lead-frag format-s">
+    <figure class="thumb">
+            <div class="fig-graphic  has-pennant">
+                <a href="http://www.politico.com/magazine/story/2017/05/09/why-liberals-arent-as-tolerant-as-they-think-215114" style="background-image:url(&#39;http://static.politico.com/dims4/default/905530e/2147483647/legacy_thumbnail/266x150%5E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F6a%2F26%2F73f0af7b4057b34f6c383cd85ec1%2F170505-berkeley-1-ap-1160.jpg&#39;);" target="_top"><span class="fig-pennant type-brand is-deemphasized">
+    <b aria-hidden="true" class="icon icon-magazine-small"></b>
+            <span class="icon-text">Magazine</span>
+        </span>
+
+                            &nbsp;
+                        </a></div>
+        </figure>
+    <div class="summary  ">
+        <header>
+            <h2 class=" size-s "><a href="http://www.politico.com/magazine/story/2017/05/09/why-liberals-arent-as-tolerant-as-they-think-215114" target="_top">Why liberals aren’t as tolerant as they think</a></h2>
+        </header>
+
+        </div>
+</article>
+</li>
+                </ul>
+        </div>
+    </div>
+</div>
+</section>
+                <section class="content-groupset pos-beta is-masoned">
+                    <div class="content-group ad ads-hide-sibling">
+    <div class="ad-slot flex vertical ads-hide-sibling" id="pol-02" >
+        </div>
+
+    </div>
+    <aside class="content-group playbook-sign-up">
+
+        <div class="promo" >
+            <header class="promo-header">
+                            <a href="http://www.politico.com/playbook" target="_top"><h2 ><b>Politico</b> Playbook</h2>
+                            </a></header>
+                    <div class="promo-content pt0_5r pb0_5r">
+                    <div class="spotlight color-inverted">
+                        <div class="thumb">
+                                <img data-lazy-img="http://static.politico.com/dims4/default/b709a03/2147483647/resize/70x/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fa9%2Fa1%2Fbcd3766e496da6fb8c30b9099912%2Fdownload.png" width="70" height="70" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="download.png"></div>
+                        <div class="summary">
+                                <p >POLITICO&#39;s must-read briefing on what&#39;s driving the day in Washington </p>
+                            </div>
+                        </div>
+                </div>
+            <div class="promo-content pt0_5r pb0_5r">
+
+                <div class="js-tealium-newsletter" data-subscription-module="newsletter_rightrail_standard_Playbook - POLITICO">
+                    <div class="dari-frame dari-frame-loaded" name="playbook-sign-up-rail-0000014f-1646-d88f-a1cf-5f46b7bd0000" data-insertion-mode="replace" data-extra-form-data="_frame.path=fe6ae93f42f4f4ac6e5b716e9cf170c8&amp;_frame.name=playbook-sign-up-rail-0000014f-1646-d88f-a1cf-5f46b7bd0000"><form class="simple-signup color-inverted" target="playbook-sign-up-rail-0000014f-1646-d88f-a1cf-5f46b7bd0000" method="post" action="/?">
+                                    <input type="hidden" name="subscribeId" value="0000014f-1646-d88f-a1cf-5f46b7bd0000" />
+                                    <input type="hidden" name="processorId" value="0000015a-9535-d8fb-affb-ff35bc700000" />
+                                    <input type="hidden" name="validateEmail" value="true" />
+                                    <input type="hidden" name="enhancedSignUp" value="true" />
+                                    <input type="hidden" name="bot-field" value="" class="dn"/>
+
+                                    <fieldset>
+                                        <label for="i6723f53e42d84497a99cb5f08b3855c9" class="b-a">
+                                            <b aria-hidden="true" class="icon icon-mail"></b><span class="icon-text">Email</span>
+                                        </label>
+
+                                        <input type="email"
+                                               name="subscribeEmail"
+                                               id="i6723f53e42d84497a99cb5f08b3855c9"
+                                               value=""
+                                               class=" w100p mb0_5r"
+                                               placeholder="Your email&#8230;"
+                                               data-subscription-module="newsletter_rightrail_standard_Playbook - POLITICO">
+
+                                        <button class="button type-link simple-signup__submit w100p mb0_5r"
+                                                type="submit"
+                                                >
+                                                Sign Up</button>
+                                    </fieldset>
+                                </form>
+                                <p class="legal-disclaimer">By signing up you agree to receive email newsletters or alerts from POLITICO. You can unsubscribe at any time.</p>
+                                </div></div>
+            </div>
+            <footer class="promo-footer">
+                    <ul>
+                        <li><a href="http://www.politico.com/playbook" target="_top">Most Recent Issue</a></li>
+                        <li>Playbook+</li>
+                        <li><a href="http://www.politico.com/tipsheets/playbook/archive" target="_top">Archives</a></li>
+                        </ul>
+                </footer>
+            </div>
+    </aside>
+</section>
+            </div>
+        </div>
+    </div>
+    <div class="super   homepage-section-b-use-this-new-version-now" >
+        <div class="super-inner">
+            <div class="content layout-full ">
+                <section class="content-groupset pos-omega">
+                    </section>
+            </div>
+            <div class="content layout-bi-unequal-fixed ">
+                <section class="content-groupset pos-alpha">
+                    <div class="content-group module-4-column-masonry">
+        <header class="content-header ">
+            <h2 class="type-brand"><strong>THE MORNING REPORT</strong></h2>
+        </header>
+    <div class="cluster-groupset layout-grid grid-4">
+
+            <section class="cluster-group pos-alpha">
+                        <ul class="story-frag-list layout-linear">
+                            <li>
+                                    <div class="headline-group">
+    <header class="headline-header">
+        <div class="thumb">
+                <a href="http://www.politico.com/story/2017/05/09/rod-blum-walks-out-of-interview-238145" target="_top"><img data-lazy-img="http://static.politico.com/dims4/default/d3dbf4b/2147483647/legacy_thumbnail/403x218%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Ffd%2F5c%2Faa5976c5457fa8b62ed69c4ef315%2Fgettyimages-462076226.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="DES MOINES, IA - JANUARY 24: U.S. Rep. Rod Blum (R-IA) speaks to guests at the Iowa Freedom Summit on January 24, 2015 in Des Moines, Iowa. The summit is hosting a group of potential 2016 Republican presidential candidates to discuss core conservative principles ahead of the January 2016 Iowa Caucuses. (Photo by Scott Olson/Getty Images)" data-size="promo_medium"></a></div>
+        <div class="title">
+                <h3>LATEST ON POLITICO</h3>
+            </div>
+        </header>
+
+    <div class="headline-content">
+        <ul class="headline-list">
+            <li><a href="http://www.politico.com/story/2017/05/09/rod-blum-walks-out-of-interview-238145" target="_top">GOP Rep. Rod Blum storms out of interview</a></li>
+            <li><a href="http://www.politico.com/story/2017/05/09/paul-ryan-senate-pass-obamacare-repeal-238148" target="_top">Ryan predicts Senate will pass Obamacare repeal in 'a month or two'</a></li>
+            <li><a href="http://www.politico.com/story/2017/05/08/trump-mcconnell-health-care-238128" target="_top">White House to let McConnell do his thing on health care</a></li>
+            <li><a href="http://www.politico.com/story/2017/05/09/senate-democrats-diversity-238126" target="_top">Senate Democrats pressed on poor diversity in hiring</a></li>
+            <li><a href="http://www.politico.com/story/2017/05/09/the-playbook-interview-condoleezza-rice-238143" target="_top">Condoleezza Rice: Trump's comment on meeting with Kim Jong Un an 'overstatement'</a></li>
+            <li><a href="http://www.politico.com/states/new-jersey/story/2017/05/09/christie-says-he-does-not-believe-trump-will-effectively-kill-drug-control-office-111908" target="_top">Christie doubts Trump will slash funding to drug control office</a></li>
+            <li><a href="http://www.politico.com/story/2017/05/09/chris-christie-michael-flynn-reaction-238146" target="_top">Christie says he didn't see 'red flags' with Michael Flynn </a></li>
+            </ul>
+    </div>
+</div>
+</li>
+                            </ul>
+                   </section>
+                <section class="cluster-group pos-alpha">
+                        <ul class="story-frag-list layout-linear">
+                            <li>
+                                    <article class="story-frag format-m">
+        <figure class="thumb ">
+                <div class="fig-graphic ">
+                    <a href="http://www.politico.com/story/2017/05/09/michael-flynn-trump-white-house-238139" target="_top"><img data-lazy-img="http://static.politico.com/dims4/default/8c58906/2147483647/legacy_thumbnail/403x218%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fde%2F0a%2Fd69a1cce4421b2753a7c48c4d02c%2F170508-michael-flynn-gty-1160.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Michael Flynn is pictured. | Getty" title="170508_michael_flynn_gty_1160.jpg" data-size="promo_medium"></a></div>
+            </figure>
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.com/story/2017/05/09/michael-flynn-trump-white-house-238139" target="_top">Flynn's White House influence is outliving his short tenure</a></h3>
+                </header>
+
+            <footer class="meta">
+                <p class="byline">
+                        By <span class="vcard"><a href="http://www.politico.com/staff/eliana-johnson" rel="author" class="url fn" target="_top">Eliana Johnson</a></span>, <span class="vcard"><a href="http://www.politico.com/staff/tara-palmeri" rel="author" class="url fn" target="_top">Tara Palmeri</a></span> and <span class="vcard"><a href="http://www.politico.com/staff/bryan-bender" rel="author" class="url fn" target="_top">Bryan Bender</a></span></p>
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            <li>
+                                    <article class="story-frag format-m">
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.com/story/2017/05/08/sally-yates-testimony-michael-flynn-238043" target="_top">Sally Yates: ‘We believed that Gen. Flynn was compromised’</a></h3>
+                </header>
+
+            <footer class="meta">
+                <p class="byline">
+                        By <span class="vcard"><a href="http://www.politico.com/staff/austin-wright" rel="author" class="url fn" target="_top">Austin Wright</a></span></p>
+                </footer>
+
+            <div class="related orient-vertical">
+                    <ul class="related-list">
+                        <li><a href="http://www.politico.com/story/2017/05/08/trump-sally-yates-hearing-238133" target="_top">Trump slams Yates hearing: &#039;Nothing but old news&#039;</a></li>
+                        </ul>
+                </div>
+            </div>
+
+    </article>
+
+</li>
+                            <li>
+                                    <article class="story-frag format-m">
+        <figure class="thumb ">
+                <div class="fig-graphic ">
+                    <a href="http://www.politico.com/story/2017/05/08/trump-obama-blame-flynn-238135" target="_top"><img data-lazy-img="http://static.politico.com/dims4/default/ce50f45/2147483647/legacy_thumbnail/403x218%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F43%2F67%2F9a87db004eca8c6ed9c1a97ea58b%2F170508-barack-obama-gty-1160.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="WASHINGTON, DC - AUGUST 01: U.S. President Barack Obama delivers remarks and takes reporters&#39; questions in the Brady Press Briefing Room at the White House August 1, 2014 in Washington, DC. Obama talked about the new jobs numbers, the failure of Congress to pass border security legislation, the ongoing Israel-Gaza conflict and the crisis in Ukraine. (Photo by Chip Somodevilla/Getty Images)" data-size="promo_medium"></a></div>
+            </figure>
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.com/story/2017/05/08/trump-obama-blame-flynn-238135" target="_top">Trump’s favorite fall guy: Barack Obama</a></h3>
+                </header>
+
+            <footer class="meta">
+                <p class="byline">
+                        By <span class="vcard"><a href="http://www.politico.com/staff/josh-dawsey" rel="author" class="url fn" target="_top">Josh Dawsey</a></span></p>
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            <li>
+                                    <article class="story-frag format-m">
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.com/story/2017/05/08/obama-warn-trump-michael-flynn-238116" target="_top">Obama warned Trump about Flynn, officials say</a></h3>
+                </header>
+
+            <footer class="meta">
+                <p class="byline">
+                        By <span class="vcard"><a href="http://www.politico.com/staff/edward-isaac-dovere" rel="author" class="url fn" target="_top">Edward-Isaac Dovere</a></span> and <span class="vcard"><a href="http://www.politico.com/staff/matthew-nussbaum" rel="author" class="url fn" target="_top">Matthew Nussbaum</a></span></p>
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            <li>
+                                    <article class="story-frag format-m">
+        <div class="summary">
+            <header>
+                <p class="category"><a href="http://www.politico.com/playbook-plus" target="_top">Playbook Plus </a></p>
+                <h3><a href="http://www.politico.com/tipsheets/playbook/2017/05/will-trump-go-to-camp-david-this-weekend-playbook-interview-condoleezza-rice-new-politicos-unauthorized-white-house-logs-paul-ryan-in-nyc-spencer-ackerman-to-the-daily-beast-bday-mark-leibovich-220196" target="_top">Playbook: Will Trump go to Camp David this weekend? </a></h3>
+                </header>
+
+            <footer class="meta">
+                </footer>
+
+            <div class="related orient-vertical">
+                    <ul class="related-list">
+                        <li><a href="https://soundcloud.com/playbook-audio-briefing/may-9-2017" target="_blank">LISTEN: Playbook audio briefing</a></li>
+                        </ul>
+                </div>
+            </div>
+
+    </article>
+
+</li>
+                            </ul>
+                    </section>
+                <section class="cluster-group pos-beta">
+                        <ul class="story-frag-list layout-linear">
+                            <li>
+                                    <div class="ad-slot an-container " id="uh29fyhyBTog1tnp3Yv336uIxOipz6yzDvFjX-kL" >
+        </div>
+
+    </li>
+                            <li>
+                                    <article class="story-frag format-m">
+        <figure class="thumb ">
+                <div class="fig-graphic ">
+                    <a href="http://www.politico.com/story/2017/05/08/donald-trump-travel-ban-richmond-appeals-court-238121" target="_top"><img data-lazy-img="http://static.politico.com/dims4/default/216f109/2147483647/legacy_thumbnail/403x218%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F1d%2F4e%2F47d3c824488ead66a244fd9b1f86%2F170508-aclu-richmond-ap-1160.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="American Civil Liberties Union attorney Omar Jadwat speaks Monday after a hearing before the 4th U.S. Circuit Court of Appeals in Richmond, Va." title="170508_aclu_richmond_ap_1160.jpg" data-size="promo_medium"></a></div>
+            </figure>
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.com/story/2017/05/08/donald-trump-travel-ban-richmond-appeals-court-238121" target="_top">Judges press Trump's lawyer on intent of travel ban reboot</a></h3>
+                </header>
+
+            <footer class="meta">
+                <p class="byline">
+                        By <span class="vcard"><a href="http://www.politico.com/staff/josh-gerstein" rel="author" class="url fn" target="_top">Josh Gerstein</a></span> and <span class="vcard"><a href="http://www.politico.com/staff/nolan-d-mccaskill" rel="author" class="url fn" target="_top">Nolan D. McCaskill</a></span></p>
+                </footer>
+
+            <div class="tease">
+                    <p>Worst-case scenarios were the order of the day.</p>
+                </div>
+            </div>
+
+    </article>
+
+</li>
+                            <li>
+                                    <article class="story-frag format-m">
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.com/story/2017/05/08/trump-judicial-nominees-democrats-238046" target="_top">Democrats take on Trump over court vacancies</a></h3>
+                </header>
+
+            <footer class="meta">
+                <p class="byline">
+                        By <span class="vcard"><a href="http://www.politico.com/staff/seung-min-kim" rel="author" class="url fn" target="_top">Seung Min Kim</a></span></p>
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            <li>
+                                    <article class="story-frag format-m">
+        <figure class="thumb ">
+                <div class="fig-graphic ">
+                    <a href="http://www.politico.com/story/2017/05/08/john-oliver-net-neutrality-238132" target="_top"><img data-lazy-img="http://static.politico.com/dims4/default/229cbb6/2147483647/legacy_thumbnail/403x218%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fa6%2F10%2F477976194d64844e596bd3c970dc%2F170508-john-oliver-getty-1160.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="John Oliver attends the Tribeca Talks Storytellers during the 2016 Tribeca Film Festival at John Zuccotti Theater at BMCC Tribeca Performing Arts Center in New York on April 22, 2016. / AFP / KENA BETANCUR (Photo credit should read KENA BETANCUR/AFP/Getty Images)" data-size="promo_medium"></a></div>
+            </figure>
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.com/story/2017/05/08/john-oliver-net-neutrality-238132" target="_top">John Oliver again fires up net neutrality debate</a></h3>
+                </header>
+
+            <footer class="meta">
+                <p class="byline">
+                        By <span class="vcard"><a href="http://www.politico.com/staff/margaret-harding-mcgill" rel="author" class="url fn" target="_top">Margaret Harding McGill</a></span></p>
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            </ul>
+                    </section>
+                <section class="cluster-group pos-gamma">
+                        <ul class="story-frag-list layout-linear">
+                            <li>
+                                    <article class="story-frag format-m">
+        <figure class="thumb ">
+                <div class="fig-graphic ">
+                    <a href="http://www.politico.com/story/2017/05/09/sophia-bush-im-screaming-on-the-internet-238129" target="_top"><img data-lazy-img="http://static.politico.com/dims4/default/de03510/2147483647/legacy_thumbnail/403x218%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F8f%2Fb6%2F3ffddbb84978a28671417a8fb909%2F20170509-sophia-bush-ap.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Actress Sophia Bush joined POLITICO&#39;s &quot;Off Message&quot; podcast to talk about her political activism." title="20170509_Sophia_Bush_AP.jpg" data-size="promo_medium"></a></div>
+            </figure>
+        <div class="summary">
+            <header>
+                <p class="category"><a href="http://www.politico.com/news/off-message" target="_blank">Off Message</a></p>
+                <h3><a href="http://www.politico.com/story/2017/05/09/sophia-bush-im-screaming-on-the-internet-238129" target="_top">Sophia Bush: 'I’m screaming on the internet'</a></h3>
+                </header>
+
+            <footer class="meta">
+                <p class="byline">
+                        By <span class="vcard"><a href="http://www.politico.com/staff/edward-isaac-dovere" rel="author" class="url fn" target="_top">Edward-Isaac Dovere</a></span></p>
+                </footer>
+
+            <div class="related orient-vertical">
+                    <ul class="related-list">
+                        <li><a href="http://www.panoply.fm/podcasts/POL9526976537" target="_blank">Listen and subscribe here</a></li>
+                        </ul>
+                </div>
+            </div>
+
+    </article>
+
+</li>
+                            <li>
+                                    <article class="story-frag format-m">
+        <figure class="thumb ">
+                <div class="fig-graphic ">
+                    <a href="http://www.politico.com/story/2017/05/09/trump-presidents-carter-bush-clinton-238125" target="_top"><img data-lazy-img="http://static.politico.com/dims4/default/432cf40/2147483647/legacy_thumbnail/403x218%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fa9%2F3f%2Fa736e04646d0a343e231126e5532%2F170508-george-w-bush-ap-17059623005115.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Former President George W. Bush is pictured. | AP Photo" title="170508-George-W-Bush-AP_17059623005115.jpg" data-size="promo_medium"></a></div>
+            </figure>
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.com/story/2017/05/09/trump-presidents-carter-bush-clinton-238125" target="_top">Former presidents walk fine line in Trump’s America</a></h3>
+                </header>
+
+            <footer class="meta">
+                <p class="byline">
+                        By <span class="vcard">Aidan Quigley</span></p>
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            <li>
+                                    <article class="story-frag format-m">
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.com/story/2017/05/08/paris-climate-deal-meeting-238138" target="_top">White House advisers postpone Paris climate deal meeting </a></h3>
+                </header>
+
+            <footer class="meta">
+                <p class="byline">
+                        By <span class="vcard"><a href="http://www.politico.com/staff/andrew-restuccia" rel="author" class="url fn" target="_top">Andrew Restuccia</a></span></p>
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            <li>
+                                    <article class="story-frag format-m">
+        <figure class="thumb ">
+                <div class="fig-graphic ">
+                    <a href="http://www.politico.com/agenda/story/2017/05/09/north-korea-nuclear-program-sanctions-iran-000432" target="_top"><img data-lazy-img="http://static.politico.com/dims4/default/204c8cc/2147483647/legacy_thumbnail/403x218%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F6f%2F2a%2Fa2eb8f764c69bd78c638ef89e7b8%2Fgettyimages-673182794.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="GettyImages-673182794.jpg" title="GettyImages-673182794.jpg" data-size="promo_medium"></a></div>
+            </figure>
+        <div class="summary">
+            <header>
+                <p class="category"><a href="http://www.politico.com/agenda/" target="_blank">The Agenda</a></p>
+                <h3><a href="http://www.politico.com/agenda/story/2017/05/09/north-korea-nuclear-program-sanctions-iran-000432" target="_top">Yes, we do have a way to deal with North Korea</a></h3>
+                </header>
+
+            <footer class="meta">
+                <p class="byline">
+                        By <span class="vcard">Peter Harrell</span></p>
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            </ul>
+                    </section>
+                </div>
+
+    </div>
+    </section>
+                <section class="content-groupset pos-beta is-masoned">
+                    <aside class="content-group global-popular">
+    <div class="widget caste-exclusive module-most-popular-tabbed">
+
+        <div class="dari-frame dari-frame-loaded" name="module-most-popular-tabbed-0000015a-c859-d23c-a7ff-db7f3df80000" data-insertion-mode="replace" data-extra-form-data="_frame.path=68d90fb56897fe0aabe19672a143cc22&amp;_frame.name=module-most-popular-tabbed-0000015a-c859-d23c-a7ff-db7f3df80000"><div class="widget-nav">
+                <ul class="widget-nav-list">
+
+                    <li class="current">
+                            <a href="?tab=most-read">
+                                <b aria-hidden="true" class="icon icon-flame"></b>
+                                most read</a>
+                        </li>
+                    </ul>
+            </div>
+
+            <div class="widget-content most-popular-tabbed-core">
+
+                        <div class="widget-prefix">
+                               <a href="http://www.politico.com/story/2017/05/08/sally-yates-testimony-michael-flynn-key-moments-238123" target="_top"><img data-lazy-img="http://static.politico.com/dims4/default/7508434/2147483647/legacy_thumbnail/266x150%5E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F15%2F9d%2Fef39843a4e1fb3f01281468f7a8d%2Flede-170506-yates-clapper-0138-js-1160.jpg" width="266" height="150" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-size="promo_small_rectangle"></a></div>
+                       <ol class="story-frag-list layout-linear ">
+
+                            <li>
+                                    <article class="story-frag format-xxs">
+                                                <div class="summary">
+                                                    <header>
+                                                        <h3><a href="http://www.politico.com/story/2017/05/08/sally-yates-testimony-michael-flynn-key-moments-238123" target="_top">Key moments from Sally Yates&#39; Flynn testimony</a></h3>
+                                                    </header>
+                                                </div>
+                                            </article>
+                                        </li>
+                            <li>
+                                    <article class="story-frag format-xxs">
+                                                <div class="summary">
+                                                    <header>
+                                                        <h3><a href="http://www.politico.com/story/2017/05/08/tiffany-trump-georgetown-law-school-238112" target="_top">Tiffany Trump to attend Georgetown Law School in the fall</a></h3>
+                                                    </header>
+                                                </div>
+                                            </article>
+                                        </li>
+                            <li>
+                                    <article class="story-frag format-xxs">
+                                                <div class="summary">
+                                                    <header>
+                                                        <h3><a href="http://www.politico.com/story/2017/05/08/trump-judicial-nominees-democrats-238046" target="_top">Democrats take on Trump over court vacancies</a></h3>
+                                                    </header>
+                                                </div>
+                                            </article>
+                                        </li>
+                            <li>
+                                    <article class="story-frag format-xxs">
+                                                <div class="summary">
+                                                    <header>
+                                                        <h3><a href="http://www.politico.com/story/2017/05/08/obama-warn-trump-michael-flynn-238116" target="_top">Obama warned Trump about Flynn, officials say</a></h3>
+                                                    </header>
+                                                </div>
+                                            </article>
+                                        </li>
+                            <li>
+                                    <article class="story-frag format-xxs">
+                                                <div class="summary">
+                                                    <header>
+                                                        <h3><a href="http://www.politico.com/story/2017/05/08/evan-jenkins-west-virginia-senate-race-238122" target="_top">Evan Jenkins jumps into West Virginia Senate race</a></h3>
+                                                    </header>
+                                                </div>
+                                            </article>
+                                        </li>
+                            </ol>
+                    </div>
+
+                    </div></div>
+</aside>
+<aside class="content-group politico-tipsheets-carousel">
+    <div class="widget caste-exclusive">
+        <header class="widget-header">
+            <h2><a href="http://www.politico.com/tipsheets" target="_top">Politico Tipsheets</a></h2>
+        </header>
+        <div class="widget-content">
+            <div class="generic-carousel">
+                <div class="generic-carousel-group" data-starting-slide="0">
+                    <div class="generic-carousel-item">
+                            <article class="niche-frag">
+                                <a href="http://www.politico.com/tipsheets/the-global-politico" target="_top"><figure class="thumb">
+                                        <div class="fig-graphic">
+                                            <img data-lazy-img="http://static.politico.com/dims4/default/002f1e5/2147483647/legacy_thumbnail/60x60%3E/legacy_thumbnail/60x60%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F7f%2Fa8%2F5f7a8a4c445c843d15534141dae6%2Fglobalpoliticotipsheetbw.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="GlobalPoliticoTipsheetBW.jpg" data-size="dynamic_carousel_thumb"></div>
+                                    </figure>
+
+                                    <div class="summary">
+                                        <header>
+                                            <h4>The Global Politico</h4>
+                                            </header>
+
+                                        <div class="tease">
+                                                <p>Making sense of a disrupted world </p>
+                                            </div>
+                                        </div>
+                                </a></article>
+                        </div>
+                    <div class="generic-carousel-item">
+                            <article class="niche-frag">
+                                <a href="http://www.politico.com/tipsheets/prescription-pulse" target="_top"><figure class="thumb">
+                                        <div class="fig-graphic">
+                                            <img data-lazy-img="http://static.politico.com/dims4/default/9de6a9c/2147483647/legacy_thumbnail/60x60%3E/legacy_thumbnail/60x60%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fd6%2F6f%2F800cc4be4a62ae2f46bda4c29902%2Fprescription-pulse-logo.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Prescription Pulse logo" data-size="dynamic_carousel_thumb"></div>
+                                    </figure>
+
+                                    <div class="summary">
+                                        <header>
+                                            <h4>Prescription Pulse</h4>
+                                            </header>
+
+                                        <div class="tease">
+                                                <p>A weekly briefing on pharmaceutical policy news </p>
+                                            </div>
+                                        </div>
+                                </a></article>
+                        </div>
+                    <div class="generic-carousel-item">
+                            <article class="niche-frag">
+                                <a href="http://www.politico.com/tipsheets/morning-transportation" target="_top"><figure class="thumb">
+                                        <div class="fig-graphic">
+                                            <img data-lazy-img="http://static.politico.com/dims4/default/ad4236f/2147483647/legacy_thumbnail/60x60%3E/legacy_thumbnail/60x60%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fb3%2F55%2F7b890a3b4086bcd213994563742f%2Fmorning-transportation-logo.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Morning Transportation logo" data-size="dynamic_carousel_thumb"></div>
+                                    </figure>
+
+                                    <div class="summary">
+                                        <header>
+                                            <h4>Morning Transportation</h4>
+                                            </header>
+
+                                        <div class="tease">
+                                                <p>A daily speed read on transportation and infrastructure </p>
+                                            </div>
+                                        </div>
+                                </a></article>
+                        </div>
+                    <div class="generic-carousel-item">
+                            <article class="niche-frag">
+                                <a href="http://www.politico.com/tipsheets/morning-money" target="_top"><figure class="thumb">
+                                        <div class="fig-graphic">
+                                            <img data-lazy-img="http://static.politico.com/dims4/default/6d6398a/2147483647/legacy_thumbnail/60x60%3E/legacy_thumbnail/60x60%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fe5%2F3b%2F762f0af441e8829fddc93c84245e%2Fmorning-money-logo.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Morning Money logo" data-size="dynamic_carousel_thumb"></div>
+                                    </figure>
+
+                                    <div class="summary">
+                                        <header>
+                                            <h4>Morning Money</h4>
+                                            </header>
+
+                                        <div class="tease">
+                                                <p>Political intelligence on the intersection of Washington and Wall Street </p>
+                                            </div>
+                                        </div>
+                                </a></article>
+                        </div>
+                    <div class="generic-carousel-item">
+                            <article class="niche-frag">
+                                <a href="http://www.politico.com/playbook" target="_top"><figure class="thumb">
+                                        <div class="fig-graphic">
+                                            <img data-lazy-img="http://static.politico.com/dims4/default/c249959/2147483647/legacy_thumbnail/60x60%3E/legacy_thumbnail/60x60%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fa9%2Fa1%2Fbcd3766e496da6fb8c30b9099912%2Fdownload.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="download.png" data-size="dynamic_carousel_thumb"></div>
+                                    </figure>
+
+                                    <div class="summary">
+                                        <header>
+                                            <h4>Playbook</h4>
+                                            </header>
+
+                                        <div class="tease">
+                                                <p>POLITICO's must-read briefing on what's driving the day in Washington </p>
+                                            </div>
+                                        </div>
+                                </a></article>
+                        </div>
+                    <div class="generic-carousel-item">
+                            <article class="niche-frag">
+                                <a href="http://www.politico.com/tipsheets/playbook-power-briefing" target="_top"><figure class="thumb">
+                                        <div class="fig-graphic">
+                                            <img data-lazy-img="http://static.politico.com/dims4/default/553df67/2147483647/legacy_thumbnail/60x60%3E/legacy_thumbnail/60x60%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F58%2F64%2Fea520fa041429299e31dc096179b%2Fpb-briefing-1200.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="PB-Briefing-1200.jpg" data-size="dynamic_carousel_thumb"></div>
+                                    </figure>
+
+                                    <div class="summary">
+                                        <header>
+                                            <h4>Playbook Power Briefing </h4>
+                                            </header>
+
+                                        <div class="tease">
+                                                <p>POLITICO's must-read briefing on what's driving the afternoon in Washington  </p>
+                                            </div>
+                                        </div>
+                                </a></article>
+                        </div>
+                    <div class="generic-carousel-item">
+                            <article class="niche-frag">
+                                <a href="http://www.politico.com/tipsheets/2017-transition" target="_top"><figure class="thumb">
+                                        <div class="fig-graphic">
+                                            <img data-lazy-img="http://static.politico.com/dims4/default/aac7755/2147483647/legacy_thumbnail/60x60%3E/legacy_thumbnail/60x60%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fca%2F42%2Fd45bf5cf48eb9c25b4fabfacd65c%2Ftrump-transition.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Trump-Transition.png" data-size="dynamic_carousel_thumb"></div>
+                                    </figure>
+
+                                    <div class="summary">
+                                        <header>
+                                            <h4>POLITICO’s Weekly Transition Blast </h4>
+                                            </header>
+
+                                        <div class="tease">
+                                                <p>A weekly briefing on the 2017 transition</p>
+                                            </div>
+                                        </div>
+                                </a></article>
+                        </div>
+                    <div class="generic-carousel-item">
+                            <article class="niche-frag">
+                                <a href="http://www.politico.com/tipsheets/new-york-playbook" target="_top"><figure class="thumb">
+                                        <div class="fig-graphic">
+                                            <img data-lazy-img="http://static.politico.com/dims4/default/06dded8/2147483647/legacy_thumbnail/60x60%3E/legacy_thumbnail/60x60%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F17%2Fa3%2Ffc9cf1ed422e930142f9576bd244%2Fnew-york-playbook-logo.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="New York Playbook logo" data-size="dynamic_carousel_thumb"></div>
+                                    </figure>
+
+                                    <div class="summary">
+                                        <header>
+                                            <h4>New York Playbook</h4>
+                                            </header>
+
+                                        <div class="tease">
+                                                <p>Azi Paybarah and Jimmy Vielkind's must-read briefing informing the daily conversation among knowledgeable New Yorkers</p>
+                                            </div>
+                                        </div>
+                                </a></article>
+                        </div>
+                    <div class="generic-carousel-item">
+                            <article class="niche-frag">
+                                <a href="http://www.politico.com/tipsheets/new-jersey-playbook" target="_top"><figure class="thumb">
+                                        <div class="fig-graphic">
+                                            <img data-lazy-img="http://static.politico.com/dims4/default/a402d3e/2147483647/legacy_thumbnail/60x60%3E/legacy_thumbnail/60x60%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F02%2Fc8%2F869db4c74ccab72f8feff5156eaf%2Fnew-jersey-playbook-logo.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="New Jersey Playbook logo" data-size="dynamic_carousel_thumb"></div>
+                                    </figure>
+
+                                    <div class="summary">
+                                        <header>
+                                            <h4>New Jersey Playbook</h4>
+                                            </header>
+
+                                        <div class="tease">
+                                                <p>Matt Friedman's must-read briefing on the Garden State's important news of the day</p>
+                                            </div>
+                                        </div>
+                                </a></article>
+                        </div>
+                    <div class="generic-carousel-item">
+                            <article class="niche-frag">
+                                <a href="http://www.politico.com/tipsheets/california-playbook" target="_top"><figure class="thumb">
+                                        <div class="fig-graphic">
+                                            <img data-lazy-img="http://static.politico.com/dims4/default/ded9788/2147483647/legacy_thumbnail/60x60%3E/legacy_thumbnail/60x60%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F4b%2F07%2F25c564a240969280f306c5d61754%2Fnew-california-playbook-small.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="New California Playbook small" data-size="dynamic_carousel_thumb"></div>
+                                    </figure>
+
+                                    <div class="summary">
+                                        <header>
+                                            <h4>California Playbook</h4>
+                                            </header>
+
+                                        <div class="tease">
+                                                <p>Carla Marinucci and David Siders' must-read briefing on politics and government in the Golden State</p>
+                                            </div>
+                                        </div>
+                                </a></article>
+                        </div>
+                    <div class="generic-carousel-item">
+                            <article class="niche-frag">
+                                <a href="http://www.politico.com/tipsheets/massachusetts-playbook" target="_top"><figure class="thumb">
+                                        <div class="fig-graphic">
+                                            <img data-lazy-img="http://static.politico.com/dims4/default/d1d0a06/2147483647/legacy_thumbnail/60x60%3E/legacy_thumbnail/60x60%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F1e%2Fbd%2Ff299b286468788449e5ab8b124bc%2Ftl-massachusettsplaybook.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="tl-massachusettsplaybook.png" data-size="dynamic_carousel_thumb"></div>
+                                    </figure>
+
+                                    <div class="summary">
+                                        <header>
+                                            <h4>Massachusetts Playbook</h4>
+                                            </header>
+
+                                        <div class="tease">
+                                                <p>Lauren Dezenski's must-read rundown of what's up on Beacon Hill and beyond.</p>
+                                            </div>
+                                        </div>
+                                </a></article>
+                        </div>
+                    <div class="generic-carousel-item">
+                            <article class="niche-frag">
+                                <a href="http://www.politico.com/tipsheets/illinois-playbook" target="_top"><figure class="thumb">
+                                        <div class="fig-graphic">
+                                            <img data-lazy-img="http://static.politico.com/dims4/default/6085c37/2147483647/legacy_thumbnail/60x60%3E/legacy_thumbnail/60x60%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F40%2Fb5%2F0daf64a94ddca781f1f9c26508d5%2Fil-playbook-caricature.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="IL Playbook Caricature" data-size="dynamic_carousel_thumb"></div>
+                                    </figure>
+
+                                    <div class="summary">
+                                        <header>
+                                            <h4>Illinois Playbook </h4>
+                                            </header>
+
+                                        <div class="tease">
+                                                <p>Natasha Korecki’s must-read rundown of political news in the Land of Lincoln</p>
+                                            </div>
+                                        </div>
+                                </a></article>
+                        </div>
+                    <div class="generic-carousel-item">
+                            <article class="niche-frag">
+                                <a href="http://www.politico.com/tipsheets/florida-playbook" target="_top"><figure class="thumb">
+                                        <div class="fig-graphic">
+                                            <img data-lazy-img="http://static.politico.com/dims4/default/9388997/2147483647/legacy_thumbnail/60x60%3E/legacy_thumbnail/60x60%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F6b%2F8c%2Fabfcc3aa435f86cf25b5f00c7234%2Fflorida-playbook-logo.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Florida Playbook logo" data-size="dynamic_carousel_thumb"></div>
+                                    </figure>
+
+                                    <div class="summary">
+                                        <header>
+                                            <h4>Florida Playbook</h4>
+                                            </header>
+
+                                        <div class="tease">
+                                                <p>Marc Caputo's must-read briefing on what's hot, crazy or shady about politics in the Sunshine State</p>
+                                            </div>
+                                        </div>
+                                </a></article>
+                        </div>
+                    <div class="generic-carousel-item">
+                            <article class="niche-frag">
+                                <a href="http://www.politico.com/tipsheets/morning-ehealth" target="_top"><figure class="thumb">
+                                        <div class="fig-graphic">
+                                            <img data-lazy-img="http://static.politico.com/dims4/default/eed9bc7/2147483647/legacy_thumbnail/60x60%3E/legacy_thumbnail/60x60%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F4c%2Fd6%2Fa853a4c24747a80fc94527f00457%2Fmorning-ehealth-logo.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Morning eHealth logo" data-size="dynamic_carousel_thumb"></div>
+                                    </figure>
+
+                                    <div class="summary">
+                                        <header>
+                                            <h4>Morning eHealth</h4>
+                                            </header>
+
+                                        <div class="tease">
+                                                <p>A daily report on the intersection of health care and technology </p>
+                                            </div>
+                                        </div>
+                                </a></article>
+                        </div>
+                    <div class="generic-carousel-item">
+                            <article class="niche-frag">
+                                <a href="http://www.politico.com/media/tipsheets/morning-media" target="_top"><figure class="thumb">
+                                        <div class="fig-graphic">
+                                            <img data-lazy-img="http://static.politico.com/dims4/default/be97ba6/2147483647/legacy_thumbnail/60x60%3E/legacy_thumbnail/60x60%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F0d%2F79%2Fc442d060412db85f1e89e903f47b%2Fmorning-media-copy.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Morning Media copy.jpg" data-size="dynamic_carousel_thumb"></div>
+                                    </figure>
+
+                                    <div class="summary">
+                                        <header>
+                                            <h4>Morning Media</h4>
+                                            </header>
+
+                                        <div class="tease">
+                                                <p>Your guide to the media circus</p>
+                                            </div>
+                                        </div>
+                                </a></article>
+                        </div>
+                    <div class="generic-carousel-item">
+                            <article class="niche-frag">
+                                <a href="http://www.politico.com/tipsheets/huddle" target="_top"><figure class="thumb">
+                                        <div class="fig-graphic">
+                                            <img data-lazy-img="http://static.politico.com/dims4/default/3616462/2147483647/legacy_thumbnail/60x60%3E/legacy_thumbnail/60x60%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F6c%2Ff4%2F76bfa6744d609a1de3d906d0c44f%2Fhuddle-logo.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Huddle logo" data-size="dynamic_carousel_thumb"></div>
+                                    </figure>
+
+                                    <div class="summary">
+                                        <header>
+                                            <h4>Huddle</h4>
+                                            </header>
+
+                                        <div class="tease">
+                                                <p>A play-by-play preview of the day's congressional news</p>
+                                            </div>
+                                        </div>
+                                </a></article>
+                        </div>
+                    <div class="generic-carousel-item">
+                            <article class="niche-frag">
+                                <a href="http://www.politico.com/tipsheets/morning-defense" target="_top"><figure class="thumb">
+                                        <div class="fig-graphic">
+                                            <img data-lazy-img="http://static.politico.com/dims4/default/b65640f/2147483647/legacy_thumbnail/60x60%3E/legacy_thumbnail/60x60%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F4b%2Fcc%2F0a66407c42fc8746994b8858c1e7%2Fmorning-defense-logo.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Morning Defense logo" data-size="dynamic_carousel_thumb"></div>
+                                    </figure>
+
+                                    <div class="summary">
+                                        <header>
+                                            <h4>Morning Defense</h4>
+                                            </header>
+
+                                        <div class="tease">
+                                                <p>A daily briefing from inside Washington’s national security apparatus </p>
+                                            </div>
+                                        </div>
+                                </a></article>
+                        </div>
+                    <div class="generic-carousel-item">
+                            <article class="niche-frag">
+                                <a href="http://www.politico.com/tipsheets/morning-shift" target="_top"><figure class="thumb">
+                                        <div class="fig-graphic">
+                                            <img data-lazy-img="http://static.politico.com/dims4/default/49bb83b/2147483647/legacy_thumbnail/60x60%3E/legacy_thumbnail/60x60%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F5e%2F94%2F4654d570486eb0a2f2d744ec132f%2Fmorning-shift-logo.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Morning Shift logo" data-size="dynamic_carousel_thumb"></div>
+                                    </figure>
+
+                                    <div class="summary">
+                                        <header>
+                                            <h4>Morning Shift</h4>
+                                            </header>
+
+                                        <div class="tease">
+                                                <p>Your daily speed read on employment and immigration policy </p>
+                                            </div>
+                                        </div>
+                                </a></article>
+                        </div>
+                    <div class="generic-carousel-item">
+                            <article class="niche-frag">
+                                <a href="http://www.politico.com/tipsheets/politico-influence" target="_top"><figure class="thumb">
+                                        <div class="fig-graphic">
+                                            <img data-lazy-img="http://static.politico.com/dims4/default/15aec72/2147483647/legacy_thumbnail/60x60%3E/legacy_thumbnail/60x60%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F6b%2F8a%2F8c87445a4221a92916b5e7602948%2Fpolitico-influence-logo.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="POLITICO Influence logo" data-size="dynamic_carousel_thumb"></div>
+                                    </figure>
+
+                                    <div class="summary">
+                                        <header>
+                                            <h4>POLITICO Influence</h4>
+                                            </header>
+
+                                        <div class="tease">
+                                                <p>Intelligence and analysis on lobbying</p>
+                                            </div>
+                                        </div>
+                                </a></article>
+                        </div>
+                    <div class="generic-carousel-item">
+                            <article class="niche-frag">
+                                <a href="http://www.politico.com/tipsheets/morning-agriculture" target="_top"><figure class="thumb">
+                                        <div class="fig-graphic">
+                                            <img data-lazy-img="http://static.politico.com/dims4/default/e83b2d4/2147483647/legacy_thumbnail/60x60%3E/legacy_thumbnail/60x60%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Ff3%2F73%2F4de0ad18452aa00036c5d4972081%2Fmorning-agriculture-logo.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Morning Agriculture logo" data-size="dynamic_carousel_thumb"></div>
+                                    </figure>
+
+                                    <div class="summary">
+                                        <header>
+                                            <h4>Morning Agriculture</h4>
+                                            </header>
+
+                                        <div class="tease">
+                                                <p>A daily briefing on agriculture and food policy</p>
+                                            </div>
+                                        </div>
+                                </a></article>
+                        </div>
+                    <div class="generic-carousel-item">
+                            <article class="niche-frag">
+                                <a href="http://www.politico.com/tipsheets/morning-cybersecurity" target="_top"><figure class="thumb">
+                                        <div class="fig-graphic">
+                                            <img data-lazy-img="http://static.politico.com/dims4/default/d731dbe/2147483647/legacy_thumbnail/60x60%3E/legacy_thumbnail/60x60%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F54%2F3b%2Fe8c244524d6cbcdb3d0330a02c2c%2Fmorning-cybersecurity-logo.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Morning Cybersecurity logo" data-size="dynamic_carousel_thumb"></div>
+                                    </figure>
+
+                                    <div class="summary">
+                                        <header>
+                                            <h4>Morning Cybersecurity</h4>
+                                            </header>
+
+                                        <div class="tease">
+                                                <p>A daily briefing on politics and cybersecurity </p>
+                                            </div>
+                                        </div>
+                                </a></article>
+                        </div>
+                    <div class="generic-carousel-item">
+                            <article class="niche-frag">
+                                <a href="http://www.politico.com/tipsheets/morning-education" target="_top"><figure class="thumb">
+                                        <div class="fig-graphic">
+                                            <img data-lazy-img="http://static.politico.com/dims4/default/68f7a15/2147483647/legacy_thumbnail/60x60%3E/legacy_thumbnail/60x60%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F09%2Ff9%2F22dc0b4d472389082c2a5c818362%2Fmorning-education-logo.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Morning Education logo" data-size="dynamic_carousel_thumb"></div>
+                                    </figure>
+
+                                    <div class="summary">
+                                        <header>
+                                            <h4>Morning Education</h4>
+                                            </header>
+
+                                        <div class="tease">
+                                                <p>A daily overview of education policy news</p>
+                                            </div>
+                                        </div>
+                                </a></article>
+                        </div>
+                    <div class="generic-carousel-item">
+                            <article class="niche-frag">
+                                <a href="http://www.politico.com/tipsheets/morning-energy" target="_top"><figure class="thumb">
+                                        <div class="fig-graphic">
+                                            <img data-lazy-img="http://static.politico.com/dims4/default/464e046/2147483647/legacy_thumbnail/60x60%3E/legacy_thumbnail/60x60%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F7d%2F95%2F8a67b15740f3acb9908680a465f9%2Fmorning-energy-logo.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Morning Energy logo" data-size="dynamic_carousel_thumb"></div>
+                                    </figure>
+
+                                    <div class="summary">
+                                        <header>
+                                            <h4>Morning Energy</h4>
+                                            </header>
+
+                                        <div class="tease">
+                                                <p>The one-stop source for energy and environment news </p>
+                                            </div>
+                                        </div>
+                                </a></article>
+                        </div>
+                    <div class="generic-carousel-item">
+                            <article class="niche-frag">
+                                <a href="http://www.politico.com/tipsheets/morning-score" target="_top"><figure class="thumb">
+                                        <div class="fig-graphic">
+                                            <img data-lazy-img="http://static.politico.com/dims4/default/f0d3f0c/2147483647/legacy_thumbnail/60x60%3E/legacy_thumbnail/60x60%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F9b%2Ff1%2F266315bc43ddab28a62557905add%2Fmorning-score-logo.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Morning Score logo" data-size="dynamic_carousel_thumb"></div>
+                                    </figure>
+
+                                    <div class="summary">
+                                        <header>
+                                            <h4>Morning Score</h4>
+                                            </header>
+
+                                        <div class="tease">
+                                                <p>Your guide to the permanent campaign </p>
+                                            </div>
+                                        </div>
+                                </a></article>
+                        </div>
+                    <div class="generic-carousel-item">
+                            <article class="niche-frag">
+                                <a href="http://www.politico.com/tipsheets/morning-tax" target="_top"><figure class="thumb">
+                                        <div class="fig-graphic">
+                                            <img data-lazy-img="http://static.politico.com/dims4/default/c7551a8/2147483647/legacy_thumbnail/60x60%3E/legacy_thumbnail/60x60%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F5a%2Fbb%2Fcdc2d5884bb6b6bbc890b28a577b%2Fmorning-tax-logo.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Morning Tax logo" data-size="dynamic_carousel_thumb"></div>
+                                    </figure>
+
+                                    <div class="summary">
+                                        <header>
+                                            <h4>Morning Tax</h4>
+                                            </header>
+
+                                        <div class="tease">
+                                                <p>An early filing of the day's tax news</p>
+                                            </div>
+                                        </div>
+                                </a></article>
+                        </div>
+                    </div>
+            </div>
+        </div>
+
+        <footer class="widget-footer">
+                <ul>
+                    <li><a href="http://www.politico.com/tipsheets" target="_top">See all of today's POLITICO Tipsheets >></a></li>
+                </ul>
+            </footer>
+        </div>
+</aside>
+</section>
+            </div>
+        </div>
+    </div>
+    <div class="super   newsletter-sign-up-do-not-delete" >
+        <div class="super-inner">
+            <div class="content layout-full ">
+                <section class="content-groupset pos-omega">
+                    <aside class="content-group newsletter-sign-up" >
+        <section class="speedbump layout-bi">
+        <div class="speedbump-item pos-alpha">
+            <div class="spotlight spotlight--flex">
+                <img data-lazy-img="http://static.politico.com/49/7c/6822d77e42bc99d32f1807279102/breakingnews-small-1.jpg" width="70" height="70" class="spotlight__image" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="BreakingNews_small (1).jpg"><div class="summary link-alt fx1">
+                    <h2 >
+                                    Breaking News Alerts</h2>
+                            <p >Get the latest news when it happens delivered to your inbox. </p>
+                    </div>
+            </div>
+        </div>
+        <div class="speedbump-item pos-beta">
+            <div class="js-tealium-newsletter" data-subscription-module="breakingNews_full_standard_breakingNews">
+                <div class="dari-frame dari-frame-loaded" name="newsletter-sign-up-full-0000014d-43aa-d623-a5ef-efba8ce10000" data-insertion-mode="replace" data-extra-form-data="_frame.path=5c388a2e37218b65f1db610df3d5c42a&amp;_frame.name=newsletter-sign-up-full-0000014d-43aa-d623-a5ef-efba8ce10000"><form target="newsletter-sign-up-full-0000014d-43aa-d623-a5ef-efba8ce10000" class="simple-signup simple-signup--stack" method="post" action="/?">
+                                <input type="hidden" name="subscribeId" value="0000014d-43aa-d623-a5ef-efba8ce10000" />
+                                <input type="hidden" name="processorId" value="0000015a-9521-d3c9-ab5a-b521ba720000" />
+                                <input type="hidden" name="validateEmail" value="true" />
+                                <input type="hidden" name="enhancedSignUp" value="true" />
+                                <input type="hidden" name="bot-field" value="" class="dn"/>
+
+                                <fieldset>
+                                    <label for="ia24775445e224fad98ea0a123c86a880" class="simple-signup__label">
+                                        <b aria-hidden="true" class="icon icon-mail"></b>
+                                        <span class="icon-text">Email</span>
+                                    </label>
+
+                                    <input type="email"
+                                           name="subscribeEmail"
+                                           id="ia24775445e224fad98ea0a123c86a880"
+                                           value=""
+                                           class="simple-signup__input "
+                                           placeholder="Your email&#8230;">
+
+                                    <button class="button type-link simple-signup__submit"
+                                            type="submit"
+                                            style="background: #b70000;" >
+                                            Sign Up</button>
+                                </fieldset>
+                            </form>
+                            <p class="legal-disclaimer">By signing up you agree to receive email newsletters or alerts from POLITICO. You can unsubscribe at any time.</p>
+                            </div></div>
+        </div>
+    </section>
+    </aside>
+</section>
+            </div>
+        </div>
+    </div>
+    <div class="super   homepage-bottom-section-use-this-version" >
+        <div class="super-inner">
+            <div class="content layout-full ">
+                <section class="content-groupset pos-omega">
+                    </section>
+            </div>
+            <div class="content layout-bi-unequal-fixed ">
+                <section class="content-groupset pos-alpha">
+                    <div class="content-group politico-magazine-carousel">
+    <div class="feature-carousel">
+        <header class="feature-carousel-header">
+            <h2>
+                            <a href="http://www.politico.com/magazine/" target="_top"><b aria-hidden="true" class="icon icon-politico"></b> 
+                                <b aria-hidden="true" class="icon icon-magazine-small"></b>
+                                <span class="icon-text">Politico Magazine</span>
+                            </a></h2>
+                    </header>
+        <div class="feature-carousel-group" data-visible-max="1">
+            <div class="feature-carousel-item">
+                    <article class="feature-frag ">
+                        <figure class="thumb">
+                            <div class="fig-graphic">
+                                <a href="http://www.politico.com/magazine/story/2017/05/08/why-trump-white-house-visitors-logs-should-public-215116" style="background-image:url(&#39;http://static.politico.com/dims4/default/a953864/2147483647/legacy_thumbnail/770x418%5E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F03%2Fcc%2F42ba29744fb18e10188557c851d1%2F170508-white-house-trump-ceos-gty-1160.jpg&#39;);" target="_top"></a></div>
+                        </figure>
+
+                        <div class="summary">
+                            <header>
+                                <p class="category">
+                                        <a href="http://www.politico.com/magazine/tag/political-science" target="_top">Political Science</a></p>
+                                <h3>
+                                        <a href="http://www.politico.com/magazine/story/2017/05/08/why-trump-white-house-visitors-logs-should-public-215116" target="_top">When CEOs Visit the White House, Their Companies Profit</a></h3>
+                                <p class="subhead">We studied Obama’s visitor logs. They reveal how corporate bottom lines benefit from a trip to 1600 Pennsylvania Avenue.</p>
+                                </header>
+
+                            <footer class="meta">
+                                <p class="byline">
+                                        By <span class="vcard">Jeffrey R. Brown</span> and <span class="vcard">Jiekun Huang</span></p>
+                                </footer>
+                            </div>
+                    </article>
+                </div>
+            <div class="feature-carousel-item">
+                    <article class="feature-frag ">
+                        <figure class="thumb">
+                            <div class="fig-graphic">
+                                <a href="http://www.politico.com/magazine/story/2017/05/07/shut-up-tomi-lahren-profile-215108" style="background-image:url(&#39;http://static.politico.com/dims4/default/7e2d55c/2147483647/legacy_thumbnail/770x418%5E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fe0%2Fc2%2Ff25ae177412bae98c9eb0c2ccc4d%2Ftomi-lahren-guinto.jpg&#39;);" target="_top"></a></div>
+                        </figure>
+
+                        <div class="summary">
+                            <header>
+                                <p class="category">
+                                        <a href="http://www.politico.com/magazine/tag/the-politico-mag-profile" target="_top">The POLITICO Mag Profile</a></p>
+                                <h3>
+                                        <a href="http://www.politico.com/magazine/story/2017/05/07/shut-up-tomi-lahren-profile-215108" target="_top">Tomi Lahren Will Not Shut Up</a></h3>
+                                <p class="subhead">Glenn Beck cut loose the right’s hottest new media star. But she’s not going away quietly.</p>
+                                </header>
+
+                            <footer class="meta">
+                                <p class="byline">
+                                        By <span class="vcard">Joseph Guinto</span></p>
+                                </footer>
+                            </div>
+                    </article>
+                </div>
+            <div class="feature-carousel-item">
+                    <article class="feature-frag ">
+                        <figure class="thumb">
+                            <div class="fig-graphic">
+                                <a href="http://www.politico.com/magazine/story/2017/05/06/trump-wants-a-new-afghan-surge-thats-a-terrible-idea-215107" style="background-image:url(&#39;http://static.politico.com/dims4/default/a0344ed/2147483647/legacy_thumbnail/770x418%5E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F1f%2Fac%2Fdd1d012846988be46773d2758f45%2F170505-afghanistan-ap-1160.jpg&#39;);" target="_top"></a></div>
+                        </figure>
+
+                        <div class="summary">
+                            <header>
+                                <p class="category">
+                                        <a href="http://www.politico.com/magazine/tag/war-room" target="_top">War Room</a></p>
+                                <h3>
+                                        <a href="http://www.politico.com/magazine/story/2017/05/06/trump-wants-a-new-afghan-surge-thats-a-terrible-idea-215107" target="_top">Trump Wants a New Afghan Surge. That’s a Terrible Idea.</a></h3>
+                                <p class="subhead">Someone needs to tell the president: The war in Afghanistan cannot be won.</p>
+                                </header>
+
+                            <footer class="meta">
+                                <p class="byline">
+                                        By <span class="vcard">Douglas Wissing</span></p>
+                                </footer>
+                            </div>
+                    </article>
+                </div>
+            <div class="feature-carousel-item">
+                    <article class="feature-frag ">
+                        <figure class="thumb">
+                            <div class="fig-graphic">
+                                <a href="http://www.politico.com/magazine/story/2017/05/05/congressman-will-hurd-texas-republican-profile-215102" style="background-image:url(&#39;http://static.politico.com/dims4/default/4db194f/2147483647/legacy_thumbnail/770x418%5E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F68%2Fe1%2F3935b33b4ef99f1ec732ba868bd5%2F0505-tfc-lede.jpeg&#39;);" target="_top"></a></div>
+                        </figure>
+
+                        <div class="summary">
+                            <header>
+                                <p class="category">
+                                        <a href="http://www.politico.com/magazine/tag/the-friday-cover" target="_top">The Friday Cover</a></p>
+                                <h3>
+                                        <a href="http://www.politico.com/magazine/story/2017/05/05/congressman-will-hurd-texas-republican-profile-215102" target="_top">Will Hurd Is the Future of the GOP*</a></h3>
+                                <p class="subhead">*If he can hold on to the toughest seat in Texas.</p>
+                                </header>
+
+                            <footer class="meta">
+                                <p class="byline">
+                                        By <span class="vcard"><a href="http://www.politico.com/staff/tim-alberta" rel="author" class="url fn" target="_top">Tim Alberta</a></span></p>
+                                </footer>
+                            </div>
+                    </article>
+                </div>
+            <div class="feature-carousel-item">
+                    <article class="feature-frag ">
+                        <figure class="thumb">
+                            <div class="fig-graphic">
+                                <a href="http://www.politico.com/magazine/story/2017/05/03/heritage-foundation-conservative-think-tank-jim-demint-215098" style="background-image:url(&#39;http://static.politico.com/dims4/default/cfbf973/2147483647/legacy_thumbnail/770x418%5E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fef%2F9a%2Fceaa51dc4e8d9b0d9fecbb7addb5%2Fgettyimages-629500118.jpg&#39;);" target="_top"></a></div>
+                        </figure>
+
+                        <div class="summary">
+                            <header>
+                                <p class="category">
+                                        <a href="http://www.politico.com/magazine/tag/politics" target="_top">Politics</a></p>
+                                <h3>
+                                        <a href="http://www.politico.com/magazine/story/2017/05/03/heritage-foundation-conservative-think-tank-jim-demint-215098" target="_top">How to Make the Heritage Foundation Great Again</a></h3>
+                                <p class="subhead">Jim DeMint’s ouster could be just what conservatism needs.</p>
+                                </header>
+
+                            <footer class="meta">
+                                <p class="byline">
+                                        By <span class="vcard">Tevi Troy</span></p>
+                                </footer>
+                            </div>
+                    </article>
+                </div>
+            <div class="feature-carousel-item">
+                    <article class="feature-frag ">
+                        <figure class="thumb">
+                            <div class="fig-graphic">
+                                <a href="http://www.politico.com/magazine/story/2017/05/03/trump-abbas-palestine-israel-netanyahu-215088" style="background-image:url(&#39;http://static.politico.com/dims4/default/853adb6/2147483647/legacy_thumbnail/770x418%5E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F43%2F1f%2F29bb4c7e4b10bbaa7cd5ad9b3942%2F1-170502-qalandia-palestinians-ap-1160.jpg&#39;);" target="_top"></a></div>
+                        </figure>
+
+                        <div class="summary">
+                            <header>
+                                <p class="category">
+                                        <a href="http://www.politico.com/magazine/tag/letter-from-ramallah" target="_blank">Letter from Ramallah</a></p>
+                                <h3>
+                                        <a href="http://www.politico.com/magazine/story/2017/05/03/trump-abbas-palestine-israel-netanyahu-215088" target="_top">Palestinians for Trump: ‘He Might Be the One’</a></h3>
+                                <p class="subhead">West Bank leaders are pinning their hopes on an unlikely savior: President Donald Trump. </p>
+                                </header>
+
+                            <footer class="meta">
+                                <p class="byline">
+                                        By <span class="vcard"><a href="http://www.politico.com/staff/bryan-bender" rel="author" class="url fn" target="_top">Bryan Bender</a></span></p>
+                                </footer>
+                            </div>
+                    </article>
+                </div>
+            <div class="feature-carousel-item">
+                    <article class="feature-frag ">
+                        <figure class="thumb">
+                            <div class="fig-graphic">
+                                <a href="http://www.politico.com/magazine/story/2017/05/02/did-too-much-caitlyn-jenner-doom-espn-215093" style="background-image:url(&#39;http://static.politico.com/dims4/default/78e245f/2147483647/legacy_thumbnail/770x418%5E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fd0%2F1a%2F78f31b3645c5a8aac9dd3ec9cef0%2F170502-jenner-getty-1160.jpg&#39;);" target="_top"></a></div>
+                        </figure>
+
+                        <div class="summary">
+                            <header>
+                                <p class="category">
+                                        <a href="http://www.politico.com/magazine/tag/game-theory" target="_top">Game Theory</a></p>
+                                <h3>
+                                        <a href="http://www.politico.com/magazine/story/2017/05/02/did-too-much-caitlyn-jenner-doom-espn-215093" target="_top">Did Too Much Caitlyn Jenner Doom ESPN?</a></h3>
+                                <p class="subhead">The sports network is hemorrhaging viewers and some critics say its liberal politics are to blame.</p>
+                                </header>
+
+                            <footer class="meta">
+                                <p class="byline">
+                                        By <span class="vcard">Ben Strauss</span></p>
+                                </footer>
+                            </div>
+                    </article>
+                </div>
+            </div>
+    </div>
+</div>
+<div class="content-group section-c">
+        <header class="content-header ">
+            <h2 class="type-brand"><strong>POLITICS &amp; POLICY</strong></h2>
+        </header>
+    <div class="cluster-groupset layout-grid grid-3">
+
+            <section class="cluster-group pos-beta">
+                        <header class="cluster-group-header">
+                                <h3>CONGRESS</h3>
+                            </header>
+                        <ul class="story-frag-list layout-linear">
+                            <li>
+                                    <article class="story-frag format-m">
+        <figure class="thumb ">
+                <div class="fig-graphic ">
+                    <a href="http://www.politico.com/story/2017/05/08/sally-yates-testimony-michael-flynn-key-moments-238123" target="_top"><img data-lazy-img="http://static.politico.com/dims4/default/0820b64/2147483647/legacy_thumbnail/403x218%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F15%2F9d%2Fef39843a4e1fb3f01281468f7a8d%2Flede-170506-yates-clapper-0138-js-1160.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Former Director of National Intelligence James Clapper and former acting Attorney General General Sally Yates appear before the Senate Subcommittee on Crime and Terrorism for a hearing on Russian interference in the 2016 election on May 8, 2017. John Shinkle/POLITICO" data-size="promo_medium"></a></div>
+            </figure>
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.com/story/2017/05/08/sally-yates-testimony-michael-flynn-key-moments-238123" target="_top">Key moments from Sally Yates' Flynn testimony</a></h3>
+                </header>
+
+            <footer class="meta">
+                <p class="byline">
+                        By <span class="vcard"><a href="http://www.politico.com/staff/madeline-conway" rel="author" class="url fn" target="_top">Madeline Conway</a></span>, <span class="vcard"><a href="http://www.politico.com/staff/martin-matishak" rel="author" class="url fn" target="_top">Martin Matishak</a></span> and <span class="vcard"><a href="http://www.politico.com/staff/austin-wright" rel="author" class="url fn" target="_top">Austin Wright</a></span></p>
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            <li>
+                                    <article class="story-frag format-m">
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.com/story/2017/05/08/trump-gop-fiscal-cliff-238040" target="_top">Coming soon: The fiscal cliff to end all fiscal cliffs</a></h3>
+                </header>
+
+            <footer class="meta">
+                <p class="byline">
+                        By <span class="vcard"><a href="http://www.politico.com/staff/burgess-everett" rel="author" class="url fn" target="_top">Burgess Everett</a></span> and <span class="vcard"><a href="http://www.politico.com/staff/sarah-ferris" rel="author" class="url fn" target="_top">Sarah Ferris</a></span></p>
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            <li>
+                                    <article class="story-frag format-m">
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.com/story/2017/05/06/obamacare-repeal-house-2018-238064" target="_top">Obamacare repeal vote upends 2018 House landscape</a></h3>
+                </header>
+
+            <footer class="meta">
+                <p class="byline">
+                        By <span class="vcard"><a href="http://www.politico.com/staff/alex-isenstadt" rel="author" class="url fn" target="_top">Alex Isenstadt</a></span> and <span class="vcard"><a href="http://www.politico.com/staff/gabriel-debenedetti" rel="author" class="url fn" target="_top">Gabriel Debenedetti</a></span></p>
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            </ul>
+                    </section>
+                <section class="cluster-group pos-gamma">
+                        <header class="cluster-group-header">
+                                <h3>THE AGENDA </h3>
+                            </header>
+                        <ul class="story-frag-list layout-linear">
+                            <li>
+                                    <article class="story-frag format-m">
+        <figure class="thumb ">
+                <div class="fig-graphic ">
+                    <a href="http://www.politico.com/agenda/story/2017/05/05/april-jobs-report-trump-wage-growth-000433" target="_top"><img data-lazy-img="http://static.politico.com/dims4/default/04b5d4c/2147483647/legacy_thumbnail/403x218%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F30%2F7d%2Fd2b2154d4280a7174658a2335452%2Fgettyimages-451868450.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="GettyImages-451868450.jpg" title="GettyImages-451868450.jpg" data-size="promo_medium"></a></div>
+            </figure>
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.com/agenda/story/2017/05/05/april-jobs-report-trump-wage-growth-000433" target="_top">The economy keeps improving. Why aren't wages?</a></h3>
+                </header>
+
+            <footer class="meta">
+                <p class="byline">
+                        By <span class="vcard"><a href="http://www.politico.com/staff/danny-vinik" rel="author" class="url fn" target="_top">Danny Vinik</a></span></p>
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            <li>
+                                    <article class="story-frag format-m">
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.com/agenda/story/2017/05/02/6-policies-congress-hid-in-the-new-spending-bill-000431" target="_top">6 policies Congress hid in the new spending bill</a></h3>
+                </header>
+
+            <footer class="meta">
+                <p class="byline">
+                        By <span class="vcard"><a href="http://www.politico.com/staff/danny-vinik" rel="author" class="url fn" target="_top">Danny Vinik</a></span></p>
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            <li>
+                                    <article class="story-frag format-m">
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.com/agenda/story/2017/04/27/stephen-vaughn-trade-ustr-000429" target="_top">Stephen Vaughn, the Hamiltonian at USTR</a></h3>
+                </header>
+
+            <footer class="meta">
+                <p class="byline">
+                        By <span class="vcard"><a href="http://www.politico.com/staff/doug-palmer" rel="author" class="url fn" target="_top">Doug Palmer</a></span></p>
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            </ul>
+                    </section>
+                <section class="cluster-group pos-delta">
+                        <header class="cluster-group-header">
+                                <h3>VIDEO</h3>
+                            </header>
+                        <ul class="story-frag-list layout-linear">
+                            <li>
+                                    <article class="story-frag format-m">
+        <figure class="thumb ">
+                <div class="fig-graphic has-overlay">
+                    <a href="http://www.politico.com/video/2017/05/08/obama-it-does-require-some-courage-to-champion-the-vulnerable-and-the-sick-and-the-infirm-063080" target="_top"><img data-lazy-img="http://static.politico.com/dims4/default/12623a5/2147483647/legacy_thumbnail/403x218%3E/quality/90/?url=http%3A%2F%2Fv.politico.com%2Fimages%2F1155968404%2F201705%2F210%2F1155968404_5425994584001_5425975100001-vs.jpg%3FpubId%3D1155968404" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Obama:  &#39;It does require some courage to champion the vulnerable and the sick and the infirm&#39;" title="Obama:  &#39;It does require some courage to champion the vulnerable and the sick and the infirm&#39;" data-size="promo_medium"></a><span class="fig-overlay is-deemphasized">
+                            <b aria-hidden="true" class="icon icon-play"></b>
+                            <span class="icon-text">View </span>
+                        </span>
+                    </div>
+            </figure>
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.com/video/2017/05/08/obama-it-does-require-some-courage-to-champion-the-vulnerable-and-the-sick-and-the-infirm-063080" target="_top">Obama:  'It does require some courage to champion the vulnerable and the sick and the infirm'</a></h3>
+                </header>
+
+            <footer class="meta">
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            <li>
+                                    <article class="story-frag format-m">
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.com/video/2017/05/08/trump-called-macron-to-congratulate-him-on-his-victory-over-le-pen-063083" target="_top">Trump called Macron to congratulate him on his victory over Le Pen</a></h3>
+                </header>
+
+            <footer class="meta">
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            <li>
+                                    <article class="story-frag format-m">
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.com/video/2017/05/08/white-house-confirms-obama-warned-trump-about-flynn-063082" target="_top">White House confirms Obama warned Trump about Flynn</a></h3>
+                </header>
+
+            <footer class="meta">
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            </ul>
+                    </section>
+                </div>
+
+    </div>
+    <div class="content-group section-c">
+        <div class="cluster-groupset layout-grid grid-3">
+
+            <section class="cluster-group pos-beta">
+                        <header class="cluster-group-header">
+                                <h3>WHITE HOUSE</h3>
+                            </header>
+                        <ul class="story-frag-list layout-linear">
+                            <li>
+                                    <article class="story-frag format-m">
+        <figure class="thumb ">
+                <div class="fig-graphic ">
+                    <a href="http://www.politico.com/story/2017/05/05/donald-trump-obamacare-repeal-timeline-238016" target="_top"><img data-lazy-img="http://static.politico.com/dims4/default/78b04fe/2147483647/legacy_thumbnail/403x218%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F0e%2F78%2Fb86d452d4a079b9190b9d20f8fbb%2F170504-trump-health-care-gty-1160.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="President Donald Trump congratulates House Republicans after they passed legislation aimed at repealing and replacing Obamacare during an event in the Rose Garden at the White House on May 4." title="170504_trump_health-care_gty_1160.jpg" data-size="promo_medium"></a></div>
+            </figure>
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.com/story/2017/05/05/donald-trump-obamacare-repeal-timeline-238016" target="_top">'The White House just couldn't let this go'</a></h3>
+                </header>
+
+            <footer class="meta">
+                <p class="byline">
+                        By <span class="vcard"><a href="http://www.politico.com/staff/rachael-bade" rel="author" class="url fn" target="_top">Rachael Bade</a></span> and <span class="vcard"><a href="http://www.politico.com/staff/josh-dawsey" rel="author" class="url fn" target="_top">Josh Dawsey</a></span></p>
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            <li>
+                                    <article class="story-frag format-m">
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.com/story/2017/05/07/trump-health-care-russia-238086" target="_top">White House health care victory short-lived as Russia probe looms</a></h3>
+                </header>
+
+            <footer class="meta">
+                <p class="byline">
+                        By <span class="vcard"><a href="http://www.politico.com/staff/matthew-nussbaum" rel="author" class="url fn" target="_top">Matthew Nussbaum</a></span></p>
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            <li>
+                                    <article class="story-frag format-m">
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.com/story/2017/05/05/trump-congress-powers-war-marijuana-isis-238056" target="_top">Trump pushes back on lawmakers’ attempt to rein in his powers</a></h3>
+                </header>
+
+            <footer class="meta">
+                <p class="byline">
+                        By <span class="vcard"><a href="http://www.politico.com/staff/austin-wright" rel="author" class="url fn" target="_top">Austin Wright</a></span></p>
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            </ul>
+                    </section>
+                <section class="cluster-group pos-gamma">
+                        <header class="cluster-group-header">
+                                <h3>POLITICS</h3>
+                            </header>
+                        <ul class="story-frag-list layout-linear">
+                            <li>
+                                    <article class="story-frag format-m">
+        <figure class="thumb ">
+                <div class="fig-graphic ">
+                    <a href="http://www.politico.com/story/2017/05/07/obamacare-activists-resistance-health-care-238042" target="_top"><img data-lazy-img="http://static.politico.com/dims4/default/f208fda/2147483647/legacy_thumbnail/403x218%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F05%2F87%2F438825b1476aa9db798f3dcdf276%2F170505-protest-healthcare-ap-1160.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Protesters hold signs and shout at lawmakers walking out of the US Capitol in Washington, DC, on May 4, 2017 after the House of Representatives narrowly passed a Republican effort to repeal and replace Obamacare, delivering a welcome victory to President Donald Trump after early legislative stumbles. Following weeks of in-party feuding and mounting pressure from the White House, lawmakers voted 217 to 213 to pass a bill dismantling much of Barack Obama&#39;s Affordable Care Act and allowing US states to opt out of many of the law&#39;s key health benefit guarantees / AFP PHOTO / NICHOLAS KAMM (Photo credit should read NICHOLAS KAMM/AFP/Getty Images)" data-size="promo_medium"></a></div>
+            </figure>
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.com/story/2017/05/07/obamacare-activists-resistance-health-care-238042" target="_top">Activist left goes all out to save Obamacare</a></h3>
+                </header>
+
+            <footer class="meta">
+                <p class="byline">
+                        By <span class="vcard"><a href="http://www.politico.com/staff/elana-schor" rel="author" class="url fn" target="_top">Elana Schor</a></span></p>
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            <li>
+                                    <article class="story-frag format-m">
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.com/story/2017/05/06/georgia-special-election-spending-record-238054" target="_top">Georgia special election smashes all-time spending record</a></h3>
+                </header>
+
+            <footer class="meta">
+                <p class="byline">
+                        By <span class="vcard"><a href="http://www.politico.com/staff/elena-schneider" rel="author" class="url fn" target="_top">Elena Schneider</a></span></p>
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            <li>
+                                    <article class="story-frag format-m">
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.com/story/2017/05/05/bruce-rauner-abortion-illinois-238057" target="_top">Abortion politics trip up blue-state GOP governor</a></h3>
+                </header>
+
+            <footer class="meta">
+                <p class="byline">
+                        By <span class="vcard"><a href="http://www.politico.com/staff/korecki-natasha/" rel="author" class="url fn" target="_top">Natasha Korecki</a></span></p>
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            </ul>
+                    </section>
+                <section class="cluster-group pos-delta">
+                        <header class="cluster-group-header">
+                                <h3>EUROPE</h3>
+                            </header>
+                        <ul class="story-frag-list layout-linear">
+                            <li>
+                                    <article class="story-frag format-m">
+        <figure class="thumb ">
+                <div class="fig-graphic ">
+                    <a href="http://www.politico.eu/article/merci-for-nothing-donald/" target="_blank"><img data-lazy-img="http://static.politico.com/dims4/default/d1c1b32/2147483647/legacy_thumbnail/403x218%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fd9%2F1d%2F162f378c41239f8c043e9adfce16%2F15-donald-trump-39-ap-1160.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="15_donald_trump_39_ap_1160.jpg" title="15_donald_trump_39_ap_1160.jpg" data-size="promo_medium"></a></div>
+            </figure>
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.eu/article/merci-for-nothing-donald/" target="_blank">Merci for nothing, Donald</a></h3>
+                </header>
+
+            <footer class="meta">
+                <p class="byline">
+                        By <span class="vcard"><a href="http://www.politico.com/staff/matthew-karnitschnig" rel="author" class="url fn" target="_top">Matthew Karnitschnig</a></span></p>
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            <li>
+                                    <article class="story-frag format-m">
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.com/story/2017/05/08/climate-negotiators-paris-agreement-trump-238117" target="_top">Climate negotiators stare into a looming American void</a></h3>
+                </header>
+
+            <footer class="meta">
+                <p class="byline">
+                        By <span class="vcard">Kalina Oroschakoff</span> and <span class="vcard">Sara Stefanini</span></p>
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            <li>
+                                    <article class="story-frag format-m">
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.eu/article/putin-calls-on-macron-to-overcome-mutual-mistrust/" target="_blank">Putin calls on Macron to ‘overcome mutual mistrust’</a></h3>
+                </header>
+
+            <footer class="meta">
+                <p class="byline">
+                        By <span class="vcard">Saim Saaed</span></p>
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            </ul>
+                    </section>
+                </div>
+
+    </div>
+    <div class="content-group section-d">
+        <div class="cluster-groupset layout-grid grid-3">
+
+            <section class="cluster-group pos-beta">
+                        <header class="cluster-group-header">
+                                <h3>OFF MESSAGE</h3>
+                            </header>
+                        <ul class="story-frag-list layout-linear">
+                            <li>
+                                    <article class="story-frag format-m">
+        <figure class="thumb ">
+                <div class="fig-graphic ">
+                    <a href="http://www.politico.com/story/2017/05/05/tom-cotton-donald-trump-238015" target="_top"><img data-lazy-img="http://static.politico.com/dims4/default/2b20977/2147483647/legacy_thumbnail/403x218%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fe6%2Fe6%2F5f3d0eff4703bb4bbc6af3040ff9%2F170504-tom-cotton-bm-1160.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="170504_tom_cotton_bm_1160.jpg" data-size="promo_medium"></a></div>
+            </figure>
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.com/story/2017/05/05/tom-cotton-donald-trump-238015" target="_top">Tom Cotton has no problem with Donald Trump</a></h3>
+                </header>
+
+            <footer class="meta">
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            </ul>
+                    </section>
+                <section class="cluster-group pos-gamma">
+                        <header class="cluster-group-header">
+                                <h3>INVESTIGATION</h3>
+                            </header>
+                        <ul class="story-frag-list layout-linear">
+                            <li>
+                                    <article class="story-frag format-m">
+        <figure class="thumb ">
+                <div class="fig-graphic ">
+                    <a href="http://www.politico.com/story/2017/04/24/obama-iran-nuclear-deal-prisoner-release-236966" target="_top"><img data-lazy-img="http://static.politico.com/dims4/default/d72ca2a/2147483647/legacy_thumbnail/403x218%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fd5%2Ffd%2Fbd50fe9f4e94adbdb9bdd5d511c2%2Fpolitico-iran-nuclear-deal-f.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="POLITICO_Iran_Nuclear_Deal_F.jpg" title="POLITICO_Iran_Nuclear_Deal_F.jpg" data-size="promo_medium"></a></div>
+            </figure>
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.com/story/2017/04/24/obama-iran-nuclear-deal-prisoner-release-236966" target="_top">Obama’s hidden Iran deal giveaway</a></h3>
+                </header>
+
+            <footer class="meta">
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            </ul>
+                    </section>
+                <section class="cluster-group pos-delta">
+                        <header class="cluster-group-header">
+                                <h3>GLOBAL POLITICO</h3>
+                            </header>
+                        <ul class="story-frag-list layout-linear">
+                            <li>
+                                    <article class="story-frag format-m">
+        <figure class="thumb ">
+                <div class="fig-graphic ">
+                    <a href="http://www.politico.com/magazine/story/2017/05/08/chris-murphy-global-politico-215110" target="_top"><img data-lazy-img="http://static.politico.com/dims4/default/c838826/2147483647/legacy_thumbnail/403x218%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F15%2Fad%2F10926b814d4d9e87084d467973ef%2Fglasser-murphy-getty.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Glasser_Murphy_Getty.jpg" title="Glasser_Murphy_Getty.jpg" data-size="promo_medium"></a></div>
+            </figure>
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.com/magazine/story/2017/05/08/chris-murphy-global-politico-215110" target="_top">Do Democrats need to tweet more like Trump?</a></h3>
+                </header>
+
+            <footer class="meta">
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            </ul>
+                    </section>
+                </div>
+
+    </div>
+    <div class="content-group section-d">
+        <div class="cluster-groupset layout-grid grid-3">
+
+            <section class="cluster-group pos-beta">
+                        <header class="cluster-group-header">
+                                <h3>NERDCAST</h3>
+                            </header>
+                        <ul class="story-frag-list layout-linear">
+                            <li>
+                                    <article class="story-frag format-m">
+        <figure class="thumb ">
+                <div class="fig-graphic ">
+                    <a href="http://www.politico.com/story/2017/05/05/nerdcast-decision-day-238026" target="_top"><img data-lazy-img="http://static.politico.com/dims4/default/fbb32f5/2147483647/legacy_thumbnail/403x218%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fe3%2F0b%2F50c6d0ca48dabb14a183e96368b3%2Fnerdcast-0505.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="nerdcast 0505.jpg" title="nerdcast 0505.jpg" data-size="promo_medium"></a></div>
+            </figure>
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.com/story/2017/05/05/nerdcast-decision-day-238026" target="_top">Nerdcast: Decision day</a></h3>
+                </header>
+
+            <footer class="meta">
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            </ul>
+                    </section>
+                <section class="cluster-group pos-gamma">
+                        <header class="cluster-group-header">
+                                <h3>WOMEN RULE</h3>
+                            </header>
+                        <ul class="story-frag-list layout-linear">
+                            <li>
+                                    <article class="story-frag format-m">
+        <figure class="thumb ">
+                <div class="fig-graphic ">
+                    <a href="http://www.politico.com/story/2017/04/26/women-rule-podcast-tony-goldwyn-adrienne-elrod-jaime-king-237606" target="_top"><img data-lazy-img="http://static.politico.com/dims4/default/aff5192/2147483647/legacy_thumbnail/403x218%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Ffc%2F26%2F3ed2c82e4f0fa6857223c4639377%2Ftony-goldwyn-gty-1160.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="tony_goldwyn_gty_1160.jpg" title="tony_goldwyn_gty_1160.jpg" data-size="promo_medium"></a></div>
+            </figure>
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.com/story/2017/04/26/women-rule-podcast-tony-goldwyn-adrienne-elrod-jaime-king-237606" target="_top">Hollywood wants a more ‘authentic’ 2020 candidate</a></h3>
+                </header>
+
+            <footer class="meta">
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            </ul>
+                    </section>
+                <section class="cluster-group pos-delta">
+                        <header class="cluster-group-header">
+                                <h3>PLAYBOOK POWER LIST</h3>
+                            </header>
+                        <ul class="story-frag-list layout-linear">
+                            <li>
+                                    <article class="story-frag format-m">
+        <figure class="thumb ">
+                <div class="fig-graphic ">
+                    <a href="http://www.politico.com/playbookpowerlistthenewguard/2017" target="_blank"><img data-lazy-img="http://static.politico.com/dims4/default/84daf54/2147483647/legacy_thumbnail/403x218%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Fbf%2F9f%2Fc471b67c4f75b39ee2c6e7ea65f8%2Fpower-list-a-image-no-logo.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Power List A Image NO LOGO" title="Power List A Image NO LOGO" data-size="promo_medium"></a></div>
+            </figure>
+        <div class="summary">
+            <header>
+                <h3><a href="http://www.politico.com/playbookpowerlistthenewguard/2017" target="_blank">The New Guard</a></h3>
+                </header>
+
+            <footer class="meta">
+                </footer>
+
+            </div>
+
+    </article>
+
+</li>
+                            </ul>
+                    </section>
+                </div>
+
+    </div>
+    </section>
+                <section class="content-groupset pos-beta is-masoned">
+                    <aside class="content-group friday-cover-sign-up">
+        <div class="promo">
+            <header class="promo-header">
+                            <h2>The <b>Friday</b> Cover</h2>
+                        </header>
+                    <div class="promo-content">
+                            <div class="spotlight color-inverted">
+                                <div class="thumb">
+                                        <img data-lazy-img="http://static.politico.com/dims4/default/55f6cd8/2147483647/resize/70x/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2Ff5%2F0f%2Fbc6f925e460392589abef94fcea9%2F0505-tfc-cover-v2.jpeg" width="70" height="107" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="0505-tfc-cover-v2.jpeg"></div>
+                                <div class="summary">
+                                        <p>The Friday Cover is POLITICO Magazine's email of the week's best, delivered to your inbox every Friday morning.</p>
+                                    </div>
+                                </div>
+                        </div>
+                    <div class="promo-content">
+
+                        <div class="dari-frame dari-frame-loaded" name="friday-cover-sign-up-rail-0000014e-ec54-d0b3-a35f-fdf53f040000" data-insertion-mode="replace" data-extra-form-data="_frame.path=d62341dabb91bd95eee92d81a6a31eee&amp;_frame.name=friday-cover-sign-up-rail-0000014e-ec54-d0b3-a35f-fdf53f040000"><form class="simple-signup color-inverted" target="friday-cover-sign-up-rail-0000014e-ec54-d0b3-a35f-fdf53f040000" method="post" action="/?">
+                                        <input type="hidden" name="subscribeId" value="0000014e-ec54-d0b3-a35f-fdf53f040000" />
+                                        <input type="hidden" name="processorId" value="0000014f-00d6-daa0-a9cf-9ad79dac0000" />
+                                        <input type="hidden" name="validateEmail" value="true" />
+
+                                        <div class="signup-header">
+                                                <h6><strong>Sign up for The Friday Cover</strong></h6>
+                                            </div>
+                                        <fieldset>
+                                            <label for="i563bacd0aef34464b62d988843df1be7">
+                                                <b aria-hidden="true" class="icon icon-mail"></b><span class="icon-text">Email</span>
+                                            </label>
+
+                                            <input type="email"
+                                                   name="subscribeEmail"
+                                                   id="i563bacd0aef34464b62d988843df1be7"
+                                                   value=""
+                                                   class=""
+                                                   placeholder="Your email&#8230;">
+
+                                            <button class="button type-brand" type="submit"> Sign Up</button>
+                                        </fieldset>
+
+                                        </form>
+                                </div></div>
+                    <footer class="promo-footer">
+                            <ul>
+                                <li><a href="http://www.politico.com/magazine/table-of-contents-archive" target="_blank">The Print Issue</a></li>
+                                </ul>
+                        </footer>
+                    </div>
+    </aside>
+<aside class="content-group wuerker-drawings">
+            <div class="widget caste-inclusive">
+                <header class="widget-header">
+                    <h2><a href="http://www.politico.com/gallery/2017/05/01/matt-wuerker-cartoons-may-2017-002431" target="_top"><b aria-hidden="true" class="icon icon-image"></b> Wuerker Drawings</a></h2>
+                </header>
+
+                <div class="widget-content">
+                    <article class="story-frag format-m">
+                        <figure class="thumb">
+                            <div class="fig-graphic">
+                                <a href="http://www.politico.com/gallery/2017/05/01/matt-wuerker-cartoons-may-2017-002431" target="_top"><img data-lazy-img="http://static.politico.com/dims4/default/fef8f87/2147483647/legacy_thumbnail/403x300%3E/quality/90/?url=http%3A%2F%2Fstatic.politico.com%2F7b%2F4d%2F02ad39a74a758418ad7c6f663514%2Fwuc170508-1160.jpg" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="160202-matt-wuerker.jpg" data-size="promo_rectangle_alt"></a></div>
+                        </figure>
+                    </article>
+                </div>
+            </div>
+        </aside>
+    </section>
+            </div>
+        </div>
+    </div>
+    </main>
+<div class="global-footer" role="contentinfo">
+        <div class="global-footer-inner">
+            <div class="footer-group footer-intro">
+    <div class="footer-branding">
+        <h2>
+            <a href="http://www.politico.com/" title="Home" target="_top"><b aria-hidden="true" class="icon icon-politico"></b>
+                <span class="icon-text">More on POLITICO</span>
+            </a></h2>
+    </div>
+
+    <div class="footer-actions">
+    <form class="simple-nav orient-horizontal color-inverted">
+        <fieldset>
+            <label for="jumpEdition">
+                <b aria-hidden="true" class="icon icon-globe"></b>
+                <span class="icon-text">Core Footer - dropdown links</span>
+            </label>
+            <select name="jumpEdition" id="jumpEdition">
+            <option selected="selected"  value="">U.S. Edition</option>
+                <option  value="http://www.politico.eu/">Europe Edition</option>
+                </select>
+        </fieldset>
+    </form>
+</div>
+</div>
+<div class="footer-group footer-nav">
+    <div class="menu with-hidden-toggle reveal-at-large reveal-at-extra">
+        <h5 class="menu-toggle">POLITICO Links</h5>
+
+        <div class="menu-content">
+    <div class="additional-links">
+        <nav class="additional-nav" role="navigation">
+                <h6>
+                    News</h6>
+                <ul>
+                            <li>
+                                    <a href="http://www.politico.com/" target="_top">POLITICO Home</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/magazine/" target="_top">Magazine</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/2016-election/results/map/president" target="_blank">2016 Elections</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/congress" target="_top">Congress </a></li>
+                            <li>
+                                    <a href="http://www.politico.com/video" target="_top">Video </a></li>
+                            <li>
+                                    <a href="http://www.politico.com/podcasts" target="_blank">Podcasts</a></li>
+                            <li>
+                                    <a href="https://www.politicopro.com/" target="_top">POLITICO Pro </a></li>
+                            <li>
+                                    <a href="http://www.politico.com/media" target="_blank">POLITICO Media</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/states/florida" target="_blank">POLITICO Florida</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/states/new-jersey" target="_blank">POLITICO New Jersey</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/states/new-york" target="_blank">POLITICO New York</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/live-events" target="_top">POLITICO Live </a></li>
+                            </ul>
+                    </nav>
+        <nav class="additional-nav" role="navigation">
+                <h6>
+                    Blogs, Columns & Cartoons </h6>
+                <ul>
+                            <li>
+                                    <a href="http://www.politico.com/magazine/tag/fourth-estate" target="_blank">Jack Shafer </a></li>
+                            <li>
+                                    <a href="http://www.politico.com/blogs/media" target="_top">On Media</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/blogs/under-the-radar" target="_top">Josh Gerstein </a></li>
+                            <li>
+                                    <a href="http://www.politico.com/news/matt-wuerker" target="_blank">Matt Wuerker</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/magazine/tag/rich-lowry" target="_blank">Rich Lowry </a></li>
+                            <li>
+                                    <a href="http://www.politico.com/tag/cartoon-carousel" target="_blank">Cartoon Carousel </a></li>
+                            </ul>
+                    </nav>
+        <nav class="additional-nav" role="navigation">
+                <h6>
+                    Tipsheets</h6>
+                <ul>
+                            <li>
+                                    <a href="http://www.politico.com/tipsheets/the-2016-blast" target="_top">The 2016 Blast</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/playbook" target="_top">Playbook</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/tipsheets/huddle" target="_top">Huddle</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/magazine/newsletter" target="_top">The Friday Cover</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/tipsheets/politico-influence" target="_top">Influence</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/tipsheets/morning-agriculture" target="_top">Morning Agriculture</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/tipsheets/morning-cybersecurity" target="_top">Morning Cybersecurity</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/tipsheets/morning-defense" target="_top">Morning Defense</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/tipsheets/morning-education" target="_top">Morning Education</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/tipsheets/morning-ehealth" target="_top">Morning eHealth</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/tipsheets/morning-energy" target="_top">Morning Energy</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/tipsheets/morning-money" target="_top">Morning Money</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/tipsheets/morning-score" target="_top">Morning Score</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/tipsheets/morning-shift" target="_top">Morning Shift</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/tipsheets/morning-tax" target="_top">Morning Tax</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/tipsheets/morning-tech" target="_top">Morning Tech</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/tipsheets/morning-trade" target="_top">Morning Trade</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/tipsheets/morning-transportation" target="_top">Morning Transportation</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/tipsheets/politico-pulse" target="_top">Pulse</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/tipsheets/prescription-pulse" target="_top">Prescription Pulse</a></li>
+                            </ul>
+                    </nav>
+        <nav class="additional-nav" role="navigation">
+                <h6>
+                    Policy</h6>
+                <ul>
+                            <li>
+                                    <a href="http://www.politico.com/agriculture" target="_top">Agriculture</a></li>
+                            <li>
+                                    <a href="https://www.politicopro.com/campaigns" target="_top">Campaigns</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/cybersecurity" target="_top">Cybersecurity</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/defense" target="_top">Defense</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/education" target="_top">Education</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/ehealth" target="_top">eHealth</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/energy-and-environment" target="_top">Energy & Environment</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/finance" target="_top">Finance & Tax</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/health-care" target="_top">Health Care</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/tag/employment-immigration" target="_top">Employment & Immigration</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/technology" target="_top">Technology</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/trade" target="_top">Trade</a></li>
+                            <li>
+                                    <a href="http://www.politico.com/transportation" target="_top">Transportation & Infrastructure</a></li>
+                            </ul>
+                    </nav>
+        <nav class="additional-nav double" role="navigation">
+                <h6>
+                    More Info</h6>
+                <ul class="first">
+                            <li>
+                                    <a href="http://www.politico.com/about/" target="_top">About Us</a></li>
+                                <li>
+                                    <a href="http://www.politico.com/about/advertising" target="_top">Advertising</a></li>
+                                <li>
+                                    Breaking News Alerts</li>
+                                <li>
+                                    <a href="https://secure.politico.com/payment" target="_blank">Credit Card Payments</a></li>
+                                <li>
+                                    <a href="http://edition.pagesuite-professional.co.uk/Launch.aspx?bypass=true&amp;PBID=74262970-aa07-44b3-80c8-21fa8a8ac376" target="_blank">Digital Edition</a></li>
+                                <li>
+                                    <a href="http://www.politico.com/employment" target="_top">Employment</a></li>
+                                <li>
+                                    <a href="http://www.politico.com/faq" target="_top">FAQ</a></li>
+                                <li>
+                                    <a href="http://www.politico.com/feedback" target="_top">Feedback</a></li>
+                                <li>
+                                    <a href="http://www.politico.com/politics" target="_top">Headlines</a></li>
+                                </ul>
+                                    <ul class="last">
+                                <li>
+                                    <a href="http://www.politico.com/gallery" target="_top">Photos</a></li>
+                                <li>
+                                    <a href="http://www.powerjobs.com/" target="_blank">POWERJobs</a></li>
+                                <li>
+                                    <a href="http://www.politico.com/about/other-brands/politico-states/press" target="_top">Press</a></li>
+                                <li>
+                                    Register</li>
+                                <li>
+                                    <a href="http://www.politico.com/subscriptions" target="_blank">Print Subscriptions</a></li>
+                                <li>
+                                    <a href="http://www.politico.com/rss" target="_top">RSS/Widgets</a></li>
+                                <li>
+                                    <a href="http://www.politico.com/sitemap" target="_top">Site Map</a></li>
+                                <li>
+                                    <a href="http://www.cafepress.com/thepolitico" target="_blank">Store</a></li>
+                                </ul>
+                    </nav>
+        </div>
+</div>
+</div>
+</div>
+<div class="footer-group footer-legal">
+    <p class="copyright"> &copy; 2017 POLITICO LLC</p>
+<ul class="legal-links">
+    <li>
+            <a href="http://www.politico.com/terms-of-service" target="_top">Terms of Service</a></li>
+    <li>
+            <a href="http://www.politico.com/privacy-policy" target="_top">Privacy Policy</a></li>
+    </ul>
+</div></div>
+    </div>
+<script>var gptadslots=[];
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function(){
+  var gads = document.createElement('script');
+  gads.async = true;
+  gads.type = 'text/javascript';
+  var useSSL = 'https:' == document.location.protocol;
+  gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+  var node = document.getElementsByTagName('script')[0];
+  node.parentNode.insertBefore(gads, node);
+})();
+</script><script type="text/javascript" src="http://static.politico.com/resource/assets/js.min/scriptloader.cab00b3c1625d35a5b7d14e319312771.gz.js"></script><script>var scripts = [{'inline': function() { if (Modernizr.touch) { document.write('<script src="http://static.politico.com/resource/js/website/shared/libraries/jquery-mobile-1.4.5.min.483cba40ca58d0ada0632d01953d42f4.gz.js"><\/script>'); } } },{'src': 'http://static.politico.com/resource/js/website/shared/libraries/jquery.extra.fbf31263f39294c52d3a5cc6a2f6b309.gz.js'},{'src': 'http://static.politico.com/resource/js/website/shared/libraries/popup.26b0ff7e738340d74b9af4387fb60a39.gz.js'},{'src': 'http://static.politico.com/resource/js/website/shared/libraries/jquery-frame.50efb8f6cd88400053a419dfaa93e089.gz.js'},{'src': 'http://static.politico.com/resource/assets/js.min/main.4b4816da022fdc40bf99c496c150e4e1.gz.js'},{'src': 'http://static.politico.com/resource/assets/js.min/bsp.2de22c254625fff619553fa79c05348f.gz.js'},{'src': '//s7.addthis.com/js/300/addthis_widget.js#pubid=politico.com'},{'inline': function() { buildSocial(); } },];POLITICO_Script_Loader.loadScriptsSync(scripts);</script><script type="text/javascript">$(document).ready(function(e) {
+    $('#pageProfileSettings').find('[target="_changePassword"]').attr('target', '_blank');
+});</script><script type='text/javascript'>
+var utag_data = 
+{"organization_division":"anonymous","organization_uuid":"anonymous","organization_name":"anonymous","user_login_type":"anonymous","us_em":"anonymous","content_uuid":"0000014b-3270-d4f3-a3cb-f3ffa8610000/0000014e-acc8-df19-a1ee-bffa3a510001","free_paid_content":"free","site_section":"homepage","ad_unit_section":"core-home","page_level_1":"","page_type":"homepage","site_domain":"www.politico.com","internal_site_id":"politico","page_name":"POLITICO Home","subscription_viewed":"subscription_promo_view","subscription_module":"newsletter_rightrail_standard_Playbook - POLITICO, breakingNews_full_standard_breakingNews"};
+
+if (typeof(Storage) !== 'undefined') {
+ if (localStorage.uId !== undefined && localStorage.uId !== '') {
+utag_data["us_id"] = localStorage.uId;
+}
+ if (localStorage.uStatus !== undefined && localStorage.uStatus !== '') {
+ if (localStorage.uStatus === "logged in"){ 
+var statusCookieFound = false;
+var nameEQ = "uStatus=";
+var ca = document.cookie.split(';');
+for (var i = 0; i < ca.length; i++) {
+    var c = ca[i];
+    while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+    if (c.indexOf(nameEQ) == 0) {
+        statusCookieFound = true;
+    }
+}
+                    
+if (!statusCookieFound) {
+    localStorage.uStatus = 'logged out';
+}
+}
+utag_data["us_st"] = localStorage.uStatus;} else {
+utag_data["us_st"] = "anonymous";
+}
+ if (localStorage.uCid !== undefined && localStorage.uCid !== '') {
+utag_data["us_co"] = localStorage.uCid;
+}
+}
+;(function(a,b,c,d){
+a='//tags.tiqcdn.com/utag/politico/main/prod/utag.js';
+b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+})();
+</script>
+</div>
+        <div class="ad-slot  " id="pol-oop" >
+        </div>
+
+    </body>
+    </html>

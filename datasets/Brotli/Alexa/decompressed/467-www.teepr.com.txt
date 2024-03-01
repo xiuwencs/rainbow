@@ -1,0 +1,1731 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+  <meta charset="UTF-8">
+  <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+  <!--[if IE ]>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <![endif]-->
+  <link rel="profile" href="http://gmpg.org/xfn/11" />
+  <!-- <link rel="stylesheet" type="text/css" href="http://www.teepr.com/wp-content/plugins/sharecallout/css/modal.css"> -->
+  <!-- <link rel='stylesheet' id='share_modal-css'  href='http://www.teepr.com/wp-content/plugins/sharecallout/css/modal.css' type='text/css' media='all' /> -->
+  <title>TEEPR 亮新聞 - 最熱門有趣的新聞</title>
+  <meta name="apple-mobile-web-app-title" content="TEEPR 亮新聞">
+  	<link rel="icon" href="http://www.teepr.com/wp-content/uploads/2015/01/new_favicon.ico" type="image/x-icon" />
+<!--iOS/android/handheld specific -->
+<link rel="apple-touch-icon" href="http://www.teepr.com/wp-content/themes/truepixel/apple-touch-icon.png" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <link rel="pingback" href="http://www.teepr.com/xmlrpc.php" />
+  <!--Header Code-->
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <!--<script src="http://cdn51.vizury.com/pam/api/pam.js?name=PAM_TW_PC_Teepr&id=7324&v=1.2&geo=ap"></script>-->
+  <script type='text/javascript' src='http://www.teepr.com/wp-content/themes/truepixel/js/js-cookie.js'></script>
+  <!-- <script id="pcadscript" language="javascript" src="http://kdpic.pchome.com.tw/img/js/xpcadshow.js"></script> -->
+  <script type='text/javascript' src='http://www.teepr.com/wp-content/themes/truepixel/js/isMobile.min.js'></script>
+  <script type="text/javascript" src="https://connect.facebook.net/en_US/fbadnw.js" async></script>
+  <script type="text/javascript" src="//m.vpadn.com/ssp/vat.js"></script>
+
+  <!--Ad Asia Header-->
+  <script src="//ced.sascdn.com/tag/2060/smart.js" type="text/javascript" async></script>
+  <script type="text/javascript">
+      var sas = sas || {};
+      sas.cmd = sas.cmd || [];
+      sas.cmd.push(function() {
+          sas.setup({ networkid: 2060, domain: "//adnetwork.adasiaholdings.com", async: true });
+      });
+  </script>
+  <!--End Ad Asia Header-->
+
+  <style>
+     .single_post .thirdPartyRoot, .bot-ad-wrapper .thirdPartyRoot {
+        background-color: white;
+        color: #000;
+        border: 1px solid #ccc;
+        border-left: 0;
+        border-right: 0;
+        font-family: sans-serif;
+        font-size: 14px;
+        line-height: 16px;
+        width: 320px;
+        text-align: left;
+        position: relative;
+        margin:0 auto;
+      }
+      .single_post .thirdPartyMediaClass, .bot-ad-wrapper .thirdPartyMediaClass {
+        width: 320px;
+        height: 168px;
+        /*margin: 12px 0;*/
+      }
+      .single_post .thirdPartySubtitleClass, .bot-ad-wrapper .thirdPartySubtitleClass {
+        font-size: 18px;
+        -webkit-line-clamp: 1;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        height: 16px;
+        -webkit-box-orient: vertical;
+        color:#000;
+        padding: 5px 10px 0px;
+        font-size:18px;
+      }
+      .single_post .thirdPartyTitleClass, .bot-ad-wrapper .thirdPartyTitleClass {
+        padding-right: 12px;
+        line-height: 18px;
+        -webkit-line-clamp: 2;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        height: 36px;
+        -webkit-box-orient: vertical;
+        color:#000;
+        padding:0 10px;
+        font-size:16px;
+      }
+      .single_post .thirdPartyCallToActionClass, .bot-ad-wrapper .thirdPartyCallToActionClass {
+        background-color: #e03f00;
+        color: white;
+        border-radius: 4px;
+        padding: 6px 20px;
+        float: right;
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 11px;
+        margin-right:10px;
+      }
+      .single_post .fbDefaultNativeAdWrapper, .bot-ad-wrapper .fbDefaultNativeAdWrapper{
+        font-size: 12px;
+        line-height: 14px;
+        margin: 12px 0;
+        height: 36px;
+        vertical-align: top;
+      }
+
+      .single_post .fbAdChoices > img, .bot-ad-wrapper .fbAdChoices > img {
+        width:12px!important;
+        height:12px!important;
+        left:0px!important;
+      }
+
+      .single_post .fbAdMedia > img, .bot-ad-wrapper .fbAdMedia > img {
+        width: 320px!important;
+        height: 168px!important;
+        left:0px!important;
+      }
+
+      .single_post .fbAdMedia video, .bot-ad-wrapper .fbAdMedia video {
+        height:100%!important;
+      }
+
+      /*old version*/
+      .single_post #ad_root {
+        display: none;
+        font-size: 14px;
+        height: 250px;
+        line-height: 16px;
+        position: relative;
+        width: 300px;
+        background-color:#fff;
+        margin: 0 auto;
+        border:1px solid #ececec;
+      }
+      .single_post #ad_root .thirdPartyMediaClass {
+        height: 157px;
+        width: 300px;
+      }
+      .single_post #ad_root .thirdPartySubtitleClass {
+        font-size: 18px;
+        -webkit-line-clamp: 1;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        height: 16px;
+        -webkit-box-orient: vertical;
+        color:#000;
+        padding: 10px 10px 0px;
+        font-size:18px;
+      }
+      .single_post #ad_root .thirdPartyTitleClass {
+        padding-right: 12px;
+        line-height: 18px;
+        -webkit-line-clamp: 2;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        height: 36px;
+        -webkit-box-orient: vertical;
+        color:#000;
+        padding:0 10px;
+        font-size:16px;
+      }
+      .single_post #ad_root .thirdPartyCallToActionClass {
+        background-color: #e03f00;
+        color: white;
+        border-radius: 4px;
+        padding: 6px 20px;
+        float: right;
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 11px;
+        margin-right:10px;
+      }
+      .single_post #ad_root .fbDefaultNativeAdWrapper {
+        font-size: 12px;
+        line-height: 14px;
+        margin: 12px 0;
+        height: 36px;
+        vertical-align: top;
+      }
+
+      .single_post #ad_root .fbAdChoices > img {
+        width:12px!important;
+        height:12px!important;
+        left:0px!important;
+      }
+
+      .single_post #ad_root .fbAdMedia > img {
+        width: 300px!important;
+        height: 160px!important;
+        left:0px!important;
+      }
+
+      .single_post #ad_root .fbAdMedia video {
+        height:100%!important;
+      }
+
+      .single_post #ad_root .fbAdBody img {
+        width:auto!important;
+      }
+  </style>
+
+  <!--Google Analytics-->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-1801883-33', 'teepr.com');
+    ga('require', 'displayfeatures');
+    ga('send', 'pageview');
+  </script>
+  <!-- End Google Analytics-->
+
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P9D8LL"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-P9D8LL');</script>
+  <!-- End Google Tag Manager -->
+
+  <!-- SYNC DFP CODE -->
+  <!--
+  <script type='text/javascript'>
+    (function() {
+      var useSSL = 'https:' == document.location.protocol;
+      var src = (useSSL ? 'https:' : 'http:') +
+          '//www.googletagservices.com/tag/js/gpt.js';
+      document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+    })();
+  </script>
+  -->
+
+  <!-- ASYNC DFP Code -->
+  <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+  <script>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+  </script>
+
+  <script type='text/javascript'>
+  googletag.cmd.push(function() {
+  var mapping1 = googletag.sizeMapping(). //DFP matches width first, then height ALL Sizes based on $(window).width(), css is based on window.innerWidth, all dimension settings are inclusive, means [321, 200] includes 321.
+  addSize([0, 0], [300, 250]). //from 0,0 up to 359px, display ad size 300x250
+  //addSize([321, 200], [336, 280]). //from 360 up to infinity or to the next size settings show 336x280
+  build();
+  window.slot1= googletag.defineSlot('/47355084/TEEPRMid-1', [336,280], 'div-gpt-ad-1429264228754-0').
+  defineSizeMapping(mapping1).
+  addService(googletag.pubads().set("page_url", window.location.href));
+
+  var mapping2 = googletag.sizeMapping(). //DFP matches width first, then height
+  addSize([0, 0], [300, 250]). //from 0,0 up to 359px, display ad size 300x250
+  //addSize([321, 200], [336, 280]). //from 360 up to infinity or to the next size settings show 336x280
+  build();
+  window.slot2= googletag.defineSlot('/47355084/TEEPRMid-2', [336,280], 'div-gpt-ad-1436779130188-0').
+  defineSizeMapping(mapping2).
+  addService(googletag.pubads().set("page_url", window.location.href));
+
+  var mapping3 = googletag.sizeMapping(). //DFP matches width first, then height
+    addSize([0, 0], [300, 250]). //from 0,0 up to 359px, display ad size 300x250
+    // addSize([321, 200], [336, 280]). //from 360 up to infinity or to the next size settings show 336x280
+    build();
+  window.slot3= googletag.defineSlot('/47355084/TEEPRMid-3', [336,280], 'div-gpt-ad-1428294971073-0').
+  defineSizeMapping(mapping3).
+  addService(googletag.pubads().set("page_url", window.location.href));
+
+  var mapping4 = googletag.sizeMapping(). //DFP matches width first, then height
+    addSize([0, 0], [300, 250]).
+    addSize([321, 200], [336, 280]).
+    addSize([600, 200], [468, 60]). //equivalent to CSS 501px width and above
+    build();
+  window.slot4= googletag.defineSlot('/47355084/TEEPRBelowTitle', [336,280], 'div-gpt-ad-1437210097476-0').
+  defineSizeMapping(mapping4).
+  addService(googletag.pubads().set("page_url", window.location.href));
+
+  function noCookieCheck() { //beginning of popmake
+    return Cookies.get("popmake-popup-cookie") === undefined;
+  };
+
+   if (noCookieCheck()) {
+    var mapping5 = googletag.sizeMapping(). //DFP matches width first, then height
+      addSize([0, 0], [300, 250]). //from 0,0 up to 359px, display ad size 300x250
+      addSize([321, 200], [[300, 250],[320, 480]]). //from 360 up to infinity or to the next size settings show 336x280
+      addSize([800, 200], [604, 250]).
+      build();
+    window.slot5= googletag.defineSlot('/47355084/TEEPRPopup', [300,250], 'div-gpt-ad-1437475382111-0').
+    defineSizeMapping(mapping5).
+    addService(googletag.pubads().set("page_url", window.location.href));
+  }
+
+  googletag.defineSlot('/47355084/TEEPRRightAd1', [336, 280], 'div-gpt-ad-1445236674786-0').addService(googletag.pubads());
+  googletag.defineSlot('/47355084/TEEPRRightSticky2', [336, 280], 'div-gpt-ad-1445935466045-0').addService(googletag.pubads());
+  googletag.defineSlot('/47355084/TEEPRTopDesktop', [970, 250], 'div-gpt-ad-1464858064255-0').addService(googletag.pubads());
+  googletag.defineSlot('/47355084/TEEPRTopMobile', [300, 250], 'div-gpt-ad-1467776923211-0').addService(googletag.pubads());
+  googletag.defineSlot('/47355084/FacebookPopup', [300, 250], 'div-gpt-ad-1467793583532-0').addService(googletag.pubads());
+  googletag.defineSlot('/47355084/TEEPRMid-2_2', [300, 250], 'div-gpt-ad-1467724290756-0').addService(googletag.pubads());
+  googletag.defineSlot('/47355084/TEEPRMid-4', [300, 250], 'div-gpt-ad-1467715651397-0').addService(googletag.pubads());
+  googletag.defineSlot('/47355084/TEEPRMid-5', [300, 250], 'div-gpt-ad-1467714788781-0').addService(googletag.pubads());
+  googletag.defineSlot('/47355084/TEEPRMid-6', [300, 250], 'div-gpt-ad-1467710796795-0').addService(googletag.pubads());
+  googletag.defineSlot('/47355084/TEEPR-Mid-7', [300, 250], 'div-gpt-ad-1467720980159-0').addService(googletag.pubads());
+  googletag.defineSlot('/47355084/TEEPR-Mid-8', [300, 250], 'div-gpt-ad-1467780310339-0').addService(googletag.pubads());
+  googletag.defineSlot('/47355084/TEEPR-Ad-9', [300, 250], 'div-gpt-ad-1467780363405-0').addService(googletag.pubads());
+  googletag.defineSlot('/47355084/TEEPRMid-10', [300, 250], 'div-gpt-ad-1467798009578-0').addService(googletag.pubads());
+  googletag.defineSlot('/47355084/TEEPRMid-11', [300, 250], 'div-gpt-ad-1467798040490-0').addService(googletag.pubads());
+  googletag.defineSlot('/47355084/TEEPRMid-12', [300, 250], 'div-gpt-ad-1467798056518-0').addService(googletag.pubads());
+  googletag.defineSlot('/47355084/TEEPRMid-13', [300, 250], 'div-gpt-ad-1468305728320-0').addService(googletag.pubads());
+  googletag.defineSlot('/47355084/TEEPRMid-14', [300, 250], 'div-gpt-ad-1468305745028-0').addService(googletag.pubads());
+  googletag.defineSlot('/47355084/TEEPRMid-15', [300, 250], 'div-gpt-ad-1468305764698-0').addService(googletag.pubads());
+  googletag.defineSlot('/47355084/TEEPRMid-16', [300, 250], 'div-gpt-ad-1468305779028-0').addService(googletag.pubads());
+  googletag.defineSlot('/47355084/TEEPRPostBotLeft', [300, 250], 'div-gpt-ad-1489212605199-0').addService(googletag.pubads());
+  //googletag.defineSlot('/1249652/Teepr_336x280_01', [336, 280], 'div-gpt-ad-1482960204173-0').addService(googletag.pubads()); //admaru
+
+  googletag.pubads().enableSingleRequest();
+  //googletag.pubads().enableSyncRendering(); //turn off if on async mode
+  googletag.enableServices();
+
+  });
+  </script>
+  <!-- End of DFP Code -->
+
+  <!-- admaru -->
+  <!--
+  <script>
+    function detectad(iframeid,divid,height,width,detectioninterval,totaltime){
+        var time=0;
+        document.getElementById(divid).style.height='0px';
+        document.getElementById(divid).style.width='0px';
+        var myVar = setInterval(function(){
+            var iframe = document.getElementById('google_ads_iframe_'+iframeid+'_0');
+            var innerDoc = iframe.contentDocument || iframe.contentWindow.document;
+            var innerDocBody = innerDoc.getElementsByTagName('body');
+            if(Number(innerDocBody.length)>0)
+            {
+                if(innerDocBody[0].textContent)
+                {
+                    document.getElementById(divid).style.height=height+'px';
+                    document.getElementById(divid).style.width=width+'px';
+                    document.getElementById(divid).style.marginBottom='60px';
+                    clearInterval(myVar);
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+                time=time+detectioninterval;
+                if(time>=totaltime)
+                {
+                    clearInterval(myVar);
+                    return false;
+                }
+            }
+            else
+            {
+                return false;
+            }
+        }, detectioninterval);
+    }
+  </script>
+  -->
+  <!--end of admaru-->
+
+  <!-- Start Alexa Certify Javascript -->
+  <script type="text/javascript">
+  _atrk_opts = { atrk_acct:"n8i6j1a8Dy00W8", domain:"teepr.com",dynamic: true};
+  (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+  </script>
+  <!-- End of Alexa Certify Javascript -->
+
+  <!-- Begin comScore Tag -->
+  <script>
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "19015724" });
+    (function() {
+      var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+      s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+      el.parentNode.insertBefore(s, el);
+    })();
+  </script>
+  <!-- End comScore Tag -->
+
+  <!--Begin OLD FB Audience Code-->
+  <!--
+  <script>(function() {
+    var _fbq = window._fbq || (window._fbq = []);
+    if (!_fbq.loaded) {
+      var fbds = document.createElement('script');
+      fbds.async = true;
+      fbds.src = '//connect.facebook.net/en_US/fbds.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(fbds, s);
+      _fbq.loaded = true;
+    }
+    _fbq.push(['addPixelId', '776486002424993']);
+  })();
+  window._fbq = window._fbq || [];
+  window._fbq.push(['track', 'PixelInitialized', {}]);
+  </script>
+  -->
+  <!--End FB Audience Code-->
+
+  <!-- Facebook Pixel Code -->
+  <script>
+  !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+  n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+  document,'script','https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '776486002424993'); // Insert your pixel ID here.
+  fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=776486002424993&ev=PageView&noscript=1"
+  /></noscript>
+  <!-- DO NOT MODIFY -->
+  <!-- End Facebook Pixel Code -->
+
+  <!--<script type="text/javascript" async="async" src="//scripts.kiosked.com/loader/kiosked-loader.js?pub=11126&site=11007"></script>-->
+
+  <script>
+    function ifApple() {
+      if  (isMobile.apple.device) {
+        console.log('is Apple');
+        return true;
+      } else {
+        console.log('is not Apple');
+        return false;
+      }
+      return mobileDevice;
+    }
+  </script>
+
+  <!--End of Header Code -->
+  
+<!-- This site is optimized with the Yoast SEO plugin v4.7 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="最熱門有趣的新聞"/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://www.teepr.com/" />
+<link rel="next" href="http://www.teepr.com/page/2/" />
+<link rel="publisher" href="https://plus.google.com/+Teeprnews"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="TEEPR 亮新聞 - 最熱門有趣的新聞" />
+<meta property="og:description" content="最熱門有趣的新聞" />
+<meta property="og:url" content="http://www.teepr.com/" />
+<meta property="og:site_name" content="TEEPR 亮新聞" />
+<meta property="fb:app_id" content="1612170172377312" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.teepr.com\/","name":"TEEPR \u4eae\u65b0\u805e","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.teepr.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"http:\/\/www.teepr.com\/","sameAs":["http:\/\/www.facebook.com\/teepr","https:\/\/instagram.com\/teeprnews","https:\/\/plus.google.com\/+Teeprnews","https:\/\/www.youtube.com\/channel\/UCzAOdjLlfyW19t8PtG1f7MA","https:\/\/twitter.com\/teeprnews"],"@id":"#organization","name":"TEEPR \u8da3\u5473\u65b0\u805e","logo":"http:\/\/www.teepr.com\/wp-content\/uploads\/2015\/12\/new_favicon.png"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="TEEPR 亮新聞 &raquo; Feed" href="http://www.teepr.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="TEEPR 亮新聞 &raquo; Comments Feed" href="http://www.teepr.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.teepr.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.4"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='ajax-load-more-css'  href='http://www.teepr.com/wp-content/plugins/ajax-load-more/core/css/ajax-load-more.min.css?ver=4.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.teepr.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='twenty-twenty-css'  href='http://www.teepr.com/wp-content/plugins/smart-before-after-viewer/includes/twentytwenty/css/twentytwenty.min.css?ver=4.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-style-css'  href='http://www.teepr.com/wp-content/plugins/stackcommerce-deal-feed/wp/includes/css/custom_script.css?ver=4.7.4' type='text/css' media='all' />
+<style id='custom-style-inline-css' type='text/css'>
+
+                .stackCommerceWidgetSidebar .singlestackCommerceItem .stackCommerceItemPrice{
+                        background: #2db500;
+                        color: #ffffff;
+                }
+                .stackCommerceWidgetSidebar .singlestackCommerceItem {
+                    background: #f7f7f7;
+                }
+                .stackCommerceWidgetSidebar .singlestackCommerceItem .singlestackCommerceItemDiscount {
+                    background: ;
+                    color: ;
+                    display: block;
+                }
+                .stackCommerceSeeAllDeals {
+                    display: block;
+                }
+                .stackCommerceInlineDisplayHeader .stackCommerceInlineHeaderText {
+                    font-size: 40px;
+                }
+                .singlestackCommerceItem {
+                    background: #f7f7f7;
+                }
+                
+</style>
+<link rel='stylesheet' id='wp-polls-css'  href='http://www.teepr.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.73.3' type='text/css' media='all' />
+<style id='wp-polls-inline-css' type='text/css'>
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 22px;
+	line-height: 24px;
+	height: 24px;
+	background-image: url('http://www.teepr.com/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link rel='stylesheet' id='cwv3_css-css'  href='http://www.teepr.com/wp-content/plugins/content-warning-v2/css/cwv3.min.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider-css'  href='http://www.teepr.com/wp-content/themes/truepixel/css/flexslider.css?ver=4.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyPhoto-css'  href='http://www.teepr.com/wp-content/themes/truepixel/css/prettyPhoto.css?ver=4.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='http://www.teepr.com/wp-content/themes/truepixel/css/font-awesome.min.css?ver=4.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='stylesheet-css'  href='http://www.teepr.com/wp-content/themes/truepixel/style.css?ver=4.7.4' type='text/css' media='all' />
+<style id='stylesheet-inline-css' type='text/css'>
+
+    body {background-color:#ffffff; }
+    body {background-image: url(http://www.teepr.com/wp-content/themes/truepixel/images/nobg.png);}
+    #top-navigation,#top-navigation ul ul li{background-color:#494951}
+    .copyrights{background-color:#494951}
+    .postauthor h5, .copyrights a, .single_post a, .textwidget a, #logo a, .pnavigation2 a, .sidebar.c-4-12 a:hover, .copyrights a:hover, footer .widget li a:hover, .sidebar.c-4-12 a:hover, .related-posts a:hover, .reply a, .title a:hover, .post-info a:hover,.comm, #tabber .inside li a:hover, .readMore a:hover, .fn a, a, a:hover,.pagination li a,.readMore a,#tabber .inside li .meta { color:#E03F00; }
+     a .current .currenttext { color:#E03F00!important; background: none!important; }
+      #commentform input#submit, .contactform #submit, .mts-subscribe input[type='submit'], #move-to-top:hover, #navigation ul .current-menu-item a, #navigation ul li:hover, .widget_tabs2 .tab_title.selected a, .tagcloud a:hover, #navigation ul .sfHover > a, #cancel-comment-reply-link,#top-navigation li:hover, #top-navigation ul .sfHover > a, .currenttext, .pagination a:hover, .single .pagination a:hover .currenttext, #move-to-top, .pace .pace-progress, .widget_tabs2 .pagination a, #top-navigation .current-menu-item a { background-color:#E03F00; color: #fff!important; }
+    .flex-control-thumbs .flex-active{ border-top:3px solid #E03F00;}
+    #tabber ul.tabs li a,.copyrights { border-color: #E03F00; }
+    
+    .shareit { top: 282px; left: auto; z-index: 0; margin: 0 0 0 -140px; width: 90px; position: fixed; overflow: hidden; padding: 5px; border:none; border-right: 0; -moz-box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.3); -webkit-box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.3); box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.3); }
+    .share-item {margin: 2px;}
+    
+    
+    
+    
+    
+    
+      
+</style>
+<link rel='stylesheet' id='responsive-css'  href='http://www.teepr.com/wp-content/themes/truepixel/css/responsive.css?ver=4.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-pagination-css-css'  href='http://www.teepr.com/wp-content/plugins/simple-pagination/css/default.css?ver=2.1.7' type='text/css' media='screen' />
+<script type='text/javascript' src='http://www.teepr.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.teepr.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var position_change = {"edge":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.teepr.com/wp-content/plugins/contentprotector/js/watermark.js?ver=4.7.4'></script>
+<script type='text/javascript' src='http://www.teepr.com/wp-content/plugins/smart-before-after-viewer/includes/twentytwenty/js/jquery.event.move.min.js?ver=4.7.4'></script>
+<script type='text/javascript' src='http://www.teepr.com/wp-content/plugins/smart-before-after-viewer/includes/twentytwenty/js/jquery.twentytwenty.min.js?ver=4.7.4'></script>
+<script type='text/javascript' src='http://www.teepr.com/wp-content/themes/truepixel/js/customscript.js?ver=4.7.4'></script>
+<script type='text/javascript' src='http://www.teepr.com/wp-content/themes/truepixel/js/jquery.flexslider-min.imagesloaded.js?ver=4.7.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pw_script_vars = {"permalink":"http:\/\/www.teepr.com\/701253\/jonhsieh\/26%e5%bc%b5%e6%9f%af%e5%9f%ba%e6%b7%b7%e8%a1%80%e5%85%92%e7%85%a7\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.teepr.com/wp-content/themes/truepixel/js/teepr.js?ver=4.7.4'></script>
+<link rel='https://api.w.org/' href='http://www.teepr.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.teepr.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.teepr.com/wp-includes/wlwmanifest.xml" /> 
+<!--TEEPR趣味新聞-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel='https://github.com/WP-API/WP-API' href='http://www.teepr.com/8nI78r3AjFP0Y890ZDg3a8m5426qYN3K' />
+	<!-- CWV3 CSS -->
+	<style type="text/css">
+	.cwv3.dialog-overlay{
+		background-color: cwv3_bg_color;		opacity: 0.5;
+		-moz-opacity: 0.5;
+		-webkit-opacity: 0.5;
+
+	}
+	.cwv3_dialog .cwv3_btns .cwv3_enter a {
+background-color:#e03f00;
+}
+
+.cwv3_dialog .cwv3_btns .cwv3_exit a {
+background-color:#f5f5f5;
+color:#000;
+}
+
+.cwv3_dialog .cwv3_title {
+background-color:#999999;
+}		</style>
+	<!-- END CWV3-CSS -->
+	<link href="http://fonts.googleapis.com/css?family=Oswald:normal|Droid+Serif:normal" rel="stylesheet" type="text/css">
+<style type="text/css">
+#top-navigation .menu li a, nav #pull{ font-family: 'Oswald'; font-weight: normal; font-size: 16px; color: #ffffff; }
+#navigation .menu li, .total-comments{ font-family: 'Oswald'; font-weight: normal; font-size: 16px; color: #777777; }
+#logo.text-logo a{ font-family: 'Oswald'; font-weight: normal; font-size: 34px; color: #e03f00; }
+h1{ font-family: 'Oswald'; font-weight: normal; font-size: 30px; color: #e03f00; }
+h2{ font-family: 'Oswald'; font-weight: normal; font-size: 26px; color: #e03f00; }
+h3{ font-family: 'Oswald'; font-weight: normal; font-size: 22px; color: #e03f00; }
+h4{ font-family: 'Oswald'; font-weight: normal; font-size: 20px; color: #e03f00; }
+h5{ font-family: 'Oswald'; font-weight: normal; font-size: 18px; color: #e03f00; }
+h6{ font-family: 'Oswald'; font-weight: normal; font-size: 16px; color: #e03f00; }
+body{ font-family: 'Droid Serif'; font-weight: normal; font-size: 14px; color: #777777; }
+</style>
+<script type="text/javascript">document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/,'js');</script>
+<!--Plugin WP Missed Schedule Active - Secured with Genuine Authenticity KeyTag-->
+
+<!-- This site is patched against a big problem not solved since WordPress 2.5 -->
+
+  <link rel='stylesheet' href='http://www.teepr.com/wp-content/themes/truepixel/css/custom.css' type='text/css' media='all' />
+  <link rel='stylesheet' href='http://www.teepr.com/wp-content/themes/truepixel/css/remodal.css' type='text/css' media='all' />
+  <script type='text/javascript' src='http://www.teepr.com/wp-content/themes/truepixel/js/ua-parser.min.js'></script>
+  <script type='text/javascript' src='http://www.teepr.com/wp-content/themes/truepixel/js/blockadblock.js'></script>
+  <script type='text/javascript' src='http://www.teepr.com/wp-content/themes/truepixel/js/remodal.min.js'></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <script type="text/javascript">
+    var uaParser = new UAParser();
+    function adBlockNotDetected() {}
+    function adBlockDetected() {
+      var uaResult = uaParser.getResult();
+      ga('send', 'event', 'ADB', uaResult.os.name +' - '+ uaResult.browser.name);
+    }
+    if(typeof blockAdBlock === 'undefined') {
+      adBlockDetected();
+    } else {
+      blockAdBlock.on(true, adBlockDetected).onNotDetected(adBlockNotDetected);
+    }
+    blockAdBlock.setOption({
+      debug: false,
+      checkOnLoad: true,
+      resetOnEnd: false
+    });
+  </script>
+
+  <!--
+  <html xmlns:wb=“http://open.weibo.com/wb”>
+  <script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
+  -->
+
+  <!-- Criteo Teepr - TW - RTA Script -->
+  <script type='text/javascript'>
+  var crtg_nid = '4159';
+  var crtg_cookiename = 'crtg_rta';
+  var crtg_varname = 'crtg_content';
+  function crtg_getCookie(c_name){ var i,x,y,ARRCookies=document.cookie.split(";");for(i=0;i<ARRCookies.length;i++){x=ARRCookies[i].substr(0,ARRCookies[i].indexOf("="));y=ARRCookies[i].substr(ARRCookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x==c_name){return unescape(y);} }return'';}
+  var crtg_content = crtg_getCookie(crtg_cookiename);
+  var crtg_rnd=Math.floor(Math.random()*99999999999);
+  (function(){
+  var crtg_url=location.protocol+'//rtax.criteo.com/delivery/rta/rta.js?netId='+escape(crtg_nid);
+  crtg_url +='&cookieName='+escape(crtg_cookiename);
+  crtg_url +='&rnd='+crtg_rnd;
+  crtg_url +='&varName=' + escape(crtg_varname);
+  var crtg_script=document.createElement('script');crtg_script.type='text/javascript';crtg_script.src=crtg_url;crtg_script.async=true;
+  if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);
+  else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script);
+  })();
+  </script>
+  <!-- End of Criteo Teepr - TW - RTA Script -->
+  <script async src="http://s1.nativefeed.com/cc/teepr/nf.js"></script>
+
+    <meta property="fb:pages" content="1433215316907826" />
+
+  <!--load ad2 code-->
+  <script>
+  function loadAd(){
+    var sc = document.createElement("script");
+    sc.setAttribute("src", "http://content.ad2iction.com/mediascroll/ad2.js"); //我們的候補廣告
+    sc.setAttribute("type", "text/javascript");
+    sc.setAttribute("id", "MediaScroll-AD2");
+    sc.setAttribute("key", "7220684f-8d17-11e5-8d2a-f23c9173ed43");
+    document.head.appendChild(sc);
+
+    // window.callbackAD2 = function (){
+    //   console.log("Ad2iction Callback");
+    //   var pop = document.createElement("script"); //yahoo popup
+    //   pop.setAttribute("id", "hs_int_teepr");
+    //   pop.setAttribute("src", "http://ytw.sitebro.com/ypa/hotspot/int_teepr_bf.js?bf=loadPassback");
+    //   pop.setAttribute("type", "text/javascript");
+    //   document.head.appendChild(pop);
+    // }
+  }
+
+  function loadPassback() {
+    console.log("Load Passback");
+    var sc = document.createElement("script");
+    sc.setAttribute("src", "http://content.ad2iction.com/mediascroll/ad2.js"); //我們的候補廣告
+    sc.setAttribute("type", "text/javascript");
+    sc.setAttribute("id", "MediaScroll-AD2");
+    sc.setAttribute("key", "7220684f-8d17-11e5-8d2a-f23c9173ed43");
+    document.head.appendChild(sc);
+
+    window.callbackAD2 = function (){
+      console.log("Ad2iction Callback");
+
+      // function noCookieCheck() { //beginning of Smaato Popup
+      //   return Cookies.get("popmake-popup-cookie") === undefined;
+      // };
+
+      //if (noCookieCheck()) {
+        // console.log("no cookie check");
+
+        // Cookies.set('popmake-popup-cookie', true, { expires: 1/24 });
+
+        setTimeout(function() {
+          SomaJS.loadAd({
+              adDivId: "smaatopopup",
+              publisherId: 1100007168,
+              adSpaceId: 130030631,
+              dimension: "full_320x480",
+              modalDisplay: true,
+              shouldShowModal: function() {
+                  console.log("Modal is going to be shown!");
+                  return true;
+              },
+              modalClosedCallback: function() {
+                  console.log("The modal is closed!");
+              },
+            passback:"<div id=\"smaatopopupMedrect\" style=\"padding:0px\"><\/div>\r\n<script type=\"text\/javascript\" src=\"http:\/\/soma-assets.smaato.net\/js\/smaatoAdTag_ps206.js\"><\/script>\r\n<script>\r\nSomaJS.loadAd({\r\n    adDivId: \"smaatopopupMedrect\",\r\n    publisherId: 1100007168,\r\n    adSpaceId: 130038054,\r\n    modalDisplay: true,\r\n    shouldShowModal: function() {\r\n        console.log(\"Modal is going to be shown!\");\r\n        return true;\r\n    },\r\n    modalClosedCallback: function() {\r\n        console.log(\"The modal is closed!\");\r\n    },\r\ndimension: \"medrect\",\r\ndimensionstrict: true,\r\n});\r\n<\/script>"
+          });
+        }, 8000);
+
+      //} //end of noCookieCheck() section
+    } //end of ad2iction callback
+  }
+  </script>
+
+  <link href="http://www.teepr.com/wp-content/themes/truepixel/lib/custombox/custombox.min.css" rel="stylesheet">
+  <script src="http://www.teepr.com/wp-content/themes/truepixel/lib/custombox/custombox.min.js"></script>
+
+  <style>
+    #smaato_modalAd {
+      display: none;
+    }
+  </style>
+</head>
+<body id ="blog" class="home blog main zh" itemscope itemtype="http://schema.org/WebPage">
+  <!-- FB Code-->
+  <div id="fb-root"></div>
+  <script>
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId      : '1612170172377312',
+        cookie     : true,  // enable cookies to allow the server to access
+        xfbml      : true,  // parse social plugins on this page
+        version    : 'v2.8' // use graph api version 2.8
+      });
+            if (!Cookies.get("teepr-fblogin")) {
+        FB.getLoginStatus(function(response) {
+          fbLoginInit(response);
+        });
+      }
+          };
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v2.6&appId=1612170172377312";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+  <!--
+  <script>
+  // (function(d, s, id) {
+  //   var js, fjs = d.getElementsByTagName(s)[0];
+  //   if (d.getElementById(id)) return;
+  //   js = d.createElement(s); js.id = id;
+  //   js.async=true;
+  //   js.src = "//connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v2.4&appId=1612170172377312";
+  //   fjs.parentNode.insertBefore(js, fjs);
+  // }(document, 'script', 'facebook-jssdk'));
+
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1612170172377312',
+      xfbml      : true,
+      version    : 'v2.6'
+    });
+    console.log('FB INIT');
+    if (Cookies.get("popmake-fb-popup-cookie") === undefined) {
+      FB.Event.subscribe('edge.create', function(href, widget) {
+        if (widget.classList.contains('fb-like-pop')) {
+          console.log('SETTING FB POP COOKIE');
+          Cookies.set('popmake-fb-popup-cookie', true, { expires: 10 });
+          jQuery('#popmake-145753').popmake('close');
+        }
+      });
+    }
+  };
+  (function(d, s, id){
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) {return;}
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/zh_TW/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+  </script>
+  -->
+  <!-- End of FB Code -->
+
+  <div class="main-container-wrap">
+          <!-- Primary Navigation  -->
+        <div class="top-navigation">
+          <nav id="top-navigation" class="navigation">
+            <a href="#" rel="nofollow" id="pull" class="toggle-mobile-menu">&nbsp;</a>
+            <div class="container">
+              <div class="mobile-search-wrapper">
+                <div><form method="get" id="searchform" class="search-form" action="http://www.teepr.com" _lpchecked="1">
+	<fieldset>
+		<input type="text" name="s" id="s" value="" placeholder="搜尋文章..." x-webkit-speech="x-webkit-speech" />
+		<input id="search-image" class="sbutton" type="submit" value="" />
+		<i class="icon-search"></i>
+	</fieldset>
+</form>
+</div>
+                <div class="mobile-language-wrapper">選擇語言：
+<div id="wpcc_widget_inner"><!--WPCC_NC_START-->
+	<span id="wpcc_original_link" class="wpcc_current_lang" ><a class="wpcc_link" href="http://www.teepr.com/" title="還原">還原</a></span>
+	<span id="wpcc_zh-hans_link" class="wpcc_lang" ><a class="wpcc_link" rel="nofollow" href="http://www.teepr.com/?variant=zh-hans" title="简体" >简体</a></span>
+	<span id="wpcc_zh-hant_link" class="wpcc_lang" ><a class="wpcc_link" rel="nofollow" href="http://www.teepr.com/?variant=zh-hant" title="繁體" >繁體</a></span>
+<!--WPCC_NC_END--></div>
+</div>
+              </div>
+                            <ul id="menu-primary-menu" class="menu clearfix"><li id="menu-item-1352" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1352"><a href="http://www.teepr.com/%e5%be%b5%e6%89%8d/">徵才</a></li>
+<li id="menu-item-108906" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108906"><a href="/cdn-cgi/l/email-protection#d5b6babba1b4b6a195a1b0b0a5a7fbb6bab8">聯絡我們</a></li>
+<li id="menu-item-2921" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2921"><a href="http://www.teepr.com/%e5%88%8a%e7%99%bb%e5%bb%a3%e5%91%8a/">刊登廣告</a></li>
+</ul>                          </div>
+          </nav>
+        </div>
+        <a href="http://www.teepr.com" class="top-nav-logo"><img src="http://www.teepr.com/wp-content/themes/truepixel/images/top-header-logo.png" style="height:28px!important;"></a>
+        <div id="smaatopopup" style="padding:0px"></div>
+    <script type="text/javascript" src="http://soma-assets.smaato.net/js/smaatoAdTag_ps206.js"></script>
+    <header class="main-header">
+      <div class="container">
+        <div id="header">
+          <div class="logo-wrap">
+                                            <h1 id="logo" class="image-logo">
+                    <a href="http://www.teepr.com"><img src="http://www.teepr.com/wp-content/themes/truepixel/images/teepr_logo.png" alt="TEEPR 亮新聞"></a>
+                  </h1><!-- END #logo -->
+                                    </div>
+          <div class="mobile-hide top-header-area">
+            <div class="top-search-form">
+              <form method="get" id="searchform" class="search-form" action="http://www.teepr.com" _lpchecked="1">
+	<fieldset>
+		<input type="text" name="s" id="s" value="" placeholder="搜尋文章..." x-webkit-speech="x-webkit-speech" />
+		<input id="search-image" class="sbutton" type="submit" value="" />
+		<i class="icon-search"></i>
+	</fieldset>
+</form>
+            </div>
+            <div class="header-fb-like">
+              <span class="header-fb-box-text">搶先收到最新的趣味新聞！快按讚！</span>
+              <div class="fb-like header-fb-like-btn" style="display:inline-block!important;" data-href="https://www.facebook.com/teepr" data-send="false" data-width="60" data-show-faces="false" layout="button_count"></div>
+            </div>
+          </div>
+        <!--end of added code-->
+                  </div><!--#header-->
+      </div><!--.container-->
+              <div class="secondary-navigation">
+          <nav id="navigation" class="navigation clearfix">
+            <a href="#" rel="nofollow" id="pull" class="toggle-mobile-menu">選單</a>
+                          <div class="container">
+              <ul id="menu-secondary-menu" class="menu clearfix"><li id="menu-item-21101" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-21101"><a href="http://www.teepr.com">首頁</a></li>
+<li id="menu-item-21097" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-21097"><a href="http://www.teepr.com/category/%e6%96%b0%e8%81%9e/">新聞</a></li>
+<li id="menu-item-36558" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-36558"><a href="http://www.teepr.com/category/%e5%bd%b1%e7%89%87/">影片</a>
+<ul class="sub-menu">
+	<li id="menu-item-229396" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-229396"><a href="http://www.teepr.com/category/%e5%bd%b1%e7%89%87/teepr%e5%bd%b1%e7%89%87/">TEEPR原創影片</a></li>
+</ul>
+</li>
+<li id="menu-item-34683" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-34683"><a href="http://www.teepr.com/category/%e7%94%9f%e6%b4%bb/">生活</a>
+<ul class="sub-menu">
+	<li id="menu-item-204428" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-204428"><a href="http://www.teepr.com/category/%e7%94%9f%e6%b4%bb/diy/">DIY</a></li>
+	<li id="menu-item-204429" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-204429"><a href="http://www.teepr.com/category/%e7%94%9f%e6%b4%bb/%e9%a3%9f%e7%89%a9/">食物</a></li>
+	<li id="menu-item-204430" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-204430"><a href="http://www.teepr.com/category/%e7%94%9f%e6%b4%bb/%e5%bf%83%e7%90%86/">心理</a></li>
+	<li id="menu-item-204431" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-204431"><a href="http://www.teepr.com/category/%e7%94%9f%e6%b4%bb/%e5%81%a5%e5%ba%b7/">健康</a></li>
+	<li id="menu-item-204432" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-204432"><a href="http://www.teepr.com/category/%e7%94%9f%e6%b4%bb/%e6%99%82%e5%b0%9a/">時尚</a></li>
+	<li id="menu-item-204433" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-204433"><a href="http://www.teepr.com/category/%e7%94%9f%e6%b4%bb/%e6%84%9b%e6%83%85/">愛情</a></li>
+	<li id="menu-item-400305" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-400305"><a href="http://www.teepr.com/category/%e7%94%9f%e6%b4%bb/%e7%be%8e%e5%ae%b9/">美容</a></li>
+	<li id="menu-item-400306" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-400306"><a href="http://www.teepr.com/category/%e7%94%9f%e6%b4%bb/%e8%a6%aa%e5%ad%90/">親子</a></li>
+	<li id="menu-item-36689" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-36689"><a href="http://www.teepr.com/category/%e6%84%9f%e5%8b%95/">感動</a></li>
+	<li id="menu-item-400322" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-400322"><a href="http://www.teepr.com/category/%e5%8f%af%e6%84%9b/">可愛</a></li>
+	<li id="menu-item-400325" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-400325"><a href="http://www.teepr.com/category/%e7%94%9f%e6%b4%bb/%e6%95%91%e6%8f%b4/">救援</a></li>
+	<li id="menu-item-400327" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-400327"><a href="http://www.teepr.com/category/%e6%98%9f%e5%ba%a7/">星座</a></li>
+	<li id="menu-item-400328" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-400328"><a href="http://www.teepr.com/category/lgbt/">LGBT</a></li>
+	<li id="menu-item-400516" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-400516"><a href="http://www.teepr.com/category/%e6%81%90%e6%80%96/">恐怖</a></li>
+	<li id="menu-item-400517" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-400517"><a href="http://www.teepr.com/category/%e5%8f%af%e6%83%a1/">可惡</a></li>
+	<li id="menu-item-453478" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-453478"><a href="http://www.teepr.com/category/%e9%86%ab%e5%ad%b8/">醫學</a></li>
+	<li id="menu-item-453479" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-453479"><a href="http://www.teepr.com/category/%e5%b8%a5%e5%93%a5%e6%ad%a3%e5%a6%b9/">帥哥正妹</a></li>
+</ul>
+</li>
+<li id="menu-item-21100" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-21100"><a href="http://www.teepr.com/category/%e5%a8%9b%e6%a8%82/">娛樂</a>
+<ul class="sub-menu">
+	<li id="menu-item-400514" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-400514"><a href="http://www.teepr.com/category/%e5%bd%b1%e7%89%87/%e9%a0%90%e5%91%8a%e7%89%87/">預告片</a></li>
+</ul>
+</li>
+<li id="menu-item-21099" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-21099"><a href="http://www.teepr.com/category/%e7%88%86%e7%ac%91/">爆笑</a>
+<ul class="sub-menu">
+	<li id="menu-item-400323" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-400323"><a href="http://www.teepr.com/category/%e7%88%86%e7%ac%91/%e6%83%a1%e4%bd%9c%e5%8a%87/">惡作劇</a></li>
+</ul>
+</li>
+<li id="menu-item-34682" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34682"><a href="http://www.teepr.com/category/%e5%8b%95%e7%89%a9/">動物</a></li>
+<li id="menu-item-34684" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-34684"><a href="http://www.teepr.com/category/%e9%a9%9a%e5%a5%87/">驚奇</a>
+<ul class="sub-menu">
+	<li id="menu-item-204434" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-204434"><a href="http://www.teepr.com/category/%e9%a9%9a%e5%a5%87/%e5%9c%b0%e7%90%83/">地球</a></li>
+	<li id="menu-item-204435" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-204435"><a href="http://www.teepr.com/category/%e9%a9%9a%e5%a5%87/%e7%a4%be%e6%9c%83/">社會</a></li>
+	<li id="menu-item-204436" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-204436"><a href="http://www.teepr.com/category/%e9%a9%9a%e5%a5%87/%e6%ad%b7%e5%8f%b2/">歷史</a></li>
+	<li id="menu-item-400326" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-400326"><a href="http://www.teepr.com/category/%e9%a9%9a%e5%a5%87/%e9%9d%88%e7%95%b0/">靈異</a></li>
+</ul>
+</li>
+<li id="menu-item-34681" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-34681"><a href="http://www.teepr.com/category/%e8%97%9d%e8%a1%93/">藝術</a>
+<ul class="sub-menu">
+	<li id="menu-item-204423" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-204423"><a href="http://www.teepr.com/category/%e8%97%9d%e8%a1%93/%e5%bb%ba%e7%af%89/">建築</a></li>
+	<li id="menu-item-204425" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-204425"><a href="http://www.teepr.com/category/%e8%97%9d%e8%a1%93/%e6%94%9d%e5%bd%b1/">攝影</a></li>
+	<li id="menu-item-204424" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-204424"><a href="http://www.teepr.com/category/%e8%97%9d%e8%a1%93/%e8%a8%ad%e8%a8%88/">設計</a></li>
+</ul>
+</li>
+<li id="menu-item-36686" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-36686"><a href="http://www.teepr.com/category/%e8%a1%a8%e6%bc%94/">表演</a>
+<ul class="sub-menu">
+	<li id="menu-item-204426" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-204426"><a href="http://www.teepr.com/category/%e8%a1%a8%e6%bc%94/%e9%9f%b3%e6%a8%82/">音樂</a></li>
+	<li id="menu-item-204427" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-204427"><a href="http://www.teepr.com/category/%e8%a1%a8%e6%bc%94/%e8%b7%b3%e8%88%9e/">舞蹈</a></li>
+</ul>
+</li>
+<li id="menu-item-400308" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-400308"><a href="http://www.teepr.com/category/%e7%a7%91%e6%8a%80/">科技</a>
+<ul class="sub-menu">
+	<li id="menu-item-400309" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-400309"><a href="http://www.teepr.com/category/%e7%a7%91%e6%8a%80/%e9%81%8a%e6%88%b2/">遊戲</a></li>
+</ul>
+</li>
+<li id="menu-item-31557" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-31557"><a href="http://www.teepr.com/category/%e6%97%85%e9%81%8a/">旅遊</a></li>
+<li id="menu-item-25912" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25912"><a href="http://www.teepr.com/category/%e5%a5%b3%e6%80%a7%e5%b0%88%e5%8d%80/">女性</a></li>
+<li id="menu-item-400304" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-400304"><a href="http://www.teepr.com/category/%e6%b8%ac%e9%a9%97/">測驗</a></li>
+<li id="menu-item-400307" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-400307"><a href="http://www.teepr.com/category/%e9%81%8b%e5%8b%95/">運動</a></li>
+<li id="menu-item-400310" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-400310"><a href="http://www.teepr.com/category/%e5%95%86%e6%a5%ad/">商業</a></li>
+<li id="menu-item-400311" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-400311"><a href="http://www.teepr.com/category/%e7%a7%91%e5%ad%b8/">科學</a></li>
+<li id="menu-item-400324" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-400324"><a href="http://www.teepr.com/category/%e6%94%bf%e6%b2%bb/">政治</a></li>
+</ul>              </div>
+                      </nav>
+        </div>
+          </header>
+    <div class="main-container clearfix">
+<style>
+.bot-sticky-share, .bot-sticky-ad {display:none!important;}
+#move-to-top {bottom:16px;}
+</style>
+<div id="page" class="clearfix">
+  <div class="article">
+    <div id="content_box">
+                        <div class="slider-container">
+            <div class="flex-container loading">
+              <div id="slider" class="flexslider">
+                <ul class="slides">
+                                    <li data-thumb="http://www.teepr.com/wp-content/uploads/2017/05/郭冠英挺C師-191x120.jpg"> 
+                    <a href="http://www.teepr.com/700843/jillhsiao/%e9%83%ad%e5%86%a0%e8%8b%b1%e6%8c%bac%e5%b8%ab/">
+                      <img width="601" height="220" src="http://www.teepr.com/wp-content/uploads/2017/05/郭冠英挺C師-601x220.jpg" class="attachment-slider size-slider wp-post-image" alt="郭冠英力挺C師「正人君子做好事」！狂言「性侵沒抓到就合法、台南女兒就不能侵犯？」" title="郭冠英力挺C師「正人君子做好事」！狂言「性侵沒抓到就合法、台南女兒就不能侵犯？」% 照片"  />                      <div class="flex-caption">
+                        <p class="slidertitle">郭冠英力挺C師「正人君子做好事」！狂言「性侵沒抓到就合法、台南女兒就不能侵犯？」</p>
+                      </div>
+                    </a> 
+                  </li>
+                                    <li data-thumb="http://www.teepr.com/wp-content/uploads/2017/05/未命名-1-45-191x120.jpg"> 
+                    <a href="http://www.teepr.com/700487/cindyleung/%e7%94%b7%e5%8f%b8%e6%a9%9f%e5%9c%a8%e5%a5%b9%e9%9d%a2%e5%89%8d%e6%89%93%e6%89%8b%e6%a7%8d%e5%a5%b9%e6%8b%8d%e7%89%87%e7%95%99%e8%ad%89%e6%93%9a/">
+                      <img width="601" height="220" src="http://www.teepr.com/wp-content/uploads/2017/05/未命名-1-45-601x220.jpg" class="attachment-slider size-slider wp-post-image" alt="男司機「在她面前打手槍」她拍片留證據，她是受害者「卻要坐牢」！" title="男司機「在她面前打手槍」她拍片留證據，她是受害者「卻要坐牢」！% 照片"  />                      <div class="flex-caption">
+                        <p class="slidertitle">男司機「在她面前打手槍」她拍片留證據，她是受害者「卻要坐牢」！</p>
+                      </div>
+                    </a> 
+                  </li>
+                                    <li data-thumb="http://www.teepr.com/wp-content/uploads/2017/05/超美-191x120.jpg"> 
+                    <a href="http://www.teepr.com/700728/jillhsiao/%e6%97%a5%e6%9c%ac%e6%a3%8b%e6%89%8b%e9%a6%99%e5%b7%9d%e6%84%9b%e7%94%9f%e8%ae%8a%e5%8c%96/">
+                      <img width="601" height="220" src="http://www.teepr.com/wp-content/uploads/2017/05/超美-601x220.jpg" class="attachment-slider size-slider wp-post-image" alt="日本女棋手15歲出道被譏「像男人」，9年後神進化根本是「郭雪芙+邵庭」甜美女神！" title="日本女棋手15歲出道被譏「像男人」，9年後神進化根本是「郭雪芙+邵庭」甜美女神！% 照片"  />                      <div class="flex-caption">
+                        <p class="slidertitle">日本女棋手15歲出道被譏「像男人」，9年後神進化根本是「郭雪芙+邵庭」甜美女神！</p>
+                      </div>
+                    </a> 
+                  </li>
+                                    <li data-thumb="http://www.teepr.com/wp-content/uploads/2017/05/網友自白性侵家教女學生-191x120.jpg"> 
+                    <a href="http://www.teepr.com/700973/jillhsiao/%e7%b6%b2%e5%8f%8b%e8%87%aa%e7%99%bd%e6%80%a7%e4%be%b5%e5%ae%b6%e6%95%99%e5%a5%b3%e5%ad%b8%e7%94%9f/">
+                      <img width="601" height="220" src="http://www.teepr.com/wp-content/uploads/2017/05/網友自白性侵家教女學生-601x220.jpg" class="attachment-slider size-slider wp-post-image" alt="男子PO文自白「性侵了家教學生」希望求得原諒，結果發現真的想太美了！" title="男子PO文自白「性侵了家教學生」希望求得原諒，結果發現真的想太美了！% 照片"  />                      <div class="flex-caption">
+                        <p class="slidertitle">男子PO文自白「性侵了家教學生」希望求得原諒，結果發現真的想太美了！</p>
+                      </div>
+                    </a> 
+                  </li>
+                                    <li data-thumb="http://www.teepr.com/wp-content/uploads/2017/05/小強巧克力-191x120.jpg"> 
+                    <a href="http://www.teepr.com/701022/jonhsieh/%e5%b7%a7%e5%85%8b%e5%8a%9b%e8%a3%a1%e9%9d%a2%e7%99%bc%e7%8f%be%e5%b0%8f%e5%bc%b7/">
+                      <img width="601" height="220" src="http://www.teepr.com/wp-content/uploads/2017/05/小強巧克力-601x220.jpg" class="attachment-slider size-slider wp-post-image" alt="男子開心打開巧克力來吃後，咬4口後才發現吃到「中國小強」瞬間崩潰！" title="男子開心打開巧克力來吃後，咬4口後才發現吃到「中國小強」瞬間崩潰！% 照片"  />                      <div class="flex-caption">
+                        <p class="slidertitle">男子開心打開巧克力來吃後，咬4口後才發現吃到「中國小強」瞬間崩潰！</p>
+                      </div>
+                    </a> 
+                  </li>
+                                  </ul>
+              </div>
+            </div>
+          </div>
+          <!-- slider-container -->
+                                  <div id="ajax-load-more" class="ajax-load-more-wrap default"  data-alm-id="" data-canonical-url="http://www.teepr.com/" data-slug="home" data-post-id="701253" ><div class="alm-listing alm-preloaded  " data-total-posts="33753"><article class="latestPost excerpt  ">
+<a href="http://www.teepr.com/701253/jonhsieh/26%e5%bc%b5%e6%9f%af%e5%9f%ba%e6%b7%b7%e8%a1%80%e5%85%92%e7%85%a7/" title="26種不同的「會讓人想抱臉尖叫」超萌柯基混血兒。#6 跟鬆獅混太可愛啦！" rel="nofollow" id="featured-thumbnail" class="clearfix">
+<div class="featured-thumbnail"><img width="430" height="225" src="http://www.teepr.com/wp-content/uploads/2017/05/柯基混-430x225.jpg" class="attachment-biggerthumb size-biggerthumb wp-post-image" alt="26種不同的「會讓人想抱臉尖叫」超萌柯基混血兒。#6 跟鬆獅混太可愛啦！" title="26種不同的「會讓人想抱臉尖叫」超萌柯基混血兒。#6 跟鬆獅混太可愛啦！% 照片" srcset="http://www.teepr.com/wp-content/uploads/2017/05/柯基混-430x225.jpg 430w, http://www.teepr.com/wp-content/uploads/2017/05/柯基混-300x157.jpg 300w, http://www.teepr.com/wp-content/uploads/2017/05/柯基混.jpg 800w, http://www.teepr.com/wp-content/uploads/2017/05/柯基混-480x250.jpg 480w" sizes="(max-width: 430px) 100vw, 430px" /></div></a>
+<header>
+<h2 class="title front-view-title"><a href="http://www.teepr.com/701253/jonhsieh/26%e5%bc%b5%e6%9f%af%e5%9f%ba%e6%b7%b7%e8%a1%80%e5%85%92%e7%85%a7/" title="26種不同的「會讓人想抱臉尖叫」超萌柯基混血兒。#6 跟鬆獅混太可愛啦！">26種不同的「會讓人想抱臉尖叫」超萌柯基混血兒。#6 跟鬆獅混太可愛啦！</a></h2>
+<div class="post-info">
+<div class="thetime updated"><i class="icon-calendar"></i> May 9, 2017</div>
+<div class="thecategory"><i class="icon-tags"></i> <a href="http://www.teepr.com/category/%e5%8b%95%e7%89%a9/" rel="nofollow">動物</a>, <a href="http://www.teepr.com/category/%e7%94%9f%e6%b4%bb/" rel="nofollow">生活</a>, <a href="http://www.teepr.com/category/%e9%a9%9a%e5%a5%87/" rel="nofollow">驚奇</a>, <a href="http://www.teepr.com/category/%e5%8f%af%e6%84%9b/" rel="nofollow">可愛</a>, <a href="http://www.teepr.com/category/%e5%9c%96%e7%89%87/" rel="nofollow">圖片</a></div>
+</div>
+</header>
+</article><!--.post excerpt--><article class="latestPost excerpt  ">
+<a href="http://www.teepr.com/700843/jillhsiao/%e9%83%ad%e5%86%a0%e8%8b%b1%e6%8c%bac%e5%b8%ab/" title="郭冠英力挺C師「正人君子做好事」！狂言「性侵沒抓到就合法、台南女兒就不能侵犯？」" rel="nofollow" id="featured-thumbnail" class="clearfix">
+<div class="featured-thumbnail"><img width="430" height="225" src="http://www.teepr.com/wp-content/uploads/2017/05/郭冠英挺C師-430x225.jpg" class="attachment-biggerthumb size-biggerthumb wp-post-image" alt="郭冠英力挺C師「正人君子做好事」！狂言「性侵沒抓到就合法、台南女兒就不能侵犯？」" title="郭冠英力挺C師「正人君子做好事」！狂言「性侵沒抓到就合法、台南女兒就不能侵犯？」% 照片" srcset="http://www.teepr.com/wp-content/uploads/2017/05/郭冠英挺C師-430x225.jpg 430w, http://www.teepr.com/wp-content/uploads/2017/05/郭冠英挺C師-300x157.jpg 300w, http://www.teepr.com/wp-content/uploads/2017/05/郭冠英挺C師.jpg 800w, http://www.teepr.com/wp-content/uploads/2017/05/郭冠英挺C師-480x250.jpg 480w" sizes="(max-width: 430px) 100vw, 430px" /></div></a>
+<header>
+<h2 class="title front-view-title"><a href="http://www.teepr.com/700843/jillhsiao/%e9%83%ad%e5%86%a0%e8%8b%b1%e6%8c%bac%e5%b8%ab/" title="郭冠英力挺C師「正人君子做好事」！狂言「性侵沒抓到就合法、台南女兒就不能侵犯？」">郭冠英力挺C師「正人君子做好事」！狂言「性侵沒抓到就合法、台南女兒就不能侵犯？」</a></h2>
+<div class="post-info">
+<div class="thetime updated"><i class="icon-calendar"></i> May 9, 2017</div>
+<div class="thecategory"><i class="icon-tags"></i> <a href="http://www.teepr.com/category/%e9%a9%9a%e5%a5%87/%e7%a4%be%e6%9c%83/" rel="nofollow">社會</a>, <a href="http://www.teepr.com/category/%e5%8f%af%e6%83%a1/" rel="nofollow">可惡</a>, <a href="http://www.teepr.com/category/%e6%96%b0%e8%81%9e/" rel="nofollow">新聞</a></div>
+</div>
+</header>
+</article><!--.post excerpt--><article class="latestPost excerpt  ">
+<a href="http://www.teepr.com/700627/cindyleung/7%e9%83%a8%e9%9d%9e%e5%b8%b8%e5%9a%87%e4%ba%ba%e4%bd%86%e4%b9%9f%e8%b6%85%e5%a5%bd%e7%9c%8b%e3%80%8c2017%e5%b9%b4%e6%9c%80wtf%e6%81%90%e6%80%96%e9%9b%bb%e5%bd%b1%e3%80%8d%e3%80%824-%e8%a7%80%e7%9c%be/" title="7部非常嚇人但也超好看「2017年最WTF恐怖電影」。#4 觀眾被嚇暈要緊急送院&#8230;" rel="nofollow" id="featured-thumbnail" class="clearfix">
+<div class="featured-thumbnail"><img width="430" height="225" src="http://www.teepr.com/wp-content/uploads/2017/05/未命名-1-48-430x225.jpg" class="attachment-biggerthumb size-biggerthumb wp-post-image" alt="7部非常嚇人但也超好看「2017年最WTF恐怖電影」。#4 觀眾被嚇暈要緊急送院..." title="7部非常嚇人但也超好看「2017年最WTF恐怖電影」。#4 觀眾被嚇暈要緊急送院...% 照片" srcset="http://www.teepr.com/wp-content/uploads/2017/05/未命名-1-48-430x225.jpg 430w, http://www.teepr.com/wp-content/uploads/2017/05/未命名-1-48-300x157.jpg 300w, http://www.teepr.com/wp-content/uploads/2017/05/未命名-1-48.jpg 800w, http://www.teepr.com/wp-content/uploads/2017/05/未命名-1-48-480x250.jpg 480w" sizes="(max-width: 430px) 100vw, 430px" /></div></a>
+<header>
+<h2 class="title front-view-title"><a href="http://www.teepr.com/700627/cindyleung/7%e9%83%a8%e9%9d%9e%e5%b8%b8%e5%9a%87%e4%ba%ba%e4%bd%86%e4%b9%9f%e8%b6%85%e5%a5%bd%e7%9c%8b%e3%80%8c2017%e5%b9%b4%e6%9c%80wtf%e6%81%90%e6%80%96%e9%9b%bb%e5%bd%b1%e3%80%8d%e3%80%824-%e8%a7%80%e7%9c%be/" title="7部非常嚇人但也超好看「2017年最WTF恐怖電影」。#4 觀眾被嚇暈要緊急送院&#8230;">7部非常嚇人但也超好看「2017年最WTF恐怖電影」。#4 觀眾被嚇暈要緊急送院&#8230;</a></h2>
+<div class="post-info">
+<div class="thetime updated"><i class="icon-calendar"></i> May 9, 2017</div>
+<div class="thecategory"><i class="icon-tags"></i> <a href="http://www.teepr.com/category/%e9%a9%9a%e5%a5%87/" rel="nofollow">驚奇</a>, <a href="http://www.teepr.com/category/%e6%81%90%e6%80%96/" rel="nofollow">恐怖</a>, <a href="http://www.teepr.com/category/%e7%88%86%e7%ac%91/" rel="nofollow">爆笑</a></div>
+</div>
+</header>
+</article><!--.post excerpt--><article class="latestPost excerpt  ">
+<a href="http://www.teepr.com/700487/cindyleung/%e7%94%b7%e5%8f%b8%e6%a9%9f%e5%9c%a8%e5%a5%b9%e9%9d%a2%e5%89%8d%e6%89%93%e6%89%8b%e6%a7%8d%e5%a5%b9%e6%8b%8d%e7%89%87%e7%95%99%e8%ad%89%e6%93%9a/" title="男司機「在她面前打手槍」她拍片留證據，她是受害者「卻要坐牢」！" rel="nofollow" id="featured-thumbnail" class="clearfix">
+<div class="featured-thumbnail"><img width="430" height="225" src="http://www.teepr.com/wp-content/uploads/2017/05/未命名-1-45-430x225.jpg" class="attachment-biggerthumb size-biggerthumb wp-post-image" alt="男司機「在她面前打手槍」她拍片留證據，她是受害者「卻要坐牢」！" title="男司機「在她面前打手槍」她拍片留證據，她是受害者「卻要坐牢」！% 照片" srcset="http://www.teepr.com/wp-content/uploads/2017/05/未命名-1-45-430x225.jpg 430w, http://www.teepr.com/wp-content/uploads/2017/05/未命名-1-45-300x157.jpg 300w, http://www.teepr.com/wp-content/uploads/2017/05/未命名-1-45.jpg 800w, http://www.teepr.com/wp-content/uploads/2017/05/未命名-1-45-480x250.jpg 480w" sizes="(max-width: 430px) 100vw, 430px" /></div></a>
+<header>
+<h2 class="title front-view-title"><a href="http://www.teepr.com/700487/cindyleung/%e7%94%b7%e5%8f%b8%e6%a9%9f%e5%9c%a8%e5%a5%b9%e9%9d%a2%e5%89%8d%e6%89%93%e6%89%8b%e6%a7%8d%e5%a5%b9%e6%8b%8d%e7%89%87%e7%95%99%e8%ad%89%e6%93%9a/" title="男司機「在她面前打手槍」她拍片留證據，她是受害者「卻要坐牢」！">男司機「在她面前打手槍」她拍片留證據，她是受害者「卻要坐牢」！</a></h2>
+<div class="post-info">
+<div class="thetime updated"><i class="icon-calendar"></i> May 9, 2017</div>
+<div class="thecategory"><i class="icon-tags"></i> <a href="http://www.teepr.com/category/%e9%a9%9a%e5%a5%87/" rel="nofollow">驚奇</a>, <a href="http://www.teepr.com/category/%e9%a9%9a%e5%a5%87/%e7%a4%be%e6%9c%83/" rel="nofollow">社會</a>, <a href="http://www.teepr.com/category/%e6%96%b0%e8%81%9e/" rel="nofollow">新聞</a></div>
+</div>
+</header>
+</article><!--.post excerpt--><article class="latestPost excerpt  ">
+<a href="http://www.teepr.com/701261/jillhsiao/%e8%a2%ab%e5%bc%b7%e6%9a%b4%e5%a5%b3%e5%ad%a9%e7%9a%84%e5%85%a7%e5%bf%83%e6%95%85%e4%ba%8b/" title="我在被強暴後的隔天早上，幫強暴了我的人做了一頓早餐&#8230;" rel="nofollow" id="featured-thumbnail" class="clearfix">
+<div class="featured-thumbnail"><img width="430" height="225" src="http://www.teepr.com/wp-content/uploads/2017/05/被強暴女孩的內心故事-430x225.jpg" class="attachment-biggerthumb size-biggerthumb wp-post-image" alt="我在被強暴後的隔天早上，幫強暴了我的人做了一頓早餐..." title="我在被強暴後的隔天早上，幫強暴了我的人做了一頓早餐...% 照片" srcset="http://www.teepr.com/wp-content/uploads/2017/05/被強暴女孩的內心故事-430x225.jpg 430w, http://www.teepr.com/wp-content/uploads/2017/05/被強暴女孩的內心故事-300x157.jpg 300w, http://www.teepr.com/wp-content/uploads/2017/05/被強暴女孩的內心故事.jpg 800w, http://www.teepr.com/wp-content/uploads/2017/05/被強暴女孩的內心故事-480x250.jpg 480w" sizes="(max-width: 430px) 100vw, 430px" /></div></a>
+<header>
+<h2 class="title front-view-title"><a href="http://www.teepr.com/701261/jillhsiao/%e8%a2%ab%e5%bc%b7%e6%9a%b4%e5%a5%b3%e5%ad%a9%e7%9a%84%e5%85%a7%e5%bf%83%e6%95%85%e4%ba%8b/" title="我在被強暴後的隔天早上，幫強暴了我的人做了一頓早餐&#8230;">我在被強暴後的隔天早上，幫強暴了我的人做了一頓早餐&#8230;</a></h2>
+<div class="post-info">
+<div class="thetime updated"><i class="icon-calendar"></i> May 9, 2017</div>
+<div class="thecategory"><i class="icon-tags"></i> <a href="http://www.teepr.com/category/%e5%a5%b3%e6%80%a7%e5%b0%88%e5%8d%80/" rel="nofollow">女性</a>, <a href="http://www.teepr.com/category/%e7%94%9f%e6%b4%bb/%e5%bf%83%e7%90%86/" rel="nofollow">心理</a>, <a href="http://www.teepr.com/category/%e8%97%9d%e8%a1%93/%e5%8b%95%e6%bc%ab/" rel="nofollow">動漫</a></div>
+</div>
+</header>
+</article><!--.post excerpt--><article class="latestPost excerpt  ">
+<a href="http://www.teepr.com/700729/jonhsieh/%e6%9c%80%e9%81%a9%e5%90%88%e6%af%8d%e8%a6%aa%e7%af%80%e7%9a%84%e7%9c%bc%e9%8f%a1%e5%8d%a1%e7%89%87/" title="美國最大色網站P*rnhub推出最適合母親節的「眼鏡卡片」，讓她可以跟你的老爸說掰掰！" rel="nofollow" id="featured-thumbnail" class="clearfix">
+<div class="featured-thumbnail"><img width="430" height="225" src="http://www.teepr.com/wp-content/uploads/2017/05/母親節禮物-430x225.jpg" class="attachment-biggerthumb size-biggerthumb wp-post-image" alt="美國最大色網站P*rnhub推出最適合母親節的「眼鏡卡片」，讓她可以跟你的老爸說掰掰！" title="美國最大色網站P*rnhub推出最適合母親節的「眼鏡卡片」，讓她可以跟你的老爸說掰掰！% 照片" srcset="http://www.teepr.com/wp-content/uploads/2017/05/母親節禮物-430x225.jpg 430w, http://www.teepr.com/wp-content/uploads/2017/05/母親節禮物-300x157.jpg 300w, http://www.teepr.com/wp-content/uploads/2017/05/母親節禮物.jpg 800w, http://www.teepr.com/wp-content/uploads/2017/05/母親節禮物-480x250.jpg 480w" sizes="(max-width: 430px) 100vw, 430px" /></div></a>
+<header>
+<h2 class="title front-view-title"><a href="http://www.teepr.com/700729/jonhsieh/%e6%9c%80%e9%81%a9%e5%90%88%e6%af%8d%e8%a6%aa%e7%af%80%e7%9a%84%e7%9c%bc%e9%8f%a1%e5%8d%a1%e7%89%87/" title="美國最大色網站P*rnhub推出最適合母親節的「眼鏡卡片」，讓她可以跟你的老爸說掰掰！">美國最大色網站P*rnhub推出最適合母親節的「眼鏡卡片」，讓她可以跟你的老爸說掰掰！</a></h2>
+<div class="post-info">
+<div class="thetime updated"><i class="icon-calendar"></i> May 9, 2017</div>
+<div class="thecategory"><i class="icon-tags"></i> <a href="http://www.teepr.com/category/%e7%94%9f%e6%b4%bb/" rel="nofollow">生活</a>, <a href="http://www.teepr.com/category/%e9%a9%9a%e5%a5%87/" rel="nofollow">驚奇</a>, <a href="http://www.teepr.com/category/%e5%bd%b1%e7%89%87/" rel="nofollow">影片</a>, <a href="http://www.teepr.com/category/%e7%88%86%e7%ac%91/%e6%83%a1%e4%bd%9c%e5%8a%87/" rel="nofollow">惡作劇</a>, <a href="http://www.teepr.com/category/%e7%88%86%e7%ac%91/" rel="nofollow">爆笑</a></div>
+</div>
+</header>
+</article><!--.post excerpt--><article class="latestPost excerpt  ">
+<a href="http://www.teepr.com/700842/jonhsieh/%e7%89%a0%e6%9c%80%e6%96%b0%e9%a0%90%e5%91%8a%e7%ac%ac%e4%ba%8c%e7%89%88/" title="經典驚悚電影《牠》最新預告，1:33最經典畫面重現讓人會睡不著覺！" rel="nofollow" id="featured-thumbnail" class="clearfix">
+<div class="featured-thumbnail"><img width="430" height="225" src="http://www.teepr.com/wp-content/uploads/2017/05/IT-430x225.jpg" class="attachment-biggerthumb size-biggerthumb wp-post-image" alt="經典驚悚電影《牠》最新預告，1:33最經典畫面重現讓人會睡不著覺！" title="經典驚悚電影《牠》最新預告，1:33最經典畫面重現讓人會睡不著覺！% 照片" srcset="http://www.teepr.com/wp-content/uploads/2017/05/IT-430x225.jpg 430w, http://www.teepr.com/wp-content/uploads/2017/05/IT-300x157.jpg 300w, http://www.teepr.com/wp-content/uploads/2017/05/IT.jpg 800w, http://www.teepr.com/wp-content/uploads/2017/05/IT-480x250.jpg 480w" sizes="(max-width: 430px) 100vw, 430px" /></div></a>
+<header>
+<h2 class="title front-view-title"><a href="http://www.teepr.com/700842/jonhsieh/%e7%89%a0%e6%9c%80%e6%96%b0%e9%a0%90%e5%91%8a%e7%ac%ac%e4%ba%8c%e7%89%88/" title="經典驚悚電影《牠》最新預告，1:33最經典畫面重現讓人會睡不著覺！">經典驚悚電影《牠》最新預告，1:33最經典畫面重現讓人會睡不著覺！</a></h2>
+<div class="post-info">
+<div class="thetime updated"><i class="icon-calendar"></i> May 9, 2017</div>
+<div class="thecategory"><i class="icon-tags"></i> <a href="http://www.teepr.com/category/%e7%94%9f%e6%b4%bb/" rel="nofollow">生活</a>, <a href="http://www.teepr.com/category/%e9%a9%9a%e5%a5%87/" rel="nofollow">驚奇</a>, <a href="http://www.teepr.com/category/%e5%bd%b1%e7%89%87/" rel="nofollow">影片</a>, <a href="http://www.teepr.com/category/%e5%bd%b1%e7%89%87/%e9%a0%90%e5%91%8a%e7%89%87/" rel="nofollow">預告片</a>, <a href="http://www.teepr.com/category/%e6%81%90%e6%80%96/" rel="nofollow">恐怖</a></div>
+</div>
+</header>
+</article><!--.post excerpt--><article class="latestPost excerpt  ">
+<a href="http://www.teepr.com/700728/jillhsiao/%e6%97%a5%e6%9c%ac%e6%a3%8b%e6%89%8b%e9%a6%99%e5%b7%9d%e6%84%9b%e7%94%9f%e8%ae%8a%e5%8c%96/" title="日本女棋手15歲出道被譏「像男人」，9年後神進化根本是「郭雪芙+邵庭」甜美女神！" rel="nofollow" id="featured-thumbnail" class="clearfix">
+<div class="featured-thumbnail"><img width="430" height="225" src="http://www.teepr.com/wp-content/uploads/2017/05/超美-430x225.jpg" class="attachment-biggerthumb size-biggerthumb wp-post-image" alt="日本女棋手15歲出道被譏「像男人」，9年後神進化根本是「郭雪芙+邵庭」甜美女神！" title="日本女棋手15歲出道被譏「像男人」，9年後神進化根本是「郭雪芙+邵庭」甜美女神！% 照片" srcset="http://www.teepr.com/wp-content/uploads/2017/05/超美-430x225.jpg 430w, http://www.teepr.com/wp-content/uploads/2017/05/超美-300x157.jpg 300w, http://www.teepr.com/wp-content/uploads/2017/05/超美.jpg 800w, http://www.teepr.com/wp-content/uploads/2017/05/超美-480x250.jpg 480w" sizes="(max-width: 430px) 100vw, 430px" /></div></a>
+<header>
+<h2 class="title front-view-title"><a href="http://www.teepr.com/700728/jillhsiao/%e6%97%a5%e6%9c%ac%e6%a3%8b%e6%89%8b%e9%a6%99%e5%b7%9d%e6%84%9b%e7%94%9f%e8%ae%8a%e5%8c%96/" title="日本女棋手15歲出道被譏「像男人」，9年後神進化根本是「郭雪芙+邵庭」甜美女神！">日本女棋手15歲出道被譏「像男人」，9年後神進化根本是「郭雪芙+邵庭」甜美女神！</a></h2>
+<div class="post-info">
+<div class="thetime updated"><i class="icon-calendar"></i> May 9, 2017</div>
+<div class="thecategory"><i class="icon-tags"></i> <a href="http://www.teepr.com/category/%e5%a5%b3%e6%80%a7%e5%b0%88%e5%8d%80/" rel="nofollow">女性</a>, <a href="http://www.teepr.com/category/%e9%a9%9a%e5%a5%87/" rel="nofollow">驚奇</a>, <a href="http://www.teepr.com/category/%e5%b8%a5%e5%93%a5%e6%ad%a3%e5%a6%b9/" rel="nofollow">帥哥正妹</a>, <a href="http://www.teepr.com/category/%e6%96%b0%e8%81%9e/" rel="nofollow">新聞</a></div>
+</div>
+</header>
+</article><!--.post excerpt--><article class="latestPost excerpt  ">
+<a href="http://www.teepr.com/700826/jonhsieh/%e8%bf%b7%e9%9c%a7%e9%a9%9a%e9%ad%82%e5%bd%b1%e9%9b%86%e9%a0%90%e5%91%8a/" title="恐怖大師史蒂芬金小說《迷霧驚魂》最新影集預告，超血腥暴力程度絕對會比《陰屍路》還要精采！" rel="nofollow" id="featured-thumbnail" class="clearfix">
+<div class="featured-thumbnail"><img width="430" height="225" src="http://www.teepr.com/wp-content/uploads/2017/05/迷霧驚魂-430x225.jpg" class="attachment-biggerthumb size-biggerthumb wp-post-image" alt="恐怖大師史蒂芬金小說《迷霧驚魂》最新影集預告，超血腥暴力程度絕對會比《陰屍路》還要精采！" title="恐怖大師史蒂芬金小說《迷霧驚魂》最新影集預告，超血腥暴力程度絕對會比《陰屍路》還要精采！% 照片" srcset="http://www.teepr.com/wp-content/uploads/2017/05/迷霧驚魂-430x225.jpg 430w, http://www.teepr.com/wp-content/uploads/2017/05/迷霧驚魂-300x157.jpg 300w, http://www.teepr.com/wp-content/uploads/2017/05/迷霧驚魂.jpg 800w, http://www.teepr.com/wp-content/uploads/2017/05/迷霧驚魂-480x250.jpg 480w" sizes="(max-width: 430px) 100vw, 430px" /></div></a>
+<header>
+<h2 class="title front-view-title"><a href="http://www.teepr.com/700826/jonhsieh/%e8%bf%b7%e9%9c%a7%e9%a9%9a%e9%ad%82%e5%bd%b1%e9%9b%86%e9%a0%90%e5%91%8a/" title="恐怖大師史蒂芬金小說《迷霧驚魂》最新影集預告，超血腥暴力程度絕對會比《陰屍路》還要精采！">恐怖大師史蒂芬金小說《迷霧驚魂》最新影集預告，超血腥暴力程度絕對會比《陰屍路》還要精采！</a></h2>
+<div class="post-info">
+<div class="thetime updated"><i class="icon-calendar"></i> May 9, 2017</div>
+<div class="thecategory"><i class="icon-tags"></i> <a href="http://www.teepr.com/category/%e7%94%9f%e6%b4%bb/" rel="nofollow">生活</a>, <a href="http://www.teepr.com/category/%e9%a9%9a%e5%a5%87/" rel="nofollow">驚奇</a>, <a href="http://www.teepr.com/category/%e5%bd%b1%e7%89%87/" rel="nofollow">影片</a>, <a href="http://www.teepr.com/category/%e5%bd%b1%e7%89%87/%e9%a0%90%e5%91%8a%e7%89%87/" rel="nofollow">預告片</a>, <a href="http://www.teepr.com/category/%e6%81%90%e6%80%96/" rel="nofollow">恐怖</a></div>
+</div>
+</header>
+</article><!--.post excerpt--><article class="latestPost excerpt  ">
+<a href="http://www.teepr.com/700873/jonhsieh/25%e5%bc%b53d%e8%88%872d%e8%9e%8d%e5%90%88%e7%9a%84%e8%a6%96%e8%a6%ba%e6%93%be%e4%ba%82%e4%bd%9c%e5%93%81/" title="25張「你看3次都看不出是怎麼辦到」的超狂2D變3D驚人視覺擾亂作品！#14 水怎麼消失的&#8230;" rel="nofollow" id="featured-thumbnail" class="clearfix">
+<div class="featured-thumbnail"><img width="430" height="225" src="http://www.teepr.com/wp-content/uploads/2017/05/藝術-430x225.jpg" class="attachment-biggerthumb size-biggerthumb wp-post-image" alt="25張「你看3次都看不出是怎麼辦到」的超狂2D變3D驚人視覺擾亂作品！#14 水怎麼消失的..." title="25張「你看3次都看不出是怎麼辦到」的超狂2D變3D驚人視覺擾亂作品！#14 水怎麼消失的...% 照片" srcset="http://www.teepr.com/wp-content/uploads/2017/05/藝術-430x225.jpg 430w, http://www.teepr.com/wp-content/uploads/2017/05/藝術-300x157.jpg 300w, http://www.teepr.com/wp-content/uploads/2017/05/藝術.jpg 800w, http://www.teepr.com/wp-content/uploads/2017/05/藝術-480x250.jpg 480w" sizes="(max-width: 430px) 100vw, 430px" /></div></a>
+<header>
+<h2 class="title front-view-title"><a href="http://www.teepr.com/700873/jonhsieh/25%e5%bc%b53d%e8%88%872d%e8%9e%8d%e5%90%88%e7%9a%84%e8%a6%96%e8%a6%ba%e6%93%be%e4%ba%82%e4%bd%9c%e5%93%81/" title="25張「你看3次都看不出是怎麼辦到」的超狂2D變3D驚人視覺擾亂作品！#14 水怎麼消失的&#8230;">25張「你看3次都看不出是怎麼辦到」的超狂2D變3D驚人視覺擾亂作品！#14 水怎麼消失的&#8230;</a></h2>
+<div class="post-info">
+<div class="thetime updated"><i class="icon-calendar"></i> May 9, 2017</div>
+<div class="thecategory"><i class="icon-tags"></i> <a href="http://www.teepr.com/category/%e8%97%9d%e8%a1%93/" rel="nofollow">藝術</a>, <a href="http://www.teepr.com/category/%e7%94%9f%e6%b4%bb/" rel="nofollow">生活</a>, <a href="http://www.teepr.com/category/%e9%a9%9a%e5%a5%87/" rel="nofollow">驚奇</a>, <a href="http://www.teepr.com/category/%e5%9c%96%e7%89%87/" rel="nofollow">圖片</a></div>
+</div>
+</header>
+</article><!--.post excerpt--><article class="latestPost excerpt  ">
+<a href="http://www.teepr.com/700850/cindyleung/%e3%80%8a%e9%80%83%e5%87%ba%e7%b5%95%e5%91%bd%e9%8e%ae%e3%80%8b%e6%9c%ac%e4%be%86%e7%9a%84%e7%b5%90%e5%b1%80%e5%85%b6%e5%af%a6%e8%b6%85%e9%bb%91%e6%9a%97/" title="《逃出絕命鎮》本來的結局其實超黑暗！編劇兼導演透露：「只因觀眾需要英雄！」" rel="nofollow" id="featured-thumbnail" class="clearfix">
+<div class="featured-thumbnail"><img width="430" height="225" src="http://www.teepr.com/wp-content/uploads/2017/05/未命名-1-51-430x225.jpg" class="attachment-biggerthumb size-biggerthumb wp-post-image" alt="《逃出絕命鎮》本來的結局其實超黑暗！編劇兼導演透露：「只因觀眾需要英雄！」" title="《逃出絕命鎮》本來的結局其實超黑暗！編劇兼導演透露：「只因觀眾需要英雄！」% 照片" srcset="http://www.teepr.com/wp-content/uploads/2017/05/未命名-1-51-430x225.jpg 430w, http://www.teepr.com/wp-content/uploads/2017/05/未命名-1-51-300x157.jpg 300w, http://www.teepr.com/wp-content/uploads/2017/05/未命名-1-51.jpg 800w, http://www.teepr.com/wp-content/uploads/2017/05/未命名-1-51-480x250.jpg 480w" sizes="(max-width: 430px) 100vw, 430px" /></div></a>
+<header>
+<h2 class="title front-view-title"><a href="http://www.teepr.com/700850/cindyleung/%e3%80%8a%e9%80%83%e5%87%ba%e7%b5%95%e5%91%bd%e9%8e%ae%e3%80%8b%e6%9c%ac%e4%be%86%e7%9a%84%e7%b5%90%e5%b1%80%e5%85%b6%e5%af%a6%e8%b6%85%e9%bb%91%e6%9a%97/" title="《逃出絕命鎮》本來的結局其實超黑暗！編劇兼導演透露：「只因觀眾需要英雄！」">《逃出絕命鎮》本來的結局其實超黑暗！編劇兼導演透露：「只因觀眾需要英雄！」</a></h2>
+<div class="post-info">
+<div class="thetime updated"><i class="icon-calendar"></i> May 9, 2017</div>
+<div class="thecategory"><i class="icon-tags"></i> <a href="http://www.teepr.com/category/%e9%a9%9a%e5%a5%87/" rel="nofollow">驚奇</a>, <a href="http://www.teepr.com/category/%e6%81%90%e6%80%96/" rel="nofollow">恐怖</a>, <a href="http://www.teepr.com/category/%e7%88%86%e7%ac%91/" rel="nofollow">爆笑</a></div>
+</div>
+</header>
+</article><!--.post excerpt--><article class="latestPost excerpt  ">
+<a href="http://www.teepr.com/700938/jonhsieh/%e9%a6%ae%e8%bf%aa%e7%b4%a2%e5%b9%ab%e5%b0%8f%e6%a0%bc%e9%ad%af%e7%89%b9%e9%85%8d%e9%9f%b3%e7%95%ab%e9%9d%a2/" title="馮迪索幫「小格魯特」配音畫面曝光，本以為超簡單發現其實是「最難的」！" rel="nofollow" id="featured-thumbnail" class="clearfix">
+<div class="featured-thumbnail"><img width="430" height="225" src="http://www.teepr.com/wp-content/uploads/2017/05/小格魯特-430x225.jpg" class="attachment-biggerthumb size-biggerthumb wp-post-image" alt="馮迪索幫「小格魯特」配音畫面曝光，本以為超簡單發現其實是「最難的」！" title="馮迪索幫「小格魯特」配音畫面曝光，本以為超簡單發現其實是「最難的」！% 照片" srcset="http://www.teepr.com/wp-content/uploads/2017/05/小格魯特-430x225.jpg 430w, http://www.teepr.com/wp-content/uploads/2017/05/小格魯特-300x157.jpg 300w, http://www.teepr.com/wp-content/uploads/2017/05/小格魯特.jpg 800w, http://www.teepr.com/wp-content/uploads/2017/05/小格魯特-480x250.jpg 480w" sizes="(max-width: 430px) 100vw, 430px" /></div></a>
+<header>
+<h2 class="title front-view-title"><a href="http://www.teepr.com/700938/jonhsieh/%e9%a6%ae%e8%bf%aa%e7%b4%a2%e5%b9%ab%e5%b0%8f%e6%a0%bc%e9%ad%af%e7%89%b9%e9%85%8d%e9%9f%b3%e7%95%ab%e9%9d%a2/" title="馮迪索幫「小格魯特」配音畫面曝光，本以為超簡單發現其實是「最難的」！">馮迪索幫「小格魯特」配音畫面曝光，本以為超簡單發現其實是「最難的」！</a></h2>
+<div class="post-info">
+<div class="thetime updated"><i class="icon-calendar"></i> May 9, 2017</div>
+<div class="thecategory"><i class="icon-tags"></i> <a href="http://www.teepr.com/category/%e7%94%9f%e6%b4%bb/" rel="nofollow">生活</a>, <a href="http://www.teepr.com/category/%e9%a9%9a%e5%a5%87/" rel="nofollow">驚奇</a>, <a href="http://www.teepr.com/category/%e5%bd%b1%e7%89%87/" rel="nofollow">影片</a>, <a href="http://www.teepr.com/category/%e5%a8%9b%e6%a8%82/" rel="nofollow">娛樂</a></div>
+</div>
+</header>
+</article><!--.post excerpt--></div><div class="alm-listing alm-ajax   " data-cache="true" data-cache-id="6340687828" data-cache-path="http://www.teepr.com/wp-content/plugins/ajax-load-more-cache/_cache/6340687828" data-preloaded="true" data-preloaded-amount="12" data-repeater="template_2" data-post-type="post" data-sticky-posts="" data-post-format="" data-category="" data-category-not-in="" data-tag="" data-tag-not-in="" data-taxonomy="" data-taxonomy-terms="" data-taxonomy-operator="" data-taxonomy-relation="" data-meta-key="" data-meta-value="" data-meta-compare="" data-meta-relation="" data-meta-type="" data-year="" data-month="" data-day="" data-author="" data-post-in="" data-post-not-in="" data-exclude="" data-search="" data-custom-args="" data-post-status="" data-order="DESC" data-orderby="date" data-offset="0" data-posts-per-page="12" data-lang="" data-scroll="true" data-scroll-distance="150" data-max-pages="0" data-pause-override="false" data-pause="false" data-button-label="載入更多趣味新聞" data-button-class="" data-destroy-after="" data-transition="slide" data-images-loaded="false"></div></div>          </div>
+    <!--Start Pagination-->
+          <div class="pagination">
+        <div id="simple-pagination">
+          <div class="pagination"><span class="pages">跳轉頁面</span><span class="current">1</span><a href="http://www.teepr.com/page/2/">2</a><a href="http://www.teepr.com/page/3/">3</a><a href="http://www.teepr.com/page/4/">4</a><a href="http://www.teepr.com/page/5/">5</a><a href="http://www.teepr.com/page/6/">6</a><a class="next" href="http://www.teepr.com/page/2/">下一頁 ›</a><a class="last" href="http://www.teepr.com/page/2813/">最後一頁 »</a></div>        </div>
+        <div style="overflow:auto;height:0px;display:none;">
+          <div class="nav-previous"><a href="http://www.teepr.com/page/2/" rel="nofollow">&larr; Older posts</a></div>
+          <div class="nav-next"></div>
+        </div>
+      </div>
+        <!--End Pagination-->
+  </div>
+    <div class="index-right">
+    <div class="language-switch-wrapper-index">
+      <div style="display:inline-block"><strong>選擇語言：</strong>
+<div id="wpcc_widget_inner"><!--WPCC_NC_START-->
+	<span id="wpcc_original_link" class="wpcc_current_lang" ><a class="wpcc_link" href="http://www.teepr.com/" title="還原">還原</a></span>
+	<span id="wpcc_zh-hans_link" class="wpcc_lang" ><a class="wpcc_link" rel="nofollow" href="http://www.teepr.com/?variant=zh-hans" title="简体" >简体</a></span>
+	<span id="wpcc_zh-hant_link" class="wpcc_lang" ><a class="wpcc_link" rel="nofollow" href="http://www.teepr.com/?variant=zh-hant" title="繁體" >繁體</a></span>
+<!--WPCC_NC_END--></div>
+</div>
+    </div>
+    <div style="text-align:center;padding-top:10px;"><img style="width:50%;" src="http://www.teepr.com/wp-content/themes/truepixel/images/teepr_current_events.png" /></div>
+    <div id="ajax-load-more-2" class="ajax-load-more-wrap default"  data-alm-id="" data-canonical-url="http://www.teepr.com/" data-slug="home" data-post-id="701253" ><div class="alm-listing alm-preloaded  " data-total-posts="8315"><div class="index-right-post-wrapper">
+  <a rel="nofollow" class="index-right-post" href="http://www.teepr.com/700487/cindyleung/%e7%94%b7%e5%8f%b8%e6%a9%9f%e5%9c%a8%e5%a5%b9%e9%9d%a2%e5%89%8d%e6%89%93%e6%89%8b%e6%a7%8d%e5%a5%b9%e6%8b%8d%e7%89%87%e7%95%99%e8%ad%89%e6%93%9a/" title="男司機「在她面前打手槍」她拍片留證據，她是受害者「卻要坐牢」！">
+    <div class="index-right-post">
+              <div class="featured-thumbnail"><img width="430" height="225" src="http://www.teepr.com/wp-content/uploads/2017/05/未命名-1-45-430x225.jpg" class="attachment-biggerthumb size-biggerthumb wp-post-image" alt="男司機「在她面前打手槍」她拍片留證據，她是受害者「卻要坐牢」！" title="男司機「在她面前打手槍」她拍片留證據，她是受害者「卻要坐牢」！% 照片" srcset="http://www.teepr.com/wp-content/uploads/2017/05/未命名-1-45-430x225.jpg 430w, http://www.teepr.com/wp-content/uploads/2017/05/未命名-1-45-300x157.jpg 300w, http://www.teepr.com/wp-content/uploads/2017/05/未命名-1-45.jpg 800w, http://www.teepr.com/wp-content/uploads/2017/05/未命名-1-45-480x250.jpg 480w" sizes="(max-width: 430px) 100vw, 430px" /></div>            <div class="index-right-post-title">男司機「在她面前打手槍」她拍片留證據，她是受害者「卻要坐牢」！</div>
+    </div>
+    
+  </a>
+</div><div class="index-right-post-wrapper">
+  <a rel="nofollow" class="index-right-post" href="http://www.teepr.com/700728/jillhsiao/%e6%97%a5%e6%9c%ac%e6%a3%8b%e6%89%8b%e9%a6%99%e5%b7%9d%e6%84%9b%e7%94%9f%e8%ae%8a%e5%8c%96/" title="日本女棋手15歲出道被譏「像男人」，9年後神進化根本是「郭雪芙+邵庭」甜美女神！">
+    <div class="index-right-post">
+              <div class="featured-thumbnail"><img width="430" height="225" src="http://www.teepr.com/wp-content/uploads/2017/05/超美-430x225.jpg" class="attachment-biggerthumb size-biggerthumb wp-post-image" alt="日本女棋手15歲出道被譏「像男人」，9年後神進化根本是「郭雪芙+邵庭」甜美女神！" title="日本女棋手15歲出道被譏「像男人」，9年後神進化根本是「郭雪芙+邵庭」甜美女神！% 照片" srcset="http://www.teepr.com/wp-content/uploads/2017/05/超美-430x225.jpg 430w, http://www.teepr.com/wp-content/uploads/2017/05/超美-300x157.jpg 300w, http://www.teepr.com/wp-content/uploads/2017/05/超美.jpg 800w, http://www.teepr.com/wp-content/uploads/2017/05/超美-480x250.jpg 480w" sizes="(max-width: 430px) 100vw, 430px" /></div>            <div class="index-right-post-title">日本女棋手15歲出道被譏「像男人」，9年後神進化根本是「郭雪芙+邵庭」甜美女神！</div>
+    </div>
+    
+  </a>
+</div><div class="index-right-post-wrapper">
+  <a rel="nofollow" class="index-right-post" href="http://www.teepr.com/700973/jillhsiao/%e7%b6%b2%e5%8f%8b%e8%87%aa%e7%99%bd%e6%80%a7%e4%be%b5%e5%ae%b6%e6%95%99%e5%a5%b3%e5%ad%b8%e7%94%9f/" title="男子PO文自白「性侵了家教學生」希望求得原諒，結果發現真的想太美了！">
+    <div class="index-right-post">
+              <div class="featured-thumbnail"><img width="430" height="225" src="http://www.teepr.com/wp-content/uploads/2017/05/網友自白性侵家教女學生-430x225.jpg" class="attachment-biggerthumb size-biggerthumb wp-post-image" alt="男子PO文自白「性侵了家教學生」希望求得原諒，結果發現真的想太美了！" title="男子PO文自白「性侵了家教學生」希望求得原諒，結果發現真的想太美了！% 照片" srcset="http://www.teepr.com/wp-content/uploads/2017/05/網友自白性侵家教女學生-430x225.jpg 430w, http://www.teepr.com/wp-content/uploads/2017/05/網友自白性侵家教女學生-300x157.jpg 300w, http://www.teepr.com/wp-content/uploads/2017/05/網友自白性侵家教女學生.jpg 800w, http://www.teepr.com/wp-content/uploads/2017/05/網友自白性侵家教女學生-480x250.jpg 480w" sizes="(max-width: 430px) 100vw, 430px" /></div>            <div class="index-right-post-title">男子PO文自白「性侵了家教學生」希望求得原諒，結果發現真的想太美了！</div>
+    </div>
+    
+  </a>
+</div><div class="index-right-post-wrapper">
+  <a rel="nofollow" class="index-right-post" href="http://www.teepr.com/701022/jonhsieh/%e5%b7%a7%e5%85%8b%e5%8a%9b%e8%a3%a1%e9%9d%a2%e7%99%bc%e7%8f%be%e5%b0%8f%e5%bc%b7/" title="男子開心打開巧克力來吃後，咬4口後才發現吃到「中國小強」瞬間崩潰！">
+    <div class="index-right-post">
+              <div class="featured-thumbnail"><img width="430" height="225" src="http://www.teepr.com/wp-content/uploads/2017/05/小強巧克力-430x225.jpg" class="attachment-biggerthumb size-biggerthumb wp-post-image" alt="男子開心打開巧克力來吃後，咬4口後才發現吃到「中國小強」瞬間崩潰！" title="男子開心打開巧克力來吃後，咬4口後才發現吃到「中國小強」瞬間崩潰！% 照片" srcset="http://www.teepr.com/wp-content/uploads/2017/05/小強巧克力-430x225.jpg 430w, http://www.teepr.com/wp-content/uploads/2017/05/小強巧克力-300x157.jpg 300w, http://www.teepr.com/wp-content/uploads/2017/05/小強巧克力.jpg 800w, http://www.teepr.com/wp-content/uploads/2017/05/小強巧克力-480x250.jpg 480w" sizes="(max-width: 430px) 100vw, 430px" /></div>            <div class="index-right-post-title">男子開心打開巧克力來吃後，咬4口後才發現吃到「中國小強」瞬間崩潰！</div>
+    </div>
+    
+  </a>
+</div><div class="index-right-post-wrapper">
+  <a rel="nofollow" class="index-right-post" href="http://www.teepr.com/701033/jillhsiao/%e6%ad%90%e5%bc%9f%e5%a5%b3%e5%85%92jojo/" title="不輸咘咘的小美人！歐弟女兒JoJo完美「神基因混血高顏值」眼睛閉起來睫毛超逆天！">
+    <div class="index-right-post">
+              <div class="featured-thumbnail"><img width="430" height="225" src="http://www.teepr.com/wp-content/uploads/2017/05/歐弟女兒JoJo-430x225.jpg" class="attachment-biggerthumb size-biggerthumb wp-post-image" alt="不輸咘咘的小美人！歐弟女兒JoJo完美「神基因混血高顏值」眼睛閉起來睫毛超逆天！" title="不輸咘咘的小美人！歐弟女兒JoJo完美「神基因混血高顏值」眼睛閉起來睫毛超逆天！% 照片" srcset="http://www.teepr.com/wp-content/uploads/2017/05/歐弟女兒JoJo-430x225.jpg 430w, http://www.teepr.com/wp-content/uploads/2017/05/歐弟女兒JoJo-300x157.jpg 300w, http://www.teepr.com/wp-content/uploads/2017/05/歐弟女兒JoJo.jpg 800w, http://www.teepr.com/wp-content/uploads/2017/05/歐弟女兒JoJo-480x250.jpg 480w" sizes="(max-width: 430px) 100vw, 430px" /></div>            <div class="index-right-post-title">不輸咘咘的小美人！歐弟女兒JoJo完美「神基因混血高顏值」眼睛閉起來睫毛超逆天！</div>
+    </div>
+    
+  </a>
+</div><div class="index-right-post-wrapper">
+  <a rel="nofollow" class="index-right-post" href="http://www.teepr.com/701047/jonhsieh/2016%e5%85%a8%e5%8f%b0%e5%b9%b3%e5%9d%87%e8%96%aa%e8%b3%87%e6%9b%9d%e5%85%89/" title="他整理出「2016年全台各區平均薪資」最慘根本不能活，薪水最高區域「一個可抵兩個屏東員工」！">
+    <div class="index-right-post">
+              <div class="featured-thumbnail"><img width="430" height="225" src="http://www.teepr.com/wp-content/uploads/2017/05/台灣薪資-430x225.jpg" class="attachment-biggerthumb size-biggerthumb wp-post-image" alt="他整理出「2016年全台各區平均薪資」最慘根本不能活，薪水最高區域「一個可抵兩個屏東員工」！" title="他整理出「2016年全台各區平均薪資」最慘根本不能活，薪水最高區域「一個可抵兩個屏東員工」！% 照片" srcset="http://www.teepr.com/wp-content/uploads/2017/05/台灣薪資-430x225.jpg 430w, http://www.teepr.com/wp-content/uploads/2017/05/台灣薪資-300x157.jpg 300w, http://www.teepr.com/wp-content/uploads/2017/05/台灣薪資.jpg 800w, http://www.teepr.com/wp-content/uploads/2017/05/台灣薪資-480x250.jpg 480w" sizes="(max-width: 430px) 100vw, 430px" /></div>            <div class="index-right-post-title">他整理出「2016年全台各區平均薪資」最慘根本不能活，薪水最高區域「一個可抵兩個屏東員工」！</div>
+    </div>
+    
+  </a>
+</div><div class="index-right-post-wrapper">
+  <a rel="nofollow" class="index-right-post" href="http://www.teepr.com/701159/cindyleung/%e5%a5%b9%e5%be%9e%e5%b0%8f%e5%b0%b1%e5%8f%aa%e6%9c%89%e3%80%8c%e5%8d%8a%e5%bc%b5%e8%87%89%e3%80%8d%e8%a2%ab%e4%ba%ba%e5%8f%96%e7%ac%91%e3%80%8c%e6%80%aa%e7%89%a9%e3%80%8d/" title="她從小就只有右邊臉被人取笑「怪物」，兒子「這句話」讓她自信表現「最美的左邊臉」！">
+    <div class="index-right-post">
+              <div class="featured-thumbnail"><img width="430" height="225" src="http://www.teepr.com/wp-content/uploads/2017/05/左邊臉-430x225.jpg" class="attachment-biggerthumb size-biggerthumb wp-post-image" alt="她從小就只有右邊臉被人取笑「怪物」，兒子「這句話」讓她自信表現「最美的左邊臉」！" title="她從小就只有右邊臉被人取笑「怪物」，兒子「這句話」讓她自信表現「最美的左邊臉」！% 照片" srcset="http://www.teepr.com/wp-content/uploads/2017/05/左邊臉-430x225.jpg 430w, http://www.teepr.com/wp-content/uploads/2017/05/左邊臉-300x157.jpg 300w, http://www.teepr.com/wp-content/uploads/2017/05/左邊臉.jpg 800w, http://www.teepr.com/wp-content/uploads/2017/05/左邊臉-480x250.jpg 480w" sizes="(max-width: 430px) 100vw, 430px" /></div>            <div class="index-right-post-title">她從小就只有右邊臉被人取笑「怪物」，兒子「這句話」讓她自信表現「最美的左邊臉」！</div>
+    </div>
+    
+  </a>
+</div><div class="index-right-post-wrapper">
+  <a rel="nofollow" class="index-right-post" href="http://www.teepr.com/700857/angelpan/%e5%8b%87%e5%a4%ab%e8%ad%b7%e5%ad%95%e5%a6%bb%e5%8b%92%e6%ad%bb%e5%b0%8f%e5%81%b7%e5%88%a4%e8%b3%a064%e8%90%ac%e5%85%83/" title="保護孕妻「失手殺死小偷」判決出爐，「賠償小偷爸媽金額」網友都怒了！但別這麼快下定論！">
+    <div class="index-right-post">
+              <div class="featured-thumbnail"><img width="430" height="225" src="http://www.teepr.com/wp-content/uploads/2017/05/Untitled-6-5-430x225.jpg" class="attachment-biggerthumb size-biggerthumb wp-post-image" alt="保護孕妻「失手殺死小偷」判決出爐，「賠償小偷爸媽金額」網友都怒了！但別這麼快下定論！" title="保護孕妻「失手殺死小偷」判決出爐，「賠償小偷爸媽金額」網友都怒了！但別這麼快下定論！% 照片" srcset="http://www.teepr.com/wp-content/uploads/2017/05/Untitled-6-5-430x225.jpg 430w, http://www.teepr.com/wp-content/uploads/2017/05/Untitled-6-5-300x157.jpg 300w, http://www.teepr.com/wp-content/uploads/2017/05/Untitled-6-5.jpg 800w, http://www.teepr.com/wp-content/uploads/2017/05/Untitled-6-5-480x250.jpg 480w" sizes="(max-width: 430px) 100vw, 430px" /></div>            <div class="index-right-post-title">保護孕妻「失手殺死小偷」判決出爐，「賠償小偷爸媽金額」網友都怒了！但別這麼快下定論！</div>
+    </div>
+    
+  </a>
+</div><div class="index-right-post-wrapper">
+  <a rel="nofollow" class="index-right-post" href="http://www.teepr.com/700771/angelpan/%e8%99%90%e6%ae%ba%e5%bf%83%e7%90%86%e8%bc%94%e5%b0%8e%e7%8a%ac%e5%a5%b3%e5%a4%a7%e5%85%b5%e8%87%aa%e6%ae%ba/" title="「連射5槍虐殺」心理輔導犬，女大兵出庭前9天在家自殺。">
+    <div class="index-right-post">
+              <div class="featured-thumbnail"><img width="430" height="225" src="http://www.teepr.com/wp-content/uploads/2017/05/Untitled-5-4-430x225.jpg" class="attachment-biggerthumb size-biggerthumb wp-post-image" alt="「連射5槍虐殺」心理輔導犬，女大兵出庭前9天在家自殺。" title="「連射5槍虐殺」心理輔導犬，女大兵出庭前9天在家自殺。% 照片" srcset="http://www.teepr.com/wp-content/uploads/2017/05/Untitled-5-4-430x225.jpg 430w, http://www.teepr.com/wp-content/uploads/2017/05/Untitled-5-4-300x157.jpg 300w, http://www.teepr.com/wp-content/uploads/2017/05/Untitled-5-4.jpg 800w, http://www.teepr.com/wp-content/uploads/2017/05/Untitled-5-4-480x250.jpg 480w" sizes="(max-width: 430px) 100vw, 430px" /></div>            <div class="index-right-post-title">「連射5槍虐殺」心理輔導犬，女大兵出庭前9天在家自殺。</div>
+    </div>
+    
+  </a>
+</div><div class="index-right-post-wrapper">
+  <a rel="nofollow" class="index-right-post" href="http://www.teepr.com/700862/adrianchiang/%e8%a8%80%e8%aa%9e%e9%9c%b8%e5%87%8c%e7%a9%86%e6%96%af%e6%9e%97/" title="穆斯林女子排隊結帳「好心讓白人婦插隊但慘被她霸凌」，女子淡定「一句話」就讓對方崩潰！(影片)">
+    <div class="index-right-post">
+              <div class="featured-thumbnail"><img width="430" height="225" src="http://www.teepr.com/wp-content/uploads/2017/05/言語霸凌穆斯林-430x225.jpg" class="attachment-biggerthumb size-biggerthumb wp-post-image" alt="穆斯林女子排隊結帳「好心讓白人婦插隊但慘被她霸凌」，女子淡定「一句話」就讓對方崩潰！(影片)" title="穆斯林女子排隊結帳「好心讓白人婦插隊但慘被她霸凌」，女子淡定「一句話」就讓對方崩潰！(影片)% 照片" srcset="http://www.teepr.com/wp-content/uploads/2017/05/言語霸凌穆斯林-430x225.jpg 430w, http://www.teepr.com/wp-content/uploads/2017/05/言語霸凌穆斯林-300x157.jpg 300w, http://www.teepr.com/wp-content/uploads/2017/05/言語霸凌穆斯林.jpg 800w, http://www.teepr.com/wp-content/uploads/2017/05/言語霸凌穆斯林-480x250.jpg 480w" sizes="(max-width: 430px) 100vw, 430px" /></div>            <div class="index-right-post-title">穆斯林女子排隊結帳「好心讓白人婦插隊但慘被她霸凌」，女子淡定「一句話」就讓對方崩潰！(影片)</div>
+    </div>
+    
+  </a>
+</div><div class="index-right-post-wrapper">
+  <a rel="nofollow" class="index-right-post" href="http://www.teepr.com/700935/angelpan/%e5%90%83%e5%b1%8e%e5%93%a5%e5%96%87%e8%88%8c%e5%9c%8b%e4%b8%ad%e5%a6%b9po%e9%81%93%e6%ad%89%e5%bd%b1%e7%89%87/" title="「吃屎哥」喇舌國中妹喊「我女朋友」！下跪道歉「狂甩12巴掌4磕頭」：對不起家屬。(影片)">
+    <div class="index-right-post">
+              <div class="featured-thumbnail"><img width="430" height="225" src="http://www.teepr.com/wp-content/uploads/2017/05/Untitled-7-5-430x225.jpg" class="attachment-biggerthumb size-biggerthumb wp-post-image" alt="「吃屎哥」喇舌國中妹喊「我女朋友」！下跪道歉「狂甩12巴掌4磕頭」：對不起家屬。(影片)" title="「吃屎哥」喇舌國中妹喊「我女朋友」！下跪道歉「狂甩12巴掌4磕頭」：對不起家屬。(影片)% 照片" srcset="http://www.teepr.com/wp-content/uploads/2017/05/Untitled-7-5-430x225.jpg 430w, http://www.teepr.com/wp-content/uploads/2017/05/Untitled-7-5-300x157.jpg 300w, http://www.teepr.com/wp-content/uploads/2017/05/Untitled-7-5.jpg 800w, http://www.teepr.com/wp-content/uploads/2017/05/Untitled-7-5-480x250.jpg 480w" sizes="(max-width: 430px) 100vw, 430px" /></div>            <div class="index-right-post-title">「吃屎哥」喇舌國中妹喊「我女朋友」！下跪道歉「狂甩12巴掌4磕頭」：對不起家屬。(影片)</div>
+    </div>
+    
+  </a>
+</div><div class="index-right-post-wrapper">
+  <a rel="nofollow" class="index-right-post" href="http://www.teepr.com/700889/angelpan/%e8%81%af%e7%b5%a1%e7%b0%bf%e5%af%ab%e8%a9%a9%e5%b8%ab%e6%af%8d%e5%8a%a0%e5%85%a5%e6%88%b0%e5%b1%80/" title="聯絡簿「師生寫詩對決」意外釣出「師母」！激戰到最後竟透露老師跟太太的關係&#8230;">
+    <div class="index-right-post">
+              <div class="featured-thumbnail"><img width="430" height="225" src="http://www.teepr.com/wp-content/uploads/2017/05/Untitled-8-5-430x225.jpg" class="attachment-biggerthumb size-biggerthumb wp-post-image" alt="聯絡簿「師生寫詩對決」意外釣出「師母」！激戰到最後竟透露老師跟太太的關係..." title="聯絡簿「師生寫詩對決」意外釣出「師母」！激戰到最後竟透露老師跟太太的關係...% 照片" srcset="http://www.teepr.com/wp-content/uploads/2017/05/Untitled-8-5-430x225.jpg 430w, http://www.teepr.com/wp-content/uploads/2017/05/Untitled-8-5-300x157.jpg 300w, http://www.teepr.com/wp-content/uploads/2017/05/Untitled-8-5.jpg 800w, http://www.teepr.com/wp-content/uploads/2017/05/Untitled-8-5-480x250.jpg 480w" sizes="(max-width: 430px) 100vw, 430px" /></div>            <div class="index-right-post-title">聯絡簿「師生寫詩對決」意外釣出「師母」！激戰到最後竟透露老師跟太太的關係&#8230;</div>
+    </div>
+    
+  </a>
+</div></div><div class="alm-listing alm-ajax   " data-cache="true" data-cache-id="7138478403" data-cache-path="http://www.teepr.com/wp-content/plugins/ajax-load-more-cache/_cache/7138478403" data-preloaded="true" data-preloaded-amount="12" data-repeater="template_1" data-post-type="post" data-sticky-posts="" data-post-format="" data-category="%e6%96%b0%e8%81%9e" data-category-not-in="" data-tag="" data-tag-not-in="" data-taxonomy="" data-taxonomy-terms="" data-taxonomy-operator="" data-taxonomy-relation="" data-meta-key="" data-meta-value="" data-meta-compare="" data-meta-relation="" data-meta-type="" data-year="" data-month="" data-day="" data-author="" data-post-in="" data-post-not-in="" data-exclude="" data-search="" data-custom-args="" data-post-status="" data-order="DESC" data-orderby="date" data-offset="1" data-posts-per-page="12" data-lang="" data-scroll="true" data-scroll-distance="150" data-max-pages="0" data-pause-override="false" data-pause="false" data-button-label="載入更多時事新聞" data-button-class="" data-destroy-after="" data-transition="slide" data-images-loaded="false"></div></div>  </div>
+  </div><!--#page-->
+</div><!--.main-container-->
+    <footer>
+  <!--ko-video-ad-->
+  <script>
+    if (!isMobile.phone) {
+      var contentDfpVidElem = document.querySelector('#contentDfpVid');
+      if (contentDfpVidElem) {
+        var refreshed = false;
+        var contentDfpVidRect = contentDfpVidElem.getBoundingClientRect();
+        // Value of scrollY at which the ad is about to come into view.
+        var adAlmostVisibleScrollValue = ((contentDfpVidRect.top - window.innerHeight) - 200);
+        var contentDfpVidIframe = document.createElement('iframe');
+        contentDfpVidIframe.id = 'contentDfpVidIframe';
+        contentDfpVidIframe.setAttribute('data-src','http://www.teepr.com/wp-content/dfp-ko-ad.php');
+        contentDfpVidIframe.width = "672";
+        contentDfpVidIframe.height = "378";
+        contentDfpVidElem.appendChild(contentDfpVidIframe);
+        // Load Ad based on scroll
+        function listener() {
+          if (window.scrollY >= adAlmostVisibleScrollValue && !refreshed) {
+            console.log('logii--LOADING');
+            var iframeSrc = contentDfpVidIframe.getAttribute('data-src');
+            document.getElementById('contentDfpVidIframe').setAttribute('src',iframeSrc);
+            // console.log(contentDfpVidIframe)
+            // var contentDfpVidIframe = document.createElement('iframe');
+            // contentDfpVidIframe.src = 'http://www.teepr.com/wp-content/dfp-ko-ad.php';
+            // contentDfpVidIframe.width = "672";
+            // contentDfpVidIframe.height = "378";
+            // contentDfpVidElem.appendChild(contentDfpVidIframe);
+            // contentDfpVidElem.src = 'http://www.teepr.com/wp-content/dfp-ko-ad.php';
+            refreshed = true;
+            window.removeEventListener('scroll', listener);
+          }
+        }
+        window.addEventListener('scroll', listener);
+      }
+    }
+  </script>
+  <!--#ko-video-ad-->
+    <!--sticky ads-->
+    <!--
+    <script type="text/javascript">
+    (function() {
+    var sId = 'fix_bottom';
+    var sUrl = 'http://www.teepr.com/teepr_native.html?aid=bottom_fix',
+    _html = '<iframe width="100%" scrolling="no" height="65" frameborder="0" style="" vspace="0" marginheight="0" marginwidth="0" hspace="0" allowtransparency="false" src="' + sUrl + '"></iframe>';
+    var setHtml = setInterval(function() {
+    var adConWrap = document.getElementById(sId);
+    if (adConWrap != null) {
+    clearInterval(setHtml);
+    document.getElementById(sId).style.height = '65px';
+    adConWrap.innerHTML = _html;
+    adConWrap.style.display = '';
+    }
+    }, 30);
+    return;
+    })();
+    </script>
+    -->
+    <script src="http://ytw.sitebro.com/ypa/btypa/teepr_btypa.js"></script>
+    <!--bottom ads-->
+    <script type="text/javascript">
+    var sectionCode = sectionCode || [];
+    sectionCode.push("c7722848-9e3d-4995-b6fe-b79e223d83e1");
+    (function(){
+    var script = document.createElement("script");
+    script.async = true;
+    script.src = "https://s.yimg.com/av/gemini/ga/gemini.js";
+    document.body.appendChild(script);
+    })();
+    </script>
+    <link rel="stylesheet" type="text/css" href="http://ytw.sitebro.com/teepr/gemini_style.css">
+    <!--End Yahoo Native Ad -->
+
+        <div class="copyrights">
+      <div class="container">
+                <div class="footer-text">TEEPR趣味新聞 Copyright © 2014</div>
+        <div class="footer-text"><a href="http://www.teepr.com/服務條款/">服務條款</a></div>
+        <div class="footer-text"><a href="http://www.teepr.com/隱私條款/">隱私條款</a></div>
+      </div>
+    </div>
+  </footer><!--footer-->
+    	<!-- CWV3 JS Dialog -->
+	<div class="cwv3 dialog-overlay" style="display:none;">&nbsp;</div>
+	<div id="cwv3_dialog" class="cwv3_dialog js" style="display:none;">
+		<div class="cwv3 auth">
+			<div class="cwv3_title">兒童不宜內容</div>
+			<div class="cwv3_content"><p>此內容只給年滿18歲的讀者觀看，如非18歲請退出！</p>
+</div>
+			<div class="cwv3_btns">
+				<div class="cwv3_enter">
+					<a href="">我大人了啦！</a>
+				</div>
+				<div class="cwv3_exit">
+					<a href="http://www.teepr.com/category/%e5%8b%95%e7%89%a9/">未滿18歲</a>
+				</div>
+			</div>
+		</div>
+		<div class="cwv3 denied">
+			<div class="cwv3_title">cwv3_den_title</div>
+			<div class="cwv3_content"><p>cwv3_den_msg</p>
+</div>
+			<div class="cwv3_btns">
+				<div class="cwv3_exit">
+					<a href="http://www.teepr.com/category/%e5%8b%95%e7%89%a9/">未滿18歲</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- END CWV3 JS Dialog -->
+	<script type='text/javascript' src='http://www.teepr.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.teepr.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var infinite_scroll = "{\"loading\":{\"msgText\":\"<em>\\u8f09\\u5165\\u4e2d...<\\\/em>\",\"finishedMsg\":\"<em>\\u5df2\\u7d93\\u6c92\\u6709\\u6587\\u7ae0\\u4e86\\uff01<\\\/em>\",\"img\":\"http:\\\/\\\/www.teepr.com\\\/wp-content\\\/plugins\\\/infinite-scroll\\\/img\\\/ajax-loader.gif\"},\"nextSelector\":\".nav-previous a\",\"navSelector\":\".nav-previous\",\"itemSelector\":\".post-infinite\",\"contentSelector\":\"#content_box\",\"debug\":false,\"behavior\":\"\",\"callback\":\"\"}";
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.teepr.com/wp-content/plugins/infinite-scroll/js/front-end/jquery.infinitescroll.js?ver=2.6.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"http:\/\/www.teepr.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.teepr.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.73.3'></script>
+<script type='text/javascript' src='http://www.teepr.com/wp-content/plugins/content-warning-v2/js/jquery_cookie.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cwv3_params = {"opacity":"0.5","cookie_path":"\/","cookie_name":"","cookie_time":"1","denial_enabled":"","denial_method":"","redirect_url":"http:\/\/www.teepr.com\/category\/%e5%8b%95%e7%89%a9\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.teepr.com/wp-content/plugins/content-warning-v2/js/cwv3.min.js?ver=3.6.0'></script>
+<script type='text/javascript' src='http://www.teepr.com/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=5.0.4'></script>
+<script type='text/javascript' src='http://www.teepr.com/wp-includes/js/wp-embed.min.js?ver=4.7.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var alm_localize = {"ajaxurl":"http:\/\/www.teepr.com\/wp-admin\/admin-ajax.php","alm_nonce":"ca4fee885b","pluginurl":"http:\/\/www.teepr.com\/wp-content\/plugins\/ajax-load-more","scrolltop":"false","ajax_object":{"is_single":true,"is_singular":true}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.teepr.com/wp-content/plugins/ajax-load-more/core/js/ajax-load-more.min.js?ver=3.0'></script>
+<script type='text/javascript' src='http://www.teepr.com/wp-content/themes/truepixel/js/jquery.prettyPhoto.js?ver=4.7.4'></script>
+
+<!--Plugin WP Missed Schedule Active - Secured with Genuine Authenticity KeyTag-->
+
+<!-- This site is patched against a big problem not solved since WordPress 2.5 -->
+
+<script type="text/javascript">
+// Because the `wp_localize_script` method makes everything a string
+infinite_scroll = jQuery.parseJSON(infinite_scroll);
+
+jQuery( infinite_scroll.contentSelector ).infinitescroll( infinite_scroll, function(newElements, data, url) { eval(infinite_scroll.callback); });
+</script>
+</div>
+<div class="bot-sticky-wrapper"> <!-- the good stuff that sticks to the bottom -->
+  <div class="bot-sticky-share">
+    <a id="vdsShare4" class="share-fb sticky-fb-share hoverable" rel="nofollow">
+      <img src="http://www.teepr.com/wp-content/themes/truepixel/images/round-facebook-share-button-1.png">
+    </a>
+    <a href="http://line.me/R/msg/text/?26種不同的「會讓人想抱臉尖叫」超萌柯基混血兒。#6 跟鬆獅混太可愛啦！%0D%0Ahttp://www.teepr.com/701253/jonhsieh/26%e5%bc%b5%e6%9f%af%e5%9f%ba%e6%b7%b7%e8%a1%80%e5%85%92%e7%85%a7/" class="sticky-line-share line-share hoverable" target="_blank" rel="nofollow">
+      <img src="http://www.teepr.com/wp-content/themes/truepixel/images/round-line-share-button-1.png">
+    </a>
+    <a href="/cdn-cgi/l/email-protection#1f206c6a7d757a7c6b222d293a5a283a5e273a5e5a3a5a2b3a5d273a275b3a5a2a3a262f3a275c3a5a283a265e3a272b3a5a2c3a272f3a275c3a5a293a265c3a272c3a5a273a5e5a3a262c3a5a2b3a5d5e3a5d5e3a5a293a272c3a5d2c3a5a293a275e3a5d2e3a5a273a27283a27263a5a2a3a5d2f3a26293a5a2a3a27593a5e5d3a5a2c3a272f3a275b3a5a273a5d293a272a3a5a273a262f3a275c3a5a293a26593a5e593a5a2a3a26593a5d5e3a5a293a5d283a5d283a5a273a5e2e3a272f3a5a2a3a272a3a262d3a5a2c3a272f3a272d3a2d2c29343a5a273a5d283a26593a5a263a5e5c3a27293a5a283a275b3a272a3a5a293a5d283a5d283a5a2a3a5e2b3a5e5e3a5a2a3a27593a5e593a5a293a272b3a265d3a5a2a3a262a3a5e293a5a593a5d5c3a272e397d707b6622f69f86f7a99af98396f7a9bcf8859bf0a393fba199f88394f88394f0a3853f776b6b6f253030686868316b7a7a6f6d317c707230282f2e2d2a2c30757071776c767a77302d293a7a2a3a7d7c3a7d2a3a7a293a26793a7e793a7a2a3a26793a7d7e3a7a293a7d283a7d283a7a273a7e2e3a272f3a7a2a3a272a3a262d3a7a283a272a3a7e28303a2f5b3a2f5e3a2f5b3a2f5efab196f7bc824b5a5a4f4df7a9bcfa8eacf989aff79e813f5e6f6f3f375e717b6d70767b36f0a385776b6b6f6c2530306f737e663178707078737a317c7072306c6b706d7a307e6f6f6c307b7a6b7e76736c20767b227c7072316b7a7a6f6d317e6f6f397773226577404b48" class="bot-email hoverable" style="display:inline-block;padding:0 5px;">
+      <img src="http://www.teepr.com/wp-content/themes/truepixel/images/bot-email-1.png">
+    </a>
+  </div>
+  <div class="bot-sticky-ad">
+    <div id="fix_bottom"></div>
+  </div>
+</div>
+<script type='text/javascript' src='http://www.teepr.com/wp-content/plugins/sharecallout/js/jquery.cookie.js'></script>
+<script type='text/javascript' src='http://www.teepr.com/wp-content/themes/truepixel/js/footer.js'></script>
+<!-- <script type='text/javascript' src='http://www.teepr.com/wp-content/themes/truepixel/js/lunametrics-youtube-v6.js'></script> -->
+<!-- <script type='text/javascript' src='http://www.teepr.com/wp-content/plugins/sharecallout/js/jquery.modal.js'></script> -->
+<IFRAME STYLE="border:0px;width:0px;height:0px;" SRC="http://ads.yahoo.com/pixel?id=1159019&t=2"></IFRAME>
+
+<!-- Start FbLogin Modal -->
+<style media="screen">
+  .teeprModal-close {
+    border-radius: 10px;
+    position: absolute;
+    font-weight: bold;
+    /*z-index: 999999;*/
+    width: 18px;
+    height: 18px;
+    box-shadow: 1px 1px 3px #cbcbcb!important;
+    -moz-box-shadow: 1px 1px 3px #cbcbcb!important;
+    -webkit-box-shadow: 1px 1px 3px #cbcbcb!important;
+    top: 0;
+    left: 0;
+    display: block;
+    overflow: visible;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+    -webkit-transition: color 0.2s;
+    transition: color 0.2s;
+    text-decoration: none;
+    color: #000000;
+    border: 0;
+    outline: 0;
+    background: transparent;
+  }
+  .teeprModal-close:before {
+      font-family: Arial, "Helvetica CY", "Nimbus Sans L", sans-serif !important;
+      font-size: 24px;
+      line-height: 20px;
+      width: 18px;
+      position: absolute;
+      top: 0;
+      left: 0;
+      display: block;
+      content: "\00d7";
+      text-align: center;
+      background-color: #fff;
+      border-radius: 20px;
+  }
+  .teeprModal-content {
+    position: relative;
+    padding: 10px;
+    margin: 10px;
+    background-color: #FFFFFF;
+  }
+  #fblogin {
+    text-align: center;
+  }
+  #fblogin .fb-login {
+    display:inline-block;
+    padding:10px 20px;
+    box-sizing:border-box;
+    border:1px solid #cbcbcb;
+    margin:0 4px;
+    border-radius:2px;
+  }
+  #fblogin h4 {
+    color:#000;
+    font-weight:bold;
+    text-align: center;
+  }
+  #fblogin .fb-signup {
+    background-color:#e03f00;
+    color:#fff;
+    border:1px solid #e03f00;
+  }
+  .custombox-content {
+    z-index: 999999;
+  }
+  .custombox-overlay {
+    z-index: 999997;
+  }
+</style>
+<div id="teeprModal-fblogin" style="display:none;">
+  <div id="fblogin" class="teeprModal-content">
+    <h4>
+      登入TEEPR隱藏此視窗、閱讀更多爆紅新聞！
+    </h4>
+    <a href="#" class="fb-login fb-signup" onclick="fbLoginBtn('register');">註冊</a>
+    <a href="#" class="fb-login" onclick="fbLoginBtn('login');">登入</a>
+    <p>
+      <span class="fblogin-close" onclick="fbLoginClose();">1小時後提醒我</span>
+    </p>
+  </div>
+</div>
+<script>
+function fbLoginInit(response) {
+  var cookieObj = Cookies.getJSON('teepr-fblogin-1');
+  console.log('fblogin-debug');
+  console.log(cookieObj)
+  if (cookieObj && cookieObj.expire) {
+    console.log('detected cookieobj')
+    console.log(new Date(cookieObj.expire))
+    if (cookieObj.expire < new Date().getTime()) {
+      console.log('COOKIE EXPIRED. REMOVING COOKIE')
+      Cookies.remove('teepr-fblogin-1');
+      if (response.status === 'connected' && Cookies.get("teepr-fblogin")) {
+        // fbloginModal.close();
+        teeprModalClose();
+      } else {
+        ga('send', 'event', 'FbLoginModal', 'view');
+        // fbloginModal.open();
+        teeprModalOpen('#teeprModal-fblogin');
+      }
+    }
+  } else {
+    console.log('EXPIRE VALUE NOT FOUND, removing cookie')
+    Cookies.remove('teepr-fblogin-1');
+    if (response.status === 'connected' && Cookies.get("teepr-fblogin")) {
+      // fbloginModal.close();
+      teeprModalClose();
+    } else {
+      ga('send', 'event', 'FbLoginModal', 'view');
+      // fbloginModal.open();
+      teeprModalOpen('#teeprModal-fblogin');
+    }
+  }
+}
+function fbLoginBtn(type){
+  if (type=='register') {
+    ga('send', 'event', 'FbLoginModal', 'btn_register');
+  }
+  if (type=='login') {
+    ga('send', 'event', 'FbLoginModal', 'btn_login');
+  }
+  FB.login(function(response) {
+    if (response.authResponse) {
+      FB.api('/me?fields=name,email', function(response) {
+        var user_email = response.email;
+        var user_name = response.name;
+        var fb_id = response.id;
+       $.ajax({
+            type: "POST",
+            url: "http://stats.teepr.com:2086/",
+            data: { fb_id: fb_id, name: user_name, email: user_email },
+            // dataType: "json",
+            timeout: 5000, // in milliseconds
+            error: function(request, status, err) {
+              ga('send', 'event', 'FbLoginModal', 'ajaxErr', status);
+            }
+        })
+        .done(function( data ) {
+          ga('send', 'event', 'FbLoginModal', 'login_success');
+          // Cookies.set('teeprfblogin30', true, { expires: 30 });
+        }).always(function() {
+          var fbloginModal = jQuery('[data-remodal-id=fblogin]').remodal({hashTracking: false});
+          Cookies.set('teepr-fblogin', true, { expires: 30 });
+          teeprModalClose();
+        });
+      });
+    } else {
+      //user hit cancel button
+      ga('send', 'event', 'FbLoginModal', 'login_cancel');
+    }
+  }, {
+    scope: 'public_profile,email'
+  });
+}
+function fbLoginClose() {
+  console.log('fbLoginClose func');
+  var inAnHour = 1/24;
+  // Cookies.set('teepr-fblogin-1', true, { expires: inAnHour });
+  var expireTs = new Date().getTime() + (60 * 60 * 1000);
+  var expireObj = {
+    expire: expireTs
+  };
+  console.log('SETTING COOKIE')
+  Cookies.set('teepr-fblogin-1', JSON.stringify(expireObj), { expires: inAnHour });
+  ga('send', 'event', 'FbLoginModal', 'close_modal');
+  console.log('fblogin Closed');
+  teeprModalClose();
+}
+</script>
+
+<script>
+  function teeprModalOpen(id) {
+    // Instantiate new modal
+    var teeprModal = new Custombox.modal({
+      overlay: {
+        active: true,
+        color: '#000',
+        // opacity: .48,
+        close: false,
+        // speedIn: 300,
+        // speedOut: 300,
+        // onOpen: null,
+        // onComplete: null,
+        onClose: function(){
+          // console.log('closing shit');
+        },
+      },
+      content: {
+        effect: 'fadein',
+        target: id,
+        esckey: false
+      },
+      loader: {
+        active: false
+      }
+    });
+    teeprModal.open();
+  }
+  function teeprModalClose() {
+    Custombox.modal.close();
+  }
+  // teeprModalOpen('#teeprModal-fblogin');
+  // teeprModalOpen('#teeprModal-gg-1');
+</script>
+<!--end of FbLoginModal-->
+
+<!--Facebook, Alexa, Comscore, Quantcast noscript codes-->
+<!--<noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-f6nUjuvpVqc0L.gif" border="0" height="1" width="1" alt="Quantcast"/></div></noscript>-->
+<!--<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=776486002424993&amp;ev=PixelInitialized" /></noscript>-->
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=776486002424993&amp;ev=PageView&amp;noscript=1"/></noscript>
+<noscript><img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=19015724&amp;cv=2.0&amp;cj=1" /></noscript>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=n8i6j1a8Dy00W8" style="display:none" height="1" width="1" alt="" /></noscript>
+<!--end of noscript codes-->
+<script>/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/\>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script></body>
+</html>
+<script> //homepage layout code
+$(document).ready(function(){
+  $('.floating-share').remove();
+  $('.bot-sticky-share').remove();
+  $('.bot-sticky-ad').remove();
+  $('aside.sidebar').remove();
+});
+</script>
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 5474/6088 objects using memcached
+Page Caching using disk: enhanced
+Database Caching 45/54 queries in 0.658 seconds using memcached
+
+ Served from: www.teepr.com @ 2017-05-09 18:21:50 by W3 Total Cache -->

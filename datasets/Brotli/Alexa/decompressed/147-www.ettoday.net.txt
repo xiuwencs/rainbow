@@ -1,0 +1,1961 @@
+<!doctype html>
+<html lang="zh-Hant" prefix="og:http://ogp.me/ns#" xmlns:wb="http://open.weibo.com/wb">
+<head>
+<meta charset="utf-8">
+<!-- ★★★以下非共用★★★ 開始 -->
+<meta name="robots" content="noarchive"/>
+<meta http-equiv="refresh" content="600;URL=/?from=rf"/>
+<title>ETtoday東森新聞雲 | 樂在分享‧愛上雲端</title>
+<link rel="canonical" href="http://www.ettoday.net"/>
+
+<!-- 網頁社群分享meta 開始 -->
+<meta property="og:url" itemprop="url" content="http://www.ettoday.net"/>
+<meta property="og:title" itemprop="name" content="ETtoday東森新聞雲 | 樂在分享‧愛上雲端"/>
+<meta property="og:image" itemprop="image" content="http://cdn2.ettoday.net/style/ettoday2017/images/push.jpg"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="628"/>
+<meta property="og:type" content="website"/>
+<meta name="description" content="ETtoday東森新聞雲原為「東森新聞網」，2011年捲土重來，以「樂在分享、愛上雲端」為願景，以真誠的心深化社群互動。曾榮獲數位時代「2014台灣網站100強」第9名，新聞網站第1名。" />
+<meta property="og:description" itemprop="description" content="ETtoday東森新聞雲原為「東森新聞網」，2011年捲土重來，以「樂在分享、愛上雲端」為願景，以真誠的心深化社群互動。曾榮獲數位時代「2014台灣網站100強」第9名，新聞網站第1名。"/>
+<!-- 網頁社群分享meta 結束 -->
+
+<!-- ETtoday主站-內部流量統計(非新聞內頁) 開始 -->
+<script language="JavaScript" type="text/javascript">
+ <!-- <![CDATA[
+ var ts = Math.random();
+ document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="//msg.ettoday.net/msg.php?kind=0&board_id=1&rr='+ts + '"></scr' + 'ipt>');
+ // ]]> -->
+</script>
+<!-- ETtoday主站-內部流量統計(非新聞內頁) 結束 -->
+
+<!--首頁流量統計專用 開始-->
+<script language="JavaScript" type="text/javascript">
+<!-- <![CDATA[
+	var ts = Math.random();
+	document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="//ad.ettoday.net/ads.php?bid=index_pageviews&rr='+ ts +'"></scr' + 'ipt>');
+// ]]> -->
+</script>
+<!--首頁流量統計專用 結束-->
+
+<!-- comScore流量統計碼 開始 -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "12357898"
+     ,options: {url_append: "comscorekw=index"}
+  });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="//b.scorecardresearch.com/p?c1=2&c2=12357898&cv=2.0&cj=1" />
+</noscript>
+<!-- comScore流量統計碼 結束 -->
+<!-- ★★★以上非共用★★★ 結束 -->
+
+
+<!--全網流量統計專用 開始-->
+<script language="JavaScript" type="text/javascript">
+<!-- <![CDATA[
+	var ts = Math.random();
+	document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="//ad.ettoday.net/ads.php?bid=all_pageviews&rr='+ ts +'"></scr' + 'ipt>');
+// ]]> -->
+</script>
+<!--全網流量統計專用 結束-->
+
+<!-- START:Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+//電腦版PC
+ga('create', 'UA-49395399-1', 'ettoday.net', {'name': 'PCWeb'});
+ga('PCWeb.require', 'displayfeatures');
+ga('PCWeb.send', 'pageview');
+
+//全網
+ga('create', 'UA-25690501-1', 'ettoday.net', {'name': 'AllWeb'});
+ga('AllWeb.require', 'displayfeatures');
+//自定維度 *****************************
+if(document.getElementsByName("section").length > 0){ //如果是新聞頁
+    var NewsType = document.getElementsByName("section")[0].content;//抓新聞大類
+    if (NewsType !="") {//新聞大類有資料才傳送自定維度
+        ga('AllWeb.set', 'dimension1', NewsType);
+    }
+}
+ga('AllWeb.send', 'pageview');
+</script>
+<!-- END:Google Analytics -->
+
+<!-- 基本meta 開始 -->
+<meta name="viewport" content="width=1280"/>
+<link rel="apple-touch-icon" sizes="180x180" href="//cdn2.ettoday.net/style/ettoday2017/images/touch-icon.png"/>
+<link rel="shortcut icon" sizes="192x192" href="//cdn2.ettoday.net/style/ettoday2017/images/touch-icon.png"/>
+<!-- 基本meta 結束 -->
+
+<!-- ★dns-prefetch 開始★ -->
+<link rel="dns-prefetch" href="//ad.ettoday.net">
+<link rel="dns-prefetch" href="//cache.ettoday.net">
+<link rel="dns-prefetch" href="//static.ettoday.net">
+<link rel="dns-prefetch" href="//cdn1.ettoday.net">
+<link rel="dns-prefetch" href="//cdn2.ettoday.net">
+<!-- ★dns-prefetch 結束★ -->
+
+<!-- 社群專用 開始 -->
+<meta property="og:locale" content="zh_TW" />
+<meta property="fb:app_id" content="146858218737386"/>
+<meta property="og:site_name" name="application-name" content="ETtoday東森新聞雲"/>
+<meta property="article:publisher" content="https://www.facebook.com/ETtoday"/>
+<link href="https://plus.google.com/+ettoday" rel="publisher" />
+<!-- 社群專用 結束 -->
+
+<!-- CSS、JS 開始 -->
+<link rel="stylesheet" type="text/css" href="//cdn2.ettoday.net/style/ettoday2017/css/style.css">
+<script src="//cdn2.ettoday.net/style/ettoday2017/js/jquery.js"></script>
+<script src="//cdn2.ettoday.net/style/ettoday2017/js/jquery.cookie.js"></script> <!--必放-->
+<script src="//cdn2.ettoday.net/style/ettoday2017/js/jquery.bxslider/jquery.bxslider.js"></script>
+<link rel="stylesheet" type="text/css" href="//cdn2.ettoday.net/style/ettoday2017/js/jquery.bxslider/jquery.bxslider.css">
+<script src="//cdn2.ettoday.net/style/ettoday2017/js/jquery.lazyload.min.js"></script>
+<script src="//cdn2.ettoday.net/style/ettoday2017/js/common.js"></script>
+<!-- CSS、JS 結束 -->
+
+<!-- 其它流量統計碼 開始 -->
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+    _atrk_opts = { atrk_acct:"hUIbi1acVE0021", domain:"ettoday.net",dynamic: true};
+    (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript>
+    <img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=hUIbi1acVE0021" style="display:none" height="1" width="1" alt="" />
+</noscript>
+<!-- End Alexa Certify Javascript -->
+<!-- 其它流量統計碼 結束 -->  
+
+<!--DFP廣告js 開始-->
+<script type="text/javascript" src="//cdn2.ettoday.net/dfp/dfp-gpt.js"></script>
+<!--DFP廣告js 結束--></head>
+
+<body class="index">
+<div id="fb-root">
+</div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=146858218737386";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script> 
+
+<!-- FB Quote 選取文字分享 開始-->
+<div class="fb-quote"></div>
+<!-- FB Quote 選取文字分享 結束-->
+<!--wrapper_box 開始-->
+<div class="wrapper_box">
+    
+    <!--wrapper 開始-->
+    <div class="wrapper">
+        
+        
+        <!--轟天雷/凱旋門 廣告 開始-->
+		<div class="top-sky-index">
+			<script language="JavaScript" type="text/javascript">
+			<!-- <![CDATA[
+				var ts = Math.random();
+				document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="//ad.ettoday.net/ads.php?bid=index_thunder&rr='+ ts +'"></scr' + 'ipt>');
+			// ]]> -->
+			</script>
+		</div>
+		<!--轟天雷/凱旋門 廣告 結束-->
+        
+        <!--topbar_box 開始-->
+        <div class="topbar_box">
+            <!--topbar 開始-->
+            <div class="topbar">
+                <!--選單1 開始-->
+                <div class="menu_1">
+                   　<ul class="clearfix">
+                        
+                        <script>
+                            if($.cookie('check_charset')=="cn"){
+                                document.write("<li><a href=\"javascript:void(0)\" onclick=\"location.replace('/changeCharset.php?rtype=tw&rurl=/');\">繁體</a></li>");
+                            }else{
+                                document.write("<li><a href=\"javascript:void(0)\" onclick=\"location.replace('/changeCharset.php?rtype=cn&rurl=/');\">简体</a></li>");
+                            }
+                        </script>
+                        <li>|</li>
+                        <li>
+                                                        <a href="#" onclick="location.replace('/changeReadType.php?rtype=0&rurl=http%3A%2F%2Fwww.ettoday.net%2F');">手機版</a>
+                                                    </li>
+                        <li>|</li>
+                        <li><a href="//www.ettoday.net/events/app/ettoday_app.htm" target="_blank">APP</a></li>
+                        <li>|</li>
+                        <li><a href="//www.ettoday.net/events/campaign/event-list.php" target="_blank">歷史活動</a></li>
+                        <li>|</li>
+                        <li><a href="//www.ettoday.net/topic/index.htm" target="_blank">歷史專題</a></li>
+                        <li>|</li>
+                        <li><a href="https://member.ettoday.net/" target="_blank">會員中心</a></li>
+                   　</ul>
+                </div>
+                <!--選單1 結束-->
+                
+                <!--選單2 開始-->
+                <div class="menu_2">
+                    <ul class="clearfix">
+                        <li><a href="//www.ettoday.net/events/news-express/epaper.php" class="btn rss" target="_blank">RSS</a></li>
+                        <li><a href="https://www.facebook.com/ETtoday" class="btn fb" target="_blank">FB</a></li>
+                        <li><a href="https://www.instagram.com/ettodaytw/" class="btn ig" target="_blank">IG</a></li>
+                        <li><a href="//weibo.com/ettodaynet" class="btn weibo" target="_blank">weibo</a></li>
+                        <li><a href="https://plus.google.com/+ettoday?rel=author" class="btn gplus"  target="_blank">G+</a></li>
+                    </ul>
+                </div>
+                <!--選單2 結束-->
+                
+                <!--搜尋 開始-->
+                <div class="search" itemscope itemtype="//schema.org/WebSite">
+                	<link itemprop="url" href="//www.ettoday.net/"/>
+                    <form itemprop="potentialAction" itemscope itemtype="//schema.org/SearchAction" action="//www.ettoday.net/news_search/doSearch.php" method="get" name="dosearch" >
+                    	<meta itemprop="target" content="//www.ettoday.net/news_search/doSearch.php?keywords={query}"/>
+                        <input class="keyword" type="text" name="keywords" value="" itemprop="query-input" placeholder="請輸入關鍵字" x-webkit-speech/>
+                        <button class="go" onclick="document.forms['dosearch'].submit();">搜尋</button>
+                    </form>
+                </div>
+                <!--搜尋 結束-->
+            </div>
+            <!--topbar 結束-->
+        </div>
+        <!--topbar_box 結束-->
+        
+        <!--header_box 開始-->
+        <div class="header_box">
+            <!--header 開始-->
+            <div class="header">
+                             
+                <!--logo_ettoday 開始-->
+                <div class="logo_ettoday">
+                    <script src="//cdn2.ettoday.net/style/ettoday2017/js/logo.js"></script>
+                </div>
+                <!--logo_ettoday 結束-->
+                
+                <!--廣告 版頭小橫幅 250x50 開始-->
+                <div class="ad250x50">
+					<script language="JavaScript" type="text/javascript">
+					<!-- <![CDATA[
+						var ts = Math.random();
+						document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="//ad.ettoday.net/ads.php?bid=all_header_250x50&rr='+ ts +'"></scr' + 'ipt>');
+					// ]]> -->
+					</script>
+                </div>
+                <!--廣告 版頭小橫幅 250x50 結束-->
+                
+                <!--主選單 開始-->
+                <div class="nav_1">
+                    <ul class="clearfix">
+                        <li class="btn_1"><a href="/news/news-list.htm">即時<span>新聞</span></a></li>
+                        <li class="btn_2">
+                            <a href="javascript:;"><em class="icon"></em>新聞總覽</a>
+                            <!--下拉 開始-->
+                            <div class="sub size_1 clearfix">
+                                                                <a href="//www.ettoday.net/news/news-list.htm" target="_self">即時</a>
+                                <a href="//www.ettoday.net/album/index-all.htm" target="_self">圖集</a>
+                                <a href="//www.ettoday.net/feature/index" target="_self">專題</a>
+                                <a href="//boba.ettoday.net/" target="_blank">影音</a>
+                                <a href="//www.ettoday.net/news/hot-news.htm" target="_self">熱門</a>
+                                <a href="//www.ettoday.net/news/focus/%E6%94%BF%E6%B2%BB/" target="_self">政治</a>
+                                <a href="//www.ettoday.net/news/focus/%E8%B2%A1%E7%B6%93/" target="_self">財經</a>
+                                <a href="//www.ettoday.net/news/focus/%E5%A4%A7%E9%99%B8/" target="_self">大陸</a>
+                                <a href="//www.ettoday.net/news/focus/%E5%9C%8B%E9%9A%9B/" target="_self">國際</a>
+                                <a href="//www.ettoday.net/news/focus/%E7%A4%BE%E6%9C%83/" target="_self">社會</a>
+                                <a href="//www.ettoday.net/feature/todaysforum" target="_self">雲論</a>
+                                <a href="//www.ettoday.net/news/focus/%E8%AB%96%E5%A3%87/" target="_self">論壇</a>
+                                <a href="//www.ettoday.net/news/focus/%E5%9C%B0%E6%96%B9/" target="_self">地方</a>
+                                <a href="//www.ettoday.net/warrant/" target="_blank">權證</a>
+                                <a href="//star.ettoday.net/" target="_blank">影劇</a>
+                                <a href="//sports.ettoday.net/" target="_blank">體育</a>
+                                <a href="//www.ettoday.net/news/focus/%E7%94%9F%E6%B4%BB/" target="_self">生活</a>
+                                <a href="//health.ettoday.net/" target="_blank">健康</a>
+                                <a href="//www.ettoday.net/news/focus/%E8%A6%AA%E5%AD%90/" target="_self">親子</a>
+                                <a href="//www.ettoday.net/bbc/" target="_blank">BBC</a>
+                                <a href="//www.ettoday.net/news/focus/%E6%96%B0%E5%A5%87/" target="_self">新奇</a>
+                                <a href="//www.ettoday.net/news/focus/%E8%BB%8D%E6%AD%A6/" target="_self">軍武</a>
+                                <a href="//www.ettoday.net/news/focus/%E7%B6%B2%E6%90%9C/" target="_self">網搜</a>
+                                <a href="//www.ettoday.net/news/focus/3C%E7%A7%91%E6%8A%80/" target="_self">３Ｃ</a>
+                                <a href="//www.ettoday.net/news/focus/3C%E7%A7%91%E6%8A%80/%E6%89%8B%E6%A9%9F%E5%B9%B3%E6%9D%BF/" target="_self">手機</a>
+                                <a href="//travel.ettoday.net/" target="_blank">旅遊</a>
+                                <a href="//www.ettoday.net/news/focus/%E5%AF%B5%E7%89%A9/" target="_self">寵物</a>
+                                <a href="//travel.ettoday.net/focus/%E7%BE%8E%E9%A3%9F%E5%9C%B0%E5%9C%96/" target="_blank">美食</a>
+                                <a href="//fashion.ettoday.net/" target="_blank">時尚</a>
+                                <a href="//speed.ettoday.net" target="_blank">車雲</a>
+                                <a href="//www.ettoday.net/news/focus/%E6%B0%91%E7%94%9F%E6%B6%88%E8%B2%BB/" target="_self">消費</a>
+                                <a href="//www.ettoday.net/news/focus/%E7%94%B7%E5%A5%B3/" target="_self">男女</a>
+                                <a href="//www.ettoday.net/news/focus/%E7%94%9F%E6%B4%BB/%E6%AD%A3%E5%A6%B9/" target="_self">正妹</a>
+                                <a href="//game.ettoday.net/" target="_blank">遊戲</a>
+                                <a href="//www.ettoday.net/dalemon/collection/11" target="_blank">開運</a>
+                                <a href="//www.ettoday.net/news/focus/%E5%90%8D%E5%AE%B6/" target="_self">名家</a>
+                                <a href="//www.ettoday.net/news/focus/%E9%81%94%E4%BA%BA/" target="_self">達人</a>
+                                <a href="//house.ettoday.net" target="_blank">房產</a>
+                                <a href="//www.ettoday.net/news/focus/%E5%85%AC%E7%9B%8A/%E6%BA%AB%E9%A6%A8/" target="_self">溫馨</a>
+                                <a href="//www.ettoday.net/news/focus/%E9%9B%9C%E8%AA%8C/" target="_self">雜誌</a>
+                                <a href="//www.ettoday.net/feature/etplaent" target="_self">星球</a>
+                                <a href="//www.ettoday.net/news/focus/%E7%A4%BE%E6%9C%83/%E4%BF%9D%E9%9A%9C%E4%BA%BA%E6%AC%8A/" target="_self">人權</a>
+                                <a href="http://www.ettoday.net/news/focus/%E4%BF%9D%E9%9A%AA/" target="_self">保險</a>
+                            </div>
+                            <!--下拉 結束-->
+                        </li>
+                        
+                        <li class="btn_3">
+                            <a href="javascript:;"><em class="icon"></em>專題活動</a>
+                            <!--下拉 開始-->
+                            <div class="sub size_2">
+                                <!--box_1 開始-->
+                                <div class="box_1">
+                                    <h3>精彩專題</h3>
+                                    <a href="//www.ettoday.net/feature/etplaent" target="_blank">ET小星球</a>
+<a href="http://www.ettoday.net/feature/toomuchtaxla" target="_blank">六大優惠新制+六大地雷，5月報稅省錢必看！</a>
+<a href="//www.ettoday.net/feature/ettodaybobalive" target="_blank">播吧直播，一網打盡94狂！</a>
+                                    <a href="http://www.ettoday.net/feature/toomuchtaxla" target="_blank">2017萬萬稅</a>
+                                    <a href="http://www.ettoday.net/feature/kao" target="_blank">106年大考新聞專區</a>
+                                    <a href="http://www.ettoday.net/feature/bayer" target="_blank">素寶丁神人媽媽能量館</a>
+                                    <a href="http://www.ettoday.net/feature/smartcity" target="_blank">智慧城市論壇</a>
+                                    <a href="http://www.ettoday.net/feature/2017mothersday" target="_blank">母親，您真是太神奇了！</a>
+
+                                </div>
+                                <!--box_1 結束-->
+                                <!--box_2 開始-->
+                                <div class="box_2">
+                                    <h3>熱門活動</h3>
+                                    <a href="https://www.facebook.com/events/230061887421110/?active_tab=discussion" target="_blank">一起撩新聞 ! ETtoday新秀主播徵選 !</a>
+<a href="https://www.facebook.com/events/1167522090049402/" target="_blank">【進行中】狂！你拍影音換我百萬人氣</a>
+                                    <a href="http://events.ettoday.net/activity/2017mothersday" target="_blank">出賣媽媽年輕照　送長榮機票兌換券</a>
+                                    <a href="http://events.ettoday.net/activity/destroyer" target="_blank">家有無敵破壞王</a>
+
+                                </div>
+                                <!--box_2 結束-->
+                            </div>
+                            <!--下拉 結束--> 
+                        </li>
+                        <li class="btn_4"><a href="//msg.ettoday.net/rd.php?id=4757" target="_blank"><span>大降價</span></a></li>
+                        <li class="btn_5"><a href="//www.ettoday.net/dalemon/" target="_blank"><span>大檸檬</span></a></li>
+                        <li class="btn_6"><a href="//travel.ettoday.net/" target="_blank"><span>旅遊雲</span></a></li>
+                        <li class="btn_7"><a href="//sports.ettoday.net/" target="_blank"><span>運動雲</span></a></li>    
+                        <li class="btn_8"><a href="//star.ettoday.net/" target="_blank"><span>星光雲</span></a></li>
+                        <li class="btn_9"><a href="//boba.ettoday.net/" target="_blank"><span>播吧</span></a></li>
+                        <li class="btn_10"><a href="//fashion.ettoday.net/" target="_blank"><span>時尚</span></a></li>         
+                        <li class="btn_11"><a href="//game.ettoday.net/" target="_blank"><span>遊戲雲</span></a></li>
+                        <li class="btn_12"><a href="//health.ettoday.net/" target="_blank"><span>健康雲</span></a></li>  
+                        <li class="btn_13"><a href="//speed.ettoday.net/" target="_blank"><span>車雲</span></a></li>
+                        <li class="btn_14"><a href="//house.ettoday.net/" target="_blank"><span>房產雲</span></a></li>
+                    </ul>
+                </div>
+                <!--主選單 結束-->
+                <!--次選單 開始-->
+                <div class="nav_2">
+                    <ul>
+                     <li><a href="//st.ettoday.net/shop/shop-list.php" target="_blank">購物e大道</a></li>
+                     <li><a href="//www.ettoday.net/warrant/" target="_blank">權證</a></li>
+                     <li><a href="//www.ettoday.net/feature/todaysforum" target="_blank">雲論</a></li>
+                     <li><a href="//movies.ettoday.net/" target="_blank">看電影</a></li>
+                     <li><a href="//msg.ettoday.net/rd.php?id=4742" target="_blank">新住民</a></li> 
+                     <li><a href="//msg.ettoday.net/rd.php?id=4748" target="_blank">5/6野餐日</a></li>
+                     <li><a href="//www.ettoday.net/survey/" target="_blank">民調雲</a></li>
+                     <li><a href="//www.ettoday.net/feature/ponta/20" target="_blank">按我得點</a></li>
+                    </ul>
+                </div>
+                <!--次選單 結束-->
+            </div>
+            <!--header 結束-->
+        </div>
+        <!--header_box 結束-->
+        
+                
+<!-- 直播 start-->
+<div id="ettoday_live" style="clear:both; width:1200px; height:530px; margin:20px auto 20px auto;text-align:center;background-color:#E6E6E6;border:10px solid #E6E6E6; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;">
+    <!-- Player 區-->
+    <div id="live_player" style="float:left; width:864px; height:505px; position: relative;">
+        <span class="live_btn_close"></span>
+        <iframe id="ls_embed_1494235322" src="https://livestream.com/accounts/12891367/events/7370771/player?width=560&height=315&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=true" width="560" height="315" frameborder="0" scrolling="no" allowfullscreen> </iframe><script type="text/javascript" data-embed_id="ls_embed_1494235322" src="https://livestream.com/assets/plugins/referrer_tracking.js"></script>
+    </div>
+    <!-- 廣告 區-->
+    <div id="ad-slot" style="float:right;width:300px; height:505px;">
+        <iframe src="//www.ettoday.net/events/_demo/live/ad-slot-1280.htm" width="300" height="505" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+    </div>
+</div>
+
+<style>
+#live_player iframe {width:864px; height:505px;}
+.live_btn_close{ position: absolute; width: 20px; height: 20px; background: url(//cdn2.ettoday.net/style/web_2011/images/icon_btn_side.png) no-repeat; z-index:10; background-size: 20px auto; top: 0px; right: 0px; cursor: pointer;}
+</style>
+<script>
+    if ($.cookie("liveshowClose_663")==1) { $('#ettoday_live').remove(); }
+    $(function(){
+        $('.live_btn_close').click(function () {
+            $('#ettoday_live').remove();
+            $.cookie("liveshowClose_663", 1, { expires: 1, path:"/", domain: "ettoday.net" });
+        });
+    })
+</script>
+<!-- 直播 end-->        
+        <!--hot_zone_box 開始-->
+                    <div class="hot_zone_box">
+            <!--hot_zone 開始-->
+            <div class="hot_zone">
+                                <!--text_ticker_1  ET快訊 開始-->
+                <div class="text_ticker_1">
+                    <em>ET快訊</em>
+                    <!--滾動 開始-->
+                    <div class="run">
+                        <!--inner 開始-->
+                        <div class="inner">
+                                                       <div class="piece"><a href="//www.ettoday.net/survey/survey.php?id=166?from=20170502survey166" target="_blank">ET換新LOGO啦！　回答問題就抽PS4、小7禮券</a></div>
+                                                       <div class="piece"><a href="//www.ettoday.net/survey/survey.php?id=169?from=20170505survey169" target="_blank">想要全家禮物卡？快點參加「即時民調／獄政改革—監獄超收」</a></div>
+                                                   </div>
+                        <!--inner 結束-->
+                    </div>
+                    <!--滾動 結束-->
+                </div>
+                <!--text_ticker_1  ET快訊 結束-->                
+            	<!--area_1 開始-->
+                <div class="area_1">
+                    <!--gallery_1  開始-->
+                    <div class="gallery_1">
+                        <!--滾動 開始-->
+                        <div class="run">
+                            <!--inner 開始-->
+                            <div class="inner">
+                                <div class="piece">
+                                    <a class="pic" href="/news/20170509/921021.htm" target="_blank"><img title="陳星發聲明坦承「師生戀」　林俊憲：絕對不會放過你" src="//cdn2.ettoday.net/images/2498/d2498911.jpg"/></a>
+                                    <a class="tag" href="/news/20170509/921021.htm" target="_blank">政治</a>
+                                </div>
+                                <div class="piece">
+                                    <a class="pic" href="/news/20170509/921006.htm" target="_blank"><img title="打破沉默認交往2個月！　陳星發5點聲明：本人為此已身敗名裂" src="//cdn2.ettoday.net/images/2511/d2511246.jpg"/></a>
+                                    <a class="tag" href="/news/20170509/921006.htm" target="_blank">社會</a>
+                                </div>
+                                <div class="piece">
+                                    <a class="pic" href="/news/20170509/920983.htm" target="_blank"><img title="柯文哲吃素求世大運順利　王世堅酸：要不要加碼更衣沐浴" src="//cdn2.ettoday.net/images/2441/d2441373.jpg"/></a>
+                                    <a class="tag" href="/news/20170509/920983.htm" target="_blank">政治</a>
+                                </div>
+                                <!--廣告 首頁_頭條大圖(4) 開始-->
+                                <div class="piece">
+                                     <script language="JavaScript" type="text/javascript">
+									 <!-- <![CDATA[
+										 var ts = Math.random();
+										 document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="//ad.ettoday.net/ads.php?bid=index_slide_1&rr='+ ts +'"></scr' + 'ipt>');
+									 // ]]> -->
+									 </script>
+                                </div>
+                                <!-- 廣告 首頁_頭條大圖(4) 結束-->
+                                <!-- 廣告 首頁_頭條大圖(5) 開始-->
+                                <div class="piece">
+                                     <script language="JavaScript" type="text/javascript">
+									 <!-- <![CDATA[
+										 var ts = Math.random();
+										 document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="//ad.ettoday.net/ads.php?bid=index_slide_2&rr='+ ts +'"></scr' + 'ipt>');
+									 // ]]> -->
+									 </script>
+                                </div>
+                                <!-- 廣告 首頁_頭條大圖(5) 結束-->
+                                <!-- 廣告 首頁_頭條大圖(6) 開始-->
+                                <div class="piece">
+                                     <script language="JavaScript" type="text/javascript">
+									 <!-- <![CDATA[
+										 var ts = Math.random();
+										 document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="//ad.ettoday.net/ads.php?bid=index_slide_3&rr='+ ts +'"></scr' + 'ipt>');
+									 // ]]> -->
+									 </script>
+                                </div>
+                                <!-- 廣告 首頁_頭條大圖(6) 結束-->
+                                <div class="piece">
+                                    <a class="pic" href="/news/20170509/920224.htm" target="_blank"><img title="歐陽娜娜被控捏鸚鵡惹議　網友開砲：太過分！" src="//cdn2.ettoday.net/images/2511/d2511228.jpg"/></a>
+                                    <a class="tag" href="/news/20170509/920224.htm" target="_blank">影劇</a>
+                                </div>
+                                <div class="piece icon_type_video">
+                                    <a class="pic" href="/news/20170509/920933.htm" target="_blank"><img title="又是白凜？帶15歲少女爬山失蹤14天…警搜山卻只找到1人" src="//cdn2.ettoday.net/images/2511/d2511212.jpg"/></a>
+                                    <a class="tag" href="/news/20170509/920933.htm" target="_blank">社會</a>
+                                </div>
+                            </div>
+                            <!--inner 結束-->
+                        </div>
+                        <!--滾動 開始-->
+                    </div>
+                    <!--gallery_1  結束-->
+                </div>
+                <!--area_1 結束-->
+                
+                <!--area_2 開始-->
+                <div class="area_2">
+                    <!--part_thumb_2 開始-->
+					<div class="part_thumb_2">
+						<div class="piece">
+						    <a class="pic" href="/news/20170509/921008.htm" target="_blank"><img src="//cdn2.ettoday.net/images/1687/c1687520.jpg"/></a>
+						    <h3><a href="/news/20170509/921008.htm" target="_blank">維格餅家遭搜索　涉竄改有效期限</a></h3>
+						</div>
+						<div class="piece">
+						    <a class="pic" href="/news/20170509/920986.htm" target="_blank"><img src="//cdn2.ettoday.net/images/2509/c2509144.jpg"/></a>
+						    <h3><a href="/news/20170509/920986.htm" target="_blank">郭台銘接待李克強　廠房前交流5..</a></h3>
+						</div>
+						<!-- 廣告 首頁_頭條大圖(11) 開始-->
+						<script language="JavaScript" type="text/javascript">
+						<!-- <![CDATA[
+							var ts = Math.random();
+							document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="//ad.ettoday.net/ads.php?bid=index_headline&rr='+ ts +'"></scr' + 'ipt>');
+						// ]]> -->
+						</script>
+						<!-- 廣告 首頁_頭條大圖(11) 結束-->
+						<div class="piece">
+						    <a class="pic" href="/news/20170509/921031.htm" target="_blank"><img src="//cdn2.ettoday.net/images/1391/c1391370.jpg"/></a>
+						    <h3><a href="/news/20170509/921031.htm" target="_blank">財部：台新金違反ASTEP保密..</a></h3>
+						</div>
+					</div>
+					<!--part_thumb_2 開始-->
+                </div>
+                <!--area_2 結束-->
+                
+                <!--area_3 開始-->
+                <div class="area_3">
+                    <!--廣告 首頁大巨幅 370x450 開始-->
+                    <div class="ad_370x450">
+                    	<script language="JavaScript" type="text/javascript">
+						<!-- <![CDATA[
+							var ts = Math.random();
+							document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="//ad.ettoday.net/ads.php?bid=index_370x450&rr='+ ts +'"></scr' + 'ipt>');
+						// ]]> -->
+						</script>
+                    </div>
+                    <!--廣告 首頁大巨幅 370x450 結束-->
+                </div>
+                <!--area_3 結束-->
+                
+            </div>
+            <!--hot_zone 結束-->
+        </div>
+        <!--hot_zone_box 結束-->
+
+        <!--首頁專用js 開始-->
+        <script src="//cdn2.ettoday.net/style/ettoday2017/js/index.js"></script>
+        <!--首頁專用js 結束-->
+        
+        <!--container_box 開始-->
+        <div class="container_box">
+            <!--container 開始-->
+            <div class="container">
+                <!--橫列 r1 開始-->
+                <div class="r1 clearfix"> 
+                  <!--直欄 c1 開始-->
+                  <div class="c1">
+                      
+                      <!--block_1 區塊 開始-->
+					  <div class="block block_1">
+						  <!--block_title 開始-->
+						  <div class="block_title">
+						    <h3><em class="icon"></em>人氣新聞</h3>
+						        <a href="/news/hot-news.htm" class="btn_more">更多<i class="icon_arrow"></i></a>
+						  </div>
+						  <!--block_title 結束-->
+						  <!--block_content 開始-->
+						  <div class="block_content">
+							  <!--part_list_1 文字列表 開始-->
+							  <div class="part_list_1 clearfix">
+								  <!--box_1 左 開始-->
+								  <div class="box_1">
+									  <!--首則圖 開始-->
+									  <div class="cover_pic">
+                                                                              <a target="_blank" class="pic" href="/news/20170509/920303.htm"><img src="//cdn2.ettoday.net/images/2509/c2509155.jpg" alt="快訊／喇舌國中妹！「吃屎哥」下跪磕頭狂甩12巴掌：對不起家屬"></a>
+									  </div>        
+									  <!--首則圖 結束-->
+									  <h3 class="clearfix"><em class="number">1</em><a target="_blank" href="/news/20170509/920303.htm">快訊／喇舌國中妹！「吃屎哥」下跪磕頭狂甩12巴掌：..</a><span class="date">5/9 05:50</span></h3>
+									  <h3 class="clearfix"><em class="number">2</em><a target="_blank" href="/news/20170508/920210.htm">鄧佳華喇舌國中妹狂吸！結果「被家長告了」　警要傳喚..</a><span class="date">5/8 22:07</span></h3>
+								  </div>
+								  <!--box_1 左 結束-->
+
+								  <!--box_2 右 開始-->
+								  <div class="box_2">
+									  <h3><em class="number">3</em><a target="_blank" href="/news/20170508/920009.htm">被強暴後的隔天早上　我幫強暴我的人做了早餐...</a><span class="date">5/8 16:56</span></h3>
+									  <h3><em class="number">4</em><i class="icon_type_video"></i><a target="_blank" href="/news/20170509/920369.htm">電話撥通就淚崩！母愛威力超驚人　這老師讓全班同學哭..</a><span class="date">5/9 11:52</span></h3>
+									  <h3><em class="number">5</em><i class="icon_type_video"></i><a target="_blank" href="/news/20170509/920503.htm">白癡公主被揉胸「親驗CUP大小」　周荀爆真相：根本..</a><span class="date">5/9 11:08</span></h3>
+									  <h3><em class="number">6</em><a target="_blank" href="/news/20170508/920241.htm">借衣太保守⋯狄鶯偷換私服　透視爆乳裝「辣過許維恩」</a><span class="date">5/8 22:42</span></h3>
+									  <h3><em class="number">7</em><i class="icon_type_video"></i><a target="_blank" href="/news/20170509/920739.htm">《甘味》人皮面具假到出戲！　網「該得金鐘獎」廢到笑</a><span class="date">5/9 15:20</span></h3>
+									  <h3><em class="number">8</em><a target="_blank" href="/news/20170508/920216.htm">水上摩托車最狂橫越台灣海峽！4人拿身分證：澎湖騎到..</a><span class="date">5/8 23:53</span></h3>
+									  <h3><em class="number">9</em><a target="_blank" href="/news/20170509/921000.htm">快訊／陳星出現了！　崩潰發聲明「與林奕含交往」</a><span class="date">5/9 20:01</span></h3>
+									  <h3><em class="number">10</em><i class="icon_type_video"></i><a target="_blank" href="/news/20170509/920060.htm">「全球最沒用機場」盼了12年　終於有遊客搭飛機來玩..</a><span class="date">5/9 00:21</span></h3>
+								  </div>
+								  <!--box_2 右 結束-->
+							  </div>
+							  <!--part_list_1 文字列表 結束-->
+						  </div>
+						  <!--block_content 結束-->
+					  </div>
+					  <!--block_1 區塊 結束-->
+						
+					  <!--block_1 區塊 開始-->
+					  <div class="block">
+						  <!--block_content 開始-->
+						  <div class="block_content">
+							  <!--part_pictxt_2 圖文列表 開始-->
+							  <div class="part_pictxt_2 clearfix">
+								  <div class="piece">
+									  <!--title 開始-->
+									  <div class="title">
+									      <h2><em class="icon color_1"></em>南韓總統大選</h2>
+									      <a class="btn_more" href="/news/focus/首頁/南韓總統大選/">更多<i class="icon_arrow"></i></a>
+									  </div>
+									  <!--title 結束-->
+									  <!--首則帶圖 開始-->									  <a target="_blank" class="cover_pic icon_type_video" href="/news/20170509/920968.htm">
+                                                                              <div class="pic"><img src="//cdn2.ettoday.net/images/2511/c2511179.jpg" alt="南韓大選自由派贏定了　學者：兩韓經濟合作對我們不利"></div>
+									      <h3>南韓大選　學者：兩韓合作對我們..</h3>
+									  </a>									  <!--首則帶圖 結束-->
+									  <!--list 列表 開始-->
+									  <div class="list">
+									      <h3><a target="_blank" href="/news/20170509/920940.htm">即／韓大選出口民調出爐！文在寅..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920759.htm">南韓大選投票率預計超過80%</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920678.htm">文在寅童年貧窮到被趕出校園</a></h3>  
+									      <h3><i class="icon_type_video"></i><a target="_blank" href="/news/20170509/920784.htm">TWICE娜璉、志效首次投總統..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920540.htm">「復仇者」文在寅支持度近5成</a></h3>  
+									  </div>
+									  <!--list 列表 結束-->
+								  </div>
+								  <div class="piece">
+									  <!--title 開始-->
+									  <div class="title">
+									      <h2><em class="icon color_2"></em>WHA未受邀</h2>
+									      <a class="btn_more" href="/news/focus/首頁/WHA未受邀/">更多<i class="icon_arrow"></i></a>
+									  </div>
+									  <!--title 結束-->
+									  <!--首則帶圖 開始-->									  <a target="_blank" class="cover_pic" href="/news/20170509/920741.htm">
+                                                                              <div class="pic"><img src="//cdn2.ettoday.net/images/2500/c2500049.jpg" alt="未能參加WHA！藍籲接受九二共識　綠委批：哪國的鬼邏輯？"></div>
+									      <h3>藍籲接受九二共識　遭綠委批鬼邏..</h3>
+									  </a>									  <!--首則帶圖 結束-->
+									  <!--list 列表 開始-->
+									  <div class="list">
+									      <h3><a target="_blank" href="/news/20170509/920736.htm">外媒盤點大陸打壓台灣的5種招數</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920715.htm">台灣無法參加WHA　賴清德這樣..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920702.htm">感謝日本挺台灣　蔡英文又發文　</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920660.htm">日挺台入WHA　蔡英文推特日文..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920567.htm">日本支持台灣以任何形式加入WH..</a></h3>  
+									  </div>
+									  <!--list 列表 結束-->
+								  </div>
+								  <div class="piece">
+									  <!--title 開始-->
+									  <div class="title">
+									      <h2><em class="icon color_3"></em>補教狼師風暴</h2>
+									      <a class="btn_more" href="/news/focus/首頁/補教狼師風暴/">更多<i class="icon_arrow"></i></a>
+									  </div>
+									  <!--title 結束-->
+									  <!--首則帶圖 開始-->									  <a target="_blank" class="cover_pic" href="/news/20170509/921021.htm">
+                                                                              <div class="pic"><img src="//cdn2.ettoday.net/images/2498/c2498911.jpg" alt="陳星發聲明坦承「師生戀」　林俊憲：絕對不會放過你"></div>
+									      <h3>林俊憲喊話陳星：絕對不會放過你</h3>
+									  </a>									  <!--首則帶圖 結束-->
+									  <!--list 列表 開始-->
+									  <div class="list">
+									      <h3><a target="_blank" href="/news/20170509/921000.htm">即／陳星崩潰聲明：與林奕含交往</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920908.htm">補教業實名制有望！教部抽查狼師</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920810.htm">被指狼師　吳翰陞正式提告</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920423.htm">不成立性侵　她討厭爸爸的遊戲</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920743.htm">游擊文化道歉：沒人可代替奕含說..</a></h3>  
+									  </div>
+									  <!--list 列表 結束-->
+								  </div>
+							  </div>
+							  <!--part_pictxt_2 圖文列表 結束-->
+						  </div>
+						  <!--block_content 結束-->
+					  </div>
+					  <div class="block">
+						  <!--block_content 開始-->
+						  <div class="block_content">
+							  <!--part_pictxt_2 圖文列表 開始-->
+							  <div class="part_pictxt_2 clearfix">
+								  <div class="piece">
+									  <!--title 開始-->
+									  <div class="title">
+									      <h2><em class="icon color_1"></em>政治觀察站</h2>
+									      <a class="btn_more" href="/news/focus/首頁/政治觀察站/">更多<i class="icon_arrow"></i></a>
+									  </div>
+									  <!--title 結束-->
+									  <!--首則帶圖 開始-->									  <a target="_blank" class="cover_pic" href="/news/20170509/920983.htm">
+                                                                              <div class="pic"><img src="//cdn2.ettoday.net/images/2441/c2441373.jpg" alt="柯文哲吃素求世大運順利　王世堅酸：要不要加碼更衣沐浴"></div>
+									      <h3>柯P吃素求世大運順利　王世堅狠..</h3>
+									  </a>									  <!--首則帶圖 結束-->
+									  <!--list 列表 開始-->
+									  <div class="list">
+									      <h3><a target="_blank" href="/news/20170509/917131.htm">湯文章／改革法院基層人力結構</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920400.htm">柱競選團用台大辦公室拉票？綠委..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920882.htm">贊助世大運億元就幫廣告？北市府..</a></h3>  
+									      <h3><i class="icon_type_video"></i><a target="_blank" href="/news/20170509/920854.htm">雙層巴士司機好辛苦　下雨還要拉..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920741.htm">藍籲接受九二共識　遭綠委批鬼邏..</a></h3>  
+									  </div>
+									  <!--list 列表 結束-->
+								  </div>
+								  <div class="piece">
+									  <!--title 開始-->
+									  <div class="title">
+									      <h2><em class="icon color_2"></em>社會焦點</h2>
+									      <a class="btn_more" href="/news/focus/首頁/社會焦點/">更多<i class="icon_arrow"></i></a>
+									  </div>
+									  <!--title 結束-->
+									  <!--首則帶圖 開始-->									  <a target="_blank" class="cover_pic icon_type_video" href="/news/20170509/920933.htm">
+                                                                              <div class="pic"><img src="//cdn2.ettoday.net/images/2511/c2511212.jpg" alt="又是白凜？帶15歲少女爬山失蹤14天…警搜山卻只找到1人"></div>
+									      <h3>又是白凜？帶少女爬山害失蹤14..</h3>
+									  </a>									  <!--首則帶圖 結束-->
+									  <!--list 列表 開始-->
+									  <div class="list">
+									      <h3><a target="_blank" href="/news/20170509/921006.htm">陳星聲明認交往：本人已身敗名裂</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/921008.htm">維格餅家遭搜索　涉竄改有效期限</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920975.htm">婦人走失　警靠舊健保卡讓她回家</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920845.htm">她控性侵撿屍男卻無罪　關鍵在閨..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920918.htm">北投女童割喉案2年　劉家添1女</a></h3>  
+									  </div>
+									  <!--list 列表 結束-->
+								  </div>
+								  <div class="piece">
+									  <!--title 開始-->
+									  <div class="title">
+									      <h2><em class="icon color_3"></em>國際焦點</h2>
+									      <a class="btn_more" href="/news/focus/首頁/國際焦點/">更多<i class="icon_arrow"></i></a>
+									  </div>
+									  <!--title 結束-->
+									  <!--首則帶圖 開始-->									  <a target="_blank" class="cover_pic" href="/news/20170509/920896.htm">
+                                                                              <div class="pic"><img src="//cdn2.ettoday.net/images/2511/c2511141.jpg" alt="川普小女兒進入喬治城大學　法學院全美排名第15"></div>
+									      <h3>川普小女兒進入全美第15法學院</h3>
+									  </a>									  <!--首則帶圖 結束-->
+									  <!--list 列表 開始-->
+									  <div class="list">
+									      <h3><a target="_blank" href="/news/20170509/920744.htm">美23歲男性侵4歲童　再丟入池..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920844.htm">韓媒：美朝在挪威展開半官方對話</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920648.htm">戰爭安魂曲　女在一戰紀念碑裸舞</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920759.htm">南韓大選投票率預計超過80%</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920526.htm">天才作品？男大生放鳳梨惡搞藝術..</a></h3>  
+									  </div>
+									  <!--list 列表 結束-->
+								  </div>
+							  </div>
+							  <!--part_pictxt_2 圖文列表 結束-->
+						  </div>
+						  <!--block_content 結束-->
+					  </div>
+					  <div class="block">
+						  <!--block_content 開始-->
+						  <div class="block_content">
+							  <!--part_pictxt_2 圖文列表 開始-->
+							  <div class="part_pictxt_2 clearfix">
+								  <div class="piece">
+									  <!--title 開始-->
+									  <div class="title">
+									      <h2><em class="icon color_1"></em>2017萬萬稅</h2>
+									      <a class="btn_more" href="/news/focus/首頁/2017萬萬稅/">更多<i class="icon_arrow"></i></a>
+									  </div>
+									  <!--title 結束-->
+									  <!--首則帶圖 開始-->									  <a target="_blank" class="cover_pic" href="/news/20170508/920055.htm">
+                                                                              <div class="pic"><img src="//cdn2.ettoday.net/images/2508/c2508329.jpg" alt="遺產稅調漲至20％　有資產者這樣做節稅"></div>
+									      <h3>遺產稅調漲至20％　這樣做節稅</h3>
+									  </a>									  <!--首則帶圖 結束-->
+									  <!--list 列表 開始-->
+									  <div class="list">
+									      <h3><a target="_blank" href="/news/20170508/919494.htm">李沃牆／台灣，有錢人的天堂</a></h3>  
+									      <h3><a target="_blank" href="/news/20170504/917409.htm">退休金試算網挨批　金管會：會撤..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170504/917209.htm">小心8大避稅狀況　減少保險糾紛</a></h3>  
+									      <h3><a target="_blank" href="/news/20170504/917200.htm">遭怨難用　財部：Mac報稅前可..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170504/917167.htm">房貸利息支出抵稅　兩種情況不行</a></h3>  
+									  </div>
+									  <!--list 列表 結束-->
+								  </div>
+								  <div class="piece">
+									  <!--title 開始-->
+									  <div class="title">
+									      <h2><em class="icon color_2"></em>世界多新奇</h2>
+									      <a class="btn_more" href="/news/focus/首頁/世界多新奇/">更多<i class="icon_arrow"></i></a>
+									  </div>
+									  <!--title 結束-->
+									  <!--首則帶圖 開始-->									  <a target="_blank" class="cover_pic" href="/news/20170509/920914.htm">
+                                                                              <div class="pic"><img src="//cdn2.ettoday.net/images/2510/c2510972.jpg" alt="仿妝教主PONY婚紗照曝光！　森林內披獨角獸紫髮絕美"></div>
+									      <h3>PONY披獨角獸漸層髮拍婚紗神..</h3>
+									  </a>									  <!--首則帶圖 結束-->
+									  <!--list 列表 開始-->
+									  <div class="list">
+									      <h3><a target="_blank" href="/news/20170509/920920.htm">跳水金童Tom Daley完婚..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920894.htm">不滿老友失禁　日男滾水燙死他</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920870.htm">網友畫喵喵8段進化</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920836.htm">以為被找碴　空服員命令彈手風琴</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920878.htm">一張圖分辨正妹魯蛇　姿勢準到爆</a></h3>  
+									  </div>
+									  <!--list 列表 結束-->
+								  </div>
+								  <div class="piece">
+									  <!--title 開始-->
+									  <div class="title">
+									      <h2><em class="icon color_3"></em>TAIWAN新鮮事</h2>
+									      <a class="btn_more" href="/news/focus/首頁/TAIWAN新鮮事/">更多<i class="icon_arrow"></i></a>
+									  </div>
+									  <!--title 結束-->
+									  <!--首則帶圖 開始-->									  <a target="_blank" class="cover_pic" href="/news/20170509/920860.htm">
+                                                                              <div class="pic"><img src="//cdn2.ettoday.net/images/2511/c2511202.jpg" alt="運將嚇傻！公車一個Move…19歲女摔跌走道不醒：我2天沒睡了"></div>
+									      <h3>19歲女公車上摔跌不醒：我2天..</h3>
+									  </a>									  <!--首則帶圖 結束-->
+									  <!--list 列表 開始-->
+									  <div class="list">
+									      <h3><a target="_blank" href="/news/20170509/920679.htm">女生第一次出國去哪？　網推這裡</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920868.htm">喇舌雙俠下跪　少女：我嫁不出去..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920558.htm">酒店妹攬客新招　讓男人無法擋！</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920699.htm">4歲伊萊現身微風之夜萌賣乾麵</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920688.htm">「極度乾燥」變日本品牌？網友驚..</a></h3>  
+									  </div>
+									  <!--list 列表 結束-->
+								  </div>
+							  </div>
+							  <!--part_pictxt_2 圖文列表 結束-->
+						  </div>
+						  <!--block_content 結束-->
+					  </div>
+					  <div class="block">
+						  <!--block_content 開始-->
+						  <div class="block_content">
+							  <!--part_pictxt_2 圖文列表 開始-->
+							  <div class="part_pictxt_2 clearfix">
+								  <div class="piece">
+									  <!--title 開始-->
+									  <div class="title">
+									      <h2><em class="icon color_1"></em>大陸焦點</h2>
+									      <a class="btn_more" href="/news/focus/首頁/大陸焦點/">更多<i class="icon_arrow"></i></a>
+									  </div>
+									  <!--title 結束-->
+									  <!--首則帶圖 開始-->									  <a target="_blank" class="cover_pic" href="/news/20170509/920986.htm">
+                                                                              <div class="pic"><img src="//cdn2.ettoday.net/images/2509/c2509144.jpg" alt="才剛見完川普！郭台銘富士康親自接待李克強　廠房前交流5分鐘"></div>
+									      <h3>郭台銘接待李克強　廠房前交流5..</h3>
+									  </a>									  <!--首則帶圖 結束-->
+									  <!--list 列表 開始-->
+									  <div class="list">
+									      <h3><a target="_blank" href="/news/20170509/920667.htm">河北漁民撈出的機翼上掛16枚砲..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920793.htm">山東巴士起火  5韓籍、6陸籍..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920429.htm">9歲童破解母轉帳密碼儲值玩手遊</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920732.htm">女童捉魚昏倒　臉埋20公分深水..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920605.htm">中國10年內就能在小行星採礦</a></h3>  
+									  </div>
+									  <!--list 列表 結束-->
+								  </div>
+								  <div class="piece">
+									  <!--title 開始-->
+									  <div class="title">
+									      <h2><em class="icon color_2"></em>軍事焦點</h2>
+									      <a class="btn_more" href="/news/focus/首頁/軍事焦點/">更多<i class="icon_arrow"></i></a>
+									  </div>
+									  <!--title 結束-->
+									  <!--首則帶圖 開始-->									  <a target="_blank" class="cover_pic" href="/news/20170509/920734.htm">
+                                                                              <div class="pic"><img src="//cdn2.ettoday.net/images/2440/c2440478.jpg" alt="華郵：川普狗腿北京　「冷凍」對台軍售案"></div>
+									      <h3>華郵：川普停對台軍售案狗腿北京</h3>
+									  </a>									  <!--首則帶圖 結束-->
+									  <!--list 列表 開始-->
+									  <div class="list">
+									      <h3><a target="_blank" href="/news/20170509/920880.htm">飛指部前指揮官疑涉共諜案　國防..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920630.htm">美太平洋艦隊司令：南海航行不變</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920636.htm">雷根號艦載機東京訓練模擬起降</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920407.htm">俄羅斯A-50預警機進駐敘利亞</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920538.htm">汛期將至！國軍3萬3千兵力待命..</a></h3>  
+									  </div>
+									  <!--list 列表 結束-->
+								  </div>
+								  <div class="piece">
+									  <!--title 開始-->
+									  <div class="title">
+									      <h2><em class="icon color_3"></em>生活焦點</h2>
+									      <a class="btn_more" href="/news/focus/首頁/生活焦點/">更多<i class="icon_arrow"></i></a>
+									  </div>
+									  <!--title 結束-->
+									  <!--首則帶圖 開始-->									  <a target="_blank" class="cover_pic" href="/news/20170509/920867.htm">
+                                                                              <div class="pic"><img src="//cdn2.ettoday.net/images/2264/c2264024.jpg" alt="愛深蹲當心！她沒瘦到竟先傷筋　慘罹「髂脛束症候群」"></div>
+									      <h3>愛深蹲當心！她沒瘦到竟先傷到筋</h3>
+									  </a>									  <!--首則帶圖 結束-->
+									  <!--list 列表 開始-->
+									  <div class="list">
+									      <h3><a target="_blank" href="/news/20170509/920939.htm">僑委會頒僑生獎助學金　僑生：臺..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920773.htm">適性發展追求夢想</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920865.htm">長中大學榜單讚</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920936.htm">注意！雪山隧道科技執法6月將啟..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920835.htm">台灣虎航招募空服員！錄取率僅1..</a></h3>  
+									  </div>
+									  <!--list 列表 結束-->
+								  </div>
+							  </div>
+							  <!--part_pictxt_2 圖文列表 結束-->
+						  </div>
+						  <!--block_content 結束-->
+					  </div>
+					  <div class="block">
+						  <!--block_content 開始-->
+						  <div class="block_content">
+							  <!--part_pictxt_2 圖文列表 開始-->
+							  <div class="part_pictxt_2 clearfix">
+								  <div class="piece">
+									  <!--title 開始-->
+									  <div class="title">
+									      <h2><em class="icon color_1"></em>動物共和國</h2>
+									      <a class="btn_more" href="/news/focus/首頁/動物共和國/">更多<i class="icon_arrow"></i></a>
+									  </div>
+									  <!--title 結束-->
+									  <!--首則帶圖 開始-->									  <a target="_blank" class="cover_pic" href="/news/20170509/920876.htm">
+                                                                              <div class="pic"><img src="//cdn2.ettoday.net/images/2510/c2510751.jpg" alt="龍洞遊隼雛鳥墜崖亡　母鳥目睹先吃掉叼來的肉才飛離"></div>
+									      <h3>遊隼雛鳥墜崖　母鳥叼肉目睹飛離</h3>
+									  </a>									  <!--首則帶圖 結束-->
+									  <!--list 列表 開始-->
+									  <div class="list">
+									      <h3><i class="icon_type_video"></i><a target="_blank" href="/news/20170509/920474.htm">罕見！「白子鱷魚」全球僅20隻..</a></h3>  
+									      <h3><i class="icon_type_video"></i><a target="_blank" href="/news/20170509/920485.htm">黑柴不肯走　看到點心：哪都跟你..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920919.htm">想要家！棄養毛毛偷偷跟著行人走</a></h3>  
+									      <h3><i class="icon_type_video"></i><a target="_blank" href="/news/20170509/920527.htm">怎麼都甩不掉～被聖上手環黏緊緊</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920496.htm">貓咪告白不想對馬麻踏踏的真正原..</a></h3>  
+									  </div>
+									  <!--list 列表 結束-->
+								  </div>
+								  <div class="piece">
+									  <!--title 開始-->
+									  <div class="title">
+									      <h2><em class="icon color_2"></em>財經焦點</h2>
+									      <a class="btn_more" href="/news/focus/首頁/財經焦點/">更多<i class="icon_arrow"></i></a>
+									  </div>
+									  <!--title 結束-->
+									  <!--首則帶圖 開始-->									  <a target="_blank" class="cover_pic" href="/news/20170509/921031.htm">
+                                                                              <div class="pic"><img src="//cdn2.ettoday.net/images/1391/c1391370.jpg" alt="為彰銀再槓上！　財政部：台新金違反ASTEP保密協定"></div>
+									      <h3>財部：台新金違反ASTEP保密..</h3>
+									  </a>									  <!--首則帶圖 結束-->
+									  <!--list 列表 開始-->
+									  <div class="list">
+									      <h3><a target="_blank" href="/news/20170509/920997.htm">台股登萬點　壽險業買最多</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920953.htm">1天約30元小額保單　5業者掀..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920970.htm">彰銀遭詐貸2億 　金管會：尊重..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920658.htm">企業徵才不設限　薪資直逼3-5..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920841.htm">海外職缺看這裡　兆紅搶優秀人才</a></h3>  
+									  </div>
+									  <!--list 列表 結束-->
+								  </div>
+								  <div class="piece">
+									  <!--title 開始-->
+									  <div class="title">
+									      <h2><em class="icon color_3"></em>親子教養</h2>
+									      <a class="btn_more" href="/news/focus/首頁/親子教養/">更多<i class="icon_arrow"></i></a>
+									  </div>
+									  <!--title 結束-->
+									  <!--首則帶圖 開始-->									  <a target="_blank" class="cover_pic" href="/news/20170509/920327.htm">
+                                                                              <div class="pic"><img src="//cdn2.ettoday.net/images/2509/c2509952.jpg" alt="畫畫竟洩漏孩子心聲？　選「這個顏色」代表壓力大"></div>
+									      <h3>畫畫洩孩子心聲？這顏色代表壓力..</h3>
+									  </a>									  <!--首則帶圖 結束-->
+									  <!--list 列表 開始-->
+									  <div class="list">
+									      <h3><a target="_blank" href="/news/20170508/917675.htm">暖心保母幫買蛋糕替單親娃過生日</a></h3>  
+									      <h3><a target="_blank" href="/news/20170508/919603.htm">老實說我不生氣　媽媽最常說的6..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170507/917629.htm">麵店小老闆的每日任務讓老爸超驕..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170507/919146.htm">暖炸！帥機師幫一打四媽媽帶小孩</a></h3>  
+									      <h3><a target="_blank" href="/news/20170506/916904.htm">寶寶拒吃藥！媽咪必看的餵藥絕技</a></h3>  
+									  </div>
+									  <!--list 列表 結束-->
+								  </div>
+							  </div>
+							  <!--part_pictxt_2 圖文列表 結束-->
+						  </div>
+						  <!--block_content 結束-->
+					  </div>
+					  <div class="block">
+						  <!--block_content 開始-->
+						  <div class="block_content">
+							  <!--part_pictxt_2 圖文列表 開始-->
+							  <div class="part_pictxt_2 clearfix">
+								  <div class="piece">
+									  <!--title 開始-->
+									  <div class="title">
+									      <h2><em class="icon color_1"></em>娛樂八卦通</h2>
+									      <a class="btn_more" href="/news/focus/首頁/娛樂八卦通/">更多<i class="icon_arrow"></i></a>
+									  </div>
+									  <!--title 結束-->
+									  <!--首則帶圖 開始-->									  <a target="_blank" class="cover_pic icon_type_video" href="/news/20170509/921003.htm">
+                                                                              <div class="pic"><img src="//cdn2.ettoday.net/images/2511/c2511239.jpg" alt="韓瑜性感獨舞《PLAY我呸》登小巨蛋！女神：千載難逢機會"></div>
+									      <h3>女神站上小巨蛋！韓瑜性感獨舞</h3>
+									  </a>									  <!--首則帶圖 結束-->
+									  <!--list 列表 開始-->
+									  <div class="list">
+									      <h3><a target="_blank" href="/news/20170509/920224.htm">歐陽娜娜被控捏鸚鵡　網轟太過分</a></h3>  
+									      <h3><i class="icon_type_video"></i><a target="_blank" href="/news/20170509/921007.htm">《RM》出事！哈哈抓嘉賓下體挨..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/921002.htm">阿翔夫妻圓夢　浩子在荷蘭送祝福</a></h3>  
+									      <h3><i class="icon_type_video"></i><a target="_blank" href="/news/20170509/920998.htm">孫燕姿婚照曝光　蕾絲長裙飄仙氣</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920992.htm">超美！Selina抽到丁文琪新..</a></h3>  
+									  </div>
+									  <!--list 列表 結束-->
+								  </div>
+								  <div class="piece">
+									  <!--title 開始-->
+									  <div class="title">
+									      <h2><em class="icon color_2"></em>ET看電影</h2>
+									      <a class="btn_more" href="/news/focus/首頁/ET看電影/">更多<i class="icon_arrow"></i></a>
+									  </div>
+									  <!--title 結束-->
+									  <!--首則帶圖 開始-->									  <a target="_blank" class="cover_pic icon_type_video" href="/news/20170509/921018.htm">
+                                                                              <div class="pic"><img src="//cdn2.ettoday.net/images/2511/c2511288.jpg" alt="等了35年！《銀翼殺手》續集預告曝光　網：跪了～神片"></div>
+									      <h3>神片《銀翼殺手》續集預告曝光！</h3>
+									  </a>									  <!--首則帶圖 結束-->
+									  <!--list 列表 開始-->
+									  <div class="list">
+									      <h3><a target="_blank" href="/news/20170509/920979.htm">鄭文燦：楊德昌作品屬於５年級生</a></h3>  
+									      <h3><i class="icon_type_video"></i><a target="_blank" href="/news/20170509/920853.htm">《歌喉讚》神複製《美女與野獸》</a></h3>  
+									      <h3><i class="icon_type_video"></i><a target="_blank" href="/news/20170509/920856.htm">馮迪索雙胞胎弟弟是他　網友驚呆</a></h3>  
+									      <h3><i class="icon_type_video"></i><a target="_blank" href="/news/20170509/920716.htm">保羅沃克71歲老父看《玩命8》..</a></h3>  
+									      <h3><i class="icon_type_video"></i><a target="_blank" href="/news/20170509/920291.htm">綁架犯反遭肉票虐殺！新片網嚇傻</a></h3>  
+									  </div>
+									  <!--list 列表 結束-->
+								  </div>
+								  <div class="piece">
+									  <!--title 開始-->
+									  <div class="title">
+									      <h2><em class="icon color_3"></em>時尚消費</h2>
+									      <a class="btn_more" href="/news/focus/首頁/時尚消費/">更多<i class="icon_arrow"></i></a>
+									  </div>
+									  <!--title 結束-->
+									  <!--首則帶圖 開始-->									  <a target="_blank" class="cover_pic icon_type_video" href="/news/20170509/920017.htm">
+                                                                              <div class="pic"><img src="//cdn2.ettoday.net/images/2510/c2510351.jpg" alt="林心如「胸」狠較勁蕾哈娜　田馥甄也攪局"></div>
+									      <h3>比胸？心如較勁蕾哈娜　馥甄也來</h3>
+									  </a>									  <!--首則帶圖 結束-->
+									  <!--list 列表 開始-->
+									  <div class="list">
+									      <h3><i class="icon_type_video"></i><a target="_blank" href="/news/20170509/920833.htm">楊冪180度讓人驗貨　粉絲搶告..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920914.htm">PONY披獨角獸漸層髮拍婚紗神..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920920.htm">跳水金童Tom Daley完婚..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920889.htm">歡慶10周年！這家紅色i7首降..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920780.htm">蕭彤雯憶懷孕艱辛　不惑之年當媽</a></h3>  
+									  </div>
+									  <!--list 列表 結束-->
+								  </div>
+							  </div>
+							  <!--part_pictxt_2 圖文列表 結束-->
+						  </div>
+						  <!--block_content 結束-->
+					  </div>
+					  <div class="block">
+						  <!--block_content 開始-->
+						  <div class="block_content">
+							  <!--part_pictxt_2 圖文列表 開始-->
+							  <div class="part_pictxt_2 clearfix">
+								  <div class="piece">
+									  <!--title 開始-->
+									  <div class="title">
+									      <h2><em class="icon color_1"></em>東森旅遊雲</h2>
+									      <a class="btn_more" href="/news/focus/首頁/東森旅遊雲/">更多<i class="icon_arrow"></i></a>
+									  </div>
+									  <!--title 結束-->
+									  <!--首則帶圖 開始-->									  <a target="_blank" class="cover_pic" href="/news/20170509/920973.htm">
+                                                                              <div class="pic"><img src="//cdn2.ettoday.net/images/2510/c2510930.jpg" alt="林宥嘉婚紗照在這拍！東京城堡溜滑梯　拍下你的浪漫童話"></div>
+									      <h3>東京城堡溜滑梯　林宥嘉婚紗在這..</h3>
+									  </a>									  <!--首則帶圖 結束-->
+									  <!--list 列表 開始-->
+									  <div class="list">
+									      <h3><a target="_blank" href="/news/20170509/920879.htm">超夢幻花瀑！3處「石斛蘭」景點</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920794.htm">舊城中環漫步路線指南</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920916.htm">開幕才半年！新北最大夜市收攤</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920834.htm">香港首間客製化膠囊旅館</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920553.htm">台灣唯一！華泰瑞苑推住宿優惠</a></h3>  
+									  </div>
+									  <!--list 列表 結束-->
+								  </div>
+								  <div class="piece">
+									  <!--title 開始-->
+									  <div class="title">
+									      <h2><em class="icon color_2"></em>ET健康雲</h2>
+									      <a class="btn_more" href="/news/focus/首頁/ET健康雲/">更多<i class="icon_arrow"></i></a>
+									  </div>
+									  <!--title 結束-->
+									  <!--首則帶圖 開始-->									  <a target="_blank" class="cover_pic" href="/news/20170509/920867.htm">
+                                                                              <div class="pic"><img src="//cdn2.ettoday.net/images/2264/c2264024.jpg" alt="愛深蹲當心！她沒瘦到竟先傷筋　慘罹「髂脛束症候群」"></div>
+									      <h3>愛深蹲當心！她沒瘦到竟先傷到筋</h3>
+									  </a>									  <!--首則帶圖 結束-->
+									  <!--list 列表 開始-->
+									  <div class="list">
+									      <h3><a target="_blank" href="/news/20170509/919972.htm">想太多不好？焦慮型女孩6大優點</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920023.htm">「獨處」10件事　最棒的休閒活..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/919942.htm">7個公主病舉動讓男生超「倒彈」</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920821.htm">中榮門診大樓啟用！機器人帶你看..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920762.htm">寄養媽跪求吃飯　厭食少女終於開..</a></h3>  
+									  </div>
+									  <!--list 列表 結束-->
+								  </div>
+								  <div class="piece">
+									  <!--title 開始-->
+									  <div class="title">
+									      <h2><em class="icon color_3"></em>餓勢力</h2>
+									      <a class="btn_more" href="/news/focus/首頁/餓勢力/">更多<i class="icon_arrow"></i></a>
+									  </div>
+									  <!--title 結束-->
+									  <!--首則帶圖 開始-->									  <a target="_blank" class="cover_pic" href="/news/20170509/920718.htm">
+                                                                              <div class="pic"><img src="//cdn2.ettoday.net/images/2511/c2511070.jpg" alt="小鮮肉奶茶這次不賣肉　「花瓣氣泡飲」粉嫩控必收藏"></div>
+									      <h3>花花世界氣泡飲粉嫩控必收藏</h3>
+									  </a>									  <!--首則帶圖 結束-->
+									  <!--list 列表 開始-->
+									  <div class="list">
+									      <h3><a target="_blank" href="/news/20170509/920698.htm">板橋早午餐一條街</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/919722.htm">大稻埕「紅豆餅」有高麗菜口味</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920770.htm">王品新品牌「麻佬大」5月底開幕</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920700.htm">裝進「行李箱」的美式早午餐！</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/885249.htm">天母墨西哥莎莎醬玉米片超涮嘴！</a></h3>  
+									  </div>
+									  <!--list 列表 結束-->
+								  </div>
+							  </div>
+							  <!--part_pictxt_2 圖文列表 結束-->
+						  </div>
+						  <!--block_content 結束-->
+					  </div>
+					  <div class="block">
+						  <!--block_content 開始-->
+						  <div class="block_content">
+							  <!--part_pictxt_2 圖文列表 開始-->
+							  <div class="part_pictxt_2 clearfix">
+								  <div class="piece">
+									  <!--title 開始-->
+									  <div class="title">
+									      <h2><em class="icon color_1"></em>就是愛棒球</h2>
+									      <a class="btn_more" href="/news/focus/首頁/就是愛棒球/">更多<i class="icon_arrow"></i></a>
+									  </div>
+									  <!--title 結束-->
+									  <!--首則帶圖 開始-->									  <a target="_blank" class="cover_pic" href="/news/20170509/921029.htm">
+                                                                              <div class="pic"><img src="//cdn2.ettoday.net/images/2490/c2490864.jpg" alt="林哲瑄左外野陽春砲　達成中職生涯100打點"></div>
+									      <h3>林哲瑄左外野陽春砲達成中職10..</h3>
+									  </a>									  <!--首則帶圖 結束-->
+									  <!--list 列表 開始-->
+									  <div class="list">
+									      <h3><a target="_blank" href="/news/20170509/921017.htm">即／林哲瑄敲醒富邦打線　富邦6..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/921010.htm">失分後表現不再完美　增菘瑋：這..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/921004.htm">黃浩然二壘安　賽格威5局無失分</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920994.htm">蹲5場累歸累　詩人珍惜出賽機會</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920971.htm">林政賢3局飆5K　桃猿1分領先</a></h3>  
+									  </div>
+									  <!--list 列表 結束-->
+								  </div>
+								  <div class="piece">
+									  <!--title 開始-->
+									  <div class="title">
+									      <h2><em class="icon color_2"></em>籃球集中營</h2>
+									      <a class="btn_more" href="/news/focus/首頁/籃球集中營/">更多<i class="icon_arrow"></i></a>
+									  </div>
+									  <!--title 結束-->
+									  <!--首則帶圖 開始-->									  <a target="_blank" class="cover_pic" href="/news/20170509/920569.htm">
+                                                                              <div class="pic"><img src="//cdn2.ettoday.net/images/2509/c2509612.jpg" alt="勇士四巨頭齊發、格林演出大三元　橫掃爵士進決賽"></div>
+									      <h3>勇士四巨頭齊發　橫掃爵士進決賽</h3>
+									  </a>									  <!--首則帶圖 結束-->
+									  <!--list 列表 開始-->
+									  <div class="list">
+									      <h3><a target="_blank" href="/news/20170509/920479.htm">暴龍羅瑞跳脫合約：我要冠軍戒！</a></h3>  
+									      <h3><i class="icon_type_video"></i><a target="_blank" href="/news/20170509/920438.htm">格林：歐利尼克打球超髒把人搞傷</a></h3>  
+									      <h3><a target="_blank" href="/news/20170508/919996.htm">高國豪赴美　陳信安力挺</a></h3>  
+									      <h3><a target="_blank" href="/news/20170508/919859.htm">波總：想交易所有人，再炒掉我</a></h3>  
+									      <h3><a target="_blank" href="/news/20170508/919774.htm">羅瑞傳夏天重返西區戰場</a></h3>  
+									  </div>
+									  <!--list 列表 結束-->
+								  </div>
+								  <div class="piece">
+									  <!--title 開始-->
+									  <div class="title">
+									      <h2><em class="icon color_3"></em>名家焦點</h2>
+									      <a class="btn_more" href="/news/focus/首頁/名家焦點/">更多<i class="icon_arrow"></i></a>
+									  </div>
+									  <!--title 結束-->
+									  <!--首則帶圖 開始-->									  <a target="_blank" class="cover_pic icon_type_video" href="/news/20170509/919651.htm">
+                                                                              <div class="pic"><img src="//cdn2.ettoday.net/images/2509/c2509753.jpg" alt="日本音樂速報／音樂新兵　「給我愛樂團」很上癮"></div>
+									      <h3>音樂新兵　「給我愛樂團」很上癮</h3>
+									  </a>									  <!--首則帶圖 結束-->
+									  <!--list 列表 開始-->
+									  <div class="list">
+									      <h3><i class="icon_type_video"></i><a target="_blank" href="/news/20170509/920822.htm">神秘牙醫團GReeeeN再掀話..</a></h3>  
+									      <h3><i class="icon_type_video"></i><a target="_blank" href="/news/20170509/919650.htm">小田和正《確實的事情》</a></h3>  
+									      <h3><a target="_blank" href="/news/20170508/919837.htm">這4個星座男　分手絕不吃回頭草</a></h3>  
+									      <h3><i class="icon_type_video"></i><a target="_blank" href="/news/20170508/919649.htm">倉木麻衣新曲　京都和風紅戀歌</a></h3>  
+									      <h3><i class="icon_type_video"></i><a target="_blank" href="/news/20170508/918436.htm">2017年5月十大單曲期待度排..</a></h3>  
+									  </div>
+									  <!--list 列表 結束-->
+								  </div>
+							  </div>
+							  <!--part_pictxt_2 圖文列表 結束-->
+						  </div>
+						  <!--block_content 結束-->
+					  </div>
+					  <div class="block">
+						  <!--block_content 開始-->
+						  <div class="block_content">
+							  <!--part_pictxt_2 圖文列表 開始-->
+							  <div class="part_pictxt_2 clearfix">
+								  <div class="piece">
+									  <!--title 開始-->
+									  <div class="title">
+									      <h2><em class="icon color_1"></em>3C網路科技</h2>
+									      <a class="btn_more" href="/news/focus/首頁/3C網路科技/">更多<i class="icon_arrow"></i></a>
+									  </div>
+									  <!--title 結束-->
+									  <!--首則帶圖 開始-->									  <a target="_blank" class="cover_pic" href="/news/20170509/920988.htm">
+                                                                              <div class="pic"><img src="//cdn2.ettoday.net/images/2217/c2217973.jpg" alt="《真三國無雙8》將於PS4登場  吳國老將程普參戰"></div>
+									      <h3>《真三國無雙8》將於PS4登場</h3>
+									  </a>									  <!--首則帶圖 結束-->
+									  <!--list 列表 開始-->
+									  <div class="list">
+									      <h3><i class="icon_type_video"></i><a target="_blank" href="/news/20170509/920980.htm">《仙劍-幻璃鏡》登錄活動開跑</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920961.htm">《滾滾飛球》廣邀玩家守護毛小孩</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920510.htm">同樣功能更便宜!美圖M8功能實..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920861.htm">中華電信7/1起將終止2G服務</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920875.htm">奧圖碼推出雷射超短焦投影機</a></h3>  
+									  </div>
+									  <!--list 列表 結束-->
+								  </div>
+								  <div class="piece">
+									  <!--title 開始-->
+									  <div class="title">
+									      <h2><em class="icon color_2"></em>ET車雲</h2>
+									      <a class="btn_more" href="/news/focus/首頁/ET車雲/">更多<i class="icon_arrow"></i></a>
+									  </div>
+									  <!--title 結束-->
+									  <!--首則帶圖 開始-->									  <a target="_blank" class="cover_pic icon_type_video" href="/news/20170509/920283.htm">
+                                                                              <div class="pic"><img src="//cdn2.ettoday.net/images/2509/c2509053.jpg" alt="謝絕小腳　福斯Passat Variant試駕開箱（動態篇）"></div>
+									      <h3>福斯Passat Varian..</h3>
+									  </a>									  <!--首則帶圖 結束-->
+									  <!--list 列表 開始-->
+									  <div class="list">
+									      <h3><a target="_blank" href="/news/20170509/920838.htm">凱旋Bobber美式重機抵台搶..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/919956.htm">瑪莎拉蒂追加 S Sport全..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/919913.htm">NBA巨無霸歐尼爾買大尺碼新車</a></h3>  
+									      <h3><i class="icon_type_video"></i><a target="_blank" href="/news/20170508/920269.htm">護欄有多重要？賽車手用生命證明</a></h3>  
+									      <h3><a target="_blank" href="/news/20170508/919839.htm">別再甩車門了，你知道怎麼關門嗎</a></h3>  
+									  </div>
+									  <!--list 列表 結束-->
+								  </div>
+								  <div class="piece">
+									  <!--title 開始-->
+									  <div class="title">
+									      <h2><em class="icon color_3"></em>雲論</h2>
+									      <a class="btn_more" href="/news/focus/首頁/雲論/">更多<i class="icon_arrow"></i></a>
+									  </div>
+									  <!--title 結束-->
+									  <!--首則帶圖 開始-->									  <a target="_blank" class="cover_pic" href="/news/20170509/917131.htm">
+                                                                              <div class="pic"><img src="//cdn2.ettoday.net/images/2498/c2498986.jpg" alt="湯文章／加強司法信任 須先改革法院基層人力結構"></div>
+									      <h3>湯文章／改革法院基層人力結構</h3>
+									  </a>									  <!--首則帶圖 結束-->
+									  <!--list 列表 開始-->
+									  <div class="list">
+									      <h3><a target="_blank" href="/news/20170509/920135.htm">李世暉／AKB48音樂市場迷幻..</a></h3>  
+									      <h3><a target="_blank" href="/news/20170509/920064.htm">林忠正／台灣投資客勝過巴菲特</a></h3>  
+									      <h3><a target="_blank" href="/news/20170508/915643.htm">張平吾／人權防衛VS.社會防衛</a></h3>  
+									      <h3><a target="_blank" href="/news/20170508/919669.htm">尤伯祥／檢察官定位是買空賣空？</a></h3>  
+									      <h3><a target="_blank" href="/news/20170508/919532.htm">周宇修／實名制就能防「狼」嗎？</a></h3>  
+									  </div>
+									  <!--list 列表 結束-->
+								  </div>
+							  </div>
+							  <!--part_pictxt_2 圖文列表 結束-->
+						  </div>
+						  <!--block_content 結束-->
+					  </div>
+					  <!--block_1 區塊 結束-->
+                  	
+               		  <!--block_2 區塊 開始-->
+					  <div class="block block_2">
+						  <!--block_title 開始-->
+						  <div class="block_title">
+						      <h2 class="logo_lemon"><a href="/dalemon/">鍵盤大檸檬</a></h2>
+						      <a href="/dalemon/" class="btn_more">更多<i class="icon_arrow"></i></a>
+						  </div>
+						  <!--block_title 結束-->
+						  <!--block_content 開始-->
+						  <div class="block_content">
+							  <!--part_thumb_1 縮圖列表 開始-->
+							  <div class="part_thumb_1 style_1 clearfix">
+								  <div class="piece">
+								      <a target="_blank" class="pic" href="/dalemon/post/25865"><img src="//cdn2.ettoday.net/images/2510/c2510998.jpg" alt=""></a>
+								      <h3><a target="_blank" href="/dalemon/post/25865">麥當勞禁忌菜單「麥克雜交堡」　店員拒做：一個就讓你飽到喉嚨</a></h3>
+								      <span class="date">2小時前</span>
+								  </div>
+								  <div class="piece">
+								      <a target="_blank" class="pic" href="/dalemon/post/25873"><img src="//cdn2.ettoday.net/images/2444/c2444527.jpg" alt=""></a>
+								      <h3><a target="_blank" href="/dalemon/post/25873">如何用一句話讓人玻璃心碎？　試試「龜一點別太衝」吧！</a></h3>
+								      <span class="date">2小時前</span>
+								  </div>
+								  <div class="piece">
+								      <a target="_blank" class="pic" href="/dalemon/post/25874"><img src="//cdn2.ettoday.net/images/2510/c2510992.jpg" alt=""></a>
+								      <h3><a target="_blank" href="/dalemon/post/25874">【奧斯塔羅】固執還是有主見？你其實是個不聽勸的人嗎</a></h3>
+								      <span class="date">2小時前</span>
+								  </div>
+								  <div class="piece">
+								      <a target="_blank" class="pic" href="/dalemon/post/25872"><img src="//cdn2.ettoday.net/images/2510/c2510733.jpg" alt=""></a>
+								      <h3><a target="_blank" href="/dalemon/post/25872">【測驗】換妻、戀足還是欠調教？8張圖測你靈魂深處的癖好</a></h3>
+								      <span class="date">3小時前</span>
+								  </div>
+							  </div>
+							  <!--part_thumb_1 縮圖列表 結束-->
+						  </div>
+						  <!--block_content 結束-->
+					  </div>
+					  <!--block_2 區塊 結束-->
+                   
+               		  <!--block_1 區塊 開始-->
+					  <div class="block block_1">
+						  <!--block_title 開始-->
+						  <div class="block_title">
+						      <h3><em class="icon"></em>權證評論專區</h3>
+						  </div>
+						  <!--block_title 結束-->
+						  <!--block_content 開始-->
+						  <div class="block_content">
+
+							  <!--part_pictxt_7 縮圖列表 開始-->
+							  <div class="part_pictxt_7">
+								  <!--組 開始-->
+								  <div class="piece">
+									  <!--box_1 開始-->
+									  <div class="box_1">
+									      <a target="_blank" class="pic" href="/news/20170509/920746.htm"><img src="//cdn2.ettoday.net/images/2095/c2095409.jpg" alt=""></a>
+									  </div>
+									  <!--box_1 結束-->
+									  <!--box_2 開始-->
+									  <div class="box_2">
+									      <h3><a target="_blank" href="/news/20170509/920746.htm">電動車產業蓬勃發展　致茂可望受惠</a></h3>
+									      <p class="summary">致茂電子(2360)成立於1984年，為自有品牌的自動化檢測解決方案供應商。商品包含提供產業相關的檢測儀器與設備及整合性自動化測試解決方案。<span class="date">5小時前</span></p>
+									  </div>
+									  <!--box_2 結束-->
+								  </div>
+								  <!--組 結束-->
+							  </div>	
+							  <!--part_pictxt_7 縮圖列表 結束-->
+							  <!--part_list_4 文字列表 開始-->
+							  <div class="part_list_4 clearfix">
+							      <h3>‧ <a href="/news/20170509/920367.htm" target="_blank">德麥產品領先　今年獲利可望成長</a></h3>
+							      <h3>‧ <a href="/news/20170509/920501.htm" target="_blank">台股一度衝上萬點　持續盤整有利..</a></h3>
+							      <h3>‧ <a href="/news/20170509/920147.htm" target="_blank">愛迪達營收優預期　相關認購喊衝</a></h3>
+							      <h3>‧ <a href="/news/20170509/919878.htm" target="_blank">記憶體市況表現佳　相關認購有望</a></h3>
+							      <h3>‧ <a href="/news/20170508/919808.htm" target="_blank">觸控顯示技術專家　GIS-KY..</a></h3>
+							      <h3>‧ <a href="/news/20170508/919771.htm" target="_blank">結構性獲利進步　京元電子營收佳</a></h3>
+							  </div>
+							  <!--part_list_4 文字列表 結束-->
+								
+							  <!--權證專區 開始-->
+							  <div id="warrant-tab" class="tab tab_2">
+								  <!--權證頁籤 開始-->
+								  <div class="tab_title">
+								      <a href="javascript:;" data-url="//www.ettoday.net/warrant/iframe/tab-1.htm">標的</a>
+								      <a href="javascript:;" data-url="//www.ettoday.net/warrant/iframe/tab-2.htm">認購權證</a>
+								      <a href="javascript:;" data-url="//www.ettoday.net/warrant/iframe/tab-3.htm">認售權證</a>
+								      <a href="javascript:;" data-url="//www.ettoday.net/warrant/iframe/tab-4.htm">牛熊證</a>
+								  </div>
+								  <!--權證頁籤 結束-->
+									
+								  <!--權證指數 開始-->
+								  <iframe id="warrant" src="//www.ettoday.net/warrant/iframe/tab-1.htm" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+								  <!--權證指數 開始-->
+									
+								  <!--more_box 開始-->
+								  <div class="more_box clearfix">
+								      <a class="btn_more right" href="//www.ettoday.net/warrant/index.php" target="_blank">更多<i class="icon_arrow"></i></a>
+								  </div>
+								  <!--more_box 結束-->
+							  </div>
+							  <!--權證專區 結束-->
+                                                          
+						  </div>
+						  <!--block_content 結束-->
+					  </div>
+					  <!--block_1 區塊 結束-->
+                  
+               		  <!--block_1 區塊 開始-->
+					  <div class="block block_1 infinite_scroll">
+						  <!--block_title 開始-->
+						  <div class="block_title fixed">
+						      <h3><em class="icon"></em>最新即時</h3>
+						      <a href="/news/news-list.htm" class="btn_more">更多<i class="icon_arrow"></i></a>
+						  </div>
+						  <!--block_title 結束-->
+						  <!--block_content 開始-->
+						  <div class="block_content">
+							  <!--part_pictxt_5 圖文列表 開始-->
+							  <div class="part_pictxt_5 lazyload clearfix">
+								  <div class="piece clearfix">
+								      <span class="date">7分鐘前</span>
+								      <a target="_blank" class="tag" href="/news/news-list-2017-05-09-17.htm"><em class="c_finance"></em>財經</a>
+								      <a target="_blank" class="pic" href="/news/20170509/921031.htm"><img src="//cdn2.ettoday.net/images/1391/c1391370.jpg" alt=""></a>
+								      <h3><a target="_blank" href="/news/20170509/921031.htm">為彰銀再槓上！　財政部：台新金違反ASTEP保密協..</a></h3>
+								  </div>
+								  <div class="piece clearfix">
+								      <span class="date">8分鐘前</span>
+								      <a target="_blank" class="tag" href="/news/news-list-2017-05-09-10.htm"><em class="c_sport"></em>體育</a>
+								      <a target="_blank" class="pic" href="/news/20170509/921029.htm"><img src="//cdn2.ettoday.net/images/2490/c2490864.jpg" alt=""></a>
+								      <h3><a target="_blank" href="/news/20170509/921029.htm">林哲瑄左外野陽春砲　達成中職生涯100打點</a></h3>
+								  </div>
+								  <div class="piece clearfix">
+								      <span class="date">9分鐘前</span>
+								      <a target="_blank" class="tag" href="/news/news-list-2017-05-09-21.htm"><em class="c_health"></em>健康</a>
+								      <a target="_blank" class="pic" href="/news/20170509/920867.htm"><img src="//cdn2.ettoday.net/images/2264/c2264024.jpg" alt=""></a>
+								      <h3><a target="_blank" href="/news/20170509/920867.htm">愛深蹲當心！她沒瘦到竟先傷筋　慘罹「髂脛束症候群」</a></h3>
+								  </div>
+								  <div class="piece clearfix">
+								      <span class="date">11分鐘前</span>
+								      <a target="_blank" class="tag" href="/news/news-list-2017-05-09-1.htm"><em class="c_news"></em>政治</a>
+								      <a target="_blank" class="pic" href="/news/20170509/920983.htm"><img src="//cdn2.ettoday.net/images/2441/c2441373.jpg" alt=""></a>
+								      <h3><a target="_blank" href="/news/20170509/920983.htm">柯文哲吃素求世大運順利　王世堅酸：要不要加碼更衣沐..</a></h3>
+								  </div>
+								  <div class="piece clearfix">
+								      <span class="date">11分鐘前</span>
+								      <a target="_blank" class="tag" href="/news/news-list-2017-05-09-13.htm"><em class="c_commentary"></em>論壇</a>
+								      <a target="_blank" class="pic" href="/news/20170509/917131.htm"><img src="//cdn2.ettoday.net/images/2498/c2498986.jpg" alt=""></a>
+								      <h3><a target="_blank" href="/news/20170509/917131.htm">湯文章／加強司法信任 須先改革法院基層人力結構</a></h3>
+								  </div>
+								  <div class="piece clearfix">
+								      <span class="date">13分鐘前</span>
+								      <a target="_blank" class="tag" href="/news/news-list-2017-05-09-9.htm"><em class="c_star"></em>影劇</a>
+								      <a target="_blank" class="pic" href="/news/20170509/921018.htm"><img src="//cdn2.ettoday.net/images/2511/c2511288.jpg" alt=""></a>
+								      <h3><a target="_blank" href="/news/20170509/921018.htm">等了35年！《銀翼殺手》續集預告曝光　網：跪了～神..</a></h3>
+								  </div>
+								  <div class="piece clearfix">
+								      <span class="date">16分鐘前</span>
+								      <a target="_blank" class="tag" href="/news/news-list-2017-05-09-10.htm"><em class="c_sport"></em>體育</a>
+								      <a target="_blank" class="pic" href="/news/20170509/921023.htm"><img src="//cdn2.ettoday.net/images/2509/c2509849.jpg" alt=""></a>
+								      <h3><a target="_blank" href="/news/20170509/921023.htm">全大運／邁向「博士蛙王」　李炫諺盼泳壇續拚</a></h3>
+								  </div>
+								  <div class="piece clearfix">
+								      <span class="date">16分鐘前</span>
+								      <a target="_blank" class="tag" href="/news/news-list-2017-05-09-9.htm"><em class="c_star"></em>影劇</a>
+								      <a target="_blank" class="pic" href="/news/20170509/921003.htm"><img src="//cdn2.ettoday.net/images/2511/c2511239.jpg" alt=""></a>
+								      <h3><a target="_blank" href="/news/20170509/921003.htm">韓瑜性感獨舞《PLAY我呸》登小巨蛋！女神：千載難..</a></h3>
+								  </div>
+								  <div class="piece clearfix">
+								      <span class="date">19分鐘前</span>
+								      <a target="_blank" class="tag" href="/news/news-list-2017-05-09-1.htm"><em class="c_news"></em>政治</a>
+								      <a target="_blank" class="pic" href="/news/20170509/921021.htm"><img src="//cdn2.ettoday.net/images/2498/c2498911.jpg" alt=""></a>
+								      <h3><a target="_blank" href="/news/20170509/921021.htm">陳星發聲明坦承「師生戀」　林俊憲：絕對不會放過你</a></h3>
+								  </div>
+								  <div class="piece clearfix">
+								      <span class="date">19分鐘前</span>
+								      <a target="_blank" class="tag" href="/news/news-list-2017-05-09-9.htm"><em class="c_star"></em>影劇</a>
+								      <a target="_blank" class="pic" href="/news/20170509/920224.htm"><img src="//cdn2.ettoday.net/images/2511/c2511228.jpg" alt=""></a>
+								      <h3><a target="_blank" href="/news/20170509/920224.htm">歐陽娜娜被控捏鸚鵡惹議　網友開砲：太過分！</a></h3>
+								  </div>
+								  <div class="piece clearfix">
+								      <span class="date">24分鐘前</span>
+								      <a target="_blank" class="tag" href="/news/news-list-2017-05-09-10.htm"><em class="c_sport"></em>體育</a>
+								      <a target="_blank" class="pic" href="/news/20170509/921016.htm"><img src="//cdn2.ettoday.net/images/2511/c2511285.jpg" alt=""></a>
+								      <h3><a target="_blank" href="/news/20170509/921016.htm">全大運／淡江香港隊長強得嫑嫑　師大擊劍明年再挑戰　</a></h3>
+								  </div>
+								  <div class="piece clearfix">
+								      <span class="date">30分鐘前</span>
+								      <a target="_blank" class="tag" href="/news/news-list-2017-05-09-10.htm"><em class="c_sport"></em>體育</a>
+								      <a target="_blank" class="pic" href="/news/20170509/921017.htm"><img src="//cdn2.ettoday.net/images/2490/c2490865.jpg" alt=""></a>
+								      <h3><a target="_blank" href="/news/20170509/921017.htm">快訊／林哲瑄一棒敲醒富邦打線　單局4分助富邦6局4..</a></h3>
+								  </div>
+								  <div class="piece clearfix">
+								      <span class="date">36分鐘前</span>
+								      <a target="_blank" class="tag" href="/news/news-list-2017-05-09-1.htm"><em class="c_news"></em>政治</a>
+								      <a target="_blank" class="pic" href="/news/20170509/920939.htm"><img src="//cdn2.ettoday.net/images/2511/c2511007.jpg" alt=""></a>
+								      <h3><a target="_blank" href="/news/20170509/920939.htm">僑委會頒僑生獎助學金　僑生：臺灣有家的感覺</a></h3>
+								  </div>
+								  <div class="piece clearfix">
+								      <span class="date">36分鐘前</span>
+								      <a target="_blank" class="tag" href="/news/news-list-2017-05-09-30.htm"><em class="c_fashion"></em>時尚</a>
+								      <a target="_blank" class="pic" href="/news/20170509/920017.htm"><img src="//cdn2.ettoday.net/images/2510/c2510351.jpg" alt=""></a>
+								      <h3><a target="_blank" href="/news/20170509/920017.htm">林心如「胸」狠較勁蕾哈娜　田馥甄也攪局</a></h3>
+								  </div>
+								  <div class="piece clearfix">
+								      <span class="date">41分鐘前</span>
+								      <a target="_blank" class="tag" href="/news/news-list-2017-05-09-1.htm"><em class="c_news"></em>政治</a>
+								      <a target="_blank" class="pic" href="/news/20170509/920400.htm"><img src="//cdn2.ettoday.net/images/2509/c2509586.jpg" alt=""></a>
+								      <h3><a target="_blank" href="/news/20170509/920400.htm">洪秀柱競選團用台大辦公室拉票？綠委轟：政治髒手入侵</a></h3>
+								  </div>
+								  <div class="piece clearfix">
+								      <span class="date">42分鐘前</span>
+								      <a target="_blank" class="tag" href="/news/news-list-2017-05-09-21.htm"><em class="c_health"></em>健康</a>
+								      <a target="_blank" class="pic" href="/news/20170509/919972.htm"><img src="//cdn2.ettoday.net/images/2379/c2379325.jpg" alt=""></a>
+								      <h3><a target="_blank" href="/news/20170509/919972.htm">女友常常想太多？　「焦慮型女孩」6大優點...心細..</a></h3>
+								  </div>
+								  <div class="piece clearfix">
+								      <span class="date">44分鐘前</span>
+								      <a target="_blank" class="tag" href="/news/news-list-2017-05-09-6.htm"><em class="c_society"></em>社會</a>
+								      <a target="_blank" class="pic" href="/news/20170509/920933.htm"><img src="//cdn2.ettoday.net/images/2511/c2511212.jpg" alt=""></a>
+								      <h3><a target="_blank" href="/news/20170509/920933.htm">又是白凜？帶15歲少女爬山失蹤14天…警搜山卻只找..</a></h3>
+								  </div>
+								  <div class="piece clearfix">
+								      <span class="date">47分鐘前</span>
+								      <a target="_blank" class="tag" href="/news/news-list-2017-05-09-10.htm"><em class="c_sport"></em>體育</a>
+								      <a target="_blank" class="pic" href="/news/20170509/921010.htm"><img src="//cdn2.ettoday.net/images/2433/c2433230.jpg" alt=""></a>
+								      <h3><a target="_blank" href="/news/20170509/921010.htm">失分後表現不再完美　增菘瑋：這樣才知道什麼要改進</a></h3>
+								  </div>
+								  <div class="piece clearfix">
+								      <span class="date">48分鐘前</span>
+								      <a target="_blank" class="tag" href="/news/news-list-2017-05-09-7.htm"><em class="c_local"></em>地方</a>
+								      <a target="_blank" class="pic" href="/news/20170509/920979.htm"><img src="//cdn2.ettoday.net/images/2511/c2511184.jpg" alt=""></a>
+								      <h3><a target="_blank" href="/news/20170509/920979.htm">鄭文燦：楊德昌作品屬於5年級生解嚴世代與野百合世代</a></h3>
+								  </div>
+								  <div class="piece clearfix">
+								      <span class="date">51分鐘前</span>
+								      <a target="_blank" class="tag" href="/news/news-list-2017-05-09-7.htm"><em class="c_local"></em>地方</a>
+								      <a target="_blank" class="pic" href="/news/20170509/920773.htm"><img src="//cdn2.ettoday.net/images/2510/c2510338.jpg" alt=""></a>
+								      <h3><a target="_blank" href="/news/20170509/920773.htm">我高中沒補習！　竹市建功中學袁千祐錄取清交兩校三系</a></h3>
+								  </div>
+							  </div>
+							  <!--part_pictxt_5 圖文列表 結束-->
+						  </div>
+						  <!--block_content 結束-->
+					  </div>
+					
+					  <!--loading 開始 -->
+					  <div class="loading"></div>
+					  <!--loading 結束 -->
+
+					  <!--block_1 區塊 結束-->
+
+<!--無限滾動相關模組 開始-->
+
+<script>
+(function (){
+	
+	var iPieceH;
+	var iPieceOffsetTop;
+	var iPieceOffsetBottom;
+	
+	var iWinH;
+	var iWinScorllTop;
+	
+	var iPointA
+	
+	var x = 1;
+	
+	
+	function fnBottom(){
+		iPieceH = $(".c1").innerHeight();
+		iPieceOffsetTop = $(".c1").offset().top;
+		iPieceOffsetBottom = iPieceOffsetTop + iPieceH;
+		iWinH = $(window).innerHeight();
+		iWinScorllTop = $(this).scrollTop();
+		iPointA= iPieceOffsetBottom - iWinH -500;
+		//x = $(".c1 .add").length
+		if(x <= 20 && iWinScorllTop > iPointA){
+			//$(".info_0").append("到底--");
+			$(window).off("scroll", fnBottom);
+			fnAjax();
+                        
+		}
+                
+	};
+	
+	function fnAjax(){
+		//$(".c1 .loading").show();
+		//$(".infinite_scroll .part_list_2").append("<div class='add'><img src='images/003.jpg'></div>"); //仿ajax
+		//$(window).on("scroll", fnBottom);
+                
+            $(".c1 .loading").show();//顯示轉圈圈
+            $.post( "//www.ettoday.net/show_roll.php", { 
+                    offset: x,
+                    tPage: "1",
+                    tFile: "20170509.xml",
+                    tOt: "0",
+                    tSi: "20"
+                })
+              .done(function( data ) {
+                
+                setTimeout(function(){
+                    if(data!='null'){
+                        //console.log('data ok x:'+x);
+                        $(".infinite_scroll .part_pictxt_5").append(data); //加入取得的資料
+                        $(".infinite_scroll .part_pictxt_5.lazyload img").lazyload();
+                        $(window).on("scroll", fnBottom);
+                    }else{
+                        x=10;
+                        //console.log('data null x:'+x);
+                    }
+
+                    //console.log('data final x:'+x);
+                    $(".c1 .loading").hide();//關閉轉圈圈
+                }, 50);
+                x++;
+              });
+              
+              //console.log('data ++ x:'+x);
+	};
+	
+    //初始
+	$(window).on("scroll", fnBottom);
+        //fnAjax();//onload 先載入一次
+})();
+</script>
+
+                  </div>
+                  <!--直欄 c1 結束-->
+                  
+                  <!--直欄 c2 開始-->
+                    <div class="c2">
+                    	<!--c2 inner 開始-->
+                    	<div class="inner">
+                            
+      <!--廣告 首頁_巨幅(上) index_300x250_top 開始-->
+      <div class="ad_300">
+              <script language="JavaScript" type="text/javascript">
+                    <!-- <![CDATA[
+                            var ts = Math.random();
+                            document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="//ad.ettoday.net/ads.php?bid=index_300x250_top&rr='+ ts +'"></scr' + 'ipt>');
+                    // ]]> -->
+                    </script>
+      </div>
+      <!--廣告 首頁_巨幅(上) index_300x250_top 結束--> 
+
+        <!--廣告 全網_巨幅(上2) 開始-->
+        <div id="allsite_300x250_1" class="ad_300">
+        <script type="text/javascript">
+                googletag.defineSlot("/12656948/allsite_300x250_1", [300, 250], "allsite_300x250_1").addService(googletag.pubads());
+                googletag.pubads().collapseEmptyDivs();
+                googletag.pubads().enableSyncRendering();
+                googletag.enableServices();
+                googletag.cmd.push(function() {	googletag.display("allsite_300x250_1");	});
+        </script>
+        </div>
+        <!--廣告 全網_巨幅(上2) 結束-->
+
+        <!--廣告 首頁_中巨幅 開始-->
+        <div class="ad_300">
+        <script language="JavaScript" type="text/javascript">
+        <!-- <![CDATA[
+                var ts = Math.random();
+                document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="//ad.ettoday.net/ads.php?bid=index_300x450&rr='+ ts +'"></scr' + 'ipt>');
+        // ]]> -->
+        </script>
+        </div>
+        <!--廣告 首頁_中巨幅 結束--> 
+
+
+    <!--block_1 區塊 boba 熱門影音 開始-->
+          
+      <div class="block block_1 hot_video">
+              <!--block_title 開始-->
+              <div class="block_title">
+                <h3><em class="icon"></em>最夯影音</h3>
+                <a href="//boba.ettoday.net/" class="btn_more">更多<i class="icon_arrow"></i></a>
+              </div>
+              <!--block_title 結束-->
+              <!--block_content 開始-->
+              <div class="block_content">
+                      <!--part_pictxt_4 圖文列表 開始-->
+                      <div class="part_pictxt_4">
+                              <!-- 首則有圖 -->
+                              
+                              <div class="cover_pic">
+                                  <a class="pic icon_type_video" href="//boba.ettoday.net/videonews/38829?from=et_pc_sidebar" target="_blank">
+                                          <img src="//cdn2.ettoday.net/film/images/38/c38829.jpg">
+                                              <h3>正宮女友嗆聲：是我的！　摟臂吻男友逼退超萌「小三」</h3>
+                                      </a>
+                              </div>
+
+                              <!-- 首則有圖 -->
+                              <!-- 廣告 最夯影音(2) 開始 -->	
+                              <script language="JavaScript" type="text/javascript">
+                                    <!-- <![CDATA[
+                                            var ts = Math.random();
+                                            document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="//ad.ettoday.net/ads.php?bid=mobileweb_video_1&rr='+ ts +'"></scr' + 'ipt>');
+                              // ]]> -->
+                              </script>									  		
+                              <!-- 廣告 最夯影音(2) 結束 --> 
+                              <!-- 廣告 最夯影音(3) 開始 -->	
+                              <script language="JavaScript" type="text/javascript">
+                                    <!-- <![CDATA[
+                                            var ts = Math.random();
+                                            document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="//ad.ettoday.net/ads.php?bid=mobileweb_video_2&rr='+ ts +'"></scr' + 'ipt>');
+                              // ]]> -->
+                              </script>
+                              <!-- 廣告 最夯影音(3) 結束 --> 
+                              <!-- 廣告 最夯影音(4) 開始 -->	
+                              <script language="JavaScript" type="text/javascript">
+                                    <!-- <![CDATA[
+                                            var ts = Math.random();
+                                            document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="//ad.ettoday.net/ads.php?bid=mobileweb_video_3&rr='+ ts +'"></scr' + 'ipt>');
+                              // ]]> -->
+                              </script>
+                            <!-- 廣告 最夯影音(4) 結束 --> 
+                              
+      <!--組-->
+      <div class="piece clearfix">
+              <a class="pic icon_type_video" href="//boba.ettoday.net/videonews/23893?from=et_pc_sidebar" target="_blank"><img src="//cdn2.ettoday.net/film/images/23/c23893.jpg"></a>
+              <h3><a href="//boba.ettoday.net/videonews/23893?from=et_pc_sidebar" target="_blank">大熱天萌萌的「北極熊涼品」來了</a></h3>
+      </div>
+      <!--組-->
+    
+      <!--組-->
+      <div class="piece clearfix">
+              <a class="pic icon_type_video" href="//boba.ettoday.net/videonews/33047?from=et_pc_sidebar" target="_blank"><img src="//cdn2.ettoday.net/film/images/33/c33047.jpg"></a>
+              <h3><a href="//boba.ettoday.net/videonews/33047?from=et_pc_sidebar" target="_blank">北極熊沒浮冰只能站在氣墊上　超寫實畫作讓人真假難辨</a></h3>
+      </div>
+      <!--組-->
+    
+      <!--組-->
+      <div class="piece clearfix">
+              <a class="pic icon_type_video" href="//boba.ettoday.net/videonews/39020?from=et_pc_sidebar" target="_blank"><img src="//cdn2.ettoday.net/film/images/39/c39020.jpg"></a>
+              <h3><a href="//boba.ettoday.net/videonews/39020?from=et_pc_sidebar" target="_blank">香港人在台灣最不習慣5點　公車的收費制度讓人超混亂</a></h3>
+      </div>
+      <!--組-->
+    
+      <!--組-->
+      <div class="piece clearfix">
+              <a class="pic icon_type_video" href="//boba.ettoday.net/videonews/38927?from=et_pc_sidebar" target="_blank"><img src="//cdn2.ettoday.net/film/images/38/c38927.jpg"></a>
+              <h3><a href="//boba.ettoday.net/videonews/38927?from=et_pc_sidebar" target="_blank">朱俐靜唱夯曲嗨翻　《帥到分手》+《雙截棍》好好聽!!</a></h3>
+      </div>
+      <!--組-->
+    
+
+                      </div>
+                      <!--part_pictxt_4 圖文列表 結束-->
+              </div>
+              <!--block_content 結束-->
+      </div>      <!--block_1 區塊 boba 熱門影音 結束-->
+
+
+
+      <!--旅遊區塊 block_travel 開始-->
+      
+    <!--旅遊區塊 block_travel 開始-->
+    <link href="//cdn2.ettoday.net/style/hot-trip/css/travel-style.css" rel="stylesheet" type="text/css" />
+    <script src="//cdn2.ettoday.net/style/hot-trip/js/travel-action.js"></script>
+    <div class="block_travel" id="hot-trip">
+        <div class="block_title">
+            <div class="inner">
+                <h2>熱門行程搶購 Take a trip.</h2>
+            </div>
+        </div>
+        <div class="block_content">
+            <div class="inner">
+                <!--part_travel_pictxt 開始-->
+                <div class="part_travel_pictxt">
+                    <!--組-->
+
+                    <div class="piece">
+                        <div class="pic">
+                            <a href="http://ad.ettoday.net/adclick_sub.php?subid=733-20989&sstr=2-491-525" target="_blank"><img src="http://www.ettoday.net/banners/sub/491-525.jpg" width="100" height="75" /></a> <strong>華友旅行</strong>
+                        </div>
+                        <h3><a href="http://ad.ettoday.net/adclick_sub.php?subid=733-20990&sstr=2-492-526" target="_blank"><em class="icon"></em>經典羅曼蒂克❤德瑞10日</a></h3>
+                        <h3><a href="http://ad.ettoday.net/adclick_sub.php?subid=733-20991&sstr=2-493-527" target="_blank"><em class="icon"></em>精打細算＄義大利11日</a></h3>
+                        <h3><a href="http://ad.ettoday.net/adclick_sub.php?subid=733-20992&sstr=2-494-528" target="_blank"><em class="icon"></em>轉車少✈瑞士火車11日</a></h3>
+                    </div>
+                    <div class="piece">
+                        <div class="pic">
+                            <a href="http://ad.ettoday.net/adclick_sub.php?subid=734-20993&sstr=2-495-529" target="_blank"><img src="http://www.ettoday.net/banners/sub/495-529.gif" width="100" height="75" /></a> <strong>五福旅遊</strong>
+                        </div>
+                        <h3><a href="http://ad.ettoday.net/adclick_sub.php?subid=734-20994&sstr=2-496-530" target="_blank"><em class="icon"></em>暑假遊日本只要9999起</a></h3>
+                        <h3><a href="http://ad.ettoday.net/adclick_sub.php?subid=734-20995&sstr=2-497-531" target="_blank"><em class="icon"></em>遊中國免費升等三排椅</a></h3>
+                        <h3><a href="http://ad.ettoday.net/adclick_sub.php?subid=734-20996&sstr=2-498-532" target="_blank"><em class="icon"></em>奧捷升級再贈禮遇通關</a></h3>
+                    </div>
+                    <div class="piece">
+                        <div class="pic">
+                            <a href="http://ad.ettoday.net/adclick_sub.php?subid=735-20997&sstr=2-499-533" target="_blank"><img src="http://www.ettoday.net/banners/sub/499-533.gif" width="100" height="75" /></a> <strong>鳳凰旅遊</strong>
+                        </div>
+                        <h3><a href="http://ad.ettoday.net/adclick_sub.php?subid=735-20998&sstr=2-115-147" target="_blank"><em class="icon"></em>玩美西小孩不佔床減１萬</a></h3>
+                        <h3><a href="http://ad.ettoday.net/adclick_sub.php?subid=735-20999&sstr=2-116-149" target="_blank"><em class="icon"></em>吃定日本！玩伊勢吃龍蝦</a></h3>
+                        <h3><a href="http://ad.ettoday.net/adclick_sub.php?subid=735-21000&sstr=2-117-150" target="_blank"><em class="icon"></em>首爾五天，吃米其林豬腳</a></h3>
+                    </div>
+                    <div class="piece">
+                        <div class="pic">
+                            <a href="http://ad.ettoday.net/adclick_sub.php?subid=736-21001&sstr=2-130-163" target="_blank"><img src="http://www.ettoday.net/banners/sub/130-163.jpg" width="100" height="75" /></a> <strong>巨大旅遊</strong>
+                        </div>
+                        <h3><a href="http://ad.ettoday.net/adclick_sub.php?subid=736-21002&sstr=2-131-164" target="_blank"><em class="icon"></em>一探北歐日不落奇景！</a></h3>
+                        <h3><a href="http://ad.ettoday.net/adclick_sub.php?subid=736-21003&sstr=2-132-165" target="_blank"><em class="icon"></em>追尋撒哈拉的三毛足跡</a></h3>
+                        <h3><a href="http://ad.ettoday.net/adclick_sub.php?subid=736-21004&sstr=2-133-166" target="_blank"><em class="icon"></em>魔法王國與日不落帝國</a></h3>
+                    </div>
+                    <div class="piece">
+                        <div class="pic">
+                            <a href="http://ad.ettoday.net/adclick_sub.php?subid=737-21005&sstr=2-118-151" target="_blank"><img src="http://www.ettoday.net/banners/sub/118-151.jpg" width="100" height="75" /></a> <strong>巨匠旅遊</strong>
+                        </div>
+                        <h3><a href="http://ad.ettoday.net/adclick_sub.php?subid=737-21006&sstr=2-119-152" target="_blank"><em class="icon"></em>你想要的奧捷行程都在這</a></h3>
+                        <h3><a href="http://ad.ettoday.net/adclick_sub.php?subid=737-21007&sstr=2-120-153" target="_blank"><em class="icon"></em>德瑞雙國包山包海13天</a></h3>
+                        <h3><a href="http://ad.ettoday.net/adclick_sub.php?subid=737-21008&sstr=2-121-154" target="_blank"><em class="icon"></em>西北尋奇~絲路大探險！</a></h3>
+                    </div>
+                    <div class="piece">
+                        <div class="pic">
+                            <a href="http://ad.ettoday.net/adclick_sub.php?subid=738-21009&sstr=2-122-155" target="_blank"><img src="http://www.ettoday.net/banners/sub/122-155.jpg" width="100" height="75" /></a> <strong>喜鴻假期</strong>
+                        </div>
+                        <h3><a href="http://ad.ettoday.net/adclick_sub.php?subid=738-21010&sstr=2-123-156" target="_blank"><em class="icon"></em>中國之美 世界遺產巡禮</a></h3>
+                        <h3><a href="http://ad.ettoday.net/adclick_sub.php?subid=738-21011&sstr=2-124-157" target="_blank"><em class="icon"></em>喀斯特/丹霞奇景在中國</a></h3>
+                        <h3><a href="http://ad.ettoday.net/adclick_sub.php?subid=738-21012&sstr=2-125-158" target="_blank"><em class="icon"></em>中國嚴選好食好宿好行程</a></h3>
+                    </div>
+                    <div class="piece">
+                        <div class="pic">
+                            <a href="http://ad.ettoday.net/adclick_sub.php?subid=942-21013&sstr=2-126-159" target="_blank"><img src="http://www.ettoday.net/banners/sub/126-159.jpg" width="100" height="75" /></a> <strong>翔笙日本</strong>
+                        </div>
+                        <h3><a href="http://ad.ettoday.net/adclick_sub.php?subid=942-21014&sstr=2-127-160" target="_blank"><em class="icon"></em>5/10前報名第2人減5000</a></h3>
+                        <h3><a href="http://ad.ettoday.net/adclick_sub.php?subid=942-21015&sstr=2-128-161" target="_blank"><em class="icon"></em>四國祭典巡禮七日熱賣中</a></h3>
+                        <h3><a href="http://ad.ettoday.net/adclick_sub.php?subid=942-21016&sstr=2-129-162" target="_blank"><em class="icon"></em>暑假立山黑部兩人省5700</a></h3>
+                    </div>
+                    <div class="piece">
+                        <div class="pic">
+                            <a href="http://ad.ettoday.net/adclick_sub.php?subid=943-21017&sstr=2-134-167" target="_blank"><img src="http://www.ettoday.net/banners/sub/134-167.jpg" width="100" height="75" /></a> <strong>歐雅旅遊</strong>
+                        </div>
+                        <h3><a href="http://ad.ettoday.net/adclick_sub.php?subid=943-21018&sstr=2-135-168" target="_blank"><em class="icon"></em>金獎北歐18天格陵蘭探奇</a></h3>
+                        <h3><a href="http://ad.ettoday.net/adclick_sub.php?subid=943-21019&sstr=2-136-169" target="_blank"><em class="icon"></em>暑期親子歐遊最高省４萬</a></h3>
+                        <h3><a href="http://ad.ettoday.net/adclick_sub.php?subid=943-21020&sstr=2-137-170" target="_blank"><em class="icon"></em>一生一次壯遊冰島格陵蘭</a></h3>
+                    </div>                    <!--組--> 
+                </div>
+                <!--part_travel_pictxt 結束-->
+            </div>
+        </div>
+    </div>
+    <script language="JavaScript" type="text/javascript">
+    <!-- <![CDATA[
+        var ts = Math.random();
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=733-20989&rr='+ ts +'"></scr' + 'ipt>');
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=733-20990&rr='+ ts +'"></scr' + 'ipt>');
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=733-20991&rr='+ ts +'"></scr' + 'ipt>');
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=733-20992&rr='+ ts +'"></scr' + 'ipt>');
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=734-20993&rr='+ ts +'"></scr' + 'ipt>');
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=734-20994&rr='+ ts +'"></scr' + 'ipt>');
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=734-20995&rr='+ ts +'"></scr' + 'ipt>');
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=734-20996&rr='+ ts +'"></scr' + 'ipt>');
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=735-20997&rr='+ ts +'"></scr' + 'ipt>');
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=735-20998&rr='+ ts +'"></scr' + 'ipt>');
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=735-20999&rr='+ ts +'"></scr' + 'ipt>');
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=735-21000&rr='+ ts +'"></scr' + 'ipt>');
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=736-21001&rr='+ ts +'"></scr' + 'ipt>');
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=736-21002&rr='+ ts +'"></scr' + 'ipt>');
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=736-21003&rr='+ ts +'"></scr' + 'ipt>');
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=736-21004&rr='+ ts +'"></scr' + 'ipt>');
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=737-21005&rr='+ ts +'"></scr' + 'ipt>');
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=737-21006&rr='+ ts +'"></scr' + 'ipt>');
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=737-21007&rr='+ ts +'"></scr' + 'ipt>');
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=737-21008&rr='+ ts +'"></scr' + 'ipt>');
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=738-21009&rr='+ ts +'"></scr' + 'ipt>');
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=738-21010&rr='+ ts +'"></scr' + 'ipt>');
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=738-21011&rr='+ ts +'"></scr' + 'ipt>');
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=738-21012&rr='+ ts +'"></scr' + 'ipt>');
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=942-21013&rr='+ ts +'"></scr' + 'ipt>');
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=942-21014&rr='+ ts +'"></scr' + 'ipt>');
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=942-21015&rr='+ ts +'"></scr' + 'ipt>');
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=942-21016&rr='+ ts +'"></scr' + 'ipt>');
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=943-21017&rr='+ ts +'"></scr' + 'ipt>');
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=943-21018&rr='+ ts +'"></scr' + 'ipt>');
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=943-21019&rr='+ ts +'"></scr' + 'ipt>');
+        document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="http://ad.ettoday.net/ads_sub.php?subid=943-21020&rr='+ ts +'"></scr' + 'ipt>');
+    // ]]> -->
+    </script>    
+    <!--旅遊區塊 block_travel 結束-->
+
+      <!--旅遊區塊 block_travel 結束-->
+
+      <!--block_1 區塊 開始-->
+      <div class="block block_1">
+
+              <!--block_content 開始-->
+              <div class="block_content">
+                      <!--fb 粉絲專頁-->
+                      <div style="margin-bottom: 20px;" class="fb-page" data-width="270" data-height="540" data-href="https://www.facebook.com/ETtoday" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/ETtoday"><a href="https://www.facebook.com/ETtoday">ETtoday東森新聞雲</a></blockquote></div></div>
+                      <!--fb 粉絲專頁-->
+                      <!--part_menu_4 操作 文未 開始-->
+                      <div class="part_menu_4">
+
+                              <!--menu_1 開始-->
+                              <div class="menu_1 clearfix">
+                                      <a class="btn rss" href="//www.ettoday.net/events/news-express/epaper.php" target="_blank">RSS</a>
+                                      <a class="btn fb" href="https://www.facebook.com/ETtoday" target="_blank">FB</a>
+                                      <a class="btn ig" href="https://instagram.com/ettodaytw/" target="_blank">IG</a>
+                                      <a class="btn weibo" href="//weibo.com/ettodaynet" target="_blank">weibo</a>
+                                      <a class="btn gplus" href="https://plus.google.com/+ettoday?rel=author" target="_blank">G+</a>
+                                      <a class="btn twitter" href="//twitter.com/#!/ETtodaynet" target="_blank">twitter</a>
+                              </div>
+                              <!--menu_1 結束-->
+
+                      </div>
+                      <!--.part_menu_4 操作 文未 結束-->
+              </div>
+              <!--block_content 結束-->
+      </div>
+      <!--block_1 區塊 結束-->
+
+    <!--footer 開始-->
+                            <div class="footer">
+                        	<!--選單 開始-->
+                            <div class="menu_1">
+                            	<a href="mailto:editor@ettoday.net" title="editor@ettoday.net">我要投稿</a>
+                                <a href="//www.104.com.tw/jobbank/custjob/index.php?r=cust&j=623a43295a5c3e6a40583a1d1d1d1d5f2443a363189j50&jobsource=checkc" target="_blank">人才招募</a>
+                                <a href="//events.ettoday.net/about-ettoday/index.htm" target="_blank">關於我們</a>
+                                <a href="//www.emic.com.tw/www/index.php?action=adv&id=209" target="_blank">集團簡介</a>
+                                <a href="mailto:service@ettoday.net" title="service@ettoday.net">廣告刊登/合作提案</a>
+                                <a href="mailto:service@ettoday.net" title="service@ettoday.net">客服信箱</a>
+                                <a class="btn_open_partner" href="javascript:;">合作媒體</a><!--開啟 .partner lightbox -->
+                                <a href="//www.ettoday.net/sitemap.htm" target="_blank">Sitemap</a>
+                                <a href="//www.ettoday.net/member/clause_privacy.php" target="_blank">隱私權政策</a>
+                                <a href="//www.ettoday.net/member/clause_copyright.php" target="_blank">著作權聲明</a>
+                                <a href="//www.ettoday.net/member/clause_duty.php" target="_blank">免責聲明</a>
+				<a href="//www.ettoday.net/events/news-express/epaper.php" target="_blank">RSS訂閱</a>
+                            </div>
+                            <!--選單 結束-->
+                            <p>東森新聞雲股份有限公司 版權所有，非經授權，不許轉載本網站內容 <br>
+                               &copy; ETtoday.net All Rights Reserved. <br>
+                                電話：+886-2-5555-6366</p>
+                        </div>
+
+
+<!--siteBro ettoday_float_bottom_pc 開始-->
+<script>
+var hs_ad_device = 'pc';
+var hs_ad_partner = 'tw_syndication_sitebro_ettoday_pm';
+var hs_ad_type = 'ettoday_float_bottom_pc'
+</script>
+<script src="//static.intentarget.com/ypa/pcbt/ettoday.js"></script>
+<!--siteBro ettoday_float_bottom_pc 結束-->
+
+<!--idleAd 閒置廣告 開始-->
+<script src="//cdn2.ettoday.net/ad/idle-ad/idle-ad.js"></script>
+<!--idleAd 閒置廣告 結束-->
+
+<!-- TenMax 原生廣告 start-->
+<script>
+var myCountry = $.cookie("et_client_country"); //取得目前cookie值(國家代碼)
+if(myCountry==null || (myCountry!="CN" && myCountry!="cn") && $(".news-page").length > 0){//非大陸才執行, 且為新聞頁
+
+	var tmaxTags = document.createElement("div");
+	tmaxTags.innerHTML += '<ins class="rmax" data-rmax-space-id="1a2687687697428b" data-rmax-space-type="NATIVE" data-target-id=".news-page .tab_content h3" data-target-index="0" data-target-pos="AFTER"></ins>';
+	tmaxTags.innerHTML += '<ins class="rmax" data-rmax-space-id="1a2687687697428b" data-rmax-space-type="NATIVE" data-target-id=".news-page .tab_content h3" data-target-index="2" data-target-pos="AFTER"></ins>';
+	document.body.appendChild(tmaxTags);
+
+	var script = document.createElement("script");
+	script.async = true;
+	script.src = "//tenmax-static.cacafly.net/ssp/adsbytenmax.js";
+	document.body.append(script);
+}
+</script>
+<!-- TenMax 原生廣告 end-->    <!--footer 結束-->
+      
+    <!--廣告 首頁_置底長巨幅 開始-->
+    <div class="ad_300">
+    <script language="JavaScript" type="text/javascript">
+        <!-- <![CDATA[
+            var ts = Math.random();
+            document.write('<scr' + 'ipt language="JavaScript" type="text/javascript" src="//ad.ettoday.net/ads.php?bid=index_300x600_1&rr='+ ts +'"></scr' + 'ipt>');
+        // ]]> -->
+    </script>
+    </div>
+    <!--廣告 首頁_置底長巨幅 結束-->
+
+
+    <!--partner 合作媒體 開始-->
+    <div class="partner" id="partner">
+            <div class="overlay"></div>
+            <div class="btn_close_partner"></div>
+            <div class="content">
+                    <iframe marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+            </div>
+    </div>
+    <!--partner 合作媒體 結束-->
+
+
+                        </div>
+                        <!--c2 inner 結束-->
+                    </div>
+                    <!--直欄 c2 結束-->
+                </div>
+                <!--橫列 r1 結束-->
+                
+            </div>
+            <!--container 結束-->
+        </div>
+        <!--container_box 結束-->
+       <!--gototop 回到最上面 開始-->
+       <div class="gototop">回到最上面</div>
+       <!--gototop 回到最上面 開始-->
+    </div>
+    <!--wrapper 結束-->
+</div>
+<!--wrapper_box 結束-->
+
+</body>
+</html>

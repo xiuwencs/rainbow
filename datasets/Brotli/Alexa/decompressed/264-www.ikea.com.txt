@@ -1,0 +1,456 @@
+<!DOCTYPE html> <html lang=en> <head> <meta charset=UTF-8> <meta http-equiv=X-UA-Compatible content="IE=edge"/> <title>IKEA.com – International homepage – IKEA</title> <meta name=robots content="index, follow"> <meta name=viewport content="width=device-width,initial-scale=1"> <meta name=description content="IKEA furniture and home accessories are practical, well designed and affordable. Here you can find your country's IKEA website and more about the IKEA business idea."> <meta property=og:title content="IKEA.com - International homepage"> <meta property=og:type content=website> <meta property=og:site_name content=IKEA> <meta property=og:url content=http://www.ikea.com/ > <meta property=og:description content="IKEA furniture and home accessories are practical, well designed and affordable. Here you can find your country's IKEA website and more about the IKEA business idea."> <meta property=og:image content=http://www.ikea.com/ext/ikeagateway/statics/social.2016.jpg> <meta property=og:locale content=en_US> <meta name=twitter:card content=summary> <meta name=twitter:site content=@IKEA> <meta name=twitter:title content="IKEA.com – International homepage"> <meta name=twitter:description content="IKEA furniture and home accessories are practical, well designed and affordable. Here you can find your country's IKEA website and more about the IKEA business idea."> <meta name=twitter:image content=http://www.ikea.com/ext/ikeagateway/statics/social.2016.jpg> <link rel=canonical href=http://www.ikea.com>  <link href="/ext/ikeagateway/app.41079d6a.css" rel="stylesheet"></head> <body class=gateway--location> <script>!function(e){var t=new Date,a=new Date;23===t.getHours()&&t.getMinutes()>=45?(a.setDate(t.getDate()+1),a.setHours(0)):t.getMinutes()>=45&&a.setHours(t.getHours()+1),t.getMinutes()>=15&&t.getMinutes()<45?a.setMinutes(30):a.setMinutes(0);var n=["sun","mon","tues","wednes","thurs","fri","satur"],s=function(){var e=window.innerWidth||document.documentElement.clientWidth;return e<768?"small":e>=1024?"large":"medium"}(),o="anonymous";try{for(var r=new RegExp("IRWStats.trailingTag=([^;]+)"),u=r.exec("document.cookie"),g=u?decodeURIComponent(u[1]).split("|"):"",i=0;i<g.length;i++){var l=g[i].split(",");if("IRWStats.memberType"===l[0]){o=l[1];break}}}catch(e){console.error(e)}e.utag_data={page_name:"www.ikea.com global start page",page_path:"/",page_type:"global",site_level_1:"global",hour:a.getHours()+":"+(0===a.getMinutes()?"00":"30"),day:n[a.getDay()]+"day",weekday_type:0===a.getDay()||6===a.getDay()?"weekend":"weekday",responsive_layout:s,site_platform:"web",user_type:o,country:"master",language_code:"en"}}(window)</script> <script>!function(e,t,a,n){e="//tags.tiqcdn.com/utag/ikea/global-splash-page/prod/utag.js",t=document,a="script",n=t.createElement(a),n.src=e,n.type="text/java"+a,n.async=!0,e=t.getElementsByTagName(a)[0],e.parentNode.insertBefore(n,e)}()</script>  <section> <div class=gateway-header> <div class=gateway-header__image> <picture> <!--[if IE 9]><video style="display: none;"><![endif]--> <source sizes=100vw media="(min-width: 64rem)" srcset="/ext/ikeagateway/statics/gw201703_desktop.jpg 2048w"> <source sizes=100vw media="(min-width: 48rem)" srcset="/ext/ikeagateway/statics/gw201703_tablet_landscape.jpg 1440w"> <source sizes=100vw media="(min-width: 30rem)" srcset="/ext/ikeagateway/statics/gw201703_tablet_portrait.jpg 1024w"> <!--[if IE 9]></video><![endif]--> <img srcset="/ext/ikeagateway/statics/gw201703_mobile.jpg" alt="Gateway header image"/> </picture> </div> <div class=gateway-header__logotype> <a href=/ > <img src="/ext/ikeagateway/statics/logo.svg" alt=IKEA /> </a> </div> <div class=gateway-header__content> <div class=gateway-header__headline> <div class=gateway-header__headline-inner> <h1>Hej! Welcome to a world of inspiration for your home</h1> </div> </div> <div class=gateway-header__cta-container> </div> </div> </div> </section> <div class=gateway-body> <div class=country-selection> <div class=country-selection__toggle-target id=view-all-locations> <h2>All locations</h2> <div class=country-selection__list> <ul>
+      <li class="country-selection__region">
+        <h3>Asia Pacific</h3>
+        <ul>
+          <li><div>
+        <div class="country-selection__multi-lang">
+          <a href="#" data-countryCode="AU" data-languageCode="EN">
+          <span class="flag flag__australia"></span>
+          <span>Australia</span>
+          <svg class="svg-icon"><path d="M12 16.01L4.65 8.65l.7-.7L12 14.59l6.65-6.64.7.7L12 16.01z"></path></svg>
+        </a><ul><li>
+              <a href="http://www.ikea.com/au/en/" title="IKEA AU Furniture & Home furnishings" data-countryCode="AU" data-languageCode="EN">Australian Capital Territory, New South Wales, Queensland, Tasmania and Victoria</a>
+            </li><li>
+              <a href="http://www.ikea.com/aa/en/" title="IKEA AA Furniture & Home furnishings" data-countryCode="AA" data-languageCode="EN">South and Western Australia</a>
+            </li></ul>
+        </div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.ikea.com/cn/zh/"  data-countryCode="CN" data-languageCode="ZH">
+          <span class="flag flag__china"></span>
+          <span>China | <span class="typeface-chinese-simplified">中国</span></span>
+        </a>
+        </div>
+        <div class="country-selection__multi-lang">
+          <a href="#" data-countryCode="HK" data-languageCode="ZH">
+          <span class="flag flag__hong-kong"></span>
+          <span>Hong Kong | <span class="typeface-chinese-traditional">香港</span></span>
+          <svg class="svg-icon"><path d="M12 16.01L4.65 8.65l.7-.7L12 14.59l6.65-6.64.7.7L12 16.01z"></path></svg>
+        </a><ul><li>
+              <a href="http://www.ikea.com/hk/zh/"  data-countryCode="HK" data-languageCode="ZH"><span class="typeface-chinese-traditional">中文</span>&nbsp;(Chinese)</a>
+            </li><li>
+              <a href="http://www.ikea.com/hk/en/" title="IKEA HK Furniture & Home furnishings" data-countryCode="HK" data-languageCode="EN">English</a>
+            </li></ul>
+        </div>
+        <div class="country-selection__single-lang">
+          <a href="http://ikea.in/"  data-countryCode="IN" data-languageCode="HI">
+          <span class="flag flag__india"></span>
+          <span>India | Bharat</span>
+        </a>
+        </div></div><div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.ikea.com/id/in/" title="IKEA ID Furniture & Home furnishings" data-countryCode="ID" data-languageCode="IN">
+          <span class="flag flag__indonesia"></span>
+          <span>Indonesia</span>
+        </a>
+        </div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.ikea.com/jp/ja/"  data-countryCode="JP" data-languageCode="JA">
+          <span class="flag flag__japan"></span>
+          <span>Japan | <span class="typeface-japanese">日本</span></span>
+        </a>
+        </div></div></li><li><div>
+        <div class="country-selection__multi-lang">
+          <a href="#" data-countryCode="MY" data-languageCode="MS">
+          <span class="flag flag__malaysia"></span>
+          <span>Malaysia</span>
+          <svg class="svg-icon"><path d="M12 16.01L4.65 8.65l.7-.7L12 14.59l6.65-6.64.7.7L12 16.01z"></path></svg>
+        </a><ul><li>
+              <a href="http://www.ikea.com/my/ms/"  data-countryCode="MY" data-languageCode="MS">Bahasa Malaysia&nbsp;(Malay)</a>
+            </li><li>
+              <a href="http://www.ikea.com/my/en/" title="IKEA MY Furniture & Home furnishings" data-countryCode="MY" data-languageCode="EN">English</a>
+            </li></ul>
+        </div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.ikea.com/sg/en/" title="IKEA SG Furniture & Home furnishings" data-countryCode="SG" data-languageCode="EN">
+          <span class="flag flag__singapore"></span>
+          <span>Singapore</span>
+        </a>
+        </div></div><div>
+        <div class="country-selection__multi-lang">
+          <a href="#" data-countryCode="KR" data-languageCode="KO">
+          <span class="flag flag__south-korea"></span>
+          <span>South Korea | <span class="typeface-korean">대한민국</span></span>
+          <svg class="svg-icon"><path d="M12 16.01L4.65 8.65l.7-.7L12 14.59l6.65-6.64.7.7L12 16.01z"></path></svg>
+        </a><ul><li>
+              <a href="http://www.ikea.com/kr/ko/"  data-countryCode="KR" data-languageCode="KO"><span class="typeface-korean">한국어</span>&nbsp;(Korean)</a>
+            </li><li>
+              <a href="http://www.ikea.com/kr/en/" title="IKEA KR Furniture & Home furnishings" data-countryCode="KR" data-languageCode="EN">English</a>
+            </li></ul>
+        </div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.IKEA.com.tw/"  data-countryCode="TW" data-languageCode="ZH">
+          <span class="flag flag__taiwan"></span>
+          <span>Taiwan | <span class="typeface-chinese-traditional">臺灣</span></span>
+        </a>
+        </div>
+        <div class="country-selection__multi-lang">
+          <a href="#" data-countryCode="TH" data-languageCode="TH">
+          <span class="flag flag__thailand"></span>
+          <span>Thailand | <span class="typeface-thai">ประเทศไทย</span></span>
+          <svg class="svg-icon"><path d="M12 16.01L4.65 8.65l.7-.7L12 14.59l6.65-6.64.7.7L12 16.01z"></path></svg>
+        </a><ul><li>
+              <a href="http://www.ikea.com/th/th/"  data-countryCode="TH" data-languageCode="TH"><span class="typeface-thai">ภาษาไทย</span>&nbsp;(Thai)</a>
+            </li><li>
+              <a href="http://www.ikea.com/th/en/" title="IKEA TH Furniture & Home furnishings" data-countryCode="TH" data-languageCode="EN">English</a>
+            </li></ul>
+        </div></div></li>
+        </ul>
+      </li>
+      <li class="country-selection__region">
+        <h3>Caribbean</h3>
+        <ul>
+          <li><div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.ikea.com.do/"  data-countryCode="DO" data-languageCode="ES">
+          <span class="flag flag__dominican-republic"></span>
+          <span>Dominican Republic | República Dominicana</span>
+        </a>
+        </div></div><div></div></li><li><div></div><div></div></li>
+        </ul>
+      </li>
+      <li class="country-selection__region">
+        <h3>Europe</h3>
+        <ul>
+          <li><div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.ikea.com/at/de/"  data-countryCode="AT" data-languageCode="DE">
+          <span class="flag flag__austria"></span>
+          <span>Austria | Österreich</span>
+        </a>
+        </div>
+        <div class="country-selection__multi-lang">
+          <a href="#" data-countryCode="BE" data-languageCode="NL">
+          <span class="flag flag__belgium"></span>
+          <span>Belgium | België | Belgique</span>
+          <svg class="svg-icon"><path d="M12 16.01L4.65 8.65l.7-.7L12 14.59l6.65-6.64.7.7L12 16.01z"></path></svg>
+        </a><ul><li>
+              <a href="http://www.ikea.com/be/nl/"  data-countryCode="BE" data-languageCode="NL">Nederlands&nbsp;(Dutch)</a>
+            </li><li>
+              <a href="http://www.ikea.com/be/fr/"  data-countryCode="BE" data-languageCode="FR">français&nbsp;(French)</a>
+            </li></ul>
+        </div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.ikea.bg/"  data-countryCode="BG" data-languageCode="BG">
+          <span class="flag flag__bulgaria"></span>
+          <span>Bulgaria | български</span>
+        </a>
+        </div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.ikea.com/hr/hr/"  data-countryCode="HR" data-languageCode="HR">
+          <span class="flag flag__croatia"></span>
+          <span>Croatia | Hrvatska</span>
+        </a>
+        </div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.ikea.com.cy/"  data-countryCode="CY" data-languageCode="EL">
+          <span class="flag flag__cyprus"></span>
+          <span>Cyprus | Κύπρος</span>
+        </a>
+        </div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.ikea.com/cz/cs/"  data-countryCode="CZ" data-languageCode="CS">
+          <span class="flag flag__czech-republic"></span>
+          <span>Czech Republic | Česká republika</span>
+        </a>
+        </div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.ikea.com/dk/da/"  data-countryCode="DK" data-languageCode="DA">
+          <span class="flag flag__denmark"></span>
+          <span>Denmark | Danmark</span>
+        </a>
+        </div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.ikea.com/fi/fi/"  data-countryCode="FI" data-languageCode="FI">
+          <span class="flag flag__finland"></span>
+          <span>Finland | Suomi</span>
+        </a>
+        </div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.ikea.com/fr/fr/"  data-countryCode="FR" data-languageCode="FR">
+          <span class="flag flag__france"></span>
+          <span>France</span>
+        </a>
+        </div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.ikea.com/de/de/"  data-countryCode="DE" data-languageCode="DE">
+          <span class="flag flag__germany"></span>
+          <span>Germany | Deutschland</span>
+        </a>
+        </div></div><div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.ikea.gr/"  data-countryCode="GR" data-languageCode="EL">
+          <span class="flag flag__greece"></span>
+          <span>Greece | Ελλάδα</span>
+        </a>
+        </div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.ikea.com/hu/hu/"  data-countryCode="HU" data-languageCode="HU">
+          <span class="flag flag__hungary"></span>
+          <span>Hungary | Magyarország</span>
+        </a>
+        </div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.ikea.is/"  data-countryCode="IS" data-languageCode="IS">
+          <span class="flag flag__iceland"></span>
+          <span>Iceland | Ísland</span>
+        </a>
+        </div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.ikea.com/ie/en/" title="IKEA IE Furniture & Home furnishings" data-countryCode="IE" data-languageCode="EN">
+          <span class="flag flag__ireland"></span>
+          <span>Ireland | Eire</span>
+        </a>
+        </div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.ikea.com/it/it/"  data-countryCode="IT" data-languageCode="IT">
+          <span class="flag flag__italy"></span>
+          <span>Italy | Italia</span>
+        </a>
+        </div></div></li><li><div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.ikea.com/lt/lt/"  data-countryCode="LT" data-languageCode="LT">
+          <span class="flag flag__lithuania"></span>
+          <span>Lithuania | Lietuva</span>
+        </a>
+        </div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.ikea.com/nl/nl/"  data-countryCode="NL" data-languageCode="NL">
+          <span class="flag flag__netherlands"></span>
+          <span>Netherlands | Nederland</span>
+        </a>
+        </div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.ikea.com/no/no/"  data-countryCode="NO" data-languageCode="NO">
+          <span class="flag flag__norway"></span>
+          <span>Norway | Norge</span>
+        </a>
+        </div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.ikea.com/pl/pl/"  data-countryCode="PL" data-languageCode="PL">
+          <span class="flag flag__poland"></span>
+          <span>Poland | Polska</span>
+        </a>
+        </div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.ikea.com/pt/pt/"  data-countryCode="PT" data-languageCode="PT">
+          <span class="flag flag__portugal"></span>
+          <span>Portugal</span>
+        </a>
+        </div></div><div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.ikea.com/ro/ro/"  data-countryCode="RO" data-languageCode="RO">
+          <span class="flag flag__romania"></span>
+          <span>Romania | România</span>
+        </a>
+        </div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.ikea.com/ru/ru/"  data-countryCode="RU" data-languageCode="RU">
+          <span class="flag flag__russia"></span>
+          <span>Russia | Россия</span>
+        </a>
+        </div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.ikea.rs/"  data-countryCode="RS" data-languageCode="SR">
+          <span class="flag flag__serbia"></span>
+          <span>Serbia | Srbija</span>
+        </a>
+        </div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.ikea.com/sk/sk/"  data-countryCode="SK" data-languageCode="SK">
+          <span class="flag flag__slovakia"></span>
+          <span>Slovakia | Slovensko</span>
+        </a>
+        </div>
+        <div class="country-selection__multi-lang">
+          <a href="#" data-countryCode="ES" data-languageCode="ES">
+          <span class="flag flag__spain"></span>
+          <span>Spain | España</span>
+          <svg class="svg-icon"><path d="M12 16.01L4.65 8.65l.7-.7L12 14.59l6.65-6.64.7.7L12 16.01z"></path></svg>
+        </a><ul><li>
+              <a href="http://www.ikea.com/es/es/"  data-countryCode="ES" data-languageCode="ES">Castellano&nbsp;(Spanish)</a>
+            </li><li>
+              <a href="http://ca.ikea.com/es/ca/"  data-countryCode="ES" data-languageCode="CA">Català&nbsp;(Catalan)</a>
+            </li><li>
+              <a href="http://eu.ikea.com/es/eu/"  data-countryCode="ES" data-languageCode="EU">Euskera&nbsp;(Basque)</a>
+            </li></ul>
+        </div>
+        <div class="country-selection__multi-lang">
+          <a href="#" data-countryCode="ES_ISLAS" data-languageCode="ES">
+          <span class="flag flag__spanish-islands"></span>
+          <span>Spanish Islands | España Islas Baleares y Canarias</span>
+          <svg class="svg-icon"><path d="M12 16.01L4.65 8.65l.7-.7L12 14.59l6.65-6.64.7.7L12 16.01z"></path></svg>
+        </a><ul><li>
+              <a href="http://www.baleares.ikea.es"  data-countryCode="ES_ISLAS" data-languageCode="ES">España Baleares</a>
+            </li><li>
+              <a href="http://www.canarias.ikea.es"  data-countryCode="ES_ISLAS" data-languageCode="ES">España Canarias</a>
+            </li></ul>
+        </div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.ikea.com/se/sv/"  data-countryCode="SE" data-languageCode="SV">
+          <span class="flag flag__sweden"></span>
+          <span>Sweden | Sverige</span>
+        </a>
+        </div>
+        <div class="country-selection__multi-lang">
+          <a href="#" data-countryCode="CH" data-languageCode="DE">
+          <span class="flag flag__switzerland"></span>
+          <span>Switzerland | Schweiz | Suisse | Svizzera</span>
+          <svg class="svg-icon"><path d="M12 16.01L4.65 8.65l.7-.7L12 14.59l6.65-6.64.7.7L12 16.01z"></path></svg>
+        </a><ul><li>
+              <a href="http://www.ikea.com/ch/de/"  data-countryCode="CH" data-languageCode="DE">Deutsch&nbsp;(German)</a>
+            </li><li>
+              <a href="http://www.ikea.com/ch/fr/"  data-countryCode="CH" data-languageCode="FR">français&nbsp;(French)</a>
+            </li><li>
+              <a href="http://www.ikea.com/ch/it/"  data-countryCode="CH" data-languageCode="IT">Italiano&nbsp;(Italian)</a>
+            </li></ul>
+        </div>
+        <div class="country-selection__multi-lang">
+          <a href="#" data-countryCode="TR" data-languageCode="TR">
+          <span class="flag flag__turkey"></span>
+          <span>Turkey | Türkiye</span>
+          <svg class="svg-icon"><path d="M12 16.01L4.65 8.65l.7-.7L12 14.59l6.65-6.64.7.7L12 16.01z"></path></svg>
+        </a><ul><li>
+              <a href="http://www.ikea.com.tr/"  data-countryCode="TR" data-languageCode="TR">Türkçe&nbsp;(Turkish)</a>
+            </li><li>
+              <a href="http://www.ikea.com.tr/en/" title="IKEA TR Furniture & Home furnishings" data-countryCode="TR" data-languageCode="EN">English</a>
+            </li></ul>
+        </div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.ikea.com/gb/en/" title="IKEA UK Furniture & Home furnishings" data-countryCode="GB" data-languageCode="EN">
+          <span class="flag flag__united-kingdom"></span>
+          <span>United Kingdom</span>
+        </a>
+        </div></div></li>
+        </ul>
+      </li>
+      <li class="country-selection__region">
+        <h3>Middle East and North Africa</h3>
+        <ul>
+          <li><div>
+        <div class="country-selection__single-lang">
+          <a href="http://ar.ikea.com/eg/ar/"  data-countryCode="EG" data-languageCode="AR">
+          <span class="flag flag__egypt"></span>
+          <span>Egypt | <span class="typeface-arabic">مَصر</span></span>
+        </a>
+        </div>
+        <div class="country-selection__multi-lang">
+          <a href="#" data-countryCode="IL" data-languageCode="HE">
+          <span class="flag flag__israel"></span>
+          <span>Israel | יִשְׂרָאֵל‎‎ | <span class="typeface-arabic">إسرائيل</span></span>
+          <svg class="svg-icon"><path d="M12 16.01L4.65 8.65l.7-.7L12 14.59l6.65-6.64.7.7L12 16.01z"></path></svg>
+        </a><ul><li>
+              <a href="http://www.ikea.co.il/"  data-countryCode="IL" data-languageCode="HE">עברית&nbsp;(Hebrew)</a>
+            </li><li>
+              <a href="http://ar.ikea.co.il/"  data-countryCode="IL" data-languageCode="AR"><span class="typeface-arabic">العربية</span>&nbsp;(Arabic)</a>
+            </li></ul>
+        </div>
+        <div class="country-selection__multi-lang">
+          <a href="#" data-countryCode="JO" data-languageCode="AR">
+          <span class="flag flag__jordan"></span>
+          <span>Jordan | <span class="typeface-arabic">الأردن‎‎</span></span>
+          <svg class="svg-icon"><path d="M12 16.01L4.65 8.65l.7-.7L12 14.59l6.65-6.64.7.7L12 16.01z"></path></svg>
+        </a><ul><li>
+              <a href="http://ar.ikea.com/jo/ar/"  data-countryCode="JO" data-languageCode="AR"><span class="typeface-arabic">العربية</span>&nbsp;(Arabic)</a>
+            </li><li>
+              <a href="http://www.ikea.com/jo/en/" title="IKEA JO Furniture & Home furnishings" data-countryCode="JO" data-languageCode="EN">English</a>
+            </li></ul>
+        </div></div><div>
+        <div class="country-selection__multi-lang">
+          <a href="#" data-countryCode="KW" data-languageCode="AR">
+          <span class="flag flag__kuwait"></span>
+          <span>Kuwait | <span class="typeface-arabic">الكويت‎‎‎‎</span></span>
+          <svg class="svg-icon"><path d="M12 16.01L4.65 8.65l.7-.7L12 14.59l6.65-6.64.7.7L12 16.01z"></path></svg>
+        </a><ul><li>
+              <a href="http://ar.ikea.com/kw/ar/"  data-countryCode="KW" data-languageCode="AR"><span class="typeface-arabic">العربية</span>&nbsp;(Arabic)</a>
+            </li><li>
+              <a href="http://www.ikea.com/kw/en/" title="IKEA KW Furniture & Home furnishings" data-countryCode="KW" data-languageCode="EN">English</a>
+            </li></ul>
+        </div></div></li><li><div>
+        <div class="country-selection__multi-lang">
+          <a href="#" data-countryCode="MA" data-languageCode="FR">
+          <span class="flag flag__morocco"></span>
+          <span>Morocco | Maroc | <span class="typeface-arabic">المغرب‎‎</span></span>
+          <svg class="svg-icon"><path d="M12 16.01L4.65 8.65l.7-.7L12 14.59l6.65-6.64.7.7L12 16.01z"></path></svg>
+        </a><ul><li>
+              <a href="http://www.ikea.com/ma/fr/"  data-countryCode="MA" data-languageCode="FR">français&nbsp;(French)</a>
+            </li><li>
+              <a href="http://ar.ikea.com/ma/ar/"  data-countryCode="MA" data-languageCode="AR"><span class="typeface-arabic">العربية</span>&nbsp;(Arabic)</a>
+            </li></ul>
+        </div>
+        <div class="country-selection__multi-lang">
+          <a href="#" data-countryCode="QA" data-languageCode="EN">
+          <span class="flag flag__qatar"></span>
+          <span>Qatar | <span class="typeface-arabic">قطر</span></span>
+          <svg class="svg-icon"><path d="M12 16.01L4.65 8.65l.7-.7L12 14.59l6.65-6.64.7.7L12 16.01z"></path></svg>
+        </a><ul><li>
+              <a href="http://www.ikea.qa/" title="IKEA QA Furniture & Home furnishings" data-countryCode="QA" data-languageCode="EN">English</a>
+            </li><li>
+              <a href="http://ar.ikea.com/qa/ar/"  data-countryCode="QA" data-languageCode="AR"><span class="typeface-arabic">العربية</span>&nbsp;(Arabic)</a>
+            </li></ul>
+        </div></div><div>
+        <div class="country-selection__multi-lang">
+          <a href="#" data-countryCode="SA" data-languageCode="AR">
+          <span class="flag flag__saudi-arabia"></span>
+          <span>Saudi Arabia | <span class="typeface-arabic">المملكة العربية السعودية</span></span>
+          <svg class="svg-icon"><path d="M12 16.01L4.65 8.65l.7-.7L12 14.59l6.65-6.64.7.7L12 16.01z"></path></svg>
+        </a><ul><li>
+              <a href="http://ar.ikea.com/sa/ar/"  data-countryCode="SA" data-languageCode="AR"><span class="typeface-arabic">العربية</span>&nbsp;(Arabic)</a>
+            </li><li>
+              <a href="http://www.ikea.com/sa/en/" title="IKEA SA Furniture & Home furnishings" data-countryCode="SA" data-languageCode="EN">English</a>
+            </li></ul>
+        </div>
+        <div class="country-selection__multi-lang">
+          <a href="#" data-countryCode="AE" data-languageCode="AR">
+          <span class="flag flag__united-arab-emirates"></span>
+          <span>United Arab Emirates | <span class="typeface-arabic">الإمارات العربية المتحدة‎‎</span></span>
+          <svg class="svg-icon"><path d="M12 16.01L4.65 8.65l.7-.7L12 14.59l6.65-6.64.7.7L12 16.01z"></path></svg>
+        </a><ul><li>
+              <a href="http://ar.ikea.com/ae/ar/"  data-countryCode="AE" data-languageCode="AR"><span class="typeface-arabic">العربية</span>&nbsp;(Arabic)</a>
+            </li><li>
+              <a href="http://www.ikea.ae/" title="IKEA AE Furniture & Home furnishings" data-countryCode="AE" data-languageCode="EN">English</a>
+            </li></ul>
+        </div></div></li>
+        </ul>
+      </li>
+      <li class="country-selection__region">
+        <h3>North America</h3>
+        <ul>
+          <li><div>
+        <div class="country-selection__multi-lang">
+          <a href="#" data-countryCode="CA" data-languageCode="EN">
+          <span class="flag flag__canada"></span>
+          <span>Canada</span>
+          <svg class="svg-icon"><path d="M12 16.01L4.65 8.65l.7-.7L12 14.59l6.65-6.64.7.7L12 16.01z"></path></svg>
+        </a><ul><li>
+              <a href="http://www.ikea.com/ca/en/" title="IKEA CA Furniture & Home furnishings" data-countryCode="CA" data-languageCode="EN">English</a>
+            </li><li>
+              <a href="http://www.ikea.com/ca/fr/"  data-countryCode="CA" data-languageCode="FR">français&nbsp;(French)</a>
+            </li></ul>
+        </div></div><div></div></li><li><div>
+        <div class="country-selection__single-lang">
+          <a href="http://www.ikea.com/us/en/" title="IKEA US Furniture & Home furnishings" data-countryCode="US" data-languageCode="EN">
+          <span class="flag flag__united-states"></span>
+          <span>United States</span>
+        </a>
+        </div></div><div></div></li>
+        </ul>
+      </li>
+      <li class="country-selection__region">
+        <h3>Other Countries</h3>
+        <ul>
+          <li><div>
+        <div class="country-selection__single-lang">
+          <a href="http://franchisor.ikea.com/no-ikea-store-in-your-country-2/"  data-countryCode="LIO" data-languageCode="EN">
+          <span class="flag flag__no-ikea-store-in-your-country?"></span>
+          <span>No IKEA store in your country?</span>
+        </a>
+        </div></div><div></div></li><li><div></div><div></div></li>
+        </ul>
+      </li></ul> </div> </div> </div> </div> <footer> <div class=gateway-footer> <h2>More IKEA websites to explore</h2> <ul class=gateway-footer__links> <li> <a href=http://franchisor.ikea.com/the-ikea-concept-2 target=_blank>The IKEA Concept</a> </li> <li> <a href=http://supplierportal.ikea.com/Pages/default.aspx target=_blank>IKEA Supply Chain</a> </li> <li> <a href=http://ikeamuseum.com/en/ target=_blank>IKEA Museum</a> </li> <li> <a href=http://highlights.ikea.com/ target=_blank>IKEA Highlights</a> </li> <li> <a href=http://www.inter.ikea.com/ target=_blank>Inter IKEA Group</a> </li> </ul> <div class=gateway-footer__logotype> <img src="/ext/ikeagateway/statics/logo.svg" alt=IKEA /> <small>@ Inter IKEA Systems B.V. 1999 - 2017</small> </div> </div>  </footer> <script> _LOCALESTRINGS = {
+      buttonTemplate: 'Go to IKEA',
+      toggleCta: 'I want to choose another country <svg class="svg-icon"><path d="M12 16.01L4.65 8.65l.7-.7L12 14.59l6.65-6.64.7.7L12 16.01z"></path></svg>',
+      searchPlaceholder: 'Start typing your country...',
+      noPresenceButton: 'Browse a country website <svg class="svg-icon"><path d="M12 16.01L4.65 8.65l.7-.7L12 14.59l6.65-6.64.7.7L12 16.01z"></path></svg>'
+    };
+
+    _COUNTRYDATA = {"Asia Pacific":[{"country_code":"AU","country_english":"Australia","locales":[{"button_text":"IKEA Australia (ACT NSW QLD TAS VIC)","url":"http://www.ikea.com/au/en/","url_title":"IKEA AU Furniture & Home furnishings","language_code":"EN","language_local":"Australian Capital Territory, New South Wales, Queensland, Tasmania and Victoria"},{"button_text":"IKEA Australia (SA WA)","url":"http://www.ikea.com/aa/en/","url_title":"IKEA AA Furniture & Home furnishings","country_code":"AA","language_code":"EN","language_local":"South and Western Australia"}],"keywords":[]},{"country_code":"CN","country_english":"China","locales":[{"button_text":"移步宜家中国","url":"http://www.ikea.com/cn/zh/","country_local":"中国","language_code":"ZH","language_local":"简体中文","language_english":"Simplified Chinese","additional_class":"typeface-chinese-simplified"}],"keywords":["mandarin","chinese"]},{"country_code":"HK","country_english":"Hong Kong","locales":[{"button_text":"帶我到 IKEA 香港","url":"http://www.ikea.com/hk/zh/","country_local":"香港","language_code":"ZH","language_local":"中文","language_english":"Chinese","additional_class":"typeface-chinese-traditional"},{"button_text":"Take me to IKEA Hong Kong","url":"http://www.ikea.com/hk/en/","url_title":"IKEA HK Furniture & Home furnishings","language_code":"EN","language_local":"English"}],"keywords":["Mandarin","HK","Macau","Macao","澳門"]},{"country_code":"IN","country_english":"India","locales":[{"button_text":"आइकिया भारत के लिए यहां क्लिक करें","url":"http://ikea.in/","country_local":"Bharat","language_code":"HI","language_local":"हिन्दी","language_english":"Hindi"}],"keywords":[]},{"country_code":"ID","country_english":"Indonesia","locales":[{"button_text":"Bawa saya ke website IKEA Indonesia","url":"http://www.ikea.com/id/in/","url_title":"IKEA ID Furniture & Home furnishings","language_code":"IN","language_local":"Bahasa Indonesia","language_english":"Indonesian"}],"keywords":[]},{"country_code":"JP","country_english":"Japan","locales":[{"button_text":"イケア・ジャパン ウェブサイトに移動する","url":"http://www.ikea.com/jp/ja/","country_local":"日本","language_code":"JA","language_local":"日本語","language_english":"Japanese","additional_class":"typeface-japanese"}],"keywords":[]},{"country_code":"MY","country_english":"Malaysia","locales":[{"button_text":"Bawa saya ke IKEA Malaysia","url":"http://www.ikea.com/my/ms/","language_code":"MS","language_local":"Bahasa Malaysia","language_english":"Malay"},{"button_text":"Take me to IKEA Malaysia","url":"http://www.ikea.com/my/en/","url_title":"IKEA MY Furniture & Home furnishings","language_code":"EN","language_local":"English"}],"keywords":[]},{"country_code":"SG","country_english":"Singapore","locales":[{"button_text":"Take me to IKEA Singapore","url":"http://www.ikea.com/sg/en/","url_title":"IKEA SG Furniture & Home furnishings","language_code":"EN","language_local":"English"}],"keywords":[]},{"country_code":"KR","country_english":"South Korea","locales":[{"button_text":"IKEA 코리아 웹사이트 방문하기","url":"http://www.ikea.com/kr/ko/","country_local":"대한민국","language_code":"KO","language_local":"한국어","language_english":"Korean","additional_class":"typeface-korean"},{"button_text":"Go to IKEA South Korea","url":"http://www.ikea.com/kr/en/","url_title":"IKEA KR Furniture & Home furnishings","country_local":"South Korea","language_code":"EN","language_local":"English"}],"keywords":["한국","코리아","Korea"]},{"country_code":"TW","country_english":"Taiwan","locales":[{"button_text":"拜訪IKEA{臺灣}","url":"http://www.IKEA.com.tw/","country_local":"臺灣","language_code":"ZH","language_local":"繁體中文","language_english":"Traditional Chinese","additional_class":"typeface-chinese-traditional"}],"keywords":[]},{"country_code":"TH","country_english":"Thailand","locales":[{"button_text":"เข้าสู่เว็บไซต์ อิเกีย ประเทศไทย","url":"http://www.ikea.com/th/th/","country_local":"ประเทศไทย","language_code":"TH","language_local":"ภาษาไทย","language_english":"Thai","additional_class":"typeface-thai"},{"button_text":"Take me to IKEA Thailand","url":"http://www.ikea.com/th/en/","url_title":"IKEA TH Furniture & Home furnishings","language_code":"EN","language_local":"English"}],"keywords":["ไทย"]}],"Caribbean":[{"country_code":"DO","country_english":"Dominican Republic","locales":[{"button_text":"Ir a IKEA Santo Domingo","url":"http://www.ikea.com.do/","country_local":"República Dominicana","language_code":"ES","language_local":"Español","language_english":"Spanish"}],"keywords":["Santo Domingo","Dominicana","Punta Cana","Puerta Plata"]}],"Europe":[{"country_code":"AT","country_english":"Austria","locales":[{"button_text":"Bring mich zu IKEA Österreich","url":"http://www.ikea.com/at/de/","country_local":"Österreich","language_code":"DE","language_local":"Deutsch","language_english":"German"}],"keywords":["Oesterreich"]},{"country_code":"BE","country_english":"Belgium","locales":[{"button_text":"Naar IKEA.be","url":"http://www.ikea.com/be/nl/","country_local":"België","language_code":"NL","language_local":"Nederlands","language_english":"Dutch"},{"button_text":"Accéder au site IKEA.be","url":"http://www.ikea.com/be/fr/","country_local":"Belgique","language_code":"FR","language_local":"français","language_english":"French"}],"keywords":[]},{"country_code":"BG","country_english":"Bulgaria","locales":[{"button_text":"Към сайта на ИКЕА България","url":"http://www.ikea.bg/","country_local":"български","language_code":"BG","language_local":"български език","language_english":"Bulgarian"}],"keywords":[]},{"country_code":"HR","country_english":"Croatia","locales":[{"button_text":"Dobrodošlicu ti želi IKEA Hrvatska","url":"http://www.ikea.com/hr/hr/","country_local":"Hrvatska","language_code":"HR","language_local":"Hrvatski","language_english":"Croatian"}],"keywords":[]},{"country_code":"CY","country_english":"Cyprus","locales":[{"button_text":"Πήγαινέ με στην ΙΚΕΑ Κύπρου","url":"http://www.ikea.com.cy/","country_local":"Κύπρος","language_code":"EL","language_local":"Ελληνικά","language_english":"Greek"}],"keywords":[]},{"country_code":"CZ","country_english":"Czech Republic","locales":[{"button_text":"Přejít na IKEA Česká republika","url":"http://www.ikea.com/cz/cs/","country_local":"Česká republika","language_code":"CS","language_local":"Čeština","language_english":"Czech"}],"keywords":[]},{"country_code":"DK","country_english":"Denmark","locales":[{"button_text":"Vis mig IKEA Danmark","url":"http://www.ikea.com/dk/da/","country_local":"Danmark","language_code":"DA","language_local":"Dansk","language_english":"Danish"}],"keywords":[]},{"country_code":"FI","country_english":"Finland","locales":[{"button_text":"Jatka IKEA Suomi-sivulle","url":"http://www.ikea.com/fi/fi/","country_local":"Suomi","language_code":"FI","language_local":"Suomi","language_english":"Finnish"}],"keywords":["Soumi","Suomen","Suomalainen"]},{"country_code":"FR","country_english":"France","locales":[{"button_text":"Accéder au site IKEA.fr","url":"http://www.ikea.com/fr/fr/","language_code":"FR","language_local":"français","language_english":"French"}],"keywords":[]},{"country_code":"DE","country_english":"Germany","locales":[{"button_text":"Bring mich zu IKEA Deutschland","url":"http://www.ikea.com/de/de/","country_local":"Deutschland","language_code":"DE","language_local":"Deutsch","language_english":"German"}],"keywords":[]},{"country_code":"GR","country_english":"Greece","locales":[{"button_text":"Πήγαινέ με στην ΙΚΕΑ Ελλάδας","url":"http://www.ikea.gr/","country_local":"Ελλάδα","language_code":"EL","language_local":"Ελληνικά","language_english":"Greek"}],"keywords":[]},{"country_code":"HU","country_english":"Hungary","locales":[{"button_text":"IKEA Magyarország","url":"http://www.ikea.com/hu/hu/","country_local":"Magyarország","language_code":"HU","language_local":"Magyar","language_english":"Hungarian"}],"keywords":[]},{"country_code":"IS","country_english":"Iceland","locales":[{"button_text":"Sýndu mér IKEA á Íslandi","url":"http://www.ikea.is/","country_local":"Ísland","language_code":"IS","language_local":"Íslenska","language_english":"Icelandic"}],"keywords":[]},{"country_code":"IE","country_english":"Ireland","locales":[{"button_text":"Take me to Ireland","url":"http://www.ikea.com/ie/en/","url_title":"IKEA IE Furniture & Home furnishings","country_local":"Eire","language_code":"EN","language_local":"English"}],"keywords":[]},{"country_code":"IT","country_english":"Italy","locales":[{"button_text":"Vai al sito di IKEA Italia","url":"http://www.ikea.com/it/it/","country_local":"Italia","language_code":"IT","language_local":"Italiano","language_english":"Italian"}],"keywords":[]},{"country_code":"LT","country_english":"Lithuania","locales":[{"button_text":"Taip, nukreipkite mane į IKEA Lietuva","url":"http://www.ikea.com/lt/lt/","country_local":"Lietuva","language_code":"LT","language_local":"Lietuvių kalba","language_english":"Lithuanian"}],"keywords":["Lietuva","LT","Lietuvoje","Lietuvos","Baltijos šalys"]},{"country_code":"NL","country_english":"Netherlands","locales":[{"button_text":"Naar IKEA.nl","url":"http://www.ikea.com/nl/nl/","country_local":"Nederland","language_code":"NL","language_local":"Nederlands","language_english":"Dutch"}],"keywords":["Holland"]},{"country_code":"NO","country_english":"Norway","locales":[{"button_text":"Gå til IKEA Norge","url":"http://www.ikea.com/no/no/","country_local":"Norge","language_code":"NO","language_local":"Norsk","language_english":"Norwegian"}],"keywords":[]},{"country_code":"PL","country_english":"Poland","locales":[{"button_text":"Przejdź do IKEA Polska","url":"http://www.ikea.com/pl/pl/","country_local":"Polska","language_code":"PL","language_local":"Polski","language_english":"Polish"}],"keywords":[]},{"country_code":"PT","country_english":"Portugal","locales":[{"button_text":"Ir para IKEA Portugal","url":"http://www.ikea.com/pt/pt/","language_code":"PT","language_local":"Português","language_english":"Portuguese"}],"keywords":[]},{"country_code":"RO","country_english":"Romania","locales":[{"button_text":"Bun venit la IKEA Romania","url":"http://www.ikea.com/ro/ro/","country_local":"România","language_code":"RO","language_local":"Română","language_english":"Romanian"}],"keywords":[]},{"country_code":"RU","country_english":"Russia","locales":[{"button_text":"Перейти на сайт ИКЕА Россия","url":"http://www.ikea.com/ru/ru/","country_local":"Россия","language_code":"RU","language_local":"ру́сский","language_english":"Russian"}],"keywords":[]},{"country_code":"RS","country_english":"Serbia","locales":[{"button_text":"Dobro došli u IKEA Srbija","url":"http://www.ikea.rs/","country_local":"Srbija","language_code":"SR","language_local":"Srpski","language_english":"Serbian"}],"keywords":[]},{"country_code":"SK","country_english":"Slovakia","locales":[{"button_text":"Prejsť na IKEA Slovensko","url":"http://www.ikea.com/sk/sk/","country_local":"Slovensko","language_code":"SK","language_local":"Slovenský jazyk","language_english":"Slovak"}],"keywords":[]},{"country_code":"ES","country_english":"Spain","locales":[{"button_text":"España | Peninsula","url":"http://www.ikea.com/es/es/","country_local":"España","language_code":"ES","language_local":"Castellano","language_english":"Spanish"},{"url":"http://ca.ikea.com/es/ca/","country_local":"España","language_code":"CA","language_local":"Català","language_english":"Catalan"},{"url":"http://eu.ikea.com/es/eu/","country_local":"España","language_code":"EU","language_local":"Euskera","language_english":"Basque"},{"button_text":"España | Baleares","url":"http://www.baleares.ikea.es","country_local":"Baleareas","language_code":"ES","language_local":"Castellano","dont_show_in_list":true},{"button_text":"España | Canarias","url":"http://www.canarias.ikea.es","country_local":"Canarias","language_code":"ES","language_local":"Castellano","dont_show_in_list":true}],"keywords":["Peninsula","Ibérica","Castellano"]},{"country_code":"ES_ISLAS","country_english":"Spanish Islands","locales":[{"url":"http://www.baleares.ikea.es","country_local":"España Islas Baleares y Canarias","language_code":"ES","language_local":"España Baleares"},{"url":"http://www.canarias.ikea.es","language_code":"ES","language_local":"España Canarias"}],"keywords":["Baleares","Islas","Tenerife","Canary islands","Canarias","Mallorca","Gran Canaria","Lanzarote","Illes Balears","Ibiza","Eïvissa"]},{"country_code":"SE","country_english":"Sweden","locales":[{"button_text":"Ta mig till IKEA Sverige","url":"http://www.ikea.com/se/sv/","country_local":"Sverige","language_code":"SV","language_local":"Svenska","language_english":"Swedish"}],"keywords":["Åland"]},{"country_code":"CH","country_english":"Switzerland","locales":[{"button_text":"Bring mich zu IKEA Schweiz","url":"http://www.ikea.com/ch/de/","country_local":"Schweiz","language_code":"DE","language_local":"Deutsch","language_english":"German"},{"button_text":"Amenez-moi chez IKEA Suisse","url":"http://www.ikea.com/ch/fr/","country_local":"Suisse","language_code":"FR","language_local":"français","language_english":"French"},{"button_text":"Portami da IKEA Svizzera","url":"http://www.ikea.com/ch/it/","country_local":"Svizzera","language_code":"IT","language_local":"Italiano","language_english":"Italian"}],"keywords":[]},{"country_code":"TR","country_english":"Turkey","locales":[{"button_text":"IKEA Türkiye'yi ziyaret edin","url":"http://www.ikea.com.tr/","country_local":"Türkiye","language_code":"TR","language_local":"Türkçe","language_english":"Turkish"},{"button_text":"Take me to IKEA Turkey","url":"http://www.ikea.com.tr/en/","url_title":"IKEA TR Furniture & Home furnishings","language_code":"EN","language_local":"English"}],"keywords":[]},{"country_code":"GB","country_english":"United Kingdom","locales":[{"button_text":"Take me to IKEA United Kingdom","url":"http://www.ikea.com/gb/en/","url_title":"IKEA UK Furniture & Home furnishings","language_code":"EN","language_local":"English"}],"keywords":["England","Scotland","Wales","Northern Ireland","GB","UK","British Isles","N.Ireland","Great Britain"]}],"Middle East and North Africa":[{"country_code":"EG","country_english":"Egypt","locales":[{"button_text":"خذني إلى ايكيا مصر","url":"http://ar.ikea.com/eg/ar/","country_local":"مَصر","language_code":"AR","language_local":"العربية","language_english":"Arabic","additional_class":"typeface-arabic"}],"keywords":["Alexandria","Cairo","الأسكندرية","القاهرة"]},{"country_code":"IL","country_english":"Israel","locales":[{"button_text":"ישראל IKEA -קח אותי ל","url":"http://www.ikea.co.il/","country_local":"יִשְׂרָאֵל‎‎","language_code":"HE","language_local":"עברית","language_english":"Hebrew"},{"button_text":"خذني لايكيا إسرائيل ","url":"http://ar.ikea.co.il/","country_local":"إسرائيل","language_code":"AR","language_local":"العربية","language_english":"Arabic","additional_class":"typeface-arabic"}],"keywords":[]},{"country_code":"JO","country_english":"Jordan","locales":[{"button_text":"خذني إلى ايكيا الأردن","url":"http://ar.ikea.com/jo/ar/","country_local":"الأردن‎‎","language_code":"AR","language_local":"العربية","language_english":"Arabic","additional_class":"typeface-arabic"},{"button_text":"Take me to IKEA Jordan","url":"http://www.ikea.com/jo/en/","url_title":"IKEA JO Furniture & Home furnishings","language_code":"EN","language_local":"English"}],"keywords":["Amman","الأردن","عمّان"]},{"country_code":"KW","country_english":"Kuwait","locales":[{"button_text":"خذني إلى ايكيا الكويت","url":"http://ar.ikea.com/kw/ar/","country_local":"الكويت‎‎‎‎","language_code":"AR","language_local":"العربية","language_english":"Arabic","additional_class":"typeface-arabic"},{"button_text":"Take me to IKEA Kuwait","url":"http://www.ikea.com/kw/en/","url_title":"IKEA KW Furniture & Home furnishings","language_code":"EN","language_local":"English"}],"keywords":["كويت"]},{"country_code":"MA","country_english":"Morocco","locales":[{"button_text":"Accéder au site IKEA.ma","url":"http://www.ikea.com/ma/fr/","country_local":"Maroc","language_code":"FR","language_local":"français","language_english":"French"},{"button_text":"خذني إلى ايكيا المغرب","url":"http://ar.ikea.com/ma/ar/","country_local":"المغرب‎‎","language_code":"AR","language_local":"العربية","language_english":"Arabic","additional_class":"typeface-arabic"}],"keywords":["Maghreb","Al Maghrib","Maroc","Zenata"]},{"country_code":"QA","country_english":"Qatar","locales":[{"button_text":"Take me to IKEA Qatar","url":"http://www.ikea.qa/","url_title":"IKEA QA Furniture & Home furnishings","language_code":"EN","language_local":"English"},{"button_text":"خذني إلى ايكيا قطر","url":"http://ar.ikea.com/qa/ar/","country_local":"قطر","language_code":"AR","language_local":"العربية","language_english":"Arabic","additional_class":"typeface-arabic"}],"keywords":["Doha","الدوحة"]},{"country_code":"SA","country_english":"Saudi Arabia","locales":[{"button_text":"ايكيا السعودية","url":"http://ar.ikea.com/sa/ar/","country_local":"المملكة العربية السعودية","language_code":"AR","language_local":"العربية","language_english":"Arabic","additional_class":"typeface-arabic"},{"button_text":"Take me to IKEA Saudi Arabia","url":"http://www.ikea.com/sa/en/","url_title":"IKEA SA Furniture & Home furnishings","language_code":"EN","language_local":"English"}],"keywords":["السعودية العربية","السعوديه","السعودية"]},{"country_code":"AE","country_english":"United Arab Emirates","locales":[{"button_text":"خذني إلى ايكيا الإمارات العربية المتحدة‎‎","url":"http://ar.ikea.com/ae/ar/","country_local":"الإمارات العربية المتحدة‎‎","language_code":"AR","language_local":"العربية","language_english":"Arabic","additional_class":"typeface-arabic"},{"button_text":"Take me to IKEA United Arab Emirates","url":"http://www.ikea.ae/","url_title":"IKEA AE Furniture & Home furnishings","language_code":"EN","language_local":"English"}],"keywords":["UAE","Emirates","Dubai","Abu Dhabi","ابو ظبي","الأمارات العربية المتحدة","الإمارات","دبي","أبو ظبي","العين","Al Ain"]}],"North America":[{"country_code":"CA","country_english":"Canada","locales":[{"button_text":"Take me to IKEA Canada (English)","url":"http://www.ikea.com/ca/en/","url_title":"IKEA CA Furniture & Home furnishings","language_code":"EN","language_local":"English"},{"button_text":"Accéder au site IKEA.ca (en français)","url":"http://www.ikea.com/ca/fr/","language_code":"FR","language_local":"français","language_english":"French"}],"keywords":[]},{"country_code":"US","country_english":"United States","locales":[{"button_text":"Take me to IKEA United States","url":"http://www.ikea.com/us/en/","url_title":"IKEA US Furniture & Home furnishings","language_code":"EN","language_local":"English"}],"keywords":["USA","America","United States of America","North America","US"]}],"Other Countries":[{"country_code":"LIO","country_english":"No IKEA store in your country?","show_button_for":["AR","BA","BH","BY","BR","BO","CL","CO","EC","PS","IN","MO","MX","NZ","OM","PY","PE","PH","PR","SI","UA","UY","VE","VN","AL","DZ","AO","AM","CR","CU","SV","GT","HO","IN","IQ","KZ","XK","LB","MK","PA","ZA","TN","AZ","BD","BW","BN","GE","KG","LY","MU","MD","MM","AN","NG","PK","LK","SY","TJ","TM","UZ","YE","HN","IR"],"locales":[{"button_text":"No IKEA store in your country?","url":"http://franchisor.ikea.com/no-ikea-store-in-your-country-2/","language_code":"EN","language_local":"English"}],"keywords":[]}]} // eslint-disable-line </script>  <script type="text/javascript" src="/ext/ikeagateway/app.41079d6a.js"></script></body> </html> 

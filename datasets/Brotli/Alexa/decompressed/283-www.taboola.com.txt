@@ -1,0 +1,703 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+    "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+    <!--[if lte IE 8]>
+    <![endif]-->
+    <!--[if IE]><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.taboola.com/it" rel="alternate" hreflang="it" />
+<link href="https://www.taboola.com/pt" rel="alternate" hreflang="pt" />
+<link href="https://www.taboola.com/es" rel="alternate" hreflang="es" />
+<link rel="shortcut icon" href="https://www.taboola.com/sites/default/files/taboola-little-icon_0.png" type="image/png" />
+<link href="https://www.taboola.com/fr" rel="alternate" hreflang="fr" />
+<link href="https://www.taboola.com/ru" rel="alternate" hreflang="ru" />
+<link href="https://www.taboola.com/de" rel="alternate" hreflang="de" />
+<link href="https://www.taboola.com/" rel="alternate" hreflang="en" />
+<script type="text/javascript" src="//load.sumome.com/" data-sumo-site-id="2f5e7f04a58fb7a13ef2f0e4bacc2ce516b941d001aa17a3aa10cf2ff5783fd1" async="async" />
+</script><link href="https://www.taboola.com/nl" rel="alternate" hreflang="nl" />
+<meta name="google-site-verification" content="-W5tgYts6sghKhuZF_1yFLnQM7R8gWblV7GU9RgCCm0" />
+<meta name="description" content="Drive traffic to your site, blog or video, or monetize your site with the largest platform for content recommendation, audience acquisition, and native advertising" />
+<meta name="keywords" content="content, taboola, traffic, monetize, drive traffic, audience" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="https://www.taboola.com/" />
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '695557047148256']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=695557047148256&amp;ev=NoScript" /></noscript>
+<script type="text/javascript">
+(function() {
+  var didInit = false;
+  function initMunchkin() {
+    if(didInit === false) {
+      didInit = true;
+      Munchkin.init('989-GZB-065');
+    }
+  }
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//munchkin.marketo.net/munchkin.js';
+  s.onreadystatechange = function() {
+    if (this.readyState == 'complete' || this.readyState == 'loaded') {
+      initMunchkin();
+    }
+  };
+  s.onload = initMunchkin;
+  document.getElementsByTagName('head')[0].appendChild(s);
+})();
+</script>
+<style>
+.colorbox-modal *, .wf-loading .colorbox-modal * {
+ opacity: 1 !important;
+    transition: 200ms;
+}
+.colorbox-modal {
+ background: none !important;
+}
+</style>
+<style>
+html .resp-menu-wrapper {
+overflow:scroll;
+}
+
+.menu-block-wrapper .active-trail .active {
+    background: #386cbd !important;
+    color: #fff !important;
+}
+</style>
+<meta name="google-site-verification" content="6HMSpm3CAekh6Wt58ZoQYP0GTtTr52LcNz94V7rp5XI" />
+<meta name="google-site-verification" content="8EcUsigJRDHRnEHzc1ZA0g67USvwbLuOyOncaRz9BaU" />
+    <title>World's Largest Discovery Platform | Taboola</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="//www.taboola.com/sites/all/themes/taboola/images/favicon.png" />
+    <link rel="icon" type="image/png" href="//www.taboola.com/sites/all/themes/taboola/images/favicon.png" />
+    <style>
+        .cookie_msg {
+            display: none;
+            position: fixed;
+            bottom: 0px;
+            width: 100%;
+            background: #000;
+            color: #fff;
+            font-size: 12px;
+            padding: 5px 20px;
+            z-index: 999999999999;
+        }
+        .cookie_content {
+            float: left;
+            width: 90%;
+        }
+        .cookie_close {
+            float: right;
+            cursor: pointer;
+            color: #B8B8B8;
+            font-size: 24px;
+            font-weight: bold;
+        }
+    </style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script type="text/javascript">
+        var $ = jQuery.noConflict();
+    </script>
+</head>
+<body class="hidden-body main-body html front not-logged-in no-sidebars page-node page-node- page-node-5286 node-type-fullimagepage homepage2016 i18n-en footer-columns" >
+<div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+</div>
+<link type="text/css" rel="stylesheet" href="/sites/all/themes/taboola/css/first.css?v=1.4" media="all" />
+
+
+<!-- Top -->
+<!-- E Top -->
+
+<!-- Page -->
+<div class="top-menu-bar">
+  <div class="region region-top-menu-bar">
+    <div id="block-menu-menu-top-bar-menu" class="block block-menu top-menu-links">
+	<div class="block-inner">
+    
+  <div class="content">
+    <ul class="menu clearfix"><li class="first leaf"><a href="http://jobs.taboola.com/">Careers</a></li>
+<li class="last leaf"><a href="/support">Support</a></li>
+</ul>  </div>
+</div>
+
+</div><div id="block-menu-menu-login" class="block block-menu login-block">
+	<div class="block-inner">
+    
+  <div class="content">
+    <ul class="menu clearfix"><li class="first last leaf"><a href="https://backstage.taboola.com/backstage/login" class="login-link">Login</a></li>
+</ul>  </div>
+</div>
+
+</div><div id="block-taboola-customizations-taboola-languages-menu" class="block block-taboola-customizations lang-selection">
+	<div class="block-inner">
+    
+  <div class="content">
+    <ul class="language-switcher-locale-url hidden"><li class="en"><a href="https://www.taboola.com/" class="language-link active" xml:lang="en">English</a></li><li class="fr"><a href="https://www.taboola.com/fr" class="language-link " xml:lang="fr">Français</a></li><li class="ko"><a href="https://ko.taboola.com/" class="language-link " xml:lang="ko">한국어</a></li><li class="cn"><a href="https://cn.taboola.com/" class="language-link " xml:lang="cn">中文</a></li><li class="pt"><a href="https://www.taboola.com/pt" class="language-link " xml:lang="pt">Português</a></li><li class="es"><a href="https://www.taboola.com/es" class="language-link " xml:lang="es">Español</a></li><li class="de"><a href="https://www.taboola.com/de" class="language-link " xml:lang="de">Deutsch</a></li><li class="jp"><a href="https://japanese.taboola.com/" class="language-link " xml:lang="jp">日本語</a></li><li class="ru"><a href="https://www.taboola.com/ru" class="language-link " xml:lang="ru">русский</a></li></ul>  </div>
+</div>
+
+</div>  </div>
+</div>
+<div class="res-container">
+  
+  <div class="resp-menu-wrapper">
+    
+  </div>
+  <!-- /.resp-menu-wrapper -->
+  <div class="resp-page-wrapper">
+  <div class="top-menu-wrapper"><div class="inner"></div></div>
+     <header class="site-header">
+      <div class="inner">
+              <a href="/" title="Home" rel="home" id="logo">
+          <img src="https://www.taboola.com/sites/default/files/logo-blue.png" alt="Home" />
+        </a>
+      
+    
+        <div class="region region-header">
+    <div id="block-system-main-menu" class="block block-system block-menu">
+	<div class="block-inner">
+   <div class="block-title"> <h2 class="element-invisible"><span>Main menu</spn></h2></div>
+  
+  <div class="content">
+    <ul class="menu clearfix"><li class="first leaf"><a href="/drive-traffic-and-leads-content-discovery">Drive Traffic</a></li>
+<li class="leaf"><a href="/monetize-content">Monetize Content</a></li>
+<li class="expanded"><span class="nolink">Help Center</span><ul class="menu clearfix"><li class="first leaf"><a href="/advertiser-help-center">Advertiser</a></li>
+<li class="last leaf"><a href="/publisher-help-center">Publisher</a></li>
+</ul></li>
+<li class="leaf"><a href="/our-story">About</a></li>
+<li class="last expanded"><span class="more-link nolink">More</span><ul class="menu clearfix"><li class="first leaf"><a href="http://blog.taboola.com">Blog</a></li>
+<li class="leaf"><a href="/resources">Resources</a></li>
+<li class="leaf"><a href="https://www.taboola.com/press">Press</a></li>
+<li class="leaf"><a href="/events">Events</a></li>
+<li class="leaf"><a href="/events/webinars">Webinars</a></li>
+<li class="last leaf"><a href="/support">Support</a></li>
+</ul></li>
+</ul>  </div>
+</div>
+
+</div><div id="block-menu-menu-top-sub-links" class="block block-menu">
+	<div class="block-inner">
+   <div class="block-title"> <h2 class="element-invisible"><span>top sub links</spn></h2></div>
+  
+  <div class="content">
+    <ul class="menu clearfix"><li class="first last leaf"><a href="/contact" class="main-button">Contact</a></li>
+</ul>  </div>
+</div>
+
+</div><div id="block-menu-block-1" class="block block-menu-block">
+	<div class="block-inner">
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-menu-sitemap parent-mlid-0 menu-level-1">
+  <ul class="menu clearfix"><li class="first leaf active menu-mlid-509"><a href="/" target="_top" class="active">Home</a></li>
+<li class="leaf menu-mlid-8096"><a href="/drive-traffic-and-leads-content-discovery">Drive Traffic</a></li>
+<li class="leaf menu-mlid-10346"><a href="/monetize-content">Monetize Content</a></li>
+<li class="expanded menu-mlid-631"><a href="/our-story">About</a><ul class="menu clearfix"><li class="first leaf menu-mlid-8186"><a href="/our-story">Our Story</a></li>
+<li class="leaf menu-mlid-9331"><a href="/about/board">Board</a></li>
+<li class="leaf menu-mlid-9326"><a href="/about/management">Management</a></li>
+<li class="last leaf menu-mlid-1758"><a href="/taboola-choice">Taboola Choice</a></li>
+</ul></li>
+<li class="leaf menu-mlid-512"><a href="http://blog.taboola.com" target="_blank">Blog</a></li>
+<li class="leaf menu-mlid-1634"><a href="/resources" target="_top">Resources</a></li>
+<li class="leaf menu-mlid-8131"><a href="/contact">Contact Us</a></li>
+<li class="leaf menu-mlid-2019"><a href="http://jobs.taboola.com">Careers</a></li>
+<li class="leaf menu-mlid-8146"><a href="/support">Support</a></li>
+<li class="leaf menu-mlid-1947"><a href="https://www.taboola.com/advertiser-help-center/advertiser-content-guidelines">Content Guidelines</a></li>
+<li class="leaf menu-mlid-8576"><a href="/advertiser-help-center">Advertiser Help</a></li>
+<li class="last leaf menu-mlid-10671"><a href="/publisher-help-center">Publisher Help</a></li>
+</ul></div>
+  </div>
+</div>
+
+</div><div id="block-block-33" class="block block-block">
+	<div class="block-inner">
+    
+  <div class="content">
+    <a href="#" class="resp-menu-button"></a>  </div>
+</div>
+
+</div>  </div>
+      </div>
+    </header>
+  
+   
+
+    
+  
+
+   
+
+    <section id="main-content">
+     
+     
+     
+  
+        
+        
+      <section class="content-area column ">
+
+        
+        
+        
+                  <div class="tabs">
+                      </div>
+                                           <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+	<div class="block-inner">
+    
+  <div class="content">
+    <div id="node-5286" class="node node-fullimagepage  node-full clearfix" about="/taboola-grow-your-traffic-customer-base" typeof="sioc:Item foaf:Document">
+
+  
+
+  
+  <div class="content-node clearfix">
+   
+    <div class="field-collection-container clearfix">
+<div class="field field-name-field-page-sections field-type-field-collection field-label-hidden clearfix">
+    <div class="field-items">
+          <div class="field-item even"><div class="field-collection-view clearfix view-mode-full hero-banner"><div  about="/field-collection/field-page-sections/386" typeof="" class="ds-1col entity entity-field-collection-item field-collection-item-field-page-sections view-mode-full clearfix">
+
+  
+  
+<div class="field field-name-field-section-content field-type-text-long field-label-hidden clearfix">
+    <div class="field-items">
+          <div class="field-item even"><h1>Grow Your Traffic &amp; Customer Base</h1>
+<h2>Reach potential customers across the world’s most popular websites. <br>Engage target audiences naturally, while they’re reading interesting content.</h2>
+<div class="button-row "><span class="us-only-content"><a href="https://signup.taboola.com/join" class="cta-button">Start Campaign</a></span><a href="drive-traffic-and-leads-content-discovery-0" class="ghost-button">Learn More</a></div>
+<p><img src="/sites/default/files/hero-image-en_0.png" width="908" height="378" class="hero-banner-image"></p></div>
+      </div>
+</div>
+</div>
+
+</div></div>
+          <div class="field-item odd"><div class="field-collection-view clearfix view-mode-full top-publishers"><div  about="/field-collection/field-page-sections/391" typeof="" class="ds-1col entity entity-field-collection-item field-collection-item-field-page-sections view-mode-full clearfix">
+
+  
+  
+<div class="field field-name-field-section-content field-type-text-long field-label-hidden clearfix">
+    <div class="field-items">
+          <div class="field-item even"><h2 class="border section-title"><span>Exclusive Native Placements on Top Sites</span></h2>
+<p><img src="/sites/default/files/Taboola_Main_Desktop_PubLogos.jpg" width="1227" height="173" class="publisher-logos-1280"><img src="/sites/default/files/Taboola_Main_Tablet_PubLogos.jpg" width="839" height="229" class="publisher-logos-768"><img src="/sites/default/files/Taboola_Main_Mobile_PubLogos.jpg" width="492" height="375" class="publisher-logos-500"></p></div>
+      </div>
+</div>
+</div>
+
+</div></div>
+          <div class="field-item even"><div class="field-collection-view clearfix view-mode-full publishers-section"><div  about="/field-collection/field-page-sections/396" typeof="" class="ds-1col entity entity-field-collection-item field-collection-item-field-page-sections view-mode-full clearfix">
+
+  
+  
+<div class="field field-name-field-section-content field-type-text-long field-label-hidden clearfix">
+    <div class="field-items">
+          <div class="field-item even"><h2 class="section-title">Our Publishers GROW REVENUE, ENGAGEMENT &amp; AUDIENCE</h2>
+<h3>with the Leading Discovery Platform</h3>
+<ul class="publisher-features">
+<li>
+<h3>Drive Traffic</h3>
+<p>Acquire customers, increase awareness or build an audience through content</p>
+</li>
+<li>
+<h3>Monetize Content</h3>
+<p>Maximize revenue through third-party sponsored content</p>
+</li>
+<li>
+<h3>Increase Engagement</h3>
+<p>Optimize the value of your editorial and native content</p>
+</li>
+</ul>
+<p><a href="grow-revenue-engagement-audience" class="ghost-button">Learn More</a></p></div>
+      </div>
+</div>
+</div>
+
+</div></div>
+          <div class="field-item odd"><div class="field-collection-view clearfix view-mode-full field-collection-view-final blog-news"><div  about="/field-collection/field-page-sections/401" typeof="" class="ds-1col entity entity-field-collection-item field-collection-item-field-page-sections view-mode-full clearfix">
+
+  
+  
+<div class="field field-name-field-view field-type-viewfield field-label-hidden clearfix">
+    <div class="field-items">
+          <div class="field-item even"><div class="view view-blog view-id-blog view-display-id-block_1 the-buzz buzz-blog view-dom-id-2d12517f30b7690535f526373fabdeca">
+            <div class="view-header">
+      <h2 class="section-title">FROM OUR BLOG</h2>    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://blog.taboola.com/subscription-retailer-cornerstone-scales-memberships/">Subscription Retailer, Cornerstone, Scales Memberships 2,100%</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">Wednesday May 3rd by Megan Morreale</span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content">The subscription-based service Cornerstone is trying to make shaving less complicated—they bring high-quality shaving materials to the masses at a reasonable price, with ease. As the startup was...</div>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content more-link"><a href="http://blog.taboola.com/subscription-retailer-cornerstone-scales-memberships/">READ MORE</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://blog.taboola.com/blog-distribution-steps/">Promoting Your Blog: 7 Steps from Idea to Distribution</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">Monday May 1st by Megan Morreale</span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content">Blogging is a great tool for businesses to establish their authority and win over customers—but the process is much more complex than writing and posting. Much like the tree falling in the woods, no...</div>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content more-link"><a href="http://blog.taboola.com/blog-distribution-steps/">READ MORE</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://blog.taboola.com/using-taboola-campaign-data-optimize-kpis/">Using Your Taboola Campaign Data To Optimize for your KPIs</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">Thursday April 27th by Megan Morreale</span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content">Launching your first Taboola campaign is exciting—all at once, you gain the ability to access audiences on the open web and to target them by market, device, operating system, data segments and more...</div>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content more-link"><a href="http://blog.taboola.com/using-taboola-campaign-data-optimize-kpis/">READ MORE</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <a href="http://blog.taboola.com" target="_blank" class="more-link">MORE BLOG POSTS »</a>    </div>
+  
+  
+</div></div>
+          <div class="field-item odd"><div class="view view-blog view-id-blog view-display-id-block_2 the-buzz buzz-news view-dom-id-e1e2f5e6db231585780e9a59736bab6a">
+            <div class="view-header">
+      <h2 class="section-title">FROM THE PRESS</h2>    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="https://mumbrella.com.au/taboola-expands-asia-pacific-opens-sydney-office-435959?utm_source=dlvr.it&amp;utm_medium=twitter%20" target="_blank">Taboola signs deal with MediaWorks, opens Sydney office</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">Friday March 31st</span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p><span>Online platform Taboola has announced it will open a Sydney office and expand into the Asia Pacific market, following a strategic agreement with MediaWorks.</span></p></div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content read-more"><a href="/news/taboola-signs-deal-mediaworks-opens-sydney-office"><a href="https://mumbrella.com.au/taboola-expands-asia-pacific-opens-sydney-office-435959?utm_source=dlvr.it&utm_medium=twitter" target="_blank">Read More</a></a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://www.mediapost.com/publications/article/298242/liveintent-taboola-partner-for-personalized-email.html " target="_blank">LiveIntent, Taboola Partner For Personalized Email Content</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">Thursday March 30th</span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p><span>Content discovery platform Taboola on Thursday announced an alliance with LiveIntent that will bring tailored content recommendations to email newsletters.&nbsp;</span></p></div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content read-more"><a href="/news/liveintent-taboola-partner-personalized-email-content"><a href="http://www.mediapost.com/publications/article/298242/liveintent-taboola-partner-for-personalized-email.html" target="_blank">Read More</a></a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="http://marketingland.com/taboola-trade-desk-now-offer-single-interface-native-ads-video-ads-210086 " target="_blank">Taboola &amp; The Trade Desk now offer a single interface for native ads, video ads</a></span>  </div>  
+  <div class="views-field views-field-created">        <span class="field-content">Friday March 24th</span>  </div>  
+  <div class="views-field views-field-body">        <div class="field-content"><p><span>Content discovery service Taboola took another step this week toward making video ads a regular member of its family, </span><a href="http://www.businesswire.com/news/home/20170322005012/en/Taboola-Announces-Native-Video-Advertising-Integration-Trade">announcing</a><span> that it </span></p></div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content read-more"><a href="/news/taboola-trade-desk-now-offer-single-interface-native-ads-video-ads"><a href="http://marketingland.com/taboola-trade-desk-now-offer-single-interface-native-ads-video-ads-210086" target="_blank">Read More</a></a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <a href="/press" class="more-link">READ MORE »</a>    </div>
+  
+  
+</div></div>
+      </div>
+</div>
+</div>
+
+</div></div>
+      </div>
+</div>
+</div>  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+
+</div>  </div>
+        
+      </section> <!--content area-->
+
+      
+</section><!--main content-->
+
+<footer>
+  <div class="inner">
+
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-firstcolumn">
+    <div id="block-block-39" class="block block-block lets-talk-more">
+	<div class="block-inner">
+   <div class="block-title"> <h2><span>Drop us a note, let&#039;s talk.</spn></h2></div>
+  
+  <div class="content">
+    <form id="mktoForm_1006">&nbsp;</form>
+<script>
+jQuery(function() {
+MktoForms2.loadForm("//app-lon04.marketo.com", "989-GZB-065", 1006);
+MktoForms2.whenReady(function(form) {
+	//get country code
+	function isInArray(value, array) {
+	  return array.indexOf(value) > -1;
+	}
+	jQuery.getJSON("//freegeoip.net/json/", function (data) {
+		var country = data.country_name;
+		var ip = data.ip;
+		//console.log(country, 'country');
+		//console.log(ip, 'ip');
+		//console.log(isInArray(country, ["Germany","Canada","Australia", "Israel"]), 'in array');
+		if(isInArray(country, ["Germany","Canada","Australia"])) {
+			jQuery("#Newsletter_opt_In__c").attr('checked', false);
+
+		} 
+	});
+	
+	jQuery("#Lead_Goal__c").change(function() {
+	});
+	jQuery(".mktoFormRow").each(function() {
+	    var num = jQuery(".mktoFormCol", this).length;
+	    jQuery(this).addClass("col-" + num);
+	    if(jQuery(".mktoCheckboxList ", this).length > 0)
+	       jQuery(this).addClass("hasCheckbox");
+	  	});
+});
+ });
+</script>  </div>
+</div>
+
+</div>  </div>
+          <div class="region region-footer-secondcolumn">
+    <div id="block-block-8" class="block block-block about-taboola-footer">
+	<div class="block-inner">
+   <div class="block-title"> <h2><span>About Taboola</spn></h2></div>
+  
+  <div class="content">
+    <p>Taboola is the world's leading content discovery platform, serving 360B recommendations to over 1B unique visitors each month on the web's most innovative publisher sites, including NBC, USA Today, The Weather Channel, Tribune and Fox Sports.</p>  </div>
+</div>
+
+</div><div id="block-menu-menu-sitemap" class="block block-menu sitemap-footer">
+	<div class="block-inner">
+   <div class="block-title"> <h2><span>Sitemap</spn></h2></div>
+  
+  <div class="content">
+    <ul class="menu clearfix"><li class="first leaf"><a href="/" target="_top" class="active">Home</a></li>
+<li class="leaf"><a href="/drive-traffic-and-leads-content-discovery">Drive Traffic</a></li>
+<li class="leaf"><a href="/monetize-content">Monetize Content</a></li>
+<li class="expanded"><a href="/our-story">About</a><ul class="menu clearfix"><li class="first leaf"><a href="/our-story">Our Story</a></li>
+<li class="leaf"><a href="/about/board">Board</a></li>
+<li class="leaf"><a href="/about/management">Management</a></li>
+<li class="last leaf"><a href="/taboola-choice">Taboola Choice</a></li>
+</ul></li>
+<li class="leaf"><a href="http://blog.taboola.com" target="_blank">Blog</a></li>
+<li class="leaf"><a href="/resources" target="_top">Resources</a></li>
+<li class="leaf"><a href="/contact">Contact Us</a></li>
+<li class="leaf"><a href="http://jobs.taboola.com">Careers</a></li>
+<li class="leaf"><a href="/support">Support</a></li>
+<li class="leaf"><a href="https://www.taboola.com/advertiser-help-center/advertiser-content-guidelines">Content Guidelines</a></li>
+<li class="leaf"><a href="/advertiser-help-center">Advertiser Help</a></li>
+<li class="last leaf"><a href="/publisher-help-center">Publisher Help</a></li>
+</ul>  </div>
+</div>
+
+</div><div id="block-menu-block-4" class="block block-menu-block">
+	<div class="block-inner">
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-menu-social-links parent-mlid-0 menu-level-1">
+  <ul class="menu clearfix"><li class="first leaf menu-mlid-519"><a href="http://www.linkedin.com/company/taboola" class="linkedin-button">Follow us on Linkedin</a></li>
+<li class="leaf menu-mlid-517"><a href="http://www.twitter.com/taboola" class="twitter-button">Follow us on Twitter</a></li>
+<li class="leaf menu-mlid-6256"><a href="https://instagram.com/taboola/" class="instagram-button">Instagram</a></li>
+<li class="last leaf menu-mlid-518"><a href="http://www.facebook.com/pages/Taboola/283895801355" class="facebook-button">Like us on Facebook</a></li>
+</ul></div>
+  </div>
+</div>
+
+</div><div id="block-menu-menu-small-footer-links" class="block block-menu footer-links">
+	<div class="block-inner">
+    
+  <div class="content">
+    <ul class="menu clearfix"><li class="first leaf"><a href="http://www.taboola.com/privacy-policy">Privacy Policy</a></li>
+<li class="leaf"><a href="http://www.taboola.com/cookie-policy">Cookie Policy</a></li>
+<li class="leaf"><a href="/terms-of-use-11022016">Terms of Use</a></li>
+<li class="leaf"><a href="http://taboola.com/terms-of-use-04162015#DMCA">DMCA</a></li>
+<li class="last leaf"><a href="http://www.taboola.com/privacy-policy#third-party-ad">Third Party Online Advertising</a></li>
+</ul>  </div>
+</div>
+
+</div>  </div>
+      </div> <!-- /#footer-columns -->
+    
+    
+
+</div>
+</footer>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+</script>
+
+
+  </div>
+  <!-- /.resp-page-wrapper -->
+</div>
+<!-- /.res-container -->
+ 
+   <!-- E Page -->
+
+<!-- Page Bottom -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+      setTimeout(function(){var a=document.createElement("script");
+      var b=document.getElementsByTagName('script')[0];
+      a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0043/5324.js";
+      a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+      
+//--><!]]>
+</script>
+<!-- E Page Bottom -->
+
+<noscript><div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/996399592/?value=0&amp;guid=ON&amp;script=0"/></div></noscript>
+<script type="text/javascript" src="/sites/all/modules/flexslider/assets/js/flexslider.load.js"></script>
+<script type="text/javascript" src="/sites/all/libraries/flexslider/jquery.flexslider-min.js"></script>
+<link rel="stylesheet" href="/sites/all/libraries/flexslider/flexslider.css">
+<!-- SCRIPTS -->
+<script type="text/javascript" src="https://www.taboola.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://www.taboola.com/misc/drupal.js?opgu01"></script>
+<script type="text/javascript" src="https://www.taboola.com/sites/all/libraries/colorbox/jquery.colorbox-min.js?opgu01"></script>
+<script type="text/javascript" src="https://www.taboola.com/sites/all/modules/colorbox/js/colorbox.js?opgu01"></script>
+<script type="text/javascript" src="https://www.taboola.com/sites/all/modules/colorbox/styles/default/colorbox_style.js?opgu01"></script>
+<script type="text/javascript" src="https://www.taboola.com/sites/all/modules/colorbox/js/colorbox_load.js?opgu01"></script>
+<script type="text/javascript" src="https://www.taboola.com/sites/all/modules/colorbox/js/colorbox_inline.js?opgu01"></script>
+<script type="text/javascript" src="https://www.taboola.com/sites/all/modules/taboola_demo/assets/js/html2canvas.js?opgu01"></script>
+<script type="text/javascript" src="https://www.taboola.com/sites/all/modules/taboola_demo/assets/js/clipboard.min.js?opgu01"></script>
+<script type="text/javascript" src="https://www.taboola.com/sites/all/modules/taboola_demo/assets/js/taboola_demo.js?opgu01"></script>
+<script type="text/javascript" src="https://www.taboola.com/sites/all/modules/taboola_demo_internal/assets/js/html2canvas.js?opgu01"></script>
+<script type="text/javascript" src="https://www.taboola.com/sites/all/modules/taboola_demo_internal/assets/js/clipboard.min.js?opgu01"></script>
+<script type="text/javascript" src="https://www.taboola.com/sites/all/modules/taboola_demo_internal/assets/js/taboola_demo_internal.js?opgu01"></script>
+<script type="text/javascript" src="https://www.taboola.com/sites/all/modules/taboola_publisher_gallery/assets/js/jquery.mixitup.min.js?opgu01"></script>
+<script type="text/javascript" src="https://www.taboola.com/sites/all/modules/taboola_publisher_gallery/assets/js/taboola_publisher_gallery.js?opgu01"></script>
+<script type="text/javascript" src="https://www.taboola.com/sites/all/libraries/jquery.localScroll/jquery.localScroll.min.js?opgu01"></script>
+<script type="text/javascript" src="https://www.taboola.com/sites/all/libraries/jquery.scrollTo/jquery.scrollTo.min.js?opgu01"></script>
+<script type="text/javascript" src="https://www.taboola.com/sites/all/modules/google_analytics/googleanalytics.js?opgu01"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-10009552-1", {"cookieDomain":"auto"});ga("require", "displayfeatures");ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.taboola.com/sites/all/modules/jquery_localscroll/jquery_localscroll.js?opgu01"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"taboola","theme_token":"IDvw8DNY_dlRZqFb8BxV9gYEG8-x9N7BUPAeF-epr2E","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/menu_language_filter\/menu_language_filter.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/youtube\/css\/youtube.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/taboola_demo\/assets\/css\/taboola_demo.css":1,"sites\/all\/modules\/taboola_demo_internal\/assets\/css\/taboola_demo_internal.css":1,"sites\/all\/modules\/taboola_publisher_gallery\/assets\/css\/taboola_publisher_gallery.css":1,"sites\/all\/modules\/field_collection\/field_collection.theme.css":1,"sites\/all\/themes\/taboola\/css\/main.css":1,"sites\/all\/themes\/taboola\/css\/print.css":1,"sites\/all\/themes\/taboola\/css\/ie.css":1,"sites\/all\/themes\/taboola\/css\/ie6.css":1},"js":{"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_load.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox_inline.js":1,"sites\/all\/modules\/taboola_demo\/assets\/js\/html2canvas.js":1,"sites\/all\/modules\/taboola_demo\/assets\/js\/clipboard.min.js":1,"sites\/all\/modules\/taboola_demo\/assets\/js\/taboola_demo.js":1,"sites\/all\/modules\/taboola_demo_internal\/assets\/js\/html2canvas.js":1,"sites\/all\/modules\/taboola_demo_internal\/assets\/js\/clipboard.min.js":1,"sites\/all\/modules\/taboola_demo_internal\/assets\/js\/taboola_demo_internal.js":1,"sites\/all\/modules\/taboola_publisher_gallery\/assets\/js\/jquery.mixitup.min.js":1,"sites\/all\/modules\/taboola_publisher_gallery\/assets\/js\/taboola_publisher_gallery.js":1,"sites\/all\/libraries\/jquery.localScroll\/jquery.localScroll.min.js":1,"sites\/all\/libraries\/jquery.scrollTo\/jquery.scrollTo.min.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"sites\/all\/modules\/jquery_localscroll\/jquery_localscroll.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":false,"mobiledevicewidth":"480px"},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"taboola_demo":{"module_url":"https:\/\/www.taboola.com\/sponsored-content-demo","save_page_url":"https:\/\/www.taboola.com\/sponsored-content-demo\/save-page"},"taboola_demo_internal":{"module_url":"https:\/\/www.taboola.com\/content-recommendation-demo","save_page_url":"https:\/\/www.taboola.com\/content-recommendation-demo\/save-page"},"taboola_publisher_gallery":{"module_url":"https:\/\/www.taboola.com\/TABOOLA_PUBLISHER_GALLERY_BASE_URL_ALIAS"},"better_exposed_filters":{"views":{"page_banner_title":{"displays":{"block_1":{"filters":[]}}},"blog":{"displays":{"block_2":{"filters":[]},"block_1":{"filters":[]}}}}},"jquery_localscroll":{"global":0,"ids":{".alphabet-links":".alphabet-links"},"hash":0,"duration":"500","offset":"-50"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1}});
+//--><!]]>
+</script>
+<!-- E SCRIPTS -->
+
+<!-- CSS -->
+<style type="text/css" media="all">
+@import url("https://www.taboola.com/modules/system/system.base.css?opgu01");
+@import url("https://www.taboola.com/modules/system/system.menus.css?opgu01");
+@import url("https://www.taboola.com/modules/system/system.messages.css?opgu01");
+@import url("https://www.taboola.com/modules/system/system.theme.css?opgu01");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.taboola.com/modules/comment/comment.css?opgu01");
+@import url("https://www.taboola.com/sites/all/modules/date/date_api/date.css?opgu01");
+@import url("https://www.taboola.com/sites/all/modules/date/date_popup/themes/datepicker.1.7.css?opgu01");
+@import url("https://www.taboola.com/modules/field/theme/field.css?opgu01");
+@import url("https://www.taboola.com/sites/all/modules/menu_language_filter/menu_language_filter.css?opgu01");
+@import url("https://www.taboola.com/modules/node/node.css?opgu01");
+@import url("https://www.taboola.com/modules/search/search.css?opgu01");
+@import url("https://www.taboola.com/modules/user/user.css?opgu01");
+@import url("https://www.taboola.com/sites/all/modules/youtube/css/youtube.css?opgu01");
+@import url("https://www.taboola.com/sites/all/modules/views/css/views.css?opgu01");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.taboola.com/sites/all/modules/colorbox/styles/default/colorbox_style.css?opgu01");
+@import url("https://www.taboola.com/sites/all/modules/ctools/css/ctools.css?opgu01");
+@import url("https://www.taboola.com/sites/all/modules/taboola_demo/assets/css/taboola_demo.css?opgu01");
+@import url("https://www.taboola.com/sites/all/modules/taboola_demo_internal/assets/css/taboola_demo_internal.css?opgu01");
+@import url("https://www.taboola.com/sites/all/modules/taboola_publisher_gallery/assets/css/taboola_publisher_gallery.css?opgu01");
+@import url("https://www.taboola.com/sites/all/modules/field_collection/field_collection.theme.css?opgu01");
+</style>
+<style type="text/css" media="all">
+@import url("https://www.taboola.com/sites/all/themes/taboola/css/main.css?opgu01");
+</style>
+<style type="text/css" media="print">
+@import url("https://www.taboola.com/sites/all/themes/taboola/css/print.css?opgu01");
+</style>
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="https://www.taboola.com/sites/all/themes/taboola/css/ie.css?opgu01" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="https://www.taboola.com/sites/all/themes/taboola/css/ie6.css?opgu01" media="all" />
+<![endif]-->
+<!-- E CSS -->
+
+<!-- Google Code for Remarketing Tag -->
+<!-- ------------------------------------------------Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup------------------------------------------------- -->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 996399592;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<!-- Google Tag Manager -->
+<noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-PC4JX7" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PC4JX7');
+</script>
+<!-- End Google Tag Manager -->
+<script async src="/sites/all/themes/taboola/js/html5.js"></script>
+<script src="//app-lon04.marketo.com/js/forms2/js/forms2.min.js"></script>
+<script src="/sites/all/themes/taboola/js/cloud-carousel.min.js"></script>
+<script src="/sites/all/themes/taboola/js/jquery.mousewheel.min.js"></script>
+<script src="/sites/all/themes/taboola/js/TweenMax.min.js"></script>
+<script src="/sites/all/themes/taboola/js/ScrollMagic.min.js"></script>
+<script src="/sites/all/themes/taboola/js/animation.gsap.min.js"></script>
+<script src="/sites/all/themes/taboola/js/jquery.easing.min.js"></script>
+<script src="/sites/all/themes/taboola/js/owl.carousel.min.js"></script>
+<script src="/sites/all/themes/taboola/js/publishers-anim.js"></script>
+<script src="/sites/all/themes/taboola/js/advertiser-page.js"></script>
+<script src="/sites/all/themes/taboola/js/jquery.cookie.min.js"></script>
+<script src="/sites/all/themes/taboola/js/myscript.js"></script>
+<script src="/sites/all/themes/taboola/js/optout.js"></script>
+<script src="/sites/all/themes/taboola/js/opt-in-out.js"></script>
+<script src="/sites/all/themes/taboola/js/lte-ie7.js"></script>
+<script src="/sites/all/themes/taboola/js/notify.js"></script>
+<!-- <script src="/sites/all/themes/taboola/js/swipeable/js/framework7.js"></script>
+<link rel="stylesheet" href="/sites/all/themes/taboola/js/swipeable/css/framework7.material.css"> -->
+<link rel="stylesheet" href="/sites/all/themes/taboola/js/assets/owl.carousel.css">
+<script src="//cdn.optimizely.com/js/6047800495.js"></script>
+<script src="//app-lon04.marketo.com/js/forms2/js/forms2.min.js"></script>
+
+<!-- cookie -->
+<div class="cookie_msg">
+    <div class="cookie_content">Taboola uses cookies to improve your browsing experience. Taboola may also use third party cookies, which collect information about our visitors' online activities, in order to deliver interest-based advertisements. By continuing to use our website, you understand and agree to our Cookie Policy and use of such cookies.</div>
+    <div class="cookie_close">&#9447;</div>
+</div><!-- cookie -->
+</body>
+</html>

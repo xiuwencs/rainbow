@@ -1,0 +1,1986 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="shortcut icon" href="//www.mama.cn/favicon.ico" />
+<meta charset="UTF-8"/>
+<!--[if lt IE 9]>
+<script src="//static.mama.cn/std/js/html5.js"></script>
+<![endif]-->
+<!--[if IE 6]>
+	<script type="text/javascript" src="//static.mama.cn/std/js/DD_belatedPNG.js" ></script>
+	<script type="text/javascript">
+		DD_belatedPNG.fix('.fixpng');
+	</script>
+<![endif]-->
+
+<title>妈妈网_官方网站_怀孕、育儿等知识交流平台_中国妈妈第一门户网站</title>
+<meta name="keywords" content="妈妈网,妈妈,亲子网,怀孕,育儿,早教,亲子,育儿网,母婴网,孕妈妈网,中国妈妈网,怀孕网" />
+<meta name="description" content="妈妈网是中国妈妈第一门户官网,包含完善的怀孕育儿知识,超高人气圈子和问答平台.旗下有广州妈妈网,北京妈妈网,天津妈妈网,西安妈妈网等32城论坛,腾讯投资的唯一亲子网站." />
+<meta name="mobile-agent" content="format=html5;url=http://m.mama.cn/">
+<meta name="baidu_union_verify" content="5d4c79cdaf5781cb49867f742382095e">
+<link href="//static.mama.cn/std/css/global.css?v=20170401" rel="stylesheet"/>
+	    <link href="//static.mama.cn/std/css/indexV2.css?v=20161114" rel="stylesheet"/>
+	    <link href="//static.mama.cn/std/css/datepicker.css" rel="stylesheet"/>
+	    <script src="//static.mama.cn/std/js/jquery.min.js"></script>
+	    <script src="//static.mama.cn/std/js/base.js?v=20140710"></script>
+	    <script src="//static.mama.cn/std/js/index.js?v=201503"></script>
+	    <script src="//static.mama.cn/std/js/datepicker.js"></script>
+	    <script src="//static.mama.cn/std/js/jcarousellite.js"></script></head>
+
+<body>
+<script>if($.client.os=='Mac'){$('body').addClass('mac');}</script>
+
+<!--mama adv-->
+<div id="bigxl" ></div>
+
+<!--mama adv-->
+		
+
+<!-- global header -->
+<header>
+	<div id="header">
+		<div class="l"><a href="//www.mama.cn/" class="logo fixpng">妈妈网</a><a href="//app.mama.cn/" class="app fixpng" target="_blank">手机APP下载</a></div>
+		<p style="float:left;margin-top:10px;"  >
+		</p>
+		<div class="searchWrap r cl">
+			<div class="search">
+				<form method="get" autocomplete="off" id="searchform" name="searchform" target="_blank" action="//so.mama.cn/search">
+				<input type="hidden" name="csite" value="all" />
+			    <select name="source" class="regularSelect">
+                    <option value="all" selected="selected">全部</option>
+			        <option value="articles">资讯</option>
+					<option value="ask" >问答</option>
+			        <option value="mamaquan">帖子</option>
+			        <option value="baike">百科</option>
+			        <option value="city">同城</option>
+			        <option value="subject">专题</option>
+			    </select>
+			    <input class="key"  name="q"  type="text" onblur="if (this.value == '') {this.value = '请输入你想找的内容...';}" onfocus="if (this.value == '请输入你想找的内容...') {this.value = '';}" value="请输入你想找的内容..." x-webkit-speech="x-webkit-speech" x-webkit-grammar="builtin:translate" class="searchText">
+			    <input class="okBtn" type="image" src="//static.mama.cn/std/images/search.png">
+			    <a style="display: none;" href="//www.mama.cn/ask/?g=Question&a=Index&d=add" class="askQ r">提问</a>
+			    </form>
+			</div>
+			<p class="timeLine">
+			<a class="no1" target="_blank" href="http://www.mama.cn/baby/">亲子</a><a target="_blank" href="http://www.mama.cn/baby/beiyun/">备孕</a><a target="_blank" href="http://www.mama.cn/baby/huaiyun/">怀孕</a><a target="_blank" href="http://www.mama.cn/baby/xinshenger/">新生儿</a><a target="_blank" href="http://www.mama.cn/baby/yinger/">0-1岁</a><a target="_blank" href="http://www.mama.cn/baby/youer/">1-3岁</a><a target="_blank" href="http://www.mama.cn/baby/xueqian/">3-6岁</a>			</p>
+		</div>
+		<script type="text/javascript">
+			$(function(){
+				$('select.regularSelect').tzSelect();
+			});
+		</script>
+	</div>
+</header>
+
+
+<script type="text/javascript">
+	var cms_page_type = 'mamacn_index';
+	$(function(){
+		var orderdate = myGetCookie('orderdate');
+		if(orderdate !=''){
+			$("#datepicker").val(orderdate);
+		}
+	});
+</script>
+
+<link rel="stylesheet" type="text/css" href="//static.mama.cn/mama/css/special_login.css?v=1.8">
+<div class="navWrap">
+    <nav id="allNav" class="fixpng">
+        <div id="nav" class="cl">
+            <ul class="menu">
+                <li class="noDot" id="backHome"><a href="//www.mama.cn/">妈网首页</a></li>
+                <li class="home fixpng" id="backHomeFix"><a href="//www.mama.cn/">妈网首页</a></li>
+                <li id="nav_lib_li"><a target="_blank" href="http://v.qq.com/vchannel/mamawang">视 频</a></li>
+                <li class="drop">
+                    <span class="noLink">知识</span><i class="arrow"></i>
+                    <div class="subNav">
+                        <a target="_blank" href="//www.mama.cn/attitude/mom/" >妈妈态度</a>
+                        <a target="_blank" href="//www.mama.cn/baby/zt/list_1.html">妈网大课堂</a>
+                        <a target="_blank" href="//www.mama.cn/attitude/survey/">妈网研究院</a>
+                        <a target="_blank" href="//www.mama.cn/baby/zhoukan/index.php?mod=home">怀孕周刊</a>
+                        <a target="_blank" href="//www.mama.cn/baby/zhoukan/index.php?mod=home#yuer" class="bottom">育儿周刊</a>
+                    </div>
+                </li>
+                <li id="nav_ask_li"><a target="_blank" href="//www.mama.cn/ask/">问 答</a></li>
+                <li id="nav_z_li"><a target="_blank" href="//www.mama.cn/z/">百 科</a></li>
+                <li class="drop">
+                    <span class="noLink">社区</span><i class="arrow"></i>
+                    <div class="subNav">
+                        <a target="_blank" href="//q.mama.cn/">圈子</a>
+                        <a target="_blank" href="//www.mama.cn/q/tlq/">同龄圈</a>
+                        <a target="_blank" href="//q.mama.cn/city/" >同城圈</a>
+                        <a target="_blank" href="//91baby.mama.cn/" class="bottom">91baby</a>
+                    </div>
+                </li>
+                <li class="drop">
+                    <a  target="_blank" href="//hd.mama.cn/">活动</a><i class="arrow"></i>
+                    <div class="subNav">
+                        <a target="_blank" href="//www.mama.cn/news/focuse/">妈网热点</a>
+                        <a target="_blank" href="//hd.mama.cn/">同城活动</a>
+                        <a target="_blank" href="//li.mama.cn/">天使盒子</a>
+                        <a target="_blank" href="//try.mama.cn/index.php" class="bottom">试用中心</a>
+                    </div>
+                </li>
+                <li id="shop_woniutrip">
+                    <a target="_blank" href="https://ly.mama.cn/?fm=3">亲子游</a>
+                </li>
+                <li id="shop_xiaoshuxiong">
+                    <a target="_blank" href="//www.xiaoshuxiong.com/?fm=6">小树熊商城</a>
+                </li>
+            </ul>
+            <ul style="display: block;" id='special_Login' class="cl r">
+                <li class="sLog">
+                    <a id="passport-login" class="mainA" href="//passport.mama.cn/?key=tianjing&service=http%3A%2F%2Fwww.mama.cn%2F&t=1480682669&sign=346d14a0239b3685339900b79fc15227">登录</a>
+                    <dl>
+                        <dd class="topIcon"></dd>
+                        <dd class="slog1"><a id="passport-login" href="//passport.mama.cn/?key=tianjing&service=http%3A%2F%2Fwww.mama.cn%2F&t=1480682669&sign=346d14a0239b3685339900b79fc15227">妈妈网登录</a></dd>
+                        <dd class="slog2"><a href="//passport.mama.cn/qqlogin/">QQ登录</a></dd>
+                        <dd class="slog3"><a href="//passport.mama.cn/weibologin/">微博登录</a></dd>
+                        <dd class="slog4"><a href="//passport.mama.cn/weixin/">微信登录</a></dd>
+                    </dl>
+                </li>
+                <li class="sReg">
+                    <a href="//passport.mama.cn/index/register/?key=tianjing&service=http%3A%2F%2Fwww.mama.cn%2F&t=1480682669&sign=346d14a0239b3685339900b79fc15227">注册</a>
+                </li>
+            </ul>
+
+            <div style="display: none;" id="special_user_info" class="cl r">
+                <a class="j-head-a" href="javascript:;" target="_blank"><img class="uh1 j-head_image" src="//static.mama.cn/mama/images/default_small.jpg"></a>
+                <div class="uin">
+                    <span class="mainSpan"><a target="_blank" href="javascript:;" class='j-username'></a><i></i></span>
+                    <div id="sui_drop">
+                        <span class="topIcon"></span>
+                        <div class="topBox cl">
+                            <a class="j-head-a" href="javascript:;" target="_blank"><img class="j-head_image" src="//static.mama.cn/mama/images/default_small.jpg"></a>
+                            <h3><a target="_blank" href="javascript:;" class='j-username'></a></h3>
+                            <p><a id="mamaLogout" href="javascript:;">[退出]</a></p>
+                        </div>
+                        <ul class="cl">
+                            <li><a id="u_profile" href="//www.mama.cn/ask/" target="_blank">我的资料</a></li>
+                            <li><a id="messag" href="javascript:;" target="_blank">我的消息</a><i style="display:none;" class="msgCount2 j-pms"></i></li>
+                            <li><a id="u_ask" href="javascript:;" target="_blank">我的问答</a></li>
+                            <li><a id="quan_group" href="javascript:;" target="_blank">我的圈子</a></li>
+                            <li><a id="u_tlq" href="//www.mama.cn/q/tlq/" target="_blank">我的同龄圈</a></li>
+                            <li><a id="u_brand" href="//brandbase.mama.cn" target="_blank">我的品牌根据地</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <i style="display:none;" class="msgCount j-pms"></i>
+            </div>
+        </div>
+    </nav>
+</div>
+<div class="ny-fixl" id="J_nyFixl"></div>
+<script type="text/javascript" src="//static.mama.cn/std/js/ask/personality_header.js?v=1.8"></script>
+
+	<script type="text/javascript">
+
+		var jump_links = {"qrqm":{"name":"私人定制","link":"//www.mama.cn/index.php?g=Home&a=Qrqm&d=skip"},
+						  "beiyun":{"name":"备孕频道","link":"//www.mama.cn/baby/beiyun/"},
+				  		  "youer":{"name":"1-3岁频道","link":"//www.mama.cn/baby/youer/"},
+				  		  "xueqian":{"name":"3-6岁频道","link":"//www.mama.cn/baby/xueqian/"},
+				  		  "qrqm_jump":{"name":"","link":"//www.mama.cn/jump.html"}
+				 };
+
+
+	function myGetCookie(a) {
+		if (document.cookie.length > 0) {
+			c_start = document.cookie.indexOf(a + "=");
+			if (c_start != -1) {
+				c_start = c_start + a.length + 1;
+				c_end = document.cookie.indexOf(";", c_start);
+				if (c_end == -1) {
+					c_end = document.cookie.length
+				}
+				return unescape(document.cookie.substring(c_start, c_end))
+			}
+		}
+		return "";
+	}
+	
+	function SetCookie(name, value, domain,days) { //两个参数，一个是cookie的名子，一个是值  
+		var exp = new Date(); //new Date("December 31, 9998");  
+		if(typeof(days) == 'undefined'){
+			days = 1;
+		}
+		exp.setTime(exp.getTime() + days * 24 * 60 * 60 * 1000);
+		document.cookie = name + "=" + escape(value) + ";expires=" + exp.toGMTString();
+	}
+	
+	function DateDiff1(d1, d2) {
+		var day = 24 * 60 * 60 * 1000;
+		try {
+			var dateArr = d1.split("-");
+			var checkDate = new Date();
+			checkDate.setFullYear(dateArr[0], dateArr[1] - 1, dateArr[2]);
+			var checkTime = checkDate.getTime();
+
+			var dateArr2 = d2.split("-");
+			var checkDate2 = new Date();
+			checkDate2.setFullYear(dateArr2[0], dateArr2[1] - 1, dateArr2[2]);
+			var checkTime2 = checkDate2.getTime();
+
+			var cha = (checkTime - checkTime2) / day;
+			return parseInt(cha);
+		} catch (e) {
+			return false;
+		}
+	}
+
+
+	// qrqm (私人定制)
+	function right_qrqm_block(data,now_date){ // bb_type: 1准备怀孕  2怀孕中  3有宝宝  4其他
+		
+		if(data['uid']){
+			
+			qrqm_date = data['bb_message'];
+			$('#qrqm_box').show();
+			$('#qrqm_datepicker').hide();
+			
+			
+			if($.trim(data.avatar) == "0"  || $.trim(data.avatar) == "" ){
+				data.avatar = '//avatar.mama.cn/021/20/24/75_avatar_middle.jpg';
+			}
+			
+			$('#qrqm_user_avatar').attr("src", data.avatar);
+			$('#qrqm_user_link').attr('href','http://www.mama.cn/u/'+data['uid']+'/'); //个人中心
+			$('#qrqm_user').text(data['username']);
+	    	$('#qrqm_user').attr('href','http://www.mama.cn/u/'+data['uid']+'/'); //个人中心
+			
+			if (data['bb_type'] == 3 || (data['bb_type'] == 2 && now_date > data['bb_message'])  ) {
+				$('#bb_type').text('有宝宝');
+				$('#bb_message').html('宝宝生日为：<strong>' + data['bb_message'] + '</strong>');
+				var day_diff = DateDiff1(now_date, data['bb_message']);
+				if (day_diff <= 365) {
+					$('#qrqm_change_link').attr('href', jump_links.qrqm.link);	
+				}
+				if (day_diff > 365 && day_diff <= 1095) {//1-3
+					$('#qrqm_change_link').attr('href', jump_links.qrqm.link);
+					$('#qrqm_change_link').html("进入"+jump_links.qrqm.name);
+				}
+				if (day_diff > 1095) { //3-6
+					$('#qrqm_change_link').attr('href', jump_links.qrqm.link);
+					$('#qrqm_change_link').html("进入"+jump_links.qrqm.name);
+				}
+			} else if (data['bb_type'] == 2 && data['bb_message'] > now_date) {
+				$('#bb_type').text('怀孕中');
+				var day_diff = DateDiff1(data['bb_message'], now_date);
+				$('#bb_message').html('距离预产期：<strong>' + day_diff + '</strong>天');
+				//$('#cid1').val(2);
+				$('#qrqm_change_link').attr('href',jump_links.qrqm.link);
+				
+			} else if (data['bb_type'] == 1) {
+				$('#bb_type').text('备孕');
+				$('#bb_message').text('备孕中');
+				//$('#cid1').val(81);
+				$('#qrqm_change_link').attr('href', jump_links.beiyun.link);
+				$('#qrqm_change_link').html("进入"+jump_links.beiyun.name);
+			} else {
+				$('#bb_type').text('其它');
+				//$('#order').attr('href', 'http://www.mama.cn/jump.html'); //修改资料
+				$('#bb_message').text('');
+				$('#qrqm_change_link').attr('href', 'http://www.mama.cn/u/'+data['uid']+'/profile/');
+				$('#qrqm_user').text('修改宝宝日期');
+			}
+			
+		}else{  // not_login
+			
+			var orderdate = $.trim(myGetCookie('orderdate')); 
+			
+			$('#qrqm_box').hide();
+			$('#qrqm_datepicker').show();	
+			if (orderdate != '') {
+				day_diff = DateDiff1(now_date,orderdate);
+				if( day_diff < -279 || day_diff > 364 ){
+					SetCookie('orderdate','','mama.cn',0);  // 超过时间范围, cookie 设置失效
+				}else{
+					
+					$("#datepicker").val(orderdate);
+					qrqm_date = orderdate;
+				}
+			}
+		}
+	}
+	
+	
+	// 右侧推荐数据块处理  /cms_shtml/php/qrqm.php?action=right_block&type=ajax&mydebug=4&qrqm_date=2014-10-25  
+	function right_qrqm_ajax(qrqm_date){ 
+	 	$.getJSON('/cms_shtml/php/qrqm.php?action=right_block&type=ajax&qrqm_date='+qrqm_date+'&i='+Math.floor(Math.random()*100024),function(data){ 
+			if(data.today_read.length > 0){
+				//alert(qrqm_date+'   '+data.qrqm_age);
+				$('#qrqm_todyread_title').show();
+				$('#qrqm_todyread_con').show();
+				$("#qrqm_todyread_con").empty();
+				$.each(data.today_read, function(i,data_item){
+					//alert(data_item.title);
+					$("#qrqm_todyread_con").append('<li><div class="loginRec cl"><p class="l"><a target="_blank" href="'+data_item.url+'"><img width="110" height="80" src="'+data_item.thumb_pic+'"></a></p><dl class="r"><dt><a target="_blank" href="'+data_item.url+'">'+data_item.title+'</a></dt><dd><a href="'+data_item.url+'">'+data_item.desc+'</a></dd></dl></div><p class="relate"><a href="'+data_item.suburl+'">相关阅读:'+data_item.subtitle+'</a></p></li>');
+				});
+			}
+			if(data.tlq.length > 0){
+				$('#qrqm_tlq_title').html("<span>"+data.qrqm_age_des+"妈妈关注话题</span>");
+				$('#qrqm_tlq_title').show();
+				$('#qrqm_tlq_con').show();
+				$("#qrqm_tlq_con").empty();
+				$.each(data.tlq, function(i,data_item){
+					classAdd = '';
+					if(i <= 1)	classAdd = "class=\"sep\"";
+					$("#qrqm_tlq_con").append("<li><a  "+classAdd+" href='"+data_item.url+"' target='_blank'>"+data_item.subject+"</a></li>");
+				});
+			}
+		});
+	}
+	
+	function mamacn_index(data){
+		$("#backHome a").addClass("now");		
+		if(data['uid']){
+			$('#date').hide();
+			$('#login').show();
+			
+			
+			$('#m_profile').attr('href','http://www.mama.cn/u/'+data['uid']+'/profile/'); //修改宝宝日期
+			$('#s_profile').attr('href','http://www.mama.cn/u/'+data['uid']+'/profile/'); //个人资料
+			
+			$('#main_username').attr('href','http://www.mama.cn/u/'+data['uid']+'/'); //个人中心
+			$('#main_username').text(data['username']);
+			$('#main_img').attr('href','http://www.mama.cn/u/'+data['uid']+'/'); //个人中心
+			
+			if($.trim(data.avatar) == "0"  || $.trim(data.avatar) == "" ){
+				data.avatar = '//avatar.mama.cn/021/20/24/75_avatar_middle.jpg';
+			}
+			
+			$('#picture').attr("src", data.avatar);
+			
+		
+			if(data['bb_type']== 3 || data['bb_type']==2 && now_date > data['bb_message'] ){
+				
+				$('#bb_type').text('有宝宝');
+				$('#bb_message').html('宝宝生日为：<strong>'+data['bb_message']+'</strong>');
+				$('#cid1').val(1);
+				$(".brief").removeClass().addClass("babyBrief");
+				//$(".brief").css("background","url(http://static.mama.cn/std/images/date_picker.png)");
+				var dayb = DateDiff1(now_date,data['bb_message']);
+				if(dayb <= 365){
+					$('#inmyorder').attr('href',jump_links.qrqm.link); 
+					$('#qrqm_order').attr('href',jump_links.qrqm.link); 
+				}
+				if( dayb > 365 && dayb <= 1095){//1-3岁
+					$('#inmyorder').attr('href',jump_links.qrqm.link); 
+					$('#qrqm_order').attr('href',jump_links.qrqm.link); 
+				}
+				if( dayb > 1095 ){ //3-6岁
+					$('#inmyorder').attr('href',jump_links.qrqm.link); 
+					$('#qrqm_order').attr('href',jump_links.qrqm.link); 
+				}
+				
+			}else if(data['bb_type']==2  &&  data['bb_message'] > now_date ){
+				
+				$('#bb_type').text('怀孕中');
+				//alert(data['bb_message']+now_date);
+				var dayu = DateDiff1(data['bb_message'],now_date);
+				$('#bb_message').html('距离预产期：<strong>'+dayu+'</strong>天');
+				$('#cid1').val(2);
+				$('#inmyorder').attr('href',jump_links.qrqm.link); 
+				$('#qrqm_order').attr('href',jump_links.qrqm.link); 
+				
+			}else if(data['bb_type']==1){
+				
+				$('#bb_type').text('备孕');
+				$('#bb_message').text('备孕中');
+				$('#cid1').val(81);
+				$('#inmyorder').attr('href',jump_links.beiyun.link); 
+				
+			}else{
+			
+				$('#bb_type').text('其它');
+				//$('#qrqm_order').attr('href','http://www.mama.cn/u/'+data['uid']+'/profile/'); //修改资料   
+				$('#qrqm_order').attr('href','//www.mama.cn/jump.html'); //修改资料
+				$('#bb_message').text('');
+				$('#myorder').hide();
+				$('#setbaby').show();
+				
+			}
+			getJingxuan(data['bb_message'],data['uid']);	
+		}else{
+			
+			var orderdate = myGetCookie('orderdate');
+			if(orderdate ==''){
+				$('#qrqm_order').attr('href',jump_links.qrqm_jump.link);
+			}else{
+				$('#qrqm_order').attr('href',jump_links.qrqm.link); 
+			}
+			
+			$('#date').show();
+			$('#login').hide();
+		}
+	}
+	
+	function getJingxuan(bb_message,uid){
+		if( bb_message!=''){
+			$.getJSON('//www.mama.cn/ask/?g=Api&a=Question&d=getJingxuan&bday='+bb_message+'&rnd='+Math.random(),function(ret){
+				var str = '';
+			    var advstr = $('#baby_wl').html();    
+				$.each(ret.data,function(i,rs){
+					if(i==1 && advstr !=''){
+						str += '<li>'+advstr+'</li>';
+					}else{
+						str += get_app_div(rs.link, rs.name);
+					}
+				});
+				if(ret.status==0){
+					$('.askList').html(str);
+				}
+			});
+
+			$('#ask_profile').attr('href','http://www.mama.cn/u/'+uid+'/profile/'); //修改资料
+			$('#askEp').show();
+		}
+	}
+	
+	function  get_app_div(link,name){
+		var str = '';
+		str += '<li><a target="_blank" href="'+ link +'">'+ name +'</a></li>';
+		return str;
+	}
+	
+</script>
+    <div class="wrap-big">
+    	<div class="wrap-big-bd">
+<div id="slideBar">
+<div class="backTop" id="returnTop">
+		<p class="title">官方微信</p>
+		<div class="scan"><a href="javascript:void(0);" id="scan">扫一扫</a>
+		        <p class="scanCode"><img src="//static.mama.cn/std/images/app_scan_mamacn.png" /></p>
+                </div>
+		<p class="backTopBtn"><a title="返回到顶部" id="backTopBtn" href="javascript:void(0);">返回到顶部</a></p>
+		<div class="ny-fixr"></div>
+</div></div>
+
+
+<script>
+    var system ={
+        win : false,
+        mac : false,
+        xll : false
+    };
+
+    var mobileScan = parseInt(myGetCookie('mobile_scan'),10);
+	if( !(mobileScan > 0)  ){
+		//检测平台
+	    var p = navigator.platform;
+	    system.win = p.indexOf("Win") == 0;
+	    system.mac = p.indexOf("Mac") == 0;
+	    //system.x11 = (p == "X11") || (p.indexOf("Linux") == 0);
+
+	    var isPad = isPad();
+	    //跳转语句
+	    //if( isPad ||  !(system.win||system.mac||system.x11)){
+	    if(!(system.win||system.mac) ){
+			var tmpWapUrl = "http://m.mama.cn/";
+			var tmpProtocol = window.location.protocol;
+			if(tmpWapUrl.indexOf("http") >= 0 && tmpProtocol == 'https:'){
+				tmpWapUrl = tmpWapUrl.replace('http', 'https')
+			}
+			window.location.href=tmpWapUrl;
+	    }
+	}
+
+    function isPad(){
+    	equipmentInfo = navigator.userAgent;
+		equipmentInfo = equipmentInfo.substring(0,40);
+		equipmentInfo = equipmentInfo.toLowerCase();
+
+		if(equipmentInfo.indexOf("pad") > 0){
+			return true;
+		}else{
+			return false;
+		}
+    }
+</script>
+<!--mama adv-->
+<div class="bannerWrap" id="topcolumn"  ><img src="//api-luke.mama.cn/v?luke_t=29f3089c66729088&luke_p=452380_1" style="display: none;width: 0;height: 0;"><a href="//api-luke.mama.cn/click?luke_t=29f3089c66729088&luke_p=452380_1&luke_dest=https://v.qq.com/x/page/c0399mykhxn.html" target="_blank" ><img  width="1000" height="80"  border="0"   src="//qimg.mama.cn/luke/2017/05/04/39c01f5933b848ec8f5ece6a5b40ae47.jpg"/></a></div>
+<section id="guide" class="cl">
+	<div class="banner">
+	  <div id="scrollPic2" class="bannerScroll">
+
+	    	  				<ul>
+				<li><span id="headcolumn"><img src="//api-luke.mama.cn/v?luke_t=e9498b0b9f6c5306&luke_p=478554_8" style="display: none;width: 0;height: 0;"><a href="//api-luke.mama.cn/click?luke_t=e9498b0b9f6c5306&luke_p=478554_8&luke_dest=http://www.xiaoshuxiong.com/mobile/special_goods.php?act_id=18543&outsidesource=37" target="_blank" ><img  width="660" height="230"  border="0"   src="//qimg.mama.cn/luke/2017/05/08/b98638a167944976a2da513f198578b3.jpg"/></a></span></li><li><span id="headcolumn_1"><img src="//api-luke.mama.cn/v?luke_t=8d6afd2e5310fd6e&luke_p=471946_9" style="display: none;width: 0;height: 0;"><a href="//api-luke.mama.cn/click?luke_t=8d6afd2e5310fd6e&luke_p=471946_9&luke_dest=http://www.mama.cn/ask/user/72927115.html" target="_blank" ><img  width="660" height="230"  border="0"   src="//qimg.mama.cn/luke/2017/05/06/8ce8b86c868349638b863e10497ef921.jpg"/></a></span></li>	         </ul>
+			<div class="switch"></div>
+			<!--  <a href="#" class="next"></a>-->
+		</div>
+
+	  </div>
+	<div class="regGuide">
+		<div class="login" style="display: none" id='login'>
+			<p class="icon"><a target="_blank" id='main_img' href="#"><img id='picture' src="" width="60" height="60"/></a></p>
+			<dl class="info">
+				<dt><a target="_blank"  id='main_username' href="#"></a></dt>
+				<dd class="desc"><span id='bb_type'>已怀孕</span><span id='bb_message'>距离预产期<strong>150</strong>天</span></dd>
+				<dd class="op" id='myorder'> <a id='inmyorder' target="_blank"  href="#">进入我的私人订制</a>&nbsp;&nbsp;&nbsp;&nbsp;<a id='m_profile' target="_blank"  href="#">修改宝宝日期</a></dd>
+			    <dd class="op" id='setbaby' style="display: none" ><a id='s_profile' target="_blank"  href="#">修改宝宝日期</a></dd>
+
+			</dl>
+		</div>
+		 <p class="date" id='date'>
+		 <input type="text" class="text" id="datepicker" /><input type="submit" class="btnOk" value="确定" onclick="gotomyorder();"/></p>
+		<a href="//try.mama.cn/index" style="display: block" class="brief">你将得到：免费礼品活动、成长3D图、每日必做提醒</a>
+	</div>
+	<script type = 'text/javascript'>
+		function gotomyorder(){
+			forward(79, 100, '//www.mama.cn/');
+			var q= $("#datepicker").val();
+			//SetCookie('orderdate',q);
+	        var inurl= '//www.mama.cn/index.php?g=Home&a=Qrqm&d=skip&orderdate='+q;
+	        window.open(inurl,"_blank");
+		}
+		function SetCookie(name,value,domain){ //两个参数，一个是cookie的名子，一个是值
+		    var Days = 1; //此 cookie 将被保存 1 天
+		    var exp = new Date();    //new Date("December 31, 9998");
+			exp.setTime(exp.getTime() + Days*24*60*60*1000);
+
+			document.cookie = name + "="+ escape (value) +";expires=" + exp.toGMTString();
+		}
+	</script>
+</section>
+<section id="tlq" class="cl">
+	<div class="title"><a target="_blank" href="http://www.mama.cn/q/tlq/">同龄圈</a></div>
+		<div class="date">
+<p class="no1 j-tlqYuchang"><strong class="title">预产期：</strong><strong class="sep"><a href="#">2015年</a></strong><a target="_blank" href="http://www.mama.cn/q/tlq/club201501_1.html">1月</a><a target="_blank" href="http://www.mama.cn/q/tlq/club201502_1.html">2月</a><a target="_blank" href="http://www.mama.cn/q/tlq/club201503_1.html">3月</a><a target="_blank" href="http://www.mama.cn/q/tlq/club201504_1.html">4月</a><a target="_blank" href="http://www.mama.cn/q/tlq/club201505_1.html">5月</a><a target="_blank" href="http://www.mama.cn/q/tlq/club201506_1.html">6月</a><a target="_blank" href="http://www.mama.cn/q/tlq/club201507_1.html">7月</a><a target="_blank" href="http://www.mama.cn/q/tlq/club201508_1.html">8月</a><a target="_blank" href="http://www.mama.cn/q/tlq/club201509_1.html">9月</a><a target="_blank" href="http://www.mama.cn/q/tlq/club201510_1.html">10月</a><strong class="sep kan"><a target="_blank" href="http://www.mama.cn/baby/zhoukan/index.php?mod=home">怀孕周刊</a></strong></p>
+
+<p class="no2 j-tlqBirthday"><strong class="title">宝宝生日：</strong><strong><a href="#">2014年</a></strong><a target="_blank" href="http://www.mama.cn/q/tlq/club201411_1.html">11月</a><a target="_blank" href="http://www.mama.cn/q/tlq/club201410_1.html">10月</a><a target="_blank" href="http://www.mama.cn/q/tlq/club201409_1.html">9月</a><a target="_blank" href="http://www.mama.cn/q/tlq/club201408_1.html">8月</a><a target="_blank" href="http://www.mama.cn/q/tlq/club201407_1.html">7月</a><a target="_blank" href="http://www.mama.cn/q/tlq/club201406_1.html">6月</a><a target="_blank" href="http://www.mama.cn/q/tlq/club201405_1.html">5月</a><a target="_blank" href="http://www.mama.cn/q/tlq/4454_1.html">4月</a><a target="_blank" href="http://www.mama.cn/q/tlq/club201403_1.html">3月</a><a target="_blank" href="http://www.mama.cn/q/tlq/club201402_1.html">2月</a><a target="_blank" href="http://www.mama.cn/q/tlq/club201401_1.html">1月</a><strong class="sep"><a href="#">2013年</a></strong><a target="_blank" href="http://www.mama.cn/q/tlq/club201312_1.html">12月</a><strong class="sep kan"><a target="_blank" href="http://www.mama.cn/baby/zhoukan/index.php?mod=home#yuer">育儿周刊</a></strong></p>	
+</div></section>
+<!--main start-->
+<div id="wrap">
+<!--mama adv-->
+<div class="bannerWrap" id="seccolumn" style="display: none" ></div>
+
+<div class="bannerWrap" >
+</div>
+
+	<div class="layout idxFs cl">
+		<aside class="side">
+			<h3 class="top">妈网<strong>福利</strong></h3>
+			<ul class="welfare">
+		    				
+					<li>
+						<p class="icon"><a  target="_blank" href="//try.mama.cn/Index"><img src="//ss.mama.cn/std/images/fl_2.png" alt="试用中心" /></a></p>
+						<dl>
+							<dt class="no1"><a  target="_blank" href="//try.mama.cn/Index">试用中心</a></dt>
+														<dd><a target="_blank" href="//try.mama.cn/TryList/detail/id/579">Dr.Kong江博士【六一儿童节】凉鞋试用</a></dd>
+														<dd><a target="_blank" href="//try.mama.cn/TryList/detail/id/584">美国爱思贝有机幼儿配方奶粉3段</a></dd>
+													</dl>
+					</li>
+				
+										<li>
+												<p class="icon"><a  target="_blank" href="//www.mama.cn/u/69696310/"><img src="//ss.mama.cn/std/images/fl_2.png" alt="同城活动" /></a></p>
+						<dl>
+
+							<dt class="no2"><a  target="_blank" href="//www.mama.cn/u/69696310/">同城活动</a></dt>
+														<dd><a target="_blank" href="//q.mama.cn/topic/45241826">复古风暴嗨起来！辣妈饰演旷世情怀</a></dd>
+														<dd><a target="_blank" href="//q.mama.cn/topic/44893414/">刷肚子的时代来临，孕妈可以很任性</a></dd>
+													</dl>
+											</li>
+
+
+				
+					<li>
+						<p class="icon"><a  target="_blank" href="//www.mama.cn/ask/?g=Gift"><img src="//ss.mama.cn/std/images/fl_3.png" alt="问答有礼" /></a></p>
+						<dl>
+							<dt class="no3"><a  target="_blank" href="//www.mama.cn/ask/?g=Gift">问答有礼</a></dt>
+														<dd><a target="_blank" href="//www.mama.cn/ask/?g=Gift">64GB iPad Air免费拿！</a></dd>
+														<dd><a target="_blank" href="//www.mama.cn/ask/?g=Gift">问答海量大礼，求抱走！</a></dd>
+													</dl>
+					</li>
+				
+			</ul>
+						<div class="banner" id="zone_rightbutton1">
+			<img src="//api-luke.mama.cn/v?luke_t=c2c89aa62c2260a1&luke_p=452471_15" style="display: none;width: 0;height: 0;"><a href="//api-luke.mama.cn/click?luke_t=c2c89aa62c2260a1&luke_p=452471_15&luke_dest=http://www.mama.cn/baby/art/20170329/780636.html" target="_blank" ><img  width="300" height="115"  border="0"   src="//qimg.mama.cn/luke/2017/05/05/978113b013b444faba155f2d9af48b7d.jpg"/></a>			</div>
+
+									<h3>妈妈<strong>学堂</strong></h3>
+			<style>
+			  .idxFs .tools li img{
+			  	width:65px;
+				height:65px;
+			  }
+			</style>
+			<ul class="tools cl">
+													<li>
+						<p><a href="//www.mama.cn/lib/" target="_blank"><img src="//static.mama.cn/std/images/tools/no1.png" /></a></p>
+						<p><a href="//www.mama.cn/lib/" target="_blank">麻麻微视频</a></p>
+					</li>
+													<li>
+						<p><a href="//www.mama.cn/special/naifendapandian/" target="_blank"><img src="//static.mama.cn/std/images/tools/no2.png" /></a></p>
+						<p><a href="//www.mama.cn/special/naifendapandian/" target="_blank">妈网白皮书</a></p>
+					</li>
+													<li>
+						<p><a href="//www.mama.cn/z/" target="_blank"><img src="//static.mama.cn/std/images/tools/no3.png" /></a></p>
+						<p><a href="//www.mama.cn/z/" target="_blank">育儿知识</a></p>
+					</li>
+							</ul>
+						<h3 class="app">妈妈必备<strong>APP</strong></h3>
+			<p class="mamaq">
+				<a target="_blank" href="//app.mama.cn/mamaq.php"><img src="//pics.mama.cn/attachment/mamacn/images/201602/20160224/110044_87834.png" alt="妈妈必备APP" /></a>
+			</p>
+		</aside>
+		<div class="main">
+			<div class="idxFocus cl">
+				<section class="hot">
+					<p class="title"><a href="//www.mama.cn/index.php?g=Home&a=Hotreview" target="_blank">[往期回顾]</a></p>
+					<ul class="news">
+																				    <li class="no1" >
+							<h3><a target="_blank"  href="//www.mama.cn/ask/jingxuan/1974/">宝宝湿疹需留心，护理分享快围观！</a></h3>
+							<p class="desc"><a target="_blank"  href="//www.mama.cn/ask/jingxuan/1974/">宝宝的皮肤薄嫩而肠胃娇弱，轻微的外界刺激就容易激发免疫系统导致皮肤发生过...</a></p>
+							<p class="key">相关阅读:
+														<a target="_blank" href="//www.mama.cn/ask/jingxuan/40751/">引起湿疹原因</a>
+														<a target="_blank" href="//www.mama.cn/ask/jingxuan/52234/">湿疹注意什么</a>
+														</p>
+						</li>
+											    <li class="no2" >
+							<h3><a target="_blank"  href="//www.mama.cn/z/40821/">有一个无趣的老爸是怎样的体验？</a></h3>
+							<p class="desc"><a target="_blank"  href="//www.mama.cn/z/40821/">幽默的男人很多，但有趣的爸爸太少。为人父母，你想过自己在孩子心中是否有趣...</a></p>
+							<p class="key">相关阅读:
+														<a target="_blank" href="//www.mama.cn/z/40800/">孩子防拐新招</a>
+														<a target="_blank" href="//www.mama.cn/z/40782/">小孩怎么戒手机</a>
+														</p>
+						</li>
+											    <li class="no3 no" >
+							<h3><a target="_blank"  href="//q.mama.cn/topic/45375286/">明星何晟铭511空降妈网！温情来撩</a></h3>
+							<p class="desc"><a target="_blank"  href="//q.mama.cn/topic/45375286/">听到“四爷”何晟铭5月11日要来妈妈网做客，办公室瞬间炸了！春心荡漾，无心...</a></p>
+							<p class="key">相关阅读:
+														<a target="_blank" href="//q.mama.cn/topic/45376924">何晟铭</a>
+														<a target="_blank" href="//q.mama.cn/topic/45374729">母女缘</a>
+														</p>
+						</li>
+						
+										         					</ul>
+				</section>
+				<aside class="imgHot">
+					<div id="scrollPic" class="imgScroll">
+						<ul>
+																			<li ><a target="_blank" href="//q.mama.cn/topic/45321752" ><img src="//pics.mama.cn/attachment/mamacn/images/201705/20170508/091911_28350_w320_h240.jpg"  title="背叛了丁克族成为孩奴，我不后悔——妈妈网专访小豌豆" width="320" height="240"/></a></li>
+													<li ><a target="_blank" href="//www.mama.cn/ask/jingxuan/1581/" ><img src="//pics.mama.cn/attachment/mamacn/images/201705/20170509/092829_35742_w320_h240.jpg"  title="宝宝感冒流鼻涕？爸妈别盲目喂药" width="320" height="240"/></a></li>
+													<li ><a target="_blank" href="//www.mama.cn/z/20265/" ><img src="//pics.mama.cn/attachment/mamacn/images/201705/20170508/091320_68224_w320_h240.jpg"  title="多久一次便便好？宝宝便秘治疗攻略" width="320" height="240"/></a></li>
+													<li ><a target="_blank" href="https://hd.mama.cn/hz/detail/4127320" ><img src="//pics.mama.cn/attachment/mamacn/images/201705/20170508/094217_75539_w320_h240.jpg"  title="杭州旗袍聚会" width="320" height="240"/></a></li>
+													</ul>
+						<div class="switch"></div>
+						<a href="#" class="next"></a>
+					</div>
+										<div class="fourGe">
+					   						<div class="cell no1">
+							<div class="text">
+								<p class="tt1"><a target="_blank" href="//www.mama.cn/lib/item/72580.html">宝宝是否肺炎-</a></p>
+								<p class="tt2"><a target="_blank" href="//www.mama.cn/lib/item/72580.html">爸妈如何分辨</a></p>
+							</div>
+							<p class="img"><a target="_blank"  href="//www.mama.cn/lib/item/72580.html"><img src="//pics.mama.cn/attachment/mamacn/images/201705/20170505/093238_58072_w158_h105.jpg" /></a></p>
+						</div>
+												<div class="cell no2">
+							<div class="text">
+								<p class="tt1"><a target="_blank" href="//www.mama.cn/z/wiki/21553/">月经量少发黑？-</a></p>
+								<p class="tt2"><a target="_blank" href="//www.mama.cn/z/wiki/21553/">正确调理方法</a></p>
+							</div>
+							<p class="img"><a target="_blank"  href="//www.mama.cn/z/wiki/21553/"><img src="//pics.mama.cn/attachment/mamacn/images/201705/20170509/103820_43698_w158_h105.jpg" /></a></p>
+						</div>
+												<div class="cell no3">
+							<div class="text">
+								<p class="tt1"><a target="_blank" href="//www.mama.cn/news/art/20170504/780945.html">爱幼科学说-</a></p>
+								<p class="tt2"><a target="_blank" href="//www.mama.cn/news/art/20170508/780965.html">孩子长高秘诀</a></p>
+							</div>
+							<p class="img"><a target="_blank"  href="//www.mama.cn/news/art/20170508/780965.html"><img src="//pics.mama.cn/attachment/mamacn/images/201705/20170508/164359_59457_w158_h105.jpg" /></a></p>
+						</div>
+												<div class="cell no4">
+							<div class="text">
+								<p class="tt1"><a target="_blank" href="//q.mama.cn/topic/45241572/">万众期待-</a></p>
+								<p class="tt2"><a target="_blank" href="//q.mama.cn/topic/45241572/">风暴礼品等你</a></p>
+							</div>
+							<p class="img"><a target="_blank"  href="//q.mama.cn/topic/45241572/"><img src="//pics.mama.cn/attachment/mamacn/images/201705/20170509/093002_36643_w158_h105.jpg" /></a></p>
+						</div>
+						
+					</div>
+				</aside>
+			</div>
+			<section class="brandArea">
+				<span class="brandTitle"><a target="_blank"  title="品牌小站" href="http://brandbase.mama.cn/index.php">品牌小站</a></span>
+				<div class="brandScroll">
+					<div class="brandScrollArea">
+						<ul>
+													<li><a title="飞利浦新安怡妈妈圈" target="_blank" href="http://brandbase.mama.cn/avent.php"><img alt="飞利浦新安怡妈妈圈" src="//pics.mama.cn/attachment/mamacn/images/201404/20140429/180513_24213.png" width="90" height="35"></a></li>
+<li><a title="好奇探索乐园" target="_blank" href="http://brandbase.mama.cn/huggies.php"><img alt="好奇探索乐园" src="//pics.mama.cn/attachment/mamacn/images/201404/20140429/180516_27711.png" width="90" height="35"></a></li>
+<li><a title="帮宝适Village" target="_blank" href="http://zt.mama.cn/x2/index.php?p=pampers&c=minitwo&a=index"><img alt="帮宝适Village" src="//pics.mama.cn/attachment/mamacn/images/201508/20150813/092118_88575.png" width="90" height="35"></a></li>
+<li><a title="十月天使" target="_blank" href="http://brandbase.mama.cn/annunciation.php"><img alt="十月天使" src="//pics.mama.cn/attachment/mamacn/images/201404/20140429/180513_78541.png" width="90" height="35"></a></li>
+<li><a title="飞鹤舒适成长计划" target="_blank" href="http://brandbase.mama.cn/feihe.php "><img alt="飞鹤舒适成长计划" src="http://images.brandbase.mama.cn/attachment/pbrand/1429374tjana34oa0hv04k.jpg" width="90" height="35"></a></li>
+<li><a title="贝舒乐" target="_blank" href="http://brandbase.mama.cn/besuper.php"><img alt="贝舒乐" src="//pics.mama.cn/attachment/mamacn/images/201508/20150813/092453_69918.jpg" width="90" height="35"></a></li>
+<li><a title="美赞臣" target="_blank" href="http://zt.mama.cn/x2/index.php?p=meadjohnson&c=mini"><img alt="美赞臣" src="//pics.mama.cn/attachment/mamacn/images/201611/20161102/180358_91544.jpg" width="90" height="35"></a></li>
+<li><a title="爱他美" target="_blank" href="http://pinpai.mama.cn/Aptamil"><img alt="爱他美" src="//pics.mama.cn/attachment/mamacn/images/201611/20161102/180619_85123.jpg" width="90" height="35"></a></li>
+<li><a title="保灵孕宝" target="_blank" href="http://pinpai.mama.cn/baolingyunbao"><img alt="保灵孕宝" src="//pics.mama.cn/attachment/mamacn/images/201611/20161102/180704_68842.jpg" width="90" height="35"></a></li>
+<li><a title="强生" target="_blank" href="http://pinpai.mama.cn/Custom/qiangsheng.html"><img alt="强生" src="//pics.mama.cn/attachment/mamacn/images/201611/20161102/180840_68328.png" width="90" height="35"></a></li>
+						</ul>
+					</div>
+					<a class="brandScrollBtnL" target="_self" href="javascript:;"></a>
+					<a class="brandScrollBtnR" target="_self" href="javascript:;"></a>
+				</div>
+			</section>
+			<div class="maProWrap">
+				<ul class="maPro">
+				   				    <li>
+						<p class="title"><a target="_blank" href="http://www.mama.cn/attitude/guanzhu/">妈网关注</a></p>
+						<p><a target="_blank" href="http://zt.mama.cn/life/liuxuan/"><img src="//pics.mama.cn/attachment/mamacn/images/201704/20170407/174158_32225_w200_h110.jpg" title="冠军妈妈刘璇的育儿经"  /></a></p>
+						<p><a target="_blank"  href="http://zt.mama.cn/life/liuxuan/">冠军妈妈刘璇的育儿经</a></p>
+					</li>
+					
+					<!-- daketang_pic begin -->
+										<!-- daketang_pic end -->
+
+				    <li>
+						<p class="title"><a target="_blank" href="http://www.mama.cn/baby/zt/list_1.html">妈网大课堂</a></p>
+						<p><a target="_blank" href="http://www.mama.cn/special/aizi/"><img src="//pics.mama.cn/attachment/mamacn/images/201511/20151126/111910_67024_w200_h110.jpg" title="关注艾滋妈妈 让下一代零AIDS"  /></a></p>
+						<p><a target="_blank"  href="http://www.mama.cn/special/aizi/">关注艾滋妈妈 让下一代零AIDS</a></p>
+					</li>
+
+					
+
+									    <li>
+						<p class="title"><a target="_blank" href="http://www.mama.cn/attitude/mom/">妈妈态度</a></p>
+						<p><a target="_blank" href="http://www.mama.cn/special/elsker/"><img src="//pics.mama.cn/attachment/mamacn/images/201412/20141210/141801_70382_w200_h110.jpg" title="关爱留守儿童心灵成长"  /></a></p>
+						<p><a target="_blank"  href="http://www.mama.cn/special/elsker/">关爱留守儿童心灵成长</a></p>
+					</li>
+					
+				</ul>
+			</div>
+		</div>
+	</div>
+
+    
+	<!--wangpai start
+	<div class="bannerWrap"><a href="#"><img src="//static.mama.cn/std/images/source/980x80.jpg" /></a></div>-->
+	<h2 class="forWp"><a href="//www.mama.cn/baby/wangpai.html"  target="_blank">王牌栏目</a></h2>
+	<div class="subHd">
+		<a target="_blank" href="http://www.mama.cn/baby/yinger/BBhuliz/index_list.html" class="no1">BB护理站</a> <a target="_blank" href="http://www.mama.cn/baby/xueqian/lamalayu/">辣妈辣语</a> <a target="_blank" href="http://www.mama.cn/baby/fenmian/shengchanji/">分娩回忆录</a> <a target="_blank" href="http://www.mama.cn/baby/budongwo/">麻麻不懂我</a> <a target="_blank" href="http://www.mama.cn/baby/xueqian/chaomagou/">潮妈购</a> <a target="_blank" href="http://www.mama.cn/baby/youer/mmwshp/">麻麻微视频</a> <a target="_blank" href="http://www.mama.cn/baby/yinger/nvzhubo/">妈网女主播</a> <a target="_blank" href="http://www.mama.cn/baby/wangpai.html">点击更多</a>	</div>
+	<div class="layout idxFour cl">
+		<div class="side">
+			<h3 class="top"><span><a href="//www.mama.cn/baby/interview/" target="_blank">更多</a></span>妈妈<strong>会客厅</strong></h3>
+			<ul class="interview">
+
+				<!-- huiketing_pic begin-->
+												 					<li>
+						<p class="icon"><a href="//zt.mama.cn/life/liuxuan/"  target="_blank"  ><img src="//pics.mama.cn/attachment/mamacn/images/201704/20170407/174638_21834_w81_h96.png" alt="冠军妈妈，演员刘璇" class="fixpng" /></a></p>
+						<dl>
+							<dt><a href="//zt.mama.cn/life/liuxuan/"  target="_blank"  >刘璇</a>冠军妈妈，演员</dt>
+							<dd><a href="//zt.mama.cn/life/liuxuan/"  target="_blank"  >一棍子打死虎妈式教育的你，才是最笨的父母！  </a></dd>
+						</dl>
+					</li>
+									<li>
+						<p class="icon"><a href="//zt.mama.cn/life/zhangmengh5/"  target="_blank"  ><img src="//pics.mama.cn/attachment/mamacn/images/201703/20170327/151147_33474_w81_h96.png" alt="中国知名演员张萌" class="fixpng" /></a></p>
+						<dl>
+							<dt><a href="//zt.mama.cn/life/zhangmengh5/"  target="_blank"  >张萌</a>中国知名演员</dt>
+							<dd><a href="//zt.mama.cn/life/zhangmengh5/"  target="_blank"  >即使结婚你也得有随时单身的能力</a></dd>
+						</dl>
+					</li>
+									<li>
+						<p class="icon"><a href="//www.mama.cn/info/zt/special/2016/11/210/index.shtml"  target="_blank"  ><img src="//pics.mama.cn/attachment/mamacn/images/201702/20170227/184029_88008_w81_h96.png" alt="中国知名演员朱泳腾" class="fixpng" /></a></p>
+						<dl>
+							<dt><a href="//www.mama.cn/info/zt/special/2016/11/210/index.shtml"  target="_blank"  >朱泳腾</a>中国知名演员</dt>
+							<dd><a href="//www.mama.cn/info/zt/special/2016/11/210/index.shtml"  target="_blank"  >《周末父母》直击现实之痛，解读年轻夫妻婚姻生活</a></dd>
+						</dl>
+					</li>
+									<li>
+						<p class="icon"><a href="//www.mama.cn/special/moshikongfan/"  target="_blank"  ><img src="//pics.mama.cn/attachment/mamacn/images/201701/20170111/182853_42633_w81_h96.png" alt="世界体操冠军莫慧兰莫慧兰" class="fixpng" /></a></p>
+						<dl>
+							<dt><a href="//www.mama.cn/special/moshikongfan/"  target="_blank"  >莫慧兰</a>世界体操冠军莫慧兰</dt>
+							<dd><a href="//www.mama.cn/special/moshikongfan/"  target="_blank"  >我现在的“野心”是教育好孩子</a></dd>
+						</dl>
+					</li>
+								<!-- huiketing_pic end -->
+
+			</ul>
+		</div>
+		<div class="main">
+			<section class="newsList cl">
+			   <article class="l">
+				   					<!--mama adv-->
+															<p class="img" ><a target="_blank"  href="//q.mama.cn/topic/45285504"><img  src="//static.mama.cn/std/images/load.gif" data-original="//pics.mama.cn/attachment/mamacn/images/201705/20170504/150054_71424_w440_h240.jpg" /></a></p>
+					<dl class="at">
+						<dt><a target="_blank" href="//q.mama.cn/topic/45285504">母乳方便又省钱？我花在乳房上的钱早已一万多！</a></dt>
+						<dd><a target="_blank" href="//q.mama.cn/topic/45285504">童话里说母乳最快捷方便省钱都是骗人，如果你打算母乳那得做好艰苦又持久的准备，除了各种的不方便别人是帮不到你以外，还有一不小心乳腺炎就会找</a></dd>
+					</dl>
+										<dl class="at atNo">
+						<dt><a target="_blank" href="//www.mama.cn/q/tlq/thread-45349146-1-1.html">NT唐筛傻傻分不清楚？看完保证你秒懂！</a></dt>
+						<dd><a target="_blank" href="//www.mama.cn/q/tlq/thread-45349146-1-1.html">帖子里有很多宝妈整天说NT通过什么的，大家又知道NT到底是干嘛的吗？今天就来帮你们科普一下。</a></dd>
+					   <dd class="relate">
+
+					   				       					     <p>
+							<span>热门推荐</span>
+																<a id="hotw_1" target="_blank" href="https://v.qq.com/x/page/t0396eew3ml.html">精神愉悦比肉体愉悦更重要</a>
+							
+																<a id="hotw_2" target="_blank" href="//www.mama.cn/lib/item/72422.html">孕早期感冒药不药？</a>
+							
+						 </p>
+						</dd>
+					</dl>
+				</article>
+
+				<!-- wangpaipic_small1 wangpaipic_small2 begin -->
+				<aside class="r">
+					<ul class="atImg">
+										  	<li   class='top'>
+							<p class="img" ><a target="_blank"  href="//q.mama.cn/topic/45351862/"><img src="//static.mama.cn/std/images/load.gif"  data-original="//pics.mama.cn/attachment/mamacn/images/201705/20170508/092455_93566.jpg" /></a></p>
+							<p class="title"><a target="_blank"  href="//q.mama.cn/topic/45351862/">宝宝肚子疼的隐情你知道吗</a></p>
+							<p class="tags">
+														<a target="_blank" href="//www.mama.cn/u/74444635/">李鹏医生</a>
+							</p>
+						</li>
+										  	<li  >
+							<p class="img" ><a target="_blank"  href="//q.mama.cn/topic/45341307/"><img src="//static.mama.cn/std/images/load.gif"  data-original="//pics.mama.cn/attachment/mamacn/images/201705/20170509/090832_2877_w180_h180.jpg" /></a></p>
+							<p class="title"><a target="_blank"  href="//q.mama.cn/topic/45341307/">健身玩具承包了孩子的精力</a></p>
+							<p class="tags">
+														<a target="_blank" href="//q.mama.cn/group/215/">玩具大本营</a>
+							</p>
+						</li>
+										</ul>
+				</aside>
+				<!-- wangpaipic_small1 wangpaipic_small2 end -->
+
+
+			</section>
+		</div>
+	</div>
+	<!--wangpai end-->
+<!--mama adv-->
+<div class="bannerWrap" id="thirdcolumn" style="display: none" ></div>
+
+	<h2 class="forPc"><a  target="_blank" href="//www.mama.cn/z/">亲子百科</a></h2>
+	<div class="subHd">							<a target="_blank" href="http://www.mama.cn/z/t674/" class="no1">备孕</a> 
+<a target="_blank" href="http://www.mama.cn/z/t675/">怀孕</a> 
+<a target="_blank" href="http://www.mama.cn/z/t1181/">分娩</a> 
+<a target="_blank" href="http://www.mama.cn/z/t1182/">月子</a> 
+<a target="_blank" href="http://www.mama.cn/z/t1183/">新生儿</a>
+<a target="_blank" href="http://www.mama.cn/z/t666/">0-1岁</a>
+<a target="_blank" href="http://www.mama.cn/z/t1184/">1-3岁</a>
+<a target="_blank" href="http://www.mama.cn/z/t665/">3-6岁</a> 
+<a target="_blank" href="http://www.mama.cn/z/yingyang/">营养</a>
+<a target="_blank" href="http://www.mama.cn/z/lady/">女性</a></div>
+	<!--pc start-->
+	<div class="layout idxTwo cl">
+		<div class="side">
+		
+			<dl class="ask">
+				<dt><a target="_blank" href="//q.mama.cn/topic/38405069/">【聪明妈招募】万千妈妈疑惑等</a></dt>
+				<dd><a target="_blank" href="//q.mama.cn/topic/38405069/">都说孕妈是除了男人、女人之外的第三种生物！怀了小生命的新手妈咪，总是...</a></dd>
+				<dd class="op"><a target="_blank" href="//q.mama.cn/topic/38405069/" class="share">转发</a><a target="_blank" href="//q.mama.cn/topic/38405069/#tag_favorite" class="comment">帮答</a></dd>
+			</dl>
+			<ul class="askEp cl" >
+				<li><span id="askEp" style="display: none">推荐不准确?<a href="#" target="_blank" id='ask_profile'>修改设置</a></span>精选问题<div class="arrow"></div></li>
+			</ul>
+			<ul class="askList">
+										<li><a target="_blank" href="//www.mama.cn/ask/jingxuan/8800/">打百白破疫苗注意事项？</a></li>
+							<li><a target="_blank" href="//www.mama.cn/ask/jingxuan/6247/">水痘疫苗相关问题？</a></li>
+							<li><a target="_blank" href="//www.mama.cn/ask/jingxuan/7916/">怎么防感冒？</a></li>
+							<li><a target="_blank" href="//www.mama.cn/ask/jingxuan/10257/">怀孕几个月检查胎位？</a></li>
+							<li><a target="_blank" href="//www.mama.cn/ask/jingxuan/18027/">怀孕几个月会有胎动？</a></li>
+							<li><a target="_blank" href="//www.mama.cn/ask/jingxuan/10378/">黄体不足如何备孕？</a></li>
+							<li><a target="_blank" href="//www.mama.cn/ask/jingxuan/5429/">计划怀孕要准备什么？</a></li>
+							<li><a target="_blank" href="//www.mama.cn/ask/jingxuan/8702/">婴儿感冒流鼻涕打喷嚏怎么办？</a></li>
+						</ul>
+			<span id="baby_wl" style="display:none"></span>
+									<form id="askFromIndex" action="//www.mama.cn/ask/index.php?g=Question&a=Index&d=askFromIndex" method="post" name="askFromIndex" target="_blank"  onsubmit="return asksubmit()">
+			<p class="askQ"><input type="text" id='title' name="title" onblur="if (this.value == '') {this.value = '宝宝如何预防感冒？';}" onfocus="if (this.value == '宝宝如何预防感冒？') {this.value = '';}" value="宝宝如何预防感冒？" x-webkit-speech="x-webkit-speech" x-webkit-grammar="builtin:translate" class="text" /> <input type="submit" value="提问" class="btn" /><input type="button"  onclick="gotosearch();" value="搜答案" class="btn btnSou" /></p>
+			<input type="hidden" id='cid1' name="cid1" value=''>
+			<input type="hidden" id='askFromIndexToken' name="token" value='12sde342'>
+			</form>
+			<script type="text/javascript">
+                			$(function(){
+                				$.post('//www.mama.cn/ask/index.php?g=Api&a=Question&d=ajaxListQuestion',{rnd:Math.random()},function(ret){
+                					$("#askFromIndexToken").val(ret);
+                				})
+                			});
+							$("#title").focus(function(){if($(this).val()=="宝宝如何预防感冒？")$(this).val("");});
+							$("#title").blur(function(){if($(this).val()=="")$(this).val("宝宝如何预防感冒？");});
+							function asksubmit(){
+			                    var q= $("#title").val();
+			                    if(q ==''||q=='宝宝如何预防感冒？'){
+			                        alert('请输入你要提问的问题！');
+			                        return false;
+			                    }
+			                    if(q.length < 5||q.length > 50){
+			                        alert('你要提问的问题不能少于5个字符或超过50字符！');
+			                        return false;
+			                    }
+			                    return true;
+			                }
+							function  gotosearch(){
+								var q= $("#title").val();
+			                    if(q ==''||q=='宝宝如何预防感冒？'){
+			                        alert('请输入你要搜索的关键词！');
+			                        return false;
+			                    }
+			                    var searchurl= '//www.mama.cn/ask/index.php?g=Search&a=Search&keyword='+q;
+
+			                    window.open(searchurl,"_blank");
+			                    //window.location.href = '//www.mama.cn/ask/index.php?g=Search&a=Search&keyword='+q;
+						    }
+						</script>
+			<h3 class="askTt"><!--  <span onclick="chgFollowallList();"><a href="javascript:;" >换一换</a></span>--><span><a href="http://q.mama.cn/topic/8602113/" target="_blank">申请达人</a></span>向这些达人提问</h3>
+			<div class="askExpert" id="userlist">
+							<ul style="display:block;" >
+									<li>
+						<p><a target="_blank" href="//www.mama.cn/ask/user/9632642.html"><img  src="http://avatar.mama.cn/009/63/26/42_avatar_middle.jpg" width="80" height="80" /></a></p>
+						<p><a target="_blank" href="//www.mama.cn/ask/user/9632642.html">悟悟悟</a></p>
+					</li>
+			   						<li>
+						<p><a target="_blank" href="//www.mama.cn/ask/user/8106304.html"><img  src="http://avatar.mama.cn/008/10/63/04_avatar_middle.jpg" width="80" height="80" /></a></p>
+						<p><a target="_blank" href="//www.mama.cn/ask/user/8106304.html">vagrompuss</a></p>
+					</li>
+			   						<li>
+						<p><a target="_blank" href="//www.mama.cn/ask/user/11126379.html"><img  src="http://avatar.mama.cn/011/12/63/79_avatar_middle.jpg" width="80" height="80" /></a></p>
+						<p><a target="_blank" href="//www.mama.cn/ask/user/11126379.html">Qi琪58528</a></p>
+					</li>
+			   	</ul>
+					       <ul style="display:none;">					<li>
+						<p><a target="_blank" href="//www.mama.cn/ask/user/14112275.html"><img  src="http://avatar.mama.cn/014/11/22/75_avatar_middle.jpg" width="80" height="80" /></a></p>
+						<p><a target="_blank" href="//www.mama.cn/ask/user/14112275.html">846599998</a></p>
+					</li>
+			   						<li>
+						<p><a target="_blank" href="//www.mama.cn/ask/user/12798972.html"><img  src="http://avatar.mama.cn/012/79/89/72_avatar_middle.jpg" width="80" height="80" /></a></p>
+						<p><a target="_blank" href="//www.mama.cn/ask/user/12798972.html">轩轩27</a></p>
+					</li>
+			   						<li>
+						<p><a target="_blank" href="//www.mama.cn/ask/user/14895727.html"><img  src="http://avatar.mama.cn/014/89/57/27_avatar_middle.jpg" width="80" height="80" /></a></p>
+						<p><a target="_blank" href="//www.mama.cn/ask/user/14895727.html">轩仔的麻麻</a></p>
+					</li>
+			   	</ul>
+					       <ul style="display:none;">				</ul>
+			</div>
+			<script type="text/javascript">
+				function chgFollowallList(){
+				       var ul = document.getElementById("userlist").getElementsByTagName("ul");
+				       for (var i=0; i < ul.length; i++){
+				          ul[i].style.display = ul[i].style.display == "block" ? "none" : "block";
+				       };
+				}
+			</script>
+		</div>
+		<div class="main">
+		<!-- 亲子左侧 育儿start-->
+			<section class="newsList cl" >
+				
+				<article class="l">
+					<!--mama adv-->
+															<p class="img" ><a target="_blank"  href="//www.mama.cn/z/wiki/16180/"><img  src="//static.mama.cn/std/images/load.gif" data-original="//pics.mama.cn/attachment/mamacn/images/201705/20170508/173031_45459_w440_h240.jpg" /></a></p>
+					<dl class="at">
+						<dt><a target="_blank" href="//www.mama.cn/z/wiki/16180/">想生聪明娃？孕期吃这些准没错！</a></dt>
+						<dd><a target="_blank" href="//www.mama.cn/z/wiki/16180/">生聪明伶俐的宝宝，是每位准妈妈的期望。想生个聪明宝宝的准妈妈不妨改变下自己的饮食结构，通过合理的饮食让宝宝更聪明。那吃啥帮助胎儿智商up？</a></dd>
+					</dl>
+					
+					<div class="zone">
+				       						<p class="zoneTt"><a target="_blank" href="//www.mama.cn/z/40540/">宝宝夏季易患疾病</a></p>
+						<ul class="zoneLink cl">
+						 							<li><a   target="_blank"   href="//www.mama.cn/z/40483/">疱疹性咽峡炎</a></li>
+						 							<li><a   target="_blank"   href="//www.mama.cn/z/19890/">宝宝长痱子</a></li>
+						 							<li><a   target="_blank"   href="//www.mama.cn/z/19862/">新生儿吹空调</a></li>
+						 							<li><a   target="_blank"   href="//www.mama.cn/z/29545/">胖大海治咽炎</a></li>
+						 							<li><a   target="_blank"   href="//www.mama.cn/z/20308/">痱子粉品牌</a></li>
+						 							<li><a   target="_blank"   href="//www.mama.cn/z/10839/">预防空调病</a></li>
+						 							<li><a   target="_blank"   href="//www.mama.cn/z/20635/">小儿手足口病</a></li>
+						 							<li><a   target="_blank"   href="//www.mama.cn/z/11688/">手足口传染吗</a></li>
+						 							<li><a   target="_blank"   href="//www.mama.cn/z/11676/">宝宝夏季感冒</a></li>
+						 							<li><a   target="_blank"   href="//www.mama.cn/z/36466/">小儿暑热症</a></li>
+						 							<li><a   target="_blank"   href="//www.mama.cn/z/20455/">感冒流涕食疗</a></li>
+						 							<li><a   target="_blank"   href="//www.mama.cn/z/36452/">暑热症吃什么</a></li>
+						 
+						</ul>
+					</div>
+
+				</article>
+				<aside class="r">
+					<ul class="atImg">
+												  	<li   class='top'>
+								<p class="img" ><a target="_blank"  href="//www.mama.cn/z/40463/"><img  src="//pics.mama.cn/attachment/mamacn/images/201705/20170508/165557_4570_w180_h180.jpg" /></a></p>
+								<p class="title"><a target="_blank"  href="//www.mama.cn/z/40463/">给宝宝降温有窍门</a></p>
+								<p class="tags">
+																<a target="_blank" href="//www.mama.cn/z/23614/">宝宝防晒霜</a>
+								</p>
+								</li>
+												  	<li  >
+								<p class="img" ><a target="_blank"  href="//www.mama.cn/baby/art/20170508/780968.html"><img  src="//pics.mama.cn/attachment/mamacn/images/201705/20170508/181705_70503_w180_h180.jpg" /></a></p>
+								<p class="title"><a target="_blank"  href="//www.mama.cn/baby/art/20170508/780968.html">23周胎宝宝滑出宫颈</a></p>
+								<p class="tags">
+																<a target="_blank" href="//www.mama.cn/q/tlq/thread-45343869-1-1.html">脐带绕颈必须破腹产</a>
+								</p>
+								</li>
+										</ul>
+				</aside>
+			</section>
+			<!-- 亲子左侧 育儿end -->
+			<h3 class="posr"><span>育儿<strong>视频</strong></span><a target="_blank" href="//www.mama.cn/lib/" class="m-links">更多</a></h3>
+						
+			<div class="vedioWrap">
+				<ul class="vedioPro">
+													<li>
+						<div class="img">
+								<p class="play fixpng"><a  target="_blank" href="//v.qq.com/vplus/mamawang/foldervideos/x2g000101e5gz43">播放</a></p>
+								<p><a  target="_blank" href="//v.qq.com/vplus/mamawang/foldervideos/x2g000101e5gz43"><img src="//pics.mama.cn/attachment/mamacn/images/201705/20170505/093934_67_w200_h110.jpg" /></a></p>
+							</div>
+							<p><a  target="_blank" href="//v.qq.com/vplus/mamawang/foldervideos/x2g000101e5gz43">怎么辨别宝宝是不是肺炎？</a></p>
+						</li>
+													<li>
+						<div class="img">
+								<p class="play fixpng"><a  target="_blank" href="//v.qq.com/vplus/mamawang/foldervideos/fx9000101m7ozi1">播放</a></p>
+								<p><a  target="_blank" href="//v.qq.com/vplus/mamawang/foldervideos/fx9000101m7ozi1"><img src="//pics.mama.cn/attachment/mamacn/images/201703/20170303/091015_54915_w200_h110.jpg" /></a></p>
+							</div>
+							<p><a  target="_blank" href="//v.qq.com/vplus/mamawang/foldervideos/fx9000101m7ozi1">三件妆备就能成为职场辣妈</a></p>
+						</li>
+													<li>
+						<div class="img">
+								<p class="play fixpng"><a  target="_blank" href="//v.qq.com/vplus/mamawang/foldervideos/skr000101jnyhnu">播放</a></p>
+								<p><a  target="_blank" href="//v.qq.com/vplus/mamawang/foldervideos/skr000101jnyhnu"><img src="//pics.mama.cn/attachment/mamacn/images/201705/20170502/142211_94967_w200_h110.jpg" /></a></p>
+							</div>
+							<p><a  target="_blank" href="//v.qq.com/vplus/mamawang/foldervideos/skr000101jnyhnu">宝宝的健康信号你造吗？</a></p>
+						</li>
+								</ul>
+			</div>
+
+		</div>
+	</div>
+
+<!--mama adv-->
+<div class="bannerWrap" id="forthcolumn" style="display: none" ></div>
+    <!-- 时尚生活 start -->
+    <h2 class="forFashion"><a href="#">时尚生活</a></h2>
+    <div class="subHd">	<a target="_blank" href="http://www.mama.cn/baby/emotion/"class="no1">情感</a> 
+<a target="_blank" href="http://www.mama.cn/baby/clothing/">Lady潮衣橱</a> 
+<a target="_blank" href="http://www.mama.cn/baby/mingxing/">明星娱乐</a> 
+<a target="_blank" href="http://www.mama.cn/baby/beauty/">大妆园</a> 
+<a target="_blank" href="http://www.mama.cn/baby/zhengrong/">享乐家</a>
+<a target="_blank" href="http://www.mama.cn/baby/health/">风尚生活</a>
+<a target="_blank" href="http://www.mama.cn/baby/emotion/">健康养生</a>
+<a target="_blank" href="http://www.mama.cn/z/lady/">时尚百科</a></div>
+    <div class="layout idxFive cl">
+		<div class="side">
+			<div class="lama">
+				<h3><span><a href="//www.mama.cn/baby/xueqian/lamalayu/" target="_blank">更多</a></span>辣妈<strong>辣语</strong></h3>
+								<div class="bd">
+					<a href="//www.mama.cn/baby/art/20160426/778877.html" target="_blank"><img src="//pics.mama.cn/attachment/mamacn/images/201604/20160428/113509_24385_w300_h145.jpg" alt="让钱包比胸还坚挺！五一出行，浪个够！"></a>
+					<h6><a href="//www.mama.cn/baby/art/20160426/778877.html" target="_blank">让钱包比胸还坚挺！五一出行，浪个够！</a></h6>
+					<p>相信大家都有过这样的悲催经历，眼看着自己的钱包越来越薄，购物车跟收藏夹里的东西却堆积如山。哎，想偶尔开开洋荤，跟孩子老公来个短途旅游吧，结果没玩几天，钱包就像是经历第四次世界大战一样，失血程度难以想象。</p>
+					<p class="tags">标签:
+											<a href="//www.mama.cn/baby/art/20160411/778793.html" target="_blank">Iphone腿已过时！</a>
+											<a href="//www.mama.cn/baby/art/20160426/778877.html" target="_blank">当美少娘有多拼？</a>
+										</p>
+				</div>
+			</div>
+			<div class="laxiu">
+				<h3><span><a href="//www.mama.cn/baby/health/" target="_blank">更多</a></span>风尚<strong>生活</strong></h3>
+				<div class="bd">
+					<ul class="clearfix">
+					                        						<li class="hover">
+							<a class="piclinks" href="https://zt.mama.cn/life/nvxiaowu/?from=singlemessage&isappinstalled=0" target="_blank"><img src="//pics.mama.cn/attachment/mamacn/images/201704/20170418/171115_61442.jpg" alt="事业与家庭都要，她的气场起码2米8"></a>
+							<div class="ws">
+								<h6><i class="s">01</i><a href="https://zt.mama.cn/life/nvxiaowu/?from=singlemessage&isappinstalled=0" target="_blank">事业与家庭都要，她的气场起码2米8</a></h6>
+								<span class="tags"></span>
+							</div>
+						</li>
+					   						<li class="">
+							<a class="piclinks" href="//zt.mama.cn/life/zclmH5/index.html" target="_blank"><img src="//pics.mama.cn/attachment/mamacn/images/201703/20170327/160440_32142.png" alt="职场辣妈修炼手册，堪比升级版杜拉拉"></a>
+							<div class="ws">
+								<h6><i class="s">02</i><a href="//zt.mama.cn/life/zclmH5/index.html" target="_blank">职场辣妈修炼手册，堪比升级版杜拉拉</a></h6>
+								<span class="tags"></span>
+							</div>
+						</li>
+					   						<li class="">
+							<a class="piclinks" href="//zt.mama.cn/life/mamaqueen/m/index.html" target="_blank"><img src="//pics.mama.cn/attachment/mamacn/images/201703/20170327/161728_86938.png" alt="直击2017年 妈妈网跨年红人盛典"></a>
+							<div class="ws">
+								<h6><i class="s">03</i><a href="//zt.mama.cn/life/mamaqueen/m/index.html" target="_blank">直击2017年 妈妈网跨年红人盛典</a></h6>
+								<span class="tags"></span>
+							</div>
+						</li>
+					   						<li class="">
+							<a class="piclinks" href="//www.mama.cn/special/meiwu/" target="_blank"><img src="//pics.mama.cn/attachment/mamacn/images/201703/20170327/150051_61479_w108_h78.png" alt="年度风尚美物志 用美物来消磨留不住的时光"></a>
+							<div class="ws">
+								<h6><i class="s">04</i><a href="//www.mama.cn/special/meiwu/" target="_blank">年度风尚美物志 用美物来消磨留不住的时光</a></h6>
+								<span class="tags"></span>
+							</div>
+						</li>
+					   						<li class="">
+							<a class="piclinks" href="//www.mama.cn/special/beauty002/" target="_blank"><img src="//pics.mama.cn/attachment/mamacn/images/201604/20160414/192539_35779_w108_h78.jpg" alt="剧·女神|逆生长变妆秘诀在这里"></a>
+							<div class="ws">
+								<h6><i class="s">05</i><a href="//www.mama.cn/special/beauty002/" target="_blank">剧·女神|逆生长变妆秘诀在这里</a></h6>
+								<span class="tags"></span>
+							</div>
+						</li>
+					   						<li class="">
+							<a class="piclinks" href="https://mobile-ad.mama.cn/wap/ad/detail?id=7358&adType=2&uid=0&code=&app=mmq&source=2&wifiOn=0" target="_blank"><img src="//pics.mama.cn/attachment/mamacn/images/201703/20170327/162934_38842_w108_h78.png" alt="大妆园|三件妆备就能成为职场辣妈"></a>
+							<div class="ws">
+								<h6><i class="s">06</i><a href="https://mobile-ad.mama.cn/wap/ad/detail?id=7358&adType=2&uid=0&code=&app=mmq&source=2&wifiOn=0" target="_blank">大妆园|三件妆备就能成为职场辣妈</a></h6>
+								<span class="tags"></span>
+							</div>
+						</li>
+					   					</ul>
+				</div>
+			</div>
+		</div>
+
+		<div class="main">
+			<section class="newsList cl">
+				<article class="l">
+					<div class="scroll-pic">
+						<ul class="scroll-list" id="scrollList">
+						                            							<li class="on"><a href="//q.mama.cn/topic/45070251/2/" target="_blank"><img src="//pics.mama.cn/attachment/mamacn/images/201705/20170504/102358_64544.jpg" alt="只要找对自己的风格，分分钟美成一条灵动的风景线" /></a><h6><a href="//q.mama.cn/topic/45070251/2/" target="_blank">只要找对自己的风格，分分钟美成一条灵动的风景线</a></h6></li>
+														<li class=""><a href="//q.mama.cn/topic/44635746/" target="_blank"><img src="//pics.mama.cn/attachment/mamacn/images/201703/20170327/122520_88082.png" alt="承包这些美色！机智的我，扒了她们相册里最惊艳的照片" /></a><h6><a href="//q.mama.cn/topic/44635746/" target="_blank">承包这些美色！机智的我，扒了她们相册里最惊艳的照片</a></h6></li>
+														<li class=""><a href="//www.mama.cn/baby/art/20170309/780456.html" target="_blank"><img src="//pics.mama.cn/attachment/mamacn/images/201703/20170309/113602_71150.jpg" alt="我可能上的是“假班” ，三件妆备就能成为职场辣妈！" /></a><h6><a href="//www.mama.cn/baby/art/20170309/780456.html" target="_blank">我可能上的是“假班” ，三件妆备就能成为职场辣妈！</a></h6></li>
+													</ul>
+						<div class="scroll-tab"></div>
+					</div>
+					<dl class="at atNo">
+					   <dd class="relate">
+							<p>
+								<span>热门推荐</span>
+								                                								<a target="_blank" href="//q.mama.cn/topic/45293006">从“头”呵护我最爱的妈妈</a>
+																<a target="_blank" href="//q.mama.cn/topic/45295425">小个子怎样显瘦显高</a>
+															</p>
+						</dd>
+					</dl>
+
+					<div class="fashionPic">
+						<ul class="clearfix">
+                            							<li class="li1"><a href="//q.mama.cn/topic/45343273" target="_blank"><img src="//pics.mama.cn/attachment/mamacn/images/201705/20170509/094150_44496.jpg"><div class="bgt"></div><span>如何提高肌肤的抗敏能力</span></a></li>
+														<li class="li2"><a href="//q.mama.cn/topic/45329047" target="_blank"><img src="//pics.mama.cn/attachment/mamacn/images/201705/20170509/095200_10711.jpg"><div class="bgt"></div><span>夏季必BUY的防晒好货</span></a></li>
+														<li class="li3"><a href="//q.mama.cn/topic/45355717" target="_blank"><img src="//pics.mama.cn/attachment/mamacn/images/201705/20170509/100356_31491.jpg"><div class="bgt"></div><span>新口红首先当然要试色啦</span></a></li>
+														<li class="li4"><a href="//q.mama.cn/topic/45361164" target="_blank"><img src="//pics.mama.cn/attachment/mamacn/images/201705/20170509/095949_72983.jpg"><div class="bgt"></div><span>用健康的方法减肥才是王道</span></a></li>
+						</ul>
+					</div>
+				</article>
+				<aside class="r">
+					<ul class="atImg">
+					   					   							<li class="top">
+    							<p class="img"><a target="_blank" href="//q.mama.cn/topic/45344062"><img src="//pics.mama.cn/attachment/mamacn/images/201705/20170509/100741_27153.jpg"></a></p>
+    							<p class="title"><a target="_blank" href="//q.mama.cn/topic/45344062">让人欲罢不能的唇色</a></p>
+    							<p class="tags">
+    							    							 <a target="_blank" href="//q.mama.cn/group/6/">百变美妆圈</a>
+    							    							</p>
+    						</li>
+													<li class="top">
+    							<p class="img"><a target="_blank" href="//q.mama.cn/topic/45319600/"><img src="//pics.mama.cn/attachment/mamacn/images/201705/20170509/103110_82222.jpg"></a></p>
+    							<p class="title"><a target="_blank" href="//q.mama.cn/topic/45319600/">夏日必备的吊带衫</a></p>
+    							<p class="tags">
+    							    							 <a target="_blank" href="//q.mama.cn/group/48/">穿衣搭配圈</a>
+    							    							</p>
+    						</li>
+											</ul>
+					<div class="lazx">
+						<h3><span>热辣<strong>资讯</strong></span></h3>
+						<ul class="clearfix">
+                                                        							<li><a href="//q.mama.cn/topic/44532642" target="_blank">你的脸上有人民币的味道</a></li>
+                            							<li><a href="//q.mama.cn/topic/44533972" target="_blank">差不多的女人其实差很多</a></li>
+                            							<li><a href="//q.mama.cn/topic/44492949" target="_blank">先搞懂为什么会肥再减肥</a></li>
+                            							<li><a href="//www.mama.cn/news/art/20170424/780878.html" target="_blank">爱普生，让科技改变生活</a></li>
+                            						</ul>
+					</div>
+				</aside>
+			</section>
+		</div>
+	</div>
+    <!-- 时尚生活 end -->
+
+	<h2 class="forSns"><a target="_blank" href="http://q.mama.cn">社区互动</a></h2>
+	<div class="subHd">
+												<a target="_blank" href="http://q.mama.cn/" class="no1">圈子</a><a target="_blank" href="http://www.mama.cn/q/tlq/">同龄圈</a><a target="_blank" href="http://q.mama.cn/city/">同城圈</a><a target="_blank" href="http://q.mama.cn/group/1/">准备怀孕圈</a><a target="_blank" href="http://q.mama.cn/group/2/">怀孕妈妈圈</a><a target="_blank" href="http://q.mama.cn/group/26/">生男生女圈</a><a target="_blank" href="http://q.mama.cn/group/3/">婴幼育儿圈</a><a target="_blank" href="http://q.mama.cn/group/32/">母乳喂养圈</a><a target="_blank" href="http://q.mama.cn/hot/">精华</a><a target="_blank" href="http://q.mama.cn/gift/">积分换礼</a><a target="_blank" href="http://www.mama.cn/lib/">资源库</a>		</div>
+	<!--sns start-->
+	<div class="layout idxThree cl">
+		<div class="side">
+			<ul class="rank cl" id="ranks">
+				<li>24小时<div class="arrow"></div></li>
+				<li>周排行<div class="arrow"></div></li>
+				<li>月排行<div class="arrow"></div></li>
+			</ul>
+			<div id="rankContent">
+				<ul class="rankList" id="rankList0">
+				    				    					<li><a target="_blank" href="//q.mama.cn/topic/45377788/">女人保养好，年轻不显老！来分享我</a></li>
+										<li><a target="_blank" href="//q.mama.cn/topic/45375446/">【母亲节保养】只有母爱永恒不变？</a></li>
+										<li><a target="_blank" href="//q.mama.cn/topic/45374729/">母女缘–––母亲节的一些随想随感</a></li>
+										<li><a target="_blank" href="//q.mama.cn/topic/45374260/">为了孩子，美可以放在第二位！</a></li>
+										<li><a target="_blank" href="//q.mama.cn/topic/45364975/">【入坑多肉】其实十年前我就入坑了</a></li>
+										<li><a target="_blank" href="//q.mama.cn/topic/45361412/">【妈妈的礼物】 希望时光能再慢一</a></li>
+										<li><a target="_blank" href="//q.mama.cn/topic/45361164/">减肥这事儿，三分靠练，七分靠吃，</a></li>
+										<li><a target="_blank" href="//q.mama.cn/topic/45359764/">人力资源工作9年总结的职场经验</a></li>
+										<li><a target="_blank" href="//q.mama.cn/topic/45358092/">口红越买越上瘾是病，得治！但是这</a></li>
+										<li><a target="_blank" href="//q.mama.cn/topic/45357835/">【厨房蒸霸】金针菇这样做，既简单</a></li>
+					
+				</ul>
+				<ul class="rankList" id="rankList1">
+					 				    					<li><a target="_blank" href="//q.mama.cn/topic/45237307/">【分享赢好礼】超人妈妈晋阶记：对</a></li>
+										<li><a target="_blank" href="//q.mama.cn/topic/45209402/">宝宝的真正需求，你GET得到吗？</a></li>
+										<li><a target="_blank" href="//q.mama.cn/topic/45275543/">你有套路，澳贝有奖~召唤智慧懒妈</a></li>
+										<li><a target="_blank" href="//q.mama.cn/topic/45228398/">为了给宝宝做美食，妈妈在厨艺路上</a></li>
+										<li><a target="_blank" href="//q.mama.cn/topic/45258715/">宝爸是不是太过分了</a></li>
+										<li><a target="_blank" href="//q.mama.cn/topic/45221480/">母乳不够，混合喂养是选辅食还是奶</a></li>
+										<li><a target="_blank" href="//q.mama.cn/topic/45247895/">幼儿园的老师，教孩子回去跟家长要</a></li>
+										<li><a target="_blank" href="//q.mama.cn/topic/45204884/">【经验分享】降服不爱洗澡宝宝的玩</a></li>
+										<li><a target="_blank" href="//q.mama.cn/topic/45257531/">宝宝今天做疝气手术，开贴记录一下</a></li>
+										<li><a target="_blank" href="//q.mama.cn/topic/45206784/">儿童牙病防治超重要！宝宝护牙那些</a></li>
+									</ul>
+				<ul class="rankList" id="rankList2">
+									    					<li><a target="_blank" href="//q.mama.cn/topic/44907513/">获奖公布【劲爆】扎克伯格家族育儿</a></li>
+										<li><a target="_blank" href="//q.mama.cn/topic/44746043/">获奖名单公布【有奖招募】卸载美颜</a></li>
+										<li><a target="_blank" href="//q.mama.cn/topic/44725076/">【已结束】起名方法这么多，你家宝</a></li>
+										<li><a target="_blank" href="//q.mama.cn/topic/44978255/">妈妈网和美德乐联合发布母乳喂养调</a></li>
+										<li><a target="_blank" href="//q.mama.cn/topic/44771950/">【有奖竞猜】又有新“老公”霸屏？</a></li>
+										<li><a target="_blank" href="//q.mama.cn/topic/45105049/">【4月惊喜任务2】好奇给你7层的爱</a></li>
+										<li><a target="_blank" href="//q.mama.cn/topic/45006372/">囚爱99天</a></li>
+										<li><a target="_blank" href="//q.mama.cn/topic/44718074/">【你中奖啦】速度跟帖报喜，DHA藻</a></li>
+										<li><a target="_blank" href="//q.mama.cn/topic/44741980/">谁是进口纸尿裤NO.1？小编用几个小</a></li>
+										<li><a target="_blank" href="//q.mama.cn/topic/44907600/">【4月惊喜任务】呵护肌肤有妙招，</a></li>
+									</ul>
+			</div>
+			<h3><span><a target="_blank" href="http://q.mama.cn/topic/4844715/">申请达人</a></span>达人推荐</h3>
+			<ul class="daren cl">
+			      				      				         <li>
+							<p><a target="_blank"  href="http://www.mama.cn/u/5665228/"><img  src="//pics.mama.cn/attachment/mamacn/images/201703/20170304/152749_77038_w60_h60.jpg" /></a></p>
+							<p><a target="_blank"  href="http://www.mama.cn/u/5665228/">徐哈尼，</a></p>
+						</li>
+
+
+										         <li>
+							<p><a target="_blank"  href="http://www.mama.cn/u/35279561/"><img  src="//pics.mama.cn/attachment/mamacn/images/201703/20170304/152638_35573_w60_h60.jpg" /></a></p>
+							<p><a target="_blank"  href="http://www.mama.cn/u/35279561/">宝妈and</a></p>
+						</li>
+
+
+										         <li>
+							<p><a target="_blank"  href="http://www.mama.cn/u/5042040/"><img  src="//pics.mama.cn/attachment/mamacn/images/201703/20170304/152557_36606_w60_h60.jpg" /></a></p>
+							<p><a target="_blank"  href="http://www.mama.cn/u/5042040/">lain74</a></p>
+						</li>
+
+
+										         <li>
+							<p><a target="_blank"  href="http://www.mama.cn/u/31491452/"><img  src="//pics.mama.cn/attachment/mamacn/images/201703/20170304/152535_31223_w60_h60.jpg" /></a></p>
+							<p><a target="_blank"  href="http://www.mama.cn/u/31491452/">Lisa蕾蕾</a></p>
+						</li>
+
+
+						
+				        									</ul>
+
+			<p id="shequpic_right"><a target="_blank" href="http://q.mama.cn/topic/45330780"><img src="http://pics.mama.cn/attachment/mamacn/images/201705/20170508/095646_29425.jpg"/></a></p>
+		</div>
+		<div class="main">
+			<section class="newsList cl">
+				<article class="l">
+																				<p class="img" ><a target="_blank" href="http://q.mama.cn/topic/45321309"><img  src="//static.mama.cn/std/images/load.gif" data-original="//pics.mama.cn/attachment/mamacn/images/201705/20170508/092222_25723_w440_h240.jpg" /></a>
+					<dl class="at">
+						<dt><a target="_blank" href="http://q.mama.cn/topic/45321309">入口即化的草莓版黑森林，就是最甜蜜的母亲节礼物</a></dt>
+						<dd><a target="_blank" href="http://q.mama.cn/topic/45321309">自己做烘焙的小伙伴一定都知道黑森林蛋糕，它是德国著名甜点。黑森林蛋糕融合了樱桃的酸、奶油的甜、巧克力的苦、樱桃酒的醇香，深受人们喜爱，也</a></dd>
+					</dl>
+										<dl class="at atNo">
+						<dt><a target="_blank" href="http://q.mama.cn/topic/45345197">有些剧播完好多年，现在听到插曲照样哭得稀里哗啦</a></dt>
+						<dd><a target="_blank" href="http://q.mama.cn/topic/45345197">不仅仅是我，好多宝妈的青春回忆，大概都在这些偶像剧上了。之前绍哲麻麻扒过台湾偶像剧的插曲，听的绍哲麻麻心中五味杂陈，青春，终究是以这种方</a></dd>
+
+					    				        <dd class="relate"><span>推荐阅读</span>
+					    				          <a target="_blank" href="http://q.mama.cn/topic/45342397">儿子带我跳进多肉坑</a>
+				         				          <a target="_blank" href="http://q.mama.cn/topic/45350871">大张伟的励志毒鸡汤</a>
+				         
+						</dd>
+					</dl>
+
+				</article>
+				<aside class="r">
+					<ul class="atImg">
+											   					      						  	<li>
+							<p class="img"><a target="_blank"  href="http://q.mama.cn/topic/45367873/1?t=1494203940#720702345"><img  src="//pics.mama.cn/attachment/mamacn/images/201705/20170508/093358_59239_w180_h180.jpg" /></a></p>
+							<p class="title"><a target="_blank"  href="http://q.mama.cn/topic/45367873/1?t=1494203940#720702345">我家有个“尝百草”的宝宝</a></p>
+							<p class="tags">
+														<a target="_blank" href="http://q.mama.cn/group/80/">爱单反爱摄影</a>
+							</p>
+						</li>
+											  	<li>
+							<p class="img"><a target="_blank"  href="http://q.mama.cn/topic/45373587"><img  src="//pics.mama.cn/attachment/mamacn/images/201705/20170508/094237_22188_w180_h180.jpg" /></a></p>
+							<p class="title"><a target="_blank"  href="http://q.mama.cn/topic/45373587">大神画了一星期的喵星人</a></p>
+							<p class="tags">
+														<a target="_blank" href="http://q.mama.cn/group/181/">手绘工坊</a>
+							</p>
+						</li>
+											</ul>
+				</aside>
+			</section>
+			<h3><span>各地<strong>活动</strong></span></h3>
+			<div class="active cl">
+				<ul class="l">
+				 													<li><span><a target="_blank" href="http://hd.mama.cn/cq/">[重庆]</a></span><a target="_blank" href="http://hd.mama.cn/cq/detail/4127313">饰演玫瑰园仙女，辣妈汉服聚会</a></li>
+														<li><span><a target="_blank" href="http://hd.mama.cn/gz/">[广州]</a></span><a target="_blank" href="http://hd.mama.cn/gz/detail/4127328">我是超人妈妈！一起挑战千人瑜伽</a></li>
+														<li><span><a target="_blank" href="http://hd.mama.cn/cd/">[成都]</a></span><a target="_blank" href="http://hd.mama.cn/cd/detail/4127330">肚子上的艺术，孕妈肚皮彩绘派对</a></li>
+														<li><span><a target="_blank" href="http://hd.mama.cn/yichunshi/">[宜春]</a></span><a target="_blank" href="http://hd.mama.cn/yichunshi/detail/4127346">诠释中国式优雅，辣妈旗袍聚会</a></li>
+														<li><span><a target="_blank" href="http://hd.mama.cn/fs/">[佛山]</a></span><a target="_blank" href="http://hd.mama.cn/fs/detail/4127354">重现经典复古风，辣妈赫本聚会</a></li>
+											</ul>
+				<ul class="r">
+				   				   <li>
+				        <p><a target="_blank" href="http://hd.mama.cn/yichunshi/detail/4127379"><img  src="//static.mama.cn/std/images/load.gif" data-original="//pics.mama.cn/attachment/mamacn/images/201705/20170508/104636_18459_w180_h120.jpg" /></a></p>
+						<p><a target="_blank" href="http://hd.mama.cn/yichunshi/detail/4127379">童话般的聚会，公主王子约会啦</a></p>
+						</li>
+									   <li>
+				        <p><a target="_blank" href="http://hd.mama.cn/zhuhaishi/detail/4127312"><img  src="//static.mama.cn/std/images/load.gif" data-original="//pics.mama.cn/attachment/mamacn/images/201705/20170504/104439_23854_w180_h120.jpg" /></a></p>
+						<p><a target="_blank" href="http://hd.mama.cn/zhuhaishi/detail/4127312">典雅复古风，一场关于旗袍的邂逅</a></p>
+						</li>
+					
+				</ul>
+			</div>
+		</div>
+	</div>
+
+<!--mama adv-->
+<div class="bannerWrap" id="fifthcolumn" style="display: none" ></div>
+
+
+	<!--sns end-->
+
+    <h2 class="forBaike"><a href="//www.mama.cn/z/" target="_blank">百科</a></h2>
+	<div class="idxKnowledge">
+        <ul id="tabs" class="idxKnowledgeTi cl">
+        	<li><a href="javascript:void(0);" hidefocus="true">备孕 <s class="arrow"></s></a></li>
+            <li><a href="javascript:void(0);" hidefocus="true">怀孕 <s class="arrow"></s></a></li>
+            <li><a href="javascript:void(0);" hidefocus="true">分娩&amp;月子 <s class="arrow"></s></a></li>
+            <li><a href="javascript:void(0);" hidefocus="true">新生婴儿 <s class="arrow"></s></a></li>
+            <li><a href="javascript:void(0);" hidefocus="true">1-6岁 <s class="arrow"></s></a></li>
+            <li><a href="javascript:void(0);" hidefocus="true">女性<s class="arrow"></s></a></li>
+            <li><a href="javascript:void(0);" hidefocus="true">问答精选<s class="arrow"></s></a></li>
+            <li><a href="javascript:void(0);" hidefocus="true">91论坛<s class="arrow"></s></a></li>
+        </ul>
+								<div id="linkContent">
+			<ul id="tabList0" class="shortTxtLink cl" style="display: none;">
+<li><a href="http://www.mama.cn/z/wiki/12965/" title="痛经吃什么药没有副作用" target="_blank">痛经吃什么药没有副作用</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12967/" title="月经周期表" target="_blank">月经周期表</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12978/" title="妇女月经期间能洗头吗" target="_blank">妇女月经期间能洗头吗</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12979/" title="孕前营养素" target="_blank">孕前营养素</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12984/" title="男性备孕食谱" target="_blank">男性备孕食谱</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12988/" title="非霍奇金淋巴瘤分期" target="_blank">非霍奇金淋巴瘤分期</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13037/" title="白带多是怎么回事" target="_blank">白带多是怎么回事</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13039/" title="月经不调的原因有哪些" target="_blank">月经不调的原因有哪些</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13043/" title="算排卵期" target="_blank">算排卵期</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13045/" title="卵子排出体外的图片" target="_blank">卵子排出体外的图片</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13055/" title="痛经时吃什么食物好" target="_blank">痛经时吃什么食物好</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13056/" title="经期不能吃哪些食物" target="_blank">经期不能吃哪些食物</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13057/" title="黄体期会怀孕吗" target="_blank">黄体期会怀孕吗</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13063/" title="为什么排卵了不怀孕" target="_blank">为什么排卵了不怀孕</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13064/" title="30岁女人闭经的危害" target="_blank">30岁女人闭经的危害</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13067/" title="经期头痛吃什么食物好" target="_blank">经期头痛吃什么食物好</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13071/" title="女性黄体破裂的症状" target="_blank">女性黄体破裂的症状</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13072/" title="有效便秘偏方" target="_blank">有效便秘偏方</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13074/" title="没在安全期会怀孕吗" target="_blank">没在安全期会怀孕吗</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13079/" title="碱法苏打水是碱性的吗" target="_blank">碱法苏打水是碱性的吗</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13082/" title="月经后怎么减肥" target="_blank">月经后怎么减肥</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13085/" title="吃什么补精子质量" target="_blank">吃什么补精子质量</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13086/" title="抗精子抗体检查多少钱" target="_blank">抗精子抗体检查多少钱</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13087/" title="排卵试纸哪里有卖" target="_blank">排卵试纸哪里有卖</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13092/" title="停经原因" target="_blank">停经原因</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13096/" title="月经量少发黑原因" target="_blank">月经量少发黑原因</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13112/" title="人工授精多少钱一次" target="_blank">人工授精多少钱一次</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13116/" title="精子体外存活时间是多久" target="_blank">精子体外存活时间是多久</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13119/" title="月经量少怎么调理吃什么食物" target="_blank">月经量少怎么调理吃什么食物</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13122/" title="性生活视频mvbox" target="_blank">性生活视频mvbox</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13124/" title="男人吃什么补精子" target="_blank">男人吃什么补精子</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13128/" title="月经量多是什么原因呢" target="_blank">月经量多是什么原因呢</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13134/" title="排卵期有什么症状表现" target="_blank">排卵期有什么症状表现</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13144/" title="验孕棒怎么用的" target="_blank">验孕棒怎么用的</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13151/" title="女性痛经严重怎么办" target="_blank">女性痛经严重怎么办</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13153/" title="女性排卵期有几天" target="_blank">女性排卵期有几天</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13162/" title="月经推迟20天" target="_blank">月经推迟20天</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13167/" title="男士吃什么补精子" target="_blank">男士吃什么补精子</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13170/" title="月经经常痛经怎么办" target="_blank">月经经常痛经怎么办</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13173/" title="食疗壮阳补肾的方法" target="_blank">食疗壮阳补肾的方法</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13175/" title="高血压不能吃什么水果" target="_blank">高血压不能吃什么水果</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13178/" title="来月经有血块" target="_blank">来月经有血块</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13180/" title="卵泡成熟后多久排卵" target="_blank">卵泡成熟后多久排卵</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13213/" title="人工受精过程有哪些" target="_blank">人工受精过程有哪些</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13214/" title="高泌乳素血症怎么治疗" target="_blank">高泌乳素血症怎么治疗</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13220/" title="抗精子抗体怎么检查" target="_blank">抗精子抗体怎么检查</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13224/" title="精子液化时间长怎么办" target="_blank">精子液化时间长怎么办</a></li>
+<li><a href="http://www.mama.cn/z/wiki/13225/" title="促排卵药" target="_blank">促排卵药</a></li>
+
+
+
+			</ul>
+			<ul id="tabList1" class="shortTxtLink cl" style="display: none;">
+<li><a href="http://www.mama.cn/z/wiki/12412/" title="孕妇手心脚心痒" target="_blank">孕妇手心脚心痒</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12413/" title="女孩胎动的感觉" target="_blank">女孩胎动的感觉</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12416/" title="孕妇眼痒怎么办" target="_blank">孕妇眼痒怎么办</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12421/" title="孕妇出行最佳交通工具" target="_blank">孕妇出行最佳交通工具</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12423/" title="孕妇心情不好会早产吗" target="_blank">孕妇心情不好会早产吗</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12424/" title="怀孕初期体温多少算正常" target="_blank">怀孕初期体温多少算正常</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12428/" title="妊娠期糖尿病筛查什么时候做" target="_blank">妊娠期糖尿病筛查什么时候做</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12430/" title="青岛产检假规定" target="_blank">青岛产检假规定</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12431/" title="口腔溃疡吃什么水果" target="_blank">口腔溃疡吃什么水果</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12432/" title="保胎假工资怎么算" target="_blank">保胎假工资怎么算</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12436/" title="怀孕一个月吃什么好呀" target="_blank">怀孕一个月吃什么好呀</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12437/" title="流产生育保险怎么报销" target="_blank">流产生育保险怎么报销</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12440/" title="妊娠纹痒的厉害 红点" target="_blank">妊娠纹痒的厉害 红点</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12441/" title="妊娠子痫是什么" target="_blank">妊娠子痫是什么</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12442/" title="雅诗兰黛小棕瓶孕妇能用吗" target="_blank">雅诗兰黛小棕瓶孕妇能用吗</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12444/" title="孕妇拉肚子对胎儿有影响吗" target="_blank">孕妇拉肚子对胎儿有影响吗</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12452/" title="孕妇血糖高怎么办" target="_blank">孕妇血糖高怎么办</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12455/" title="孕妇有地中海贫血怎么办" target="_blank">孕妇有地中海贫血怎么办</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12456/" title="地中海贫血怀孕的危害" target="_blank">地中海贫血怀孕的危害</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12457/" title="怀孕七个月了可以同房吗" target="_blank">怀孕七个月了可以同房吗</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12459/" title="怀孕四个月的肚子有多大" target="_blank">怀孕四个月的肚子有多大</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12460/" title="孕妇长智齿影响胎儿吗" target="_blank">孕妇长智齿影响胎儿吗</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12462/" title="胎动减少怎么办" target="_blank">胎动减少怎么办</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12463/" title="孕妇吃什么好" target="_blank">孕妇吃什么好</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12465/" title="便秘吃什么药调理" target="_blank">便秘吃什么药调理</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12467/" title="高危妊娠包括哪些？" target="_blank">高危妊娠包括哪些？</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12469/" title="怀孕多久可以做B超测出来" target="_blank">怀孕多久可以做B超测出来</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12470/" title="怎样看四维彩超分性别" target="_blank">怎样看四维彩超分性别</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12471/" title="孕妇可以吃龙虾吗早期" target="_blank">孕妇可以吃龙虾吗早期</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12472/" title="孕妇可以用按摩器按摩腿吗" target="_blank">孕妇可以用按摩器按摩腿吗</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12474/" title="孕妇牙龈肿痛怎么办立刻止疼消肿" target="_blank">孕妇牙龈肿痛怎么办立刻止疼消肿</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12475/" title="怀孕一个月怎么流产" target="_blank">怀孕一个月怎么流产</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12478/" title="hcg多少钱一次" target="_blank">hcg多少钱一次</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12480/" title="孕晚期性生活可以吗" target="_blank">孕晚期性生活可以吗</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12482/" title="引产四个月大的胎儿图片" target="_blank">引产四个月大的胎儿图片</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12483/" title="孕妇能闻香水吗" target="_blank">孕妇能闻香水吗</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12484/" title="大排畸b超怎么看男女" target="_blank">大排畸b超怎么看男女</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12485/" title="侵蚀性葡萄胎最常见的转移部位是哪里" target="_blank">侵蚀性葡萄胎最常见的转移部位是哪里</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12487/" title="婴儿孕妇能吃保健品吗" target="_blank">婴儿孕妇能吃保健品吗</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12488/" title="孕妇能吃梨吗" target="_blank">孕妇能吃梨吗</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12489/" title="妊娠中毒症怎么办" target="_blank">妊娠中毒症怎么办</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12490/" title="羊水穿刺结果多久出来" target="_blank">羊水穿刺结果多久出来</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12492/" title="孕吐严重说明孕酮高吗" target="_blank">孕吐严重说明孕酮高吗</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12494/" title="怀孕分泌物有异味怎么回事" target="_blank">怀孕分泌物有异味怎么回事</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12495/" title="羊水栓塞是怎么回事" target="_blank">羊水栓塞是怎么回事</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12500/" title="婴儿胎毒有哪些症状　" target="_blank">婴儿胎毒有哪些症状　</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12501/" title="怀孕八个月能同房吗" target="_blank">怀孕八个月能同房吗</a></li>
+<li><a href="http://www.mama.cn/z/wiki/12502/" title="怀孕初期饮食不规律" target="_blank">怀孕初期饮食不规律</a></li>
+
+
+
+			</ul>
+			<ul id="tabList2" class="shortTxtLink cl" style="display: none;">
+				<li><a href="http://www.mama.cn/z/1107/" title="怀孕多久能测出来" target="_blank">怀孕多久能测出来</a></li>
+<li><a href="http://www.mama.cn/z/1108/" title="怀孕了还会来月经吗" target="_blank">怀孕了还会来月经吗</a></li>
+<li><a href="http://www.mama.cn/z/1109/" title="怀孕初期体温" target="_blank">怀孕初期体温</a></li>
+<li><a href="http://www.mama.cn/z/1111/" title="怀孕初期白带症状" target="_blank">怀孕初期白带症状</a></li>
+<li><a href="http://www.mama.cn/z/1114/" title="怀孕初期不能吃什么" target="_blank">怀孕初期不能吃什么</a></li>
+<li><a href="http://www.mama.cn/z/1115/" title="怀孕注意事项" target="_blank">怀孕注意事项</a></li>
+<li><a href="http://www.mama.cn/z/1117/" title="孕妇咳嗽食疗" target="_blank">孕妇咳嗽食疗</a></li>
+<li><a href="http://www.mama.cn/z/1119/" title="妊娠剧吐" target="_blank">妊娠剧吐</a></li>
+<li><a href="http://www.mama.cn/z/1120/" title="孕妇睡姿" target="_blank">孕妇睡姿</a></li>
+<li><a href="http://www.mama.cn/z/1121/" title="宫外孕早期症状" target="_blank">宫外孕早期症状</a></li>
+<li><a href="http://www.mama.cn/z/1122/" title="宫外孕会来月经吗" target="_blank">宫外孕会来月经吗</a></li>
+<li><a href="http://www.mama.cn/z/1123/" title="宫外孕怎么办" target="_blank">宫外孕怎么办</a></li>
+<li><a href="http://www.mama.cn/z/1125/" title="流产后注意事项" target="_blank">流产后注意事项</a></li>
+<li><a href="http://www.mama.cn/z/1126/" title="人流最佳时间" target="_blank">人流最佳时间</a></li>
+<li><a href="http://www.mama.cn/z/1127/" title="人流后多久可以同房" target="_blank">人流后多久可以同房</a></li>
+<li><a href="http://www.mama.cn/z/1129/" title="人流后多久来月经" target="_blank">人流后多久来月经</a></li>
+<li><a href="http://www.mama.cn/z/1131/" title="人流后多久可以碰冷水" target="_blank">人流后多久可以碰冷水</a></li>
+<li><a href="http://www.mama.cn/z/1134/" title="流产后吃什么好" target="_blank">流产后吃什么好</a></li>
+<li><a href="http://www.mama.cn/z/1138/" title="孕期外阴瘙痒" target="_blank">孕期外阴瘙痒</a></li>
+<li><a href="http://www.mama.cn/z/1139/" title="孕妇口腔溃疡" target="_blank">孕妇口腔溃疡</a></li>
+<li><a href="http://www.mama.cn/z/1142/" title="孕妇便秘吃什么好" target="_blank">孕妇便秘吃什么好</a></li>
+<li><a href="http://www.mama.cn/z/1144/" title="妊娠糖尿病" target="_blank">妊娠糖尿病</a></li>
+<li><a href="http://www.mama.cn/z/1146/" title="孕早期B超" target="_blank">孕早期B超</a></li>
+<li><a href="http://www.mama.cn/z/1151/" title="孕妇游泳" target="_blank">孕妇游泳</a></li>
+<li><a href="http://www.mama.cn/z/1152/" title="孕期乳房护理" target="_blank">孕期乳房护理</a></li>
+<li><a href="http://www.mama.cn/z/1153/" title="孕妇用蚊香" target="_blank">孕妇用蚊香</a></li>
+<li><a href="http://www.mama.cn/z/1159/" title="羊水少" target="_blank">羊水少</a></li>
+<li><a href="http://www.mama.cn/z/1166/" title="孕妇水肿食谱" target="_blank">孕妇水肿食谱</a></li>
+<li><a href="http://www.mama.cn/z/1167/" title="妊娠期糖尿病食谱" target="_blank">妊娠期糖尿病食谱</a></li>
+<li><a href="http://www.mama.cn/z/1168/" title="孕妇营养不良怎么办" target="_blank">孕妇营养不良怎么办</a></li>
+<li><a href="http://www.mama.cn/z/1201/" title="孕妇可以吃黄花菜吗" target="_blank">孕妇可以吃黄花菜吗</a></li>
+<li><a href="http://www.mama.cn/z/1202/" title="孕妇喝柠檬水好吗" target="_blank">孕妇喝柠檬水好吗</a></li>
+<li><a href="http://m.mama.cn/bk/9004/" target="_blank">预产期怎么算</a></li>
+<li><a href="http://m.mama.cn/bk/1245/" target="_blank">顺产侧切</a></li>
+<li><a href="http://m.mama.cn/bk/18215/" target="_blank">顺产注意事项</a></li>
+<li><a href="http://m.mama.cn/bk/1243/" target="_blank">剖腹产多久可以生二胎</a></li>
+<li><a href="http://m.mama.cn/bk/1243/" target="_blank">剖腹产后多久可以再生</a></li>
+<li><a href="http://m.mama.cn/bk/233/" target="_blank">剖腹产疤痕</a></li>
+<li><a href="http://m.mama.cn/bk/8634/" target="_blank">剖腹产后多久可以淋浴</a></li>
+<li><a href="http://m.mama.cn/bk/7857/" target="_blank">剖腹产后饮食</a></li>
+<li><a href="http://m.mama.cn/bk/1311/" target="_blank">剖腹产后吃什么</a></li>
+<li><a href="http://m.mama.cn/bk/18620/" target="_blank">二胎剖腹产提前多久</a></li>
+<li><a href="http://m.mama.cn/bk/18784/" target="_blank">生完孩子多久来月经</a></li>
+<li><a href="http://m.mama.cn/bk/18785/" target="_blank">产后多久来月经正常</a></li>
+<li><a href="http://m.mama.cn/bk/11596/" target="_blank">产后恶露多久干净</a></li>
+<li><a href="http://m.mama.cn/bk/9164/" target="_blank">恶露不尽怎么办</a></li>
+<li><a href="http://m.mama.cn/bk/9165/" target="_blank">恶露多久干净</a></li>
+<li><a href="http://m.mama.cn/bk/243/" target="_blank">产妇吃什么下奶</a></li>
+			</ul>
+			<ul id="tabList3" class="shortTxtLink cl" style="display: none;">
+				<li><a href="http://www.mama.cn/z/290/" title="早产儿" target="_blank">早产儿</a></li>
+		            <li><a href="http://www.mama.cn/z/291/" title="早产儿智力" target="_blank">早产儿智力</a></li>
+		            <li><a href="http://www.mama.cn/z/292/" title="早产儿奶粉" target="_blank">早产儿奶粉</a></li>
+		            <li><a href="http://www.mama.cn/z/293/" title="早产儿喂养" target="_blank">早产儿喂养</a></li>
+		            <li><a href="http://www.mama.cn/z/294/" title="新生儿听力" target="_blank">新生儿听力</a></li>
+		            <li><a href="http://www.mama.cn/z/295/" title="新生儿哭闹" target="_blank">新生儿哭闹</a></li>
+		            <li><a href="http://www.mama.cn/z/296/" title="新生儿大便" target="_blank">新生儿大便</a></li>
+		            <li><a href="http://www.mama.cn/z/297/" title="新生儿视力" target="_blank">新生儿视力</a></li>
+		            <li><a href="http://www.mama.cn/z/298/" title="新生儿眼睛" target="_blank">新生儿眼睛</a></li>
+		            <li><a href="http://www.mama.cn/z/299/" title="新生儿鼻子" target="_blank">新生儿鼻子</a></li>
+		            <li><a href="http://www.mama.cn/z/300/" title="新生儿洗澡" target="_blank">新生儿洗澡</a></li>
+		            <li><a href="http://www.mama.cn/z/301/" title="新生儿睡眠" target="_blank">新生儿睡眠</a></li>
+		            <li><a href="http://www.mama.cn/z/302/" title="新生儿黄疸" target="_blank">新生儿黄疸</a></li>
+		            <li><a href="http://www.mama.cn/z/303/" title="新生儿肺炎" target="_blank">新生儿肺炎</a></li>
+		            <li><a href="http://www.mama.cn/z/304/" title="新生儿肠绞痛" target="_blank">新生儿肠绞痛</a></li>
+		            <li><a href="http://www.mama.cn/z/305/" title="新生儿泪囊炎" target="_blank">新生儿泪囊炎</a></li>
+		            <li><a href="http://www.mama.cn/z/306/" title="新生儿溶血症" target="_blank">新生儿溶血症</a></li>
+		            <li><a href="http://www.mama.cn/z/307/" title="新生儿颅内出血" target="_blank">新生儿颅内出血</a></li>
+		            <li><a href="http://www.mama.cn/z/308/" title="新生儿败血症" target="_blank">新生儿败血症</a></li>
+		            <li><a href="http://www.mama.cn/z/309/" title="新生儿湿疹" target="_blank">新生儿湿疹</a></li>
+		            <li><a href="http://www.mama.cn/z/362/" title="混合喂养" target="_blank">混合喂养</a></li>
+		            <li><a href="http://www.mama.cn/z/363/" title="婴儿不吃奶瓶" target="_blank">婴儿不吃奶瓶</a></li>
+		            <li><a href="http://www.mama.cn/z/364/" title="宝宝不吃奶粉" target="_blank">宝宝不吃奶粉</a></li>
+		            <li><a href="http://www.mama.cn/z/365/" title="宝宝受凉" target="_blank">宝宝受凉</a></li>
+		            <li><a href="http://www.mama.cn/z/366/" title="哺乳假" target="_blank">哺乳假</a></li>
+		            <li><a href="http://www.mama.cn/z/367/" title="背奶" target="_blank">背奶</a></li>
+		            <li><a href="http://www.mama.cn/z/368/" title="宝宝会翻身" target="_blank">宝宝会翻身</a></li>
+		            <li><a href="http://www.mama.cn/z/369/" title="宝宝长牙" target="_blank">宝宝长牙</a></li>
+		            <li><a href="http://www.mama.cn/z/370/" title="宝宝会爬" target="_blank">宝宝会爬</a></li>
+		            <li><a href="http://www.mama.cn/z/371/" title="宝宝会说话" target="_blank">宝宝会说话</a></li>
+		            <li><a href="http://www.mama.cn/z/372/" title="宝宝会坐" target="_blank">宝宝会坐</a></li>
+		            <li><a href="http://www.mama.cn/z/373/" title="宝宝坐学步车" target="_blank">宝宝坐学步车</a></li>
+<li><a href="http://m.mama.cn/bk/19513/" target="_blank">新生儿大便发绿</a></li>
+<li><a href="http://m.mama.cn/bk/19677/" target="_blank">婴儿辅食添加时间表</a></li>
+<li><a href="http://m.mama.cn/bk/19493/" target="_blank">婴儿补钙吃什么好</a></li>
+<li><a href="http://m.mama.cn/bk/19902/" target="_blank">宝宝什么时候开始补钙</a></li>
+<li><a href="http://m.mama.cn/bk/19667/" target="_blank">婴儿吃什么鱼肝油好</a></li>
+<li><a href="http://m.mama.cn/bk/8573/" target="_blank">宝宝大便绿色</a></li>
+<li><a href="http://m.mama.cn/bk/5443/" target="_blank">婴儿大便次数</a></li>
+<li><a href="http://m.mama.cn/bk/5444/" target="_blank">婴儿大便颜色</a></li>
+<li><a href="http://m.mama.cn/bk/20125/" target="_blank">婴儿多少度算发烧</a></li>
+<li><a href="http://m.mama.cn/bk/20460/" target="_blank">宝宝咳嗽流鼻涕怎么办</a></li>
+<li><a href="http://m.mama.cn/bk/20463/" target="_blank">宝宝咳嗽吃什么药好</a></li>
+<li><a href="http://m.mama.cn/bk/11630/" target="_blank">宝宝拉肚子吃什么药</a></li>
+<li><a href="http://m.mama.cn/bk/19890/" target="_blank">宝宝长痱子怎么办</a></li>
+<li><a href="http://m.mama.cn/bk/5364/" target="_blank">痱子和湿疹的区别</a></li>
+<li><a href="http://m.mama.cn/bk/8641/" target="_blank">幼儿急疹出疹后护理</a></li>
+<li><a href="http://m.mama.cn/bk/19565/" target="_blank">小孩睡觉磨牙是怎么回事</a></li>
+
+
+			</ul>
+			<ul id="tabList4" class="shortTxtLink cl" style="display: none;">
+				<li><a href="http://www.mama.cn/z/972/" title="宝宝中暑" target="_blank">宝宝中暑</a></li>
+		            <li><a href="http://www.mama.cn/z/955/" title="麻醉" target="_blank">麻醉</a></li>
+		            <li><a href="http://www.mama.cn/z/964/" title="奶粉过敏" target="_blank">奶粉过敏</a></li>
+		            <li><a href="http://www.mama.cn/z/973/" title="多动症" target="_blank">多动症</a></li>
+		            <li><a href="http://www.mama.cn/z/956/" title="预防早产" target="_blank">预防早产</a></li>
+		            <li><a href="http://www.mama.cn/z/965/" title="手足口病" target="_blank">手足口病</a></li>
+		            <li><a href="http://www.mama.cn/z/974/" title="儿童防晒霜" target="_blank">儿童防晒霜</a></li>
+		            <li><a href="http://www.mama.cn/z/957/" title="宝宝取名" target="_blank">宝宝取名</a></li>
+		            <li><a href="http://www.mama.cn/z/966/" title="小儿荨麻疹" target="_blank">小儿荨麻疹</a></li>
+		            <li><a href="http://www.mama.cn/z/967/" title="尿布疹" target="_blank">尿布疹</a></li>
+		            <li><a href="http://www.mama.cn/z/968/" title="儿童龋齿" target="_blank">儿童龋齿</a></li>
+		            <li><a href="http://www.mama.cn/z/977/" title="血型遗传规律表" target="_blank">血型遗传规律表</a></li>
+		            <li><a href="http://www.mama.cn/z/969/" title="宝宝长痱子" target="_blank">宝宝长痱子</a></li>
+		            <li><a href="http://www.mama.cn/z/970/" title="扁平足" target="_blank">扁平足</a></li>
+		            <li><a href="http://www.mama.cn/z/447/" title="婴儿坐飞机" target="_blank">婴儿坐飞机</a></li>
+		            <li><a href="http://www.mama.cn/z/448/" title="宝宝看动画片" target="_blank">宝宝看动画片</a></li>
+		            <li><a href="http://www.mama.cn/z/449/" title="识字" target="_blank">识字</a></li>
+		            <li><a href="http://www.mama.cn/z/450/" title="宝宝口臭" target="_blank">宝宝口臭</a></li>
+		            <li><a href="http://www.mama.cn/z/451/" title="小儿口吃" target="_blank">小儿口吃</a></li>
+		            <li><a href="http://www.mama.cn/z/452/" title="宝宝流鼻血" target="_blank">宝宝流鼻血</a></li>
+		            <li><a href="http://www.mama.cn/z/459/" title="换牙" target="_blank">换牙</a></li>
+		            <li><a href="http://www.mama.cn/z/460/" title="宝宝增高" target="_blank">宝宝增高</a></li>
+		            <li><a href="http://www.mama.cn/z/461/" title="宝宝长高" target="_blank">宝宝长高</a></li>
+		            <li><a href="http://www.mama.cn/z/462/" title="儿童生长痛" target="_blank">儿童生长痛</a></li>
+		            <li><a href="http://www.mama.cn/z/463/" title="儿童近视" target="_blank">儿童近视</a></li>
+		            <li><a href="http://www.mama.cn/z/464/" title="儿童弱视" target="_blank">儿童弱视</a></li>
+		            <li><a href="http://www.mama.cn/z/465/" title="红眼病" target="_blank">红眼病</a></li>
+		            <li><a href="http://www.mama.cn/z/466/" title="儿童斜视" target="_blank">儿童斜视</a></li>
+		            <li><a href="http://www.mama.cn/z/36020/" title="小儿支原体肺炎咳嗽" target="_blank">小儿支原体肺炎咳嗽</a></li>
+		            <li><a href="http://www.mama.cn/z/36021/" title="小孩喘息性咳嗽" target="_blank">小孩喘息性咳嗽</a></li>
+		            <li><a href="http://www.mama.cn/z/36022/" title="肺热咳嗽" target="_blank">肺热咳嗽</a></li>
+		            <li><a href="http://www.mama.cn/z/36023/" title="肺热" target="_blank">肺热</a></li>
+		            <li><a href="http://www.mama.cn/z/471/" title="素质教育" target="_blank">素质教育</a></li>
+		            <li><a href="http://www.mama.cn/z/472/" title="折纸" target="_blank">折纸</a></li>
+		            <li><a href="http://www.mama.cn/z/473/" title="宝宝学跳舞" target="_blank">宝宝学跳舞</a></li>
+		            <li><a href="http://www.mama.cn/z/474/" title="涂鸦" target="_blank">涂鸦</a></li>
+		            <li><a href="http://www.mama.cn/z/475/" title="儿童学画画" target="_blank">儿童学画画</a></li>
+		            <li><a href="http://www.mama.cn/z/476/" title="宝宝涂色" target="_blank">宝宝涂色</a></li>
+		            <li><a href="http://www.mama.cn/z/477/" title="学芭蕾" target="_blank">学芭蕾</a></li>
+		            <li><a href="http://www.mama.cn/z/478/" title="学弹琴" target="_blank">学弹琴</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1512/"  target="_blank"  >宝宝吃奶出汗怎么办</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1487/"  target="_blank"  >吃什么奶水多</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1425/"  target="_blank"  >哺乳期能吃巧克力吗</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1417/"  target="_blank"  >回奶的食物</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1397/"  target="_blank"  >婴儿吃奶后打嗝怎么办</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1372/"  target="_blank"  >断奶要几天</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1365/"  target="_blank"  >宝宝断奶后吃什么</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1539/"  target="_blank"  >宝宝喝什么奶粉好</a></li>
+			</ul>
+			<ul id="tabList5" class="shortTxtLink cl" style="display: none;">
+<li><a href="http://www.mama.cn/z/732/" title="吃什么丰胸" target="_blank">吃什么丰胸</a></li>
+<li><a href="http://www.mama.cn/z/728/" title="肥胖" target="_blank">肥胖</a></li>
+<li><a href="http://www.mama.cn/z/709/" title="跑步减肥" target="_blank">跑步减肥</a></li>
+<li><a href="http://www.mama.cn/z/699/" title="拔罐减肥" target="_blank">拔罐减肥</a></li>
+<li><a href="http://www.mama.cn/z/692/" title="红豆减肥" target="_blank">红豆减肥</a></li>
+<li><a href="http://www.mama.cn/z/691/" title="酸奶减肥" target="_blank">酸奶减肥</a></li>
+<li><a href="http://www.mama.cn/z/688/" title="苹果减肥" target="_blank">苹果减肥</a></li>
+<li><a href="http://www.mama.cn/z/687/" title="水果减肥" target="_blank">水果减肥</a></li>
+<li><a href="http://www.mama.cn/z/686/" title="节食减肥" target="_blank">节食减肥</a></li>
+<li><a href="http://www.mama.cn/z/679/" title="按摩减肥" target="_blank">按摩减肥</a></li>
+<li><a href="http://www.mama.cn/z/678/" title="针灸减肥" target="_blank">针灸减肥</a></li>
+<li><a href="http://www.mama.cn/z/677/" title="减肥产品" target="_blank">减肥产品</a></li>
+<li><a href="http://www.mama.cn/z/676/" title="埋线减肥" target="_blank">埋线减肥</a></li>
+<li><a href="http://www.mama.cn/z/636/" title=" 白头发" target="_blank"> 白头发</a></li>
+<li><a href="http://www.mama.cn/z/616/" title="方脸发型" target="_blank">方脸发型</a></li>
+<li><a href="http://www.mama.cn/z/614/" title="瓜子脸发型" target="_blank">瓜子脸发型</a></li>
+<li><a href="http://www.mama.cn/z/491/" title="橄榄油美容" target="_blank">橄榄油美容</a></li>
+<li><a href="http://www.mama.cn/z/797/" title="经期减肥" target="_blank">经期减肥</a></li>
+<li><a href="http://www.mama.cn/z/795/" title="药水点痣" target="_blank">药水点痣</a></li>
+<li><a href="http://www.mama.cn/z/794/" title="激光点痣" target="_blank">激光点痣</a></li>
+<li><a href="http://www.mama.cn/z/788/" title="胸部按摩" target="_blank">胸部按摩</a></li>
+<li><a href="http://www.mama.cn/z/784/" title="冰点脱毛" target="_blank">冰点脱毛</a></li>
+<li><a href="http://www.mama.cn/z/783/" title="激光脱毛" target="_blank">激光脱毛</a></li>
+<li><a href="http://www.mama.cn/z/782/" title="彩光嫩肤" target="_blank">彩光嫩肤</a></li>
+<li><a href="http://www.mama.cn/z/780/" title="腋下出汗" target="_blank">腋下出汗</a></li>
+<li><a href="http://www.mama.cn/z/777/" title="瘦腿瑜伽" target="_blank">瘦腿瑜伽</a></li>
+<li><a href="http://www.mama.cn/z/776/" title="瑜伽动作" target="_blank">瑜伽动作</a></li>
+<li><a href="http://www.mama.cn/z/752/" title="快速瘦腿" target="_blank">快速瘦腿</a></li>
+<li><a href="http://www.mama.cn/z/751/" title="瘦腿运动" target="_blank">瘦腿运动</a></li>
+<li><a href="http://www.mama.cn/z/750/" title="瘦腿精油" target="_blank">瘦腿精油</a></li>
+<li><a href="http://www.mama.cn/z/749/" title="瘦腿方法" target="_blank">瘦腿方法</a></li>
+<li><a href="http://www.mama.cn/z/748/" title="刮痧瘦腿" target="_blank">刮痧瘦腿</a></li>
+<li><a href="http://www.mama.cn/z/738/" title="中药丰胸" target="_blank">中药丰胸</a></li>
+<li><a href="http://www.mama.cn/z/737/" title="丰胸食物有哪些" target="_blank">丰胸食物有哪些</a></li>
+<li><a href="http://www.mama.cn/z/736/" title="丰胸方法" target="_blank">丰胸方法</a></li>
+<li><a href="http://www.mama.cn/z/735/" title="丰胸精油" target="_blank">丰胸精油</a></li>
+<li><a href="http://www.mama.cn/z/734/" title="丰胸按摩" target="_blank">丰胸按摩</a></li>
+<li><a href="http://www.mama.cn/z/35343/" title="齐刘海短发" target="_blank">齐刘海短发</a></li>
+<li><a href="http://www.mama.cn/z/35342/" title="菱形脸发型" target="_blank">菱形脸发型</a></li>
+<li><a href="http://www.mama.cn/z/35341/" title="国字脸发型" target="_blank">国字脸发型</a></li>
+<li><a href="http://www.mama.cn/z/35340/" title="鹅蛋脸适合什么短发" target="_blank">鹅蛋脸适合什么短发</a></li>
+<li><a href="http://www.mama.cn/z/35339/" title="鹅蛋脸适合什么发型" target="_blank">鹅蛋脸适合什么发型</a></li>
+<li><a href="http://www.mama.cn/z/35338/" title="焗油有什么用" target="_blank">焗油有什么用</a></li>
+<li><a href="http://www.mama.cn/z/35337/" title="长脸适合什么发型" target="_blank">长脸适合什么发型</a></li>
+<li><a href="http://www.mama.cn/z/35334/" title="女生方脸发型" target="_blank">女生方脸发型</a></li>
+<li><a href="http://www.mama.cn/z/35333/" title="圆脸适合的短发" target="_blank">圆脸适合的短发</a></li>
+<li><a href="http://www.mama.cn/z/35329/" title="珍珠粉怎么做面膜" target="_blank">珍珠粉怎么做面膜</a></li>
+<li><a href="http://www.mama.cn/z/35328/" title="面膜粉怎么用" target="_blank">面膜粉怎么用</a></li>
+
+			</ul>
+			<ul id="tabList6" class="shortTxtLink cl" style="display: none;">
+				<li><a href="http://www.mama.cn/ask/jingxuan/1276/"  target="_blank"  >临产前见红怎么办？</a></li>
+		            <li><a href="http://www.mama.cn/ask/jingxuan/1275/"  target="_blank"  >临产前胎动有什么规律？</a></li>
+		            <li><a href="http://www.mama.cn/ask/jingxuan/1274/"  target="_blank"  >临产前吃什么？</a></li>
+		            <li><a href="http://www.mama.cn/ask/jingxuan/1273/"  target="_blank"  >孕妇临产前的征兆是什么？</a></li>
+		            <li><a href="http://www.mama.cn/ask/jingxuan/1299/"  target="_blank"  >宝宝不爱吃饭怎么办？</a></li>
+		            <li><a href="http://www.mama.cn/ask/jingxuan/1297/"  target="_blank"  >胎梦是什么？</a></li>
+		            <li><a href="http://www.mama.cn/ask/jingxuan/1295/"  target="_blank"  >生男孩的科学方法?</a></li>
+		            <li><a href="http://www.mama.cn/ask/jingxuan/1291/"  target="_blank"  >马年宝宝几月出生好？</a></li>
+		            <li><a href="http://www.mama.cn/ask/jingxuan/1290/"  target="_blank"  >生男生女清宫图</a></li>
+		            <li><a href="http://www.mama.cn/ask/jingxuan/1289/"  target="_blank"  >怀孕期间可以同房吗？</a></li>
+		            <li><a href="http://www.mama.cn/ask/jingxuan/1288/"  target="_blank"  >孕妇不能吃哪些食物？</a></li>
+		            <li><a href="http://www.mama.cn/ask/jingxuan/1287/"  target="_blank"  >婴儿疫苗接种时间表？</a></li>
+		            <li><a href="http://www.mama.cn/ask/jingxuan/1286/"  target="_blank"  >产后多久能同房？</a></li>
+		            <li><a href="http://www.mama.cn/ask/jingxuan/1285/"  target="_blank"  >分娩待产包清单有什么？</a></li>
+		            <li><a href="http://www.mama.cn/ask/jingxuan/1281/"  target="_blank"  >验孕棒怎么用？</a></li>
+		            <li><a href="http://www.mama.cn/ask/jingxuan/1280/"  target="_blank"  >验孕棒多久能测出来？</a></li>
+		            <li><a href="http://www.mama.cn/ask/jingxuan/1279/"  target="_blank"  >秋季宝宝拉肚子怎么办？</a></li>
+		            <li><a href="http://www.mama.cn/ask/jingxuan/1278/"  target="_blank"  >秋季宝宝发烧怎么办？</a></li>
+		            <li><a href="http://www.mama.cn/ask/jingxuan/1277/"  target="_blank"  >临产前需要准备什么？</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1457/"  target="_blank"  >小儿多动症的治疗</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1363/"  target="_blank"  >一岁宝宝早教注意什么</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1299/"  target="_blank"  >宝宝不爱吃饭怎么办</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1430/"  target="_blank"  >小儿咳嗽食疗方法有哪些</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1515/"  target="_blank"  >两岁宝宝的教育应该注意什么</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1333/"  target="_blank"  >宝宝大便干燥怎么办</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1325/"  target="_blank"  >婴儿核桃油</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1541/"  target="_blank"  >9个月宝宝拉肚子怎么办</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1535/"  target="_blank"  >幼儿发烧怎么办</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1519/"  target="_blank"  >宝宝发烧物理降温方法</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1499/"  target="_blank"  >乳腺炎发烧怎么办</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1485/"  target="_blank"  >小孩发烧38度怎么办</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1484/"  target="_blank"  >儿童感冒药什么好</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1482/"  target="_blank"  >宝宝中耳炎症状</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1401/"  target="_blank"  >如何给宝宝起名字</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1369/"  target="_blank"  >双胞胎取名字</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1326/"  target="_blank"  >宝宝姓名测分</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1320/"  target="_blank"  >帮宝适纸尿裤怎么样</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1466/"  target="_blank"  >新生儿黄疸偏高怎么办</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1383/"  target="_blank"  >婴儿拉绿屎原因</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1364/"  target="_blank"  >婴儿补钙什么牌子好</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1318/"  target="_blank"  >刚怀孕应该注意什么</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1517/"  target="_blank"  >孕妇嗓子疼怎么办</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1331/"  target="_blank"  >孕妇补钙吃什么钙片</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1462/"  target="_blank"  >孕妇可以用痱子粉吗</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1494/"  target="_blank"  >孕妇补铁的食物有哪些</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1437/"  target="_blank"  >孕妇能吃口香糖吗</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1414/"  target="_blank"  >孕妇吃葡萄好吗</a></li>
+<li><a href="http://www.mama.cn/ask/jingxuan/1404/"  target="_blank"  >刚怀孕会腰酸吗</a></li>
+	         
+			</ul>
+			<ul id="tabList7" class="shortTxtLink cl" style="display: none;">
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16703/" title="hcg血检多久出结果">hcg血检多久出结果</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16704/" title="做流产后多久可以同房">做流产后多久可以同房</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16705/" title="冬天孕妇吃什么好呀">冬天孕妇吃什么好呀</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16706/" title="黄体酮的副作用大吗">黄体酮的副作用大吗</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16707/" title="孕妇肠胃炎怎么办肚子疼">孕妇肠胃炎怎么办肚子疼</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16708/" title="已经怀孕了还会排卵吗">已经怀孕了还会排卵吗</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16709/" title="男士备孕注意事项">男士备孕注意事项</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16710/" title="怀孕饮食注意">怀孕饮食注意</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16711/" title="电脑辐射对孕妇的影响大吗">电脑辐射对孕妇的影响大吗</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16712/" title="葡萄是酸性还是碱性的">葡萄是酸性还是碱性的</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16713/" title="碱性食物吃多久生男孩">碱性食物吃多久生男孩</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16714/" title="2胎36周胎儿发育情况">2胎36周胎儿发育情况</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16715/" title="经期吃芒果的危害">经期吃芒果的危害</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16716/" title="怎样容易受孕成功生女孩">怎样容易受孕成功生女孩</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16717/" title="羊水穿刺有风险吗">羊水穿刺有风险吗</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16718/" title="经期喝中药有影响吗">经期喝中药有影响吗</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16719/" title="孕妇奶粉补钙效果好吗">孕妇奶粉补钙效果好吗</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16720/" title="为什么会痛经">为什么会痛经</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16721/" title="孕妇感冒吃什么药安全">孕妇感冒吃什么药安全</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16722/" title="精子常规检查正常值">精子常规检查正常值</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16723/" title="高血糖糖尿病饮食禁忌">高血糖糖尿病饮食禁忌</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16724/" title="孕妇吃什么水果对胎儿好">孕妇吃什么水果对胎儿好</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16725/" title="怀葡萄胎的症状">怀葡萄胎的症状</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16726/" title="孕晚期饮食禁忌 适宜食物">孕晚期饮食禁忌 适宜食物</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16727/" title="双胞胎起名男孩">双胞胎起名男孩</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16728/" title="怀孕期间吃葡萄有什么好处">怀孕期间吃葡萄有什么好处</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16730/" title="腹股沟淋巴瘤早期症状">腹股沟淋巴瘤早期症状</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16731/" title="孕妇补血的食物有哪些">孕妇补血的食物有哪些</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16732/" title="输卵管炎症b超能检查出来吗">输卵管炎症b超能检查出来吗</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16733/" title="妊娠合并糖尿病的护理">妊娠合并糖尿病的护理</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16734/" title="孕妇肚子硬疼怎么回事">孕妇肚子硬疼怎么回事</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16735/" title="月经期间吃什么好">月经期间吃什么好</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16736/" title="河南晚婚晚育产假规定">河南晚婚晚育产假规定</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16737/" title="高血压糖尿病吃什么水果好">高血压糖尿病吃什么水果好</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16738/" title="唐氏综合症风险率">唐氏综合症风险率</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16739/" title="缓解痛经的方法">缓解痛经的方法</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16740/" title="异位妊娠试纸测得出吗">异位妊娠试纸测得出吗</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16741/" title="血小板低的原因">血小板低的原因</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16742/" title="生男生女测试表2017">生男生女测试表2017</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16743/" title="开始来月经可以同房吗">开始来月经可以同房吗</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16744/" title="孕妇能吃梨吗中期">孕妇能吃梨吗中期</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16745/" title="孕妇可以用的护肤品有哪些">孕妇可以用的护肤品有哪些</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16746/" title="空腹喝豆浆会拉肚子吗">空腹喝豆浆会拉肚子吗</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16747/" title="排卵后同房容易生男孩还是排卵后">排卵后同房容易生男孩还是排卵后</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16748/" title="精子和卵子结合视频">精子和卵子结合视频</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16749/" title="怀孕多久能听到心跳声">怀孕多久能听到心跳声</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16750/" title="抽羊水检查要多少钱">抽羊水检查要多少钱</a></li>
+<li><a target="_blank" href="http://www.mama.cn/z/wiki/16751/" title="生双胞胎是由男还是女决定的">生双胞胎是由男还是女决定的</a></li>
+			</ul>
+		</div>	</div>
+	<!--baike end-->
+<div class="bannerWrap" id="lastcolumn" style="display: none" ></div>
+
+</div>
+<!-- 首页点击页面整体左移的广告处理的标签结束 start -->
+</div>
+</div>
+<!-- 首页点击页面整体左移的广告处理标签结束 end -->
+<!--mama.cn计代码 http://www.mama.cn/  -->
+					<script type="text/javascript">
+					var mamaParams = {'ui':'0','gi':'0','fi':'0','ti':'0','srt':'cms','md':'home','op':'index','ci':'','ai':''};
+					document.write(unescape("%3Cscript src='//statis1.mama.cn/t.php?siteid=57' type='text/javascript'%3E%3C/script%3E"));
+					</script><script type="text/javascript">var OA_source = "0"; var OA_type = "1";var OA_wid = "74"; </script><footer>
+	<div class="footerWrap">
+		<div class="footer">
+			<div class="maps cl">
+				<div class="block blockNo">
+					<h4>关注我们</h4>
+					<ul class="sns">
+						<li class="no1 fixpng"><a  target="_blank" href="http://e.weibo.com/u/2520889334/">新浪微博</a></li>
+						<li class="no2 fixpng"><a target="_blank" href="http://e.t.qq.com/gzmama041028/">腾讯微博</a></li>
+						<li class="no3 fixpng" id="weixin" title="微信公号:mama_cn"><a href="#" title="微信公号:mama_cn">微信公号</a></li>
+					</ul>
+					<p class="mamaWx"><img src="//static.mama.cn/std/images/mama_weixin.png"></p>
+				</div>
+				<div class="block block2">
+					<h4>客户端下载</h4>
+					<ul class="app cl">
+						<li class="no1"><a target="_blank" class="fixpng" href="//app.mama.cn/mamaq.html">妈妈圈</a></li>
+						<li class="no3"><a target="_blank" class="fixpng" href="//app.mama.cn/citylife.html ">同城圈</a></li>
+						<li class="no4"><a target="_blank" class="fixpng" href="//app.mama.cn/gzq.html">广州圈</a></li>
+						<li class="no5"><a class="fixpng" href="//app.mama.cn/pregnancy.html" target="_blank">孕期管家</a></li>
+						<li class="no6"><a target="_blank" class="fixpng" href="//app.mama.cn/zhuangxiu.html">梦想家</a></li>
+					</ul>
+				</div>
+				<div class="block">
+					<h4>关于我们</h4>
+					<ul class="links">
+						<li><a target="_blank" href="http://about.mama.cn/">关于我们</a></li>
+						<li><a target="_blank" href="http://about.mama.cn/about/">公司简介</a></li>
+						<li><a target="_blank" href="http://about.mama.cn/">媒体报道</a></li>
+						<li><a target="_blank" href="http://about.mama.cn/#page3">联系我们</a></li>
+						<li><a target="_blank" href="http://about.mama.cn/joinus/">诚聘英才</a></li>
+					</ul>
+				</div>
+				<div class="block">
+					<h4>友情链接</h4>
+					<ul class="links">
+<li><a target="_blank" href="http://baby.iqiyi.com/">爱奇艺母婴</a></li>
+<li><a target="_blank" href="http://www.mama.cn/ask/jingxuan/">问答精选</a></li>
+<li><a target="_blank" href="http://www.gzmama.com/thread-4635003-1-1.html">广州月子中心</a></li>
+<li><a target="_blank" href="http://www.symama.com/thread-1045785-1-1.html">沈阳月子中心</a></li>
+<li><a target="_blank" href="http://www.cqmama.net/thread-1108581-1-1.html">重庆月子中心</a></li>
+<li><a target="_blank" href="http://www.wxmama.com/thread-512972-1-1.html">无锡月子中心</a></li>
+<li><a target="_blank" href="http://www.bjmama.com/thread-1847208-1-1.html">北京月子中心</a></li>
+<li><a target="_blank" href="http://36kr.com/p/5039645.html">妈妈网</a></li>
+<li><a target="_blank" href="http://www.mama.cn/lib/item/72034.html">妈妈网</a></li>
+<li><a target="_blank" href="http://www.jiemian.com/article/467530.html">妈妈网</a></li>
+<li><a target="_blank" href="http://news.baobei360.com/listed/2017-02-24/10005232.html">妈妈网</a></li>
+<li><a target="_blank" href="http://baobao.sohu.com/20151110/n425880377.shtml">妈妈网</a></li>
+<li><a target="_blank" href="http://stock.eastmoney.com/news/1614,20151109563833539.html">妈妈网</a></li>
+<li><a target="_blank" href="http://news.10jqka.com.cn/20170222/c596563270.shtml">妈妈网</a></li>
+<li><a target="_blank" href="http://pe.pedaily.cn/201511/20151109390158.shtml">妈妈网</a></li>
+<li><a target="_blank" href="http://www.qpgu.com/news/201511/84773.html">妈妈网</a></li>
+<li><a target="_blank" href="http://www.ytpp.com.cn/data/2017/2017-02-23/26589.html">妈妈网</a></li>
+<li><a target="_blank" href="http://www.ocn.com.cn/touzi/201511/zqecs17114222.shtml">妈妈网</a></li>
+<li><a target="_blank" href="https://v.qq.com/x/page/w0175wj738d.html">妈妈网</a></li>
+<li><a target="_blank" href="http://www.ccidnet.com/2015/1202/10060069.shtml">妈妈网</a></li>
+<li><a target="_blank" href="http://baby.qq.com/a/20151109/041986.htm">妈妈网</a></li>
+<li><a target="_blank" href="http://www.askci.com/news/finance/2015/11/09/928523pw9.shtml">妈妈网</a></li>
+<li><a target="_blank" href="http://www.mama.cn/news/art/20160826/779574.html">妈妈网</a></li>
+<li><a target="_blank" href="http://www.qpgu.com/news/201511/84773.html">妈妈网</a></li>
+<li><a target="_blank" href="http://pe.pedaily.cn/201511/20151109390158.shtml">妈妈网</a></li>
+<li><a target="_blank" href="http://finance.qq.com/a/20151109/055819.htm">妈妈网</a></li>
+<li><a target="_blank" href="http://learning.sohu.com/20170224/n481649314.shtml">妈妈网</a></li>
+<li><a target="_blank" href="http://business.sohu.com/20151109/n425729698.shtml">妈妈网</a></li>
+<li><a target="_blank" href="http://baby.sina.com.cn/news/2015-11-11/1104/110470995.shtml">妈妈网</a></li>
+<li><a target="_blank" href="http://www.mama.cn/news/art/20160826/779574.html">妈妈网</a></li>
+<li><a target="_blank" href="http://home.mama.cn/guangzhou/">广州家居装修</a></li>
+<li><a target="_blank" href="http://house.gzmama.com/">广州房产网</a></li>
+<li><a target="_blank" href="http://baby.qq.com/">腾讯育儿</a></li>
+<li><a target="_blank" href="http://www.baimin.com/">百鸣网址大全</a></li>
+<li><a target="_blank" href="http://www.12345good.com/">12345导航</a></li>
+<li><a target="_blank" href="http://www.lvse.com/ertong">绿色网址大全</a></li>
+<li><a target="_blank" href="http://www.meishichina.com/">美食天下</a></li>
+<li><a target="_blank" rel="nofollow" href="http://mp.weixin.qq.com/s?__biz=MzA3MDQzOTQwOQ==&mid=200349562&idx=1&sn=36b291ae9047dd71ab93945169a09391#rd">妈咪贝贝Home</a></li>
+<li><a target="_blank" href="http://www.rouding.com/">肉丁网</a></li>
+<li><a target="_blank" href="http://www.pingguolv.com/">苹果绿养生网</a></li>
+<li><a target="_blank" href="http://ask.yaolan.com/">摇篮问答</a></li>
+<li><a target="_blank" href="http://www.pcbaby.com.cn/">太平洋亲子网</a></li>
+<li><a target="_blank" href="http://www.seedit.com/">播种网</a></li>
+<li><a target="_blank" href="http://www.xuexila.com/">学习啦</a></li>
+<li><a target="_blank" href="http://shop.letv.com/product/lexiaobao.html?cps_id=mama_pc_pcrx_rk_wzltg_lxb_d_hd1223_lxb" rel="nofollow">乐小宝</a></li>
+<li><a target="_blank" href="http://baby.taobao.com/">淘宝亲子</a></li>
+<li><a target="_blank" href="http://www.qinbei.com/">亲贝网</a></li>
+<li><a target="_blank" href="http://www.baobao88.com/">宝宝吧</a></li>
+<li><a target="_blank" href="http://www.9ye.com/">九叶网</a></li>
+<li><a target="_blank" href="http://www.youban.com/">儿童歌曲大全</a></li>
+<li><a target="_blank" href="http://www.a-hospital.com/">医学百科</a></li>
+<li><a target="_blank" href="http://www.xialv.com/">侠侣好玩</a></li>
+<li><a target="_blank" href="http://www.61flash.com/">儿童flash</a></li>
+<li><a target="_blank" href="http://www.cnfla.com/">儿歌大全100首</a></li>
+<li><a target="_blank" href="http://www.izhufu.com">主妇网</a></li>
+<li><a target="_blank" href="http://www.61ertong.com/">儿歌</a></li>
+<li><a target="_blank" href="http://www.beva.com/">贝瓦网</a></li>
+<li><a target="_blank" href="http://www.61baobao.com/">儿歌</a></li>
+<li><a target="_blank" href="http://www.cnkang.com/">中华康网</a></li>
+<li><a target="_blank" href="http://www.baobei360.com">孕婴童</a></li>
+<li><a target="_blank" href="http://www.g12e.com">中小学教育网</a></li>
+<li><a target="_blank" href="http://zuowen.juren.com">作文</a></li>
+<li><a target="_blank" href="http://www.2liang.net/">爱靓网</a></li>
+<li><a target="_blank" href="http://www.cndzys.com/">大众养生网</a></li>
+<li><a target="_blank" href="http://www.j1.com/">网上药店</a></li>
+<li><a target="_blank" href="http://www.kekenet.com/">可可英语</a></li>
+<li><a target="_blank" href="http://www.99zuowen.com/">作文网</a></li>
+<li><a target="_blank" href="http://baike.onlylady.com/">女性百科</a></li>
+<li><a target="_blank" href="http://yao.xywy.com/">寻医问药药品网</a></li>
+<li><a target="_blank" href="http://www.kuaiyong.com/?fr=mm">快用苹果助手</a></li>
+<li><a target="_blank" href="http://www.qqbaobao.com/">亲宝网</a></li>
+<li><a target="_blank" href="http://www.meyol.com/">魅网女性</a></li>
+<li><a target="_blank" href="http://www.gaotie.cn/">高铁网</a></li>
+<li><a target="_blank" href="http://www.icauto.com.cn/">车主指南</a></li>
+<li><a target="_blank" href="http://www.starbaby.cn/">星宝宝育教网</a></li>
+<li><a target="_blank" href="http://esf.sz.fang.com/ ">深圳二手房</a></li>
+<li><a target="_blank" href="http://www.cnwear.com/">时尚服装网</a></li>
+<li><a target="_blank" href="http://www.love616.com/">时尚魔女</a></li>
+<li><a target="_blank" href="http://www.kt250.com/">作文</a></li>
+<li><a target="_blank" href="http://www.taofen8.com/">淘粉吧</a></li>
+<li><a target="_blank" href="http://www.hiyd.com/">健身网</a></li>
+<li><a target="_blank" href="http://www.25pp.com/">苹果游戏</a></li>
+<li><a target="_blank" href="http://www.99wed.com/">结婚网</a></li>
+<li><a target="_blank" href="http://www.appying.com/">APP运营精读</a></li>
+<li><a target="_blank" href="http://news.appying.com/">APP移动运营</a></li>
+<li><a target="_blank" href="http://www.ef43.com.cn/">服装网</a></li>
+<li><a href="http://www.mama.cn/z/wiki/" target="_blank">妈妈网小百科</a></li>
+<li><a href="http://act.mama.cn/subject/init/index/page/id/53.html" target="_blank">妈网奶粉调查</a></li>
+<li><a href="http://act.mama.cn/subject/init/index/page/id/53.html" target="_blank">全球奶粉调查</a></li>
+<li><a href="http://act.mama.cn/subject/init/index/page/id/53.html" target="_blank">奶粉调查</a></li>                    </ul>
+    			</div>
+                <style type="text/css">
+                    .copyright2015{text-align: center;}
+                    .copyright2015 img{vertical-align: top; margin-right: 10px;}
+                    .copyright2015 span{display: inline-block; text-align: left; line-height: 20px; vertical-align: top;}
+                </style>
+                <div class="copyright2015">
+                    <span> 粤ICP备09174648号 增值电信业务经营许可证：<a href="//static.mama.cn/std/images/license_2016.jpg" target="_blank"> 粤B2-20070037 </a>
+                        公安机关备案号：<a href="http://www.beian.gov.cn/portal/registerSystemInfo" target="_blank"> 44010602000103 </a><a href="//static.mama.cn/std/images/medicine_license.jpg" target="_blank"> 互联网药品信息服务资格证书 </a>
+                    <br> COPYRIGHT MaMa.cn All Right Reserved 版权所有：妈妈网 <a href="//www.mama.cn/protect.html" target="_blank"> 版权保护投诉指引 </a><a href="//static.mama.cn/std/attachment/20170120.pdf" target="_blank"> 网络文化经营许可证粤网文[2016]7051-1702号 </a>
+                    </span>
+                    <span>
+                        <a href="http://www.hd315.gov.cn/" target="_blank"><img src="//static.mama.cn/std/images/gongshang.gif" title="经营性网站备案信息" /></a><a href="https://ss.knet.cn/verifyseal.dll?sn=e13061944010041295ouwh000000&amp;ct=df&amp;pa=294005" tabindex="-1" id="urlknet" target="_blank" rel="nofollow"><img src="//static.mama.cn/std/images/kxlogo.gif" title="可信网站" /></a>
+                        <a id='___szfw_logo___' href='https://credit.szfw.org/CX20160810028817100385.html' target='_blank'><img src='//static.mama.cn/std/images/cert.png' border='0' /></a>
+                        <script type='text/javascript'>(function(){document.getElementById('___szfw_logo___').oncontextmenu = function(){return false;}})();</script>
+                    </span>
+                </div>
+			</div>
+		</div>
+	</div>
+</footer>
+<script>
+(function(){
+    var bp = document.createElement('script');
+    bp.src = '//push.zhanzhang.baidu.com/push.js';
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+<!-- AudienceScience Async Data Collection Tag -->
+<script>
+(function() {
+ var csid = "F09828";
+ var bpid = "mama";
+ var e = document.createElement("script");
+ var s = document.getElementsByTagName("script")[0];
+ e.src = "//js.revsci.net/gateway/gw.js?auto=t&csid=" + csid + "&bpid=" + bpid;
+ e.async = true;
+ s.parentNode.insertBefore(e, s);
+})();
+</script>
+<!-- End AudienceScience Data Collection Tag -->
+
+<script type="text/javascript" charset="utf-8" src="//static.mama.cn/std/js/stat.js?22"> </script>
+<script type="text/javascript" charset="utf-8">vlstatInitLE(); </script>
+
+<!-- mama.cn Advertisement system -->
+<script type="text/javascript">
+//var adv_rand = Math.round(new Date().getTime()/1000/60/5);
+var adv_rand = Math.round(new Date().getTime()/1000);
+var adv_js_url = '<script src="//yuansu.bjmama.net/a/spc_74.js?rand='+adv_rand+'" type="text/javascript" charset="utf-8"><\/script>';
+window.document.write(adv_js_url);
+function mama_adv_run() {
+	var zonenames = '';
+		oa_load_count_adv_impr(zonenames);
+}
+setTimeout("mama_adv_run()",3000);
+</script>
+
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Ff2babe867b10ece0ff53079ad6c04981' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script src="//static.mama.cn/std/js/scrollpic.js"></script>
+<script>
+new MaMaScrollPic({
+	id:"scrollList"
+})
+jQuery(".laxiu li").on("mouseover",function(){
+	jQuery(this).addClass("hover").siblings("li").removeClass("hover");
+})
+</script>
+
+<script src="//static.mama.cn/std/js/jquery.lazyload.min.js"></script>
+<script src="//static.mama.cn/mama/js/tlq.js?v=1.9.4"></script>
+<!--mama adv-->
+<div id="leftdl" ></div>
+<div id="rightdl" ></div>
+<div id="siye" ></div>
+<div id="bigfloat" ></div>
+
+<div id="frame_tips" style=""></div>
+
+<div id="mamaindex_tips" ></div>
+<div id="video_index_15" ></div>
+<div id="video_index_30" ></div>
+
+<div id="c" ></div>
+
+<!--new year-->
+<div class="ny-fixbd"></div>
+<!--new year end-->
+</body>
+</html>

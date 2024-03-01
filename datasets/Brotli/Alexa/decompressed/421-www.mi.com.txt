@@ -1,0 +1,979 @@
+
+
+<!DOCTYPE HTML>
+<html xml:lang="en-EN" lang="en-EN">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<title>Mi Global - Mi Global Home</title>
+
+
+    <link rel="canonical" href="http://www.mi.com/en/">
+    <link ref="alternate"  href="http://www.mi.com/index.html"  hreflang="zh-cn" /><link ref="alternate"  href="http://www.mi.com/hk/"  hreflang="zh-hk" /><link ref="alternate"  href="http://www.mi.com/tw/"  hreflang="zh-tw" /><link ref="alternate"  href="http://www.mi.com/sg/"  hreflang="en-sg" /><link ref="alternate"  href="http://www.mi.com/my/"  hreflang="en-my" /><link ref="alternate"  href="http://www.mi.com/ph/"  hreflang="en-ph" /><link ref="alternate"  href="http://www.mi.com/in/"  hreflang="en-in" /><link ref="alternate"  href="http://www.mi.com/id/"  hreflang="id-id" /><link ref="alternate"  href="http://www.mi.com/mena/" /><link ref="alternate"  href="http://br.mi.com"  hreflang="pt-br" /><link ref="alternate"  href="http://www.mi.com/enhttp://www.mi.com/pl/" /><link ref="alternate"  href="http://www.mi.com/ru/" /><link ref="alternate"  href="http://www.mi.com/ua/" /><link ref="alternate"  href="http://www.mi.com/vn" /><link ref="alternate" href="http://www.mi.com/en/"  hreflang="en-en" />
+
+
+
+
+    
+<link href="//i01.appmifile.com/webfile/globalimg/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<link rel="stylesheet" type="text/css" href="http://s01.appmifile.com/css/en_pandora/en.xm.base.css?Bb731757ba89788976afc5a5d36908e39">
+
+<link rel="stylesheet" type="text/css" href="http://s01.appmifile.com/css/en_pandora/en.p.index.css?Be61ec284555620b60cbbcd35524133ef" />
+<script type="text/javascript" src="http://s01.appmifile.com/js/libs/jquery18.js"></script>
+<script type="text/javascript" src="http://s01.appmifile.com/js/en_pandora/xm.base.js?B5241aee196692c695e5870949b6b3979"></script>
+  <script>
+    var saleLimit;
+  </script>
+<script type="text/javascript" src="http://s01.appmifile.com/js/stats/xmsg_ti.js?B0ad6c8b988f76584ec2bfddf3d1a2d97"></script>
+    
+
+</head>
+<body>
+
+  
+
+
+
+<div class="entry-board J_entryBoard">
+  <div class="container">
+    <ul class="external-entries">
+      <li class="entry "><a  href="http://www.mi.com/en/"  target="_self" >International</a></li>
+<li class="entry "><a  href="http://en.miui.com/"  target="_blank" >MIUI</a></li>
+      <li class="entry">
+
+        <div class="region-list" id="">
+          <div class=" region-entry-select J_foldingEntry">
+            <a href="javascript:void(0);" class="J_regionSelect"><span class="select-region" id="J_selectRegin">Select Region</span><i class="iconfont-arrowdown-s-16"></i></a>
+
+            <div class="region-entry-list J_regionList">
+              <ul>
+                <li class="region-entry">
+                  <a href="/user/myaccount" rel="nofollow">Mainlard China</a>
+                </li>
+                <li class="region-entry">
+                  <a href="/comment/myreview" rel="nofollow">Hong Kong</a>
+                </li>
+                <li class="region-entry">
+                  <a href="/user/message/0" rel="nofollow">Taiwan</a>
+                </li>
+                <li class="region-entry">
+                  <a href="/user/message/0" rel="nofollow">Singapore</a>
+                </li>
+                <li class="region-entry">
+                  <a href="/user/message/0" rel="nofollow">Malaysia</a>
+                </li>
+                <li class="region-entry">
+                  <a href="/user/message/0" rel="nofollow">Germary</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+      </div></li>
+    </ul>
+
+        <div class="entry mini-cart-entry J_foldingEntry" id="J_miniCartEntry">
+      <a href="http://global.mi.com/en/cart" rel="nofollow">
+        <i id="J_miniCartIcon" class="iconfont-cartempty-24"></i><span>Cart </span><span class="number ">( <em id="J_miniCartNum">0</em> )</span>
+      </a>
+      <div class="mini-cart-menu" id="J_miniCartMenu">
+        <div>
+          <div class="loading"><div class="loader"></div></div>
+          <div class="empty-cart">Your cart is empty!</div>
+          <div class="filled-cart">
+            <ul class="mini-cart-item-list" id="J_miniCartItemList">
+            </ul>
+            <div class="mini-cart-summary">
+              <div class="mini-cart-summary-info">
+                <div class="summary-total"><span>Subtotal</span> (<em id="J_miniCartItemCount"></em>)</div>
+                <div class="summary-price"><span class="currency">US $ </span><span id="J_miniCartSumPrice"></span></div>
+              </div>
+              <a href="http://global.mi.com/en/cart" class="btn btn-orange btn-block">Checkout</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script id="J_miniCartItemListTemplate" type="text/x-dot-template">
+      {{~it :item:index}}
+      <li>
+
+        {{? item.is_cos }}
+        <div class="mini-cart-item out-stock">
+        {{??}}
+        <div class="mini-cart-item">
+        {{?}}
+
+
+          <a class="item-thumb" href="http://global.mi.com/en/item/{{= item.product_id}}">
+            <img alt="{{= item.product_name}}" src="{{= item.image_url}}?width=60&height=60" width="60" height="60">
+          </a>
+
+          <div class="item-name">
+            <a href="http://global.mi.com/en/item/{{= item.product_id}}">
+              <em>{{= item.showType}}</em> {{= item.product_name}}
+            </a>
+          </div>
+
+          {{? item.is_cos }}
+          <span class="item-price">Out of Stock</span>
+          {{??}}
+          <span class="item-price">US $ {{= item.salePrice}} &times; {{= item.num}}</span>
+          {{?}}
+
+          <a href="#" class="item-remove J_itemRemove" data-gid="{{= item.itemId}}">&times;</a>
+
+        </div>
+
+      </li>
+     {{~}}
+     </script>
+    
+        <div class="account-info ">
+      <div class="sign-entries" id="J_signEntries">
+        <ul>
+          <li class="entry">
+            <a href="http://global.mi.com/en/site/login">Sign in</a>
+          </li>
+          <li class="entry">
+            <a href="https://account.xiaomi.com/pass/register?callback=http%3A%2F%2Fglobal.mi.com%2Fen%2Flogin%2Fcallback%3Ffollowup%3Dhttp%253A%252F%252Fwww.mi.com%252Fen%252Fstore%252F%26sign%3DM2ZmMjQ1YjFiNzk0YjEzYThkM2RhMGFkOTRmMmI5Mzc2NWQyODdlNg%2C%2C&sid=mi_overseaen&_locale=en" target="_blank">Sign up</a>
+          </li>
+        </ul>
+      </div>
+      <div class="signed-user" id="J_signedUser">
+        <div class="entry user-entry J_foldingEntry">
+          <a href="http://global.mi.com/en/user/order"><span class="name" id="J_userName"></span><i class="iconfont-arrowdown-s-16"></i></a>
+          <div class="user-entry-list">
+            <ul>
+              <li class="entry">
+                <a href="https://account.xiaomi.com/" target="_blank">Mi account</a>
+              </li>
+              <li class="entry">
+                <a href="http://global.mi.com/en/site/logout" rel="nofollow">Sign Out</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="entry order-entry"><a href="http://global.mi.com/en/user/order" rel="nofollow">My Orders</a></div>
+        
+      </div>
+    </div>  </div>
+</div>
+
+<nav class="site-navigation">
+  <div id="J_curtain" class="curtain index ">
+    <div class="container">
+            <div class="milogo">
+        <div class="milogo-wrapper">
+          <a href="http://www.mi.com/en/index.html">
+            <img src="//i01.appmifile.com/webfile/globalimg/pandora/mihome.png" />
+          </a>
+        </div>
+        
+      </div>      <div id="J_shopCategories" class="shop-categories">
+        <div class="categories-wrapper">
+                <dl>
+          <dt class="main-category">
+            <a  href="http://www.mi.com/en/store/"  target="_self"  class="tab-store">Store</a>
+          </dt>
+                  </dl>
+                <dl>
+          <dt class="main-category">
+            <a   target="_self"  >Mi Phones</a>
+          </dt>
+                    <dd class="products-exhibit">
+            <div class="container products-exhibit-wrapper">
+                            <div class="main-product">
+                <a class="product-image"  href="http://www.mi.com/en/mix/ "  target="_self" >
+                  <img src="" data-src="//i01.appmifile.com/webfile/globalimg/en/cms/MIX-140.jpg?width=140&height=140" alt="Mi Mix" width="140" height="140">
+                </a>
+                <a class="product-name"  href="http://www.mi.com/en/mix/ "  target="_self" >Mi Mix</a>
+                <span class="product-price"></span>
+                                              </div>
+                            <div class="main-product">
+                <a class="product-image"  href="http://www.mi.com/en/minote2/"  target="_self" >
+                  <img src="" data-src="//c1.mifile.cn/f/i/g/2015/xmNOTE2-140.jpg?width=140&height=140" alt="Mi Note 2" width="140" height="140">
+                </a>
+                <a class="product-name"  href="http://www.mi.com/en/minote2/"  target="_self" >Mi Note 2</a>
+                <span class="product-price"></span>
+                                              </div>
+                            <div class="main-product">
+                <a class="product-image"  href="http://www.mi.com/en/mi5splus/"  target="_self" >
+                  <img src="" data-src="//c1.mifile.cn/f/i/g/2015/xm5S-plus-140.jpg?width=140&height=140" alt="Mi 5s Plus" width="140" height="140">
+                </a>
+                <a class="product-name"  href="http://www.mi.com/en/mi5splus/"  target="_self" >Mi 5s Plus</a>
+                <span class="product-price"></span>
+                                              </div>
+                            <div class="main-product">
+                <a class="product-image"  href="http://www.mi.com/en/mi5s/"  target="_self" >
+                  <img src="" data-src="//c1.mifile.cn/f/i/g/2015/xm5S-140.jpg?width=140&height=140" alt="Mi 5s" width="140" height="140">
+                </a>
+                <a class="product-name"  href="http://www.mi.com/en/mi5s/"  target="_self" >Mi 5s</a>
+                <span class="product-price"></span>
+                                              </div>
+                            <div class="main-product">
+                <a class="product-image"  href="http://www.mi.com/en/mimax/"  target="_self" >
+                  <img src="" data-src="//i01.appmifile.com/webfile/globalimg/en/cms/3F026043-4F98-17A7-DF23-4751EAEE8D07.jpg?width=140&height=140" alt="Mi Max" width="140" height="140">
+                </a>
+                <a class="product-name"  href="http://www.mi.com/en/mimax/"  target="_self" >Mi Max</a>
+                <span class="product-price"></span>
+                                              </div>
+                          </div>
+          </dd>
+                  </dl>
+                <dl>
+          <dt class="main-category">
+            <a   target="_self"  >Redmi Phones</a>
+          </dt>
+                    <dd class="products-exhibit">
+            <div class="container products-exhibit-wrapper">
+                            <div class="main-product">
+                <a class="product-image"  href="http://www.mi.com/en/redmipro/"  target="_self" >
+                  <img src="" data-src="//c1.mifile.cn/f/i/g/2015/hmpro-140.jpg?width=140&height=140" alt="Redmi Pro" width="140" height="140">
+                </a>
+                <a class="product-name"  href="http://www.mi.com/en/redmipro/"  target="_self" >Redmi Pro</a>
+                <span class="product-price"></span>
+                                              </div>
+                            <div class="main-product">
+                <a class="product-image"  href="http://www.mi.com/en/redmi3s/"  target="_self" >
+                  <img src="" data-src="//i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1470212572.79744784.jpg?width=140&height=140" alt="Redmi 3S" width="140" height="140">
+                </a>
+                <a class="product-name"  href="http://www.mi.com/en/redmi3s/"  target="_self" >Redmi 3S</a>
+                <span class="product-price"></span>
+                                              </div>
+                            <div class="main-product">
+                <a class="product-image"  href="http://www.mi.com/en/note3/"  target="_self" >
+                  <img src="" data-src="//i01.appmifile.com/webfile/globalimg/en/cms/BA2CA038-2C8C-CBD5-B610-C9A4BB76217B.jpg?width=140&height=140" alt="Redmi Note 3" width="140" height="140">
+                </a>
+                <a class="product-name"  href="http://www.mi.com/en/note3/"  target="_self" >Redmi Note 3</a>
+                <span class="product-price"></span>
+                                              </div>
+                          </div>
+          </dd>
+                  </dl>
+                <dl>
+          <dt class="main-category">
+            <a   target="_self"  >Mi TV</a>
+          </dt>
+                    <dd class="products-exhibit">
+            <div class="container products-exhibit-wrapper">
+                            <div class="main-product">
+                <a class="product-image"  href="http://www.mi.com/en/mibox/"  target="_self" >
+                  <img src="" data-src="//i01.appmifile.com/webfile/globalimg/en/goods/mibox/mibox-front2.png?width=140&height=140" alt="Mi Box" width="140" height="140">
+                </a>
+                <a class="product-name"  href="http://www.mi.com/en/mibox/"  target="_self" >Mi Box</a>
+                <span class="product-price">US $69</span>
+                                              </div>
+                            <div class="main-product">
+                <a class="product-image"  href="http://www.mi.com/en/mitv4/"  target="_self" >
+                  <img src="" data-src="//i01.appmifile.com/webfile/globalimg/en/cms/6BFB9541-7373-649C-CA09-3E02365DAE22.jpg?width=140&height=140" alt="Mi TV 4 65''" width="140" height="140">
+                </a>
+                <a class="product-name"  href="http://www.mi.com/en/mitv4/"  target="_self" >Mi TV 4 65''</a>
+                <span class="product-price"></span>
+                                              </div>
+                            <div class="main-product">
+                <a class="product-image"  href="http://www.mi.com/en/mitv3s/65/"  target="_self" >
+                  <img src="" data-src="//i01.appmifile.com/webfile/globalimg/en/cms/2E41C18C-0ACA-88D7-84E7-E697EF91D792.jpg?width=140&height=140" alt="Mi TV 3s 65'' Curve" width="140" height="140">
+                </a>
+                <a class="product-name"  href="http://www.mi.com/en/mitv3s/65/"  target="_self" >Mi TV 3s 65'' Curve</a>
+                <span class="product-price"></span>
+                                              </div>
+                            <div class="main-product">
+                <a class="product-image"  href="http://www.mi.com/en/mitv3s/65flat/"  target="_self" >
+                  <img src="" data-src="//i01.appmifile.com/webfile/globalimg/en/cms/3AC32721-0CAC-2386-AA12-8D66BBE5AD81.jpg?width=140&height=140" alt="Mi TV 3s 65''" width="140" height="140">
+                </a>
+                <a class="product-name"  href="http://www.mi.com/en/mitv3s/65flat/"  target="_self" >Mi TV 3s 65''</a>
+                <span class="product-price"></span>
+                                              </div>
+                          </div>
+          </dd>
+                  </dl>
+                <dl>
+          <dt class="main-category">
+            <a   target="_self"  >Smart Devices</a>
+          </dt>
+                    <dd class="products-exhibit">
+            <div class="container products-exhibit-wrapper">
+                            <div class="main-product">
+                <a class="product-image"  href="http://www.mi.com/en/mivr1c/"  target="_self" >
+                  <img src="" data-src="//i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1482933847.7122683.png?width=140&height=140" alt="Mi VR Play" width="140" height="140">
+                </a>
+                <a class="product-name"  href="http://www.mi.com/en/mivr1c/"  target="_self" >Mi VR Play</a>
+                <span class="product-price"></span>
+                                              </div>
+                            <div class="main-product">
+                <a class="product-image"  href="http://www.mi.com/en/smartlamp/"  target="_blank" >
+                  <img src="" data-src="//i1.mifile.cn/a1/pms_1464071511.37197399.jpg?width=140&height=140" alt="Mi LED Desk Lamp" width="140" height="140">
+                </a>
+                <a class="product-name"  href="http://www.mi.com/en/smartlamp/"  target="_blank" >Mi LED Desk Lamp</a>
+                <span class="product-price"></span>
+                                              </div>
+                            <div class="main-product">
+                <a class="product-image"  href="http://www.mi.com/en/miband2/"  target="_self" >
+                  <img src="" data-src="//i01.appmifile.com/webfile/globalimg/en/goods/miband2/miband2_navn.jpg?width=140&height=140" alt="Mi Band 2" width="140" height="140">
+                </a>
+                <a class="product-name"  href="http://www.mi.com/en/miband2/"  target="_self" >Mi Band 2</a>
+                <span class="product-price"></span>
+                                              </div>
+                            <div class="main-product">
+                <a class="product-image"  href="http://www.mi.com/en/scooter/"  target="_self" >
+                  <img src="" data-src="//i01.appmifile.com/webfile/globalimg/en/cms/E4EB1FEE-93F1-86CB-AAD0-F9CC0F57779D.jpg?width=140&height=140" alt="Ninebot  Mini" width="140" height="140">
+                </a>
+                <a class="product-name"  href="http://www.mi.com/en/scooter/"  target="_self" >Ninebot  Mini</a>
+                <span class="product-price"></span>
+                                              </div>
+                            <div class="main-product">
+                <a class="product-image"  href="http://www.mi.com/en/drone/"  target="_self" >
+                  <img src="" data-src="//i1.mifile.cn/a1/pms_1478700937.82131562.jpg?width=140&height=140" alt="Mi Drone" width="140" height="140">
+                </a>
+                <a class="product-name"  href="http://www.mi.com/en/drone/"  target="_self" >Mi Drone</a>
+                <span class="product-price"></span>
+                                              </div>
+                            <div class="main-product">
+                <a class="product-image"  href="http://www.mi.com/en/air2/"  target="_self" >
+                  <img src="" data-src="//i1.mifile.cn/a1/T1zBYgBCWv1RXrhCrK.jpg?width=140&height=140" alt="Mi Air Purifier 2" width="140" height="140">
+                </a>
+                <a class="product-name"  href="http://www.mi.com/en/air2/"  target="_self" >Mi Air Purifier 2</a>
+                <span class="product-price"></span>
+                                              </div>
+                          </div>
+          </dd>
+                  </dl>
+                <dl>
+          <dt class="main-category">
+            <a   target="_self"  >Audio</a>
+          </dt>
+                    <dd class="products-exhibit">
+            <div class="container products-exhibit-wrapper">
+                            <div class="main-product">
+                <a class="product-image"  href="http://www.mi.com/en/miheadphones/"  target="_self" >
+                  <img src="" data-src="//i01.appmifile.com/webfile/globalimg/en/Banner/banner-erji2.jpg?width=140&height=140" alt="Mi Headphones" width="140" height="140">
+                </a>
+                <a class="product-name"  href="http://www.mi.com/en/miheadphones/"  target="_self" >Mi Headphones</a>
+                <span class="product-price">US $129.99</span>
+                                              </div>
+                            <div class="main-product">
+                <a class="product-image"  href="http://www.mi.com/en/headphonespro/"  target="_self" >
+                  <img src="" data-src="//i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/T1q_V_B4Av1RXrhCrK.jpg?width=140&height=140" alt="Mi In-Ear Headphones Pro" width="140" height="140">
+                </a>
+                <a class="product-name"  href="http://www.mi.com/en/headphonespro/"  target="_self" >Mi In-Ear Headphones Pro</a>
+                <span class="product-price">US $25.99</span>
+                                              </div>
+                            <div class="main-product">
+                <a class="product-image"  href="http://www.mi.com/en/speaker/"  target="_self" >
+                  <img src="" data-src="//i1.mifile.cn/a1/T1w1ZjBgKT1RXrhCrK.jpg?width=140&height=140" alt="Mi Bluetooth Speaker" width="140" height="140">
+                </a>
+                <a class="product-name"  href="http://www.mi.com/en/speaker/"  target="_self" >Mi Bluetooth Speaker</a>
+                <span class="product-price">US $49.99</span>
+                                              </div>
+                            <div class="main-product">
+                <a class="product-image"  href="http://www.mi.com/en/headphonesprohd/"  target="_self" >
+                  <img src="" data-src="//i01.appmifile.com/webfile/globalimg/en/cms/4222F4D4-B257-A65A-818C-DC437998A9A0.jpg?width=140&height=140" alt="Mi In-Ear Headphones Pro HD" width="140" height="140">
+                </a>
+                <a class="product-name"  href="http://www.mi.com/en/headphonesprohd/"  target="_self" >Mi In-Ear Headphones Pro HD</a>
+                <span class="product-price">US $39.99</span>
+                                              </div>
+                          </div>
+          </dd>
+                  </dl>
+                <dl>
+          <dt class="main-category">
+            <a  href="http://www.mi.com/en/powerbank/"  target="_self"  >Mi Power Bank</a>
+          </dt>
+                    <dd class="products-exhibit">
+            <div class="container products-exhibit-wrapper">
+                            <div class="main-product">
+                <a class="product-image"  href="http://www.mi.com/en/pb5000/"  target="_self" >
+                  <img src="" data-src="//global01.mifile.cn/webfile/globalimg/sg/product/5000mah_h.jpg?width=140&height=140" alt="5000mAh Mi Power Bank" width="140" height="140">
+                </a>
+                <a class="product-name"  href="http://www.mi.com/en/pb5000/"  target="_self" >5000mAh Mi Power Bank</a>
+                <span class="product-price">US $19.99</span>
+                                              </div>
+                            <div class="main-product">
+                <a class="product-image"  href="http://www.mi.com/en/pb10000pro/"  target="_self" >
+                  <img src="" data-src="//i1.mifile.cn/a1/T1eSZgBjVT1RXrhCrK.jpg?width=140&height=140" alt="10000mAh Mi Power Bank Pro" width="140" height="140">
+                </a>
+                <a class="product-name"  href="http://www.mi.com/en/pb10000pro/"  target="_self" >10000mAh Mi Power Bank Pro</a>
+                <span class="product-price">US $34.99</span>
+                                              </div>
+                            <div class="main-product">
+                <a class="product-image"  href="http://www.mi.com/en/pb10000/"  target="_self" >
+                  <img src="" data-src="//global01.mifile.cn/webfile/globalimg/sg/product/10000mah_h.jpg?width=140&height=140" alt="10000mAh Mi Power Bank" width="140" height="140">
+                </a>
+                <a class="product-name"  href="http://www.mi.com/en/pb10000/"  target="_self" >10000mAh Mi Power Bank</a>
+                <span class="product-price">US $24.99</span>
+                                              </div>
+                            <div class="main-product">
+                <a class="product-image"  href="http://www.mi.com/en/pb16000/"  target="_self" >
+                  <img src="" data-src="//global01.mifile.cn/webfile/globalimg/sg/product/16000mah_h.png?width=140&height=140" alt="16000mAh Mi Power Bank" width="140" height="140">
+                </a>
+                <a class="product-name"  href="http://www.mi.com/en/pb16000/"  target="_self" >16000mAh Mi Power Bank</a>
+                <span class="product-price"></span>
+                                              </div>
+                          </div>
+          </dd>
+                  </dl>
+                <dl>
+          <dt class="main-category">
+            <a  href="http://www.mi.com/en/list/"  target="_self"  >All Products</a>
+          </dt>
+                  </dl>
+                <dl>
+          <dt class="main-category">
+            <a  href="http://www.mi.com/en/supports/"  target="_self"  >Support</a>
+          </dt>
+                  </dl>
+        
+                </div>
+      </div>
+    </div>
+
+    <div id="J_siteSearch" class="site-search-section">
+      <div class="site-search-wrapper">
+        <form id="J_siteSearchForm" class="site-search-form" action="http://global.mi.com/en/search" method="get">
+          <input id="J_siteSearchInput" class="site-search-input" type="text" placeholder="Search Mi.com" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false">
+          <button id="J_siteSearchSubmit" class="site-search-submit" type="submit" aria-label="Submit" disabled><i class="iconfont-search-24"></i></button>
+        </form>
+      </div>
+
+      <div id="J_siteSearchQuickLinks" class="site-search-quicklinks">
+        <h3 class="quicklinks-header">Quick Links</h3>
+
+        <ul class="quicklinks-list">
+                  </ul>
+      </div>
+    </div>
+  </div>
+</nav>
+
+
+<script>
+    Xiaomi.utils.cookie('globalSite', 'en', {domain: '.mi.com', path: '/', expires: 365});
+</script>
+<div class="home main">
+
+	<div class="home-top">
+		<div class="home-top-slides" id="topSlide">
+			      
+      
+    
+        <div class='slider'>
+	<a target="" href="http://www.mi.com/en/smartlamp/">
+		<img class="slide-image" src="http://i01.appmifile.com/webfile/globalimg/en/cms/E75A15C2-93F7-A56E-28D7-6C0A6807CD1C.jpg" alt="Mi LED Desk Lamp" />
+	</a>
+	<div>
+		<div class="txt c-black" data-color="c-black" style="top: 50%; margin-top: -148px; left: 50%; margin-left: -513px;" data-layout="layout_1">
+      <h3 class="title" style="font-size: 60px;">Mi LED Desk Lamp</h3>
+              <p class="descp">Flicker-free lighting</br>
+Intuitive brightness and color temperature adjustment</br>
+4 different lighting modes</br>
+Durable, minimalist design</br></p>
+  			<p class="price follow">
+  				<span class="dollar">$</span> 49.99  			</p>
+      			        <a target="" href="http://www.mi.com/en/smartlamp/" class="btn c-orange">Buy Now</a>
+      		</div>
+	</div>
+</div>
+        
+      
+    
+        <div class='slider'>
+	<a target="" href="http://www.mi.com/en/mivr1c/">
+		<img class="slide-image" src="http://i01.appmifile.com/webfile/globalimg/en/cms/B3BFDBDC-0581-250A-2AC4-CE5A8E3DE7A3.jpg" alt="Mi VR Play" />
+	</a>
+	<div>
+		<div class="txt c-white" data-color="c-white" style="top: 50%; margin-top: -148px; left: 50%; margin-left: -513px;" data-layout="layout_1">
+      <h3 class="title" style="font-size: 48px;">Mi VR Play  <br/><small>Virtually anything is possible</small></h3>
+              <p class="descp">Google Cardboard compatible</br>
+Take panoramic VR photos</br>
+Fits 4.7”-5.7” phones</br></p>
+  			<p class="price follow">
+  				<span class="dollar">$</span> 14.99  			</p>
+      			        <a target="" href="http://www.mi.com/en/mivr1c/" class="btn c-orange">Buy Now</a>
+      		</div>
+	</div>
+</div>
+        
+      
+      
+    
+        <div class='slider'>
+	<a target="" href="http://www.mi.com/en/headphonesprohd/">
+		<img class="slide-image" src="http://i01.appmifile.com/webfile/globalimg/en/cms/9DDF209C-C48E-EBE0-B1B8-A14ADED15901.jpg" alt="earphone Pro HD" />
+	</a>
+	<div>
+		<div class="txt c-white" data-color="c-white" style="top: 50%; margin-top: -148px; left: 50%; margin-left: -513px;" data-layout="layout_1">
+      <h3 class="title" style="font-size: 30px;">Mi In-Ear Headphones Pro HD</h3>
+              <p class="descp">Dual dynamic + balanced armature drivers<br> 
+Natural sound equalizer<br> 
+Graphene diaphragm, 25-step process<br> 
+Full metal wired control, stretchable matte wires<br> </p>
+  			<p class="price follow">
+  				<span class="dollar">$</span> 39.99  			</p>
+      			        <a target="" href="http://www.mi.com/en/headphonesprohd/" class="btn c-orange">Buy Now</a>
+      		</div>
+	</div>
+</div>
+        
+      
+    
+        <div class='slider'>
+	<a target="" href="http://www.mi.com/en/mibox/">
+		<img class="slide-image" src="http://i01.appmifile.com/webfile/globalimg/en/cms/A4799BA3-65CF-D1C1-6865-2A137C3565FE.jpg" alt="" />
+	</a>
+	<div>
+		<div class="txt c-black" data-color="c-black" style="top: 50%; margin-top: -148px; left: 50%; margin-left: -513px;" data-layout="layout_1">
+      <h3 class="title" style="font-size: 60px;">Mi Box</h3>
+              <p class="descp">4K Android TV set-top box</br>
+HDR video support</br>
+Bluetooth voice remote included</br>
+</br>
+</p>
+  			<p class="price follow">
+  				<span class="dollar">$</span> 69  			</p>
+      			        <a target="" href="http://www.mi.com/en/mibox/" class="btn c-orange">Buy Now</a>
+      		</div>
+	</div>
+</div>
+        
+      
+      
+      
+    
+        <div class='slider'>
+	<a target="" href="http://www.mi.com/en/pb10000pro/">
+		<img class="slide-image" src="http://i01.appmifile.com/webfile/globalimg/sg/EN/3840_pb_pro.jpg" alt="10000mAh Mi Power Bank Pro" />
+	</a>
+	<div>
+		<div class="txt c-black" data-color="c-black" style="top: 50%; margin-top: -148px; left: 50%; margin-left: -513px;" data-layout="layout_1">
+      <h3 class="title" style="font-size: 35px;">10000mAh Mi Power Bank Pro</h3>
+              <p class="descp">Type-C charging</br> 
+High density batteries</br>  
+Two-way fast charging</br> 
+12.58mm thin</br> </p>
+  			<p class="price follow">
+  				<span class="dollar">$</span> 34.99  			</p>
+      			        <a target="" href="http://www.mi.com/en/pb10000pro/" class="btn c-orange">Buy Now</a>
+      		</div>
+	</div>
+</div>
+        
+      
+      
+      
+      
+      
+		</div>
+
+		<div class="home-promo">
+			<ul class="home-promo-list full-img">
+            <li>
+          <a target="" href="http://www.mi.com/en/speaker/" class="item">
+            <img src="http://i01.appmifile.com/webfile/globalimg/sg/EN/398x230_bt_speaker.jpg?width=398&height=230&160516" alt="">
+          </a>
+         </li>
+        
+            <li>
+          <a target="" href="http://www.mi.com/en/mi5" class="item">
+            <img src="http://i01.appmifile.com/webfile/globalimg/en/cms/9021D09B-7B3D-2CCF-5A3E-4759280C0F01.jpg?width=398&height=230&160516" alt="">
+          </a>
+         </li>
+        
+            <li>
+          <a target="" href="http://www.mi.com/en/mibookair/ " class="item">
+            <img src="http://i01.appmifile.com/webfile/globalimg/en/cms/92FF9A51-E4E6-5200-6B30-EE24A3652F04.jpg?width=398&height=230&160516" alt="">
+          </a>
+         </li>
+        
+</ul>		</div>
+	</div>
+
+	<div class="home-middle">
+		
+				<div class="home-video home-sec">
+			<div class="sec-hd">
+				<h2 class="sec-title">Videos</h2>
+			</div>
+			<div class="sec-bd">
+				<ul class="video-list">
+      <li>
+        <a class="c-wrapper full-img J_video" href="//www.youtube.com/embed/5Bn-TWeihTQ" data-video="//www.youtube.com/embed/5Bn-TWeihTQ" data-video-title="">
+          <span class="icon-play"></span>
+          <span class="descp">Mi CES 2017</span>
+          <img src="http://i01.appmifile.com/webfile/globalimg/en/cms/24A053EA-54EB-931A-6AF2-E9D099CBD72F.jpg?width=398&height=320" alt="">
+        </a>
+      </li>
+       
+      <li>
+        <a class="c-wrapper full-img J_video" href="//www.youtube.com/embed/4zy55kjjziQ" data-video="//www.youtube.com/embed/4zy55kjjziQ" data-video-title="">
+          <span class="icon-play"></span>
+          <span class="descp"></span>
+          <img src="http://i01.appmifile.com/webfile/globalimg/en/cms/D9073D5A-E443-89E5-78F7-0951EBA82A06.jpg?width=398&height=320" alt="">
+        </a>
+      </li>
+       
+      <li>
+        <a class="c-wrapper full-img J_video" href="//www.youtube.com/embed/S85ZrMIvnu0" data-video="//www.youtube.com/embed/S85ZrMIvnu0" data-video-title="">
+          <span class="icon-play"></span>
+          <span class="descp">Redmi Note 3 - Rise to power</span>
+          <img src="http://i01.appmifile.com/webfile/globalimg/sg/EN/redmi.jpg?width=398&height=320" alt="">
+        </a>
+      </li>
+       
+</ul>			</div>
+		</div>
+
+
+	</div>
+</div>
+<div id="home_videowrap" class="modal modal-video fade">
+	<div class="modal-header">
+		<a type="button" data-dismiss="modal" aria-hidden="true" class="modalclose iconfont">&#xe92b;</a>
+		<h3 class="title">&nbsp;</h3>
+	</div>
+	<div class="modal-body"></div>
+</div>
+<div id="slideVideoPop" class="modal modal-slide-video fade">
+	<a type="button" data-dismiss="modal" aria-hidden="true" class="modalclose iconfont">&#xe92b;</a>
+	<div class="modal-body"></div>
+	<img src="//i01.appmifile.com/webfile/globalimg/hd/2017011301/c6-video-bg.jpg" class="c6-bg J_slidePopImg" alt="">
+</div>
+
+<script id="miRecommendTemplate" type="text/x-dot-template">
+<div class="container">
+  <div class="xm-recommend row">
+    <ul class="brick-list" data-carousel-list="true">
+      {{~it.r :value:index}}
+      <li class="brick-item brick-item-m span5 J_xm-recommend-list {{? it.isBuy}}with-add-cart{{?}}" data-gid="{{=value.g}}">
+        {{? value.tag }}
+        <div class="tags">
+          {{? value.tag[1] !== '' }}
+          <div class="tag tag-saleoff">{{=value.tag[1]}}</div>
+          {{?? (value.tag[3] !== '0') && (value.tag[3] !== '') }}
+          <div class="tag tag-shipping">Free Shipping</div>
+          {{?? value.tag[4] === true }}
+          <div class="tag tag-gift">Free Gift</div>
+          {{?? value.tag[2] === true }}
+          <div class="tag tag-new">New</div>
+          {{?? value.tag[5] === true }}
+          <div class="tag tag-deal">Deal</div>
+          {{?}}
+        </div>
+        {{?}}
+        {{? it.isBuy}}
+        <div class="addcart">
+          <a class="btn-buy J_xm-recommend-btn" href="{{=it.global.orderSite}}/cart/add/{{=value.g}}" data-stat-text="{{=value.n}}" data-stat-method="{{=it.v}}_{{=value.a}}" data-stat-index={{=index}} data-gid={{=value.g}}>
+          <i class="iconfont-cartadd-24"></i>
+          <span>Add to cart</span>
+          </a>
+        </div>
+        {{?}}
+        <div class="img full-img">
+          <a href="{{=it.global.orderSite}}/item/{{=value.c}}" data-stat-text="{{=value.n}}" data-stat-method="{{=it.v}}_{{=value.a}}" data-stat-index={{=index}}>
+            <img src="{{=value.i}}?width=200&height=200" alt="{{=value.n}}">
+          </a>
+        </div>
+        <div class="txt">
+          <h4 class="title">
+            <a href="{{=it.global.orderSite}}/item/{{=value.c}}" data-stat-text="{{=value.n}}" data-stat-method="{{=it.v}}_{{=value.a}}" data-stat-index={{=index}}>{{=value.n}}</a>
+          </h4>
+          <p class="price">
+            US $ {{=value.p}}
+            {{? value.pb > value.p }}
+            <del>US $ {{=value.pb}}</del>
+            {{?}}
+          </p>
+        </div>
+      </li>
+      {{~}}
+    </ul>
+  </div>
+</div>
+</script>
+
+<div class="footer">
+  
+        <div class="footer-nav">
+      <div class="container">
+        <div class="row">
+
+          <dl class="span4">
+            <dt>SHOP AND LEARN</dt>
+            <dd><a  href="http://www.mi.com/en/mibox/"  target="_self" >Mi Box</a></dd><dd><a  href="http://www.mi.com/en/miband2/"  target="_self" >Mi Band 2</a></dd><dd><a  href="http://www.mi.com/en/pb10000pro/"  target="_self" >Mi Power Bank Pro 10000mAh </a></dd>          </dl>
+          <dl class="span3">
+            <dt>
+              <a href="http://www.mi.com/en/supports/">SUPPORT</a>
+            </dt>
+            <dd><a  href="http://www.mi.com/en/support/"  target="_self" >Warranty</a></dd><dd><a  href="http://www.mi.com/en/support/shipping/"  target="_self" >Shipping</a></dd><dd><a  href="http://www.mi.com/en/support/payment/"  target="_self" >Payment</a></dd><dd><a  href="http://www.mi.com/en/support/shopping/"  target="_self" >Shopping FAQ</a></dd><dd><a  href="http://www.mi.com/verify"  target="_blank" >Product Authentication</a></dd>          </dl>
+          <dl class="span3">
+            <dt>ABOUT US</dt>
+            <dd><a  href="http://www.mi.com/en/about/"  target="_self" >Xiaomi</a></dd><dd><a  href="http://www.mi.com/en/about/mediakit/"  target="_self" >Press & Media</a></dd><dd><a  href="http://www.mi.com/en/about/agreement/"  target="_self" >User Agreement</a></dd><dd><a  href="http://www.mi.com/en/about/privacy/"  target="_self" >Privacy Policy</a></dd>          </dl>
+          <dl class="span3">
+            <dt>CONTACT US</dt>
+            <dd><a  href="http://www.mi.com/en/support/contact/"  target="_self" >Email</a></dd><dd><a  href="https://www.facebook.com/XiaomiUSA/"  target="_blank" >Facebook</a></dd>          </dl>
+          <dl class="span3">
+            <dt>
+              FOLLOW MI
+            </dt>
+            <dd>
+              <a href="https://twitter.com/Xiaomi" title="Twitter" target="_blank" class="twitter-follow" rel="nofollow"><i class="iconfont-twitter-18"></i>&nbsp;Twitter</a>
+            </dd>
+            <dd>
+              <a href="https://plus.google.com/+MiGlobal/posts" title="Google+" target="_blank" class="instagram-follow" rel="nofollow"><i class="iconfont-google-18"></i>&nbsp;Google+</a>
+            </dd>
+            <dd>
+              <a href="https://www.facebook.com/xiaomiglobal" title="Facebook" target="_blank" class="facebook-follow" rel="nofollow"><i class="iconfont-facebook-18"></i>&nbsp;Facebook</a>
+            </dd>
+          </dl>
+          <div class="span3">
+            <a href="http://global.mi.com/en/cs/chat" class="chat-btn J_chatBtn_en">CHAT SUPPORT</a>
+          </div>
+
+          <!-- <div class="span7">
+          <div class="customer-relationship">
+            <div class="introduction">
+              <h3>Follow Mi</h3>
+              <p>We want to hear from you!</p>
+            </div>
+
+            <div class="customer-reaction">
+              <div class="social-media">
+                <a href="https://twitter.com/Xiaomi" title="Twitter" target="_blank" class="twitter-follow" rel="nofollow"><i class="iconfont-twitter-18"></i></a>
+                <a href="https://plus.google.com/+MiGlobal/posts" title="Google+" target="_blank" class="instagram-follow" rel="nofollow"><i class="iconfont-google-18"></i></a>
+                <a href="https://www.facebook.com/xiaomiglobal" title="Facebook" target="_blank" class="facebook-follow" rel="nofollow"><i class="iconfont-facebook-18"></i></a>
+              </div>
+            </div>
+          </div>
+        </div> -->
+
+
+        </div>
+      </div>
+    </div>
+  
+
+  <div class="footer-bottom">
+    <div class="container">
+      <div class="copyright">
+        Copyright © 2010 - 2016 <a href='http://www.mi.com/en/store/'>Xiaomi</a>. All Rights Reserved      </div>
+
+    </div>
+  </div>
+</div>
+<div class="modal fade xm-international modal-sold-tips" id="xmInternational">
+  <a type="button" data-dismiss="modal" aria-hidden="true" class="modalclose iconfont">&#xe92b;</a>
+
+  <div class="modal-body">
+    <h3>Sorry</h3>
+    <p class="tips">Not available in this area.</p>
+  </div>
+</div>
+<!-- Damiao Queue modal -->
+<div class="modal hide fade xm-dm-queue" id="xmDmQueue">
+  <a type="button" data-dismiss="modal" aria-hidden="true" class="modalclose iconfont">&#xe92b;</a>
+  <div class="modal-body">
+    <h3>You are in line...</h3>
+    <p class="queue-tip">There are too many people rushing in at the moment, please stay with us.</p>
+    <div class="queue-animate">
+      <div id="mituWalking" class="mitu-walk"></div>
+      <div class="animate-mask animate-mask-left"></div>
+      <div class="animate-mask animate-mask-right"></div>
+    </div>
+  </div>
+</div>
+<!-- Damiao Error modal -->
+<div id="xmDmError" class="modal hide fade xm-dm-error">
+  <a type="button" data-dismiss="modal" aria-hidden="true" class="modalclose iconfont">&#xe92b;</a>
+  <div class="modal-body">
+    <h3>Oh No! We are stuck!</h3>
+    <p class="error-tip">There are too many people flooding in right now, please try again soon.</p>
+    <p>
+      <a class="btn btn-orange" id="xmDmReload">Retry</a>
+    </p>
+  </div>
+</div>
+
+
+<script type="text/javascript">
+  var GLOBAL_CONFIG = {
+    wwwSite: 'http://www.mi.com/en',
+    damiaoSite: "",
+    orderSite: "http://global.mi.com/en",
+    httpsOrderSite: "http://global.mi.com/en",
+    protocol: "",
+    damiaoGoodsId:[],
+    prsSite: "",
+    recSite: "http://rec.store.mi.com/",
+    appLocal: {
+      name: "en",
+      id: "",
+      xmst: "110"
+    }
+
+    , globalLocales:
+  {
+    'us'
+  :
+    'United States'
+  }
+  ,
+  globalLocalsUrl: {
+    'Mainland China'
+  :
+    'http://www.mi.com/index.html',
+      'Hong Kong'
+  :
+    'http://www.mi.com/hk/',
+      'Taiwan'
+  :
+    'http://www.mi.com/tw/',
+      'Singapore'
+  :
+    'http://www.mi.com/sg/',
+      'Malaysia'
+  :
+    'http://www.mi.com/my/',
+      'Philippines'
+  :
+    'http://www.mi.com/ph/',
+      'India'
+  :
+    'http://www.mi.com/in/',
+      'Indonesia'
+  :
+    'http://www.mi.com/id/',
+      'Mena'
+  :
+    'http://www.mi.com/mena/',
+
+  }
+  ,
+  separateSites: {
+    "cn":{title:"Mainland China", link:"http://www.mi.com/index.html"},"hk":{title:"Hong Kong", link:"http://www.mi.com/hk/"},"tw":{title:"Taiwan", link:"http://www.mi.com/tw/"},"sg":{title:"Singapore", link:"http://www.mi.com/sg/"},"my":{title:"Malaysia", link:"http://www.mi.com/my/"},"ph":{title:"Philippines ", link:"http://www.mi.com/ph/"},"in":{title:"India", link:"http://www.mi.com/in/"},"id":{title:"Indonesia", link:"http://www.mi.com/id/"},"mena":{title:"", link:"http://www.mi.com/mena/"},"br":{title:"", link:"http://br.mi.com"},"pl":{title:"Poland", link:"http://www.mi.com/pl/"},"ru":{title:"Russia", link:"http://www.mi.com/ru/"},"ua":{title:"Ukraine", link:"http://www.mi.com/ua/"},"vn":{title:"Vietnam", link:"http://www.mi.com/vn"}  }
+  }
+  ;
+
+  xiaomi = new Xiaomi(GLOBAL_CONFIG);
+  xiaomi.logonUser();
+    xiaomi.loadMiniCart();
+  
+  Xiaomi.userCountry.init();
+
+  $('.J_foldingEntry').click(function() {
+    en_chatBtn();
+  })
+  function en_chatBtn() {
+    if ($("#J_selectRegin").attr('data-region') == 'us') {
+      $(".J_chatBtn_en").css('display', 'inline-block');
+    } else {
+      $(".J_chatBtn_en").css('display', 'none');
+    }
+  }
+  en_chatBtn();
+
+
+  // Xiaomi.search.init();
+  </script>
+
+<script type="text/javascript" src="http://s01.appmifile.com/js/en_pandora/p.index.js?Ba781ae0f9c161b5130ef35125f6976a3"></script>
+<script>
+  var pageController = 'Static';
+  var pageAction = 'Home';
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f, b, e, v, n, t, s) {
+    if (f.fbq)return;
+    n = f.fbq = function() {
+      n.callMethod ?
+        n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+    };
+    if (!f._fbq)f._fbq = n;
+    n.push = n;
+    n.loaded = !0;
+    n.version = '2.0';
+    n.queue = [];
+    t = b.createElement(e);
+    t.async = !0;
+    t.src = v;
+    s = b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t, s)
+  }(window,
+    document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+
+  fbq('init', '1174139212665166');
+  fbq('track', "PageView");
+  switch (pageController) {
+    case 'Static' || 'Commodity' || 'Accessories':
+      fbq('track', 'ViewContent');
+      break;
+    case 'Cart':
+      fbq('track', 'AddToCart');
+      break;
+    case 'Buy':
+      if (pageAction == 'checkout') {
+        fbq('track', 'InitiateCheckout');
+      } else if (pageAction == 'confirm') {
+        fbq('track', 'AddPaymentInfo');
+      } else if (pageAction == 'afterpaypal') {
+        if (purchaseInfo) {
+          fbq('track', 'Purchase', {value: purchaseInfo.value, currency: purchaseInfo.currency});
+        }
+      }
+      break;
+    default:
+      break;
+  }
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1174139212665166&ev=PageView&noscript=1"></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+<!-- Google Tag Manager -->
+<noscript>
+  <iframe src="//www.googletagmanager.com/ns.html?id=GTM-T57KN4D" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>(function(w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({
+      'gtm.start': new Date().getTime(), event: 'gtm.' + 'js'
+    });
+    var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+    j.async = true;
+    j.src =
+      '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-T57KN4D');</script>
+<!-- End Google Tag Manager -->
+<script type="text/javascript">
+  //Google统计
+  (function(i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r;
+    i[r] = i[r] || function() {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date();
+    a = s.createElement(o),
+      m = s.getElementsByTagName(o)[0];
+    a.async = 1;
+    a.src = g;
+    m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+  ga('create', 'UA-51415204-9', 'mi.com');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+  var _msq = _msq || [];
+  _msq.push(['setDomainId', 110]);
+  _msq.push(['trackPageView']);
+  (function() {
+    var ms = document.createElement('script');
+    ms.type = 'text/javascript';
+    ms.async = true;
+    ms.src = 'http://s01.appmifile.com/stat/xmst-sg.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ms, s);
+  })();
+</script>
+

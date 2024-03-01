@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+            <title>哔哩哔哩 (゜-゜)つロ 干杯~-bilibili</title>
+            <meta name="description" content="bilibili是国内知名的视频弹幕网站，这里有最及时的动漫新番，最棒的ACG氛围，最有创意的Up主。大家可以在这里找到许多欢乐。">
+                <meta name="keywords" content="B站,弹幕,字幕,AMV,MAD,MTV,ANIME,动漫,动漫音乐,游戏,游戏解说,ACG,galgame,动画,番组,新番,初音,洛天依,vocaloid">
+                    <meta name="renderer" content="webkit">
+                        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                            <link rel="shortcut icon" href="//static.hdslb.com/images/favicon.ico">
+                                <link rel="search" type="application/opensearchdescription+xml" href="//static.hdslb.com/opensearch.xml" title="哔哩哔哩" />
+
+                                <link rel="stylesheet" href="//static.hdslb.com/images/jquery-ui/custom/jquery-ui.css" type="text/css">
+                                    <link rel="stylesheet" href="//static.hdslb.com/css/core-v5/page-core.css" type="text/css" />
+
+                                    <script type="text/javascript" src="//static.hdslb.com/js/jquery.min.js"></script>
+                                    <script type="text/javascript" src="//static.hdslb.com/js/jquery-ui.min.js"></script>
+                                    <script type="text/javascript" src="//static.hdslb.com/js/core-v5/base.core.js"></script>
+                                    <script type="text/javascript" src="//s2.hdslb.com/bfs/cm/st/seed.js"></script>
+<meta name="fragment" content="!">
+<link rel="stylesheet" type="text/css" href="//static.hdslb.com/css/index.css"  />
+<script type="text/javascript" src="//static.hdslb.com/js/core-v5/page.core.js"></script>
+<script type="text/javascript" src="//static.hdslb.com/js/core-v5/page.index.js"></script>
+<style> body { min-height: 1500px; } </style>
+
+</head>
+<body>
+   <!-- 2017-05-09 21:11:31 -->    <script type="text/javascript">biliAdjust();
+            $(function () {
+                biliAdjust(true);
+                $(window).resize(biliAdjust);
+            });</script>
+
+    <div class="float_window"><div class="close"></div><div id="float_window"></div></div>
+
+    <div class="z_top_container">
+        <div class="z_top b-header-blur">
+            <div class="b-header-mask-wrp"><div class="b-header-mask-bg"></div><div class="b-header-mask"></div></div>
+            <div class="z_header">
+                <div class="z_top_nav">
+                    <!--<div id="httpsNotWorkTips">
+    <text style="font-family: 'PingFang SC'; font-size: 16px; font-variant-ligatures: normal; orphans: 2; widows: 2; color: red;">访问异常？</text><span style="font-family: 'PingFang SC'; font-size: medium; font-variant-ligatures: normal; orphans: 2; widows: 2;">&nbsp;</span><a style="font-family: 'PingFang SC'; font-size: medium; font-variant-ligatures: normal; orphans: 2; widows: 2; color: blue;" target="_blank" href="http://www.bilibili.com/html/diagnostics.html">【点击这里】</a><span style="font-family: 'PingFang SC'; font-size: medium; font-variant-ligatures: normal; orphans: 2; widows: 2;">&nbsp;</span><text style="font-family: 'PingFang SC'; font-size: 16px; font-variant-ligatures: normal; orphans: 2; widows: 2; color: red;">请将的诊断结果与系统环境、正在使用的浏览器信息发送给我们，邮箱：bug@bilibili.com，或进入</text><span style="font-family: 'PingFang SC'; font-size: medium; font-variant-ligatures: normal; orphans: 2; widows: 2;">&nbsp;</span><a style="font-family: 'PingFang SC'; font-size: medium; font-variant-ligatures: normal; orphans: 2; widows: 2; color: blue;" target="_blank" href="http://link.acg.tv">【用户反馈论坛】</a><span style="font-family: 'PingFang SC'; font-size: medium; font-variant-ligatures: normal; orphans: 2; widows: 2;">&nbsp;</span><text style="font-family: 'PingFang SC'; font-size: 16px; font-variant-ligatures: normal; orphans: 2; widows: 2; color: red;">反映。</text><span style=" font-size:12pt;font-family:DengXian ;;;"><br></span>
+</div>-->
+<ul>
+	<li class="home">
+		<a class="i-link" href="//www.bilibili.com/index.html"><span>主站</span></a>
+	</li>
+		<li class="hbili"><a class="i-link" href="http://h.bilibili.com/" title="画友">画友</a></li>
+	<li class="b-gc" hasframe="true">
+		<a class="i-link" href="//game.bilibili.com/" title="游戏中心">游戏中心</a>
+		<div class="i_div game" data-frame="game"></div>
+	</li>
+		<li class="live" hasframe="true">
+		<a class="i-link" target="_blank" href="//live.bilibili.com" title="直播">直播</a>
+		<div class="i_div stream" data-frame="stream"></div>
+	</li>
+	<li class="b-zb"><a class="i-link" target="_blank" href="//bmall.bilibili.com/#!/" title="周边">周边</a></li>
+	<li style='display:none' class="b-ml"><a class="i-link" target="_blank" href="//bml.bilibili.com/index2016/?nav" title="BML">BML</a></li>
+	<li class="shouji">
+		<a class="i-link" target="_blank" href="//app.bilibili.com" title="移动端">移动端</a>
+		<div class="mobile-p-box"><div class="mobile-p-qrcode"></div></div>
+	</li>
+</ul>
+                </div>
+                <div class="uns_box">
+	<ul class="menu">
+		<li id="i_menu_profile_btn" guest="no" class="u-i i_user" i_menu="#i_menu_profile">
+			<a class="i-link" href="//space.bilibili.com/" target="_blank">
+				<img class="i_face">
+			</a>
+			<div id="i_menu_profile" class="i_menu">
+				<div class="i_menu_bg_t"></div>
+				<div class="info clearfix"><div class="uname"></div><div class="coin"></div></div>
+				<div class="member-menu-wrp">
+					<ul class="member-menu">
+						<li><a href="https://account.bilibili.com/site/home" target="_blank" class="account"><i class="b-icon b-icon-p-account"></i>个人中心</a></li>
+						<li><a href="//member.bilibili.com/v/#/article" target="_blank" class="member"><i class="b-icon b-icon-p-member"></i>投稿管理</a></li>
+						<li><a href="https://pay.bilibili.com/" target="_blank" class="wallet"><i class="b-icon b-icon-p-wallet"></i>B币钱包</a></li>
+						<li><a href="//live.bilibili.com/i" target="_blank" class="live"><i class="b-icon b-icon-p-live"></i>直播中心</a></li>
+					</ul>
+				</div>
+				<div class="member-bottom">
+					<a class="logout" href="https://account.bilibili.com/login?act=exit">退出</a>
+				</div>
+			</div>
+		</li>
+		<li id="i_menu_become_vip" guest="no" i_menu="become_vip" class="u-i">
+			<a class="i-link" href="//big.bilibili.com/site/big.html" target="_blank">成为大会员</a>
+		</li>
+		<li id="i_menu_community_msg_btn" guest="no" i_menu="community_msg" class="u-i">
+            <a class="i-link" href="//message.bilibili.com" target="_blank">消息</a>
+        </li>
+		<li id="i_menu_msg_btn" guest="no" i_menu="#dyn_wnd" class="u-i">
+			<div class="num" id="dynamic_num_total"></div>
+			<a class="i-link" href="//www.bilibili.com/account/dynamic" target="_blank">动态</a>
+		</li>
+		<li id="i_menu_fav_btn" guest="no" i_menu="#i_menu_fav" class="u-i">
+			<a class="i-link" href="//space.bilibili.com/#!/favlist" target="_blank">收藏夹</a>
+		</li>
+		<li id="i_menu_login_reg" guest="yes" class="u-i">
+			<a id="i_menu_login_btn" class="i-link login" href="https://account.bilibili.com/login"><span>登录</span></a><i class="s-line"></i><a id="i_menu_register_btn" class="i-link reg" href="https://www.bilibili.com/register"><span>注册</span></a>
+		</li>
+		<li id="i_menu_history_btn" class="u-i">
+			<a class="i-link" href="//www.bilibili.com/account/history">历史</a>
+		</li>
+		<li class="u-i b-post">
+			<a class="i-link" href="//member.bilibili.com/v/video/submit.html" target="_blank">投 稿</a>
+			<ul class="s-menu">
+				<li><a href="//member.bilibili.com/v/video/submit.html" target="_blank"><i class="b-icon b-icon-vp"></i><em>视频投稿</em></a></li>
+				<li><a href="//member.bilibili.com/v/#/article" target="_blank"><i class="b-icon b-icon-vm"></i><em>投稿管理</em></a></li>
+				<li><a href="//member.bilibili.com/v/" target="_blank"><i class="b-icon b-icon-vc"></i><em>创作中心</em></a></li>
+			</ul>
+		</li>
+	</ul>
+</div>
+            </div>
+        </div>
+    </div>
+    <div class="header">
+        <div class="h-center">
+            <a href="//www.bilibili.com/index.html" class="logo"></a>
+            <a href="//www.bilibili.com/random" target="_blank" title="随便找个视频看看?" class="lsb"></a>
+        </div>
+        <div class="num">
+            <div class="menu-wrapper">			
+                <ul class="nav-menu">
+	<li class="m-i home"><a class="i-link" href="//www.bilibili.com/index.html"><em>首页</em></a></li>
+	<!-- 动画 -->
+	<li class="m-i" data-tid="1">
+		<a class="i-link" href="//www.bilibili.com/video/douga.html"><em>动画</em><div class="v-num"><span class="addnew_1">--</span></div></a>
+		<ul class="i_num">
+			<li><a href="//www.bilibili.com/video/douga-mad-1.html"><b>MAD·AMV<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/douga-mmd-1.html"><b>MMD·3D<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/douga-voice-1.html"><b>短片·手书·配音<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/douga-else-1.html"><b>综合<em></em></b></a></li>
+		</ul>
+	</li>
+	<!-- 番剧 -->
+	<li class="m-i" data-tid="13">
+		<a class="i-link" href="//bangumi.bilibili.com/22/"><em>番剧</em><div class="v-num"><span class="addnew_13">--</span></div></a>
+		<ul class="i_num">
+			<li><a href="//www.bilibili.com/video/bangumi-two-1.html"><b>连载动画<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/part-twoelement-1.html"><b>完结动画<em></em></b></a></li>
+            <li><a href="//www.bilibili.com/video/douga-else-information-1.html"><b>资讯<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/bagumi_offical_1.html"><b>官方延伸<em></em></b></a></li>
+            <li><a href="//bangumi.bilibili.com/anime/timeline"><b>新番时间表<em></em></b></a></li>
+            <li><a href="//bangumi.bilibili.com/anime/index"><b>番剧索引<em></em></b></a></li>
+		</ul>
+	</li>
+	<!-- 国创 -->
+	<li class="m-i" data-tid="167">
+		<a class="i-link" href="//bangumi.bilibili.com/guochuang/"><em>国创</em><div class="v-num"><span class="addnew_167">--</span></div></a>
+		<ul class="i_num">
+			<li><a href="//www.bilibili.com/video/bangumi_chinese_1.html"><b>国产动画<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/guochuang-fanvid-1.html"><b>国产原创相关<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/glove-puppetry-1.html"><b>布袋戏<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/guochuang-offical-1.html"><b>资讯<em></em></b></a></li>
+			<li><a href="//bangumi.bilibili.com/guochuang/timeline"><b>新番时间表<em></em></b></a></li>
+			<li><a href="//bangumi.bilibili.com/guochuang/index"><b>国产动画索引<em></em></b></a></li>
+		</ul>
+	</li>
+	<!-- 音乐 -->
+	<li class="m-i" data-tid="3">
+		<a class="i-link" href="//www.bilibili.com/video/music.html"><em>音乐</em><div class="v-num"><span class="addnew_3">--</span></div></a>
+		<ul class="i_num">
+			<li><a href="//www.bilibili.com/video/music-original-1.html"><b>原创音乐<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/music-Cover-1.html"><b>翻唱<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/music-vocaloid-1.html"><b>VOCALOID·UTAU<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/music-perform-1.html"><b>演奏<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/music-coordinate-1.html"><b>三次元音乐<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/music-oped-1.html"><b>OP/ED/OST<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/music-collection-1.html"><b>音乐选集<em></em></b></a></li>
+		</ul>
+	</li>
+	<!-- 舞蹈 -->
+	<li class="m-i" data-tid="129">
+		<a class="i-link" href="//www.bilibili.com/video/dance.html"><em>舞蹈</em><div class="v-num"><span class="addnew_129">--</span></div></a>
+		<ul class="i_num">
+			<li><a href="//www.bilibili.com/video/dance-1.html"><b>宅舞<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/three-dimension-dance-1.html"><b>三次元舞蹈<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/dance-demo-1.html"><b>舞蹈教程<em></em></b></a></li>
+		</ul>
+	</li>
+	<!-- 游戏 -->
+	<li class="m-i" data-tid="4">
+		<a class="i-link" href="//www.bilibili.com/video/game.html"><em>游戏</em><div class="v-num"><span class="addnew_4">--</span></div></a>
+		<ul class="i_num">
+			<li><a href="//www.bilibili.com/video/videogame-1.html"><b>单机游戏<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/esports-1.html"><b>电子竞技<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/mobilegame-1.html"><b>手机游戏<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/onlinegame-1.html"><b>网络游戏<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/boardgame-1.html"><b>桌游棋牌<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/gmv-1.html"><b>GMV<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/music-game-1.html"><b>音游<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/game-mugen-1.html"><b>Mugen<em></em></b></a></li>
+		</ul>
+	</li>
+	<!-- 科技 -->
+	<li class="m-i" data-tid="36">
+		<a class="i-link" href="//www.bilibili.com/video/technology.html"><em>科技</em><div class="v-num"><span class="addnew_36">--</span></div></a>
+		<ul class="i_num">
+			<li><a href="//www.bilibili.com/video/tech-popular-science-1.html"><b>纪录片<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/tech-fun-1.html"><b>趣味科普人文<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/tech-wild-1.html"><b>野生技术协会<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/speech-course-1.html"><b>演讲·公开课<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/tech-future-military-1.html"><b>星海<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/tech-future-digital-1.html"><b>数码<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/tech-future-other-1.html"><b>机械<em></em></b></a></li>
+		</ul>
+	</li>
+	<!-- 生活 -->
+	<li class="m-i" data-tid="160">
+		<a class="i-link" href="//www.bilibili.com/video/life.html"><em>生活</em><div class="v-num"><span class="addnew_160">--</span></div></a>
+		<ul class="i_num">
+			<li><a href="//www.bilibili.com/video/ent_funny_1.html"><b>搞笑<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/ent-life-1.html"><b>日常<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/ent-food-1.html"><b>美食圈<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/ent-animal-1.html"><b>动物圈<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/ent-handmake-1.html"><b>手工<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/ent-painting-1.html"><b>绘画<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/ent-sports-1.html"><b>运动<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/others-1.html"><b>其他<em></em></b></a></li>
+		</ul>
+	</li>
+	<!-- 鬼畜 -->
+	<li class="m-i" data-tid="119">
+		<a class="i-link" href="//www.bilibili.com/video/kichiku.html"><em>鬼畜</em><div class="v-num"><span class="addnew_119">--</span></div></a>
+		<ul class="i_num">
+			<li><a href="//www.bilibili.com/video/ent-Kichiku-1.html"><b>鬼畜调教<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/douga-kichiku-1.html"><b>音MAD<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/kichiku-manual_vocaloid-1.html"><b>人力VOCALOID<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/kichiku-course-1.html"><b>教程演示<em></em></b></a></li>
+		</ul>
+	</li>
+	<!-- 时尚 -->
+	<li class="m-i" data-tid="155">
+		<a class="i-link" href="//www.bilibili.com/video/fashion.html"><em>时尚</em><div class="v-num"><span class="addnew_155">--</span></div></a>
+		<ul class="i_num">
+			<li><a href="//www.bilibili.com/video/fashion-makeup-fitness-1.html"><b>美妆<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/fashion-clothing-1.html"><b>服饰<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/fashion-body-1.html"><b>健身<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/fashion-info-1.html"><b>资讯<em></em></b></a></li>
+		</ul>
+	</li>
+	<!-- 广告 -->
+	<li class="m-i" data-tid="165">
+		<a class="i-link" href="//www.bilibili.com/video/ad-ad-1.html"><em>广告</em><div class="v-num"><span class="addnew_165">--</span></div></a>
+	</li>
+	<!-- 娱乐 -->
+	<li class="m-i" data-tid="5">
+		<a class="i-link" href="//www.bilibili.com/video/ent.html"><em>娱乐</em><div class="v-num"><span class="addnew_5">--</span></div></a>
+		<ul class="i_num">
+			<li><a href="//www.bilibili.com/video/ent-variety-1.html"><b>综艺<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/ent-circle-1.html"><b>明星<em></em></b></a></li>
+			<li><a href="//www.bilibili.com/video/ent-korea-1.html"><b>Korea相关<em></em></b></a></li>
+		</ul>
+	</li>
+	<!-- 影视 -->
+	<li class="m-i" data-tid="23">
+		<a class="i-link" href="//bangumi.bilibili.com/33/"><em>影视</em><div class="v-num"><span class="addnew_23_11">--</span></div></a>
+		<ul class="i_num">
+			<li><a href="//bangumi.bilibili.com/movie/"><b>电影<em></em></b></a></li>
+			<li><a href="//bangumi.bilibili.com/tv/"><b>电视剧<em></em></b></a></li>
+		</ul>
+	</li>
+	<li class="m-i m-i-square">
+		<a class="i-link" href="//www.bilibili.com/square"><em>广场</em></a>
+		<div class="i_num">
+			<ul>
+				<li><a href="//activity.bilibili.com"><i class="b-icon b-icon-n-activity"></i><b>活动中心</b></a></li>
+				<li><a href="//game.bilibili.com"><i class="b-icon b-icon-n-gc"></i><b>游戏中心</b></a></li>
+				<li><a href="//news.bilibili.com"><i class="b-icon b-icon-n-new"></i><b>新闻中心</b></a></li>
+				<li><a href="//h.bilibili.com/"><i class="b-icon b-icon-n-h"></i><b>画友</b></a></li>
+				<li><a href="//www.bilibili.com/mango"><i class="b-icon b-icon-n-mango"></i><b>芒果TV</b></a></li>
+			</ul>
+		</div>
+	</li>
+	<li class="m-i m-i-live m-i-last">
+		<a class="i-link" href="//live.bilibili.com"><em>直播</em></a>
+		<ul class="i_num">
+			<li><a href="//live.bilibili.com/subject"><b>推荐主播<em></em></b></a></li>
+			<li><a href="//live.bilibili.com/ent-life"><b>生活娱乐<em></em></b></a></li>
+			<li><a href="//live.bilibili.com/draw"><b>绘画专区<em></em></b></a></li>
+			<li><a href="//live.bilibili.com/sing-dance"><b>唱见舞见<em></em></b></a></li>
+			<li><a href="//live.bilibili.com/otaku"><b>御宅文化<em></em></b></a></li>
+			<li><a href="//live.bilibili.com/single"><b>单机联机<em></em></b></a></li>
+			<li><a href="//live.bilibili.com/online"><b>网络游戏<em></em></b></a></li>
+			<li><a href="//live.bilibili.com/e-sports"><b>电子竞技<em></em></b></a></li>
+			<li><a href="//live.bilibili.com/mobile-game"><b>手游直播<em></em></b></a></li>
+			<li><a href="//live.bilibili.com/movie"><b>放映厅<em></em></b></a></li>
+		</ul>
+	</li>
+	<li class="m-i m-i-blackroom"><a class="i-link" href="//www.bilibili.com/blackroom/"><em>小黑屋</em></a></li>
+</ul>
+                <div class="menu-r">
+                    <a id="random_p" class="random-p" target="_blank"></a>
+                </div>
+                <div class="search">
+                    <form action="//search.bilibili.com/all" id="searchform" target="_blank">
+                        <input name="keyword" type="text" class="search-keyword" id="search-keyword" autocomplete="off" accesskey="s" x-webkit-speech x-webkit-grammar="builtin:translate">
+                        <button type="submit" class="search-submit"></button>
+                    </form>
+                    <a class="link-ranking" href="//www.bilibili.com/ranking" target="_blank"><span>排行榜</span></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="b-page-body">
+        <!--[if lt IE 7]>
+<script type="text/javascript" language="JavaScript">
+window.location="/newlist.html";
+</script>
+<![endif]-->
+<script type="text/javascript">
+    var pageLoadStart = (new Date()).getTime();
+</script>
+<div class="index-container" id="index_container">
+    <!--顶部-->
+    <div class="container-top-wrapper">
+        <div class="container-top" id="b_index_top">
+            <div class="b-l">
+            </div>
+            <div class="b-r">
+                <div class="top-list-wrapper"></div>
+            </div>
+        </div>
+    </div>
+    <!--新作推广-->
+    <div class="container-row" id="b_promote">
+        <div class="b-l">
+            <div class="b-head"></div>
+            <div class="b-body">
+            </div>
+        </div>
+        <div class="b-r">
+            <div class="b-head">
+                <div class="index-online">
+                    <span class="web-online"><a href="/video/online.html" title="在线观看：1026030" target="_blank">在线人数：<em>909631</em></a></span><i class="s-line"></i><span class="new-video"><a href="/newlist.html" target="_blank">最新投稿：<em>--</em></a></span>
+                </div>
+            </div>
+            <div class="b-body">
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+            window.indexNav = new IndexNavigator({
+                sortable: true,
+                nav: {
+                    douga: {
+                        name: "动画",
+                        target: "#b_douga"
+                    },
+                    bangumi: {
+                        name: "番剧",
+                        target: "#b_bangumi"
+                    },
+                    guochuang: {
+                        name: "国创",
+                        target: "#b_guochuang"
+                    },
+                    music: {
+                        name: "音乐",
+                        target: "#b_music"
+                    },
+                    dance: {
+                        name: "舞蹈",
+                        target: "#b_dance"
+                    },
+                    game: {
+                        name: "游戏",
+                        target: "#b_game"
+                    },
+                    technology: {
+                        name: "科技",
+                        target: "#b_technology"
+                    },
+                    life: {
+                        name: "生活",
+                        target: "#b_life"
+                    },
+                    kichiku: {
+                        name: "鬼畜",
+                        target: "#b_kichiku"
+                    },
+                    fashion: {
+                        name: "时尚",
+                        target: "#b_fashion"
+                    },
+                    "ad-ad-1": {
+                        name: "广告",
+                        target: "#b_ad"
+                    },
+                    ent: {
+                        name: "娱乐",
+                        target: "#b_ent"
+                    },
+                    movie: {
+                        name: "电影",
+                        target: "#b_movie"
+                    },
+                    teleplay: {
+                        name: "TV剧",
+                        target: "#b_teleplay"
+                    }
+                }
+            });
+
+            ModuleManage.load(indexBlock, {container: "#index_container", nav: indexNav});
+            indexNav.loadSetting();
+    </script>
+</div>
+    </div>
+    <div class="footer">
+    <div class="footer-wrp">
+        <div class="footer-cnt clearfix">
+            <ul class="boston-postcards">
+                <li>
+                    <div class="tips">bilibili</div>
+                    <div class="cards"><a target="_blank" href="//www.bilibili.com/html/aboutUs.html">关于我们</a></div>
+                    <div class="cards"><a target="_blank" href="//www.bilibili.com/html/friends-links.html">友情链接</a></div>
+                    <div class="cards"><a target="_blank" href="//bmall.bilibili.com/#!/">哔哩哔哩周边</a></div>
+                    <div class="cards"><a target="_blank" href="//www.bilibili.com/html/contact.html">联系我们</a></div>
+                    <div class="cards"><a target="_blank" href="//www.bilibili.com/html/join.html">加入我们</a></div>
+                    <div class="cards"><a target="_blank" href="https://account.bilibili.com/site/ident.html">官方认证</a></div>
+                </li>
+                <li>
+                    <div class="tips">传送门</div>
+                    <div class="cards"><a target="_blank" href="//www.bilibili.com/html/help.html">帮助中心</a></div>
+                    <div class="cards"><a target="_blank" href="//www.bilibili.com/video/av120040/">高级弹幕</a></div>
+                    <div class="cards"><a target="_blank" href="//www.bilibili.com/event">活动专题页</a></div>
+                    <div class="cards"><a target="_blank" href="//www.bilibili.com/html/copyright.html">侵权申诉</a></div>
+                    <div class="cards"><a target="_blank" href="https://account.bilibili.com/answer/addq">分院帽计划</a></div>
+                    <div class="cards"><a target="_blank" href="//activity.bilibili.com/">活动中心</a></div>
+                    <div class="cards"><a target="_blank" href="http://link.acg.tv">用户反馈论坛</a></div>
+                    <div class="cards"><a target="_blank" href="http://h.bilibili.com/wallpaper?action=list">壁纸站</a></div>
+                    <div class="cards"><a target="_blank" href="http://www.bilibili.com/html/cele.html">名人堂</a></div>
+                </li>
+                <li>
+                    <div class="block right">
+                        <a target="_blank" href="//app.bilibili.com/">
+                            <div class="phone">
+                                <div class="pic"></div>
+                                <em>手机端下载</em>
+                                <div class="qrcode-box-wrp">
+                                    <div class="qrcode-box qrcode-app">
+                                        <div class="qrcode-box-arrow">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                        <a target="_blank" href="http://weibo.com/bilibiliweb">
+                            <div class="weibo">
+                                <div class="pic"></div>
+                                <em>新浪微博</em>
+                                <div class="qrcode-box-wrp">
+                                    <div class="qrcode-box qrcode-weibo">
+                                        <div class="qrcode-box-arrow">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                        <a id="weixin">
+                            <div class="weixin">
+                                <div class="pic"></div>
+                                <em>官方微信</em>
+                                <div class="qrcode-box-wrp bigvip-qrcode">
+                                    <div class="qrcode-box qrcode-weixin">
+                                        <div class="qrcode-box-arrow">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </li>
+            </ul>
+            <div class="partner">
+                <div class="block left" style="padding-top: 0px;">
+                    <div class="partner-banner"></div>
+                </div>
+                <div class="block left" style="margin: 0px 68px 0 115px;line-height:24px;float: none;">
+                  <p>广播电视节目制作经营许可证：<span>（沪）字第1248号 </span> | 网络文化经营许可证：<span>沪网文[2013]0480-056号</span> | 信息网络传播视听节目许可证：<span>0910417</span> | 互联网ICP备案：<span>沪ICP备13002172号-3</span> 沪ICP证：<span>沪B2-20100043</span> | 违法不良信息举报邮箱：help@bilibili.com | 违法不良信息举报电话：4000233233转3</p>
+                  <p>网上有害信息举报专区：<a href="http://www.12377.cn/?spm=a2hww.20023042.0.0" target="_blank"><img src="//static.hdslb.com/images/12377.png" width="16" height="16" style="vertical-align: sub;"> 中国互联网违法和不良信息举报中心</a> | <a href="http://www.shjbzx.cn" target="_blank"><i class="icons-footer icons-footer-report"></i><span> 上海互联网举报中心</span></a> | <a href="http://jb.ccm.gov.cn/" target="_blank">12318 全国文化市场举报网站</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">loadLoginStatus();</script>
+<script type="text/javascript" src="//www.bilibili.com/online.js"></script>
+<div style="display:none;">
+    <script type="text/javascript">
+    $(function () {
+        $.ajax({url: '//data.bilibili.com/rec.js', cache: true, dataType: 'script'});
+        $('<scr' + 'ipt type="text/javascript" src="//static.hdslb.com/js/bfd.js" charset="UTF-8"></scri' + 'pt>').appendTo('body');
+//        $('<scr' + 'ipt type="text/javascript" src="//s11.cnzz.com/stat.php?id=2724999&web_id=2724999" charset="UTF-8"></scri' + 'pt>').appendTo('body');
+        $('<scr' + 'ipt type="text/javascript" src="//tajs.qq.com/stats?sId=9156259" charset="UTF-8"></scri' + 'pt>').appendTo('body');
+    });
+    </script>
+
+    <script>
+        var myUrl = window.location.href ;
+        if( myUrl.indexOf('//www.bilibili.com/video/life.html') >= 0 ){
+             var body_object = {
+                speed : 1 ,
+                face : 'no-face'
+            };
+            var error_object = {
+                Vtimeout : 1000 ,
+                b : 2
+            }
+            var config = {
+                sample : 1,
+                errorTracker : true ,
+                resourceTracker: false ,
+                scrollTracker: true,
+                msgObjects : 'error_object|body_object'
+
+            };
+            var jq = document.createElement('script');
+            jq.src = "//s1.hdslb.com/bfs/static/log/report/output.6753c.js?v=1";
+            document.getElementsByTagName('body')[0].appendChild(jq);
+
+            var det = document.createElement('script');
+            det.src = "//s1.hdslb.com/bfs/static/script-detection/detection.js?v=1";
+            document.getElementsByTagName('body')[0].appendChild(det);
+
+        }
+    </script>
+
+    <script>
+        var cnzz_s_tag = document.createElement('script');
+        cnzz_s_tag.type = 'text/javascript';
+        cnzz_s_tag.async = true;
+        cnzz_s_tag.charset = "utf-8";
+        cnzz_s_tag.src = "https://s11.cnzz.com/stat.php?id=2724999&web_id=2724999&async=1";
+        var root_s = document.getElementsByTagName('script')[0];
+        root_s.parentNode.insertBefore(cnzz_s_tag, root_s);
+    </script>
+
+</div>
+</body>
+</html>

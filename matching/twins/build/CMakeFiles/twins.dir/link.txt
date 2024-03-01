@@ -1,0 +1,1 @@
+/usr/bin/c++  -O2 -rdynamic CMakeFiles/twins.dir/main.cpp.o CMakeFiles/twins.dir/utils.cpp.o -o twins 

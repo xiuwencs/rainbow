@@ -1,0 +1,98 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <script>
+//<![CDATA[
+function logError(b,d,e,c,a){try{var g,h="";a=a||b;b=(a.message||a.description||b).toString();stack=(a.stack||a.backtrace||a.stacktrace||"").toString();g=a.target||"";d=(d||a.fileName||a.sourceURL||g.src).toString();c=c||window.event&&window.event.errorCharacter;e=(e||a.lineNumber||a.line).toString()+(c?":"+c:"");try{localStorage.setItem("test","test"),localStorage.removeItem("test"),(new FormData).append("test","test")}catch(l){h="1"}var f,k={m:b,s:stack,f:d||"",l:e||"",u:document.location,w:h};
+b="";for(f in k)b+=f+"="+encodeURIComponent(k[f])+"&";(new Image).src="/home/jserror?"+b}catch(l){}}window.onerror=logError;
+
+//]]>
+</script>
+    <title>Ask and Answer - ASKfm</title>
+    <meta name="description" content="Find out what people want to know about you. Ask questions and get answers on any topic!" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0" />
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="Q2WayuAhxohfA6MnzihpKaUrmda+1IOo+YhyXLeQB0u4JkHNwyy8MO1ThldTbVSURVFpp4PiaKR0JPZJHK5KPQ==" />
+      <meta property="og:type" content="website" />
+  <meta property="og:title" content="Ask and Answer - ASKfm" />
+  <meta property="og:description" content="Find out what people want to know about you. Ask questions and get answers on any topic!" />
+  <meta property="og:url" content="https://ask.fm/" />
+  <meta property="og:image" content="https://static.ask.fm/assets/logo-preview-8de04b038ed54339d316d36c3f9ebb1fcae0fad398b7f968908d8e2d4ae20318.png" />
+  <link rel="image_src" href="https://static.ask.fm/assets/logo-preview-8de04b038ed54339d316d36c3f9ebb1fcae0fad398b7f968908d8e2d4ae20318.png" />
+
+    <link rel="stylesheet" media="all" href="https://static.ask.fm/assets/application_ltr-f32654765c57bf2dcdcbb6e0b12ec6e5e82867a45573679c9043ba7c2cb4f81f.css" data-turbolinks-track="true" />
+    <script src="https://static.ask.fm/assets/application-aa9af0c2c0a2b5143c7d259ee7192d93f067b8f5a30bc5bab2fcb56adfdd85c4.js" data-turbolinks-track="true"></script>
+  </head>
+  
+  <body class="welcome-container variant0 util-overlay util-vcontainer" data-id="home/welcome"><script>
+  window.Config && window.Config.init({"poller:interval":30000,"poller:cache_limit":10,"mass_ask_limit":50,"flash:delay":3000,"gtm":true,"page:category":"Home","page:type":"Welcome","page:user_id":null});
+</script>
+
+<div id="loaderMother" style="display:none"></div>
+
+    <a title="Menu" class="btn-action-icon icon-hamburger rsp-eql-mobile" data-action="PopupOpen" data-url="/home/menu" href="#"></a>
+
+    <div class="util-vcenter">
+      <div class="logo-block">
+        <img class="logo" src="https://static.ask.fm/assets/logo-218dee6614a52e488e9b2aed37eecfcb43b2523a2973be8fdbfbbc3ddcdf6328.png" />
+        Ask and Answer
+      </div>
+      <a class="btn-primary-wide" href="/signup">Sign up</a>
+      <a href="/login">Log in</a>
+    </div>
+
+    <div class="icon-owl-peek-left"></div>
+    <div class="icon-owl-peek-right rsp-eql-desktop"></div>
+
+    <footer>
+      <div class="rsp-container">
+        <div class="stores" data-no-turbolink>
+          <a href="/home/app/ios?utm_medium=ntv_button_ios&amp;utm_source=internal"><img src="https://static.ask.fm/assets/badge_app_store-98069cbf1ba7a559a59779797deb730870bcae6fefa4cba9eb155c2b968c3b6c.png" /></a>
+          <a href="/home/app/android?utm_medium=ntv_button_android&amp;utm_source=internal"><img src="https://static.ask.fm/assets/badge_google_play-1f0eb67ded8b03a0a41e01df99796ae3fe9a60a9a84a8dc72ebd14fe97a87aed.png" /></a>
+        </div>
+        <nav class="faces rsp-gte-tablet">
+            <a href="/yourauroraborealis"><img alt="yourauroraborealis" src="https://akimg2.ask.fm/assets2/117/429/436/928/thumb/file.jpg" /></a>
+            <a href="/GabrielCavalcantiNunesNogueira"><img alt="GabrielCavalcantiNunesNogueira" src="https://akimg1.ask.fm/assets2/122/321/269/248/thumb/11218826_1034509703249460_7753371123792986644_n.jpg" /></a>
+            <a href="/youssefMRC123"><img alt="youssefMRC123" src="https://akimg1.ask.fm/a3a/9a3d3/31fc/4d83/bc1b/e427aa1fdde2/thumb/2242094.jpg" /></a>
+            <a href="/gab398"><img alt="gab398" src="https://akimg1.ask.fm/9c1/cdd6a/c40c/4b38/93f6/bddb17cb3269/thumb/600191.jpg" /></a>
+            <a href="/myriam_drasse"><img alt="myriam_drasse" src="https://akimg0.ask.fm/a6c/521f7/fd78/4f3b/9874/68fd2a8495b7/thumb/1846043.jpg" /></a>
+            <a href="/EmilurHotchkins"><img alt="EmilurHotchkins" src="https://akimg1.ask.fm/4a6/a2aaf/3ba7/4247/9fc1/38b3e35349be/thumb/708530.jpg" /></a>
+            <a href="/killer56579"><img alt="killer56579" src="https://akimg0.ask.fm/assets2/099/623/585/536/thumb/file.jpg" /></a>
+            <a href="/Juanhockey25"><img alt="Juanhockey25" src="https://akimg2.ask.fm/6c3/19355/1a5e/47fb/ad89/46e83487d15f/thumb/1394198.jpg" /></a>
+            <a href="/Vanesasomoza29"><img alt="Vanesasomoza29" src="https://akimg1.ask.fm/70d/0da4d/eae1/4786/8e3a/66a2327070e2/thumb/4983631.jpg" /></a>
+            <a href="/Mel_lavallee"><img alt="Mel_lavallee" src="https://akimg3.ask.fm/assets2/142/027/895/040/thumb/file.jpg" /></a>
+            <a href="/charles9191"><img alt="charles9191" src="https://akimg3.ask.fm/b16/c1fd3/a3d2/4ce2/801c/baad5bb77be2/thumb/4414393.jpg" /></a>
+            <a href="/Vinsean134"><img alt="Vinsean134" src="https://akimg2.ask.fm/1db/74385/6881/454d/9165/d6a56df4207e/thumb/414720.jpg" /></a>
+            <a href="/jeanneprov"><img alt="jeanneprov" src="https://akimg3.ask.fm/83a/e3980/d376/4962/9c16/6d99662a544a/thumb/1452621.jpg" /></a>
+            <a href="/Myriam_Quirion"><img alt="Myriam_Quirion" src="https://akimg1.ask.fm/86b/09d1d/d002/404f/bda8/eece7eec06cc/thumb/724701.jpg" /></a>
+            <a href="/MoniicaPaola1611"><img alt="MoniicaPaola1611" src="https://akimg3.ask.fm/8fb/d4d34/94d7/4317/a552/6ae1e0bd5f21/thumb/1703715.jpg" /></a>
+            <a href="/GabLoveChloexox"><img alt="GabLoveChloexox" src="https://akimg3.ask.fm/dba/45256/90a4/4d0f/9c63/b5dd463ab348/thumb/1431745.jpg" /></a>
+            <a href="/pixel_nova321"><img alt="pixel_nova321" src="https://akimg3.ask.fm/e73/24bf6/1880/4810/9fea/04a8f568427a/thumb/523700.jpg" /></a>
+            <a href="/leannelabanane"><img alt="leannelabanane" src="https://akimg2.ask.fm/74f/557b4/8626/4bd8/8376/1db04fc8c608/thumb/4860337.jpg" /></a>
+            <a href="/Nadiafwzy"><img alt="Nadiafwzy" src="https://akimg3.ask.fm/assets2/132/923/795/456/thumb/avatar.jpg" /></a>
+            <a href="/annaroy_x3"><img alt="annaroy_x3" src="https://akimg0.ask.fm/cba/ae3a3/9e3d/417a/9b87/1a9a71efb451/thumb/4939846.jpg" /></a>
+            <a href="/britanyclement27"><img alt="britanyclement27" src="https://akimg0.ask.fm/b7e/a7cfb/f536/4fa8/8fc9/ecfcf9885327/thumb/3911843.jpg" /></a>
+            <a href="/Lenka8Smirnova"><img alt="Lenka8Smirnova" src="https://akimg3.ask.fm/3f2/a014f/ed73/46fe/a3d9/5f3a6fb7bbda/thumb/1163199.jpg" /></a>
+            <a href="/MaddieBarill"><img alt="MaddieBarill" src="https://akimg3.ask.fm/fe9/9e10b/8234/42b7/9102/1b61fab07d58/thumb/2193746.jpg" /></a>
+            <a href="/vfdfs"><img alt="vfdfs" src="https://akimg0.ask.fm/8b7/7bebf/a84c/44dd/9e27/938d803ada8b/thumb/3513601.jpg" /></a>
+        </nav>
+        <nav class="site-links rsp-gte-tablet">
+          <a target="_blank" href="https://about.ask.fm?lang=en">About ASKfm</a>
+          <a target="_blank" href="https://safety.ask.fm?lang=en">Safety center</a>
+          <a target="_blank" href="http://support.ask.fm?lang=en">Help</a>
+          <a target="_blank" href="https://safety.ask.fm/community-guidelines/">Community Guidelines</a>
+          <a target="_blank" href="https://about.ask.fm/terms/?lang=en">Terms of use</a>
+          <a target="_blank" href="https://about.ask.fm/privacy-policy/?lang=en">Privacy policy</a>
+          <a target="_blank" href="https://about.ask.fm/cookie-policy/?lang=en">Cookies policy</a>
+          <a target="_blank" href="https://about.ask.fm/advertising/?lang=en">Advertising</a>
+        </nav>
+        <span class="copyright">&copy; Ask.fm 2017</span>
+        <a class="language icon-language" title="Choose language" data-action="PopupOpen" data-url="/home/languages" data-gtm="{&quot;name&quot;:&quot;popup&quot;,&quot;meta&quot;:[&quot;language&quot;,&quot;Home&quot;,&quot;Locales&quot;]}" href="#">English</a>
+      </div>
+    </footer>
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W5DVX4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<noscript><img src="//pixel.quantserve.com/pixel/p-r1DAFnUnQgqGA.gif?labels=_fp.event.Default" style="display:none;" border="0" height="1" width="1" alt="Quantcast"/></noscript>
+</body>
+</html>

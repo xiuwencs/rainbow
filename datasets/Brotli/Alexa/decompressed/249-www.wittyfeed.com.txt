@@ -1,0 +1,1384 @@
+<!DOCTYPE html>
+<html>
+
+<head>  
+    <meta charset="utf-8" />
+    <meta property="fb:pages" content="588386721267640" />
+
+	<!-- Website Information -->
+	<title>WittyFeed | Express and Explore beautiful stories.</title>
+	<link rel="icon" href="https://cdn.wittyfeed.com/assets/images/fevicon.ico">
+	<meta name="description" content="WittyFeed: Place to express and explore beautiful stories on trending Lifestyle, Technology, Celebrities, Travel, Food and Humor content around the world.">
+	<meta name="keywords" content="viral news, latest trending topics, top trending stories from lifestyle, sports, travel, food, humor, weird, creative, technology, animals, politics, crime, health & fitness, viral photos and videos.">
+	<!-- <meta name="msvalidate.01" content="98B2763A598EFF9B842C6B968852D893" />
+	<meta name="google-site-verification" content="ifjhKnrVHlp7XLoAz3eN62Dji-SYkz6-PYteuHJXlSY" /> -->
+	<meta name="p:domain_verify" content="1db3abf8e9d4097f6c7629858a4e0de2">
+
+	<!-- Facebook OG meta -->
+	<meta property="og:type" content="website">
+	<meta property="fb:pages" content="588386721267640">
+	<meta property="fb:app_id" content="645451268885429">
+	<meta property="og:title" content="WittyFeed | For everything trending on internet!">
+	<meta property="og:url" content="https://www.wittyfeed.com/">
+	<meta property="og:image" content="https://cdn.wittyfeed.com/assets/images/wittyfeed.jpg">
+	<meta property="og:image:width" content="210">
+	<meta property="og:image:height" content="210">
+	<meta property="og:description" content="WittyFeed: Place to express and explore beautiful stories on trending Lifestyle, Technology, Celebrities, Travel, Food and Humor content around the world.">
+	<meta property="og:site_name" content="wittyfeed.com">
+	<meta property="article:author" content="https://www.facebook.com/wittyfeed">
+	<meta property="article:publisher" content="https://www.facebook.com/wittyfeed">
+	<meta property="article:section" content="WittyFeed">
+
+	<!-- Twitter Card meta -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:account_id" content="2320973737">
+	<meta name="twitter:site" content="@wittyfeed">
+	<meta name="twitter:creator" content="@wittyfeed">
+	<meta name="twitter:url" content="https://www.wittyfeed.com/">
+	<meta name="twitter:title" content="WittyFeed | For everything trending on internet!">
+	<meta name="twitter:description" content="WittyFeed: Place to express and explore beautiful stories on trending Lifestyle, Technology, Celebrities, Travel, Food and Humor content around the world.">
+	<meta name="twitter:image:src" content="https://cdn.wittyfeed.com/assets/images/wittyfeed.jpg">
+	<meta name="twitter:image:width" content="210">
+	<meta name="twitter:image:height" content="210">    
+
+	<!-- Mobile Settings -->
+	<meta name="HandheldFriendly" content="true" />
+	<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width" />
+	<meta name="apple-mobile-web-app-title" content="WittyFeed" />
+	<meta name="apple-mobile-web-app-capable" content="no" />
+	<meta name="msapplication-TileImage" content="Content/ico/apple-touch-icon-210-precomposed.jpg" />
+	<meta name="msapplication-TileColor" content="#FFF" />
+	<meta name="theme-color" content="#046fc2">
+	<meta name="msapplication-navbutton-color" content="#046fc2">
+	<link rel="apple-touch-startup-image" href="//cdn.wittyfeed.com/assets/images/logo.png">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+	<meta name="version" content="2016-02-24_151403_30">
+
+	<script type="application/ld+json">
+	{
+	    "@context": "http://schema.org","@type":"WebPage","headline":"WittyFeed","url": "https://www.wittyfeed.com/","thumbnailUrl": "https://cdn.wittyfeed.com/assets/images/wittyfeed.jpg","dateCreated": "2015-01-12 T13:00:00Z","potentialAction": {"@type": "SearchAction","target": "https://www.wittyfeed.com/search?q={search_term}","query-input": "required name=search_term"},"keywords": ["Social Networking","Social Media","News","Web","Technology","Web 2.0","Tech","Information","Blog","Facebook","YouTube","Google","Top"],"creator": ["Vinay singhal"]
+	}
+	</script>
+
+	<link href="//cdn.wittyfeed.com/assets_main/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="//cdn.wittyfeed.com/assets_main/css/slick.css" rel="stylesheet" type="text/css">
+    
+    <link rel="stylesheet" href="//www.wittyfeed.com/assets/css/flexslider.css" type="text/css"/>
+    <link rel="stylesheet" href="//cdn.wittyfeed.com/assets_main/css/search_design_v1.css" type="text/css"/>
+     
+        <link href="//cdn.wittyfeed.com/assets_main/css_minified/myHome.min_v18.css" rel="stylesheet" type="text/css">
+    
+    <script>
+    ! function(f, b, e, v, n, t, s) {
+        if (f.fbq) return;
+        n = f.fbq = function() {
+            n.callMethod ?
+                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+        };
+        if (!f._fbq) f._fbq = n;
+        n.push = n;
+        n.loaded = !0;
+        n.version = '2.0';
+        n.queue = [];
+        t = b.createElement(e);
+        t.async = !0;
+        t.src = v;
+        s = b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t, s)
+    }(window,
+        document, 'script', '//connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '188944884786087');
+    fbq('track', "PageView");
+    </script>
+    <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=188944884786087&ev=PageView&noscript=1" />
+    </noscript>
+    <script type="text/javascript">
+    // ViewContent
+    // Track key page views (ex: product page, landing page or article)
+    fbq('track', 'ViewContent');
+
+
+    // Search
+    // Track searches on your website (ex. product searches)
+    fbq('track', 'Search');
+    </script>
+    <!-- End Facebook Pixel Code -->
+    <!-- Quantcast Tag -->
+    <script type="text/javascript">
+    var _qevents = _qevents || [];
+    (function() {
+        var elem = document.createElement('script');
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "//edge") + ".quantserve.com/quant.js";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem, scpt);
+    })();
+    _qevents.push({
+        qacct: "p-tnQx8-Ub5LJ_z"
+    });
+    </script>
+    <!-- End -->
+
+     <!-- Alexa code start -->
+    <!-- Start Alexa Certify Javascript -->
+    <script type="text/javascript">
+    _atrk_opts = {
+        atrk_acct: "Pchcj1a4ZP00My",
+        domain: "wittyfeed.com",
+        dynamic: true
+    };
+    (function() {
+        var as = document.createElement('script');
+        as.type = 'text/javascript';
+        as.async = true;
+        as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js";
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(as, s);
+    })();
+    </script>
+    <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=Pchcj1a4ZP00My" style="display:none" height="1" width="1" alt="" /></noscript>
+    <!-- End Alexa Certify Javascript -->
+
+    <script src="//cdn.wittyfeed.com/assets_main/js/jquery-v1.11.0.min.js" type="text/javascript"></script>
+    <script src="//cdn.wittyfeed.com/assets_main/js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="//cdn.wittyfeed.com/assets_main/js/angular.min.js"></script>
+
+    <link rel="manifest" crossorigin="use-credentials" href="https://www.wittyfeed.com/manifest.json">
+
+<!-- adsense -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-2653631796892865",
+    enable_page_level_ads: true
+  });
+</script>
+<!-- adsense --> 
+
+
+<!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5NR9ZH');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Let reach noti -->
+    <script src="//cdn.wittyfeed.com/wittyfeed_letreach/native-optin.js" async></script> 
+<!-- Let reach noti -->
+<input type="hidden" name="user_agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36">
+
+</head>
+
+<body ng-app="wittyfeed" >
+
+     <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5NR9ZH"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <!-- ShieldSqaure Production Mode Snippet -->
+        <script>
+
+                function ssJSCodeWrapper(){
+
+                }
+
+                function ssJSImmediator(){
+                    if(typeof window.ssJSConnWriteCookies === "function"){
+                        window.ssJSConnWriteCookies();
+                    } else {
+                        window["ss_uzjs_ssresp"] = 0;
+                        window["ss_uzjs_datasent"] = true;
+                        ssJSCodeWrapper();
+                    }
+                }
+
+                (function(w, d, e, u, c, g, t ,a ,b){
+                        w["SSJSConnectorObj"] = w["SSJSConnectorObj"] || {ss_cid : c, domain_info: g};
+                        w["ss_uzjs_datasent"] = w["ss_uzjs_datasent"] || false;
+                        a = d.createElement(e);
+                        a.async = true;
+                        a.src = u;
+                        b = d.getElementsByTagName(e)[0];
+                        b.parentNode.insertBefore(a, b);
+                        if(typeof setTimeout === "function"){
+                            setTimeout(ssJSImmediator, t);
+                        } else {
+                            ssJSCodeWrapper();
+                        }
+                })(window, document, "script" , "https://cdn.perfdrive.com/aperture/aperture.js" , "p48f1", 2, 2000);
+
+
+        </script>
+
+        <!-- ShieldSqaure code end -->
+
+
+    <div id="fb-root"></div>
+      <script>
+          (function(d, s, id) {
+              var js, fjs = d.getElementsByTagName(s)[0];
+              if (d.getElementById(id)) return;
+              js = d.createElement(s);
+              js.id = id;
+              js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&appId=645451268885429&version=v2.6";
+              fjs.parentNode.insertBefore(js, fjs);
+          }(document, 'script', 'facebook-jssdk'));
+      </script>
+      <script src='//connect.facebook.net/en_US/all.js'></script>
+<!-- New Header -->
+<!--feed it modal start-->
+<!--feed it modal end-->  
+<div ng-include="'//www.wittyfeed.com/ngwittyfeed/main/loginModel.html'"></div>
+<!-- New Header -->
+<header ng-controller="HeadController" class="navbar navbar-default navbar-fixed-top create-storyheader ng-scope">
+    <div class="container-fluid">
+        <div class="navbar-header create-story-navbar" style="position: relative;">
+            <a href="//www.wittyfeed.com/" target="_self" class="navbar-brand" >
+
+                <svg xmlns="http://www.w3.org/2000/svg" width="119.95" height="39.296" viewBox="0 0 873 286";>
+                  <path id="logo_2_" data-name="logo 2 " style="fill: #fff;fill-rule: evenodd;" class="cls-1" d="M872.785,160.636v49.3H860.42v-18.1a53.859,53.859,0,0,1-41.733,19.853c-29.961,0-54.25-24.611-54.25-54.969s24.289-54.969,54.25-54.969A53.856,53.856,0,0,1,860.42,121.6V8.255h12.365V152.8c0.09,1.3.153,2.6,0.153,3.918S872.875,159.341,872.785,160.636Zm-54.285-45.7c-22.851,0-41.375,18.734-41.375,41.843s18.524,41.844,41.375,41.844,41.375-18.734,41.375-41.844S841.351,114.938,818.5,114.938ZM762.686,66l10.976,4.123-7.316,20.094-99.77-37.474,7.316-20.094,10.456,3.927L696.5,2.953A4.171,4.171,0,0,1,701.742.185l70.937,26.459a4.273,4.273,0,0,1,2.229,5.553Zm-91.015,61.777,0,0.009L610.161,151.2a28.564,28.564,0,0,0,25.12,15.171,28.258,28.258,0,0,0,20.01-8.321l6.61,8.057a38.261,38.261,0,0,1-26.589,10.764c-21.435,0-38.812-17.727-38.812-39.594s17.377-39.594,38.812-39.594a38.976,38.976,0,0,1,37.573,29.632Zm-36.39-19.9c-15.826,0-28.656,13.1-28.656,29.25a30.048,30.048,0,0,0,.446,5.118l52.77-20.178A28.519,28.519,0,0,0,635.281,107.875Zm86.375,59.063a28.761,28.761,0,0,0,20.06-8.154l6,7.314a38.311,38.311,0,0,1-26.623,10.777c-21.453,0-38.844-17.727-38.844-39.594s17.391-39.594,38.844-39.594a39,39,0,0,1,37.6,29.638l-1.2.453,0,0.009-61.56,23.435A29.034,29.034,0,0,0,721.656,166.938Zm25.053-44.532a28.983,28.983,0,0,0-25.053-14.531,29.315,29.315,0,0,0-29.093,29.531,30.084,30.084,0,0,0,.513,5.508ZM626.215,221.758c9.916-7.681,13.962-30.289,30.549-30.289s21.82,12.559,21.82,12.559,5.234-12.559,21.821-12.559,20.632,22.608,30.548,30.289c12.184,9.438,28.058,12.407,58.188,8.127,0,0-24.23,19.208-54.551,19.208,0,0-2.913-.262-7.444-1.052-4.363,21.64-24.277,37.99-48.2,37.99-23.966,0-43.909-16.412-48.221-38.113-4.941.89-8.148,1.175-8.148,1.175-30.322,0-54.551-19.208-54.551-19.208C598.157,234.165,614.031,231.2,626.215,221.758Zm52.733,54.669c20.444,0,37.629-12.524,42.571-29.5-13.381-2.938-33.51-9.547-42.935-23.7-9.264,13.908-28.879,20.535-42.254,23.548C641.215,263.831,658.443,276.427,678.948,276.427ZM549.063,68.094c0,0.981.043,1.951,0.106,2.916l-0.052.041v30.683h35.64v12.559h-35.64v96.385H536.752V114.292H520.023V101.733h16.729v-29.5c-0.075-1.2-.127-2.415-0.127-3.638,0-30.877,24.39-55.956,54.678-56.505v12.43C567.912,24.9,549.063,44.255,549.063,68.094ZM402.921,282.337l39.272-74.868-50.25-106.294H405.5l43.3,93.71,48.867-93.16h13.554L417.468,282.337H402.921Zm-46.55-71.66H344.006V114.292H322.185V101.733h21.821V42.239h12.365v59.494h30.548v12.559H356.371v96.385Zm-75.644,0H268.362V114.292H246.541V101.733h21.821V42.239h12.365v59.494h30.548v12.559H280.727v96.385Zm-71.1-132.552A8.438,8.438,0,1,1,218,69.688,8.407,8.407,0,0,1,209.625,78.125ZM124.028,208.5l-1.135,2.178L89.28,139.991,53.51,207.077l-0.011-.018-1.886,3.618-51.641-108.6H13.791L52.1,185l30.351-59.372-11.2-23.546h13.82l38.364,83.044,43.1-83.044h13.819l-56.29,106.476ZM216,211l-12.258-.582-0.173-108.289L216,102V211Z"/>
+                </svg>
+                
+            </a>
+             <a href="javascript:void(0);" data-toggle="dropdown" class="dropdown-toggle language-toggle">
+                <span ng-bind="languageCode">&nbsp;&nbsp;&nbsp;</span>
+                <span class="down-svg">
+                   
+                    <svg style="height: 10px;width: 10px;position: relative;top: 0px;"xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 444.819 444.819" style="enable-background:new 0 0 444.819 444.819;" xml:space="preserve">
+                        <g>
+                            <path d="M434.252,114.203l-21.409-21.416c-7.419-7.04-16.084-10.561-25.975-10.561c-10.095,0-18.657,3.521-25.7,10.561   L222.41,231.549L83.653,92.791c-7.042-7.04-15.606-10.561-25.697-10.561c-9.896,0-18.559,3.521-25.979,10.561l-21.128,21.416   C3.615,121.436,0,130.099,0,140.188c0,10.277,3.619,18.842,10.848,25.693l185.864,185.865c6.855,7.23,15.416,10.848,25.697,10.848   c10.088,0,18.75-3.617,25.977-10.848l185.865-185.865c7.043-7.044,10.567-15.608,10.567-25.693   C444.819,130.287,441.295,121.629,434.252,114.203z" fill="#FFFFFF"/>
+                        </g>
+                    </svg>
+                </span> 
+            </a>
+            <ul class="dropdown-menu language-menu" style="">
+                <li ng-if="languageCode=='en'" class="active">
+                  <a href="javascript:void(0);" ng-click="multilingualAction('English')">
+                        <svg style="margin-right: 7px;width: 14px;height: 14px;" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 100 100">
+                            <path style=" fill:#fff;fill-rule: evenodd;" id="A" class="cls-1" d="M66.822,71.194L73.38,87.012h11.8L56.33,17.473h-11.8L15.672,87.012h11.8l6.558-15.818H66.822ZM38.531,60.35L50.428,31.7l11.9,28.651h-23.8Z" />
+                        </svg>
+                        English
+                    </a>
+                </li>
+                <li ng-if="languageCode!='en'">
+                    <a href="javascript:void(0);" ng-click="multilingualAction('English')">
+                        <svg style="margin-right: 7px;width: 14px;height: 14px;" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 100 100">
+                            <path style=" fill:#fff;fill-rule: evenodd;" id="A" class="cls-1" d="M66.822,71.194L73.38,87.012h11.8L56.33,17.473h-11.8L15.672,87.012h11.8l6.558-15.818H66.822ZM38.531,60.35L50.428,31.7l11.9,28.651h-23.8Z" />
+                        </svg>
+                        English
+                    </a>
+                </li>
+                <li ng-if="languageCode=='hin'" class="active">
+                  <a href="javascript:void(0);" ng-click="multilingualAction('Hindi')">
+                        <svg style="margin-right: 7px;width: 14px;height: 14px;" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 100 100">
+                            <path style="fill: #fff;fill-rule: evenodd;" id="v" class="cls-1" d="M90.006,20.7H60.21v7.776h7.861V47.854H56.533v8.158H68.071V84.694l9.509,0.255V28.478H89.372V27.713h0.634V20.7ZM51.461,51.423a24.126,24.126,0,0,0-4.184-2.55l-2.536-1.147,1.648-.765a10.239,10.239,0,0,0,3.17-2.04,15.1,15.1,0,0,0,3.36-4.462A13.846,13.846,0,0,0,54,34.6a13.6,13.6,0,0,0-3.8-9.816Q44.612,19.3,33.457,19.3a30.67,30.67,0,0,0-8.622,1.147q-7.355,2.295-10.016,7.9a32.88,32.88,0,0,0-1.775,6.629l8.622,0.255,0.888-2.886,1.014-1.508a10.154,10.154,0,0,1,4.247-2.948,19.132,19.132,0,0,1,6.149-.817,19.663,19.663,0,0,1,4.691.759q6.086,1.646,6.086,6.579a7.684,7.684,0,0,1-3.3,6.326Q36.752,44.285,29.273,43.9H26.737L26.23,43.52l-1.141.51v8.286l1.141,0.51,0.254-.319,0.761-.159,1.395-.159h2.156a23.3,23.3,0,0,1,5.959.641l5.2,1.667q5.831,3.591,5.832,9.875a12.189,12.189,0,0,1-.887,4.36,6.4,6.4,0,0,1-2.916,2.693,16.327,16.327,0,0,1-3.867,1.283q-1.967.386-3.994,0.769h-3.3a28.57,28.57,0,0,1-4.057-.257q-6.086-.9-8.368-3.48a9.163,9.163,0,0,1-2.029-3.219,18.979,18.979,0,0,1-.507-5.282H9.24l-0.254,1.02v1.275a23.742,23.742,0,0,0,.888,6.119,35.159,35.159,0,0,0,2.663,5.1q5.83,7.395,19.906,7.394a52.92,52.92,0,0,0,5.325-.255,29.384,29.384,0,0,0,12.425-3.952Q57.42,73.477,57.42,64.3l-1.268.127H57.42q0-8.413-5.959-13h0Z" />
+                        </svg>
+                        Hindi
+                    </a>
+                </li>
+                <li ng-if="languageCode!='hin'" >
+                    <a href="javascript:void(0);" ng-click="multilingualAction('Hindi')">
+                        <svg style="margin-right: 7px;width: 14px;height: 14px;" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 100 100">
+                            <path style="fill: #fff;fill-rule: evenodd;" id="v" class="cls-1" d="M90.006,20.7H60.21v7.776h7.861V47.854H56.533v8.158H68.071V84.694l9.509,0.255V28.478H89.372V27.713h0.634V20.7ZM51.461,51.423a24.126,24.126,0,0,0-4.184-2.55l-2.536-1.147,1.648-.765a10.239,10.239,0,0,0,3.17-2.04,15.1,15.1,0,0,0,3.36-4.462A13.846,13.846,0,0,0,54,34.6a13.6,13.6,0,0,0-3.8-9.816Q44.612,19.3,33.457,19.3a30.67,30.67,0,0,0-8.622,1.147q-7.355,2.295-10.016,7.9a32.88,32.88,0,0,0-1.775,6.629l8.622,0.255,0.888-2.886,1.014-1.508a10.154,10.154,0,0,1,4.247-2.948,19.132,19.132,0,0,1,6.149-.817,19.663,19.663,0,0,1,4.691.759q6.086,1.646,6.086,6.579a7.684,7.684,0,0,1-3.3,6.326Q36.752,44.285,29.273,43.9H26.737L26.23,43.52l-1.141.51v8.286l1.141,0.51,0.254-.319,0.761-.159,1.395-.159h2.156a23.3,23.3,0,0,1,5.959.641l5.2,1.667q5.831,3.591,5.832,9.875a12.189,12.189,0,0,1-.887,4.36,6.4,6.4,0,0,1-2.916,2.693,16.327,16.327,0,0,1-3.867,1.283q-1.967.386-3.994,0.769h-3.3a28.57,28.57,0,0,1-4.057-.257q-6.086-.9-8.368-3.48a9.163,9.163,0,0,1-2.029-3.219,18.979,18.979,0,0,1-.507-5.282H9.24l-0.254,1.02v1.275a23.742,23.742,0,0,0,.888,6.119,35.159,35.159,0,0,0,2.663,5.1q5.83,7.395,19.906,7.394a52.92,52.92,0,0,0,5.325-.255,29.384,29.384,0,0,0,12.425-3.952Q57.42,73.477,57.42,64.3l-1.268.127H57.42q0-8.413-5.959-13h0Z" />
+                        </svg>
+                        Hindi
+                    </a>
+                </li>
+                <li ng-if="languageCode=='es'" class="active">
+                  <a href="javascript:void(0);" ng-click="multilingualAction('Spanish')">
+                        <svg style="margin-right: 7px;width: 14px;height: 14px;" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 100 100">
+                            <path style="fill: #fff;fill-rule: evenodd;" id="á" class="cls-1" d="M77.381,48.408q0-11.508-6.813-16.867T52.992,26.181A39.809,39.809,0,0,0,27.8,34.869l3.343,6.768c6.106-4.062,13.635-7.727,19.286-7.727,9.007,0,18.1,6.753,18.1,14.725V50.89H48.068q-11.336,0-17.978,4.4T23.449,68.548q0,8.859,6.241,14.16t15.745,5.3c8.474,0,19.242-5.658,24.28-11.6V88h7.714ZM62,76.409a20.573,20.573,0,0,1-11.571,3.864c-4.085,0-9.281-2.321-11.571-3.864A9.806,9.806,0,0,1,35,68.682c0-5.715,5.891-8.991,15.129-8.991H68.414v5.077C68.414,68.6,65.052,74.153,62,76.409ZM72.916,8.58L59.4,3.052,47.266,19.412h11.68Z" />
+                        </svg>
+                        Spanish
+                    </a>
+                </li>
+                <li ng-if="languageCode!='es'">
+                    <a href="javascript:void(0);" ng-click="multilingualAction('Spanish')">
+                        <svg style="margin-right: 7px;width: 14px;height: 14px;" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 100 100">
+                            <path style="fill: #fff;fill-rule: evenodd;" id="á" class="cls-1" d="M77.381,48.408q0-11.508-6.813-16.867T52.992,26.181A39.809,39.809,0,0,0,27.8,34.869l3.343,6.768c6.106-4.062,13.635-7.727,19.286-7.727,9.007,0,18.1,6.753,18.1,14.725V50.89H48.068q-11.336,0-17.978,4.4T23.449,68.548q0,8.859,6.241,14.16t15.745,5.3c8.474,0,19.242-5.658,24.28-11.6V88h7.714ZM62,76.409a20.573,20.573,0,0,1-11.571,3.864c-4.085,0-9.281-2.321-11.571-3.864A9.806,9.806,0,0,1,35,68.682c0-5.715,5.891-8.991,15.129-8.991H68.414v5.077C68.414,68.6,65.052,74.153,62,76.409ZM72.916,8.58L59.4,3.052,47.266,19.412h11.68Z" />
+                        </svg>
+                        Spanish
+                    </a>
+                </li>
+            </ul>
+        </div>        
+        
+        <div class="navbarCategories_rowListli pull-left" ng-init="fetchCategories()">
+          <ul class="cateList nav nav-pills">
+              <li><a href="//www.wittyfeed.com/news">News</a>
+              </li>
+              <li><a href="//www.wittyfeed.com/inspiration">Inspiration</a>
+             </li>
+              <!-- <li><a href="politics">Politics</a>
+              </li> -->
+              <li><a href="//www.wittyfeed.com/celebrities">Celebrities</a>
+              </li>
+              <li>
+                  <a href="javascript:void(0);" id="sub-category">More
+                    <svg style="height: 10px;width: 10px;position: relative;left: 3px;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 444.819 444.819" xml:space="preserve">
+                          <g>
+                              <path d="M434.252,114.203l-21.409-21.416c-7.419-7.04-16.084-10.561-25.975-10.561c-10.095,0-18.657,3.521-25.7,10.561   L222.41,231.549L83.653,92.791c-7.042-7.04-15.606-10.561-25.697-10.561c-9.896,0-18.559,3.521-25.979,10.561l-21.128,21.416   C3.615,121.436,0,130.099,0,140.188c0,10.277,3.619,18.842,10.848,25.693l185.864,185.865c6.855,7.23,15.416,10.848,25.697,10.848   c10.088,0,18.75-3.617,25.977-10.848l185.865-185.865c7.043-7.044,10.567-15.608,10.567-25.693   C444.819,130.287,441.295,121.629,434.252,114.203z" fill="#ffffff"></path>
+                          </g>
+                    </svg>
+                  </a>
+              </li>
+              <li class="hidethisonpreview">
+                  <a href="javascript:void(0);" id="sub-category">Categories <svg style="height: 10px;width: 10px;position: relative;left: 3px;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 444.819 444.819" xml:space="preserve">
+                        <g>
+                            <path d="M434.252,114.203l-21.409-21.416c-7.419-7.04-16.084-10.561-25.975-10.561c-10.095,0-18.657,3.521-25.7,10.561   L222.41,231.549L83.653,92.791c-7.042-7.04-15.606-10.561-25.697-10.561c-9.896,0-18.559,3.521-25.979,10.561l-21.128,21.416   C3.615,121.436,0,130.099,0,140.188c0,10.277,3.619,18.842,10.848,25.693l185.864,185.865c6.855,7.23,15.416,10.848,25.697,10.848   c10.088,0,18.75-3.617,25.977-10.848l185.865-185.865c7.043-7.044,10.567-15.608,10.567-25.693   C444.819,130.287,441.295,121.629,434.252,114.203z" fill="#ffffff"></path>
+                        </g>
+                    </svg>
+                  </a>
+              </li>
+
+          </ul>
+        
+          <div id = "search-results" style="left: 0;right: 0;">
+           <div infinite-scroll='loadMoreSearch()' infinite-scroll-disabled='busy' infinite-scroll-distance='0'>
+             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" ng-repeat="story in stories track by $index">
+                 <div class="col-lg-4 col-md-4 col-sm-4 search-result-img ">
+                     <a ng-href="{{RouteUrl}}/story/{{story._source.story_id}}/{{story._source.story_slug}}" ng-style="{'background-image': 'url(' + (story._source | s3_image:200) + ')'}"></a>
+                 </div>
+                 <div class="col-lg-8 col-md-8 col-sm-8 search-result-title">
+                     <p><a ng-href="{{RouteUrl}}/story/{{story._source.story_id}}/{{story._source.story_slug}}" ng-bind="story._source.story_title"></a>
+                     </p>
+                 </div>
+             </div>
+             <div ng-show="showStorySearchLoader" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                 <div class="col-lg-12 col-md-12 col-sm-12 search-result-title">
+                     <p style="text-align: center;position: relative;left: 82px; padding-top: 0px;">
+                        <img src="//cdn.wittyfeed.com/assets_main/images/search_loader.gif" />
+                     </p>
+                 </div>
+             </div>
+           
+             <div ng-if="searchQuery.length!=0 && !showStorySearchLoader && stories.length==0" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                 <div class="col-lg-12 col-md-12 col-sm-12 search-result-title">
+                     <p>0 results found!</p>
+                 </div>
+             </div>
+           </div>
+          </div>
+        
+          <div class="sub-category clearfix">
+              <ul class="list-unstyled clearfix">
+                  <li><a target="_self"  href="//www.wittyfeed.com/animals">Animals</a></li>
+                  <li><a target="_self"  href="//www.wittyfeed.com/bizarre">Bizarre</a></li>
+                  <li><a target="_self" href="//www.wittyfeed.com/diy">DIY</a></li>
+                  <li><a target="_self" href="//www.wittyfeed.com/health-fitness">Health & Fitness</a></li>
+                  <li><a target="_self" href="//www.wittyfeed.com/history-culture">History & Culture</a></li>
+                  <li><a target="_self" href="//www.wittyfeed.com/humor">Humor</a></li>
+                  <li><a target="_self"  href="//www.wittyfeed.com/innervoice">InnerVoice</a></li>
+                  <li><a target="_self" href="//www.wittyfeed.com/ipl">IPL 2017</a></li>
+                  <li><a target="_self" href="//www.wittyfeed.com/lgbt">LGBT</a></li>
+                  <li><a target="_self" href="//www.wittyfeed.com/lifestyle">Lifestyle</a></li>
+                  <li><a target="_self" href="//www.wittyfeed.com/photography">Photography</a></li>
+                  <li><a target="_self" href="//www.wittyfeed.com/people">People</a></li>
+                   <li><a target="_self" href="//www.wittyfeed.com/politics">Politics</a></li>
+                  <li><a target="_self" href="//www.wittyfeed.com/quiz">Quiz</a></li>
+                  <li><a target="_self" href="//www.wittyfeed.com/relationship">Relationship</a></li>
+                  <li><a target="_self" href="//www.wittyfeed.com/sports">Sports</a></li>
+                  <li><a target="_self"  href="//www.wittyfeed.com/stylemate">StyleMate</a></li>
+                  <li><a target="_self" href="//www.wittyfeed.com/science-technology">Science & Technology</a></li>
+                  <li><a target="_self" href="//www.wittyfeed.com/travel-adventure">Travel & Adventure</a></li>
+              </ul>
+
+                <div class="footer-start-border"></div>
+               <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 moreCategory-footer">
+                   <ul class="list-unstyled footer-content">
+                       <li><a href="//www.wittyfeed.com/about">About Us</a></li>
+                       <li><a href="//www.wittyfeed.com/terms">Terms of Use</a></li>
+                       <li><a href="//www.wittyfeed.com/privacy">Privacy Policy</a></li>
+                       <li><a href="//www.wittyfeed.com/advertise">Advertise</a></li>
+                       <li><a href="//www.wittyfeed.com/sitemap" target="_self">Sitemap</a></li>
+                       <li><a href="//www.wittyfeed.com/guidelines">Guidelines</a></li>
+                       <li><a href="//www.wittyfeed.com/careers" style="border-right: 1px solid #2e3a42;">Careers</a></li>
+                       <li><a href="//www.wittyfeed.com/contact" style="border-right: none;">Contact Us</a></li>
+                       <h5 style="text-align:center;">Vatsana Technologies &copy; 2017</h5>
+                   </ul>
+               </div>
+          </div>
+        </div>
+
+
+        <div id="navbar" class="navbar-collapse collapse wf-navRightPart">
+            <ul class="nav navbar-nav navbar-right">
+                <li id="searchIcon">
+                        <a href="javascript:void(0);" title="" ng-click="searchPart()" style="line-height: 3.9;"> <!-- <i class="material-icons" id="searchIcn">search</i> -->
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 57.231 57.231" style="enable-background:new 0 0 57.231 57.231;" xml:space="preserve" width="20px" height="20px">
+<g>
+  <g>
+    <path d="M23.945,9.373c-1.652,0-2.992,1.341-2.992,2.992c0,1.654,1.34,2.992,2.992,2.992    c3.656,0,6.921,2.042,8.524,5.333c0.519,1.062,1.583,1.68,2.691,1.68c0.441,0,0.888-0.097,1.309-0.303    c1.486-0.723,2.104-2.514,1.379-4.001C35.235,12.704,29.906,9.373,23.945,9.373z" fill="#FFFFFF"/>
+    <path d="M56.135,50.469l-9.971-9.972c2.952-4.152,4.705-9.213,4.705-14.685    c0-14.025-11.41-25.435-25.435-25.435S0,11.787,0,25.812c0,14.024,11.409,25.434,25.434,25.434c5.859,0,11.245-2.01,15.549-5.351    l9.862,9.862c0.73,0.73,1.689,1.096,2.645,1.096c0.958,0,1.915-0.365,2.645-1.096C57.596,54.298,57.596,51.93,56.135,50.469z     M5.986,25.813c0-10.725,8.726-19.45,19.45-19.45s19.45,8.725,19.45,19.45c0,4.462-1.525,8.566-4.063,11.852    c-0.839,1.085-1.781,2.086-2.827,2.973c-3.392,2.878-7.773,4.625-12.56,4.625C14.711,45.262,5.986,36.537,5.986,25.813z" fill="#FFFFFF"/>
+  </g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
+                        </a>
+                    </li>
+                <li>
+                                    <a class="userSignUpBtn" href="javascript:void(0);" onclick="javascript: $('#r_url').val('https://www.wittyfeed.com/post/create');">
+                                       
+                        <svg style="width: 14px;height: 13px;margin-right: 3px;fill: #ffffff;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 13" preserveAspectRatio="xMidYMid meet" width="10" height="13" style="margin-right: 5px;">
+                                <path style="" class="cls-1" d="M 0 13 L 0 11 L 10 11 L 10 13 L 0 13 Z M 0 7 L 10 7 L 10 9 L 0 9 L 0 7 Z M 0 3 L 3 0 L 5.003 3 L 8 1 L 10 3 L 10 5 L 0 5 L 0 3 Z" />
+                            </svg>
+                        Write a Story
+                    </a>                        
+                </li>
+                <li>
+                                    <a href="javascript:void(0);" class="userSignUpBtn" ng-click="setRootUrl()">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="11" height="11" style="margin-right: 3px;" viewBox="0 0 11 11">
+                            <path style="fill: #fff;fill-rule: evenodd;" class="cls-1" d="M11.015,11H8.536a3.108,3.108,0,0,0-6.072,0H-0.015A5.555,5.555,0,0,1,11.015,11ZM2.4,3.055a3.1,3.1,0,0,1,6.2,0A3.1,3.1,0,0,1,2.4,3.055Z" />
+                        </svg>
+                        Login
+                    </a>                
+                          
+                </li>
+            </ul>
+        </div>
+
+        
+   </div>
+    </div>
+</header>
+
+<div class="search-arrow"></div>
+<div ng-controller="SearchController" class="search-layer" id="dummy" style="display: none">
+    <div id="closeIcon" ng-click="closeModal()">
+        <a href="javascript:void(0);" title=""> <i class="material-icons">close</i> </a>
+    </div>
+   
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 search-container">
+                <div class="col-lg-3 col-md-3  col-sm-3 col-xs-3 search-leftpart" id="trend">
+                    <h3>
+                    <span class="trendingIcn">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+                            <metadata>
+                                <?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d" ?>
+                                    <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+                                        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <rdf:Description rdf:about="" />
+                                        </rdf:RDF>
+                                    </x:xmpmeta>
+                                    <?xpacket end="w" ?>
+                            </metadata>
+                            <defs>
+                            </defs>
+                            <path style="fill: #6a6763;fill-rule: evenodd;" class="cls-1" d="M11,21.5A10.5,10.5,0,1,1,21.5,11,10.5,10.5,0,0,1,11,21.5ZM11,2.125A8.865,8.865,0,0,0,3.527,15.774L9.073,13.4l-1-2.27L7.614,9.8,12,8.2,11.191,6,16,7.408l-2.748,4.224L12.48,9.521,9.594,10.573l1.6,4.135-6.216,2.8A8.871,8.871,0,1,0,11,2.125Z" />
+                        </svg>
+                    </span>
+                    Trending Search</h3>
+
+
+                    <ul>
+                        <li ng-repeat="trend in trendData track by $index" ng-if="trend.hits.total > 0">
+                            <a href="javascript:void(0);" title="trendingSearch" ng-click="clickSearch(trend.hits.hits[0].fields.search[0])" ng-bind="trend.hits.hits[0].fields.search[0]"></a>
+                        </li>
+                    </ul>
+                    <!--Left Loader-->
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12  left-loader" ng-if="showRightLoader">
+                        <img src="//cdn.wittyfeed.com/assets_main/images/loaders/85x85_blue.gif" />
+                    </div>
+                    <!--Left Loader ends-->
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 search-middlepart">
+                    
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12  search-box-part">
+                        <div class="col-lg-12 col-sm-12 col-xs-12 col-md-12 input-group main-search-input">
+                            <input type="text" class="form-control input-md" placeholder="Tell us what to search" id="searchbox" type="search" ng-model="searchQuery" ng-change="executeSearch()" />
+                            <span class="input-group-btn dropdown search-active">
+                                <a href="javascript:void(0);">
+                                        <span class="search-icn">
+                                        <i class="material-icons" id="searchIcn">search</i>
+                                        </span>
+                                </a>
+                                <!-- <button class="btn btn-default btn-sm dropdown-toggle" type="button" data-toggle="dropdown">
+                                    <span ng-bind="currentLang.key"></span>
+                                    <i class="material-icons dropdown-icon">keyboard_arrow_down</i>
+                                </button>
+
+                                <ul class="dropdown-menu cat-dropdown">
+                                    <li ng-click="setLang('English')"><a href="javascript:void(0);" class="active">English</a>
+                                    </li>
+                                    <li ng-click="setLang('Hindi')"><a class="hindiLang" href="javascript:void(0);">हिंदी</a>
+                                    </li>
+                                    <li ng-click="setLang('Spanish')"><a href="javascript:void(0);">español</a>
+                                    </li>
+                                </ul> -->
+                            </span>
+                        </div>
+                    </div>
+                    <div ng-show="!searchMainData" class=" col-lg-12 col-md-12 col-sm-12 col-xs-12 nosearchimage">
+                            <img src="//cdn.wittyfeed.com/assets_main/images/searchblank.png" alt="search here" class="img-responsive"/>
+                    </div>
+
+                   <div ng-show="searchMainData">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 category-tag" id="shadowpart">
+                       
+                            
+
+                            <ul class="list-unstyled" id="beta">
+                                <span class="filterIcn">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="17" height="30" viewBox="0 0 17 15"><metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?><x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01 "><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description rdf:about=""/> </rdf:RDF></x:xmpmeta>     
+                                                <?xpacket end="w"?></metadata><defs></defs>
+                                                <path style=" fill: #d9d9d9;fill-rule: evenodd;"id="Rectangle_1_copy" data-name="Rectangle 1 copy" class="cls-1" d="M9.837,8.973V15L7.163,13.7V8.973L-0.006,2H0V0H17V2h0.006Z"/>
+                                                </svg>
+                                </span>
+                                <li class="writer-icn-wrapper" id="writer_part" ng-if="searchNumUsers>0">
+                              
+                                    <a href="javascript:void(0);" class="writer-icn" ng-click="showMainData('user', $event)">
+                                        <span style="position:relative;top:3px;" >
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="25" height="15" viewBox="0 0 27 19">
+                                              <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+                                            <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description rdf:about=""/></rdf:RDF></x:xmpmeta><?xpacket end="w"?></metadata>
+                                            <defs></defs><path  style="fill: #fff;fill-rule: evenodd;" d="M18.427,17.751a0.791,0.791,0,0,1,.136.423,0.844,0.844,0,0,1-1.687,0H16.826a7.536,7.536,0,0,0-7.544-6.609,7.536,7.536,0,0,0-7.544,6.609H1.688A0.835,0.835,0,0,1,.844,19,0.835,0.835,0,0,1,0,18.174a0.791,0.791,0,0,1,.136-0.423,9.1,9.1,0,0,1,5.786-7.215A5.741,5.741,0,0,1,3.375,5.783,5.845,5.845,0,0,1,9.281,0a5.845,5.845,0,0,1,5.906,5.783,5.741,5.741,0,0,1-2.547,4.754A9.1,9.1,0,0,1,18.427,17.751ZM13.5,5.783a4.22,4.22,0,0,0-8.437,0A4.22,4.22,0,0,0,13.5,5.783Zm4.219-4.126H27V3.313H17.719V1.656Zm0,3.313H27V6.594H17.719V4.969Zm0,3.281h5.063V9.906H17.719V8.25Z"/>
+                                            </svg>
+                                        </span>
+                                    </a>
+                                    <p class="tooltip-textpart"> See Writers with this name <strong>"<span ng-bind="tooltipValue"></span>"</strong>
+                                    <a href="javascript:void(0);" class="tooltip-close"><i class="material-icons ">close</i></a>
+                                    </p>
+                                     <span class="writer" ng-bind="searchNumUsers"></span>
+                                </li>
+                                <li class="active" id="all_part" ng-click="showMainData('all', $event)">
+                                    <a href="javascript:void(0);">All Stories</a>
+                                </li>
+                                 
+                                <li ng-repeat="cat in searchCats" ng-click="showMainData($index, $event)" ng-show="$index<numCatsShow">
+                                    <a href="javascript:void(0);" ng-bind="cat.key"></a>
+                                    <span ng-bind="cat.doc_count"></span>
+                                </li>
+                                <a ng-if="showMoreCategory && searchCats.length>3" ng-click="showHideCategory()" href="javascript:void(0);" class="btn-xs moreCategory_button">Show More</a>
+                                <a ng-if="!showMoreCategory" ng-click="showHideCategory()" href="javascript:void(0);" class="btn-xs moreCategory_button">Show Less</a>
+
+                            </ul>
+                        </div>
+                        
+
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 stry-result-wrapper" id="mainpart">
+                            <h4 id="reslt" class="foundresult" ng-bind="resultText"></h4>
+                            <!-- user -->
+                            <div ng-if="showUserRes" class="col-lg-12 col-md-12 col-sm-12 col-xs-12 writer-result-wrapper">
+                                <div ng-repeat="user in userData track by $index" ng-init="initUserObj(user)" class="col-lg-4 col-md-4 col-sm-4 colxs-4 writer-result writer-card">
+                                    <a ng-href="user/{{user.user_id}}/{{user.user_full_name | slugify}}" target="_self"><img class="img-responsive" src="{{user | s3_user:'profile'}}"></a>
+                                    <a ng-href="user/{{user.user_id}}/{{user.user_full_name | slugify}}" target="_self"><h5 class="text-center" ng-bind="user.user_full_name"></h5></a>
+                                </div>
+                            </div>
+                            <!-- user -->
+                            <!-- <div  > -->
+                                <div ng-if="showStoryRes" ng-repeat="story in storyData track by $index" ng-init="initStoryObj(story)" class="col-lg-12 col-md-12 col-sm-12 col-xs-12 stry-area">
+                                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 stry-img2">
+                                        <a ng-href="{{story.storyUrl}}" style="background-image:url('{{ story | s3_image_new:400 }}')" target="_self"></a>
+                                    </div>
+                                    <div class="col-lg-8 col-md-8 col-xs-8 col-sm-8 stry-title">
+                                        <a ng-href="{{story.storyUrl}}" title="" ng-bind="story.story_title" target="_self"></a>
+                                    </div>
+                                </div>
+                            <!-- </div> -->
+
+
+                            <div ng-if="showLoadMore" class="col-lg-12 col-md-12 col-sm-12 col-xs-12 loadMore-btn" ng-click="loadMoreData()">
+                                <a href="javascript:void(0);" title="more Stories">
+                                    <span class="showmoreIcn">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="19" viewBox="0 0 16 19">
+                                              <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+                                            <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description rdf:about=""/></rdf:RDF></x:xmpmeta><?xpacket end="w"?></metadata><defs></defs><path style="fill: #6a6763;fill-rule: evenodd;"class="cls-1" d="M0,0H16V2H0V0ZM0,5H16V7H0V5ZM6,9h4v5H6V9Zm6.243,5L8,18.243,3.757,14h8.485Z"/></svg>
+                                    </span> Show More Results</a>
+                            </div>
+                            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12  loadMore-btn" ng-if="showLoadmoreLoader">
+                                <img src="//cdn.wittyfeed.com/assets_main/images/loaders/85x85_blue.gif" />
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Loader -->
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12  search-loader" ng-if="showMiddleLoader">
+                            <img src="//cdn.wittyfeed.com/assets_main/images/loaders/85x85_blue.gif"  />
+                        </div>
+                    <!--Loader ends-->
+                </div>
+
+
+
+                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 search-rightpart" id="histry">
+                
+                    <h3>
+                    <span class="historyIcn">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21">
+                          <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+                        <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description rdf:about=""/></rdf:RDF></x:xmpmeta><?xpacket end="w"?></metadata><defs></defs><path class="cls-1" style="fill: #6a6763;fill-rule: evenodd;" d="M10.5,0A10.5,10.5,0,1,1,0,10.5,10.5,10.5,0,0,1,10.5,0Zm0,1.625A8.875,8.875,0,1,1,1.625,10.5,8.875,8.875,0,0,1,10.5,1.625Zm5.654,9.683H9.692V6.462h1.615V9.692h4.846v1.615Z"/>
+                        </svg>
+
+                    </span>
+                    Search History</h3>
+
+                    <div class="no-history" ng-if="historyData && historyData.length==0">
+                        <span>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="200" height="220" style="margin: auto;display: block;"viewBox="0 0 200 220">
+                                <metadata>
+                                    <?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d" ?>
+                                        <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+                                            <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                                <rdf:Description rdf:about="" />
+                                            </rdf:RDF>
+                                        </x:xmpmeta>
+                                        <?xpacket end="w" ?>
+                                </metadata>
+                                <defs>
+                                    
+                                </defs>
+                                <path class="cls-1" style="fill: #eee;  fill-rule: evenodd;" d="M174,153l-12,12-26.795-26.189a72.049,72.049,0,1,1,12.553-12.539ZM90.5,26A55.5,55.5,0,1,0,146,81.5,55.5,55.5,0,0,0,90.5,26ZM91,87H87V57h8V79h31v8H91Z" />
+                                <path class="cls-1" style="fill: #eee;  fill-rule: evenodd;" d="M98.347,129.915A45,45,0,0,1,48.463,90.4l-5.96.691,8.085-17.034L62.356,88.788l-5.934.688a36.494,36.494,0,0,0,40.392,31.557c0.487-.057.968-0.13,1.449-0.2l1.056,8.95C98.994,129.822,98.674,129.877,98.347,129.915Z" />
+                                <path id="No_History_Available_" data-name="No History Available " class="cls-2" style="fill: #c2c2c2;  fill-rule: evenodd;" d="M20.19,204.961V191.618H17.349V200l-6.181-8.382H8.247v13.343h2.841v-8.7l6.361,8.7H20.19Zm7.058,0.24a5.071,5.071,0,1,0,0-10.142A5.071,5.071,0,1,0,27.248,205.2Zm0-2.26a2.832,2.832,0,1,1,2.481-2.821A2.542,2.542,0,0,1,27.248,202.941Zm24.181,2.02V191.618H48.569v5.241h-6.3v-5.241H39.427v13.343h2.841v-5.6h6.3v5.6h2.861Zm3.817-10.7a1.519,1.519,0,0,0,1.52-1.52,1.52,1.52,0,0,0-3.041,0A1.532,1.532,0,0,0,55.247,194.259Zm1.28,10.7V195.3H53.986v9.662h2.541Zm6,0.24c2.681,0,4.181-1.34,4.181-3.1,0-3.9-5.721-2.7-5.721-4.141,0-.54.6-0.96,1.52-0.96a4.076,4.076,0,0,1,2.861,1.12l1.02-1.741a6.173,6.173,0,0,0-3.9-1.32c-2.541,0-3.961,1.42-3.961,3.041,0,3.8,5.741,2.5,5.741,4.1,0,0.6-.52,1.04-1.62,1.04a5.531,5.531,0,0,1-3.341-1.32l-1.1,1.78A6.5,6.5,0,0,0,62.527,205.2Zm9.3,0a3.137,3.137,0,0,0,2.121-.62l-0.54-1.92a1.388,1.388,0,0,1-.88.28,0.928,0.928,0,0,1-.88-1.06V197.52h1.96V195.3h-1.96v-2.64H69.086v2.64h-1.6v2.221h1.6v5.041A2.415,2.415,0,0,0,71.827,205.2Zm8,0a5.071,5.071,0,1,0-5.1-5.081A4.9,4.9,0,0,0,79.827,205.2Zm0-2.26a2.832,2.832,0,1,1,2.48-2.821A2.542,2.542,0,0,1,79.827,202.941Zm9.539,2.02V198.58a3.237,3.237,0,0,1,2.381-1.1,3.374,3.374,0,0,1,.7.06v-2.481a4.153,4.153,0,0,0-3.081,1.56V195.3H86.826v9.662h2.541Zm4.319,3.781a6.946,6.946,0,0,0,1.26.14,3.511,3.511,0,0,0,3.661-2.34l4.541-11.243h-2.74l-2.521,6.722-2.52-6.722H92.645l3.921,9.8-0.36.82a1.281,1.281,0,0,1-1.34.7,2.2,2.2,0,0,1-.8-0.16Zm28.223-3.781-5.141-13.343h-3.561l-5.161,13.343h3.24l0.841-2.26h5.721l0.82,2.26h3.241Zm-4.841-4.761h-4.161l2.08-5.741Zm10.859,4.761,3.881-9.662h-2.741l-2.52,6.722-2.521-6.722h-2.72l3.881,9.662h2.74Zm13.36,0V198.72c0-2.781-2.02-3.661-4.22-3.661a6.337,6.337,0,0,0-4.221,1.52l0.96,1.7a4.065,4.065,0,0,1,2.82-1.14c1.281,0,2.121.64,2.121,1.62v1.3a3.975,3.975,0,0,0-3.061-1.18,3.091,3.091,0,0,0-3.36,3.121,3.218,3.218,0,0,0,3.36,3.2,4,4,0,0,0,3.061-1.24v1h2.54Zm-4.581-1.48a1.48,1.48,0,1,1,0-2.881,2.541,2.541,0,0,1,2.041.84v1.2A2.541,2.541,0,0,1,136.705,203.481Zm8.36-9.222a1.519,1.519,0,0,0,1.52-1.52,1.52,1.52,0,0,0-3.04,0A1.532,1.532,0,0,0,145.065,194.259Zm1.28,10.7V195.3h-2.54v9.662h2.54Zm5.06,0V191.618h-2.541v13.343h2.541Zm10.861,0V198.72c0-2.781-2.02-3.661-4.221-3.661a6.341,6.341,0,0,0-4.221,1.52l0.96,1.7a4.069,4.069,0,0,1,2.821-1.14c1.28,0,2.121.64,2.121,1.62v1.3a3.978,3.978,0,0,0-3.061-1.18A3.092,3.092,0,0,0,153.3,202a3.219,3.219,0,0,0,3.361,3.2,4,4,0,0,0,3.061-1.24v1h2.54Zm-4.581-1.48a1.48,1.48,0,1,1,0-2.881,2.544,2.544,0,0,1,2.041.84v1.2A2.544,2.544,0,0,1,157.685,203.481Zm9.64-1.62V198.44a2.8,2.8,0,0,1,2.18-1.12,2.835,2.835,0,0,1,0,5.621A2.827,2.827,0,0,1,167.325,201.861Zm0,3.1v-1.24a3.75,3.75,0,0,0,2.98,1.48c2.441,0,4.281-1.84,4.281-5.061,0-3.16-1.82-5.081-4.281-5.081a3.72,3.72,0,0,0-2.98,1.48v-4.921h-2.541v13.343h2.541Zm11.72,0V191.618H176.5v13.343h2.541Zm7.06,0.24a6.024,6.024,0,0,0,3.981-1.34l-1.12-1.64a4.117,4.117,0,0,1-2.581.96,2.6,2.6,0,0,1-2.78-2.241h7.181v-0.56c0-3.16-1.96-5.321-4.841-5.321A5.072,5.072,0,1,0,186.105,205.2Zm2.221-5.981h-4.762a2.323,2.323,0,0,1,2.381-2.14A2.239,2.239,0,0,1,188.326,199.22Z" />
+                            </svg>
+                        </span>
+                    </div> 
+
+                    <ul id="history" ng-show="historyData && historyData.length>0">
+                        <p class="delete-msg">Deleted!</p>
+                        <li ng-repeat="history in historyData track by $index">
+                            <a href="javascript:void(0)" class="del-history-icn" ng-click="deleteHistory(history, $index)"><i class="glyphicon glyphicon-trash"></i></a>
+                            <a href="javascript:void(0);" class="history-text" title="historySearch" ng-click="clickSearch(history)" ng-bind="history"></a>
+                        </li>
+                    </ul>
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12  right-loader" ng-if="showRightLoader">
+                        <img src="//cdn.wittyfeed.com/assets_main/images/loaders/85x85_blue.gif" />
+                    </div>
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+  var BASE_URL = "//www.wittyfeed.com/";
+  var ROUTE_URL = "";
+  var REDIS_URL = "//stats.wittyfeed.com/";
+  var COUNTER_URL = "https://counters.wittyfeed.com/";
+  var COMMENT_URL = "//ping.wittyfeed.com/";
+  var TESTING_URL = "//testing.wittyfeed.com/";
+  var S3_IMAGE_PATH = "//cdn.wittyfeed.com/";
+  var YOUTUBE_VIDEO_PATH = "//www.youtube.com/embed/";
+  var FB_APP_ID = "645451268885429";
+  var POPULAR_STORIES_URL = "//52.23.127.54/api.php";
+
+ 
+  var USER_ID, USER_FIRST_NAME, USER_FULL_NAME, USER_SLUG, USER_ROLE, USER_PROFILE_IMAGE;
+USER_PROFILE_IMAGE = '//cdn.wittyfeed.com/assets_main/images/default_user.png'</script>    
+<div ng-controller="StoryListController" infinite-scroll='exploreMore()' infinite-scroll-disabled='busy' infinite-scroll-distance='0'>
+    
+    <!-- Home page story slider -->
+<div class="homepage-slider clearfix">
+    <div class="container-fluid">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                <!-- Indicators -->
+                <ol class="carousel-indicators">
+                    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                    <li data-target="#carousel-example-generic" data-slide-to="{{$index}}" ng-repeat="story in promotedStories track by $index" ng-if="$index>0 && $index<3"></li>
+                    <!-- <li data-target="#carousel-example-generic" data-slide-to="2"></li> -->
+                </ol>
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner" role="listbox"  ng-if="promotedStories" style="border-bottom: 1px solid #ebebeb;">
+                    <div class="item active" ng-init="getStoryUrl(promotedStories[0])">
+                        <div class="row">
+                            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 homePageItem">
+                                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12 featured_img clearfix">
+                                    <a href="{{promotedStories[0].storyUrl}}" ng-style="{'background-image': 'url(' + (promotedStories[0] | s3_image) + ')'}">
+                                    </a>
+                                    <div ng-init="tempPartnerClassText='partner_btn'" class="{{tempPartnerClassText}}" ng-if="promotedStories[0].sponsored=='0'">
+                                        <h5><a href="javascript:void(0);" ng-init="tempPartnerText='partner'" ng-bind="tempPartnerText"></a></h5>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 featured_title clearfix">
+                                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 featuredCaption">
+                                        <h6 class="wri-name">
+                                            <span ng-init="tempByText='By'" ng-bind="tempByText"></span> 
+                                            <a ng-if="!promotedStories[0].is_anonymous || promotedStories[0].is_anonymous==0" ng-href="//www.wittyfeed.com/user/{{promotedStories[0].user_id}}/{{promotedStories[0].user_full_name | slugify}}" ng-bind="promotedStories[0].user_full_name"></a>
+                                            <a ng-if="promotedStories[0].is_anonymous==1" ng-bind="promotedStories[0].user_full_name"></a><span ng-init="tempInText='In'" ng-bind="tempInText"></span>
+                                            <span class="stryCatiName"><a ng-href="//www.wittyfeed.com/{{promotedStories[0].cat_name | slugify}}" ng-bind="promotedStories[0].cat_name"></a>
+                                            </span>
+                                        </h6>
+                                        <h4 style="line-height: 1.2;"><a href="{{promotedStories[0].storyUrl}}" ng-bind-html="promotedStories[0].story_title"></a></h4>
+                                        <p class="stryDesc"><a href="{{promotedStories[0].storyUrl}}" ng-bind-html="promotedStories[0].short_desc"></a>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item" ng-repeat="story in promotedStories track by $index" ng-if="$index>0 && $index<3" ng-init="getStoryUrl(story)">
+                        <div class="row">
+                            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 homePageItem">
+                                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8 featured_img clearfix">
+                                    <a ng-href="{{story.storyUrl}}" ng-style="{'background-image': 'url(' + (story | s3_image) + ')'}">
+                                    </a>
+                                    <div class="partner_btn" ng-if="story.sponsored=='0'">
+                                        <h5><a href="javascript:void(0);">partner</a></h5>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 featured_title clearfix">
+                                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 featuredCaption">
+                                        <h6 class="wri-name">By 
+                                            <a ng-if="!story.is_anonymous || story.is_anonymous==0" ng-href="//www.wittyfeed.com/user/{{story.user_id}}/{{story.user_full_name | slugify}}" ng-bind="story.user_full_name"></a>
+                                            <a ng-if="story.is_anonymous==1" ng-bind="story.user_full_name"></a>
+                                            IN <span class="stryCatiName"><a ng-href="//www.wittyfeed.com/{{story.cat_name | slugify}}" ng-bind="story.cat_name"></a></span></h6>
+                                        <h4 style="line-height: 1.2;"><a ng-href="{{story.storyUrl}}" ng-bind-html="story.story_title"></a></h4>
+                                        <p class="stryDesc"><a ng-href="{{story.storyUrl}}" ng-bind-html="story.short_desc"></a>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="text-align: center;margin-top: 5px;">
+            <script type="text/javascript"><!--
+            google_ad_client = "ca-pub-2153431257373264";
+            /* Desktop Homepage */
+            google_ad_slot = "3614414853";
+            google_ad_width = 970;
+            google_ad_height = 250;
+            //-->
+            </script>
+            <script type="text/javascript"
+            src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+            </script>
+        </div>
+
+    </div>
+</div>
+
+<!-- Home page story slider -->
+<!-- trending story -->
+<!-- <div class="tranding-str">
+   	<span>
+       	<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+         	<circle id="Ellipse_1_copy_2" style="fill: #198feb;" data-name="Ellipse 1 copy 2" class="cls-1" cx="17.5" cy="17.5" r="17.5"/>
+         	<path id="Rectangle_2_copy_2" style="fill: #fff;fill-rule: evenodd;" data-name="Rectangle 2 copy 2" class="cls-2" d="M28.141,12.98l-4.889,4.933-0.517-1.931L17.9,17.276l1.553,5.8-2.9.776h0l-5.8,1.553L9.988,22.5l5.8-1.553-0.776-2.9h0l-0.776-2.9,7.728-2.071-0.517-1.931Z"/>
+       	</svg> <strong>Trending Topics</strong>
+   	</span>
+   	<div class="container">
+       	<ul class="list-unstyled" id="trendingTopicsUL" style="display: none;">
+           	<li ng-repeat="topic in trendingTopics track by $index" ng-if="$index<5">
+              <a ng-href="{{topic}}">
+                <span ng-init="tempTopicName='#'+topic" ng-bind="tempTopicName"></span>
+              </a>
+        	</li>
+       	</ul>
+   	</div>
+</div> -->
+<!-- trending story -->    <div class="container homeContainer">
+        <!--homePage-Wrapper-->
+        <div class="row">
+            <!-- RECOMMANDED STORIES AND TRENDING ON WITTYFEED -->
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 home-StrySection" style="margin-top: 0px;">
+                <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 strySection-left" ng-if="recommendedStories">
+    <div class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 strySection-title">
+            <h1>RECOMMENDED STORIES</h1>
+        </div>
+        <!-- two story part-->
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 strySection-content" ng-repeat="story in recommendedStories track by $index" ng-if="$index<2">
+            <div class="stry-wrapper">
+                <div class="stry-inner">
+                    <a ng-href="//www.wittyfeed.com/story/{{story.story_id}}/{{story.story_slug}}" class="stry-img" ng-style="{'background-image': 'url(' + (story | s3_image:400) + ')'}"></a>
+                </div>
+                <div class="stry-caption">
+                    <h3>
+                    <a ng-href="//www.wittyfeed.com/story/{{story.story_id}}/{{story.story_slug}}" ng-bind="story.story_title"></a>
+                </h3>
+                </div>
+            </div>
+        </div>
+        <!-- two story part-->
+    </div>
+    <div class="row strySubSection-content">
+        <!-- four thumbnail story part-->
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 stry-wrapper" ng-repeat="story in recommendedStories track by $index" ng-if="$index>=2">
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 stryLeftImg">
+                <a ng-href="//www.wittyfeed.com/story/{{story.story_id}}/{{story.story_slug}}" class="stry-img" ng-style="{'background-image': 'url(' + (story | s3_image:200) + ')'}"></a>
+            </div>
+            <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8 stryRightCaption">
+                <h3>
+                    <a ng-href="//www.wittyfeed.com/story/{{story.story_id}}/{{story.story_slug}}" ng-bind="story.story_title"></a>
+                </h3>
+            </div>
+        </div>
+        <!-- <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 stry-wrapper">
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 stryLeftImg">
+                <a href="javascript:void(0);" class="stry-img" style="background-image: url('.../../assets/images/home/03.jpeg');"></a>
+            </div>
+            <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8 stryRightCaption">
+                <h3>
+                    <a href="javascript:void(0);">Ever Wondered What Is The Difference Between White Eggs</a>
+                </h3>
+            </div>
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 stry-wrapper">
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 stryLeftImg">
+                <a href="javascript:void(0);" class="stry-img" style="background-image: url('.../../assets/images/home/04.jpeg');"></a>
+            </div>
+            <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8 stryRightCaption">
+                <h3>
+                    <a href="javascript:void(0);">A Family Parrot Exposes Illicit Relationship Of Husband With Housemaid </a>
+                </h3>
+            </div>
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 stry-wrapper">
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 stryLeftImg">
+                <a href="javascript:void(0);" class="stry-img" style="background-image: url('.../../assets/images/home/05.jpeg');"></a>
+            </div>
+            <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8 stryRightCaption">
+                <h3>
+                    <a href="javascript:void(0);">10 World's Amazing Beaches That Will Refresh Even The Most </a>
+                </h3>
+            </div>
+        </div> -->
+        <!-- four thumbnail story part-->
+    </div>
+</div>                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 strySection-right">
+    <div class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 strySection-title">
+            <h1>Trending on wittyfeed</h1> 
+        </div>
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 stryTitle-wrapper" ng-repeat="story in todayTopStories track by $index" ng-if="$index<5" ng-init="getStoryUrl(story)">
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 stryTitle-box">
+                <h3>0<span ng-bind="$index+1"></span></h3>
+                <a ng-href="{{story.storyUrl}}" class="stryHiddenImg" ng-style="{'background-image': 'url(' + (story | s3_image:200) + ')'}"></a>
+            </div>
+            <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9 stryTitle-caption">
+                <h3>
+                <a ng-href="{{story.storyUrl}}" ng-bind-html="story.story_title"></a>
+            </h3>
+                <span class="category">BY<a ng-href="//www.wittyfeed.com/user/{{story.user_id}}/{{story.user_full_name | slugify}}" ng-bind="story.user_full_name">Desi</a></span>
+            </div>
+        </div>
+    </div>
+</div>            </div>
+            <!-- RECOMMANDED STORIES AND TRENDING ON WITTYFEED -->
+        </div>
+         <!--homePage-Wrapper-->
+
+         <style type="text/css">
+    .slick-prev-slide, .slick-next-slide {
+        display: none !important;
+    }
+</style>
+<!-- Most Viewed Stories -->
+<div class="row home-mostViewed" ng-if="MostPopular">
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 home-mostViewed-title">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding:0px;">
+            <div class="pull-right">
+                <ul class="list-inline list-unstyled slider-control">
+                    <li class="prev">
+                        <a href="javascript:void(0);" ng-click="slickConfig.method.slickPrev()">
+                            <svg style=" -moz-transform: scaleX(-1);-o-transform: scaleX(-1);-webkit-transform: scaleX(-1);transform: scaleX(-1);filter: FlipH;   -ms-filter: " FlipH ";" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 612.074 612.074" style="enable-background:new 0 0 612.074 612.074;" xml:space="preserve" width="512px" height="512px">
+                                <g>
+                                    <path d="M306.037,0.037C136.997,0.037,0,137.034,0,306.074s136.997,305.963,306.037,305.963S612.074,475.04,612.074,306   S475.077,0.037,306.037,0.037z M306.037,582.442c-152.203,0-276.368-124.165-276.368-276.368S153.834,29.706,306.037,29.706   s276.368,124.165,276.368,276.368S459.056,582.442,306.037,582.442z M425.381,285.232c-0.816,0-0.816-0.816-1.632-0.816   l-169.856-97.76c-5.637-3.189-10.384-4.821-16.021-4.821c-11.2,0-23.216,8.827-23.216,28.037v192.256   c0.816,19.211,12.016,28.037,24.032,28.037c5.637,0,11.2-1.632,16.837-4.821l162.587-93.754   c12.016-6.379,17.653-15.205,18.395-24.848C437.397,302.885,435.84,293.242,425.381,285.232z M244.325,398.197V215.509   l157.84,91.307L244.325,398.197z" fill="#b0b5b8" />
+                                </g>
+                            </svg>
+                        </a>
+                    </li>
+                    <li class="next">
+                        <a href="javascript:void(0);" ng-click="slickConfig.method.slickNext()">
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 612.074 612.074" style="enable-background:new 0 0 612.074 612.074;" xml:space="preserve" width="512px" height="512px">
+                                <g>
+                                    <path d="M306.037,0.037C136.997,0.037,0,137.034,0,306.074s136.997,305.963,306.037,305.963S612.074,475.04,612.074,306   S475.077,0.037,306.037,0.037z M306.037,582.442c-152.203,0-276.368-124.165-276.368-276.368S153.834,29.706,306.037,29.706   s276.368,124.165,276.368,276.368S459.056,582.442,306.037,582.442z M425.381,285.232c-0.816,0-0.816-0.816-1.632-0.816   l-169.856-97.76c-5.637-3.189-10.384-4.821-16.021-4.821c-11.2,0-23.216,8.827-23.216,28.037v192.256   c0.816,19.211,12.016,28.037,24.032,28.037c5.637,0,11.2-1.632,16.837-4.821l162.587-93.754   c12.016-6.379,17.653-15.205,18.395-24.848C437.397,302.885,435.84,293.242,425.381,285.232z M244.325,398.197V215.509   l157.84,91.307L244.325,398.197z" fill="#b0b5b8" />
+                                </g>
+                            </svg>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <h1 class="">Most Viewed Stories</h1>
+        </div>
+    </div>
+   
+   <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 home-mostViewed-slider">
+        <div class="row" style="margin-left: 10px; margin-right: 10px;">
+                <slick infinite=true slides-to-show=5 slides-to-scroll=1 settings="slickConfig">
+                        <div class="col-lg-2 col-md-3 col-sm-3 col-xs-3 slider-box" ng-repeat="mostview in MostPopular" style="padding-left: 7px; padding-right: 7px;">
+                            <div class="viewed">
+                                <a ng-href="//www.wittyfeed.com/story/{{mostview.story_id}}/{{mostview.story_slug}}" style="background-image:url(//cdn.wittyfeed.com/{{mostview.story_id}}/400/{{mostview.cover_image}});"></a>
+                            </div>
+                            <div class="grey_bg">
+                                <h4><a ng-href="//www.wittyfeed.com/story/{{mostview.story_id}}/{{mostview.story_slug}}" ng-bind="mostview.story_title"></a>  </h4>
+                            </div>
+                        </div>
+                 </slick>
+        </div>
+    </div>
+</div>
+<!-- Most Viewed Stories        
+
+        <!-- Category story -->
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 travelAdvanture">
+                <!-- top two category stories -->
+                <!-- Travel and Adventure Part-->
+<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12" ng-repeat="catStory in categoryLatestStories track by $index" ng-if="$index<2">
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 heading">
+        <h3 ng-bind="catStory.cat_name"></h3>
+    </div>
+    <div class="travel-wrapper clearfix">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 col-padding-zero travel-str" ng-repeat="story in catStory.stories track by $index" ng-if="$index<6">
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 col-xs-4 story-smallimg-cover">
+                <a ng-href="//www.wittyfeed.com/story/{{story.story_id}}/{{story.story_slug}}" class="travel-image" ng-style="{'background-image': 'url(' + (story | s3_image:800) + ')'}"></a>
+            </div>
+            <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8 col-xs-8 col-8-margin">
+                <p class="story-description"><a ng-href="//www.wittyfeed.com/story/{{story.story_id}}/{{story.story_slug}}" ng-bind="story.story_title">Girl Was Overwhelmed With The Disney World Proposal, What </a>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>                <!-- top two category stories -->
+                
+                <!-- top writers -->
+                <!-- Top Writer Part-->
+<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 topWriContainer">
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 heading">
+        <h3>Top Writers</h3>
+          <div class="pull-right">
+                <a href="javascript:void(0);">
+                    <i class="material-icons writer-search-icon pull-right">search</i>
+                    <i class="material-icons close-wrSearch" ng-click="searchWriterText=''">close</i>
+                </a>
+            </div>
+        <div class="form-group search-input">
+            <input type="text" class="form-control" placeholder="Search" ng-model="searchWriterText" ng-change="searchWriterFunc(searchWriterText)">
+        </div>
+    </div>
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 col-padding-zero topWri-box" ng-repeat="writer in topWriters track by $index" ng-if="$index<6 && (!searchWriterText || searchWriterText.length==0)">
+        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2 writer-photo">
+            <a ng-href="//www.wittyfeed.com/user/{{writer.user_id}}/{{writer.user_full_name | slugify}}" ng-style="{'background-image': 'url(' + (writer | s3_user:'profile') + ')'}"></a>
+        </div>
+        <!-- if not followed -->
+        <div class="col-lg-10 col-md-10 col-sm-10 col-xs-10 writer-name writer-wrapper" ng-if="!writer.is_follow || writer.is_follow==0">
+            <a ng-href="//www.wittyfeed.com/user/{{writer.user_id}}/{{writer.user_full_name | slugify}}" ng-bind="writer.user_full_name"></a>
+            <div class="pull-right">
+                                    <a href="javascript:void(0);" class="follow-wri" id="followUser" ng-click="setRootUrl()">
+                        <i class="material-icons writer-button">add</i>
+                        <b class="material-icons">check</b>
+                    </a>
+                            </div>
+            <ul class="list-unstyled writer-meta">
+                <li>Stories <span ng-bind="writer.story_count"></span></li>
+                <li>|</li>
+                <li>views <span ng-bind="writer.view_count"></span></li>
+            </ul>
+        </div>
+        <!-- if not followed -->
+
+        <!-- if followed -->
+        <div class="col-lg-10 col-md-10 col-sm-10 col-xs-10 writer-wrapper" ng-if="writer.is_follow==1">
+            <a ng-href="//www.wittyfeed.com/user/{{writer.user_id}}/{{writer.user_full_name | slugify}}" ng-bind="writer.user_full_name">Tanaya kanchan</a>
+            <div class="pull-right">
+                <a href="javascript:void(0);" class="follow-wri2">
+                    <b class="material-icons" style="display: block;">check</b>
+                </a>
+            </div>
+            <ul class="list-unstyled writer-meta">
+                <li>Stories <span ng-bind="writer.story_count"></span></li>
+                <li>|</li>
+                <li>views <span ng-bind="writer.view_count"></span></li>
+            </ul>
+        </div>
+        <!-- if followed -->
+
+        
+    </div>
+<!-- for search data -->
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 col-padding-zero topWri-box" ng-repeat="writer in searchWriters track by $index" ng-if="$index<6 && searchWriterText.length>0">
+        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2 writer-photo">
+            <a ng-href="//www.wittyfeed.com/user/{{writer.user_id}}/{{writer.user_full_name | slugify}}" ng-style="{'background-image': 'url(' + (writer | s3_user:'profile') + ')'}"></a>
+        </div>
+        <div class="col-lg-10 col-md-10 col-sm-10 col-xs-10 writer-name writer-wrapper">
+            <a style="position:relative;top:12px;" ng-href="//www.wittyfeed.com/user/{{writer.user_id}}/{{writer.user_full_name | slugify}}" ng-bind="writer.user_full_name"></a>
+            <div class="pull-right">
+                <a href="javascript:void(0);" class="follow-wri">
+                    <i class="material-icons writer-button" >add</i>
+                    <b class="material-icons" >check</b>
+                </a>
+            </div>
+        </div>
+    </div>
+<!-- for search data -->
+</div>                <!-- top writers -->
+                
+            </div>
+        </div>
+        <!-- Category story -->
+
+        <!-- Premium story -->
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 premiumStory">
+                <!-- main story -->
+                <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 leftPremiumStory">
+    <div ng-repeat="catStory in categoryLatestStories track by $index" ng-if="$index>=2" ng-show="$index<showNumStories">
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 strySection-title">
+            <h4 ng-bind="catStory.cat_name"></h4>
+        </div>
+        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 premiumStryBox" ng-repeat="story in catStory.stories track by $index" ng-if="$index==0">
+            <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12 premiumCoverImg">
+                <a ng-href="//www.wittyfeed.com/story/{{story.story_id}}/{{story.story_slug}}" ng-style="{'background-image': 'url(' + (story | s3_image:400) + ')'}"></a>
+            </div>
+            <div class="col-lg-7 col-md-7 col-sm-7 col-xs-12 premiumCaption">
+                <h4>
+                <a ng-href="//www.wittyfeed.com/story/{{story.story_id}}/{{story.story_slug}}" ng-bind="story.story_title"></a>
+            </h4>
+            <p class="onelinear" ng-bind="story.short_desc"></p>
+            </div>
+        </div>
+        <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12 subPremiumStry">
+            <div class="col-lg-6 col-sm-6 col-md-6 col-xs-12 col-padding-leftZero travel-str" ng-repeat="story in catStory.stories track by $index" ng-if="$index>0 && $index<5">
+                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 story-smallimg-cover">
+                    <a ng-href="//www.wittyfeed.com/story/{{story.story_id}}/{{story.story_slug}}" class="travel-image" ng-style="{'background-image': 'url(' + (story | s3_image:200) + ')'}"></a>
+                </div>
+                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8 col-8-margin">
+                    <p class="story-description"><a ng-href="//www.wittyfeed.com/story/{{story.story_id}}/{{story.story_slug}}" ng-bind="story.story_title"></a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 strySection-title" ng-show="categoryLatestStories.length<showNumStories">
+    <h4>Explore More Stories</h4>
+</div>
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 premiumStryBox" ng-repeat="story in exploreMoreStories track by $index" ng-show="($index+categoryLatestStories.length)<showNumStories">
+    <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12 premiumCoverImg">
+        <a ng-href="//www.wittyfeed.com/story/{{story.story_id}}/{{story.story_slug}}" ng-style="{'background-image': 'url(' + (story | s3_image:400) + ')'}"></a>
+    </div>
+    <div class="col-lg-7 col-md-7 col-sm-7 col-xs-12 premiumCaption">
+        <h4>
+        <a ng-href="//www.wittyfeed.com/story/{{story.story_id}}/{{story.story_slug}}" ng-bind="story.story_title"></a>
+    </h4>
+    <p class="story-description"><a ng-href="//www.wittyfeed.com/story/{{story.story_id}}/{{story.story_slug}}" ng-bind="story.short_desc"></a>
+    </p>
+    </div>
+</div></div>                <!-- main story -->
+                <div style="text-align: center;">
+                    <script type="text/javascript"><!--
+                    google_ad_client = "ca-pub-2153431257373264";
+                    /* Desktop Homepage Ad2 */
+                    google_ad_slot = "5091122733";
+                    google_ad_width = 300;
+                    google_ad_height = 250;
+                    //-->
+                    </script>
+                    <script type="text/javascript"
+                    src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+                    </script>
+                </div>
+
+
+
+                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 rightStayConnect">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 strySection-title">
+                        <h3 class="stayConnected">Stay Connected</h3>
+                    </div>
+                    <!-- Follow Button-->
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding: 0px;">
+                        <ul class="list-unstyled list-inline social-icon social-follow">
+                             <li style="width: 90px;"> 
+                                <a href="https://www.facebook.com/wittyfeed" target="_blank">
+                                   <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                                         viewBox="0 0 291.319 291.319" style="enable-background:new 0 0 291.319 291.319;" xml:space="preserve">
+                                    <g>
+                                        <path style="fill:#3B5998;" d="M145.659,0c80.45,0,145.66,65.219,145.66,145.66c0,80.45-65.21,145.659-145.66,145.659
+                                            S0,226.109,0,145.66C0,65.219,65.21,0,145.659,0z"/>
+                                        <path style="fill:#FFFFFF;" d="M163.394,100.277h18.772v-27.73h-22.067v0.1c-26.738,0.947-32.218,15.977-32.701,31.763h-0.055
+                                            v13.847h-18.207v27.156h18.207v72.793h27.439v-72.793h22.477l4.342-27.156h-26.81v-8.366
+                                            C154.791,104.556,158.341,100.277,163.394,100.277z"/>
+                                    </g>
+
+
+                                    </svg>
+                                <div class="facebookIconFollow">
+                                    <h3>Like</h3>
+                                </div>
+                                </a>
+                            </li>
+
+
+                             <li>
+                                <a href="https://www.twitter.com/wittyfeed" target="_blank">
+                                 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                                         viewBox="0 0 112.197 112.197" style="enable-background:new 0 0 112.197 112.197;" xml:space="preserve">
+                                    <g>
+                                        <circle style="fill:#55ACEE;" cx="56.099" cy="56.098" r="56.098"/>
+                                        <g>
+                                            <path style="fill:#F1F2F2;" d="M90.461,40.316c-2.404,1.066-4.99,1.787-7.702,2.109c2.769-1.659,4.894-4.284,5.897-7.417
+                                                c-2.591,1.537-5.462,2.652-8.515,3.253c-2.446-2.605-5.931-4.233-9.79-4.233c-7.404,0-13.409,6.005-13.409,13.409
+                                                c0,1.051,0.119,2.074,0.349,3.056c-11.144-0.559-21.025-5.897-27.639-14.012c-1.154,1.98-1.816,4.285-1.816,6.742
+                                                c0,4.651,2.369,8.757,5.965,11.161c-2.197-0.069-4.266-0.672-6.073-1.679c-0.001,0.057-0.001,0.114-0.001,0.17
+                                                c0,6.497,4.624,11.916,10.757,13.147c-1.124,0.308-2.311,0.471-3.532,0.471c-0.866,0-1.705-0.083-2.523-0.239
+                                                c1.706,5.326,6.657,9.203,12.526,9.312c-4.59,3.597-10.371,5.74-16.655,5.74c-1.08,0-2.15-0.063-3.197-0.188
+                                                c5.931,3.806,12.981,6.025,20.553,6.025c24.664,0,38.152-20.432,38.152-38.153c0-0.581-0.013-1.16-0.039-1.734
+                                                C86.391,45.366,88.664,43.005,90.461,40.316L90.461,40.316z"/>
+                                        </g>
+                                    </g>
+
+                                </svg>
+                                 <div class="twitterIconFollow">
+                                    <h3>Follow</h3>
+                                </div>
+                                </a>
+                            </li>
+
+
+                             <li>
+                                <a href="https://plus.google.com/+Wittyfeed" target="_blank">
+                                <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                                         viewBox="0 0 291.32 291.32" style="enable-background:new 0 0 291.32 291.32;" xml:space="preserve">
+                                    <g>
+                                        <path style="fill:#DD4B39;" d="M145.66,0c80.113,0,145.66,65.547,145.66,145.66s-65.547,145.66-145.66,145.66S0,225.772,0,145.66
+                                            S65.547,0,145.66,0z"/>
+                                        <g>
+                                            <polygon style="fill:#FFFFFF;" points="219.4,121.079 219.4,137.466 235.786,137.466 235.786,153.853 219.4,153.853 219.4,170.24 
+                                                203.013,170.24 203.013,153.853 186.626,153.853 186.626,137.466 203.013,137.466 203.013,121.079      "/>
+                                            <path style="fill:#FFFFFF;" d="M71.919,186.626c-21.849-21.849-21.849-60.085,0.91-81.933
+                                                c16.387-16.387,40.056-20.028,60.995-11.835l8.193,4.552l9.104,6.373l-14.566,14.566l-5.462-3.641
+                                                c-12.745-8.193-30.953-6.373-42.787,5.462c-13.656,13.656-14.566,38.236,0,52.802c13.656,14.566,38.236,14.566,50.981,0
+                                                c3.641-3.641,7.283-9.104,8.193-14.566v-1.821h-32.773v-18.207h51.891l0.91,4.552v12.745c-0.91,11.835-5.462,23.67-13.656,31.863
+                                                C132.004,208.475,93.768,208.475,71.919,186.626z"/>
+                                        </g>
+                                    </g>
+                                </svg>
+                                <div class="googlePlusIconFollow">
+                                    <h3>Follow</h3>
+                                </div>
+
+                                </a>
+                            </li>
+                        </ul>
+                        <div class="col-lg-12 col-md-12 col-sm-12 followBox">
+                            <div class="followWrapper">
+                                <div class="beWithUs">
+                                    <p style="font-family: proxima_nova_rgregular">Get notified too!</p>
+                                </div>
+                                <form class="form-inline subscribe-form" ng-submit="funcSubscribe(subscribeEmail)">
+                                    <div class=" input-group">
+                                        <input type="text" class="form-control subscribe-placeholder" id="email" placeholder="Email" ng-model="subscribeEmail">
+                                        <a href="javascript:void(0);" class="input-group-addon subscribe subscribe-btn" ng-click="funcSubscribe(subscribeEmail)">Subscribe</a>
+                                    </div>
+                                </form>
+                            </div>
+                            <div class="successful-msg">
+                                <h3 class="msg-title">Thank You :)</h3>
+                                <div class="text-center successful-logo">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 37 37">
+                                      <circle class="cls-1" style="fill: #23d756;" cx="18.5" cy="18.5" r="18.5"/>
+                                      <path class="cls-2" style="fill: #fff;fill-rule: evenodd;" d="M29.107,15.774L16.379,28.5l-3.536-3.536h0l-4.95-4.95,3.536-3.535,4.95,4.95,9.192-9.192Z"/>
+                                    </svg>
+                                </div>
+                                <p class="msg-desc">You have successful Subscribed</p>
+                            </div>
+                            <div class="unsuccessful-msg">
+                                <h3 class="msg-title">Sorry :(</h3>
+                                <div class="text-center unsuccessful-logo">
+                                   <svg width="30" height="30" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 473.931 473.931" style="enable-background:new 0 0 473.931 473.931;" xml:space="preserve">
+                                    <circle style="fill: #FF5722;" cx="236.966" cy="236.966" r="236.966"></circle>
+                                    <path style="fill: #ffffff;" d="M214.399,252.389l-6.698-100.159c-1.257-19.517-1.871-33.526-1.871-42.027
+                                        c0-11.57,3.035-20.602,9.085-27.072c6.065-6.499,14.054-9.74,23.94-9.74c11.996,0,20.022,4.15,24.056,12.445
+                                        c4.034,8.303,6.065,20.258,6.065,35.857c0,9.205-0.494,18.559-1.459,28.022l-8.995,103.089c-0.973,12.277-3.061,21.68-6.279,28.239
+                                        c-3.207,6.544-8.509,9.815-15.888,9.815c-7.536,0-12.756-3.158-15.682-9.512C217.744,275.016,215.645,265.351,214.399,252.389z
+                                         M237.609,389.974c-8.501,0-15.936-2.739-22.267-8.251c-6.346-5.497-9.512-13.197-9.512-23.102c0-8.647,3.035-16.004,9.085-22.069
+                                        c6.065-6.065,13.493-9.092,22.275-9.092c8.786,0,16.269,3.027,22.477,9.092c6.204,6.065,9.31,13.425,9.31,22.069
+                                        c0,9.751-3.136,17.414-9.418,22.997C253.291,387.19,245.976,389.974,237.609,389.974z"></path>
+                                    <g>
+                                    </g></svg>
+                                </div>
+                                <p class="msg-desc">Unable to Subscribed <a href="javascript:void(0);" ng-click="tryAgainToSubscribeWittyFeed()">Try Again</a></p>
+                            </div>
+                            <div class="errorsuccessful-msg">
+                                <div class="text-center errorsuccessful-logo">
+                                   <svg style="margin-top: 15px;" width="30" height="30" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 106.059 106.059" style="enable-background:new 0 0 106.059 106.059;" xml:space="preserve">
+                                        <g>
+                                            <path d="M90.546,15.518C69.858-5.172,36.199-5.172,15.515,15.513C-5.173,36.198-5.171,69.858,15.517,90.547   c20.682,20.684,54.341,20.684,75.027-0.004C111.23,69.858,111.229,36.2,90.546,15.518z M84.757,84.758   c-17.494,17.494-45.96,17.496-63.455,0.002c-17.498-17.497-17.496-45.966,0-63.46C38.796,3.807,67.261,3.805,84.759,21.302   C102.253,38.796,102.251,67.265,84.757,84.758z M33.24,38.671c0-3.424,2.777-6.201,6.201-6.201c3.423,0,6.2,2.776,6.2,6.201   c0,3.426-2.777,6.202-6.2,6.202C36.017,44.873,33.24,42.097,33.24,38.671z M61.357,38.671c0-3.424,2.779-6.201,6.203-6.201   c3.423,0,6.2,2.776,6.2,6.201c0,3.426-2.776,6.202-6.2,6.202S61.357,42.097,61.357,38.671z M76.017,64.068   c-3.843,8.887-12.843,14.629-22.927,14.629c-10.301,0-19.354-5.771-23.064-14.703c-0.636-1.529,0.089-3.285,1.62-3.921   c0.376-0.155,0.766-0.229,1.15-0.229c1.176,0,2.292,0.695,2.771,1.85c2.777,6.686,9.655,11.004,17.523,11.004   c7.69,0,14.528-4.321,17.42-11.011c0.658-1.521,2.424-2.222,3.944-1.563S76.675,62.548,76.017,64.068z" fill="#4CAF50"/>
+                                        </g>
+
+                                        </svg>
+                                </div>
+                                <p class="msg-desc" style="color: #4CAF50;font-size: 18px;">You have already Subscribed</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 adInStayConnected text-center">
+                        <img src="assets/images/home/300x2500.PNG" alt="">
+                    </div> -->
+                    <!-- editor pick stories -->
+                    <!-- Editor pick-->
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" style="padding: 0px;" id="editorDivFixed">
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 strySection-title editorDivFixed">
+    <h3>Editors' pick</h3>
+
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 editors-pick-wrapper" ng-repeat="story in editorPicks track by $index" ng-if="$index<5">
+        <div class="col-lg-5 col-md-4 col-sm-5 col-xs-5 editors-pick-image">
+            <a ng-href="//www.wittyfeed.com/story/{{story.story_id}}/{{story.story_slug}}" ng-style="{'background-image': 'url(' + (story | s3_image:200) + ')'}"></a>
+           
+        </div>
+        <div class="col-lg-7 col-md-7 col-sm-7 col-xs-7 editor-pick-title">
+            <p><a ng-href="//www.wittyfeed.com/story/{{story.story_id}}/{{story.story_slug}}" ng-bind="story.story_title"></a></p>
+             <ul class="list-unstyled editor-pick-meta">
+                <li>By</li>
+                <li> <a ng-href="//www.wittyfeed.com/user/{{story.user_id}}/{{story.user_full_name | slugify}}" ng-bind="story.user_f_name"></a></li>
+               
+            </ul>
+        </div>
+    </div>
+</div>
+</div>
+<!-- Editor picks -->                     <!-- editor pick stories -->
+                </div>
+            </div>
+        </div>
+        <!-- Premium story -->
+    </div>
+
+</div>
+<script>
+    $(document).on('click','.subscribe-btn', function(){
+        /*Successful msg*/
+      /*$(this).parents('.followWrapper').css('display','none');
+      $('.successful-msg').css({'visibility':'visible'});
+      $('.successful-logo>svg').css({'transform':'scale(1,1)'});
+      $('.successful-msg>h3.msg-title').css({'transform':'scale(1,1)'});
+      $('.successful-msg>p.msg-desc').css({'transform':'scale(1,1)'});*/
+    }).on('click','.subscribe-btn', function(){
+        /*Error message*/
+     /* $(this).parents('.followWrapper').css('display','none');
+      $('.unsuccessful-msg').css({'visibility':'visible'});
+      $('.unsuccessful-logo>svg').css({'transform':'scale(1,1)'});
+      $('.unsuccessful-msg>h3.msg-title').css({'transform':'scale(1,1)'});
+      $('.unsuccessful-msg>p.msg-desc').css({'transform':'scale(1,1)'});*/
+    }).on('click','.subscribe-btn', function(){
+        /*Already msg */
+      /*$(this).parents('.followWrapper').css('display','none');
+      $('.errorsuccessful-msg').css({'visibility':'visible'});
+      $('.errorsuccessful-logo>svg').css({'transform':'scale(1,1)'});
+      $('.errorsuccessful-msg>h3.msg-title').css({'transform':'scale(1,1)'});
+      $('.errorsuccessful-msg>p.msg-desc').css({'transform':'scale(1,1)'});*/
+    });
+</script>
+
+<script>
+    "#/_=_"==window.location.hash&&(history.replaceState?history.replaceState(null,null,window.location.href.split("#")[0]):window.location.hash=""),"#_=_"==window.location.hash&&(history.replaceState?history.replaceState(null,null,window.location.href.split("#")[0]):window.location.hash="");
+</script>
+
+<!-- Script file-->
+    <script src="//cdn.wittyfeed.com/assets_main/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="//cdn.wittyfeed.com/assets_main/js/slick.js" type="text/javascript" charset="utf-8"></script>
+     <script src="//cdn.wittyfeed.com/assets_main/js/jquery.flexslider-min.js"></script>
+     <script src="//cdn.wittyfeed.com/assets_main/js/angular-slick.min.js"></script>
+
+      <script type="text/javascript">
+        // $(function(){
+        //   SyntaxHighlighter.all();
+        // });
+        // $(window).load(function(){
+        //   $('.flexslider').flexslider({
+        //     animation: "fade",
+        //     slideshow: true,
+        //     controlNav: true,
+        //     directionNav: false,
+        //     controlsContainer: $(".custom-controls-container"),
+        //     customDirectionNav: $(".custom-navigation a"),
+        //     start: function(slider){
+        //       $('body').removeClass('loading');
+        //       window.flexslider = slider;
+        //     }
+        //   });
+        // });
+
+         $(document).on('ready', function() {
+
+            var slideCount = 5;
+            var width = $(window).width();
+
+            if(width<680 && width>500){
+                slideCount = 3;
+            }else  if(width<768 && width>300){
+                slideCount = 2;
+            }
+
+            $(".center").slick({
+                dots: false,
+                infinite: true,
+                centerMode: true,
+                slidesToShow: slideCount,
+                slidesToScroll: 4,
+                autoplay: true,
+                autoplaySpeed: 2000,
+                prevArrow: $('.prev'),
+                nextArrow: $('.next')
+            });
+
+        });
+    </script>    
+    <script src="//cdn.wittyfeed.com/assets_main/js/angular-route.min.js"></script>    
+    <script src="//cdn.wittyfeed.com/assets_main/js/angular-cookies.min.js"></script>
+    <script src="//cdn.wittyfeed.com/assets_main/js/angular-resource.min.js"></script>
+    <script src="//cdn.wittyfeed.com/assets_main/js/angular-sanitize.min.js"></script>
+    <script src="//cdn.wittyfeed.com/assets_main/js/angular-slugify.min.js"></script>
+    <script src="//cdn.wittyfeed.com/assets_main/js/ng-infinite-scroll.min.js"></script>
+    <script src="//cdn.wittyfeed.com/ngwittyfeed/home_controller_new_16.js"></script> 
+    <script src="//cdn.wittyfeed.com/ngwittyfeed/main_controller_v4.js"></script>
+    <script src="//cdn.wittyfeed.com/assets_main/js/wittyfeed_new_design_v7.js"></script>
+
+    <!-- AudienceInsights code start-->
+       <script type="text/javascript">
+
+        window._pusq = window._pusq || [];
+        window._pusVisitorData = window._pusVisitorData || [];
+        window._pusVisitorID = window._pusVisitorID || [];
+        (function()
+        { var u=(('https:'==document.location.protocol)?'https://secure.':'http://www.')+'audienceinsights.net/'; var su=u.replace(/www|secure/,'static'); _pusq.push(['setIdp', '8d4fbc766b04081e']); _pusq.push(['setTrackerUrl', u+'p']); _pusq.push(['setTrackerStaticUrl', su]); _pusq.push(['setVisitorData', _pusVisitorData]); _pusq.push(['setProviderId', _pusVisitorID]); _pusq.push(['send']); var s=document.createElement('script'); s.type='text/javascript'; s.defer=true; s.async=true; s.src=su+'t.js'; var p=document.getElementsByTagName('script')[0]; p.parentNode.insertBefore(s,p); }
+        )();
+        </script>
+        <noscript><img src="http://www.audienceinsights.net/p?f=gif&idp=8d4fbc766b04081e" alt="" width="1" height="1" style="display: none;" /></noscript>
+    <!-- End -->  
+
+</body>
+</html>

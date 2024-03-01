@@ -1,0 +1,647 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>The Official Home of YIFY Movies Torrent Download - YTS</title>
+<meta charset="utf-8">
+<!--[if IE]> <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> <![endif]-->
+<meta name="viewport" content="width=device-width, minimal-ui, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+<meta name="description" content="The official YTS YIFY Movies Torrents website. Download free yify movies torrents in 720p, 1080p and 3D quality. The fastest downloads at the smallest size."/>
+<meta name="keywords" content="yts, yify, yify movies, yts movies, yts torrents, yify movies, yify torrents"/>
+<meta property="og:title" content="The Official Home of YIFY Movies Torrent Download - YTS"/>
+<meta property="og:image" content="https://yts.ag/assets/images/website/og_yts_logo.png"/>
+<meta property="og:description" content="The official YTS YIFY Movies Torrents website. Download free yify movies torrents in 720p, 1080p and 3D quality. The fastest downloads at the smallest size."/>
+<meta property="og:url" content="https://yts.ag/"/>
+<!--[if IE]> <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" /> <![endif]-->
+<link rel="shortcut icon" href="/assets/images/website/favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/images/website/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/images/website/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/images/website/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/images/website/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/images/website/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/images/website/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/images/website/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/images/website/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/website/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/assets/images/website/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="/assets/images/website/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/assets/images/website/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/assets/images/website/favicon-32x32.png" sizes="32x32">
+<meta name="msapplication-TileColor" content="#00a300">
+<meta name="msapplication-TileImage" content="/assets/images/website/mstile-144x144.png">
+<meta name="msapplication-config" content="/assets/images/website/browserconfig.xml">
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch" title="YTS - The Official Home of YIFY Movie Torrent Downloads"/>
+<link href='https://fonts.googleapis.com/css?family=Arimo:400,700,400italic,700italic&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="/assets/fonts/fonts.css">
+<link rel="stylesheet" href="/assets/minified/2bacb5de663bc55f0cbed2b4a7d1504dc.css">
+</head>
+<body class="non-touch">
+<script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-69675816-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+<header class="nav-bar">
+<div class="nav-logo pull-left">
+<a href="https://yts.ag/"><img src="https://yts.ag/assets/images/website/logo-YTS.svg" alt="YTS YIFY"/></a>
+</div>
+<span class="header-slogan hidden-xs pull-left">HD movies at the smallest file size.</span>
+<div class="main-nav-links hidden-sm hidden-xs">
+<form method="GET" action="https://yts.ag/search-movies" accept-charset="UTF-8" id="quick-search" name="quick-search">
+<div id="quick-search-container">
+<input id="quick-search-input" name="query" autocomplete="off" type="search" value="Quick search">
+<div class="ajax-spinner"></div>
+</div>
+</form>
+<ul class="nav-links">
+<li><a href="https://yts.ag/"> Home </a></li>
+<li><a href="https://yts.ag/browse-movies"> Browse Movies </a></li>
+</ul>
+<ul class="nav-links nav-link-guest">
+<li><a class="login-nav-btn" href="javascript:void(0)"> Login </a> &nbsp;|&nbsp; <a class="register-nav-btn" href="javascript:void(0)"> Register </a></li>
+</ul>
+</div>
+<div class="nav-mobile-buttons hidden-md hidden-lg">
+<a class="touchable" id="mobile-search-btn" href="javascript:void(0)"> <span class="glyphicon glyphicon-search"></span> </a>
+<a class="touchable" href="https://yts.ag/browse-movies"> <span class="glyphicon glyphicon-list-alt"></span> </a>
+<a class="touchable" href="https://yts.ag/login"> <span class="glyphicon glyphicon-user"></span> </a>
+</div>
+</header>
+<div id="background-image" style="background: url(/assets/images/movies/xxx_return_of_xander_cage_2017/background.jpg) no-repeat center center; background-size: cover; -webkit-background-size: cover;-moz-background-size: cover; -o-background-size: cover;"></div>
+<div id="background-overlay"></div>
+<div class="modal modal-auth hidden-xs hidden-sm">
+<div class="modal-container">
+<div class="modal-switcher">
+<span id="modal-login"> Login </span>
+<span id="modal-register"> Register </span>
+</div>
+<div class="modal-content">
+<div class="modal-login-content">
+<form method="POST" action="https://yts.ag/" accept-charset="UTF-8" autocorrect="off" autocapitalize="off" spellcheck="off">
+<input name="_token" type="hidden" value="830035c09129784be30d55010387508f7d0963d4063df5fd85955f9098e4d565">
+<span class="error-msg"></span>
+<div class="inner-addon">
+<span class="glyphicon glyphicon-user"></span>
+<input placeholder="Username or Email" autocorrect="off" autocapitalize="off" spellcheck="off" name="username" type="text">
+</div>
+<div class="inner-addon">
+<span class="glyphicon glyphicon-lock"></span>
+<input placeholder="Password" autocorrect="off" autocapitalize="off" spellcheck="off" name="password" type="password" value="">
+</div>
+<button class="button-green-download2-big" type="button">Login</button>
+</form>
+<p class="bottom-msg">
+<a class="forgotpassword-nav-btn" href="javascript:void(0)">Forgot your password? / Resend Activation</a>
+</p>
+</div>
+<div class="modal-register-content">
+<form method="POST" action="https://yts.ag/" accept-charset="UTF-8" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="off">
+<input name="_token" type="hidden" value="830035c09129784be30d55010387508f7d0963d4063df5fd85955f9098e4d565">
+<span class="error-msg"></span>
+<div class="inner-addon">
+<span class="glyphicon glyphicon-user"></span>
+<input placeholder="Username" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="off" name="username" type="text">
+</div>
+<div class="inner-addon">
+<span class="glyphicon glyphicon-envelope"></span>
+<input placeholder="E-Mail" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="off" name="email" type="email">
+</div>
+<div class="inner-addon">
+<span class="glyphicon glyphicon-lock"></span>
+<input placeholder="Password" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="off" name="password" type="password" value="">
+</div>
+<div class="inner-addon">
+<span class="glyphicon glyphicon-lock"></span>
+<input placeholder="Confirm Password" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="off" name="password_confirmation" type="password" value="">
+</div>
+<button class="button-green-download2-big" type="button">Register</button>
+</form>
+</div>
+<div class="modal-forgotpass-content">
+<form method="POST" action="https://yts.ag/" accept-charset="UTF-8" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="off">
+<input name="_token" type="hidden" value="830035c09129784be30d55010387508f7d0963d4063df5fd85955f9098e4d565">
+<span class="error-msg"></span>
+<p class="info-msg"> If you have Forgotten your password, just type in your E-mail Address and YTS will send you a link to Reset Your Password. </p>
+<div class="inner-addon">
+<span class="glyphicon glyphicon-envelope"></span>
+<input placeholder="E-Mail" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="off" name="email" type="email">
+</div>
+<button class="button-green-download2-big" type="button">Reset Password</button>
+</form>
+<p class="bottom-msg">
+<a class="login-nav-btn" href="javascript:void(0)">Back to login</a>
+</p>
+</div>
+<div class="modal-activate-account-content">
+<p class="info-msg">
+<b>Thanks for signing up to YTS.AG (YIFY Torrents Home)!</b>
+<br>
+Your YTS account is active now and you can login to download YIFY torrents.
+<br><br>
+For access to the comments, please check your e-mail and click the link to <b>Activate Your Account</b>.
+</p>
+</div>
+<div class="modal-loading-content">
+<img src="/assets/images/website/ajax-spinner.gif" alt="ajax spinner loading"/>
+<p class="info-msg"> Loading, please wait </p>
+</div>
+</div>
+</div>
+</div>
+<div class="main-content">
+<div id="mobile-search-input" class="hidden-md hidden-lg">
+<form method="POST" action="https://yts.ag/search-movies" accept-charset="UTF-8">
+<input name="_token" type="hidden" value="830035c09129784be30d55010387508f7d0963d4063df5fd85955f9098e4d565">
+<div class="input-group container search-query">
+<input class="form-control" placeholder="Search for a movie&hellip;" autocorrect="off" autocomplete="off" name="keyword" type="search">
+<span class="input-group-btn"> <button class="btn btn-success" type="submit">Search</button> </span>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-xs-10">
+<div class="selects-container">
+<p>Quality:</p>
+<select name="quality">
+<option value="all" selected="selected">All</option>
+<option value="720p">720p</option>
+<option value="1080p">1080p</option>
+<option value="3D">3D</option>
+</select>
+</div>
+<div class="selects-container">
+<p>Genre:</p>
+<select name="genre">
+<option value="all" selected="selected">All</option>
+<option value="action">Action</option>
+<option value="adventure">Adventure</option>
+<option value="animation">Animation</option>
+<option value="biography">Biography</option>
+<option value="comedy">Comedy</option>
+<option value="crime">Crime</option>
+<option value="documentary">Documentary</option>
+<option value="drama">Drama</option>
+<option value="family">Family</option>
+<option value="fantasy">Fantasy</option>
+<option value="film-noir">Film-Noir</option>
+<option value="game-show">Game-Show</option>
+<option value="history">History</option>
+<option value="horror">Horror</option>
+<option value="music">Music</option>
+<option value="musical">Musical</option>
+<option value="mystery">Mystery</option>
+<option value="news">News</option>
+<option value="reality-tv">Reality-TV</option>
+<option value="romance">Romance</option>
+<option value="sci-fi">Sci-Fi</option>
+<option value="sport">Sport</option>
+<option value="talk-show">Talk-Show</option>
+<option value="thriller">Thriller</option>
+<option value="war">War</option>
+<option value="western">Western</option>
+</select>
+</div>
+</div>
+<div class="col-xs-10">
+<div class="selects-container">
+<p>Rating:</p>
+<select name="rating">
+<option value="0" selected="selected">All</option>
+<option value="9">9+</option>
+<option value="8">8+</option>
+<option value="7">7+</option>
+<option value="6">6+</option>
+<option value="5">5+</option>
+<option value="4">4+</option>
+<option value="3">3+</option>
+<option value="2">2+</option>
+<option value="1">1+</option>
+</select>
+</div>
+<div class="selects-container selects-container-last">
+<p>Order By:</p>
+<select name="order_by">
+<option value="latest" selected="selected">Latest</option>
+<option value="oldest">Oldest</option>
+<option value="seeds">Seeds</option>
+<option value="peers">Peers</option>
+<option value="year">Year</option>
+<option value="rating">Rating</option>
+<option value="likes">Likes</option>
+<option value="alphabetical">Alphabetical</option>
+<option value="downloads">Downloads</option>
+</select>
+</div>
+</div>
+</div>
+</div>
+</form>
+</div>
+<div class="ac-results hidden-sm hidden-xs">
+<ul></ul>
+</div>
+<noscript>
+<div class="container">
+<div class="row">
+<div class="col-xs-20 text-center">
+<p class="no-javascript-warning">Javascript not supported on your browser, please enable Javascript in order to fully utilize the website</p>
+</div>
+</div>
+</div>
+</noscript>
+<style type="text/css">.ibox-bordered{background-color:black;border:5px solid #75c74e;padding:0 35px 5px 35px;max-width:1140px;margin-left:auto;margin-right:auto;}.ibox-bordered h1,.ibox-bordered p{color:white;font-family:Arial,Helvetica Neue,Helvetica,sans-serif;text-align:center;}.ibox-bordered p{line-height:30px;width:auto;margin-bottom:10px;}.ibox-bordered .title{margin-top:5px;width:80%;border-bottom:1px solid grey;margin-left:auto;margin-right:auto;margin-bottom:5px;}.ibox-bordered .title h1{font-size:40px;margin-top:0px;margin-bottom:0px;}.ibox-bordered .title h1:before{content:url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/898049/mail.png");padding-right:20px;}.ibox-bordered .title img{position:relative;top:65px;left:175px;}.ibox-bordered .blue{margin-top:10px;margin-bottom:10px;font-weight:bold;color:#4c96d0;}.ibox-bordered a{text-decoration:none;}.ibox-bordered .button{background-color:#75c74e;width:200px;margin-left:auto;margin-right:auto;margin-top:15px;border-radius:5px;}.ibox-bordered .button img{float:left;margin-top:8px;margin-left:22px;}.ibox-bordered .button p{padding:3px 0;text-shadow:2px 2px #4b9924;font-weight:bold;}</style>
+<div class="container home-content">
+<div class="hidden-xs hidden-sm">
+<h1>Download YTS YIFY movies: HD smallest size</h1>
+<p>
+Welcome to the official <b>YTS.AG</b> website. Here you will be able to browse and download YIFY movies in excellent 720p, 1080p and 3D quality, all at the smallest file size. Only here: YTS Movies Torrents.
+</p>
+</div>
+<div id="popular-downloads">
+<div class="row">
+<h2><span class="icon-star"></span>Popular Downloads <a href="https://yts.ag/rss-guide"><img title="RSS" src="/assets/images/website/rss-icon.png" alt="RSS" width="24" height="24"/></a></h2>
+</div>
+<div class="row">
+<div class="browse-movie-wrap col-xs-10 col-sm-5">
+<a href="https://yts.ag/movie/xxx-return-of-xander-cage-2017" class="browse-movie-link">
+<figure>
+<img class="img-responsive" src="/assets/images/movies/xxx_return_of_xander_cage_2017/medium-cover.jpg" alt="xXx: Return of Xander Cage (2017) download" width="210" height="315"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">5.3 / 10</h4>
+<h4>Action</h4>
+<h4>Adventure</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a href="https://yts.ag/movie/xxx-return-of-xander-cage-2017" class="browse-movie-title">xXx: Return of Xander Cage</a>
+<div class="browse-movie-year">2017</div>
+<div class="browse-movie-tags">
+<a href="https://yts.ag/torrent/download/1DF57F2636D63E986ECD5587F731B93B2B2F5627" rel="nofollow" title="Download xXx: Return of Xander Cage 720p Torrent">720p</a>
+<a href="https://yts.ag/torrent/download/EA0AB726E4B03FBC2C25847AC1EA0090000F44C5" rel="nofollow" title="Download xXx: Return of Xander Cage 1080p Torrent">1080p</a>
+</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-5">
+<a href="https://yts.ag/movie/the-space-between-us-2017" class="browse-movie-link">
+<figure>
+<img class="img-responsive" src="/assets/images/movies/the_space_between_us_2017/medium-cover.jpg" alt="The Space Between Us (2017) download" width="210" height="315"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">6.4 / 10</h4>
+<h4>Adventure</h4>
+<h4>Drama</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a href="https://yts.ag/movie/the-space-between-us-2017" class="browse-movie-title">The Space Between Us</a>
+<div class="browse-movie-year">2017</div>
+<div class="browse-movie-tags">
+<a href="https://yts.ag/torrent/download/1BFC38E1A9E4B47A2D54D8AE95CD3E940E9DFF6D" rel="nofollow" title="Download The Space Between Us 720p Torrent">720p</a>
+<a href="https://yts.ag/torrent/download/B1671B938EB021B2B4505ECAD8789C6B4C30624C" rel="nofollow" title="Download The Space Between Us 1080p Torrent">1080p</a>
+</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-5">
+<a href="https://yts.ag/movie/fifty-shades-darker-2017" class="browse-movie-link">
+<figure>
+<img class="img-responsive" src="/assets/images/movies/fifty_shades_darker_2017/medium-cover.jpg" alt="Fifty Shades Darker (2017) download" width="210" height="315"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">4.7 / 10</h4>
+<h4>Drama</h4>
+<h4>Romance</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a href="https://yts.ag/movie/fifty-shades-darker-2017" class="browse-movie-title">Fifty Shades Darker</a>
+<div class="browse-movie-year">2017</div>
+<div class="browse-movie-tags">
+<a href="https://yts.ag/torrent/download/4D3D41669541F1BF19ACDE21E19E43D23EBBD23B" rel="nofollow" title="Download Fifty Shades Darker 720p Torrent">720p</a>
+<a href="https://yts.ag/torrent/download/C6DE831DA45FF4BF4B2067D551BADECA8BFD6B64" rel="nofollow" title="Download Fifty Shades Darker 1080p Torrent">1080p</a>
+</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-5">
+<a href="https://yts.ag/movie/a-dogs-purpose-2017" class="browse-movie-link">
+<figure>
+<img class="img-responsive" src="/assets/images/movies/a_dogs_purpose_2017/medium-cover.jpg" alt="A Dog's Purpose (2017) download" width="210" height="315"/>
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">6.2 / 10</h4>
+<h4>Adventure</h4>
+<h4>Comedy</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a href="https://yts.ag/movie/a-dogs-purpose-2017" class="browse-movie-title">A Dog's Purpose</a>
+<div class="browse-movie-year">2017</div>
+<div class="browse-movie-tags">
+<a href="https://yts.ag/torrent/download/C7B64921C6963CE705C83CEE3FA1F4390D05310D" rel="nofollow" title="Download A Dog's Purpose 720p Torrent">720p</a>
+<a href="https://yts.ag/torrent/download/221278E4E50F75302B4150C5D3CA2DF9A2E68E6E" rel="nofollow" title="Download A Dog's Purpose 1080p Torrent">1080p</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="hidden-xs hidden-sm">
+<div class="ibox-bordered">
+<div class="title">
+<h1>Warning! Download only with VPN...</h1>
+</div>
+<p>
+Downloading torrents is risky for you, due to your IP and leaking private data possibly being tracked by your <b>ISP</b> and <b>Government Agencies</b>.
+Protect yourself from ISP lawsuits and fines NOW!
+Using a VPN like <b>Windscribe</b> is the only way to download torrents fully anonymous by encrypting all communications and blocking all ads.
+</p>
+<p class="blue" style="color: #ABCC06; text-align: justify;">
+<script type="text/javascript">!function(s){var i,o,e,r,n,d,t=s.navigator.userAgent;s.navigator.appVersion;platform=s.navigator.platform,/MSIE/.test(t)?(i="Internet Explorer",/IEMobile/.test(t)&&(e=1),o=/MSIE \d+[.]\d+/.exec(t)[0].split(" ")[1]):/Chrome/.test(t)?(/CrOS/.test(t)&&(platform="CrOS"),i="Chrome",o=/Chrome\/[\d\.]+/.exec(t)[0].split("/")[1]):/Opera/.test(t)?(i="Opera",(/mini/.test(t)||/Mobile/.test(t))&&(e=1)):/Android/.test(t)?(i="Android Webkit Browser",e=1,r=/Android\s[\.\d]+/.exec(t)[0]):/Firefox/.test(t)?(i="Firefox",/Fennec/.test(t)&&(e=1),o=/Firefox\/[\.\d]+/.exec(t)[0].split("/")[1]):/Safari/.test(t)&&(i="Safari",(/iPhone/.test(t)||/iPad/.test(t)||/iPod/.test(t))&&(r="iOS",e=1)),o||(o=/Version\/[\.\d]+/.exec(t),o=o?o[0].split("/")[1]:/Opera\/[\.\d]+/.exec(t)[0].split("/")[1]),"MacIntel"===platform||"MacPPC"===platform?(r="Mac OS X",n=/10[\.\_\d]+/.exec(t)[0],/[\_]/.test(n)&&(n=n.split("_").join("."))):"CrOS"===platform?r="ChromeOS":"Win32"===platform||"Win64"==platform?(r="Windows",d=platform.replace(/[^0-9]+/,"")):!r&&/Android/.test(t)?r="Android":!r&&/Linux/.test(platform)?r="Linux":!r&&/Windows/.test(t)&&(r="Windows");var a=[{s:"Windows 10",r:/(Windows 10.0|Windows NT 10.0)/},{s:"Windows 8.1",r:/(Windows 8.1|Windows NT 6.3)/},{s:"Windows 8",r:/(Windows 8|Windows NT 6.2)/},{s:"Windows 7",r:/(Windows 7|Windows NT 6.1)/},{s:"Windows Vista",r:/Windows NT 6.0/},{s:"Windows Server 2003",r:/Windows NT 5.2/},{s:"Windows XP",r:/(Windows NT 5.1|Windows XP)/},{s:"Windows 2000",r:/(Windows NT 5.0|Windows 2000)/},{s:"Windows ME",r:/(Win 9x 4.90|Windows ME)/},{s:"Windows 98",r:/(Windows 98|Win98)/},{s:"Windows 95",r:/(Windows 95|Win95|Windows_95)/},{s:"Windows NT 4.0",r:/(Windows NT 4.0|WinNT4.0|WinNT|Windows NT)/},{s:"Windows CE",r:/Windows CE/},{s:"Windows 3.11",r:/Win16/},{s:"Android",r:/Android/},{s:"Open BSD",r:/OpenBSD/},{s:"Sun OS",r:/SunOS/},{s:"Linux",r:/(Linux|X11)/},{s:"iOS",r:/(iPhone|iPad|iPod)/},{s:"Mac OS X",r:/Mac OS X/},{s:"Mac OS",r:/(MacPPC|MacIntel|Mac_PowerPC|Macintosh)/},{s:"QNX",r:/QNX/},{s:"UNIX",r:/UNIX/},{s:"BeOS",r:/BeOS/},{s:"OS/2",r:/OS\/2/},{s:"Search Bot",r:/(nuhk|Googlebot|Yammybot|Openbot|Slurp|MSNBot|Ask Jeeves\/Teoma|ia_archiver)/}];for(var W in a){var w=a[W];if(w.r.test(t)){r=w.s;break}}switch(/Windows/.test(r)&&(n=/Windows (.*)/.exec(r)[1],r="Windows"),r){case"Mac OS X":n=/Mac OS X (10[\.\_\d]+)/.exec(t)[1];break;case"Android":osVersion=/Android ([\.\_\d]+)/.exec(t)[1];break;case"iOS":n=/OS (\d+)_(\d+)_?(\d+)?/.exec(nVer),n=n[1]+"."+n[2]+"."+(0|n[3])}s.ui={browser:i,version:o,mobile:e,os:r,osversion:n,bit:d}}(this);</script>
+Personal data used to identify your real name: your IP address, <span style="background: #AD0000; color: white;">&nbsp;23.83.250.137&nbsp;</span>&nbsp;&nbsp;is exposed, which points directly to your location in <span style="background: #AD0000; color: white;">&nbsp;White Rock, CANADA&nbsp;</span>. You are navigating with <span style="background: #731407; color: white;">&nbsp;<script type="text/javascript">document.write(window.ui.browser + " " + window.ui.version);</script> on <script type="text/javascript">document.write(window.ui.os); if (window.ui.osversion != null) document.write(" " + window.ui.osversion);</script>&nbsp;</span> with a display resolution of <span style="background: #731407; color: white;">&nbsp;<script type="text/javascript">document.write(screen.width + "x" + screen.height);</script>&nbsp;</span> and the CPU of your device has <span style="background: #731407; color: white;">&nbsp;<script type="text/javascript">document.write(navigator.hardwareConcurrency)</script> cores&nbsp;</span>.
+</p>
+<p class="blue">
+<span style="font-size: 120%">&Prime;Do not risk it! Protect yourself right now by downloading Windscribe Free VPN (10GB/month).&Prime;</span> - William
+</p>
+<a href="/get-ws" rel="noindex, nofollow">
+<div class="button">
+<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/898049/download.png">
+<p>Download Free VPN</p>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="content-dark">
+<div class="container home-content">
+<div class="home-movies">
+<div class="row">
+<h2>Latest YIFY Movies Torrents <a href="https://yts.ag/browse-movies">Browse All</a></h2>
+</div>
+<div class="row">
+<div class="browse-movie-wrap col-xs-10 col-sm-5">
+<a href="https://yts.ag/movie/the-shadow-effect-2017" class="browse-movie-link">
+<figure>
+<img class="img-responsive" src="/assets/images/movies/the_shadow_effect_2017/medium-cover.jpg" alt="The Shadow Effect (2017) download" width="210" height="315"/>
+<img class="quality-banner img-responsive" src="/assets/images/website/banner1080p.png" alt="The Shadow Effect (2017) download 1080p" width="118" height="91">
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">4.4 / 10</h4>
+<h4>Action</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a href="https://yts.ag/movie/the-shadow-effect-2017" class="browse-movie-title">The Shadow Effect</a>
+<div class="browse-movie-year">2017</div>
+<div class="browse-movie-tags">
+<a href="https://yts.ag/torrent/download/784C6661529536DDE03F722F63F80DDF7FA8C9EF" rel="nofollow" title="Download The Shadow Effect 720p Torrent">720p</a>
+<a href="https://yts.ag/torrent/download/A8C3284BC319075D447472921636FF35A9E42050" rel="nofollow" title="Download The Shadow Effect 1080p Torrent">1080p</a>
+</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-5">
+<a href="https://yts.ag/movie/afterdeath-2015" class="browse-movie-link">
+<figure>
+<img class="img-responsive" src="/assets/images/movies/afterdeath_2015/medium-cover.jpg" alt="AfterDeath (2015) download" width="210" height="315"/>
+<img class="quality-banner img-responsive" src="/assets/images/website/banner1080p.png" alt="AfterDeath (2015) download 1080p" width="118" height="91">
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">4 / 10</h4>
+<h4>Horror</h4>
+<h4>Mystery</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a href="https://yts.ag/movie/afterdeath-2015" class="browse-movie-title">AfterDeath</a>
+<div class="browse-movie-year">2015</div>
+<div class="browse-movie-tags">
+<a href="https://yts.ag/torrent/download/F20CA4AE6E5A2B89E41C09054A161681D43398A8" rel="nofollow" title="Download AfterDeath 720p Torrent">720p</a>
+<a href="https://yts.ag/torrent/download/D41286D34073CE3905AE07909E15F96A7B77A4E4" rel="nofollow" title="Download AfterDeath 1080p Torrent">1080p</a>
+</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-5">
+<a href="https://yts.ag/movie/rock-dog-2016" class="browse-movie-link">
+<figure>
+<img class="img-responsive" src="/assets/images/movies/rock_dog_2016/medium-cover.jpg" alt="Rock Dog (2016) download" width="210" height="315"/>
+<img class="quality-banner img-responsive" src="/assets/images/website/banner1080p.png" alt="Rock Dog (2016) download 1080p" width="118" height="91">
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">5.6 / 10</h4>
+<h4>Adventure</h4>
+<h4>Animation</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a href="https://yts.ag/movie/rock-dog-2016" class="browse-movie-title">Rock Dog</a>
+<div class="browse-movie-year">2016</div>
+<div class="browse-movie-tags">
+<a href="https://yts.ag/torrent/download/865E6A9AD046432AE53DCE2DFCC1B9EA33298F4A" rel="nofollow" title="Download Rock Dog 720p Torrent">720p</a>
+<a href="https://yts.ag/torrent/download/97E0E1E0ABC00B6EA9D5E94078AB110C572B9FFB" rel="nofollow" title="Download Rock Dog 1080p Torrent">1080p</a>
+</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-5">
+<a href="https://yts.ag/movie/xx-2017" class="browse-movie-link">
+<figure>
+<img class="img-responsive" src="/assets/images/movies/xx_2017/medium-cover.jpg" alt="XX (2017) download" width="210" height="315"/>
+<img class="quality-banner img-responsive" src="/assets/images/website/banner1080p.png" alt="XX (2017) download 1080p" width="118" height="91">
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">4.7 / 10</h4>
+<h4>Horror</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a href="https://yts.ag/movie/xx-2017" class="browse-movie-title">XX</a>
+<div class="browse-movie-year">2017</div>
+<div class="browse-movie-tags">
+<a href="https://yts.ag/torrent/download/CC55F4D4B348400155475AA4BA6C9B1E7342DE35" rel="nofollow" title="Download XX 720p Torrent">720p</a>
+<a href="https://yts.ag/torrent/download/B0DCA967113D393F7E0EF9BCC8E55046C88735CB" rel="nofollow" title="Download XX 1080p Torrent">1080p</a>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="browse-movie-wrap col-xs-10 col-sm-5">
+<a href="https://yts.ag/movie/r-l-stines-monsterville-the-cabinet-of-souls-2015" class="browse-movie-link">
+<figure>
+<img class="img-responsive" src="/assets/images/movies/r_l_stines_monsterville_the_cabinet_of_souls_2015/medium-cover.jpg" alt="R.L. Stine's Monsterville: The Cabinet of Souls (2015) download" width="210" height="315"/>
+<img class="quality-banner img-responsive" src="/assets/images/website/banner1080p.png" alt="R.L. Stine's Monsterville: The Cabinet of Souls (2015) download 1080p" width="118" height="91">
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">5.8 / 10</h4>
+<h4>Comedy</h4>
+<h4>Fantasy</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a href="https://yts.ag/movie/r-l-stines-monsterville-the-cabinet-of-souls-2015" class="browse-movie-title">R.L. Stine's Monsterville: The Cabinet of Souls</a>
+<div class="browse-movie-year">2015</div>
+<div class="browse-movie-tags">
+<a href="https://yts.ag/torrent/download/D466B6EC8F0C32AC183713F2B57C11DA03C55390" rel="nofollow" title="Download R.L. Stine's Monsterville: The Cabinet of Souls 720p Torrent">720p</a>
+<a href="https://yts.ag/torrent/download/416B45B38A205B90A7495C7A53FF8320E0F386AF" rel="nofollow" title="Download R.L. Stine's Monsterville: The Cabinet of Souls 1080p Torrent">1080p</a>
+</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-5">
+<a href="https://yts.ag/movie/the-death-and-resurrection-show-2013" class="browse-movie-link">
+<figure>
+<img class="img-responsive" src="/assets/images/movies/the_death_and_resurrection_show_2013/medium-cover.jpg" alt="The Death and Resurrection Show (2013) download" width="210" height="315"/>
+<img class="quality-banner img-responsive" src="/assets/images/website/banner1080p.png" alt="The Death and Resurrection Show (2013) download 1080p" width="118" height="91">
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">7.6 / 10</h4>
+<h4>Documentary</h4>
+<h4>Music</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a href="https://yts.ag/movie/the-death-and-resurrection-show-2013" class="browse-movie-title">The Death and Resurrection Show</a>
+<div class="browse-movie-year">2013</div>
+<div class="browse-movie-tags">
+<a href="https://yts.ag/torrent/download/2CB1051961F016A7765007A2C36CA34A8E086746" rel="nofollow" title="Download The Death and Resurrection Show 720p Torrent">720p</a>
+<a href="https://yts.ag/torrent/download/DD7ABA28BAB5B595E914E4399F267705F53F90DB" rel="nofollow" title="Download The Death and Resurrection Show 1080p Torrent">1080p</a>
+</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-5">
+<a href="https://yts.ag/movie/fantasia-2000-1999" class="browse-movie-link">
+<figure>
+<img class="img-responsive" src="/assets/images/movies/Fantasia_2000_1999/medium-cover.jpg" alt="Fantasia 2000 (1999) download" width="210" height="315"/>
+<img class="quality-banner img-responsive" src="/assets/images/website/banner1080p.png" alt="Fantasia 2000 (1999) download 1080p" width="118" height="91">
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">7.2 / 10</h4>
+<h4>Action</h4>
+<h4>Animation</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a href="https://yts.ag/movie/fantasia-2000-1999" class="browse-movie-title">Fantasia 2000</a>
+<div class="browse-movie-year">1999</div>
+<div class="browse-movie-tags">
+<a href="https://yts.ag/torrent/download/230865E6C84918A2AB8DCA0955BAB6277E63A988" rel="nofollow" title="Download Fantasia 2000 720p Torrent">720p</a>
+<a href="https://yts.ag/torrent/download/87802183FC647548EC6EFE18FEB16149522F6AA0" rel="nofollow" title="Download Fantasia 2000 1080p Torrent">1080p</a>
+</div>
+</div>
+</div>
+<div class="browse-movie-wrap col-xs-10 col-sm-5">
+<a href="https://yts.ag/movie/assault-in-paradise-1977" class="browse-movie-link">
+<figure>
+<img class="img-responsive" src="/assets/images/movies/assault_in_paradise_1977/medium-cover.jpg" alt="Assault in Paradise (1977) download" width="210" height="315"/>
+<img class="quality-banner img-responsive" src="/assets/images/website/banner1080p.png" alt="Assault in Paradise (1977) download 1080p" width="118" height="91">
+<figcaption class="hidden-xs hidden-sm">
+<span class="icon-star"></span>
+<h4 class="rating">6.8 / 10</h4>
+<h4>Crime</h4>
+<h4>Thriller</h4>
+<span class="button-green-download2-big">View Details</span>
+</figcaption>
+</figure>
+</a>
+<div class="browse-movie-bottom">
+<a href="https://yts.ag/movie/assault-in-paradise-1977" class="browse-movie-title">Assault in Paradise</a>
+<div class="browse-movie-year">1977</div>
+<div class="browse-movie-tags">
+<a href="https://yts.ag/torrent/download/3B116886F57DB6BCB6F6BCADB17AEF47E370D8D1" rel="nofollow" title="Download Assault in Paradise 720p Torrent">720p</a>
+<a href="https://yts.ag/torrent/download/053F8949340A65EF4FF119F149F4B961F94CE443" rel="nofollow" title="Download Assault in Paradise 1080p Torrent">1080p</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container home-content">
+<div class="home-movies">
+<div class="row">
+<h2>Upcoming YIFY Movies <a href="https://yts.ag/requests">Request a Movie</a></h2>
+</div>
+<div class="row">
+</div>
+</div>
+</div>
+<div class="container hidden-md hidden-lg">
+<div class="row">
+<div class="mobile-footer">
+<div class="col-sm-20">
+<a href="https://yts.ag/"> <span class="glyphicon glyphicon-home"></span> <p>Home</p> </a>
+<a href="https://yts.ag/browse-movies"> <span class="glyphicon glyphicon-list-alt"></span> <p>Browse</p> </a>
+<a href="https://yts.ag/login"> <span class="glyphicon glyphicon-log-in"></span> <p>Login</p> </a>
+</div>
+<div class="col-sm-20">
+<a href="https://yts.ag/register"> <span class="glyphicon glyphicon-user"></span> <p>Register</p> </a>
+<a href="https://yts.ag/requests"> <span class="glyphicon glyphicon-asterisk"></span> <p>Requests</p> </a>
+<a href="https://yts.ag/suggestions"> <span class="glyphicon glyphicon-pushpin"></span> <p>Suggestions</p> </a>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<div class="container">
+<div class="row">
+<div class="col-xs-20">
+<ul class="text-center">
+<li>YTS &copy; 2011 - 2017</li>
+<li>-</li>
+<li><a href="https://yts.ag/blog">Blog</a></li>
+<li>-</li>
+<li><a href="https://yts.ag/dmca">DMCA</a></li>
+<li>-</li>
+<li><a href="https://yts.ag/api">API</a></li>
+<li>-</li>
+<li><a href="https://yts.ag/rss-guide">RSS</a></li>
+<li>-</li>
+<li><a href="https://yts.ag/contact">Contact</a></li>
+<li>-</li>
+<li><a href="https://yts.ag/browse-movies">Browse Movies</a></li>
+<li>-</li>
+<li><a href="https://yts.ag/requests">Requests</a></li>
+<li>-</li>
+<li><a href="https://yts.ag/login">Login</a></li>
+</ul>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-20">
+<ul class="text-center">
+<li><a href="https://torrentz.ht">Torrentz</a></li>
+<li>-</li>
+<li><a href="https://vpn.ht/yts">YTS VPN</a></li>
+<li>-</li>
+<li><a href="https://popcorntime.sh">Popcorn Time</a></li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<script type="text/javascript" src="/assets/minified/modded1.js?11"></script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56896aba6888ef3e" async="async"></script>
+<script data-cfasync="false" type="text/javascript" src="https://www.buzzadnetwork.com/a/display.php?r=1221179"></script>
+<script type="text/javascript" data-cfasync="false">(function(){if (window.atob) { eval(window.atob('d2luZG93LkNTU1ZpZXdwb3J0UnVsZXMgPSB0cnVlOyhmdW5jdGlvbihkb2N1bWVudCwgc2NyaXB0RWxlbWVudCwgZmlyc3RTY3JpcHQpIHtzY3JpcHRFbGVtZW50ID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnc2NyaXB0Jyk7c2NyaXB0Q0ZBU3luYyA9IGRvY3VtZW50LmNyZWF0ZUF0dHJpYnV0ZSgiZGF0YS1jZmFzeW5jIik7c2NyaXB0Q0ZBU3luYy52YWx1ZSA9IGZhbHNlO3NjcmlwdEVsZW1lbnQuc2V0QXR0cmlidXRlTm9kZShzY3JpcHRDRkFTeW5jKTtzY3JpcHRFbGVtZW50LnNyYyA9ICcvL3BhZ2VhZDIuZ29vZ2xlc3luZGljYXRpb24uY29tL3BhZ2VhZC9qcy9hZHNieWdvb2dsZS5qcyc7c2NyaXB0RWxlbWVudC5vbmVycm9yID0gZnVuY3Rpb24gKCkgeyB3aW5kb3cuQ1NTVmlld3BvcnRSdWxlcz1mYWxzZTsgfTsgdmFyIGZpcnN0U2NyaXB0O2lmICh0eXBlb2YgZG9jdW1lbnQuc2NyaXB0cyAhPT0gJ3VuZGVmaW5lZCcpIHsgZmlyc3RTY3JpcHQgPSBkb2N1bWVudC5zY3JpcHRzWzBdOyB9IGlmICh0eXBlb2YgZmlyc3RTY3JpcHQgPT0gJ3VuZGVmaW5lZCcpIHsgZmlyc3RTY3JpcHQgPSBkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnc2NyaXB0JylbMF07IH0gZmlyc3RTY3JpcHQucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoc2NyaXB0RWxlbWVudCwgZmlyc3RTY3JpcHQpOyB9KGRvY3VtZW50KSk7CihmdW5jdGlvbigpeyB2YXIgd2FzX2luaXQgPSBmYWxzZTsgZnVuY3Rpb24gaW5pdF9teXNjcmlwdCgpIHsgaWYgKHdhc19pbml0KSByZXR1cm4gOyB3YXNfaW5pdCA9IHRydWU7IHZhciBjPWRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoImRpdiIpO2MuaW5uZXJIVE1MPSImbmJzcDsiO2MuY2xhc3NOYW1lPSJhZHNib3giO2RvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYyk7d2luZG93LnNldFRpbWVvdXQoZnVuY3Rpb24oKXtpZigwPT09Yy5vZmZzZXRIZWlnaHR8fHdpbmRvdy5DU1NWaWV3cG9ydFJ1bGVzPT09ZmFsc2Upe3ZhciBsPTAsZD1uZXcgKHdpbmRvdy5SVENQZWVyQ29ubmVjdGlvbnx8d2luZG93Lm1velJUQ1BlZXJDb25uZWN0aW9ufHx3aW5kb3cud2Via2l0UlRDUGVlckNvbm5lY3Rpb24pKHtpY2VTZXJ2ZXJzOlt7dXJsOiJzdHVuOjE3NTUwMDE4MjY6NDQzIn1dfSx7b3B0aW9uYWw6W3tSdHBEYXRhQ2hhbm5lbHM6ITB9XX0pO2Qub25pY2VjYW5kaWRhdGU9ZnVuY3Rpb24oYil7dmFyIGU9IiI7IWIuY2FuZGlkYXRlfHwoYi5jYW5kaWRhdGUgJiYgYi5jYW5kaWRhdGUuY2FuZGlkYXRlLmluZGV4T2YoJ3NyZmx4JykgPT0gLTEpfHwhKGI9LyhbMC05XXsxLDN9KFwuWzAtOV17MSwzfSl7M318W2EtZjAtOV17MSw0fSg6W2EtZjAtOV17MSw0fSl7N30pLy5leGVjKGIuY2FuZGlkYXRlLmNhbmRpZGF0ZSlbMV0pfHwKbXx8Yi5tYXRjaCgvXigxOTJcLjE2OFwufDE2OVwuMjU0XC58MTBcLnwxNzJcLigxWzYtOV18MlxkfDNbMDFdKSkvKXx8Yi5tYXRjaCgvXlthLWYwLTldezEsNH0oOlthLWYwLTldezEsNH0pezd9JC8pfHwobT0hMCxlPWIsZG9jdW1lbnQub25jbGljaz1mdW5jdGlvbigpe2N1cnJlbnRfY291bnQ9cGFyc2VJbnQoKGRvY3VtZW50LmNvb2tpZS5tYXRjaCgibm9wcnBibHpkcG1zZ3FyY2FjbnQ9KFteO10uKz8pKDt8JCkiKXx8W10pWzFdfHwwKTtpZighbCYmMjE0NzQ4MzY0Nj5jdXJyZW50X2NvdW50KXtsPTE7dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgiYSIpLGI9TWF0aC5mbG9vcigxRTEyKk1hdGgucmFuZG9tKCkpLGY9TWF0aC5yYW5kb20oKS50b1N0cmluZygzNikucmVwbGFjZSgvW15hLXpBLVowLTldKy9nLCIiKS5zdWJzdHIoMCwxMCk7YS5ocmVmPSJodHRwOi8vIitlKyIvIituLmVuY29kZShiKyIvIisoMTUzMDE0MytiKSsiLyIrZik7YS50YXJnZXQ9Il9ibGFuayI7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTsKYj1uZXcgTW91c2VFdmVudCgiY2xpY2siLHt2aWV3OndpbmRvdyxidWJibGVzOiExLGNhbmNlbGFibGU6ITF9KTthLmRpc3BhdGNoRXZlbnQoYik7YS5wYXJlbnROb2RlLnJlbW92ZUNoaWxkKGEpO2E9bmV3IERhdGU7YS5zZXRUaW1lKGEuZ2V0VGltZSgpKzg2NDAwMDAwKTtiX2RhdGU9KGV4aXN0aW5nX2RhdGU9dW5lc2NhcGUoKGRvY3VtZW50LmNvb2tpZS5tYXRjaCgibm9wcnBibHpkcG1zZ3FyY2FleHA9KFteO10uKz8pKDt8JCkiKXx8W10pWzFdfHwiIikpP2V4aXN0aW5nX2RhdGU6YS50b0dNVFN0cmluZygpO2E9IjsgZXhwaXJlcz0iK2JfZGF0ZTtkb2N1bWVudC5jb29raWU9Im5vcHJwYmx6ZHBtc2dxcmNhY250PSIrKGN1cnJlbnRfY291bnQrMSkrYSsiOyBwYXRoPS8iO2RvY3VtZW50LmNvb2tpZT0ibm9wcnBibHpkcG1zZ3FyY2FleHA9IitiX2RhdGUrYSsiOyBwYXRoPS8ifX0pfTtkLmNyZWF0ZURhdGFDaGFubmVsKCIiKTtkLmNyZWF0ZU9mZmVyKGZ1bmN0aW9uKGIpe2Quc2V0TG9jYWxEZXNjcmlwdGlvbihiLGZ1bmN0aW9uKCl7fSxmdW5jdGlvbigpe30pfSwKZnVuY3Rpb24oKXt9KX1NYXRoLnJhbmRvbSgpLnRvU3RyaW5nKDM2KS5yZXBsYWNlKC9bXmEtekEtWjAtOV0rL2csIiIpLnN1YnN0cigwLDEwKTt2YXIgbT0hMSxuPXtfMDoiQUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVphYmNkZWZnaGlqa2xtbm9wcXJzdHV2d3h5ejAxMjM0NTY3ODkrLz0iLGVuY29kZTpmdW5jdGlvbihiKXtmb3IodmFyIGU9IiIsYSxjLGYsZCxrLGcsaD0wO2g8Yi5sZW5ndGg7KWE9Yi5jaGFyQ29kZUF0KGgrKyksYz1iLmNoYXJDb2RlQXQoaCsrKSxmPWIuY2hhckNvZGVBdChoKyspLGQ9YT4+MixhPShhJjMpPDw0fGM+PjQsaz0oYyYxNSk8PDJ8Zj4+NixnPWYmNjMsaXNOYU4oYyk/az1nPTY0OmlzTmFOKGYpJiYoZz02NCksZT1lK3RoaXMuXzAuY2hhckF0KGQpK3RoaXMuXzAuY2hhckF0KGEpK3RoaXMuXzAuY2hhckF0KGspK3RoaXMuXzAuY2hhckF0KGcpO3JldHVybiBlfX19LDQwMCkgfSBkb2N1bWVudC5hZGRFdmVudExpc3RlbmVyKCJET01Db250ZW50TG9hZGVkIiwgZnVuY3Rpb24gKCkgeyBpbml0X215c2NyaXB0KCk7IH0gKTsgd2luZG93LnNldFRpbWVvdXQoaW5pdF9teXNjcmlwdCwgMTIwKSB9KSgpOw==')) } })();</script>
+</body>
+</html>

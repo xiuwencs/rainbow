@@ -1,0 +1,632 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta charset="utf-8"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta property="fb:admins" content="100002516366303"/>
+<meta property="fb:admins" content="1058741375"/>
+<meta property="fb:app_id" content="1629023360662076"/>
+<meta property="og:site_name" content="nametests.com"/>
+<title>Nametests.com</title>
+<meta name="description" content="What does your name really mean? Next What is the biggest gift God has given you? Next What do your pictures say about you? What does your ...">
+<meta name="author" content="nametests">
+ 
+<link rel="apple-touch-icon" sizes="57x57" href="//image.nametests.com/img/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="//image.nametests.com/img/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="//image.nametests.com/img/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="//image.nametests.com/img/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="//image.nametests.com/img/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="//image.nametests.com/img/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="//image.nametests.com/img/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="//image.nametests.com/img/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="//image.nametests.com/img/favicons/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="//image.nametests.com/img/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="//image.nametests.com/img/favicons/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="//image.nametests.com/img/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="//image.nametests.com/img/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="//image.nametests.com/img/favicons/manifest.json">
+<link rel="mask-icon" href="//image.nametests.com/img/favicons/safari-pinned-tab.svg" color="#f5586e">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="//image.nametests.com/img/favicons/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+ 
+<link rel="stylesheet" href="//image.nametests.com/cache/css/d62fbf920bd9.css" type="text/css"/>
+<script>
+        window.dataLayer = window.dataLayer || [];
+    </script>
+ 
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-W37ZC8');</script>
+ 
+ 
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MC96LS5');</script>
+ 
+ 
+<script>
+    window.Trackinghandler = window.Trackinghandler || {};
+    window.Trackinghandler.constants = {};
+    window.Trackinghandler.custom_dimensions = {
+        gtm : {}
+    };
+    window.Trackinghandler.constants.custom_dimensions_mapping = {
+        'quiz_id': 'dimension1',
+        'quiz_title': 'dimension2',
+        'quiz_type': 'dimension3',
+        'quiz_subtype': 'dimension4',
+        'quiz_lang': 'dimension5',
+        'user_id': 'dimension6',
+        'user_timezone': 'dimension7',
+        'user_locale': 'dimension8',
+        'user_birthday': 'dimension9',
+        'user_gender': 'dimension10',
+        'optimize_a': 'dimension11',
+        'optimize_b': 'dimension12',
+        'optimize_c': 'dimension13',
+        'optimize_d': 'dimension14',
+        'optimize_e': 'dimension15',
+        'sourcelevel': 'dimension16',
+        'sharetime_diff': 'dimension17',
+        'sharer_variant': 'dimension18',
+        'quiz_author': 'dimension19',
+        'quiz_idea': 'dimension20',
+        'quiz_graphics': 'dimension21',
+        'quiz_team': 'dimension22',
+        'source_gender': 'dimension23',
+        'source_optimize_a': 'dimension24',
+        'source_optimize_b': 'dimension25',
+        'source_optimize_c': 'dimension26',
+        'source_optimize_d': 'dimension27',
+        'source_optimize_e': 'dimension28',
+        'page_type': 'dimension29',
+        'login_button_type': 'dimension30',
+        'soulmate_algorithm': 'dimension31',
+        'optimize_a_pos': 'dimension32',
+        'optimize_b_pos': 'dimension33',
+        'optimize_c_pos': 'dimension34',
+        'optimize_d_pos': 'dimension35',
+        'optimize_e_pos': 'dimension36',
+        'source_optimize_a_pos': 'dimension41',
+        'source_optimize_b_pos': 'dimension42',
+        'source_optimize_c_pos': 'dimension43',
+        'source_optimize_d_pos': 'dimension44',
+        'source_optimize_e_pos': 'dimension45',
+        'user_age': 'dimension37',
+        'text_under_resultimage': 'dimension39',
+        'quiz_title_en': 'dimension40',
+        // has to be defined by conrad - for now we will continue this counter with our counting logic
+    };
+    window.Trackinghandler.push_datalayer = function (obj) {
+        if (typeof obj === 'object' && obj !== null) {
+            window.dataLayer.push(obj);
+        }
+    };
+    window.Trackinghandler.push_custom_dimensions = function (obj, no_push_flag) {
+        var trackingObj = {};
+        var objectFilled = false;
+        for (var key in obj) {
+            if(obj[key] !== undefined){
+                objectFilled = true;
+                trackingObj[key] = obj[key];
+            }
+        }
+        if (objectFilled && !no_push_flag) {
+            window.Trackinghandler.push_datalayer(trackingObj);
+        }
+        for (var key2 in obj) window.Trackinghandler.custom_dimensions.gtm[key2]=obj[key2];
+    };
+</script>
+ 
+<script type="text/javascript" src="//image.nametests.com/cache/js/76ddf5aac9f4.js"></script>
+ 
+<script type="text/javascript">
+    window.appConfig.system = {
+        appId: 1629023360662076,
+        environment: "PROD",
+        lang: "www",
+        page_type: "offline_index",
+        start_param: "",
+        quiz_type: "",
+        debug: false,
+        ic: "default",
+        ic_debug_mode: "default",
+        fb_lang: "en_US",
+        fb_xfbml: true,
+        staticUrl: "//image.nametests.com/",
+        style_transfer_url: "/test/style-transfer/",
+        utc_unix_timestamp: '1494335583',
+        start_quiz: false
+    };
+
+    if (typeof window.Trackinghandler !== "undefined") {
+        window.Trackinghandler.push_custom_dimensions({
+            quiz_lang: window.htmlDecode(window.appConfig.system.lang),
+            page_type: window.htmlDecode(window.appConfig.system.page_type),
+        });
+    }
+
+</script>
+ 
+<script type="text/javascript" src="//image.nametests.com/cache/js/18662ab1c1e8.js" async></script>
+ 
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<script type="text/javascript">window.abp = false;</script>
+<script src="/static/js/px.js?ch=1" type="text/javascript"></script>
+<script src="/static/js/px.js?ch=2" type="text/javascript"></script>
+<script type="text/javascript" src="//image.nametests.com/cache/js/979fe36b412c.js"></script>
+<script type="text/javascript" src="//image.nametests.com/cache/js/1b1cfc58c0e8.js" async></script>
+<script type="text/javascript" src="//image.nametests.com/js/ad/ad_index.js?v=9"></script>
+ 
+<script type="text/javascript">
+        window._taboola = window._taboola || [];
+        window._taboola.push({home:'auto', url:'https://www.nametests.com'});
+        !function (e, f, u, i) {
+        if (!document.getElementById(i)){
+          e.async = 1;
+          e.src = u;
+          e.id = i;
+          f.parentNode.insertBefore(e, f);
+        }
+        }(document.createElement('script'),
+        document.getElementsByTagName('script')[0],
+        '//cdn.taboola.com/libtrc/socialsweetheartsgmbh-network/loader.js',
+        'tb_loader_script');
+    </script>
+ 
+</head>
+<body class="index" id="index-1" itemscope itemtype="https://schema.org/Product">
+ 
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W37ZC8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+ 
+ 
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MC96LS5" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+ 
+<div id="fb-root"></div>
+ 
+<div class="cookie-disclaimer">
+<div class="container">
+<div class="col-xs-10 col-sm-9">
+<p>This website uses cookies to ensure you get the best experience on our website.
+<a href="//www.socialsweethearts.de/privacy.html" target="_blank">More info</a></p>
+</div>
+<div class="col-xs-2 col-sm-3 pull-right">
+<button class="btn btn-default pull-right">Okay</button>
+</div>
+</div>
+</div>
+ 
+<nav class="navbar navbar-default navbar-index">
+<div class="container">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand pull-xs-right pull-sm-left" href="/">
+<img src="//image.nametests.com/img/logo.png" class="img-responsive" alt="nametests.com" title="nametests.com">
+</a>
+<span class="fb-like-wrapper hidden-sm">
+<div class="fb-like" data-colorscheme="light" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false" data-href="
+
+https://www.facebook.com/pages/nametestscom-English/1072039129479100?fref=ts
+"></div>
+</span>
+</div>
+<div id="navbar" class="collapse navbar-collapse">
+<ul class="nav navbar-nav">
+<li class="visible-xs-block">
+<a href="javascript:;" style="cursor: default;">
+<div class="fb-like" data-colorscheme="light" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false" data-href="
+
+https://www.facebook.com/pages/nametestscom-English/1072039129479100?fref=ts
+"></div>
+</a>
+</li>
+<li class="active">
+<a href="/./">Home</a>
+</li>
+<li>
+<div class="lang-selector" href="javascript:;">
+<select id="langchooser">
+<option value="de">Deutsch</option>
+<option value="en">English</option>
+<option value="es">Español</option>
+<option value="pt">Português</option>
+<option value="it">Italiano</option>
+<option value="fr">Français</option>
+<option value="nl">Nederlands</option>
+<option value="hu">Magyar</option>
+<option value="el">Ελληνικά</option>
+<option value="tr">Türkçe</option>
+<option value="da">Dansk</option>
+<option value="ru">русский</option>
+<option value="sv">Svenska</option>
+<option value="cs">čeština</option>
+<option value="sk">Slovenčina</option>
+<option value="no">Norsk</option>
+<option value="fi">Suomi</option>
+<option value="ar">العربية</option>
+<option value="id">Indonesia</option>
+<option value="pl">Polski</option>
+<option value="ja">日本人</option>
+<option value="sl">Slovenščina</option>
+<option value="bg">български</option>
+<option value="lt">Lietuvos</option>
+<option value="lv">Latviešu</option>
+<option value="bs">Bosanski</option>
+<option value="hr">Hrvatski</option>
+<option value="et">Eesti</option>
+<option value="hi">नॉट</option>
+<option value="ko">한국의</option>
+<option value="mk">македонски</option>
+<option value="ro">Român</option>
+<option value="sr">српски</option>
+<option value="tl">Tagalog</option>
+<option value="th">ไทย</option>
+<option value="kk">Қазақ</option>
+<option value="vi">tiếng Việt</option>
+<option value="ms">Malaysiah</option>
+<option value="zh">中国</option>
+<option value="ur">اردو</option>
+<option value="he">עברית</option>
+<option value="bn">বাংলাভাষী</option>
+<option value="sw">Kiswahili</option>
+<option value="ne">नेपाली</option>
+<option value="uk">українська</option>
+</select>
+</div>
+</li>
+</ul>
+</div>
+ 
+</div>
+</nav>
+<div class="maincontainer">
+<div class="container new-index">
+<div class="row">
+<div class="col-xs-12 col-lg-10 lan-page text-center clearfix head-wrbng">
+<div class="dist-top-15">
+<div id="ad_wrapper_head"></div>
+<script>
+    var adHtml = '';
+    var adWrapper = document.createElement('div');
+    var element = document.getElementById('ad_wrapper_head');
+    var script = document.createElement( 'script' );
+    var adScript = '';
+
+    if (abp) {
+        var asyncScript = document.createElement('script');
+        asyncScript.async = true;
+        asyncScript.src = '//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js';
+        element.appendChild(asyncScript);
+
+        adHtml += '<!-- nametests.com Desktop ABP (728x90, Text-Anzeigen) -->\
+                     <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-3128632638716868" data-ad-slot="6555986104"></ins>';
+
+        adScript += 'var appendScript = function(){\
+                           (adsbygoogle = window.adsbygoogle || []).push({});\
+                        };\
+                        appendScript();';
+
+    } else {
+        adHtml += '<!-- /209171991/Nametests_Home_Top -->\
+                    <div class="wrbng_h1" style="padding: 1px 3px; font-size: 12px; margin-bottom: 3px; text-align: center; line-height: 1.42857;">Advertisement</div>\
+                    <div id="Nametests_Home_Top"></div>';
+
+
+        adScript += 'var appendScript = function(){\
+                          googletag.cmd.push(function () {\
+                            googletag.display("Nametests_Home_Top");\
+                           });\
+                        };\
+                        appendScript();';
+    }
+
+    adWrapper.innerHTML = adHtml;
+    element.appendChild(adWrapper);
+
+    script.type = 'text/javascript';
+    script.innerHTML = adScript;
+    element.appendChild(script);
+  </script>
+</div>
+</div>
+</div>
+<div class="row new-index-row">
+<div class="col-xs-12 col-lg-10 no-padding text-center">
+ 
+ 
+<div class="row index-cp-flex">
+</div> 
+<div class="taboola-bottom-index">
+<div id="taboola-bottom-home-thumbnails"></div>
+<script type="text/javascript">
+      window._taboola = window._taboola || [];
+      _taboola.push({
+        mode: 'alternating-thumbnails-d',
+        container: 'taboola-bottom-home-thumbnails',
+        placement: 'Bottom Home Thumbnails',
+        target_type: 'mix'
+      });
+    </script>
+</div>
+<script>
+            /*
+            if (!abp) {
+                var adHtml = '';
+                var adWrapper = document.createElement('div');
+                var element = document.getElementById('google_content_recommendation');
+                var script = document.createElement( 'script' );
+                var adScript = '';
+
+                var asyncScript = document.createElement('script');
+                asyncScript.async = true;
+                asyncScript.src = '//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js';
+                element.appendChild(asyncScript);
+
+                adHtml += '<ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed" data-ad-client="ca-pub-3128632638716868" data-ad-slot="9866619309"></ins>';
+
+                adScript += 'var appendScript = function(){\
+                            (adsbygoogle = window.adsbygoogle || []).push({});\
+                        };\
+                        appendScript();';
+
+                adWrapper.innerHTML = adHtml;
+                element.appendChild(adWrapper);
+
+                script.type = 'text/javascript';
+                script.innerHTML = adScript;
+                element.appendChild(script);
+            }
+
+            */
+
+        </script>
+<div class="home-bottom-content">
+ 
+ 
+<div class="text-center start-wrbng-btm">
+<div id="ad_wrapper_bottom_rectangle"></div>
+<script>
+    var adHtml = '';
+    var adWrapper = document.createElement('div');
+    var element = document.getElementById('ad_wrapper_bottom_rectangle');
+    var script = document.createElement( 'script' );
+    var adScript = '';
+
+    if (abp) {
+        var asyncScript = document.createElement('script');
+        asyncScript.async = true;
+        asyncScript.src = '//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js';
+        element.appendChild(asyncScript);
+
+        adHtml += '<!-- nametests.com Desktop ABP (300x250 rechts, Text-Anzeigen) -->\
+                  <ins class="adsbygoogle dist-top-30" style="display:inline-block;width:300px;height:250px;" data-ad-client="ca-pub-3128632638716868" data-ad-slot="2125786501"></ins>';
+
+        adScript += 'var appendScript = function(){\
+                        (adsbygoogle = window.adsbygoogle || []).push({});\
+                    };\
+                    appendScript();';
+
+    } else {
+        adHtml += '<!-- nametests.com Desktop ABP (300x250 rechts, Text-Anzeigen) -->\
+                  <div class="adsbygoogle dist-top-30" id="Nametests_Home_Footer"></div>';
+
+        adScript += 'var appendScript = function(){\
+                         googletag.cmd.push(\
+                            function () {\
+                                googletag.display("Nametests_Home_Footer")\
+                            }\
+                        )\
+                    };\
+                    appendScript();';
+    }
+    
+    adWrapper.innerHTML = adHtml;
+    element.appendChild(adWrapper);
+
+    script.type = 'text/javascript';
+    script.innerHTML = adScript;
+    element.appendChild(script);
+
+</script>
+<div class="dist-top-30 hidden-xs hidden-sm"></div>
+</div>
+</div> 
+</div> 
+<aside id="sidebar" class="col-lg-2 visible-lg-inline-block sidebar-ads">
+<div id="ad_wrapper_right_rectangle"></div>
+<script>
+    if (window.innerWidth > 1400 && !abp) {
+        var adHtml = '';
+        var adWrapper = document.createElement('div');
+        var element = document.getElementById('ad_wrapper_right_rectangle');
+        var script = document.createElement( 'script' );
+        var adScript = '';
+        adHtml += '<!-- /209171991/Nametests_Home_Sidebar -->\
+                <div class="ad160x600" id="Nametests_Home_Sidebar" style="height:600px; width:160px;"></div>';
+
+        adScript += 'var appendScript = function(){\
+                    googletag.cmd.push(function () {\
+                        googletag.display("Nametests_Home_Sidebar");\
+                    });\
+                };\
+                appendScript();';
+
+        adWrapper.innerHTML = adHtml;
+        element.appendChild(adWrapper);
+
+        script.type = 'text/javascript';
+        script.innerHTML = adScript;
+        element.appendChild(script);
+    }
+
+</script>
+</aside> 
+</div> 
+</div> 
+</div>
+ 
+<div class="container">
+<div class="row dist-top-30">
+<div class="col-xs-12 col-lg-10 text-center">
+<footer>
+<p>
+<a href="//www.socialsweethearts.de/terms.html" target="_blank">Terms and conditions</a> &middot;
+<a href="//www.socialsweethearts.de/privacy.html" target="_blank">Privacy</a> &middot;
+<a href="//www.socialsweethearts.de/de_DE/imprint" target="_blank">Imprint</a> &middot;
+<a href="/accounts/feedback/?url=https://www.nametests.com/" target="_blank">Feedback</a> &middot;
+<a href="//www.socialsweethearts.de/en_US/it-career" target="_blank">Jobs</a> &middot;
+<a href="//docs.google.com/a/socialsweethearts.de/forms/d/1ggzWjZHk2m-KU-2leSanIcna3WeY4Wy_sieBoBsuhFA/viewform" target="_blank">Become a partner</a> &middot;
+<a class="logout" style="display: none;" href="/test/user_logout/?next=/">Logout</a>
+</p>
+<p>
+<a href="//www.socialsweethearts.de/terms.html" target="_blank">Disclaimer: All content is
+provided for fun and entertainment purposes only</a>
+</p>
+<p class="small-footer">
+This app uses data and contents only if they are publicly available or with
+the consent of the users. We kindly ask you to use the app only,
+if other users will not be affected adversely. <br> Thank you and have fun with
+our app!
+</p>
+</footer>
+</div>
+</div>
+</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-37455380-21');
+  ga('require', 'GTM-NG9MBNK');
+  ga('set', 'anonymizeIp', true);
+  //ga('send', 'pageview');
+
+</script>
+<script type="text/javascript" src="//image.nametests.com/cache/js/93506e7a0ce9.js"></script>
+<script type="text/javascript" src="//image.nametests.com/vendor/moment/locale/www.js"></script>
+<script>
+    (function () {
+        var locale;
+
+        switch (window.appConfig.system.lang) {
+            case 'no':
+                locale = 'nb';
+                break;
+
+            case 'tl':
+                locale = 'tl-ph';
+                break;
+
+            case 'zh':
+                locale = 'zh-cn';
+                break;
+
+            case undefined:
+                locale = 'en';
+                break;
+
+            default:
+                locale = window.appConfig.system.lang;
+        }
+
+        window.moment.locale(locale);
+        console.info('moment.locale()', window.moment.locale(), window.moment().format('LLLL'));
+
+
+        if (typeof window.appConfig.system.utc_unix_timestamp === "undefined" || isNaN(window.appConfig.system.utc_unix_timestamp)) {
+            window.appConfig.dynamic.time.difference = 0;
+        } else {
+            window.appConfig.dynamic.time.difference = window.appConfig.system.utc_unix_timestamp - window.moment().utc().unix();
+        }
+    }());
+</script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="//image.nametests.com/cache/js/091f4ad41b15.js"></script>
+<![endif]-->
+<!--[if lt IE 10]>
+<script type="text/javascript" src="//image.nametests.com/cache/js/704b3db6974a.js"></script>
+<![endif]-->
+<script type="text/javascript" src="/appconfig_user/"></script>
+<script type="text/javascript" src="//image.nametests.com/cache/js/66ec80f2d3be.js"></script>
+<script type="text/javascript" src="/jsi18n/"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/webshim/1.15.10/polyfiller.js"></script>
+<script>
+    $(function () {
+        if(typeof window.webshim !== "undefined") {
+            window.webshim.setOptions('forms-ext', {types: 'date'});
+            window.webshim.activeLang('www');
+            window.webshim.polyfill('forms forms-ext');
+        }
+        if (window.appConfig.system.page_type === 'index') {
+            $('#ad_wrapper_right_rectangle').sticky({topSpacing: 0, bottomSpacing: 450});
+        }
+    });
+</script>
+<script type="text/javascript" src="//image.nametests.com/cache/js/fa919553c505.js"></script>
+<script src="//cdn.ravenjs.com/3.14.2/raven.min.js"></script>
+<script>
+    window.ravenObject = {
+        configFile: "https://786f6be7bfbf4eab9a079bd2d08a41c5@app.getsentry.com/49115",
+        ignoreErrors: [
+            'Object doesn\'t support property or method \'cx\'', //error from taboola.com
+            'Obiekt nie obsługuje właściwości lub metody „cx”', //error from taboola.com
+            'DealPly is not defined', //error from DealPly
+            'dealply is not defined', //error from DealPly
+            'Uncaught ReferenceError: DealPly is not defined', //error from DealPly
+            'Uncaught ReferenceError: dealply is not defined', //error from DealPly
+            'ReferenceError: DealPly is not defined', //error from DealPly
+            'Error: tried to reject a fulfilled promise', //errors from Ads
+            'Uncaught Error: tried to reject a fulfilled promise', //errors from Ads
+            'naboo is not defined', //error from browser extension http://wiki.greasespot.net/Main_Page
+            'renoTransGloRef is not defined', //https://digitalmore-a.akamaihd.net/DigitalMore/cr:18:273),%20%3Canonymous%3E
+            'Uncaught ReferenceError: renoTransGloRef is not defined',
+            'this.get(...).querySelectorAll is not a function',
+            'Unable to get property \'parentNode\' of undefined or null reference',
+            '개체가 \'cx\' 속성이나 메서드를 지원하지 않습니다.',
+            'Uncaught ReferenceError: dpVariables is not defined',
+            'o.PercentLoaded is not a function', //https://sentry.io/social-sweethearts-gmbh/nametests-frontend/issues/173786378/
+            'player/sr.ads in ?',//https://sentry.io/social-sweethearts-gmbh/nametests-frontend/issues/173786378/
+            'pagead/expansion_embed in Ji.g.Se', //https://sentry.io/social-sweethearts-gmbh/nametests-frontend/issues/176429878/
+            "Cannot set property 'connect' of null", //https://sentry.io/social-sweethearts-gmbh/nametests-frontend/issues/176429878/
+            "http://pixel.yabidos.com", //https://sentry.io/social-sweethearts-gmbh/nametests-frontend/issues/178183610/
+        ],
+        ignoreUrls: [
+            /127\.0\.0\.1:8000/i,
+            /localhost/i,
+            // Woopra flakiness
+            /eatdifferent\.com\.woopra-ns\.com/i,
+            /static\.woopra\.com\/js\/woopra\.js/i,
+            // Chrome extensions
+            /extensions\//i,
+            /^chrome:\/\//i,
+            // Other plugins
+            /127\.0\.0\.1:4001\/isrunning/i,  // Cacaoweb
+            /webappstoolbarba\.texthelp\.com\//i,
+            /metrics\.itunes\.apple\.com\.edgesuite\.net\//i
+        ],
+    };
+
+    Raven.config(window.ravenObject.configFile, {
+        ignoreErrors: window.ravenObject.ignoreErrors,
+        ignoreUrls: window.ravenObject.ignoreUrls
+    }).install()
+</script>
+</body>
+</html>

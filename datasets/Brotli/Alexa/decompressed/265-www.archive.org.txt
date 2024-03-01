@@ -1,0 +1,2571 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+  <head>
+    <title>Internet Archive: Digital Library of Free Books, Movies, Music & Wayback Machine</title>
+
+          <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <script>window.archive_setup=[]</script>
+        <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+    <script src="//archive.org/includes/analytics.js?v=7482970" type="text/javascript"></script>
+    <script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+    <script src="https://archive.org/includes/node_modules/react/dist/react.js?v15.1.0" type="text/javascript"></script>
+    <script src="https://archive.org/includes/node_modules/react-dom/dist/react-dom.js?v15.1.0" type="text/javascript"></script>
+    <script src="https://archive.org/includes/archive.min.js?v=7482970" type="text/javascript"></script>
+
+   <meta name="DESCRIPTION" content="Internet Archive is a non-profit digital library offering free universal access to books, movies & music, as well as 286 billion archived web pages."/>
+   <link rel="alternate" type="application/xml" title="RSS" href="http://archive.org/services/collection-rss.php"/>
+    <link href="//archive.org/includes/archive.min.css?v=7482970" rel="stylesheet" type="text/css"/>
+    <link rel="SHORTCUT ICON" href="https://archive.org/images/glogo.jpg"/>
+      </head>
+  <body class="navia top ia-module bgEEE lists showdetails">
+    <a href="#maincontent" class="hidden-for-screen-readers">Skip to main content</a>
+
+    <!-- Wraps all page content -->
+    <div id="wrap">
+      
+                
+
+
+
+
+
+        <div id="navwrap1">
+          <div id="navwrap2">
+
+            <div id="nav-tophat" class="collapse">
+                              
+                  <div class="row toprow web" style="max-width:1000px;margin:auto;">
+                    <div class="col-xs-12">
+                      <div class="wayback-txt">
+                        Search the history of over 286 billion                        <a style="display:inline" href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/">web pages</a> on the Internet.
+                      </div>
+                      <div class="roundbox7 wayback-main">
+                        <div class="row">
+                          <div class="col-sm-6" style="padding-left:0; padding-right:0;">
+                            <a style="padding-bottom:0" href="https://archive.org/web/"><img src="https://archive.org/images/WaybackLogoSmall.png" alt="Wayback Machine"/></a>
+                          </div>
+                          <div class="col-sm-6" style="padding-top:13px;">
+                            <form style="position:relative;">
+                              <span class="iconochive-search"  aria-hidden="true"></span><span class="sr-only">search</span>                              <label for="nav-wb-url" class="sr-only">Search the Wayback Machine</label>
+                              <input id="nav-wb-url" class="form-control input-sm roundbox20" type="text" placeholder="enter URL or keywords" name="url" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()" autocomplete="off"/>
+                            </form>
+                          </div>
+                        </div><!--/.row-->
+                      </div><!--/.wayback-main-->
+                    </div>
+                  </div><!--./row-->
+
+                                              
+                  <div class="row toprow fivecolumns texts">
+
+                                          <div class="col-sm-2 col-xs-7 col-sm-push-4">
+                        
+                          <div class="linx">
+                            <h5>Featured</h5>
+                            <a href="https://archive.org/details/texts"><span class="iconochive-texts"  aria-hidden="true"></span><span class="sr-only">texts</span> All Texts</a>
+                            <a href="https://archive.org/search.php?query=mediatype:texts&sort=-publicdate"><span class="iconochive-latest"  aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
+                                                          <a href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a>                                                          <a href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a>                                                          <a href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a>                                                          <a href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a>                                                          <a href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                            <center class="items_list"><div class="items_list_img"><a href="https://archive.org/details/texts"><img class=" clipW clipH" src="https://archive.org/services/img/texts" style="height:180px"></a></div><a class="stealth boxy-label" href="https://archive.org/details/texts">eBooks &amp; Texts</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-7 col-sm-push-2">
+                        
+                          <div class="linx">
+                            <h5>Top</h5>
+                                                          <a href="https://archive.org/details/americana" title="American Libraries">American Libraries</a>                                                          <a href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a>                                                          <a href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a>                                                          <a href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a>                                                          <a href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a>                                                          <a href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a>                                                          <a href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                            <center>
+<a href="https://openlibrary.org"><img src="https://archive.org/images/widgetOL.png" class="img-responsive" style="margin-bottom:15px"/><b>Open Library</b></a></center>
+                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-7">
+                        
+                          <div class="linx">
+                            <h5 class="hidden-xs">&nbsp;</h5>
+                                                          <a href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a>                                                          <a href="https://archive.org/details/NYPLLabs" title="NYPL Labs Archive">NYPL Labs</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                    
+                  </div><!--/.row-->
+                                              
+                  <div class="row toprow fivecolumns movies">
+
+                                          <div class="col-sm-2 col-xs-7 col-sm-push-4">
+                        
+                          <div class="linx">
+                            <h5>Featured</h5>
+                            <a href="https://archive.org/details/movies"><span class="iconochive-movies"  aria-hidden="true"></span><span class="sr-only">movies</span> All Video</a>
+                            <a href="https://archive.org/search.php?query=mediatype:movies&sort=-publicdate"><span class="iconochive-latest"  aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
+                                                          <a href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a>                                                          <a href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a>                                                          <a href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a>                                                          <a href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                            <center class="items_list"><div class="items_list_img"><a href="https://archive.org/details/tv"><img class=" clipW clipH" src="https://archive.org/services/img/tv" style="height:180px"></a></div><a class="stealth boxy-label" href="https://archive.org/details/tv">TV News</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-7 col-sm-push-2">
+                        
+                          <div class="linx">
+                            <h5>Top</h5>
+                                                          <a href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation & Cartoons</a>                                                          <a href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts & Music</a>                                                          <a href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a>                                                          <a href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers & Technology</a>                                                          <a href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural & Academic Films</a>                                                          <a href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a>                                                          <a href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                            <center class="items_list"><div class="items_list_img"><a href="https://archive.org/details/911"><img class=" clipW" src="https://archive.org/services/img/911" style="height:135px"></a></div><a class="stealth boxy-label" href="https://archive.org/details/911">Understanding 9/11</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-7">
+                        
+                          <div class="linx">
+                            <h5 class="hidden-xs">&nbsp;</h5>
+                                                          <a href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News & Public Affairs</a>                                                          <a href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality & Religion</a>                                                          <a href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a>                                                          <a href="https://archive.org/details/television" title="Television">Television</a>                                                          <a href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a>                                                          <a href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a>                                                          <a href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                    
+                  </div><!--/.row-->
+                                              
+                  <div class="row toprow fivecolumns audio">
+
+                                          <div class="col-sm-2 col-xs-7 col-sm-push-4">
+                        
+                          <div class="linx">
+                            <h5>Featured</h5>
+                            <a href="https://archive.org/details/audio"><span class="iconochive-audio"  aria-hidden="true"></span><span class="sr-only">audio</span> All Audio</a>
+                            <a href="https://archive.org/search.php?query=mediatype:audio&sort=-publicdate"><span class="iconochive-latest"  aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
+                                                          <a href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a>                                                          <a href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a>                                                          <a href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a>                                                          <a href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                            <center class="items_list"><div class="items_list_img"><a href="https://archive.org/details/etree"><img class=" clipW clipH" src="https://archive.org/services/img/etree" style="height:180px"></a></div><a class="stealth boxy-label" href="https://archive.org/details/etree">Live Music Archive</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-7 col-sm-push-2">
+                        
+                          <div class="linx">
+                            <h5>Top</h5>
+                                                          <a href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books & Poetry</a>                                                          <a href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a>                                                          <a href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers & Technology</a>                                                          <a href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts & Culture</a>                                                          <a href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News & Public Affairs</a>                                                          <a href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a>                                                          <a href="https://archive.org/details/audio_podcast" title="Podcasts">Podcasts</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                            <center class="items_list"><div class="items_list_img"><a href="https://archive.org/details/librivoxaudio"><img class=" clipW clipH" src="https://archive.org/services/img/librivoxaudio" style="height:180px"></a></div><a class="stealth boxy-label" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-7">
+                        
+                          <div class="linx">
+                            <h5 class="hidden-xs">&nbsp;</h5>
+                                                          <a href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a>                                                          <a href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality & Religion</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                    
+                  </div><!--/.row-->
+                                              
+                  <div class="row toprow fivecolumns software">
+
+                                          <div class="col-sm-2 col-xs-7 col-sm-push-4">
+                        
+                          <div class="linx">
+                            <h5>Featured</h5>
+                            <a href="https://archive.org/details/software"><span class="iconochive-software"  aria-hidden="true"></span><span class="sr-only">software</span> All Software</a>
+                            <a href="https://archive.org/search.php?query=mediatype:software&sort=-publicdate"><span class="iconochive-latest"  aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
+                                                          <a href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a>                                                          <a href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a>                                                          <a href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a>                                                          <a href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a>                                                          <a href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                            <center class="items_list"><div class="items_list_img"><a href="https://archive.org/details/internetarcade"><img class=" clipW" src="https://archive.org/services/img/internetarcade" style="height:64px;position:relative;left:-50px"></a></div><a class="stealth boxy-label" href="https://archive.org/details/internetarcade">Internet Arcade</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-7 col-sm-push-2">
+                        
+                          <div class="linx">
+                            <h5>Top</h5>
+                                                          <a href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a>                                                          <a href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a>                                                          <a href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a>                                                          <a href="https://archive.org/details/apkarchive" title="APK">APK</a>                                                          <a href="https://archive.org/details/tucows" title="Tucows Software Library">Tucows Software Library</a>                                                          <a href="https://archive.org/details/vintagesoftware" title="Vintage Software">Vintage Software</a>                                                          <a href="https://archive.org/details/vectrex" title="Vectrex">Vectrex</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                            <center class="items_list"><div class="items_list_img"><a href="https://archive.org/details/consolelivingroom"><img class=" clipW" src="https://archive.org/services/img/consolelivingroom" style="height:127px"></a></div><a class="stealth boxy-label" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-7">
+                        
+                          <div class="linx">
+                            <h5 class="hidden-xs">&nbsp;</h5>
+                                                          <a href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum">ZX Spectrum</a>                                                          <a href="https://archive.org/details/zx_spectrum_library_games" title="ZX Spectrum Library: Games">ZX Spectrum Library: Games</a>                                                          <a href="https://archive.org/details/atari_2600_library" title="Atari 2600">Atari 2600</a>                                                          <a href="https://archive.org/details/library_magnavox_odyssey2" title="Magnavox Odyssey 2">Magnavox Odyssey 2</a>                                                          <a href="https://archive.org/details/bally_astrocade_library" title="Bally Astrocade">Bally Astrocade</a>                                                          <a href="https://archive.org/details/sega_genesis_library" title="Sega Genesis">Sega Genesis</a>                                                          <a href="https://archive.org/details/softwarelibrary_apple" title="Apple Computer">Apple Computer</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                    
+                  </div><!--/.row-->
+                                              
+                  <div class="row toprow fivecolumns image">
+
+                                          <div class="col-sm-2 col-xs-7 col-sm-push-4">
+                        
+                          <div class="linx">
+                            <h5>Featured</h5>
+                            <a href="https://archive.org/details/image"><span class="iconochive-image"  aria-hidden="true"></span><span class="sr-only">image</span> All Image</a>
+                            <a href="https://archive.org/search.php?query=mediatype:image&sort=-publicdate"><span class="iconochive-latest"  aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
+                                                          <a href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a>                                                          <a href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a>                                                          <a href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a>                                                          <a href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                            <center class="items_list"><div class="items_list_img"><a href="https://archive.org/details/metropolitanmuseumofart-gallery"><img class=" clipW clipH" src="https://archive.org/services/img/metropolitanmuseumofart-gallery" style="height:180px"></a></div><a class="stealth boxy-label" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-7 col-sm-push-2">
+                        
+                          <div class="linx">
+                            <h5>Top</h5>
+                                                          <a href="https://archive.org/details/nasa">NASA Images</a>                                                          <a href="https://archive.org/details/solarsystemcollection">Solar System Collection</a>                                                          <a href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                            <center class="items_list"><div class="items_list_img"><a href="https://archive.org/details/brooklynmuseum"><img class=" clipW clipH" src="https://archive.org/services/img/brooklynmuseum" style="height:180px"></a></div><a class="stealth boxy-label" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                          <div class="col-sm-2 col-xs-7">
+                        
+                          <div class="linx">
+                            <h5 class="hidden-xs">&nbsp;</h5>
+                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                    
+                  </div><!--/.row-->
+                                          </div><!--/#nav-tophat-->
+
+
+
+            <div class="navbar navbar-inverse navbar-static-top" role="navigation">
+              <div id="nav-tophat-helper" class="hidden-xs"></div>
+              <ul class="nav navbar-nav">
+                                  <li class="dropdown dropdown-ia pull-left">
+                    <a title="Web" class="navia-link web" data-top-kind="web" href="https://archive.org/web/" data-toggle="tooltip" target="_top" data-placement="bottom"><span class="iconochive-web"  aria-hidden="true"></span><span class="sr-only">web</span></a>
+                  </li>
+                                  <li class="dropdown dropdown-ia pull-left">
+                    <a title="Texts" class="navia-link texts" data-top-kind="texts" href="https://archive.org/details/texts" data-toggle="tooltip" target="_top" data-placement="bottom"><span class="iconochive-texts"  aria-hidden="true"></span><span class="sr-only">texts</span></a>
+                  </li>
+                                  <li class="dropdown dropdown-ia pull-left">
+                    <a title="Video" class="navia-link movies" data-top-kind="movies" href="https://archive.org/details/movies" data-toggle="tooltip" target="_top" data-placement="bottom"><span class="iconochive-movies"  aria-hidden="true"></span><span class="sr-only">movies</span></a>
+                  </li>
+                                  <li class="dropdown dropdown-ia pull-left">
+                    <a title="Audio" class="navia-link audio" data-top-kind="audio" href="https://archive.org/details/audio" data-toggle="tooltip" target="_top" data-placement="bottom"><span class="iconochive-audio"  aria-hidden="true"></span><span class="sr-only">audio</span></a>
+                  </li>
+                                  <li class="dropdown dropdown-ia pull-left">
+                    <a title="Software" class="navia-link software" data-top-kind="software" href="https://archive.org/details/software" data-toggle="tooltip" target="_top" data-placement="bottom"><span class="iconochive-software"  aria-hidden="true"></span><span class="sr-only">software</span></a>
+                  </li>
+                                  <li class="dropdown dropdown-ia pull-left rightmost">
+                    <a title="Image" class="navia-link image" data-top-kind="image" href="https://archive.org/details/image" data-toggle="tooltip" target="_top" data-placement="bottom"><span class="iconochive-image"  aria-hidden="true"></span><span class="sr-only">image</span></a>
+                  </li>
+                
+                <li class="navbar-brand-li"><a class="navbar-brand" href="https://archive.org/" target="_top"><span class="iconochive-logo"  aria-hidden="true"></span><span class="sr-only">logo</span></a></li>
+
+                <li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
+                  <div class="container-fluid">
+                    <div class="navbar-header">
+                      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#nav-hamburger-menu" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                      </button>
+                      <div class="navbar-collapse collapse" id="nav-hamburger-menu" aria-expanded="false">
+                        <ul class="nav navbar-nav">
+                          <li><a target="_top" href="https://archive.org/about/">ABOUT</a></li>
+                          <li><a target="_top" href="https://archive.org/about/contact.php">CONTACT</a></li>
+                          <li><a target="_top" href="//blog.archive.org">BLOG</a></li>
+                          <li><a target="_top" href="https://archive.org/projects">PROJECTS</a></li>
+                          <li><a target="_top" href="https://archive.org/about/faqs.php">HELP</a></li>
+                          <li><a target="_top" href="https://archive.org/donate">DONATE</a></li>
+                          <li><a target="_top" href="https://archive.org/about/terms.php">TERMS</a></li>
+                          <li><a target="_top" href="https://archive.org/about/jobs.php">JOBS</a></li>
+                          <li><a target="_top" href="https://archive.org/about/volunteerpositions.php">VOLUNTEER</a></li>
+                          <li><a target="_top" href="https://archive.org/about/bios.php">PEOPLE</a></li>
+                        </ul>
+                      </div><!-- /.navbar-collapse -->
+                    </div>
+                  </div><!-- /.container-fluid -->
+                </li>
+
+
+
+
+                                  <li id="nav-search" class="dropdown dropdown-ia pull-right">
+                    <a href="https://archive.org/search.php" onclick="$(this).parents('#nav-search').find('form').submit(); return false"><span class="iconochive-search"  aria-hidden="true"></span><span class="sr-only">search</span></a>
+                    <div>
+                      <form method="post" role="search" action="https://archive.org/searchresults.php" target="_top">
+                        <label for="search-bar-2" class="sr-only">Search the Archive</label>
+                        <input id="search-bar-2" placeholder="Search" type="text" name="search" value=""/>
+                        <input type="submit" value="Search"/>
+                      </form>
+                    </div>
+                  </li>
+                
+                <li class="dropdown dropdown-ia pull-right">
+                  <a id="glyphme" href="https://archive.org/donate" _target="top" data-toggle="tooltip" data-placement="bottom" title="Donate"><img src="https://archive.org/images/gift.png"></a>
+                  <!--
+                  <a href="https://archive.org/donate" _target="top" data-toggle="tooltip" data-placement="bottom" title="Donate" style="color:#fd8281 !important"><span class="iconochive-heart"  aria-hidden="true"></span><span class="sr-only">heart</span></a>
+                  -->
+                </li>
+
+
+                <li class="dropdown dropdown-ia pull-right">
+                  <a href="https://archive.org/create" _target="top" data-toggle="tooltip" data-placement="bottom" title="Upload"><span class="iconochive-upload"  aria-hidden="true"></span><span class="sr-only">upload</span></a>
+                </li>
+
+
+                <li class="dropdown dropdown-ia pull-right leftmost">
+                                      <a href="https://archive.org/account/login.php" style="padding-right:0" _target="top"><span class="iconochive-person"  aria-hidden="true"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
+                                  </li>
+
+                              </ul>
+            </div><!--/.navbar-->
+
+            
+          </div><!--#navwrap1-->
+        </div><!--#navwrap2-->
+
+        <!-- Begin page content -->
+        <div class="container container-ia">
+          <a name="maincontent" id="maincontent"></a>
+
+          <script> if(typeof AJS!='undefined') AJS.lists_v_tiles_setup('top'); </script>
+<div id="ToS"><a class="stealth" href="https://archive.org/about/terms.php">Terms of Service Dec 31, 2014</a></div>  <div class="row preamble" style="margin-bottom:60px;">
+    <div class="col-sm-3 the-logo">
+      <span class="iconochive-logo topinblock"  aria-hidden="true"></span><span class="sr-only">logo</span>    </div>
+
+    <div class="col-sm-6 non-logo preamble-center">
+      <div style="color:#333; font-size:26px; line-height:1.1; font-weight:200;">
+        <b>Internet Archive</b>
+        is a non-profit library of millions of free books, movies, software, music, websites, and more.
+
+        <center class="mt-big" style="margin-top:10px">
+                    <a href="/web/" title="Web" data-toggle="tooltip" data-placement="top"><div class="mt-big">
+            <div>
+              <span class="iconochive-web"  aria-hidden="true"></span><span class="sr-only">web</span>            </div>
+            <div class="micro-label">
+              286B              <span class="sr-only">items</span>
+            </div>
+            </div></a>          <a href="/details/texts" title="Texts" data-toggle="tooltip" data-placement="top"><div class="mt-big">
+            <div>
+              <span class="iconochive-texts"  aria-hidden="true"></span><span class="sr-only">texts</span>            </div>
+            <div class="micro-label">
+              12M              <span class="sr-only">items</span>
+            </div>
+            </div></a>          <a href="/details/movies" title="Video" data-toggle="tooltip" data-placement="top"><div class="mt-big">
+            <div>
+              <span class="iconochive-movies"  aria-hidden="true"></span><span class="sr-only">movies</span>            </div>
+            <div class="micro-label">
+              3.3M              <span class="sr-only">items</span>
+            </div>
+            </div></a>          <a href="/details/audio" title="Audio" data-toggle="tooltip" data-placement="top"><div class="mt-big">
+            <div>
+              <span class="iconochive-audio"  aria-hidden="true"></span><span class="sr-only">audio</span>            </div>
+            <div class="micro-label">
+              3.4M              <span class="sr-only">items</span>
+            </div>
+            </div></a>          <a href="/details/tv" title="TV" data-toggle="tooltip" data-placement="top"><div class="mt-big">
+            <div>
+              <span class="iconochive-tv"  aria-hidden="true"></span><span class="sr-only">tv</span>            </div>
+            <div class="micro-label">
+              1.3M              <span class="sr-only">items</span>
+            </div>
+            </div></a>          <a href="/details/software" title="Software" data-toggle="tooltip" data-placement="top"><div class="mt-big">
+            <div>
+              <span class="iconochive-software"  aria-hidden="true"></span><span class="sr-only">software</span>            </div>
+            <div class="micro-label">
+              171K              <span class="sr-only">items</span>
+            </div>
+            </div></a>          <a href="/details/image" title="Image" data-toggle="tooltip" data-placement="top"><div class="mt-big">
+            <div>
+              <span class="iconochive-image"  aria-hidden="true"></span><span class="sr-only">image</span>            </div>
+            <div class="micro-label">
+              1.5M              <span class="sr-only">items</span>
+            </div>
+            </div></a>          <a href="/details/etree" title="Concerts" data-toggle="tooltip" data-placement="top"><div class="mt-big">
+            <div>
+              <span class="iconochive-etree"  aria-hidden="true"></span><span class="sr-only">etree</span>            </div>
+            <div class="micro-label">
+              176K              <span class="sr-only">items</span>
+            </div>
+            </div></a>          <a href="/search.php?query=mediatype:collection&sort=-downloads" title="Collections" data-toggle="tooltip" data-placement="top"><div class="mt-big">
+            <div>
+              <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>            </div>
+            <div class="micro-label">
+              258K              <span class="sr-only">items</span>
+            </div>
+            </div></a>        </center>
+      </div>
+
+      <div style="padding-top:50px;">
+            <div class="searchbar" style="margin-bottom:10px; margin-right:60px;">
+      <form class="form" id="searchform" method="post" role="form" action="https://archive.org/searchresults.php">
+        <div class="form-group" style="position:relative">
+          <div style="position:relative">
+            <label for="search-bar-1" class="sr-only">Search the Archive</label>
+            <span class="iconochive-search" style="position:absolute; left:4px; top:7px; color:#999; font-size:125%" aria-hidden="true"></span><span class="sr-only">search</span>            <input id="search-bar-1" class="form-control input-sm roundbox20" size="25" name="search" placeholder="Search" type="text" value="" style="font-size:125%;padding-left:30px;" onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()"/>
+          </div>
+          <button class="btn btn-gray label-primary input-sm" style="position:absolute;right:-60px;top:0;" type="submit">GO</button>
+          <input type="hidden" name="limit" value="100"/>
+          <input type="hidden" name="start" value="0"/>
+          <input type="hidden" name="searchAll" value="yes"/>
+                    <input type="hidden" name="submit" value="this was submitted"/>
+
+                                <a id="se-advanced-link" class="form-control-static pull-right stealth" href="https://archive.org/advancedsearch.php">Advanced Search</a>
+          
+        </div><!--/.form-group -->
+      </form>
+    </div><!--/.searchbar-->
+
+          </div>
+      <br clear="all" class="clearfix"/>
+    </div>
+
+    <div class="col-sm-3 non-logo">
+      <div class="hidden-sm hidden-md hidden-lg" style="height:50px"> </div>
+      <h4 style="margin-top:0">Announcements</h4>
+      <div>
+        <div class="wplinks"><a href="https://blog.archive.org/2017/04/28/tv-news-fact-checked-ivanka-mccaskill-mnuchin-perez-and-mulvaney/">TV news fact-checked: Ivanka, McCaskill, Mnuchin, Perez, and Mulvaney</a></div><div class="wplinks"><a href="https://blog.archive.org/2017/04/25/internet-archive-wins-webby-lifetime-achievement-award/">Internet Archive wins Webby Lifetime Achievement award</a></div><div class="wplinks"><a href="https://blog.archive.org/2017/04/18/drm-for-the-web-is-a-bad-idea/">DRM for the Web is a Bad Idea</a></div>      </div>
+      <div class="pull-right">
+        <a class="stealth" style="color:#979797;" href="https://blog.archive.org/category/announcements/">
+          SEE MORE
+        </a>
+      </div>
+    </div>
+  </div><!--/.row-->
+      <center style="margin-bottom:50px">
+      <h1 style="font-weight:100">Top Collections at the Archive</h1>
+    </center>
+      <div class="container container-ia nopad">
+    
+    
+
+  <div class="row">
+
+    
+    <div class="columns-items">
+
+      <div class="co-top-row">
+                <div class="sortbar">
+          <a href="#" class="focus-on-child-only pull-right" onclick="return AJS.tiles_toggle(this,'top')">
+            <div class="lists-button topinblock iconochive-list" data-toggle="tooltip" title="Show&nbsp;as&nbsp;list"></div>
+          </a>
+          <a href="#" class="focus-on-child-only pull-right" onclick="return AJS.tiles_toggle(this,'top')">
+            <div class="tiles-button topinblock iconochive-tiles" data-toggle="tooltip" title="Show&nbsp;thumbnails"></div>
+          </a>
+          <div class="hidden-xs hidden-sm pull-right" style="height:50px;width:30px;"> </div>
+          <div class="micro-label pull-right hidden-tiles">
+            <input type="checkbox" name="showdetails" onchange="AJS.showdetails_toggle(this,'top')"/>
+            <span class="hidden-xs-span">SHOW </span><span>DETAILS</span>
+          </div>
+
+                    <div class="topinblock">
+            <div class="hidden-md hidden-lg">
+              <select class="ikind-mobile form-control" onchange="AJS.ikind_mobile_change(this)"><option data-id="-views" selected="selected">VIEWS</option>
+</select>
+            </div>
+          </div>
+          <div class="topinblock">
+            <div class="hidden-xs hidden-sm">
+              <div class="sort-by">
+                SORT BY
+              </div>
+              <span class="big-label blue-pop">
+                <a class="ikind stealth in" data-id="-views" href="/">VIEWS</a>              </span>
+            </div>
+          </div>
+        </div><!--/.sortbar-->
+        <div class="sortbar-rule"> </div>
+      </div><!--/.co-top-row-->
+
+
+      <div style="position:relative">
+              <div id="ikind-search" class="ikind in">
+        <div class="results">        <div class="item-ia mobile-header hidden-tiles" data-id="__mobile_header__">
+          <div class="views C C1">
+            <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          </div>
+          <div class="C234">
+            <div class="C C2">Title</div>
+            <div class="pubdate C C3"><div><div>Date Archived</div></div></div>
+            <div class="by C C4">Creator</div>
+          </div>
+          <div class="C C5"></div>
+        </div>
+        
+
+    <div class="item-ia collection-ia" data-id="opensource_audio" onclick="AJS.colclick(this)" >
+
+      
+
+      <div class="hidden-tiles views C C1">
+                  <nobr class="hidden-xs">2.8<small>B</small></nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">2.8B</nobr>
+              </div>
+
+
+
+      
+      <div class="C234">
+                  <div class="collection-title C C2">
+                          <a href="/details/opensource_audio">
+                                  <div class="tile-img">
+                    <img class="item-img clipW clipH" src="/services/img/opensource_audio">
+                  </div><!--/.tile-img-->
+                                <div>
+                  Community Audio                </div>
+              </a>
+              <div class="collection-stats">
+                <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
+                  2,448,061                  <div class="micro-label">ITEMS</div>
+                </div>
+                <div class="num-items hidden-tiles">
+                  2.8<small>B</small>                  <div class="micro-label">VIEWS</div>
+                </div>
+              </div>
+                      </div><!--.C2-->
+        
+        <div class="hidden-tiles pubdate C C3">
+          <nobr class="hidden-xs">Dec 14, 2005</nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">12/05</nobr>
+        </div>
+
+        <div class="by C C4">
+          
+                      <span class="hidden-lists">by</span>
+            <span title="Community Audio">Community Audio</span>
+                            </div><!--/.C4-->
+      </div><!--/.C234-->
+
+
+      <div class="mt-icon C C5 hidden-tiles">
+                  <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>              </div>
+
+
+              <h6 class="stat  hidden-tiles">
+          <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          <nobr>2.8<small>B</small></nobr>
+        </h6>
+      
+
+          </div><!--/.item-ia-->
+
+
+    <div class="details-ia hidden-tiles">
+      <div class="C1"></div>
+      <div class="C234">
+        <span>You are invited to view or upload audios to the Community collection. These thousands of recordings were all contributed by Archive users and community members. Please select a Creative Commons License during upload so that others will know what they may (or may not) do with with your audio. Click here to contribute your audio ! Browse by style: Blues , Country , Electronic , Experimental , Hiphop , Indie , Jazz , Rock , Spoken Word .</span><br/>                                      </div>
+      <div class="C5"></div>
+    </div>
+
+    
+
+    <div class="item-ia collection-ia" data-id="opensource_movies" onclick="AJS.colclick(this)" >
+
+      
+
+      <div class="hidden-tiles views C C1">
+                  <nobr class="hidden-xs">1.7<small>B</small></nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">1.7B</nobr>
+              </div>
+
+
+
+      
+      <div class="C234">
+                  <div class="collection-title C C2">
+                          <a href="/details/opensource_movies">
+                                  <div class="tile-img">
+                    <img class="item-img clipW clipH" src="/services/img/opensource_movies">
+                  </div><!--/.tile-img-->
+                                <div>
+                  Community Video                </div>
+              </a>
+              <div class="collection-stats">
+                <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
+                  707,540                  <div class="micro-label">ITEMS</div>
+                </div>
+                <div class="num-items hidden-tiles">
+                  1.7<small>B</small>                  <div class="micro-label">VIEWS</div>
+                </div>
+              </div>
+                      </div><!--.C2-->
+        
+        <div class="hidden-tiles pubdate C C3">
+          <nobr class="hidden-xs">Feb 26, 2005</nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">02/05</nobr>
+        </div>
+
+        <div class="by C C4">
+          
+                      <span class="hidden-lists">by</span>
+            <span title="Internet Archive">Internet Archive</span>
+                            </div><!--/.C4-->
+      </div><!--/.C234-->
+
+
+      <div class="mt-icon C C5 hidden-tiles">
+                  <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>              </div>
+
+
+              <h6 class="stat  hidden-tiles">
+          <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          <nobr>1.7<small>B</small></nobr>
+        </h6>
+      
+
+          </div><!--/.item-ia-->
+
+
+    <div class="details-ia hidden-tiles">
+      <div class="C1"></div>
+      <div class="C234">
+        <span>You are invited to view or upload your videos to the Community collection. These thousands of videos were contributed by Archive users and community members. These videos are available for free download. Please select a Creative Commons License during upload so that others will know what they may (or may not) do with with your video. Click here to upload your video !</span><br/>                Topic: Moving Images<br/>                      </div>
+      <div class="C5"></div>
+    </div>
+
+    
+
+    <div class="item-ia collection-ia" data-id="etree" onclick="AJS.colclick(this)" >
+
+      
+
+      <div class="hidden-tiles views C C1">
+                  <nobr class="hidden-xs">1.5<small>B</small></nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">1.5B</nobr>
+              </div>
+
+
+
+      
+      <div class="C234">
+                  <div class="collection-title C C2">
+                          <a href="/details/etree">
+                                  <div class="tile-img">
+                    <img class="item-img clipW clipH" src="/services/img/etree">
+                  </div><!--/.tile-img-->
+                                <div>
+                  Live Music Archive                </div>
+              </a>
+              <div class="collection-stats">
+                <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
+                  172,147                  <div class="micro-label">ITEMS</div>
+                </div>
+                <div class="num-items hidden-tiles">
+                  1.5<small>B</small>                  <div class="micro-label">VIEWS</div>
+                </div>
+              </div>
+                      </div><!--.C2-->
+        
+        <div class="hidden-tiles pubdate C C3">
+          <nobr class="hidden-xs">Nov 19, 2005</nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">11/05</nobr>
+        </div>
+
+        <div class="by C C4">
+          
+                            </div><!--/.C4-->
+      </div><!--/.C234-->
+
+
+      <div class="mt-icon C C5 hidden-tiles">
+                  <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>              </div>
+
+
+              <h6 class="stat  hidden-tiles">
+          <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          <nobr>1.5<small>B</small></nobr>
+        </h6>
+      
+
+          </div><!--/.item-ia-->
+
+
+    <div class="details-ia hidden-tiles">
+      <div class="C1"></div>
+      <div class="C234">
+        <span>Browse: all artists · this day in history · average review rating · number reviews · date reviewed · number views etree.org is a community committed to providing the highest quality live concerts in a lossless, downloadable format. The Internet Archive has teamed up with etree.org to preserve and archive as many live concerts as possible for current and future generations to enjoy. All music in this Collection is from trade-friendly artists and is strictly non-commercial , both for access...</span><br/>                Topic: Live Music<br/>                      </div>
+      <div class="C5"></div>
+    </div>
+
+    
+
+    <div class="item-ia collection-ia" data-id="americana" onclick="AJS.colclick(this)" >
+
+      
+
+      <div class="hidden-tiles views C C1">
+                  <nobr class="hidden-xs">1.2<small>B</small></nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">1.2B</nobr>
+              </div>
+
+
+
+      
+      <div class="C234">
+                  <div class="collection-title C C2">
+                          <a href="/details/americana">
+                                  <div class="tile-img">
+                    <img class="item-img clipW" src="/services/img/americana">
+                  </div><!--/.tile-img-->
+                                <div>
+                  American Libraries                </div>
+              </a>
+              <div class="collection-stats">
+                <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
+                  2,486,085                  <div class="micro-label">ITEMS</div>
+                </div>
+                <div class="num-items hidden-tiles">
+                  1.2<small>B</small>                  <div class="micro-label">VIEWS</div>
+                </div>
+              </div>
+                      </div><!--.C2-->
+        
+        <div class="hidden-tiles pubdate C C3">
+          <nobr class="hidden-xs">Jan 23, 2006</nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">01/06</nobr>
+        </div>
+
+        <div class="by C C4">
+          
+                            </div><!--/.C4-->
+      </div><!--/.C234-->
+
+
+      <div class="mt-icon C C5 hidden-tiles">
+                  <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>              </div>
+
+
+              <h6 class="stat  hidden-tiles">
+          <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          <nobr>1.2<small>B</small></nobr>
+        </h6>
+      
+
+          </div><!--/.item-ia-->
+
+
+    <div class="details-ia hidden-tiles">
+      <div class="C1"></div>
+      <div class="C234">
+        <span>The American Libraries collection includes material contributed from across the United States. Institutions range from the Library of Congress to many local public libraries. As a whole, this collection of material brings holdings that cover many facets of American life and scholarship into the public domain. Significant portions of this collection have been generously sponsored by Microsoft , Yahoo! , The Sloan Foundation , and others.</span><br/>                                      </div>
+      <div class="C5"></div>
+    </div>
+
+    
+
+    <div class="item-ia collection-ia" data-id="opensource_media" onclick="AJS.colclick(this)" >
+
+      
+
+      <div class="hidden-tiles views C C1">
+                  <nobr class="hidden-xs">890.8<small>M</small></nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">891M</nobr>
+              </div>
+
+
+
+      
+      <div class="C234">
+                  <div class="collection-title C C2">
+                          <a href="/details/opensource_media">
+                                  <div class="tile-img">
+                    <img class="item-img clipW clipH" src="/services/img/opensource_media">
+                  </div><!--/.tile-img-->
+                                <div>
+                  Community Media                </div>
+              </a>
+              <div class="collection-stats">
+                <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
+                  399,091                  <div class="micro-label">ITEMS</div>
+                </div>
+                <div class="num-items hidden-tiles">
+                  890.8<small>M</small>                  <div class="micro-label">VIEWS</div>
+                </div>
+              </div>
+                      </div><!--.C2-->
+        
+        <div class="hidden-tiles pubdate C C3">
+          <nobr class="hidden-xs">May 12, 2010</nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">05/10</nobr>
+        </div>
+
+        <div class="by C C4">
+          
+                            </div><!--/.C4-->
+      </div><!--/.C234-->
+
+
+      <div class="mt-icon C C5 hidden-tiles">
+                  <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>              </div>
+
+
+              <h6 class="stat  hidden-tiles">
+          <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          <nobr>890.8<small>M</small></nobr>
+        </h6>
+      
+
+          </div><!--/.item-ia-->
+
+
+    <div class="details-ia hidden-tiles">
+      <div class="C1"></div>
+      <div class="C234">
+        <span>A collection of media donated by individuals to the Internet Archive.</span><br/>                                      </div>
+      <div class="C5"></div>
+    </div>
+
+    
+
+    <div class="item-ia collection-ia" data-id="opensource" onclick="AJS.colclick(this)" >
+
+      
+
+      <div class="hidden-tiles views C C1">
+                  <nobr class="hidden-xs">726.6<small>M</small></nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">727M</nobr>
+              </div>
+
+
+
+      
+      <div class="C234">
+                  <div class="collection-title C C2">
+                          <a href="/details/opensource">
+                                  <div class="tile-img">
+                    <img class="item-img clipW clipH" src="/services/img/opensource">
+                  </div><!--/.tile-img-->
+                                <div>
+                  Community Texts                </div>
+              </a>
+              <div class="collection-stats">
+                <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
+                  632,343                  <div class="micro-label">ITEMS</div>
+                </div>
+                <div class="num-items hidden-tiles">
+                  726.6<small>M</small>                  <div class="micro-label">VIEWS</div>
+                </div>
+              </div>
+                      </div><!--.C2-->
+        
+        <div class="hidden-tiles pubdate C C3">
+          <nobr class="hidden-xs">Jan 18, 2005</nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">01/05</nobr>
+        </div>
+
+        <div class="by C C4">
+          
+                      <span class="hidden-lists">by</span>
+            <span title="Internet Archive">Internet Archive</span>
+                            </div><!--/.C4-->
+      </div><!--/.C234-->
+
+
+      <div class="mt-icon C C5 hidden-tiles">
+                  <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>              </div>
+
+
+              <h6 class="stat  hidden-tiles">
+          <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          <nobr>726.6<small>M</small></nobr>
+        </h6>
+      
+
+          </div><!--/.item-ia-->
+
+
+    <div class="details-ia hidden-tiles">
+      <div class="C1"></div>
+      <div class="C234">
+        <span>These books are books contributed by the community. Click here to contribute your book ! For more information and how-to please see archive.org/about/faqs.php#Texts_and_Books Uploaders, please note: Archive.org supports metadata about items in just about any language so long as the characters are UTF8 encoded Community Afrikaans Texts Community Arabic Texts Community Basque Texts Community Bulgarian Texts Community Catalan Texts Community Chinese Texts Community Croatian Texts Community Czech...</span><br/>                Topic: Texts<br/>                      </div>
+      <div class="C5"></div>
+    </div>
+
+    
+
+    <div class="item-ia collection-ia" data-id="librivoxaudio" onclick="AJS.colclick(this)" >
+
+      
+
+      <div class="hidden-tiles views C C1">
+                  <nobr class="hidden-xs">583.4<small>M</small></nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">583M</nobr>
+              </div>
+
+
+
+      
+      <div class="C234">
+                  <div class="collection-title C C2">
+                          <a href="/details/librivoxaudio">
+                                  <div class="tile-img">
+                    <img class="item-img clipW clipH" src="/services/img/librivoxaudio">
+                  </div><!--/.tile-img-->
+                                <div>
+                  The LibriVox Free Audiobook Collection                </div>
+              </a>
+              <div class="collection-stats">
+                <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
+                  10,741                  <div class="micro-label">ITEMS</div>
+                </div>
+                <div class="num-items hidden-tiles">
+                  583.4<small>M</small>                  <div class="micro-label">VIEWS</div>
+                </div>
+              </div>
+                      </div><!--.C2-->
+        
+        <div class="hidden-tiles pubdate C C3">
+          <nobr class="hidden-xs">Mar 7, 2006</nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">03/06</nobr>
+        </div>
+
+        <div class="by C C4">
+          
+                            </div><!--/.C4-->
+      </div><!--/.C234-->
+
+
+      <div class="mt-icon C C5 hidden-tiles">
+                  <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>              </div>
+
+
+              <h6 class="stat  hidden-tiles">
+          <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          <nobr>583.4<small>M</small></nobr>
+        </h6>
+      
+
+          </div><!--/.item-ia-->
+
+
+    <div class="details-ia hidden-tiles">
+      <div class="C1"></div>
+      <div class="C234">
+        <span>LibriVox - founded in 2005 - is a community of volunteers from all over the world who record public domain texts: poetry, short stories, whole books, even dramatic works, in many different languages. All LibriVox recordings are in the public domain in the USA and available as free downloads on the internet. If you are not in the USA, please check your country's copyright law before downloading. Please visit the LibriVox website where you can search for books that interest you. You can search or...</span><br/>                                      </div>
+      <div class="C5"></div>
+    </div>
+
+    
+
+    <div class="item-ia collection-ia" data-id="ElectricSheep" onclick="AJS.colclick(this)" >
+
+      
+
+      <div class="hidden-tiles views C C1">
+                  <nobr class="hidden-xs">486.9<small>M</small></nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">487M</nobr>
+              </div>
+
+
+
+      
+      <div class="C234">
+                  <div class="collection-title C C2">
+                          <a href="/details/ElectricSheep">
+                                  <div class="tile-img">
+                    <img class="item-img clipW clipH" src="/services/img/ElectricSheep">
+                  </div><!--/.tile-img-->
+                                <div>
+                  Electric Sheep                </div>
+              </a>
+              <div class="collection-stats">
+                <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
+                  474                  <div class="micro-label">ITEMS</div>
+                </div>
+                <div class="num-items hidden-tiles">
+                  486.9<small>M</small>                  <div class="micro-label">VIEWS</div>
+                </div>
+              </div>
+                      </div><!--.C2-->
+        
+        <div class="hidden-tiles pubdate C C3">
+          <nobr class="hidden-xs">Jul 6, 2010</nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">07/10</nobr>
+        </div>
+
+        <div class="by C C4">
+          
+                            </div><!--/.C4-->
+      </div><!--/.C234-->
+
+
+      <div class="mt-icon C C5 hidden-tiles">
+                  <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>              </div>
+
+
+              <h6 class="stat  hidden-tiles">
+          <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          <nobr>486.9<small>M</small></nobr>
+        </h6>
+      
+
+          </div><!--/.item-ia-->
+
+
+    <div class="details-ia hidden-tiles">
+      <div class="C1"></div>
+      <div class="C234">
+        <span>Electric Sheep is a distributed computing project for animating and evolving fractal flames, which are in turn distributed to the networked computers, which display them as a screensaver. Process The process is transparent to the casual user, who can simply install the software as a screensaver. Alternatively, the user may become more involved with the project, manually creating a fractal flame file for upload to the server where it is rendered into a video file of the animated fractal flame....</span><br/>                Topic: electric sheep<br/>                      </div>
+      <div class="C5"></div>
+    </div>
+
+    
+
+    <div class="item-ia collection-ia" data-id="toronto" onclick="AJS.colclick(this)" >
+
+      
+
+      <div class="hidden-tiles views C C1">
+                  <nobr class="hidden-xs">361.5<small>M</small></nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">362M</nobr>
+              </div>
+
+
+
+      
+      <div class="C234">
+                  <div class="collection-title C C2">
+                          <a href="/details/toronto">
+                                  <div class="tile-img">
+                    <img class="item-img clipW clipH" src="/services/img/toronto">
+                  </div><!--/.tile-img-->
+                                <div>
+                  Canadian Libraries                </div>
+              </a>
+              <div class="collection-stats">
+                <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
+                  546,680                  <div class="micro-label">ITEMS</div>
+                </div>
+                <div class="num-items hidden-tiles">
+                  361.5<small>M</small>                  <div class="micro-label">VIEWS</div>
+                </div>
+              </div>
+                      </div><!--.C2-->
+        
+        <div class="hidden-tiles pubdate C C3">
+          <nobr class="hidden-xs">Jun 16, 2005</nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">06/05</nobr>
+        </div>
+
+        <div class="by C C4">
+          
+                      <span class="hidden-lists">by</span>
+            <span title="Internet Archive Canada">Internet Archive Canada</span>
+                            </div><!--/.C4-->
+      </div><!--/.C234-->
+
+
+      <div class="mt-icon C C5 hidden-tiles">
+                  <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>              </div>
+
+
+              <h6 class="stat  hidden-tiles">
+          <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          <nobr>361.5<small>M</small></nobr>
+        </h6>
+      
+
+          </div><!--/.item-ia-->
+
+
+    <div class="details-ia hidden-tiles">
+      <div class="C1"></div>
+      <div class="C234">
+        <span>Welcome to the Canadian Libraries page. The Toronto scanning centre was established in 2004 on the campus of the University of Toronto . From its humble beginnings, Internet Archive Canada has worked with well over 50 institutions, in providing their unique material(s) with open access and sharing these collections the world over. From the Archives of the Sisters of Service to the University of Alberta, IAC has digitized approximately 522,741 unique and special collections. Many...</span><br/>                Topic: Texts<br/>                      </div>
+      <div class="C5"></div>
+    </div>
+
+    
+
+    <div class="item-ia collection-ia" data-id="opensource_Arabic" onclick="AJS.colclick(this)" >
+
+      
+
+      <div class="hidden-tiles views C C1">
+                  <nobr class="hidden-xs">245.9<small>M</small></nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">246M</nobr>
+              </div>
+
+
+
+      
+      <div class="C234">
+                  <div class="collection-title C C2">
+                          <a href="/details/opensource_Arabic">
+                                <div>
+                  Community Arabic Texts                </div>
+              </a>
+              <div class="collection-stats">
+                <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
+                  134,498                  <div class="micro-label">ITEMS</div>
+                </div>
+                <div class="num-items hidden-tiles">
+                  245.9<small>M</small>                  <div class="micro-label">VIEWS</div>
+                </div>
+              </div>
+                      </div><!--.C2-->
+        
+        <div class="hidden-tiles pubdate C C3">
+          <nobr class="hidden-xs">Aug 21, 2009</nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">08/09</nobr>
+        </div>
+
+        <div class="by C C4">
+          
+                            </div><!--/.C4-->
+      </div><!--/.C234-->
+
+
+      <div class="mt-icon C C5 hidden-tiles">
+                  <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>              </div>
+
+
+              <h6 class="stat  hidden-tiles">
+          <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          <nobr>245.9<small>M</small></nobr>
+        </h6>
+      
+
+          </div><!--/.item-ia-->
+
+
+    <div class="details-ia hidden-tiles">
+      <div class="C1"></div>
+      <div class="C234">
+        <span>User-uploaded texts with language code &quot;Arabic&quot; or &quot;ara&quot; (MARC code for Arabic language items) Uploaders, please note: Archive.org supports metadata about items in just about any language so long as the characters are UTF8 encoded .</span><br/>                                      </div>
+      <div class="C5"></div>
+    </div>
+
+    
+
+    <div class="item-ia collection-ia" data-id="opensource_religionvideo" onclick="AJS.colclick(this)" >
+
+      
+
+      <div class="hidden-tiles views C C1">
+                  <nobr class="hidden-xs">241.8<small>M</small></nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">242M</nobr>
+              </div>
+
+
+
+      
+      <div class="C234">
+                  <div class="collection-title C C2">
+                          <a href="/details/opensource_religionvideo">
+                                  <div class="tile-img">
+                    <img class="item-img clipW" src="/services/img/opensource_religionvideo">
+                  </div><!--/.tile-img-->
+                                <div>
+                  Community Spirituality and Religion                </div>
+              </a>
+              <div class="collection-stats">
+                <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
+                  104,311                  <div class="micro-label">ITEMS</div>
+                </div>
+                <div class="num-items hidden-tiles">
+                  241.8<small>M</small>                  <div class="micro-label">VIEWS</div>
+                </div>
+              </div>
+                      </div><!--.C2-->
+        
+        <div class="hidden-tiles pubdate C C3">
+          <nobr class="hidden-xs">Jun 15, 2006</nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">06/06</nobr>
+        </div>
+
+        <div class="by C C4">
+          
+                            </div><!--/.C4-->
+      </div><!--/.C234-->
+
+
+      <div class="mt-icon C C5 hidden-tiles">
+                  <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>              </div>
+
+
+              <h6 class="stat  hidden-tiles">
+          <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          <nobr>241.8<small>M</small></nobr>
+        </h6>
+      
+
+          </div><!--/.item-ia-->
+
+
+    <div class="details-ia hidden-tiles">
+      <div class="C1"></div>
+      <div class="C234">
+        <span>These religion and spirituality videos were contributed by Archive users.</span><br/>                                      </div>
+      <div class="C5"></div>
+    </div>
+
+    
+
+    <div class="item-ia collection-ia" data-id="robarts" onclick="AJS.colclick(this)" >
+
+      
+
+      <div class="hidden-tiles views C C1">
+                  <nobr class="hidden-xs">205.3<small>M</small></nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">205M</nobr>
+              </div>
+
+
+
+      
+      <div class="C234">
+                  <div class="collection-title C C2">
+                          <a href="/details/robarts">
+                                  <div class="tile-img">
+                    <img class="item-img clipW clipH" src="/services/img/robarts">
+                  </div><!--/.tile-img-->
+                                <div>
+                  University of Toronto - Robarts Library                </div>
+              </a>
+              <div class="collection-stats">
+                <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
+                  212,956                  <div class="micro-label">ITEMS</div>
+                </div>
+                <div class="num-items hidden-tiles">
+                  205.3<small>M</small>                  <div class="micro-label">VIEWS</div>
+                </div>
+              </div>
+                      </div><!--.C2-->
+        
+        <div class="hidden-tiles pubdate C C3">
+          <nobr class="hidden-xs">Dec 7, 2006</nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">12/06</nobr>
+        </div>
+
+        <div class="by C C4">
+          
+                            </div><!--/.C4-->
+      </div><!--/.C234-->
+
+
+      <div class="mt-icon C C5 hidden-tiles">
+                  <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>              </div>
+
+
+              <h6 class="stat  hidden-tiles">
+          <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          <nobr>205.3<small>M</small></nobr>
+        </h6>
+      
+
+          </div><!--/.item-ia-->
+
+
+    <div class="details-ia hidden-tiles">
+      <div class="C1"></div>
+      <div class="C234">
+        <span>The John P. Robarts Research Library, commonly referred to as Robarts Library, is the main humanities and social sciences library of the University of Toronto Libraries and the largest individual library in the university. Opened in 1973 and named for John Robarts, the 17th Premier of Ontario, the library contains more than 4.5 million bookform items, 4.1 million microform items and 740,000 other items. The library building is one of the most significant examples of brutalist architecture in...</span><br/>                                      </div>
+      <div class="C5"></div>
+    </div>
+
+    
+
+    <div class="item-ia collection-ia" data-id="netlabels" onclick="AJS.colclick(this)" >
+
+      
+
+      <div class="hidden-tiles views C C1">
+                  <nobr class="hidden-xs">200.6<small>M</small></nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">201M</nobr>
+              </div>
+
+
+
+      
+      <div class="C234">
+                  <div class="collection-title C C2">
+                          <a href="/details/netlabels">
+                                  <div class="tile-img">
+                    <img class="item-img clipW clipH" src="/services/img/netlabels">
+                  </div><!--/.tile-img-->
+                                <div>
+                  Netlabels                </div>
+              </a>
+              <div class="collection-stats">
+                <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
+                  66,433                  <div class="micro-label">ITEMS</div>
+                </div>
+                <div class="num-items hidden-tiles">
+                  200.6<small>M</small>                  <div class="micro-label">VIEWS</div>
+                </div>
+              </div>
+                      </div><!--.C2-->
+        
+        <div class="hidden-tiles pubdate C C3">
+          <nobr class="hidden-xs">Dec 14, 2005</nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">12/05</nobr>
+        </div>
+
+        <div class="by C C4">
+          
+                            </div><!--/.C4-->
+      </div><!--/.C234-->
+
+
+      <div class="mt-icon C C5 hidden-tiles">
+                  <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>              </div>
+
+
+              <h6 class="stat  hidden-tiles">
+          <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          <nobr>200.6<small>M</small></nobr>
+        </h6>
+      
+
+          </div><!--/.item-ia-->
+
+
+    <div class="details-ia hidden-tiles">
+      <div class="C1"></div>
+      <div class="C234">
+        <span>Welcome to the Netlabels collection at the Internet Archive . This collection hosts complete, freely downloadable/streamable, often Creative Commons -licensed catalogs of 'virtual record labels'. These 'netlabels' are non-profit, community-built entities dedicated to providing high quality, non-commercial, freely distributable MP3/OGG-format music for online download in a multitude of genres. Styles include: melodic electronica ( e.g. Observatory Online , Please Do Something ) minimal house (...</span><br/>        <span alt="0.00 out of 5 stars" title="0.00 out of 5 stars"></span> ( 1 reviews )<br/>                              </div>
+      <div class="C5"></div>
+    </div>
+
+    
+
+    <div class="item-ia collection-ia" data-id="cdl" onclick="AJS.colclick(this)" >
+
+      
+
+      <div class="hidden-tiles views C C1">
+                  <nobr class="hidden-xs">179.3<small>M</small></nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">179M</nobr>
+              </div>
+
+
+
+      
+      <div class="C234">
+                  <div class="collection-title C C2">
+                          <a href="/details/cdl">
+                                  <div class="tile-img">
+                    <img class="item-img clipW clipH" src="/services/img/cdl">
+                  </div><!--/.tile-img-->
+                                <div>
+                  California Digital Library                </div>
+              </a>
+              <div class="collection-stats">
+                <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
+                  191,926                  <div class="micro-label">ITEMS</div>
+                </div>
+                <div class="num-items hidden-tiles">
+                  179.3<small>M</small>                  <div class="micro-label">VIEWS</div>
+                </div>
+              </div>
+                      </div><!--.C2-->
+        
+        <div class="hidden-tiles pubdate C C3">
+          <nobr class="hidden-xs">Feb 14, 2006</nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">02/06</nobr>
+        </div>
+
+        <div class="by C C4">
+          
+                            </div><!--/.C4-->
+      </div><!--/.C234-->
+
+
+      <div class="mt-icon C C5 hidden-tiles">
+                  <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>              </div>
+
+
+              <h6 class="stat  hidden-tiles">
+          <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          <nobr>179.3<small>M</small></nobr>
+        </h6>
+      
+
+          </div><!--/.item-ia-->
+
+
+    <div class="details-ia hidden-tiles">
+      <div class="C1"></div>
+      <div class="C234">
+        <span>The California Digital Library supports the assembly and creative use of the world's scholarship and knowledge for the University of California libraries and the communities they serve. In addition, the CDL provides tools that support the construction of online information services for research, teaching, and learning, including services that enable the UC libraries to effectively share their materials and provide greater access to digital content.</span><br/>                                      </div>
+      <div class="C5"></div>
+    </div>
+
+    
+
+    <div class="item-ia collection-ia" data-id="prelinger" onclick="AJS.colclick(this)" >
+
+      
+
+      <div class="hidden-tiles views C C1">
+                  <nobr class="hidden-xs">168.6<small>M</small></nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">169M</nobr>
+              </div>
+
+
+
+      
+      <div class="C234">
+                  <div class="collection-title C C2">
+                          <a href="/details/prelinger">
+                                  <div class="tile-img">
+                    <img class="item-img clipW clipH" src="/services/img/prelinger">
+                  </div><!--/.tile-img-->
+                                <div>
+                  Prelinger Archives                </div>
+              </a>
+              <div class="collection-stats">
+                <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
+                  6,908                  <div class="micro-label">ITEMS</div>
+                </div>
+                <div class="num-items hidden-tiles">
+                  168.6<small>M</small>                  <div class="micro-label">VIEWS</div>
+                </div>
+              </div>
+                      </div><!--.C2-->
+        
+        <div class="hidden-tiles pubdate C C3">
+          <nobr class="hidden-xs">Jun 4, 2005</nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">06/05</nobr>
+        </div>
+
+        <div class="by C C4">
+          
+                            </div><!--/.C4-->
+      </div><!--/.C234-->
+
+
+      <div class="mt-icon C C5 hidden-tiles">
+                  <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>              </div>
+
+
+              <h6 class="stat  hidden-tiles">
+          <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          <nobr>168.6<small>M</small></nobr>
+        </h6>
+      
+
+          </div><!--/.item-ia-->
+
+
+    <div class="details-ia hidden-tiles">
+      <div class="C1"></div>
+      <div class="C234">
+        <span>View thousands of films from the Prelinger Archives! Prelinger Archives was founded in 1983 by Rick Prelinger in New York City. Over the next twenty years, it grew into a collection of over 60,000 &quot;ephemeral&quot; (advertising, educational, industrial, and amateur) films. In 2002, the film collection was acquired by the Library of Congress, Motion Picture, Broadcasting and Recorded Sound Division . Prelinger Archives remains in existence, holding approximately 11,000 digitized and...</span><br/>                                      </div>
+      <div class="C5"></div>
+    </div>
+
+    
+
+    <div class="item-ia collection-ia" data-id="folksoundomy" onclick="AJS.colclick(this)" >
+
+      
+
+      <div class="hidden-tiles views C C1">
+                  <nobr class="hidden-xs">149.7<small>M</small></nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">150M</nobr>
+              </div>
+
+
+
+      
+      <div class="C234">
+                  <div class="collection-title C C2">
+                          <a href="/details/folksoundomy">
+                                  <div class="tile-img">
+                    <img class="item-img clipW clipH" src="/services/img/folksoundomy">
+                  </div><!--/.tile-img-->
+                                <div>
+                  Folksoundomy: A Library of Sound                </div>
+              </a>
+              <div class="collection-stats">
+                <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
+                  149,143                  <div class="micro-label">ITEMS</div>
+                </div>
+                <div class="num-items hidden-tiles">
+                  149.7<small>M</small>                  <div class="micro-label">VIEWS</div>
+                </div>
+              </div>
+                      </div><!--.C2-->
+        
+        <div class="hidden-tiles pubdate C C3">
+          <nobr class="hidden-xs">Dec 12, 2016</nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">12/16</nobr>
+        </div>
+
+        <div class="by C C4">
+          
+                            </div><!--/.C4-->
+      </div><!--/.C234-->
+
+
+      <div class="mt-icon C C5 hidden-tiles">
+                  <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>              </div>
+
+
+              <h6 class="stat  hidden-tiles">
+          <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          <nobr>149.7<small>M</small></nobr>
+        </h6>
+      
+
+          </div><!--/.item-ia-->
+
+
+    <div class="details-ia hidden-tiles">
+      <div class="C1"></div>
+      <div class="C234">
+        <span>Folksonomy : A system of classification derived from the practice and method of collaboratively creating and managing tags to annotate and categorize content; this practice is also known as collaborative tagging, social classification, social indexing, and social tagging. Coined by Thomas Vander Wal, it is a portmanteau of folk and taxonomy. Folksoundomy : A collection of sounds, music and speech derived from the efforts of volunteers to make information as widely available as possible. Because...</span><br/>                                      </div>
+      <div class="C5"></div>
+    </div>
+
+    
+
+    <div class="item-ia collection-ia" data-id="feature_films" onclick="AJS.colclick(this)" >
+
+      
+
+      <div class="hidden-tiles views C C1">
+                  <nobr class="hidden-xs">138.3<small>M</small></nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">138M</nobr>
+              </div>
+
+
+
+      
+      <div class="C234">
+                  <div class="collection-title C C2">
+                          <a href="/details/feature_films">
+                                  <div class="tile-img">
+                    <img class="item-img clipW clipH" src="/services/img/feature_films">
+                  </div><!--/.tile-img-->
+                                <div>
+                  Feature Films                </div>
+              </a>
+              <div class="collection-stats">
+                <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
+                  5,290                  <div class="micro-label">ITEMS</div>
+                </div>
+                <div class="num-items hidden-tiles">
+                  138.3<small>M</small>                  <div class="micro-label">VIEWS</div>
+                </div>
+              </div>
+                      </div><!--.C2-->
+        
+        <div class="hidden-tiles pubdate C C3">
+          <nobr class="hidden-xs">Feb 26, 2005</nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">02/05</nobr>
+        </div>
+
+        <div class="by C C4">
+          
+                      <span class="hidden-lists">by</span>
+            <span title="Internet Archive">Internet Archive</span>
+                            </div><!--/.C4-->
+      </div><!--/.C234-->
+
+
+      <div class="mt-icon C C5 hidden-tiles">
+                  <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>              </div>
+
+
+              <h6 class="stat  hidden-tiles">
+          <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          <nobr>138.3<small>M</small></nobr>
+        </h6>
+      
+
+          </div><!--/.item-ia-->
+
+
+    <div class="details-ia hidden-tiles">
+      <div class="C1"></div>
+      <div class="C234">
+        <span>Feature films, shorts , silent films and trailers are available for viewing and downloading. Enjoy! View a list of all the Feature Films sorted by popularity . Do you want to post a feature film? First, figure out if it's in the Public Domain. Read this FAQ about determining if something is PD. If you're still not sure, post a question to the forum below with as much information about the movie as possible. One of our users might have relevant information.</span><br/>                Topic: Moving Images<br/>                      </div>
+      <div class="C5"></div>
+    </div>
+
+    
+
+    <div class="item-ia collection-ia" data-id="GratefulDead" onclick="AJS.colclick(this)" >
+
+      
+
+      <div class="hidden-tiles views C C1">
+                  <nobr class="hidden-xs">119.2<small>M</small></nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">119M</nobr>
+              </div>
+
+
+
+      
+      <div class="C234">
+                  <div class="collection-title C C2">
+                          <a href="/details/GratefulDead">
+                                  <div class="tile-img">
+                    <img class="item-img clipW clipH" src="/services/img/GratefulDead">
+                  </div><!--/.tile-img-->
+                                <div>
+                  Grateful Dead                </div>
+              </a>
+              <div class="collection-stats">
+                <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
+                  11,157                  <div class="micro-label">ITEMS</div>
+                </div>
+                <div class="num-items hidden-tiles">
+                  119.2<small>M</small>                  <div class="micro-label">VIEWS</div>
+                </div>
+              </div>
+                      </div><!--.C2-->
+        
+        <div class="hidden-tiles pubdate C C3">
+          <nobr class="hidden-xs">Mar 27, 2004</nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">03/04</nobr>
+        </div>
+
+        <div class="by C C4">
+          
+                      <span class="hidden-lists">by</span>
+            <span title="Grateful Dead">Grateful Dead</span>
+                            </div><!--/.C4-->
+      </div><!--/.C234-->
+
+
+      <div class="mt-icon C C5 hidden-tiles">
+                  <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>              </div>
+
+
+              <h6 class="stat  hidden-tiles">
+          <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          <nobr>119.2<small>M</small></nobr>
+        </h6>
+      
+
+          </div><!--/.item-ia-->
+
+
+    <div class="details-ia hidden-tiles">
+      <div class="C1"></div>
+      <div class="C234">
+        <span>Browse: this just in · stream only (SBD) shows · downloadable (AUD) shows · this day in history · average review rating · number reviews · date reviewed · number views · search forums Created in 2004 this collection consists of both audience and soundboard recordings. It is not uncommon to find multiple versions of the same show. For more information please see the FAQ . The Grateful Dead collection is not currently open to public uploads. Search Shows: Downloadable Shows - usually...</span><br/>                Topic: grateful dead, jam, rock, jerry garcia<br/>                      </div>
+      <div class="C5"></div>
+    </div>
+
+    
+
+    <div class="item-ia collection-ia" data-id="internetarcade" onclick="AJS.colclick(this)" >
+
+      
+
+      <div class="hidden-tiles views C C1">
+                  <nobr class="hidden-xs">116.9<small>M</small></nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">117M</nobr>
+              </div>
+
+
+
+      
+      <div class="C234">
+                  <div class="collection-title C C2">
+                          <a href="/details/internetarcade">
+                                  <div class="tile-img">
+                    <img class="item-img clipW" src="/services/img/internetarcade">
+                  </div><!--/.tile-img-->
+                                <div>
+                  Internet Arcade                </div>
+              </a>
+              <div class="collection-stats">
+                <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
+                  608                  <div class="micro-label">ITEMS</div>
+                </div>
+                <div class="num-items hidden-tiles">
+                  116.9<small>M</small>                  <div class="micro-label">VIEWS</div>
+                </div>
+              </div>
+                      </div><!--.C2-->
+        
+        <div class="hidden-tiles pubdate C C3">
+          <nobr class="hidden-xs">Aug 6, 2014</nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">08/14</nobr>
+        </div>
+
+        <div class="by C C4">
+          
+                            </div><!--/.C4-->
+      </div><!--/.C234-->
+
+
+      <div class="mt-icon C C5 hidden-tiles">
+                  <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>              </div>
+
+
+              <h6 class="stat  hidden-tiles">
+          <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          <nobr>116.9<small>M</small></nobr>
+        </h6>
+      
+
+          </div><!--/.item-ia-->
+
+
+    <div class="details-ia hidden-tiles">
+      <div class="C1"></div>
+      <div class="C234">
+        <span>The Internet Arcade is a web-based library of arcade (coin-operated) video games from the 1970s through to the 1990s, emulated in JSMAME, part of the JSMESS software package. Containing hundreds of games ranging through many different genres and styles, the Arcade provides research, comparison, and entertainment in the realm of the Video Game Arcade.   The game collection ranges from early &quot;bronze-age&quot; videogames, with black and white screens and simple sounds, through to large-scale...</span><br/>                                      </div>
+      <div class="C5"></div>
+    </div>
+
+    
+
+    <div class="item-ia collection-ia" data-id="biodiversity" onclick="AJS.colclick(this)" >
+
+      
+
+      <div class="hidden-tiles views C C1">
+                  <nobr class="hidden-xs">98<small>M</small></nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">98M</nobr>
+              </div>
+
+
+
+      
+      <div class="C234">
+                  <div class="collection-title C C2">
+                          <a href="/details/biodiversity">
+                                  <div class="tile-img">
+                    <img class="item-img clipW clipH" src="/services/img/biodiversity">
+                  </div><!--/.tile-img-->
+                                <div>
+                  Biodiversity Heritage Library                </div>
+              </a>
+              <div class="collection-stats">
+                <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
+                  138,942                  <div class="micro-label">ITEMS</div>
+                </div>
+                <div class="num-items hidden-tiles">
+                  98<small>M</small>                  <div class="micro-label">VIEWS</div>
+                </div>
+              </div>
+                      </div><!--.C2-->
+        
+        <div class="hidden-tiles pubdate C C3">
+          <nobr class="hidden-xs">Dec 28, 2006</nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">12/06</nobr>
+        </div>
+
+        <div class="by C C4">
+          
+                            </div><!--/.C4-->
+      </div><!--/.C234-->
+
+
+      <div class="mt-icon C C5 hidden-tiles">
+                  <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>              </div>
+
+
+              <h6 class="stat  hidden-tiles">
+          <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          <nobr>98<small>M</small></nobr>
+        </h6>
+      
+
+          </div><!--/.item-ia-->
+
+
+    <div class="details-ia hidden-tiles">
+      <div class="C1"></div>
+      <div class="C234">
+        <span>Inspiring discovery through free access to biodiversity knowledge. | The Biodiversity Heritage Library improves research methodology by collaboratively making biodiversity literature openly available to the world as part of a global biodiversity community. BHL also serves as the foundational literature component of the Encyclopedia of Life . The Biodiversity Heritage Library (BHL) is a consortium of natural history and botanical libraries that cooperate to digitize the legacy literature of...</span><br/>                                      </div>
+      <div class="C5"></div>
+    </div>
+
+    
+
+    <div class="item-ia collection-ia" data-id="speed_runs" onclick="AJS.colclick(this)" >
+
+      
+
+      <div class="hidden-tiles views C C1">
+                  <nobr class="hidden-xs">96.7<small>M</small></nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">97M</nobr>
+              </div>
+
+
+
+      
+      <div class="C234">
+                  <div class="collection-title C C2">
+                          <a href="/details/speed_runs">
+                                  <div class="tile-img">
+                    <img class="item-img clipW clipH" src="/services/img/speed_runs">
+                  </div><!--/.tile-img-->
+                                <div>
+                  Speed Runs                </div>
+              </a>
+              <div class="collection-stats">
+                <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
+                  3,943                  <div class="micro-label">ITEMS</div>
+                </div>
+                <div class="num-items hidden-tiles">
+                  96.7<small>M</small>                  <div class="micro-label">VIEWS</div>
+                </div>
+              </div>
+                      </div><!--.C2-->
+        
+        <div class="hidden-tiles pubdate C C3">
+          <nobr class="hidden-xs">Nov 18, 2004</nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">11/04</nobr>
+        </div>
+
+        <div class="by C C4">
+          
+                            </div><!--/.C4-->
+      </div><!--/.C234-->
+
+
+      <div class="mt-icon C C5 hidden-tiles">
+                  <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>              </div>
+
+
+              <h6 class="stat  hidden-tiles">
+          <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          <nobr>96.7<small>M</small></nobr>
+        </h6>
+      
+
+          </div><!--/.item-ia-->
+
+
+    <div class="details-ia hidden-tiles">
+      <div class="C1"></div>
+      <div class="C234">
+        <span>Speed running (trying to complete a videogame in the fastest time possible) is almost as old as gaming itself. At least, it's almost as old as games that have a definite end point or staging points, since speedrunning a game with infinitely repeating levels is Sisyphean. This collection hosts downloadable movie files documenting the swiftest possible way to complete videogames such as Quake, Metroid, Zelda and many others. The videos come from Speed Demos Archive , TASvideos , and other...</span><br/>                Topic: video games<br/>                      </div>
+      <div class="C5"></div>
+    </div>
+
+    
+
+    <div class="item-ia collection-ia" data-id="europeanlibraries" onclick="AJS.colclick(this)" >
+
+      
+
+      <div class="hidden-tiles views C C1">
+                  <nobr class="hidden-xs">93.5<small>M</small></nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">94M</nobr>
+              </div>
+
+
+
+      
+      <div class="C234">
+                  <div class="collection-title C C2">
+                          <a href="/details/europeanlibraries">
+                                  <div class="tile-img">
+                    <img class="item-img clipW clipH" src="/services/img/europeanlibraries">
+                  </div><!--/.tile-img-->
+                                <div>
+                  European Libraries                </div>
+              </a>
+              <div class="collection-stats">
+                <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
+                  584,441                  <div class="micro-label">ITEMS</div>
+                </div>
+                <div class="num-items hidden-tiles">
+                  93.5<small>M</small>                  <div class="micro-label">VIEWS</div>
+                </div>
+              </div>
+                      </div><!--.C2-->
+        
+        <div class="hidden-tiles pubdate C C3">
+          <nobr class="hidden-xs">Oct 23, 2008</nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">10/08</nobr>
+        </div>
+
+        <div class="by C C4">
+          
+                            </div><!--/.C4-->
+      </div><!--/.C234-->
+
+
+      <div class="mt-icon C C5 hidden-tiles">
+                  <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>              </div>
+
+
+              <h6 class="stat  hidden-tiles">
+          <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          <nobr>93.5<small>M</small></nobr>
+        </h6>
+      
+
+          </div><!--/.item-ia-->
+
+
+    <div class="details-ia hidden-tiles">
+      <div class="C1"></div>
+      <div class="C234">
+        <span>Scanned books from various European Libraries.</span><br/>                                      </div>
+      <div class="C5"></div>
+    </div>
+
+    
+
+    <div class="item-ia collection-ia" data-id="tvarchive" onclick="AJS.colclick(this)" >
+
+      
+
+      <div class="hidden-tiles views C C1">
+                  <nobr class="hidden-xs">86.5<small>M</small></nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">86M</nobr>
+              </div>
+
+
+
+      
+      <div class="C234">
+                  <div class="collection-title C C2">
+                          <a href="/details/tvarchive">
+                                  <div class="tile-img">
+                    <img class="item-img clipW clipH" src="/services/img/tvarchive">
+                  </div><!--/.tile-img-->
+                                <div>
+                  Television Archive                </div>
+              </a>
+              <div class="collection-stats">
+                <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
+                  1,277,873                  <div class="micro-label">ITEMS</div>
+                </div>
+                <div class="num-items hidden-tiles">
+                  86.5<small>M</small>                  <div class="micro-label">VIEWS</div>
+                </div>
+              </div>
+                      </div><!--.C2-->
+        
+        <div class="hidden-tiles pubdate C C3">
+          <nobr class="hidden-xs">Jun 13, 2008</nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">06/08</nobr>
+        </div>
+
+        <div class="by C C4">
+          
+                            </div><!--/.C4-->
+      </div><!--/.C234-->
+
+
+      <div class="mt-icon C C5 hidden-tiles">
+                  <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>              </div>
+
+
+              <h6 class="stat  hidden-tiles">
+          <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          <nobr>86.5<small>M</small></nobr>
+        </h6>
+      
+
+          </div><!--/.item-ia-->
+
+
+    <div class="details-ia hidden-tiles">
+      <div class="C1"></div>
+      <div class="C234">
+        <span>Files pulled from TV News Archive for research and educational purposes.</span><br/>        <span alt="0.00 out of 5 stars" title="0.00 out of 5 stars"></span> ( 1 reviews )<br/>                              </div>
+      <div class="C5"></div>
+    </div>
+
+    
+
+    <div class="item-ia collection-ia" data-id="tvnews" onclick="AJS.colclick(this)" >
+
+      
+
+      <div class="hidden-tiles views C C1">
+                  <nobr class="hidden-xs">80.8<small>M</small></nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">81M</nobr>
+              </div>
+
+
+
+      
+      <div class="C234">
+                  <div class="collection-title C C2">
+                          <a href="/details/tvnews">
+                                  <div class="tile-img">
+                    <img class="item-img clipW clipH" src="/services/img/tvnews">
+                  </div><!--/.tile-img-->
+                                <div>
+                  Television Archive News Search Service                </div>
+              </a>
+              <div class="collection-stats">
+                <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
+                  1,267,901                  <div class="micro-label">ITEMS</div>
+                </div>
+                <div class="num-items hidden-tiles">
+                  80.8<small>M</small>                  <div class="micro-label">VIEWS</div>
+                </div>
+              </div>
+                      </div><!--.C2-->
+        
+        <div class="hidden-tiles pubdate C C3">
+          <nobr class="hidden-xs">Jun 21, 2012</nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">06/12</nobr>
+        </div>
+
+        <div class="by C C4">
+          
+                            </div><!--/.C4-->
+      </div><!--/.C234-->
+
+
+      <div class="mt-icon C C5 hidden-tiles">
+                  <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>              </div>
+
+
+              <h6 class="stat  hidden-tiles">
+          <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          <nobr>80.8<small>M</small></nobr>
+        </h6>
+      
+
+          </div><!--/.item-ia-->
+
+
+    <div class="details-ia hidden-tiles">
+      <div class="C1"></div>
+      <div class="C234">
+        <span>Items included in the Television News search service. Part of TV News Archive .</span><br/>                                      </div>
+      <div class="C5"></div>
+    </div>
+
+    
+
+    <div class="item-ia collection-ia" data-id="iraq_middleeast" onclick="AJS.colclick(this)" >
+
+      
+
+      <div class="hidden-tiles views C C1">
+                  <nobr class="hidden-xs">79.3<small>M</small></nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">79M</nobr>
+              </div>
+
+
+
+      
+      <div class="C234">
+                  <div class="collection-title C C2">
+                          <a href="/details/iraq_middleeast">
+                                  <div class="tile-img">
+                    <img class="item-img clipW clipH" src="/services/img/iraq_middleeast">
+                  </div><!--/.tile-img-->
+                                <div>
+                  Iraq War: Non-English Language Videos                </div>
+              </a>
+              <div class="collection-stats">
+                <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
+                  36,213                  <div class="micro-label">ITEMS</div>
+                </div>
+                <div class="num-items hidden-tiles">
+                  79.3<small>M</small>                  <div class="micro-label">VIEWS</div>
+                </div>
+              </div>
+                      </div><!--.C2-->
+        
+        <div class="hidden-tiles pubdate C C3">
+          <nobr class="hidden-xs">May 4, 2006</nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">05/06</nobr>
+        </div>
+
+        <div class="by C C4">
+          
+                            </div><!--/.C4-->
+      </div><!--/.C234-->
+
+
+      <div class="mt-icon C C5 hidden-tiles">
+                  <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>              </div>
+
+
+              <h6 class="stat  hidden-tiles">
+          <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          <nobr>79.3<small>M</small></nobr>
+        </h6>
+      
+
+          </div><!--/.item-ia-->
+
+
+    <div class="details-ia hidden-tiles">
+      <div class="C1"></div>
+      <div class="C234">
+        <span>This collection contains user-submitted videos that are primarily from Middle Eastern sources. The Internet Archive has not reviewed these videos for content, but we have included them here in order to preserve as complete a record as possible of the worldwide views concerning current events in the Middle East. Caution: These videos may not be appropriate for all users. These items have not been reviewed for content. Some items contain images of graphic violence, or appear to explicitly...</span><br/>                                      </div>
+      <div class="C5"></div>
+    </div>
+
+    
+
+    <div class="item-ia collection-ia" data-id="oldtimeradio" onclick="AJS.colclick(this)" >
+
+      
+
+      <div class="hidden-tiles views C C1">
+                  <nobr class="hidden-xs">79.3<small>M</small></nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">79M</nobr>
+              </div>
+
+
+
+      
+      <div class="C234">
+                  <div class="collection-title C C2">
+                          <a href="/details/oldtimeradio">
+                                  <div class="tile-img">
+                    <img class="item-img clipW clipH" src="/services/img/oldtimeradio">
+                  </div><!--/.tile-img-->
+                                <div>
+                  Old Time Radio                </div>
+              </a>
+              <div class="collection-stats">
+                <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
+                  2,496                  <div class="micro-label">ITEMS</div>
+                </div>
+                <div class="num-items hidden-tiles">
+                  79.3<small>M</small>                  <div class="micro-label">VIEWS</div>
+                </div>
+              </div>
+                      </div><!--.C2-->
+        
+        <div class="hidden-tiles pubdate C C3">
+          <nobr class="hidden-xs">May 10, 2006</nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">05/06</nobr>
+        </div>
+
+        <div class="by C C4">
+          
+                            </div><!--/.C4-->
+      </div><!--/.C234-->
+
+
+      <div class="mt-icon C C5 hidden-tiles">
+                  <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>              </div>
+
+
+              <h6 class="stat  hidden-tiles">
+          <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          <nobr>79.3<small>M</small></nobr>
+        </h6>
+      
+
+          </div><!--/.item-ia-->
+
+
+    <div class="details-ia hidden-tiles">
+      <div class="C1"></div>
+      <div class="C234">
+        <span>You are invited to listen to and download Old Time Radio shows here! Browse by: number views · average review rating · number reviews · date reviewed · date archived &amp;middot; topic</span><br/>                                      </div>
+      <div class="C5"></div>
+    </div>
+
+    
+
+    <div class="item-ia collection-ia" data-id="universallibrary" onclick="AJS.colclick(this)" >
+
+      
+
+      <div class="hidden-tiles views C C1">
+                  <nobr class="hidden-xs">69.1<small>M</small></nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">69M</nobr>
+              </div>
+
+
+
+      
+      <div class="C234">
+                  <div class="collection-title C C2">
+                          <a href="/details/universallibrary">
+                                  <div class="tile-img">
+                    <img class="item-img clipW clipH" src="/services/img/universallibrary">
+                  </div><!--/.tile-img-->
+                                <div>
+                  Universal Library                </div>
+              </a>
+              <div class="collection-stats">
+                <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
+                  108,136                  <div class="micro-label">ITEMS</div>
+                </div>
+                <div class="num-items hidden-tiles">
+                  69.1<small>M</small>                  <div class="micro-label">VIEWS</div>
+                </div>
+              </div>
+                      </div><!--.C2-->
+        
+        <div class="hidden-tiles pubdate C C3">
+          <nobr class="hidden-xs">May 7, 2006</nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">05/06</nobr>
+        </div>
+
+        <div class="by C C4">
+          
+                            </div><!--/.C4-->
+      </div><!--/.C234-->
+
+
+      <div class="mt-icon C C5 hidden-tiles">
+                  <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>              </div>
+
+
+              <h6 class="stat  hidden-tiles">
+          <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          <nobr>69.1<small>M</small></nobr>
+        </h6>
+      
+
+          </div><!--/.item-ia-->
+
+
+    <div class="details-ia hidden-tiles">
+      <div class="C1"></div>
+      <div class="C234">
+        <span>The Universal Library Project, sometimes called the Million Books Project, was pioneered by Jaime Carbonell, Raj Reddy, Michael Shamos, Gloriana St Clair, and Robert Thibadeau of Carnegie Mellon University. The Governments of India, China, and Egypt are helping fund this effort through scanning facilities and personnel. The Internet Archive has contributed 100k books from the Kansas City Public Library along with servers to India. The Indian government scanned the appropriate books. The...</span><br/>                                      </div>
+      <div class="C5"></div>
+    </div>
+
+    
+
+    <div class="item-ia collection-ia" data-id="open_source_software" onclick="AJS.colclick(this)" >
+
+      
+
+      <div class="hidden-tiles views C C1">
+                  <nobr class="hidden-xs">65.5<small>M</small></nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">66M</nobr>
+              </div>
+
+
+
+      
+      <div class="C234">
+                  <div class="collection-title C C2">
+                          <a href="/details/open_source_software">
+                                  <div class="tile-img">
+                    <img class="item-img clipW clipH" src="/services/img/open_source_software">
+                  </div><!--/.tile-img-->
+                                <div>
+                  Community Software                </div>
+              </a>
+              <div class="collection-stats">
+                <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
+                  43,016                  <div class="micro-label">ITEMS</div>
+                </div>
+                <div class="num-items hidden-tiles">
+                  65.5<small>M</small>                  <div class="micro-label">VIEWS</div>
+                </div>
+              </div>
+                      </div><!--.C2-->
+        
+        <div class="hidden-tiles pubdate C C3">
+          <nobr class="hidden-xs">May 9, 2006</nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">05/06</nobr>
+        </div>
+
+        <div class="by C C4">
+          
+                      <span class="hidden-lists">by</span>
+            <span title="Internet Archive">Internet Archive</span>
+                            </div><!--/.C4-->
+      </div><!--/.C234-->
+
+
+      <div class="mt-icon C C5 hidden-tiles">
+                  <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>              </div>
+
+
+              <h6 class="stat  hidden-tiles">
+          <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          <nobr>65.5<small>M</small></nobr>
+        </h6>
+      
+
+          </div><!--/.item-ia-->
+
+
+    <div class="details-ia hidden-tiles">
+      <div class="C1"></div>
+      <div class="C234">
+        <span>The Open Source Software Collection includes computer programs and/or data which are licensed under an Open Source Initiative or Free Software license, or is public domain . In general, items in this collection should be software for which the source code is freely available and able to be used and distributed without undue restrictions, and/or computer data which conforms to an openly published format.</span><br/>                Topics: software, public domain, open source, opensource, oss, free software, gpl, gnu, public domain...<br/>                      </div>
+      <div class="C5"></div>
+    </div>
+
+    
+
+    <div class="item-ia collection-ia" data-id="iraq_war" onclick="AJS.colclick(this)" >
+
+      
+
+      <div class="hidden-tiles views C C1">
+                  <nobr class="hidden-xs">64.6<small>M</small></nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">65M</nobr>
+              </div>
+
+
+
+      
+      <div class="C234">
+                  <div class="collection-title C C2">
+                          <a href="/details/iraq_war">
+                                  <div class="tile-img">
+                    <img class="item-img clipW clipH" src="/services/img/iraq_war">
+                  </div><!--/.tile-img-->
+                                <div>
+                  The Iraq War Collection                </div>
+              </a>
+              <div class="collection-stats">
+                <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
+                  36,465                  <div class="micro-label">ITEMS</div>
+                </div>
+                <div class="num-items hidden-tiles">
+                  64.6<small>M</small>                  <div class="micro-label">VIEWS</div>
+                </div>
+              </div>
+                      </div><!--.C2-->
+        
+        <div class="hidden-tiles pubdate C C3">
+          <nobr class="hidden-xs">Apr 26, 2006</nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">04/06</nobr>
+        </div>
+
+        <div class="by C C4">
+          
+                            </div><!--/.C4-->
+      </div><!--/.C234-->
+
+
+      <div class="mt-icon C C5 hidden-tiles">
+                  <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>              </div>
+
+
+              <h6 class="stat  hidden-tiles">
+          <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          <nobr>64.6<small>M</small></nobr>
+        </h6>
+      
+
+          </div><!--/.item-ia-->
+
+
+    <div class="details-ia hidden-tiles">
+      <div class="C1"></div>
+      <div class="C234">
+        <span>A compilation of videos from Internet Archive users about the Iraq War and the issues and events surrounding it are collected here. See a Tag Cloud for the Iraq War collection.</span><br/>                Topic: iraq war<br/>                      </div>
+      <div class="C5"></div>
+    </div>
+
+    
+
+    <div class="item-ia collection-ia" data-id="cratediggers" onclick="AJS.colclick(this)" >
+
+      
+
+      <div class="hidden-tiles views C C1">
+                  <nobr class="hidden-xs">63.4<small>M</small></nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">63M</nobr>
+              </div>
+
+
+
+      
+      <div class="C234">
+                  <div class="collection-title C C2">
+                          <a href="/details/cratediggers">
+                                  <div class="tile-img">
+                    <img class="item-img clipW" src="/services/img/cratediggers">
+                  </div><!--/.tile-img-->
+                                <div>
+                  Cratediggers                </div>
+              </a>
+              <div class="collection-stats">
+                <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
+                  43,001                  <div class="micro-label">ITEMS</div>
+                </div>
+                <div class="num-items hidden-tiles">
+                  63.4<small>M</small>                  <div class="micro-label">VIEWS</div>
+                </div>
+              </div>
+                      </div><!--.C2-->
+        
+        <div class="hidden-tiles pubdate C C3">
+          <nobr class="hidden-xs">Dec 13, 2016</nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">12/16</nobr>
+        </div>
+
+        <div class="by C C4">
+          
+                      <span class="hidden-lists">by</span>
+            <span title="Various">Various</span>
+                            </div><!--/.C4-->
+      </div><!--/.C234-->
+
+
+      <div class="mt-icon C C5 hidden-tiles">
+                  <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>              </div>
+
+
+              <h6 class="stat  hidden-tiles">
+          <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          <nobr>63.4<small>M</small></nobr>
+        </h6>
+      
+
+          </div><!--/.item-ia-->
+
+
+    <div class="details-ia hidden-tiles">
+      <div class="C1"></div>
+      <div class="C234">
+        <span>Cratedigging is the art of finding the obscure, forgotten or lost audio recordings that experienced low-volume production (or no-volume production, just being made by hand).</span><br/>                                      </div>
+      <div class="C5"></div>
+    </div>
+
+    
+
+    <div class="item-ia collection-ia" data-id="portuguese-web-archive" onclick="AJS.colclick(this)" >
+
+      
+
+      <div class="hidden-tiles views C C1">
+                  <nobr class="hidden-xs">63<small>M</small></nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">63M</nobr>
+              </div>
+
+
+
+      
+      <div class="C234">
+                  <div class="collection-title C C2">
+                          <a href="/details/portuguese-web-archive">
+                                  <div class="tile-img">
+                    <img class="item-img clipW" src="/services/img/portuguese-web-archive">
+                  </div><!--/.tile-img-->
+                                <div>
+                  The Portuguese Web Archive                </div>
+              </a>
+              <div class="collection-stats">
+                <div class="iconochive-collection topinblock hidden-lists"  aria-hidden="true"></div><span class="sr-only">collection</span>                <div class="num-items topinblock">
+                  8,938                  <div class="micro-label">ITEMS</div>
+                </div>
+                <div class="num-items hidden-tiles">
+                  63<small>M</small>                  <div class="micro-label">VIEWS</div>
+                </div>
+              </div>
+                      </div><!--.C2-->
+        
+        <div class="hidden-tiles pubdate C C3">
+          <nobr class="hidden-xs">Feb 11, 2014</nobr>
+          <nobr class="hidden-sm hidden-md hidden-lg">02/14</nobr>
+        </div>
+
+        <div class="by C C4">
+          
+                            </div><!--/.C4-->
+      </div><!--/.C234-->
+
+
+      <div class="mt-icon C C5 hidden-tiles">
+                  <span class="iconochive-collection"  aria-hidden="true"></span><span class="sr-only">collection</span>              </div>
+
+
+              <h6 class="stat  hidden-tiles">
+          <span class="iconochive-eye"  aria-hidden="true"></span><span class="sr-only">eye</span>          <nobr>63<small>M</small></nobr>
+        </h6>
+      
+
+          </div><!--/.item-ia-->
+
+
+    <div class="details-ia hidden-tiles">
+      <div class="C1"></div>
+      <div class="C234">
+        <span>The Portuguese Web Archive (PWA) is the national Web archive of Portugal. Its mission is to periodically archive contents of national interest available on the Web, storing and preserving for future generations information of historical relevance. It is a project of the Foundation for National Scientific Computing (FCCN).</span><br/>                                      </div>
+      <div class="C5"></div>
+    </div>
+
+    </div><!--/.results-->        <center class="more_search">
+          <a class="btn btn-info btn-sm" style="visibility:hidden" onclick="return AJS.more_search(this,'/index.php?&page=',1)" href="#">MORE RESULTS</a><br/>
+          <span class="more-search-fetching">Fetching more results <img src="/images/loading.gif"/></span>
+                    <noscript>
+                          <a href="/index.php?&page=2" type="button" class="page-next">Next Page</a>
+                      </noscript>
+        </center>
+            </div>
+            </div>
+
+    </div><!--.columns-items-->
+  </div><!--/.row-->
+
+  
+
+      </div>
+
+
+  <script type="text/javascript">
+   archive_setup.push(function(){
+     AJS.lists_v_tiles_setup('top');
+
+            AJS.tophat_dont_count_first_open=1;
+       $('.navia-link.web').click(); // open wayback/web
+     
+     $('div.ikind').css({visibility:'visible'});
+
+     
+     AJS.tiler();
+
+     $(window).on('resize  orientationchange', function(evt){
+       $.doTimeout(evt.type, 250, AJS.tiler);
+     });
+
+     // register for scroll updates (for infinite search results)
+     $(window).scroll(AJS.scrolled);
+   });
+  </script>
+        </div><!--/.container-->
+    </div><!--/#wrap-->
+    
+    <!-- Timing ...
+     rendered on: www15.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/index.php:68:require
+                                             |common/ia:55:require_once
+                                             |setup.php:297:log
+  0.1019   0.1019   begin session_start   var/cache/petabox/petabox/www/sf/index.php:95:head
+                                             |common/Nav.inc:17:construct
+                                             |NamedParameters.inc:72:call_user_func_array
+                                             |./unknown:unknown:__construct
+                                             |/var/cache/petabox/petabox/www/common/Nav.inc:111:session_start
+                                             |Cookies.inc:61:log
+  0.1021   0.0002    done session_start   var/cache/petabox/petabox/www/sf/index.php:95:head
+                                             |common/Nav.inc:17:construct
+                                             |NamedParameters.inc:72:call_user_func_array
+                                             |./unknown:unknown:__construct
+                                             |/var/cache/petabox/petabox/www/common/Nav.inc:111:session_start
+                                             |Cookies.inc:67:log
+  0.1463   0.0441              bug dump   var/cache/petabox/petabox/www/sf/index.php:128:footer
+                                             |common/setup.php:125:footer
+                                             |Nav.inc:1617:dump
+                                             |Bug.inc:120:log
+    -->
+    <script type="text/javascript">
+if (window.archive_analytics) {
+  var vs = window.archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=146;
+    vs[i]['server_name']="www15.us.archive.org";
+    vs[i]['service']='ao_2';
+      }
+
+  if ($(".more_search").size()>0) {
+    window.archive_analytics.send_scroll_fetch_base_event();
+  }
+}
+</script>
+      </div>
+  </body>
+</html>
+    

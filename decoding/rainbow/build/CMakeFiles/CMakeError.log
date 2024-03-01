@@ -1,0 +1,49 @@
+Performing C SOURCE FILE Test BROTLI_EMSCRIPTEN failed with the following output:
+Change Dir: /home/wudi/code/decoding/rainbow/build/CMakeFiles/CMakeScratch/TryCompile-qQkE4F
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_d449e/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_d449e.dir/build.make CMakeFiles/cmTC_d449e.dir/build
+gmake[1]: Entering directory '/home/wudi/code/decoding/rainbow/build/CMakeFiles/CMakeScratch/TryCompile-qQkE4F'
+Building C object CMakeFiles/cmTC_d449e.dir/src.c.o
+/usr/bin/cc -DBROTLI_EMSCRIPTEN   -o CMakeFiles/cmTC_d449e.dir/src.c.o -c /home/wudi/code/decoding/rainbow/build/CMakeFiles/CMakeScratch/TryCompile-qQkE4F/src.c
+Linking C executable cmTC_d449e
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d449e.dir/link.txt --verbose=1
+/usr/bin/cc -rdynamic CMakeFiles/cmTC_d449e.dir/src.c.o -o cmTC_d449e 
+/usr/bin/ld: /usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu/Scrt1.o: in function `_start':
+(.text+0x1b): undefined reference to `main'
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [CMakeFiles/cmTC_d449e.dir/build.make:99: cmTC_d449e] Error 1
+gmake[1]: Leaving directory '/home/wudi/code/decoding/rainbow/build/CMakeFiles/CMakeScratch/TryCompile-qQkE4F'
+gmake: *** [Makefile:127: cmTC_d449e/fast] Error 2
+
+
+Source file was:
+#if defined(__EMSCRIPTEN__)
+   int main() {return 0;}
+   #endif
+
+Determining if the function log2 exists failed with the following output:
+Change Dir: /home/wudi/code/decoding/rainbow/build/CMakeFiles/CMakeScratch/TryCompile-yyigOI
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_52928/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_52928.dir/build.make CMakeFiles/cmTC_52928.dir/build
+gmake[1]: Entering directory '/home/wudi/code/decoding/rainbow/build/CMakeFiles/CMakeScratch/TryCompile-yyigOI'
+Building C object CMakeFiles/cmTC_52928.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=log2 -o CMakeFiles/cmTC_52928.dir/CheckFunctionExists.c.o -c /home/wudi/code/decoding/rainbow/build/CMakeFiles/CMakeScratch/TryCompile-yyigOI/CheckFunctionExists.c
+<command-line>: warning: conflicting types for built-in function ‘log2’; expected ‘double(double)’ [-Wbuiltin-declaration-mismatch]
+/home/wudi/code/decoding/rainbow/build/CMakeFiles/CMakeScratch/TryCompile-yyigOI/CheckFunctionExists.c:7:3: note: in expansion of macro ‘CHECK_FUNCTION_EXISTS’
+    7 |   CHECK_FUNCTION_EXISTS(void);
+      |   ^~~~~~~~~~~~~~~~~~~~~
+/home/wudi/code/decoding/rainbow/build/CMakeFiles/CMakeScratch/TryCompile-yyigOI/CheckFunctionExists.c:1:1: note: ‘log2’ is declared in header ‘<math.h>’
+  +++ |+#include <math.h>
+    1 | #ifdef CHECK_FUNCTION_EXISTS
+Linking C executable cmTC_52928
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_52928.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=log2 -rdynamic CMakeFiles/cmTC_52928.dir/CheckFunctionExists.c.o -o cmTC_52928 
+/usr/bin/ld: CMakeFiles/cmTC_52928.dir/CheckFunctionExists.c.o: in function `main':
+CheckFunctionExists.c:(.text+0x14): undefined reference to `log2'
+collect2: error: ld returned 1 exit status
+gmake[1]: *** [CMakeFiles/cmTC_52928.dir/build.make:99: cmTC_52928] Error 1
+gmake[1]: Leaving directory '/home/wudi/code/decoding/rainbow/build/CMakeFiles/CMakeScratch/TryCompile-yyigOI'
+gmake: *** [Makefile:127: cmTC_52928/fast] Error 2
+
+
+

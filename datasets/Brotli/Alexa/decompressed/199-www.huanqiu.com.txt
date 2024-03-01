@@ -1,0 +1,1909 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>环球网_全球生活新门户_环球时报旗下网站</title>
+    <meta name="keywords" content="环球网,环球时报,军事,国际新闻,兵器,国际军情,中国军力,网络调查,国际话题,视频新闻,最新消息,航母,全球化,舆情,网络评论,全球局势,全球动态,外交,中国外交,全球化,全球新闻,环球资讯,出国,留学,签证,胡锡进,钓鱼岛,三沙市,领土争端,huanqiu" />
+    <meta name="description" content="环球网是中国领先的国际资讯门户，拥有独立采编权的中央重点新闻网站。环球网秉承环球时报的国际视野，力求及时、客观、权威、独立地报道新闻，致力于应用前沿的互联网技术，为全球化时代的中国互联网用户提供与国际生活相关的资讯服务、互动社区。未来会致力于打造全球化在线生活平台，成为中国与国际之间沟通与交流的桥梁。" />
+    <meta name="author" content="环球网" />
+    <meta name="google-site-verification" content="v3WmfjJR7MZLCitfnt8NqXwZJcDo-lJ7WOihl6YADEI" />
+    <meta property="qc:admins" content="1402660427605161156375" />
+    <meta name="360_union_verify" content="5feaaecf2dea72943017c02f4f63abde">
+    <meta name="filetype" content="1" />
+    <meta name="publishedtype" content="1" />
+    <meta name="pagetype" content="2" />
+    <meta name="catalogs" content="index" />
+    <meta name="chinaz-site-verification" content="c4c17dca-a923-4371-a8ab-121b402152c0" />
+    <meta name="baidu_union_verify" content="0239fee15e0ddc08baa32506964ef15a">
+    <style type="text/css">
+
+        body { font-size:12px; font-family:SimSun; color:#2b2b2b; border-top:#373737 5px solid; min-width:1024px;}
+        body,ol,ul,h1,h2,h3,h4,h5,h6,p,th,td,dl,dd,form,fieldset,legend,input,textarea,select{margin:0;padding:0; list-style:none;}
+        img { border:none;}
+        a { text-decoration:none; color:#002244;}
+        a:visited { color:#5f789e;}
+        a:hover { text-decoration:underline; color:#cd0200;}
+
+        h5 { font-weight:normal;}
+        h5 em { font-style:normal; color:#93090F; margin:0 5px; display:inline-block;}
+        h5 em a { color:#93090F; margin:0 2px;}
+
+        /*********** 图片引用区 ************/
+        /*.wrapBg { background:#9f0808 url(http://himg2.huanqiu.com/statics/hq2013/images/index2015/bg.jpg) top center no-repeat;}*/
+        /*.wrapBg { background: #f4f4d8 url(http://himg2.huanqiu.com/statics/hq2013/images/index2016/bg-color.jpg) top center repeat-y;}*/
+        /*.wrapPic{ background:url(http://himg2.huanqiu.com/statics/hq2013/images/index2016/bg.jpg) top center no-repeat;}*/
+        .navTopCon .phone ,.navTopCon .app ,.navTopCon .speek ,.navTopCon .linkHome ,.navTopCon .linkFav ,.iconBoxV li ,.place em ,.fotherNew .iconList a ,.navTopCon .linkTopNews { background:url(http://himg2.huanqiu.com/statics/hq2013/images/index2015/icon.png) no-repeat;}
+        .logoBox { background:url(http://himg2.huanqiu.com/statics/hq2013/images/index2015/logo.png) bottom no-repeat;}
+        .navMain li { background:url(http://himg2.huanqiu.com/statics/hq2013/images/index2015/navLine.png) bottom right no-repeat;}
+        .todayCom h3 strong ,.yellowBar strong ,.yellowBar span ,.yellowBar em ,.blueBar strong ,.blueBar span ,.blueBar em ,.inputText ,.btnSearch ,.titTabs .hover ,.titTabs .cur ,.ieTips span a ,.ieTips em { background:url(http://himg2.huanqiu.com/statics/hq2013/images/index2015/index.png) no-repeat;}
+        .logoCa ,.logoCb ,.logoCc ,.logoCd ,.logoCe,.logoCX,.logoKx { background:url(http://himg2.huanqiu.com/statics/hq2013/images/index2015/linkLogo.png) no-repeat;}
+        .vList h4 em ,ul.globalPicList h4 em { background:url(http://himg2.huanqiu.com/statics/hq2013/images/index2015/play.png) no-repeat;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src='http://himg2.huanqiu.com/statics/hq2013/images/index2015/play.png');_background: none;}
+        .video .vList .txt ,.hotPic .txt ,.visual .txt { background:url(http://himg2.huanqiu.com/statics/hq2013/images/index/bgFocus.png) no-repeat;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src='http://himg2.huanqiu.com/statics/hq2013/images/index/bgFocus.png');_background: none;}
+        .titVisual { background:url(http://himg2.huanqiu.com/statics/hq2013/images/index2015/titVisual.png) no-repeat;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src='http://himg2.huanqiu.com/statics/hq2013/images/index2015/titVisual.png');_background: none;}
+        .logoHuasong ,.logoHuasong2 ,.logoHuasong3 ,.adWuliangye { /*background:url(http://himg2.huanqiu.com/statics/hq2013/images/index2015/adPic.png) no-repeat;*/}
+        .ideasBox { background:url(http://himg2.huanqiu.com/statics/hq2013/images/index2015/ideas.gif) no-repeat;}
+        /*.wrap { background:url(http://himg2.huanqiu.com/statics/hq2013/images/index2015/bgTopLine.png) repeat-x top;}
+        .nav { background:#0a70b1 url(http://himg2.huanqiu.com/statics/hq2013/images/index2015/bgNav.jpg) no-repeat top center;}*/
+
+        /*********** 内容区 ************/
+        .wrap { display:block; width:100%; overflow:hidden; padding:10px 0 0;}
+        .wrapCon { display:block; width:1000px; margin:0 auto 20px; background:#fff; padding:20px 0 25px;}
+        /**/
+        .adDt { display:block; width:1000px; margin:0 auto 5px;}
+        .adNo { display:none;}
+        .adx { display:block; width:1000px; margin:0 auto 0;}
+        .adRm {height:90px}
+        /**/
+        h3 { font-family:Microsoft YaHei,SimSun; font-weight:normal; height:35px; line-height:35px; font-size:16px; color:#2b2b2b; position:relative; margin:0 0 8px; border-top:#e6e6e6 1px solid;}
+        h3 strong { display:inline-block; border-top:#2ca9e1 2px solid; margin-top:-1px; height:33px; line-height:33px; font-family:Microsoft YaHei,SimSun; font-weight:normal; font-size:16px; color:#2b2b2b; padding:0 3px; max-width: 210px; overflow: hidden;}
+        h3 strong a { color:#2b2b2b;}
+        h3 strong a:visited { color:#5e5e5e;}
+        h3 em { font-style:normal; position:absolute; right:0; top:1px; display:block; width:50px; text-align:right;}
+        h3 em a { font-size:12px; font-weight:normal; color:#5e5e5e;}.titTabs
+                                                                     h3 em a:hover { color:#0f92d6; text-decoration:none;}
+        h3 i { font-style:normal; position:absolute; right:0; top:1px; display:block; width:110px; text-align:right;}
+        h3 i a { font-size:12px; font-weight:normal; margin:0 0 0 10px;}
+        h3 i a:visited { color:#5e5e5e;}
+        /**/
+        .titTabs { display:block; height:42px; overflow: hidden;}
+        .titTabs li { display:block; width:70px; height:42px; line-height:42px; text-align:center; float:left; font-family:Microsoft YaHei,SimSun; font-weight:normal; font-size:16px; cursor:pointer; padding:0 22px 0 0; position:relative;}
+        .titTabs li em { font-family:Arial; font-size:16px; color:#e5e5e5; width:22px; text-align:center; position:absolute; right:0; top:0;}
+        .titTabs .cur { background-position:0 -105px; margin:-1px 0 0;}
+        .titTabs .hover { background-position:-110px -105px; margin:-1px 0 0;}
+        /**/
+        .boxMargin { margin:0 0 35px;}
+        .lineTop { border-top:#e6e6e6 1px solid; margin:18px 0 0; padding:8px 0 0;}
+
+        /*********** 文字列表 ************/
+        .iconBoxT14 li { height:28px;_height:26px;line-height:28px;_line-height:26px; overflow: hidden;}
+        .iconBoxT14 li a {font-size:14px;}
+        .iconBoxT14 li.first { margin:7px 0 0;}
+        .iconBoxT14 li.first a:link { color:#295285; font-family:Microsoft YaHei; font-size:16px;}
+        .iconBoxT14 li.first a:visited { color:#5f789e; font-family:Microsoft YaHei;font-size:16px;}
+        .iconBoxT14 li.first a:hover { color:#cd0200; font-family:Microsoft YaHei;font-size:16px;}
+        .iconBoxT14 li.first a:active { color:#295285; font-family:Microsoft YaHei;font-size:16px;}
+        .iconBoxT14 li strong { font-weight:bold; margin:25px 0 0;}
+
+        /*********** 图片列表 ************/
+        .picListArea { width:380px; display:block; overflow:hidden;}
+        .picListArea li { width:160px; height:150px; overflow:hidden; display:inline; float:left; margin:0 20px 0 0; position:relative;}
+        .picListArea img { width:160px; height:107px;}
+        .picListArea .txt { display:block; overflow: hidden; width:100%; height:28px; line-height:28px; font-size:12px; text-align:center;}
+
+        /*********** 小图片列表 ************/
+        .picListMini { width:300px; display:block; overflow:hidden;}
+        .picListMini li { width:120px; height:110px; overflow:hidden; display:inline; float:left; margin:0 10px 10px 0;}
+        .picListMini img { width:120px; height:80px;}
+        .picListMini .txt { display:block; overflow: hidden; height:30px; line-height:30px; font-size:12px; text-align:center;}
+
+        /*********** 视频列表 ************/
+        .iconBoxV li { background-position:0 -90px; height:28px; line-height:28px; overflow: hidden;padding:0 0 0 27px;}
+        .iconBoxV li a {font-size:14px;}
+        .iconBoxV li.first { margin:10px 0 0;}
+        .iconBoxV li.first a {font-weight:bold; color:#3b639f;}
+        .iconBoxV li strong { font-weight:bold; margin:25px 0 0;}
+
+        /*********** 图文混排 ************/
+        .photoText { display:block; height:115px; margin:0 0 12px;}
+        .photoText h4 { height:20px; overflow:hidden; margin:0 0 13px; line-height: 20px;}
+        .photoText h4 a { font-weight:normal; font-family:Microsoft YaHei,SimSun; font-size:16px; caption-side:#000;}
+        .photoText h4 a:link { color:#295285;}
+        .photoText h4 a:visited { color:#5f789e;}
+        .photoText h4 a:hover { color:#cd0200;}
+        .photoText h4 a:active {color:#295285;}
+        .photoText img { width:120px; height:80px; float:left; margin-right:10px;}
+        .photoText h5 { height:80px; overflow:hidden; line-height:16px; font-weight:normal; font-size:12px; text-align:justify; color:#666;}
+        .photoText h5 p { color:#666;}
+
+        /*********** 文字混排 ************/
+        .txtArray { display:block; height:65px; margin:0 0 12px;}
+        .txtArray h4 { height:22px; overflow:hidden; margin:0 0 8px;}
+        .txtArray h4 a { font-weight:normal; font-family:Microsoft YaHei,SimSun; font-size:16px; caption-side:#000;}
+        .txtArray h4 a:link { color:#295285;}
+        .txtArray h4 a:visited { color:#5f789e;}
+        .txtArray h4 a:hover { color:#cd0200;}
+        .txtArray h4 a:active {color:#295285;}
+        .txtArray h5 { line-height:18px; font-weight:normal; font-size:12px; text-align:justify; color:#666;}
+        .txtArray h5 p { color:#666;}
+
+        /*********** 导航功能区 ************/
+        .nav { background:#0a70b1;}
+        .navTopCon { display:block; width:820px; height:30px; line-height:30px; padding:0 0 0 180px; margin:0 auto 5px; color:#666; position:relative;}
+        .navTopCon a { color:#666;}
+        .navTopCon a:hover { color:#cd0200;}
+        .navTopCon .phone ,.navTopCon .app ,.navTopCon .speek ,.navTopCon .linkHome ,.navTopCon .linkFav ,.navTopCon .linkTopNews { padding-left:13px; margin:0 15px 0 0; color:#666;}
+        .navTopCon .speek { margin:0;}
+        .navTopCon .linkHome { background-position:0 -34px; padding-left:17px;}
+        .navTopCon .linkFav { background-position:0 -66px; padding-left:17px;}
+        .navTopCon .linkTopNews { background-position:0 -200px; padding-left:17px;}
+        .navTopCon em { color:#ccc; margin:0 10px; font-family:Arial; font-size:12px;}
+        .resLink { position:absolute; right:0; top:0;}
+        .navTopCon .btnRes ,.navTopCon .btnLogin { display:inline-block; text-align:center; font-size:14px; height:26px; line-height:26px; margin:0 10px 0 0;}
+        .navTopCon .btnLogin { width:60px; border:2px solid #0f92d6; border-radius: 2px 2px 2px 2px; background:#0f92d6; font-weight:bold; color:#fff; margin:0;}
+        .navTopCon .btnLogin:hover { border:2px solid #11a4ed; background:#11a4ed; color:#fff; text-decoration:none;}
+
+        /*********** 导航 ************/
+        .logoBox { display:block; width:186px; height:110px; position:absolute; left:-3px; top:-37px;}
+        /**/
+        .nav { display:block; width:100%; height:70px; border-bottom:#e6e5e6 3px solid;}
+        .navCon { display:block; width:1000px; height:70px; margin:0 auto; position:relative;}
+        /**/
+        .navMain { display:block; width:781px; font-size:14px; color:#d6ebf9; height:70px; line-height:24px; float:right;}
+        .navMain strong ,.navMain strong a { color:#fff;}
+        .navMain a { font-size:14px; color:#d6ebf9; margin:0 14px 0 0; text-decoration:none;}
+        .navMain a:hover { text-decoration:underline;}
+        .navMain ul { height:60px; overflow:hidden; margin:10px 0 0;}
+        .navMain li { float:left; text-align:left; height:46px; display:inline; margin:0 21px 0 0;}
+        .navMain dt { height:25px; line-height:25px;}
+        .navMain .pA { width:175px;}
+        .navMain .pB { width:134px;}
+        .navMain .pC { width:176px;}
+        .navMain .pD { width:231px; margin:0;}
+
+        /*********** 内容块 ************/
+        .conFir { display:block; margin:5px 0 20px; overflow:hidden;}
+        .leftFir ,.midFir { display:block; width:340px; float:left; }
+        .leftFir { margin-right:40px;_margin-right:20px;}
+        .rightFir { display:block; width:250px; overflow:hidden; float:right;}
+        .conBox { display:block; margin:25px auto; overflow:hidden;}
+        .leftBox ,.midBox { display:block; width:340px; overflow:hidden; float:left;}
+        .leftBox { margin:0 40px 0 0;_margin:0 20px 0 0;}
+        .rightBox { display:block; width:250px; overflow:hidden; float:right;}
+
+        /*********** 频道焦点图NEW ************/
+        #foucsBox { width:340px; height:256px; overflow:hidden; zoom:1; position:relative; margin:0 auto 24px; padding:0;}
+        #foucsBox1 { width:340px; height:253px; overflow:hidden; zoom:1; position:relative; margin:0 auto 24px; padding:0;}
+        #foucsBox .imgCon,#foucsBox1 .imgCon { width:340px; height:227px; margin:0; padding:0; position:relative; list-style:none; overflow:hidden;}
+        #foucsBox .imgCon li,#foucsBox1 .imgCon li  { float:left; width:340px; height:227px; position:relative;}
+        #foucsBox .imgCon li img,#foucsBox1 .imgCon li img { border:0; width:340px; height:227px;}
+        #foucsBox .imgCon li .imgTitle,#foucsBox1 .imgCon li .imgTitle { width:340px; position:absolute; left:0; bottom:0; text-align:left; z-index:2; }
+        #foucsBox .imgCon li .imgTitle a,#foucsBox1 .imgCon li .imgTitle a { display:block; width:324px; height:40px; line-height:40px; color:#fff; font-family:Microsoft YaHei,SimSun; font-size:18px; zoom: 1; overflow:hidden; margin:0 auto; text-align:left;}
+        #foucsBox .showPage,#foucsBox1 .showPage { background:url(http://himg2.huanqiu.com/statics/hq2013/images/index/bgFocus.png) no-repeat;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src='http://himg2.huanqiu.com/statics/hq2013/images/index/bgFocus.png');_background: none; position:absolute; left:0; bottom:-15px; z-index:1; width:340px; height:60px;}
+        #foucsBox .foucs,#foucsBox1 .foucs {  position:absolute; right:0; bottom:3px; z-index:3;}
+        #foucsBox .foucs span,#foucsBox1 .foucs span { display:inline-block; width:10px; height:10px; margin:0 0 0 10px; line-height:0; font-size:0; cursor: pointer; overflow: hidden; background:#c5c5c5;}
+        #foucsBox .foucs span.f,#foucsBox1 .foucs span.f { background:#4c99e8; }
+        #foucsBox .foucsButton,#foucsBox1 .foucsButton { background:rgba(0,0,0,0.5) none repeat scroll 0 0 !important;filter: progid:DXImageTransform.Microsoft.gradient(enabled = 'true', startColorstr = #64000000, endColorstr = #64000000); width:34px; height:56px; padding:7px 0; margin-top:-150px; position:relative; z-index:4; }
+        #foucsBox .foucsButton span,#foucsBox1 .foucsButton span { display:inline; width:34px; height:56px; cursor:pointer; overflow:hidden;}
+        #foucsBox .foucsButton img,#foucsBox1 .foucsButton img { display:none; cursor:pointer; border-width:0px; vertical-align:middle; width:100px; height:56px; }
+        #foucsBox .lBtn,#foucsBox1 .lBtn,#foucsBox .lBtn { float:left; }
+        #foucsBox .lBtn span,#foucsBox1 .lBtn span { float:left; background:url(http://himg2.huanqiu.com/statics/hq2013/images/index/arrLeftFocus.png) no-repeat;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src='http://himg2.huanqiu.com/statics/hq2013/images/index/arrLeftFocus.png');_background: none; }
+        #foucsBox .lBtn img,#foucsBox1 .lBtn img { float:left;}
+        #foucsBox .rBtn,#foucsBox1 .rBtn { float:right; }
+        #foucsBox .rBtn span,#foucsBox1 .rBtn span { float:right; background:url(http://himg2.huanqiu.com/statics/hq2013/images/index/arrRigFocus.png) no-repeat;_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, src='http://himg2.huanqiu.com/statics/hq2013/images/index/arrRigFocus.png');_background: none; }
+        #foucsBox .rBtn img,#foucsBox1 .rBtn img { float:right;}
+        #foucsBox .btnHover,#foucsBox1 .btnHover { background:rgba(0,0,0,0.8) none repeat scroll 0 0 !important; filter: progid:DXImageTransform.Microsoft.gradient(enabled = 'true', startColorstr = #90000000, endColorstr = #9000000); width:34px;}
+        #foucsBox .btnHover img,#foucsBox1 .btnHover img { display:none; }
+
+        /*********** 海外看中国 ************/
+        .lookOverseas { height:306px; overflow:hidden; margin:0 0 13px;}
+        /*
+        .lookOverseas h3 strong { background:#2ca9e1; width:100px; height:32px; line-height:32px; color:#fff; border:none; text-align:center;}
+        .lookOverseas h3 strong a { color:#fff;}
+        */
+        .lookOverseas li { height:18px;line-height: 18px; margin-bottom: 9px; overflow:hidden; font-size:14px;}
+        .lookOverseas li em { background:#eca95a; display:inline-block;*display:inline; text-align:center; color:#fff; font-style:normal; padding:2px 5px; margin-right:3px; line-height: 15px;}
+        .lookOverseas li a { margin-right:5px;}
+        .lookOverseas .fir { height:auto; border-left:#eca95a 4px solid; margin:0 0 8px; padding:8px 0 12px 8px;}
+        .lookOverseas .fir a { display:block; height:22px; line-height: 22px; margin-bottom: 3px; overflow: hidden; font-family:Microsoft YaHei,SimSun; font-size:16px; color:#295285;}
+        .lookOverseas .fir a:hover{ color:#cd0200;}
+        .lookOverseas .note { display:block; height:20px; color:#666; font-size:12px; overflow: hidden;}
+        /**/
+        #gloAd{display:inline-block;width:220px;height:27px;overflow:hidden;position:absolute;right:0;top:4px;}
+        #gloAdList{position:absolute;left:0;top:0;height:81px;}
+        .logoHuasong, .logoHuasong2 ,.logoHuasong3{display:block;height:27px;width:220px;}
+        .logoHuasong2{background-position:0 -40px;}
+        .logoHuasong3{background-position:0 -84px;}
+        .logoHuasong .linkHuaS ,.logoHuasong .linkSec ,.logoHuasong2 .linkHuaS ,.logoHuasong2 .linkSec ,.logoHuasong3 .linkHuaS ,.logoHuasong3 .linkSec { display:inline-block; width:98px; height:27px; float:left;}
+        .logoHuasong .linkSec { width:110px;}
+        .logoHuasong2 .linkHuaS { width:92px;}
+        .logoHuasong2 .linkSec { width:110px;}
+
+        /*********** 环球博览 ************/
+        .look { height:470px; overflow:hidden;}
+        .look .picListArea { height:145px; overflow:hidden; padding:1px 0 0;}
+        .look .picListArea .txt { height:30px; line-height:30px;}
+        .look .lineTop { margin:16px 0 0;}
+
+        /*********** 头条 ************/
+        .firNews { height:262px; }
+        .firNews ul { width:360px; height: 262px; overflow: hidden;}
+        .firNews li { padding:0 0 12px;}
+        .firNews h4 { font-family:Microsoft YaHei,SimSun; font-size:18px; font-weight:bold; height:22px; line-height:22px; margin:0 0 5px; overflow: hidden;}
+        .firNews h4 a { color:#295285;}
+        /*.firNews h4 a:visited { color:#5f789e;}*/
+        .firNews h4 a:hover{ color:#cd0200;}
+        /*.firNews h4 a:active { color:#295285;}*/
+        .firNews h5 { font-family:Arial,SimSun; font-size:14px; line-height:26px; color:#172c45; margin-left: -8px;}
+        .firNews h5 a { color:#172c45; margin:0 0 0 8px; display: inline-block;}
+        .firNews h5 a:hover { color:#cd0200;}
+        /*首页头条摘要标红*/
+        /*.firNews li:first-child h5 a { color: #FF0801}*/
+
+        /*首页第三个头条标题摘要标红*/
+        /*.firNews li:last-child h4 a { color: #FF0801}*/
+        /*.firNews li:last-child h5 a { color: #FF0801}*/
+
+        /*********** 新闻列表 ************/
+        .newsList { height:292px; overflow:hidden;}
+        .newsList2 { height:290px; overflow:hidden;}
+        .newsList3 { height:145px; overflow:hidden;}
+
+        /*********** 环球今日评 ************/
+        .todayCom { height:260px; overflow:hidden; margin:0 0 20px;}
+        .todayCom h3 strong { width:107px;}
+        .todayCom .txtArea { padding:5px 0 0;}
+        .todayCom .txtArea h4 { font-family:Microsoft YaHei,SimHei; font-size:16px; font-weight:normal; line-height:22px; margin:0 0 8px; max-height: 44px; overflow: hidden;}
+        .todayCom .txtArea h4 a { color:#295285;}
+        /*.todayCom .txtArea h4 a:visited { color:#5f789e;}*/
+        .todayCom .txtArea h4 a:hover{ color:#cd0200;}
+        .todayCom .txtArea h5 { line-height:18px; font-size:12px; color:#666; margin:0 0 13px; max-height: 54px; overflow: hidden;}
+        /**/
+        .adWuliangye { display:block; width:92px; height:24px; position:absolute; left:123px; top:7px; overflow:hidden;}
+
+        /*********** 第一话题 ************/
+        .firstTopic { margin:22px 0 19px; height:218px; overflow:hidden;}
+        .firstTopic .txtArea { margin:0 0 12px;}
+        .firstTopic h4 { font-family:Microsoft YaHei,SimSun; font-size:16px; font-weight:normal; line-height:22px; margin:0 0 5px; height: 44px; overflow: hidden;}
+        .firstTopic h4 a { color:#295285;}
+        .firstTopic h4 a:hover { color:#cd0200;}
+        .firstTopic h5 { font-size:12px; line-height:18px; color:#666; height: 54px; overflow: hidden;}
+        .firstTopic h5 em { display:inline-block; color:#666;}
+        .firstTopic h5 em a { color:#990102;}
+        .firstTopic h5 em a:hover { color:#d78000;}
+        /**/
+        .firstTopic .voteArea { }
+        .firstTopic .voteArea li { height:27px; line-height:27px; position:relative;}
+        .firstTopic .voteArea strong { display:inline-block; width:60px; height:27px; line-height:25px; text-align:left; color:#fff; float:left; text-indent:6px; font-weight:normal; font-family:Microsoft YaHei,SimSun;}
+        .firstTopic .voteArea span { display:inline-block; height:27px; float:left;}
+        .firstTopic .voteArea em { display:inline-block; width:5px; height:27px; float:left; margin-right:3px;}
+        .firstTopic .voteArea .btnVote { display:inline-block; width:40px; height:25px; border:none; text-align:center; color:#fff; float:right; border:2px solid #5e5e5e; border-radius: 2px 2px 2px 2px; background:#5e5e5e; position:absolute; right:0; top:0; font-family:Microsoft YaHei,SimHei; cursor:pointer;}
+        .firstTopic .voteArea .btnVote:hover { border:2px solid #4c99e8; border-radius: 2px 2px 2px 2px; background:#4c99e8;}
+        .yellowBar { font-family:Arial; font-size:12px; color:#c89a13; margin:0 0 3px;}
+        .yellowBar strong { background-position:0 -256px;}
+        .yellowBar span { background-position:-50px -256px;}
+        .yellowBar em { background-position:-195px -256px;}
+        .blueBar { font-family:Arial; font-size:12px; color:#c89a13;}
+        .blueBar strong { background-position:0 -291px;}
+        .blueBar span { background-position:-50px -291px;}
+        .blueBar em { background-position:-195px -291px;}
+
+        /*********** 新闻搜索 ************/
+        .searchBox { display:block; height:150px; overflow:hidden; margin:22px 0 25px;}
+        .serachArea { display:block; height:40px; margin:0 0 10px;}
+        .inputText { display:block; background-position:0 -46px; float:right; width:210px; height:40px; line-height:40px; border:none; text-indent:10px; color:#333; font-family:Microsoft YaHei,SimHei; font-size:14px;}
+        .btnSearch { display:block; background-position:-210px -46px; float:right; width:40px; height:40px; border:none;}
+        .serachTxt a { display:inline-block; height:21px; line-height:21px; border:2px solid #eca95a; border-radius: 2px 2px 2px 2px; background:#eca95a; font-size:14px; color:#fff; margin:0 5px 5px 0; padding:0 7px;}
+
+        /*********** 新闻搜索 ************/
+        .hundreds { height:150px; overflow:hidden;}
+        .hundreds h3 { margin:0 0 8px;}
+
+        /*********** 军事、热图、无人机 ************/
+        .mil ,.hotPic ,.uav { height:295px; overflow:hidden;}
+        /**/
+        .mil h3 { margin:0 0 4px;}
+        /**/
+        .hotPic .picListArea li { height:127px;}
+        .hotPic .txt { position:absolute; left:0; top:79px; color:#fff;}
+        /**/
+        .uav .picListMini li { margin:0 10px 0 0;}
+        .uav .picListMini .txt { height:25px; line-height:25px;}
+
+        /*********** 时尚视频 ************/
+        .fashionV { height:243px; overflow:hidden; margin:0 0 30px;}
+        .vList { display:block; width:280px; margin:0 auto; overflow:hidden;}
+        .vList li { width:120px; height:115px; float:left; margin:0 10px 0 0; display:inline;}
+        .vList img { width:120px; height:80px;}
+        .vList h4 { display:block; margin:0; padding:0; width:120px; height:80px; position:relative;}
+        .vList h4 em { display:block; position:absolute; width:30px; height:30px; left:45px; top:25px;}
+        .vList .txt { display:block; width:120px; height:30px; line-height:30px; overflow:hidden; text-align:center; font-size:12px;}
+
+        /*********** 旅行线路 ************/
+        .goLine {}
+        .goLineList li { display:block; overflow:hidden; margin:0 0 18px;}
+        .goLineList h4 { line-height:23px; margin:0 0 11px; white-space:nowrap;}
+        .goLineList h4 a { font-weight:normal; font-family:Microsoft YaHei,SimSun; font-size:16px; caption-side:#000;}
+        .goLineList h4 a:link { color:#295285;}
+        .goLineList h4 a:visited { color:#5f789e;}
+        .goLineList h4 a:hover { color:#cd0200;}
+        .goLineList h4 a:active {color:#295285;}
+        .goLineList img { width:120px; height:80px; float:left; margin-right:10px;}
+        .goLineList h5 { width:120px; float:right; color:#666; border-top:#f2f2f2 1px solid;}
+        .place ,.price { display:block; height:39px; line-height:39px; text-align:right; border-bottom:#f2f2f2 1px solid; position:relative;}
+        .place { padding-right:20px;}
+        .place em { display:block; background-position:0 -136px; width:12px; height:16px; position:absolute; right:0; top:12px;}
+        .price em { font-family:"Comic Sans MS", cursive; font-size:16px; color:#eeb16a;}
+        .price strong { font-family:Impact; color:#b70005; font-size:24px; font-weight:normal; margin:0 5px 0 0;}
+        .price b { font-weight:normal; font-size:12px; color:#9c9c9c;}
+
+        /*********** 时尚、科技 ************/
+        .fashion ,.tech { height:365px; overflow:hidden;}
+
+        /*********** 国际、台海、旅行路线 ************/
+        .world ,.taiwan ,.goLine { height:305px; overflow:hidden;}
+
+        /*********** 国内、财经、理财·股票、旅行、留学、公益 ************/
+        .china ,.finance ,.stock ,.go ,.lx ,.hope { height:303px; overflow:hidden;}
+        .go .photoText { height:113px;}
+        /**/
+        .china .txtArray ,.go .txtArray { height:60px; margin:0 0 10px;}
+        .china .txtArray h4 ,.go .txtArray h4 { margin:0 0 3px;}
+        /**/
+        .china .photoText ,.finance .photoText ,.lx .photoText { margin:0 0 10px;}
+        /**/
+        .stock .txtArray ,.hope .txtArray { height:auto; margin:0 0 21px;}
+        .stock .txtArray h4 ,.hope .txtArray h4 { height:auto; line-height:24px; max-height: 48px;}
+
+        /*********** 娱乐、体育、女人 ************/
+        .ent ,.sports ,.woman { height:308px; overflow:hidden;}
+        .woman .picListMini li { margin:0 10px 17px 0;}
+
+        /*********** 视频、汽车 ************/
+        .video ,.auto { height:310px; overflow:hidden;}
+        /**/
+        .video .vList { width:380px; height:130px;}
+        .video .vList li { width:160px; height:107px; position:relative; margin:0 20px 0 0;}
+        .video .vList h4 ,.video .vList img { width:160px; height:107px;}
+        .video .vList h4 { z-index:9;}
+        .video .vList h4 em { left:65px; top:38px;}
+        .video .vList .txt { position:absolute; left:0; bottom:0; z-index:99; width:160px; height:45px; line-height:65px; color:#fff;}
+        /**/
+        .auto .photoText { margin:0 0 15px;}
+        .auto .photoText h4 { margin:0 0 7px;}
+
+        /*********** 国际车讯 ************/
+        .carInfo { height:210px; overflow:hidden; margin:0 0 10px;}
+        .carInfo .picListMini { height:110px; overflow:hidden;}
+        .carInfo .picListMini .txt { height:25px; line-height:25px;}
+
+        /*********** 数码、游戏、趣玩、健康、社会、情感 ************/
+        .digital ,.game ,.fun ,.health ,.society ,.feel ,.history ,.lookNews ,.anecdote { height:335px; overflow:hidden;}
+        /**/
+        .feel .picListMini { height:127px; overflow:hidden;}
+
+        /*********** 拼图集合 ************/
+        .visual { display:block; width:1000px; height:386px; margin:0 auto 25px; position:relative;}
+        .titVisual { display:block; width:1000px; height:53px; z-index:999;}
+        /**/
+        .visual ul { width:1000px; height:333px; position:relative;}
+        .visual li { position:absolute; overflow:hidden;}
+        .visual .txt { /*background:rgba(0,0,0,0.6) none repeat scroll 0 0 !important;filter: progid:DXImageTransform.Microsoft.gradient(enabled = 'true', startColorstr = #80000000, endColorstr = #80000000);*/ position:absolute; left:0; bottom:0; display:inline-block; font-family:Microsoft YaHei,SimSun; font-size:14px; color:#fff; width:249px; height:35px; line-height:35px; left:0; text-align:center; overflow:hidden;}
+        .visual .txt:hover { background:rgba(0,0,0,0.6) none repeat scroll 0 0 !important;filter: progid:DXImageTransform.Microsoft.gradient(enabled = 'true', startColorstr = #67000000, endColorstr = #67000000); color:#fff; text-decoration:none;}
+        .visual .picList1 { width:249px; height:333px; left:0; top:0;}
+        .visual .picList1 img { width:249px; height:333px;}
+        .visual .picList2 { width:249px; height:166px; left:250px; top:0;}
+        .visual .picList2 img { width:249px; height:166px;}
+        .visual .picList3 { width:249px; height:166px; left:250px; top:167px;}
+        .visual .picList3 img { width:249px; height:166px;}
+        .visual .picList4 { width:249px; height:333px; left:500px; top:0;}
+        .visual .picList4 img { width:249px; height:333px;}
+        .visual .picList5 { width:249px; height:166px; right:0; top:0;}
+        .visual .picList5 img { width:249px; height:166px;}
+        .visual .picList6 { width:249px; height:166px; right:0; bottom:0;}
+        .visual .picList6 img { width:249px; height:166px;}
+        .visual .picList7 { width:249px; height:385px; left:720px; top:0;}
+        .visual .picList7 img { width:249px; height:385px;}
+
+        /*********** 尾巴 ************/
+        .footNew { display:block; width:100%; min-width:1000px; margin:0 auto 0;}
+        .footOutNew { display:block; background:#0a70b1; width:100%; height:79px; border-bottom:#d0cfd0 3px solid; padding:11px 0 0;}
+        /**/
+        .fotherNew { background:#0a70b1; display:block; width:1000px; height:70px; line-height:22px; overflow:hidden; text-align:left; margin:0 auto; border-right:#3288bf 1px solid; position:relative;}
+        .fotherNew li { padding:0 29px; float:left; border-left:#3288bf 1px solid; overflow:hidden;}
+        .fotherNew li.fir { width:120px;}
+        .fotherNew li.fir a { display:block;}
+        .fotherNew li.sec { width:210px;}
+        .fotherNew li.sec .iconList { width:270px;}
+        .fotherNew li.sec a { width:114px; float:left;}
+        .fotherNew li.last { width: 511px; margin:0; padding-right:0;}
+        .fotherNew li.last a { margin:0 18px 0 0;}
+        .fotherNew h3 ,.fotherNew dt ,.fotherNew a { color:#89c3eb; text-align:left;}
+        .fotherNew a:visited { color:#5db7f5;}
+        .fotherNew a:hover { color:#ceebff; text-decoration:none;}
+        .fotherNew h3 { display:block; height:20px; line-height:20px; font-size:14px; color:#ceebff; font-weight:bold; border:none; padding:0; margin:0 0 3px; text-indent:12px; overflow:hidden;}
+        .fotherNew dl { margin:12px  0 0;}
+        .fotherNew dt { position:relative; width:240px; float:left; margin-right:10px;}
+        .fotherNew dd { width:270px; float:left;}
+        .fotherNew dt em { color:#fff; margin-right:8px;}
+        .fotherNew .iconList a { display:inline-block; background-position:0 -163px; padding-left:12px;}
+        .fotherNew .iconList .footTxtLife { width:72px;}
+        /**/
+        .fLink { height:40px; text-align:center; color:#f0f0f0; font-size:12px;}
+        .fLink a { color:#000; text-decoration:none; font-size:12px; height:40px; line-height:40px; margin:0 10px;}
+        .fLink a:hover { color:#820C0C; text-decoration:underline;}
+        .flinkMain { width:1000px; margin:0 auto; height:40px; line-height:40px; font-family:Microsoft YaHei,SimSun; position:relative;}
+        .fLink .marWid a,.fLink .marWidMain a { margin:0 15px; text-indent:0; display:inline-block; height:25px; line-height:25px; color:#5e5e5e; padding:0;}
+        .flinkMain .index-notice { position:absolute; right:26px; top:7px;}
+        /**/
+        .copyLink { width:1000px; margin:0 auto; color:#365071; line-height:25px; overflow:hidden;}
+        .copyLink li { padding:22px 0; width:1050px; clear:both; text-align: center;}
+        .copyLink dt { float:left; text-align:left; color:#365071; width:390px; display:inline;}
+        .copyLink dd { width:420px; text-align:left; float:left; margin:0;}
+        .copyLink .las { width:190px; margin:0;}
+        .copyLink a { color:#666; display:inline-block;}
+        .copyLink a:hover { color:#1c1c1c; text-decoration:underline;}
+        /**/
+        .copyLogo a { margin:0 20px 0 0;}
+        .logoCa ,.logoCb ,.logoCc ,.logoCd ,.logoCe,.logoCX,.logoKx{ width:122px; height:52px;}
+        .logoCb { background:url(http://himg2.huanqiu.com/statics/hq2013/images/index2016/hlwjb.png)  no-repeat; width:130px;}
+        .logoCc { background-position:-268px 0;}
+        .logoCd { background-position:-401px 0; width:117px;}
+        .logoCe { background-position:-522px 0; width:117px;}
+        .logoCX { background-position:-644px 0; width:117px;}
+        .logoKx { background-position:-766px 0; width:117px;}
+        /**/
+        .copyMain { display:block; width:1000px; background:#f2f2f2; margin:0 auto; text-align:center; color:#5e5e5e; height:30px; line-height:30px;}
+        .copyMain em { display:inline-block; margin:0 15px; color:#d9d9d9; font-family:Arial; font-size:12px;}
+        /**/
+        .ieTips { display:block; width:998px; height:28px; line-height:28px; background:#f7f2db; border:#f0e9ca 1px solid; margin:1px auto 10px; text-indent:35px; font-size:12px; color:#666; text-align:left; position:relative;}
+        .ieTips em { background-position:0 -160px; display:block; width:14px; height:14px; position:absolute; left:10px; top:5px;}
+        .ieTips span { display:block; background:#e8dfb9; width:26px; height:26px; height:26px; position:absolute; top:1px; right:1px;}
+        .ieTips span a { background-position:-73px -153px; display:block; width:26px; height:26px;}
+        .ieTips span a:hover { background-position:-32px -153px;}
+
+        /* 首页 两会 皮肤  */
+        /*.wrapBg { background:#ecf3fa url(http://a1.huanqiu.cn/images/d77b205d96b9be8ffb28b9f18edbb952.jpg) top center no-repeat }*/
+        /*.wrapPic { background: #fff; width: 1040px; margin: 0 auto; }*/
+        
+    </style>
+    <script src="http://himg2.huanqiu.com/statics/hq2013/js/lib/jquery1.9.1.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        function setCookie(c_name,value,expiredays)
+        {
+            var exdate=new Date()
+            exdate.setDate(exdate.getDate()+expiredays)
+            document.cookie=c_name+ "=" +escape(value)+
+                    ((expiredays==null) ? "" : ";expires="+exdate.toGMTString())+";path=/;domain=huanqiu.com";
+        }
+        function getCookie(c_name)
+        {
+            if (document.cookie.length>0)
+            {
+                c_start=document.cookie.indexOf(c_name + "=")
+                if (c_start!=-1)
+                {
+                    c_start=c_start + c_name.length+1
+                    c_end=document.cookie.indexOf(";",c_start)
+                    if (c_end==-1) c_end=document.cookie.length
+                    return unescape(document.cookie.substring(c_start,c_end))
+                }
+            }
+            return ""
+        }
+
+        (function(W){
+            var site = getCookie('domain');
+            if(window.location.search.length&&window.location.search.indexOf("from=mobile")!=-1) return;
+            if(/Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent.toLowerCase())){
+                if(document.referrer === 'http://m.huanqiu.com/'){
+                    return ;
+                }
+                if(site==''){
+                    W.location.href = "http://www.huanqiu.com/select.html";
+                }else{
+                    if(site!='www'){
+                        window.location.href="http://"+site+".huanqiu.com/";
+                    }
+                }
+            }
+        })(window);
+    </script>
+    <base target="_blank"></base>
+</head>
+<body>
+<!-- 请置于所有广告位代码之前 -->
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+<script type="text/javascript" src="http://ipengtai.huanqiu.com/resource/js/base.js?a=1"></script>
+<!-- 统计代码 -->
+<script type="text/javascript">
+    // 百度统计 
+    var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F1fc983b4c305d209e7e05d96e713939f' type='text/javascript'%3E%3C/script%3E"));
+    // cnzz 统计
+    var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cspan style='display:none' id='cnzz_stat_icon_1000010102'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1000010102' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- /end 统计代码 -->
+<!-- Ad Survey 广告位代码  首页全屏广告-->
+<div id="AD_SURVEY_POSITION_TSYD"></div>
+<script type="text/javascript">AD_SURVEY_Add_AdPos("9493");</script>
+<div class="wrap">
+    <!-- 顶部广告 begin-->
+    <div class="adDt" id="adDt">
+        <!-- Ad Survey 广告位代码  首页顶部通栏-->
+        <script type="text/javascript">AD_SURVEY_Add_AdPos("9479");</script>
+    </div>
+    <!-- 顶部广告 end-->
+    <!-- 导航功能区 begin-->
+    <div class="navTop">
+        <div class="navTopCon">
+            <span class="phone"><a href="http://mobile.huanqiu.com/#mobileBox">手机环球网</a></span>
+            <span class="app"><a href="http://mobile.huanqiu.com/#time">环球TIME客户端</a></span>
+            <!-- <span class="speek"><a href="a">胡侃</a></span> -->
+            <em>/</em>
+            <!-- <span class="weather">西安:多云-晴 6℃～14℃</span>
+            <em>/</em> -->
+            <a href="http://www.huanqiu.com/addhome/" class="linkHome" target="_self">设为首页</a>
+            <a href="javascript:void(0)" class="linkFav" target="_self" id="ui-markIndex">收藏本页</a>
+            <a href="http://roll.huanqiu.com/" class="linkTopNews">滚动新闻</a>
+            <span class="resLink" id="ui-login"></span>
+        </div>
+    </div>
+    <!-- 导航功能区 end-->
+
+    <!-- 导航 begin-->
+    <div class="nav">
+        <div class="navCon">
+            <a href="http://www.huanqiu.com/" target="_self"><div class="logoBox"></div></a>
+            <div class="navMain">
+                <ul>
+                    <li class="pA">
+                        <dl>
+                            <dt><strong><a href="http://world.huanqiu.com/">国际</a></strong><a href="http://china.huanqiu.com/">国内</a><a href="http://society.huanqiu.com/">社会</a><a href="http://photo.huanqiu.com/">图片</a></dt>
+                            <dt><strong><a href="http://mil.huanqiu.com/">军事</a></strong><a href="http://taiwan.huanqiu.com/">台海</a><a href="http://opinion.huanqiu.com/">评论</a><a href="http://look.huanqiu.com/">博览</a></dt>
+                        </dl>
+                    </li>
+                    <li class="pB">
+                        <dl>
+                            <dt><strong><a href="http://finance.huanqiu.com/">财经</a></strong><a href="http://auto.huanqiu.com/">汽车</a><a href="http://lx.huanqiu.com/">留学</a></dt>
+                            <dt><strong><a href="http://tech.huanqiu.com/">科技</a></strong><a href="http://tech.huanqiu.com/digi/">数码</a><a href="http://smart.huanqiu.com/">智能</a></dt>
+                        </dl>
+                    </li>
+                    <li class="pC">
+                        <dl>
+                            <dt><strong><a href="http://ent.huanqiu.com/">娱乐</a></strong><a href="http://go.huanqiu.com/">旅游</a><a href="http://run.huanqiu.com/">跑步</a><a href="http://sports.huanqiu.com/">体育</a></dt>
+                            <dt><strong><a href="http://fashion.huanqiu.com/">时尚</a></strong><a href="http://health.huanqiu.com/">健康</a><a href="http://luxury.huanqiu.com/">品鉴</a><a href="http://ski.huanqiu.com/">滑雪</a></dt>
+                        </dl>
+                    </li>
+                    <li class="pD">
+                        <dl>
+                            <dt><a href="http://city.huanqiu.com/">城市</a><a href="http://bbs.huanqiu.com/">论坛</a><a href="http://uav.huanqiu.com/">无人机</a><a href="http://oversea.huanqiu.com/">海外看中国</a></dt>
+                            <dt><a href="http://hope.huanqiu.com/">公益</a><a href="http://v.huanqiu.com/">视频</a><a href="http://weapon.huanqiu.com/">兵器库</a><a href="http://finance.huanqiu.com/br/">一带一路</a></dt>
+                        </dl>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <!-- 导航 end-->
+
+    <!-- 内容外侧 begin-->
+    <div class="wrapBg">
+        <div class="wrapPic">
+            <!-- 广告 begin -->
+            <div class="adx">
+                <style type="text/css">
+                    /*********** 首页顶部广告 ************/
+                    .adTop { display:block; width:978px; /*border:#d2e1f1 1px solid;*/ overflow:hidden; padding:10px; margin:0 auto;}
+                    .adTop li { display:block; width:139px; height:20px; line-height:20px; float:left;}
+                    .adTop li a { display:block; white-space:nowrap; width:120px; overflow:hidden; color:#333;}
+                    .adTop li a:hover { color:#cd0200;}
+                    .adTopImg { width:980px; margin:0 auto; overflow:hidden; padding:8px 0;}
+                </style>
+                <!-- <img src="http://himg2.huanqiu.com/statics/hq2013/images/index2015/adx.jpg" /> -->
+                <div class="adTop">
+                    <div class="adTopImg">
+                        <!-- Ad Survey 广告位代码  首页通栏01-->
+                        <script type="text/javascript">AD_SURVEY_Add_AdPos("9480");</script>
+                    </div>
+                </div>
+            </div>
+            <!-- 广告 begin -->
+
+            <!-- 内容部分 begin-->
+
+            <div class="wrapCon">
+                <!-- 第一部分 begin-->
+                <div class="conFir">
+                    <!-- 左侧-第一部分 begin-->
+                    <div class="leftFir">
+                        <!-- 焦点图 begin -->
+                        <div id="foucsBox">
+                            <ul class="imgCon">
+                                                                <!--展示图片开始-->
+                                                                <li><a href="http://world.huanqiu.com/photo/2017-05/2870312.html" title="韩大选民调：文在寅41.4%得票率领先" target="_blank">
+                                    <img src="http://himg2.huanqiu.com/attachment2010/2017/0509/20/11/20170509081101790.jpg" /></a>
+                                    <div class="imgTitle"><a href="http://world.huanqiu.com/photo/2017-05/2870312.html" target="_blank" title="韩大选民调：文在寅41.4%得票率领先">韩大选民调：文在寅41.4%得票率领先</a></div>
+                                    <div class="showPage"></div>
+                                </li>
+                                                                <li><a href="http://mil.huanqiu.com/photo_china/2017-05/2870207.html" title="区别很大：对比中印两国国产航母下水" target="_blank">
+                                    <img src="http://himg2.huanqiu.com/attachment2010/2017/0509/09/07/20170509090703802.jpg" /></a>
+                                    <div class="imgTitle"><a href="http://mil.huanqiu.com/photo_china/2017-05/2870207.html" target="_blank" title="区别很大：对比中印两国国产航母下水">区别很大：对比中印两国国产航母下水</a></div>
+                                    <div class="showPage"></div>
+                                </li>
+                                                                <li><a href="http://world.huanqiu.com/photo/2017-05/2870293.html" title="莫斯科红场阅兵拉开帷幕 女兵靓丽亮相" target="_blank">
+                                    <img src="http://himg2.huanqiu.com/attachment2010/2017/0509/16/06/20170509040645903.jpg" /></a>
+                                    <div class="imgTitle"><a href="http://world.huanqiu.com/photo/2017-05/2870293.html" target="_blank" title="莫斯科红场阅兵拉开帷幕 女兵靓丽亮相">莫斯科红场阅兵拉开帷幕 女兵靓丽亮相</a></div>
+                                    <div class="showPage"></div>
+                                </li>
+                                                                <li><a href=" http://china.huanqiu.com/photo/2017-05/2870311.html" title="汶川地震9周年 航拍地震遗迹现状" target="_blank">
+                                    <img src="http://himg2.huanqiu.com/attachment2010/2017/0509/20/19/20170509081905908.jpg" /></a>
+                                    <div class="imgTitle"><a href=" http://china.huanqiu.com/photo/2017-05/2870311.html" target="_blank" title="汶川地震9周年 航拍地震遗迹现状">汶川地震9周年 航拍地震遗迹现状</a></div>
+                                    <div class="showPage"></div>
+                                </li>
+                                                                <li><a href="http://photo.huanqiu.com/" title="世界微笑日：摄影师拍从冷漠到微笑瞬间" target="_blank">
+                                    <img src="http://himg2.huanqiu.com/attachment2010/2017/0509/14/14/20170509021415930.jpg" /></a>
+                                    <div class="imgTitle"><a href="http://photo.huanqiu.com/" target="_blank" title="世界微笑日：摄影师拍从冷漠到微笑瞬间">世界微笑日：摄影师拍从冷漠到微笑瞬间</a></div>
+                                    <div class="showPage"></div>
+                                </li>
+                                                                                                <li>
+                                    <!-- Ad Survey 广告位代码  首页焦点图（尾帧）-->
+                                    <script type="text/javascript">AD_SURVEY_Add_AdPos("9489");</script>
+                                    <div class="showPage"></div>
+                                </li>
+                                <!--展示图片结束-->
+                            </ul>
+                            <div class="foucs"></div>
+                            <div class="rBtn foucsButton">
+                                <span></span>
+                                <img />
+                            </div>
+                            <div class="lBtn foucsButton">
+                                <span></span>
+                                <img />
+                            </div>
+                        </div>
+                        <!-- 焦点图 end -->
+                        <script type="text/javascript">
+                            (function() {
+                                var li  = $(".imgCon > li"), obj = li.eq(li.length - 1), t = obj.find(".imgTitle");
+                                !t.length&&obj.remove();
+                            })();
+                        </script>
+                        <!-- 海外看中国 begin -->
+                        <div class="lookOverseas">
+                            <h3><strong><a href="http://oversea.huanqiu.com/">海外看中国</a></strong><em><a href="http://oversea.huanqiu.com/">更多</a></em><div class="adWuliangye"><!-- Ad Survey 广告位代码  栏目特约02--><script type="text/javascript">AD_SURVEY_Add_AdPos("9496");</script></div></h3>
+                            <ul>
+<li class="fir"><a href="http://oversea.huanqiu.com/" target="_blank">日媒:特朗普政权中对华强硬派影响力在下降?</a><span class="note">背后原因在于纳瓦罗在特朗普政权中的影响力的下滑。</span></li>
+<li><em>港媒</em><a href="http://oversea.huanqiu.com/article/2017-05/10626785.html" target="_blank">马克龙对中法关系具积极作用 但也存在变数</a></li>
+<li><em>达克斯巨头</em><a href="http://oversea.huanqiu.com/article/2017-05/10626762.html" target="_blank">中国业绩对德企成功具有决定性作用！</a></li>
+<li><em>港媒</em><a href="http://oversea.huanqiu.com/article/2017-05/10624281.html" target="_blank">特朗普如何助推中国的&ldquo;一带一路&rdquo;倡议？</a></li>
+<li><em>美媒</em><a href="http://oversea.huanqiu.com/article/2017-05/10624285.html" target="_blank">中国科技进步威胁美国？并非大家所想！</a></li>
+<li><em>澳媒</em><a href="http://oversea.huanqiu.com/article/2017-05/10624284.html" target="_blank">中国应为全球牛油果短缺负责？太荒谬了吧！</a></li>
+<li><em>美媒</em><a href="http://oversea.huanqiu.com/article/2017-05/10624282.html" target="_blank">澳门引入ATM人脸识别技术阻中国人洗钱！</a></li>
+<li><em>泰媒</em><a href="http://oversea.huanqiu.com/article/2017-05/10626726.html" target="_blank">泰国导游带中国游客翻墙逃票 被抓正着!</a></li>
+</ul>                        </div>
+                        <!-- 海外看中国 end -->
+
+                        <!-- 环球博览 begin -->
+                        <div class="look">
+                            <h3><strong><a href="http://look.huanqiu.com/">环球博览</a></strong><em><a href="http://look.huanqiu.com/">更多</a></em></h3>
+                            <ul class="picListArea">
+		<li>
+<a href="http://look.huanqiu.com/photo/2017-05/2870122.html" title="澳海底提琴鳐头部被砍成两半"><img src="http://himg2.huanqiu.com/attachment2010/2017/0509/08/32/20170509083246955.jpg" alt="澳海底提琴鳐头部被砍成两半"></a>
+<a title="澳海底提琴鳐头部被砍成两半" href="http://look.huanqiu.com/photo/2017-05/2870122.html" class="txt">澳海底提琴鳐头部被砍成两半</a>
+</li>
+<li>
+<a href="http://ent.huanqiu.com/star/mingxinglunbotu/2017-05/2870169.html" title="水均益女儿合影敬一丹康辉"><img src="http://himg2.huanqiu.com/attachment2010/2017/0509/00/41/20170509124111979.jpg" alt="水均益女儿合影敬一丹康辉"></a>
+<a title="水均益女儿合影敬一丹康辉" href="http://ent.huanqiu.com/star/mingxinglunbotu/2017-05/2870169.html" class="txt">水均益女儿合影敬一丹康辉</a>
+</li>
+</ul>                            <ul class="iconBoxT14">
+			<li><a title="坦桑尼亚公园两鸵鸟打架 大象闻声上前劝架(视频)" href="http://look.huanqiu.com/article/2017-05/10621593.html">坦桑尼亚公园两鸵鸟打架 大象闻声上前劝架(视频)</a></li>
+		<li><a title="美呆！挪威雪山蛇形路横空出世令人惊叹(视频)" href="http://look.huanqiu.com/article/2017-05/10621002.html">美呆！挪威雪山蛇形路横空出世令人惊叹(视频)</a></li>
+		<li><a title="苏格兰女子为治莱姆病 每周用蜜蜂蜇30次(图)" href="http://look.huanqiu.com/article/2017-05/10620649.html">苏格兰女子为治莱姆病 每周用蜜蜂蜇30次(图)</a></li>
+		<li><a title="神奇！爱尔兰海滩消失33年后几乎一夜重现(视频)" href="http://look.huanqiu.com/article/2017-05/10619990.html">神奇！爱尔兰海滩消失33年后几乎一夜重现(视频)</a></li>
+		</ul>                            <div class="newsList3 lineTop">
+<ul class="iconBoxT14">
+<li><a href="http://ent.huanqiu.com/star/mingxinglunbotu/2017-05/2870168.html" target="_blank"><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span style="display: none">&nbsp;</span><span style="display: none">&nbsp;</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span>黄晓明与小朋友合照嘟嘴亲亲 自嘲不想暴露年龄</span></a><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><a href="http://ent.huanqiu.com/star/mingxinglunbotu/2017-05/2870168.html"><span style="display: none">&nbsp;</span><span style="display: none">&nbsp;</span><span style="display: none">&nbsp;</span><span style="display: none">&nbsp;</span></a><a href="http://ent.huanqiu.com/star/mingxinglunbotu/2017-05/2870168.html" target="_blank"><span style="display: none">&nbsp;</span></a></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><a href="http://ent.huanqiu.com/star/mingxinglunbotu/2017-05/2870168.html"><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span style="display: none">&nbsp;</span><span style="display: none">&nbsp;</span></span><span style="display: none">&nbsp;</span></span><span style="display: none">&nbsp;</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></a></li>
+<li><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span style="display: none">&nbsp;</span><span style="display: none">&nbsp;</span><a href="http://ent.huanqiu.com/star/mingxinglunbotu/2017-05/2870170.html" target="_blank"><span>55岁关之琳为何表情如此傲娇</span></a><span style="display: none">&nbsp;</span><span style="display: none">&nbsp;</span><span style="display: none">&nbsp;</span><span style="display: none">&nbsp;</span><a href="http://ent.huanqiu.com/star/mingxinglunbotu/2017-05/2870005.html" target="_blank"><span style="display: none">&nbsp;</span></a></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><a href="javascript:void(0)/*311*/"><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span style="display: none">&nbsp;</span><span style="display: none">&nbsp;</span></span><span style="display: none">&nbsp;</span></span><span style="display: none">&nbsp;</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></a></li>
+<li><span><a href="http://fashion.huanqiu.com/news/2017-05/10629084.html" target="_blank">这是全世界最会穿衣服的总统，他的衣品你打几分</a></span></li>
+<li><span><a href="http://go.huanqiu.com/news/tour/2017-05/10626279.html" target="_blank">陆客不捧场 台观光产业沦为&ldquo;观光惨业&rdquo;</a></span></li>
+<li><span><a href="http://sports.huanqiu.com/pictures/list/2017-05/2870233.html" target="_blank">全运会礼仪小姐练咬筷子 众美女楚楚动人（图）</a></span></li>
+</ul>
+</div>                        </div>
+                        <!-- 环球博览 end -->
+
+                    </div>
+                    <!-- 左侧-第一部分 end-->
+
+                    <!-- 中间-第一部分 begin-->
+                    <div class="midFir">
+                        <!-- 头条 begin-->
+                        <div class="firNews">
+                            <ul>
+                                <li>
+<h4><a href="http://world.huanqiu.com/article/2017-05/10632101.html">习近平同法国当选总统马克龙通电话</a></h4>
+<h5><p><a href="http://world.huanqiu.com/special/BRF/index.html" target="_blank">习近平十个比喻描绘“一带一路”蓝图</a><a href="http://world.huanqiu.com/article/2017-05/10627974.html" target="_blank">“一带一路”20国青年街采，定义中国新四大发明</a></p>
+</h5>
+</li>
+		<li>
+<h4><a href="http://taiwan.huanqiu.com/article/2017-05/10630594.html ">外交部回应台缺席世卫大会：挟洋自重没出路</a></h4>
+<h5><p><a href="http://taiwan.huanqiu.com/article/2017-05/10627872.html" target="_blank">台学者:台湾是中国的一部分 与大陆合作可分享WHO资讯</a><a href="http://taiwan.huanqiu.com/article/2017-05/10627825.html" target="_blank">被拒世卫门外蔡当局“心情沉重” 誓将“蹭会”进行到底</a></p>
+</h5>
+</li>
+		<li>
+<h4><a href="http://world.huanqiu.com/exclusive/2017-05/10631943.html">韩大选出口民调：文在寅41.4%得票率领先</a></h4>
+<h5><p><a href="http://china.huanqiu.com/article/2017-05/10632064.html" target="_blank">火箭军在渤海某海域新型导弹武器作战检验 达到预期效果</a><a href="http://world.huanqiu.com/article/2017-05/10630861.html " target="_blank">韩大选：朴槿惠身在看守所有投票权 但选择不投票
+</a></p>
+</h5>
+</li>
+		                            </ul>
+                        </div>
+                        <!-- 头条 end-->
+
+                        <!-- 新闻列表 begin-->
+                        <div class="newsList lineTop">
+                            <ul class="iconBoxT14">
+                                <ul>
+<li class="first"><a href="http://world.huanqiu.com/exclusive/2017-05/10629286.html" target="_blank">美媒报道南海犯小儿科错误 专家:警惕挑拨意图</a></li>
+<li><a href="http://world.huanqiu.com/exclusive/2017-05/10630599.html" target="_blank">普京：没人可奴役我们 俄为击退任何威胁做好了准备</a></li>
+<li><a href="http://world.huanqiu.com/exclusive/2017-05/10626664.html" target="_blank">C919是中国生产的&ldquo;仿冒产品&rdquo;？韩媒：大错而特错！</a></li>
+<li><a href="http://world.huanqiu.com/exclusive/2017-05/10624257.html" target="_blank">美军方称&ldquo;巡航南海&rdquo;政策未变 专家:想争政策主动权</a></li>
+<li><a href="http://mil.huanqiu.com/observation/2017-05/10625437.html" target="_blank">中泰潜艇军售大单终敲定</a> <a href="http://mil.huanqiu.com/observation/2017-05/10625375.html" target="_blank">外媒又炒中国高超音速武器</a></li>
+</ul>
+                                <ul>
+<li class="first"><a href="http://world.huanqiu.com/article/2017-05/10631018.html" target="_blank">威海隧道车祸12死：含6名中国儿童5名韩国儿童</a></li>
+<li><a href="http://taiwan.huanqiu.com/article/2017-05/10631624.html " target="_blank">名嘴爆料：台官方为增观光数 花钱“买”越南客人</a></li>
+<li><a href="http://world.huanqiu.com/exclusive/2017-05/10630604.html" target="_blank">英媒：菲总统虽大打&ldquo;禁毒战&rdquo; 个人品质评级仍极好</a></li>
+<li><a href="http://look.huanqiu.com" target="_blank">震惊！无辜老妇被派对疯狂年轻人扔进泳池取乐(视频)</a></li>
+<li><a href="http://mil.huanqiu.com/world/2017-05/10625483.html" target="_blank">X37B在轨718天执行啥任务</a> <a href="http://mil.huanqiu.com/world/2017-05/10625299.html" target="_blank">俄军A50预警机重返叙利亚</a></li>
+</ul>
+                            </ul>
+                        </div>
+                        <!-- 新闻列表 end-->
+
+                        <!-- 新闻列表2 begin-->
+                        <div class="newsList2 lineTop">
+                            <ul class="iconBoxT14">
+                                <ul>
+<li class="first"><a href="http://world.huanqiu.com/article/2017-05/10631160.html " target="_blank">安倍再提修改和平宪法第九条 促在野党出提案</a></li>
+<li><a href="http://world.huanqiu.com/article/2017-05/10631139.html " target="_blank">中国在英&ldquo;史上最贵核电项目&rdquo;开工 总价180亿英镑</a></li>
+<li><a href="http://china.huanqiu.com/article/2017-05/10627745.html" target="_blank">&ldquo;老虎&rdquo;直播平台被打，&ldquo;黄鳝门&rdquo;女主播被抓</a></li>
+<li><a href="http://society.huanqiu.com/">男子养儿4年才知非亲生</a> <a href="http://society.huanqiu.com/article/2017-05/10624936.html" target="_blank">卖鹦鹉获刑男子已上诉</a></li>
+<li><a href="http://mil.huanqiu.com/observation/2017-05/10625599.html" target="_blank">疑似最新东风26导弹曝光</a> <a href="http://mil.huanqiu.com/observation/2017-05/10625827.html" target="_blank">美媒揭秘高超音速武器难点</a></li>
+</ul>
+                                <ul class="iconBoxT14">
+<li class="first"><a href="http://finance.huanqiu.com/" title="河北雄安不搞土地财政：严禁大规模房地产开发">河北雄安不搞土地财政：严禁大规模房地产开发</a></li>
+<li><a href="http://finance.huanqiu.com/ssgs/2017-05/10625789.html" title="李嘉诚也成贾跃亭债主：乐视拖欠和记电讯网络服务费">李嘉诚也成贾跃亭债主：乐视拖欠和记电讯网络服务费</a></li>
+<li><a href="http://auto.huanqiu.com/globalnews/2017-05/10621953.html" title="福特4月在华销量增长11%">福特4月在华销量增长11%</a> <a href="http://auto.huanqiu.com/globalnews/2017-05/10621909.html" title="2018改款标致308发布">2018款改款标致308海外发布</a></li>
+<li><a href="http://auto.huanqiu.com/globalnews/2017-05/10622044.html" title="Smart推出新入门级Pure车型">Smart推出新入门级Pure车型</a> <a href="http://auto.huanqiu.com/globalnews/2017-05/10620837.html" title="斯柯达一季度全球销量逾28万">斯柯达一季度全球销量逾28万</a></li>
+<li><a href="http://lx.huanqiu.com/lxnews/2017-05/10626491.html" title="大学生扮七仙女拍毕业照">大学生扮七仙女拍毕业照</a> <a href="http://lx.huanqiu.com/lxnews/2017-05/10625419.html" title="高考钉子户每天泡茶楼复习">高考钉子户每天泡茶楼复习</a></li>
+</ul>
+<p><embed height="0" id="xunlei_com_thunder_helper_plugin_d462f475-c18e-46be-bd10-327458d045bd" type="application/thunder_download_plugin" width="0"></embed></p>
+<p><embed height="0" id="xunlei_com_thunder_helper_plugin_d462f475-c18e-46be-bd10-327458d045bd" type="application/thunder_download_plugin" width="0"></embed></p>
+<p><embed height="0" id="xunlei_com_thunder_helper_plugin_d462f475-c18e-46be-bd10-327458d045bd" type="application/thunder_download_plugin" width="0"></embed></p>
+<p><embed height="0" id="xunlei_com_thunder_helper_plugin_d462f475-c18e-46be-bd10-327458d045bd" type="application/thunder_download_plugin" width="0"></embed></p>
+                            </ul>
+                        </div>
+                        <!-- 新闻列表2 end-->
+
+                        <!-- 新闻列表3 begin-->
+                        <div class="newsList3 lineTop">
+                            <ul class="iconBoxT14">
+<li class="first"><a href="http://tech.huanqiu.com/" title="">外媒：继共享单车后中国创业者热炒“充电宝”</a></li>
+<li><a href="http://tech.huanqiu.com/photo/2017-05/2870018.html" title="神奇世界看看看——第九十七季">神奇世界看看看第97季</a> <a href="http://tech.huanqiu.com/photo/2017-05/2870081.html" title="科技视觉：共享单车“包围”天津小白楼地区 ">共享单车&ldquo;包围&rdquo;天津小白楼</a></li>
+<li><a href="http://tech.huanqiu.com/internet/2017-05/10626960.html" title="雷军辟谣没有米6青春版 小米之家马上登陆印度">雷军：小米之家将登陆印度</a> <a href="http://tech.huanqiu.com/photo/2017-05/2870189.html" title="运动员拿iPhone 7接电话遭爆炸">运动员iPhone7接电话炸了</a></li>
+<li><a href="http://health.huanqiu.com/health_news/2017-05/10625655.html" title="今年养老金上调开始落地 上海已率先发放到位">上海养老金上调已发放到位</a> <a href="http://health.huanqiu.com/health_news/2017-05/10626047.html" title="中储粮回应万吨小麦变质：企业因利益拒不出库">中储粮回应万吨小麦变质</a></li>
+<li><a href="http://health.huanqiu.com/health_news/2017-05/10625643.html" title="男子多年性侵亲生女儿致其怀孕 被撤销监护人资格">男子性侵亲女儿</a> <a href="http://health.huanqiu.com/health_news/2017-05/10625753.html" title="产假回归被调岗降薪？ 法官：公司单方面调工资无效">产假后被降薪？法官称公司单方无效</a></li>
+</ul>
+                        </div>
+                        <!-- 新闻列表3 end-->
+                    </div>
+                    <!-- 中间-第一部分 end-->
+
+                    <!-- 右侧-第一部分 begin-->
+                    <div class="rightFir">
+                        <!-- 环球今日评 begin -->
+                        <div class="todayCom">
+                            <h3><a href="http://opinion.huanqiu.com/"><strong></strong></a><em><a href="http://opinion.huanqiu.com/">更多</a></em><div class="adWuliangye"><!-- Ad Survey 广告位代码  栏目特约01--><script type="text/javascript">AD_SURVEY_Add_AdPos("9495");</script></div></h3>
+
+                            <div class="txtArea">
+<h4><a href="http://opinion.huanqiu.com/editorial/2017-05/10623843.html" title="社评：世卫大会应是“台独”跪着反思的搓板">社评：世卫大会应是“台独”跪着反思的搓板</a></h4>
+<h5>大陆已准备好与台当局重来一轮斗争。接下来我们无需理睬台当局的诉苦、悲号和威胁。</h5>
+</div>
+
+<ul class="iconBoxT14">
+	<li><a href="http://opinion.huanqiu.com/1152/2017-05/10623859.html" title="蒋菁：对俄罗斯市场特殊性应有认识 ">蒋菁：对俄罗斯市场特殊性应有认识 </a></li>
+	<li><a href="http://opinion.huanqiu.com/opinion_world/2017-05/10626202.html" title="贺文萍：“新殖民主义”鼓噪可以休矣">贺文萍：“新殖民主义”鼓噪可以休矣</a></li>
+	<li><a href="http://opinion.huanqiu.com/opinion_china/2017-05/10625823.html" title="台北来信：520一周年之际的岛内乱象">台北来信：520一周年之际的岛内乱象</a></li>
+	<li><a href="http://opinion.huanqiu.com/opinion_world/2017-05/10428801.html" title="易昕：中国人“拜房教”落地悉尼之后">易昕：中国人“拜房教”落地悉尼之后</a></li>
+</ul>
+                        </div>
+                        <!-- 环球今日评 end -->
+
+                        <!-- 广告 begin-->
+                        <div class="adRm" id="adFm_1">
+                            <!-- Ad Survey 广告位代码  首页按钮01-->
+                            <script type="text/javascript">AD_SURVEY_Add_AdPos("9485");</script>
+                        </div>
+                        <!-- 广告 end-->
+
+                        <!-- 第一话题 begin -->
+                        <div class="firstTopic">
+                            <h3><strong><a href="http://opinion.huanqiu.com/debate/">第一话题</a></strong><em><a href="http://opinion.huanqiu.com/debate/">更多</a></em><div class="adWuliangye"><!-- Ad Survey 广告位代码  栏目特约03--><script type="text/javascript">AD_SURVEY_Add_AdPos("9497");</script></div></h3>
+                            <div class='txtArea'>
+<h4><a href='http://surveyx.huanqiu.com/survey/survey_hq/113' title='蔡英文执意派团去日内瓦，你认为她是在孤注一掷还是暗度陈仓？'>蔡英文执意派团去日内瓦，你认为她是在孤注一掷还是暗度陈仓？</a></h4>
+<h5>国台办指，台湾地区今年不能参会的责任完全在民进党当局。不过，台相关部门表示会在19日出发前往日内瓦，会努力到最后一分钟。 ​​​​</h5>
+</div>
+<ul class='voteArea'>
+<li class='yellowBar'><strong>孤注一掷</strong><span style='width:61px'></span><em></em>61%<input onClick=javascript:window.location='http://surveyx.huanqiu.com/survey/survey_hq/113' type='button' value='投票' class='btnVote' />
+</li>
+<li class='blueBar'><strong>暗度陈仓</strong><span style='width:39px'></span><em></em>39%<input onClick=javascript:window.location='http://surveyx.huanqiu.com/survey/survey_hq/113' type='button' value='投票' class='btnVote' />
+</li>
+ </ul>
+
+                        </div>
+                        <!-- 第一话题 end -->
+
+                        <!-- 广告 begin-->
+                        <div class="adRm" id="adFm_2">
+                            <!-- Ad Survey 广告位代码  首页按钮02-->
+                            <script type="text/javascript">AD_SURVEY_Add_AdPos("9486");</script>
+                        </div>
+                        <!-- 广告 end-->
+
+                        <!-- 新闻搜索 begin -->
+                        <div class="searchBox">
+                            <h3><strong><a href="http://s.huanqiu.com/">新闻搜索</a></strong><em><a href="http://s.huanqiu.com/">更多</a></em></h3>
+                            <form method="get" target="_blank" id="ui-topSearch">
+                                <div class="serachArea">
+                                    <input type="button" class="btnSearch" id="ui-topSearchBtn" />
+                                    <input type="text" name="q" value="" class="inputText" id="ui-topSearchKeyWord" />
+                                </div>
+                            </form>
+                            <div class="serachTxt">
+<a href="http://tag.huanqiu.com/t?q=习近平">习近平</a>
+<a href="http://tag.huanqiu.com/t?q=特朗普">特朗普</a>
+<a href="http://tag.huanqiu.com/t?q=金正恩">金正恩</a>
+<a href="http://tag.huanqiu.com/t?q=韩国">安倍</a>
+<a href="http://tag.huanqiu.com/t?q=朴槿惠">朴槿惠</a>
+<a href="http://tag.huanqiu.com/t?q=萨德">萨德</a>
+<a href="http://tag.huanqiu.com/t?q=默克尔">默克尔</a>
+</div>
+                        </div>
+                        <!-- 新闻搜索 end -->
+
+                        <!-- 环球论坛 begin-->
+                        <div class="hundreds">
+                            <h3><strong><a href="http://bbs.huanqiu.com/">环球论坛</a></strong><em><a href="http://bbs.huanqiu.com/">更多</a></em></h3>
+                            <ul class="iconBoxT14">
+			<li><a title="美太平洋司令哈里斯的言论令人想起谁" href="http://bbs.huanqiu.com/thread-4048236-1-1.html">美太平洋司令哈里斯的言论令人想起谁</a></li>
+		<li><a title="韩国大选是否也像法国大选波澜不惊" href="http://bbs.huanqiu.com/thread-4047715-1-1.html">韩国大选是否也像法国大选波澜不惊</a></li>
+		<li><a title="法国新总统马克龙创造了政坛“神话”" href="http://bbs.huanqiu.com/thread-4047506-1-1.html">法国新总统马克龙创造了政坛“神话”</a></li>
+		<li><a title="美国“新丝绸之路计划”失败的启示" href="http://bbs.huanqiu.com/thread-4047511-1-1.html">美国“新丝绸之路计划”失败的启示</a></li>
+																																																																																																														</ul>                        </div>
+                        <!-- 环球论坛 end-->
+
+                    </div>
+                    <!-- 右侧-第一部分 end-->
+
+                </div>
+                <!-- 第一部分 end-->
+
+                <!-- 广告 begin-->
+                <div class="ad" id="adBa_1">
+                    <!-- Ad Survey 广告位代码  首页通栏02-->
+                    <script type="text/javascript">AD_SURVEY_Add_AdPos("9481");</script>
+                </div>
+                <!-- 广告 end-->
+
+                <!-- 第二部分 begin-->
+                <div class="conBox">
+                    <!-- 军事 begin-->
+                    <div class="mil leftBox" id="milBox">
+                        <!-- 选项卡 begin-->
+                        <h3><strong><a href="http://mil.huanqiu.com/">军事</a></strong><em><a href="http://mil.huanqiu.com/">更多</a></em></h3>
+                        <!-- 选项卡 begin-->
+
+                        <!-- 军事 begin-->
+                        <div class="milList ui-tabItem" id="milNews1">
+                                                        <div class="txtArray">
+                                                                <h4><a title="美媒报南海消息犯小儿科错误 专家:警惕挑拨意图" href="http://mil.huanqiu.com/observation/2017-05/10629442.html">美媒报南海消息犯小儿科错误 专家:警惕挑拨意图</a></h4>
+                                <h5>中国在南海战略地位愈加重要的岛屿上准备建设新的陆基导弹装置</h5>
+                                                            </div>
+                            
+                            <ul class="iconBoxT14">
+                                                                                                                                                                                                <li><a title="美媒：中国欲支配世界 但不是凭借导弹、航母" href="http://mil.huanqiu.com/observation/2017-05/10625544.html">美媒：中国欲支配世界 但不是凭借导弹、航母</a></li>
+                                                                                                                                <li><a title="乌龙？美媒报道中国在海南岛部署导弹竟扯上黄岩岛" href="http://mil.huanqiu.com/observation/2017-05/10627552.html">乌龙？美媒报道中国在海南岛部署导弹竟扯上黄岩岛</a></li>
+                                                                                                                                                                                                <li><a title="夜间训练战机灯光忽全灭 飞行员盲操将其&quot;拽&quot;回" href="http://mil.huanqiu.com/china/2017-05/10625652.html">夜间训练战机灯光忽全灭 飞行员盲操将其&quot;拽&quot;回</a></li>
+                                                                <li><a title="联勤保障部队医院这波为兵服务可以给满分！" href="http://mil.huanqiu.com/china/2017-05/10627199.html">联勤保障部队医院这波为兵服务可以给满分！</a></li>
+                                                                                                                                                                <li><a title="美媒解读俄阅兵新亮相装备：剑指北极威慑日本" href="http://mil.huanqiu.com/world/2017-05/10630257.html">美媒解读俄阅兵新亮相装备：剑指北极威慑日本</a></li>
+                                                                <li><a title="俄举行卫国战争胜利70周年阅兵 普京将发表讲话" href="http://mil.huanqiu.com/world/2017-05/10628832.html">俄举行卫国战争胜利70周年阅兵 普京将发表讲话</a></li>
+                                                                                            </ul>
+                        </div>
+                        <!-- 军事 end-->
+                    </div>
+                    <!-- 军事 end-->
+
+                    <!-- 热图 begin-->
+                    <div class="hotPic midBox" id="hotPicBox">
+                        <h3><strong><a href="http://mil.huanqiu.com/gt/">军图</a></strong><em><a href="http://mil.huanqiu.com/gt/">更多</a></em></h3>
+
+                        <!-- 军事要闻 begin-->
+                        <div class="hotPicList">
+                            <!-- 焦点图 begin -->
+
+                            <div id="foucsBox1">
+                                <ul class="imgCon">
+	<li><a href="http://mil.huanqiu.com/gt/2017-05/2870225.html" title="海上自卫队自诩专业却相当迷信" target="_blank">
+<img src="http://himg2.huanqiu.com/attachment2010/2017/0509/10/01/20170509100146152.jpg" /></a>
+<div class="imgTitle"><a href="http://mil.huanqiu.com/gt/2017-05/2870225.html" target="_blank">海上自卫队自诩专业却相当迷信</a></div>
+<div class="showPage"></div>
+</li>
+<li><a href="http://mil.huanqiu.com/milmovie/2017-05/10629185.html" title="军武次位面：盘点俄罗斯阅兵各种大杀器" target="_blank">
+<img src="http://himg2.huanqiu.com/attachment2010/2017/0509/13/56/20170509015654153.jpg" /></a>
+<div class="imgTitle"><a href="http://mil.huanqiu.com/milmovie/2017-05/10629185.html" target="_blank">军武次位面：盘点俄罗斯阅兵各种大杀器</a></div>
+<div class="showPage"></div>
+</li>
+<li><a href="http://mil.huanqiu.com/photo_china/2017-05/2870201.html" title="数数跑道上有多少架飞豹战机" target="_blank">
+<img src="http://himg2.huanqiu.com/attachment2010/2017/0509/10/02/20170509100215944.jpg" /></a>
+<div class="imgTitle"><a href="http://mil.huanqiu.com/photo_china/2017-05/2870201.html" target="_blank">数数跑道上有多少架飞豹战机</a></div>
+<div class="showPage"></div>
+</li>
+</ul>
+                                <div class="foucs" style="right:44%;"></div>
+                                <div class="rBtn foucsButton">
+                                    <span></span>
+                                    <img />
+                                </div>
+                                <div class="lBtn foucsButton">
+                                    <span></span>
+                                    <img />
+                                </div>
+                            </div>
+                            <!-- 焦点图 end -->
+                        </div>
+                        <!-- 军事要闻 end-->
+                    </div>
+                    <!-- 热图 end-->
+
+                    <!-- 无人机 begin-->
+                    <div class="uav rightBox">
+                        <h3><strong><a href="http://uav.huanqiu.com/">无人机</a></strong><em><a href="http://uav.huanqiu.com/">更多</a></em></h3>
+                        <!-- v1 -->
+                        				        <ul class="picListMini">
+            <li>
+                <a href="http://uav.huanqiu.com/hyg/2017-05/10626194.html" title="VR让无人机更刺激"><img src="http://himg2.huanqiu.com/attachment2010/2017/0509/09/14/20170509091453112.gif" alt="VR让无人机更刺激"></a>
+                <a title="VR让无人机更刺激" href="http://uav.huanqiu.com/hyg/2017-05/10626194.html" class="txt">VR让无人机更刺激</a>
+            </li>
+       
+                        				            <li>
+                <a href="http://uav.huanqiu.com/hyg/2017-05/10626252.html" title="民航如何反制无人机？"><img src="http://himg2.huanqiu.com/attachment2010/2017/0509/09/16/20170509091654573.gif" alt="民航如何反制无人机？"></a>
+                <a title="民航如何反制无人机？" href="http://uav.huanqiu.com/hyg/2017-05/10626252.html" class="txt">民航如何反制无人机？</a>
+            </li>
+        </ul>
+        <ul class="iconBoxT14">
+                        				            <li><a title="河南安阳出动400架无人机喷农药" href="http://uav.huanqiu.com/hyg/2017-05/10626089.html">河南安阳出动400架无人机喷农药</a></li>
+                        				            <li><a title="谜一样的成都机场无人机“黑飞”事件" href="http://uav.huanqiu.com/hyg/2017-05/10625657.html">谜一样的成都机场无人机“黑飞”事件</a></li>
+                        				            <li><a title="首都机场安装新监测设备 专防无人机" href="http://uav.huanqiu.com/hyg/2017-05/10625514.html">首都机场安装新监测设备 专防无人机</a></li>
+                        				            <li><a title="亚马逊剑桥研发团队扩大 研究无人机" href="http://uav.huanqiu.com/hyg/2017-05/10618172.html">亚马逊剑桥研发团队扩大 研究无人机</a></li>
+                        				            <li><a title="公安部重点实验室支援成都 应对扰航" href="http://uav.huanqiu.com/hyg/2017-05/10618055.html">公安部重点实验室支援成都 应对扰航</a></li>
+                                </ul>                    </div>
+                    <!-- 无人机 end-->
+                </div>
+                <!-- 第二部分 end-->
+
+                <!-- 第三部分 begin-->
+                <div class="conBox">
+                    <!-- 时尚 begin-->
+                    <div class="fashion leftBox">
+                        <h3><strong><a href="http://fashion.huanqiu.com/">时尚</a></strong><em><a href="http://fashion.huanqiu.com/">更多</a></em></h3>
+                        <div class="photoText">
+<h4><a title="糖糖生娃半年恢复身材，Cara剃光头变成这样…" href="http://fashion.huanqiu.com/news/2017-05/10629039.html">糖糖生娃半年恢复身材，Cara剃光头变成这样…</a></h4>
+<a title="糖糖生娃半年恢复身材，Cara剃光头变成这样…" href="http://fashion.huanqiu.com/news/2017-05/10629039.html"><img alt="糖糖生娃半年恢复身材，Cara剃光头变成这样…" src="http://himg2.huanqiu.com/attachment2010/2017/0509/14/10/20170509021033585.jpg"></a>
+<h5><p>糖糖生娃才过半年身材就回到了“天使时期”，转过身去也是蜂腰翘臀的迷人尤物；继小K之后卡抽也剃了光头，难道这是检验美女的新标准<p> </h5>
+</div>                        <ul class="iconBoxT14">
+<li><a href="http://fashion.huanqiu.com/news/2017-05/10629155.html">老佛爷最爱的模特原来竟是这个8岁的男孩！</a></li>
+<li><a href="http://fashion.huanqiu.com/news/2017-05/10629183.html">来不及去旅行？时装带你环游世界与美好梦境</a></li>
+<li><a href="http://fashion.huanqiu.com/news/2017-05/10629175.html">这个老太太时髦起来，不给年轻人留“活路”</a></li>
+<li><a href="http://fashion.huanqiu.com/news/2017-05/10629144.html">日落风情霸占夏季衣橱 这抹亮眼的黄好正！</a></li>
+<li><a href="http://fashion.huanqiu.com/news/2017-05/10629135.html">气质衬衫的30种流行穿法，让你美一整个夏天！</a></li>
+<li><a href="http://fashion.huanqiu.com/news/2017-05/10629099.html">牛仔裤新花样 江疏影王鸥爱穿超美的拼接款式</a></li>
+<li><a href="http://fashion.huanqiu.com/news/2017-05/10629193.html">想做小清新！连衣裙+球鞋=夏日的满分搭配！</a></li>
+</ul>                    </div>
+                    <!-- 时尚 end-->
+
+                    <!-- 科技 begin-->
+                    <div class="tech midBox">
+                        <h3><strong><a href="http://tech.huanqiu.com/">科技</a></strong><em><a href="http://tech.huanqiu.com/">更多</a></em></h3>
+                        <div class="photoText">
+<h4><a href="http://tech.huanqiu.com/photo/2017-05/2870249.html" title="法拉第未来发新视频刷存在感 证明公司没倒闭">法拉第未来发新视频刷存在感 证明公司没倒闭</a></h4>
+<a title="法拉第未来发新视频刷存在感 证明公司没倒闭" href="http://tech.huanqiu.com/photo/2017-05/2870249.html"><img alt="法拉第未来发新视频刷存在感 证明公司没倒闭" src="http://himg2.huanqiu.com/attachment2010/2017/0509/11/07/20170509110750481.jpg"></a>
+<h5>法拉第未来自从今年1月在CES举行了首次大型展示之后，几乎就鲜有消息爆出，以至于有消息称法拉第未来已经停产了。近期官方上传了一则汽车上路的视频，向公众宣告没有停产。</h5>
+</div>
+
+<ul class="iconBoxT14">
+	<li><a href="http://tech.huanqiu.com/discovery/2017-05/10629321.html" title="探索：看似不可思议！NASA宇航局公布太空行走视频">探索：看似不可思议！NASA宇航局公布太空行走视频</a></li>
+	<li><a href="http://tech.huanqiu.com/internet/2017-05/10626584.html" title="热议：西方觉得中国电商太神奇了 欧美企业能学什么">热议：西方觉得中国电商太神奇了 欧美企业能学什么</a></li>
+	<li><a href="http://tech.huanqiu.com/discovery/2017-05/10625865.html" title="人物：中科院院士称去小行星采矿中国10年内就能做到">人物：中科院院士称去小行星采矿中国10年内就能做到</a></li>
+	<li><a href="http://tech.huanqiu.com/it/2017-05/10625721.html" title="曝光：谷歌Android系统取代者 Fuchsia多UI曝光(图)">曝光：谷歌Android系统取代者 Fuchsia多UI曝光(图)</a></li>
+	<li><a href="http://tech.huanqiu.com/Enterprise/2017-05/10630080.html" title="发布：高通骁龙660/630芯片发布 强化拍照、游戏与AI">发布：高通骁龙660/630芯片发布 强化拍照、游戏与AI</a></li>
+	<li><a href="http://tech.huanqiu.com/net/2017-05/10626886.html" title="海外：支付宝在美国无处不在 规模已与苹果支付相当">海外：支付宝在美国无处不在 规模已与苹果支付相当</a></li>
+	<li><a href="http://tech.huanqiu.com/per/2017-05/10626813.html" title="人物：三星董事长次女跻身全球最漂亮亿万女富豪榜">人物：三星董事长次女跻身全球最漂亮亿万女富豪榜</a></li>
+</ul>
+                    </div>
+                    <!-- 科技 end-->
+
+                    <!-- 右侧-第三部分 begin-->
+                    <div class="rightBox">
+                        <!-- 时尚视频 begin-->
+                        <div class="fashionV">
+                            <h3><strong>时尚视频</strong></h3>
+                            <ul class="vList">
+<li>
+<h4><em></em><a href="http://fashion.huanqiu.com/zxtg/2017-05/10620521.html" title="香奈儿早春度假系列"><img src="http://himg2.huanqiu.com/attachment2010/2017/0508/14/50/20170508025011643.jpg"></a></h4>
+<a href="http://fashion.huanqiu.com/zxtg/2017-05/10620521.html" title="香奈儿早春度假系列" class="txt">香奈儿早春度假系列</a>
+</li>
+<li>
+<h4><em></em><a href="http://fashion.huanqiu.com/zxtg/2017-05/10584818.html" title="完美健硕身材"><img src="http://himg2.huanqiu.com/attachment2010/2017/0503/14/34/20170503023405942.jpg"></a></h4>
+<a href="http://fashion.huanqiu.com/zxtg/2017-05/10584818.html" title="完美健硕身材" class="txt">完美健硕身材</a>
+</li>
+</ul>
+                            <ul class="iconBoxV">
+			<li><a title="唐嫣景甜成总裁 她们都带着它" href="http://fashion.huanqiu.com/zxtg/2017-05/10592593.html">唐嫣景甜成总裁 她们都带着它</a></li>
+		<li><a title="哪对荧幕情侣最养眼 这CP简直太甜" href="http://fashion.huanqiu.com/zxtg/2017-05/10592600.html">哪对荧幕情侣最养眼 这CP简直太甜</a></li>
+		<li><a title="穿高跟鞋腿变细 教你驾驭恨天高" href="http://fashion.huanqiu.com/zxtg/2017-05/10592597.html">穿高跟鞋腿变细 教你驾驭恨天高</a></li>
+		</ul>                        </div>
+                        <!-- 时尚视频 end-->
+
+                        <!-- 广告 begin-->
+                        <div class="adRm" id="adFm_3">
+                            <!-- Ad Survey 广告位代码  首页按钮03-->
+                            <script type="text/javascript">AD_SURVEY_Add_AdPos("9487");</script>
+                        </div>
+                        <!-- 广告 end-->
+
+                    </div>
+                    <!-- 右侧-第三部分 begin-->
+                </div>
+                <!-- 第三部分 end-->
+
+                <!-- 第四部分 begin-->
+                <div class="conBox">
+                    <!-- 国际 begin-->
+                    <div class="world leftBox">
+                        <h3><strong><a href="http://world.huanqiu.com/">国际</a></strong><em><a href="http://world.huanqiu.com/">更多</a></em></h3>
+                        <div class="photoText">
+<h4><a href="http://world.huanqiu.com/" title="日本全国各地遭遇沙尘暴 日媒：中国的黄沙 ">日本全国各地遭遇沙尘暴 日媒：中国的黄沙 </a></h4>
+<a title="日本全国各地遭遇沙尘暴 日媒：中国的黄沙 " href="http://world.huanqiu.com/"><img alt="日本全国各地遭遇沙尘暴 日媒：中国的黄沙 " src="http://himg2.huanqiu.com/attachment2010/2017/0509/08/49/20170509084907625.jpg"></a>
+<h5>共同社5月7日报道称，日本气象厅表示，从中国吹来的大风携带着黄沙，持续到8日，主要是在日本西部。气象厅警告，由于能见度低，可能会对运输造成干扰。</h5>
+</div>
+
+<ul class="iconBoxT14">
+	<li><a href="http://world.huanqiu.com/exclusive/2017-04/10466539.html" title="“环球练习生”2017年首次招募启动 Word生，快来!">“环球练习生”2017年首次招募启动 Word生，快来!</a></li>
+	<li><a href="http://world.huanqiu.com/exclusive/2017-05/10629724.html" title="马克龙上任后首站将出访德国 将与德总理默克尔会晤">马克龙上任后首站将出访德国 将与德总理默克尔会晤</a></li>
+	<li><a href="http://world.huanqiu.com/exclusive/2017-05/10630216.html" title="印度现“奶牛救护车” 热衷护牛致暴力事件频发">印度现“奶牛救护车” 热衷护牛致暴力事件频发</a></li>
+	<li><a href="http://world.huanqiu.com/exclusive/2017-05/10625398.html" title="大马拦截700公斤非洲鳞片 预计1400只穿山甲遇害">大马拦截700公斤非洲鳞片 预计1400只穿山甲遇害</a></li>
+	<li><a href="http://world.huanqiu.com/exclusive/2017-05/10625451.html" title="美联航又“出糗” 法籍乘客去巴黎被送至旧金山(图)">美联航又“出糗” 法籍乘客去巴黎被送至旧金山(图)</a></li>
+</ul>                    </div>
+                    <!-- 国际 end-->
+
+                    <!-- 台海 begin-->
+                    <div class="taiwan midBox">
+                        <h3><strong><a href="http://taiwan.huanqiu.com/">台海</a></strong><em><a href="http://taiwan.huanqiu.com/">更多</a></em></h3>
+                        <div class="photoText">
+<h4><a href="http://taiwan.huanqiu.com/article/2017-05/10627404.html" title="吴敦义：不干净的人问我干不干净很意外">吴敦义：不干净的人问我干不干净很意外</a></h4>
+<a title="吴敦义：不干净的人问我干不干净很意外" href="http://taiwan.huanqiu.com/article/2017-05/10627404.html"><img alt="吴敦义：不干净的人问我干不干净很意外" src="http://himg2.huanqiu.com/attachment2010/2017/0509/13/51/20170509015131125.jpg"></a>
+<h5>国民党主席参选人吴敦义表示，风来的时候一定是大树首先会被吹到;如果有非常不干净的人来问他到底干不干净，他也觉得非常意外。</h5>
+</div>
+
+<ul class="iconBoxT14">
+	<li><a href="http://taiwan.huanqiu.com/article/2017-05/10631487.html" title="洪秀柱：我当国民党党主席 台湾不可能“天然独”">洪秀柱：我当国民党党主席 台湾不可能“天然独”</a></li>
+	<li><a href="http://taiwan.huanqiu.com/article/2017-05/10630439.html" title="2018转战台北市长？朱立伦：目前不存在的假设议题">2018转战台北市长？朱立伦：目前不存在的假设议题</a></li>
+	<li><a href="http://taiwan.huanqiu.com/article/2017-05/10626617.html" title="蔡英文十发推特求赴WHA无果 罗智强：没马英九的视野">蔡英文十发推特求赴WHA无果 罗智强：没马英九的视野</a></li>
+	<li><a href="http://taiwan.huanqiu.com/article/2017-05/10629067.html" title="被WHA拒之门外怪大陆？郁慕明呛凭什么 该怪蔡英文！">被WHA拒之门外怪大陆？郁慕明呛凭什么 该怪蔡英文！</a></li>
+	<li><a href="http://taiwan.huanqiu.com/article/2017-05/10629108.html" title="港媒评论：蔡当局吃了“苦果” 还认不清形势？">港媒评论：蔡当局吃了“苦果” 还认不清形势？</a></li>
+</ul>                    </div>
+                    <!-- 台海 end-->
+
+                    <!-- 精品旅行 begin-->
+                    <div class="goLine rightBox">
+                        <h3><strong><a href="http://go.huanqiu.com/">酷生活</a></strong><em><a href="http://go.huanqiu.com/">更多</a></em></h3>
+                                            <ul class="picListMini">
+                                            <li>
+                            <a href="http://go.huanqiu.com/vision/2017-05/2870217.html" title="德国马林堡"><img src="http://himg2.huanqiu.com/attachment2010/2017/0509/09/59/20170509095929189.jpg" alt="德国马林堡"></a>
+                            <a title="德国马林堡" href="http://go.huanqiu.com/vision/2017-05/2870217.html" class="txt">德国马林堡</a>
+                        </li>
+                                            <li>
+                            <a href="http://ski.huanqiu.com/recommend/2017-05/10583730.html" title="全球最惊险滑雪缆车"><img src="http://himg2.huanqiu.com/attachment2010/2017/0504/10/16/20170504101605231.jpg" alt="全球最惊险滑雪缆车"></a>
+                            <a title="全球最惊险滑雪缆车" href="http://ski.huanqiu.com/recommend/2017-05/10583730.html" class="txt">全球最惊险滑雪缆车</a>
+                        </li>
+                                        </ul>
+                    <ul class="iconBoxT14">                
+                      
+                                            <li><a title="马拉松破2意义超挑战本身" href="http://huanqiu.com/a1/a-XCWED900288A965C26C0FE">马拉松破2意义超挑战本身</a></li>
+                                          
+                                            <li><a title="去熊野古道来一次“能量之旅”" href="http://go.huanqiu.com/news/tour/2017-05/10626204.html">去熊野古道来一次“能量之旅”</a></li>
+                                          
+                                            <li><a title="雪服和冲锋衣到底有什么区别？" href="http://ski.huanqiu.com/knowledge/2017-04/10508281.html">雪服和冲锋衣到底有什么区别？</a></li>
+                                          
+                                            <li><a title="“路人梅西”现身 身材却大一号（图）" href="http://sports.huanqiu.com/pictures/list/2017-05/2870232.html">“路人梅西”现身 身材却大一号（图）</a></li>
+                                          
+                                            <li><a title="“老司机”柯洁“领证”发车!" href="http://sports.huanqiu.com/others/zh/2017-05/10626725.html">“老司机”柯洁“领证”发车!</a></li>
+                                                            </ul>                    </div>
+                    <!-- 精品旅行 end-->
+
+                </div>
+                <!-- 第四部分 end-->
+
+                <!-- 第五部分 begin-->
+                <div class="conBox">
+                    <!-- 国内 begin-->
+                    <div class="china leftBox">
+                        <h3><strong><a href="http://china.huanqiu.com/">国内</a></strong><em><a href="http://china.huanqiu.com/">更多</a></em></h3>
+                        <div class="photoText">
+<h4><a href="http://china.huanqiu.com/photo/2017-05/2870181.html" title="重庆现最隐秘轨道站 称不具备开通条件">重庆现最隐秘轨道站 称不具备开通条件</a></h4>
+<a title="重庆现最隐秘轨道站 称不具备开通条件" href="http://china.huanqiu.com/photo/2017-05/2870181.html"><img alt="重庆现最隐秘轨道站 称不具备开通条件" src="http://himg2.huanqiu.com/attachment2010/2017/0509/13/27/20170509012750460.png"></a>
+<h5>近日，有网友在朋友圈晒图称，周末外出游玩时发现了重庆最隐秘轨道站——6号线曹家湾站，3个站台仅有一个开通，且周围荒草丛生，不走近看根本不知道此处有轨道交通站台。</h5>
+</div>
+
+<ul class="iconBoxT14">
+	<li><a href="http://china.huanqiu.com/article/2017-05/10624912.html" title="这些小官贪腐动辄上亿元 涉案金额超过苏荣">这些小官贪腐动辄上亿元 涉案金额超过苏荣</a></li>
+	<li><a href="http://china.huanqiu.com/article/2017-05/10625024.html" title="西安确诊首例H7N9病例 全市关闭所有活禽市场">西安确诊首例H7N9病例 全市关闭所有活禽市场</a></li>
+	<li><a href="http://china.huanqiu.com/article/2017-05/10624937.html" title="今年养老金上调开始落地 上海已率先发放到位 ">今年养老金上调开始落地 上海已率先发放到位 </a></li>
+	<li><a href="http://china.huanqiu.com/article/2017-05/10625201.html" title=" 学前教育资源不足：56%幼儿家长称身边有无证幼儿园 "> 学前教育资源不足：56%幼儿家长称身边有无证幼儿园 </a></li>
+	<li><a href="http://china.huanqiu.com/article/2017-05/10624971.html" title="西安街道“以克论净”执行1个月 保洁员:要不停地扫 ">西安街道“以克论净”执行1个月 保洁员:要不停地扫 </a></li>
+</ul>                    </div>
+                    <!-- 国内 end-->
+
+                    <!-- 财经 begin-->
+                    <div class="finance midBox">
+                        <h3><strong><a href="http://finance.huanqiu.com/">财经</a></strong><em><a href="http://finance.huanqiu.com/">更多</a></em></h3>
+                        <div class="photoText">
+<h4><a href="http://finance.huanqiu.com/financepic/2017-05/2870213.html" title="北京街边现“牛皮癣房车” 小广告贴好几层 ">北京街边现“牛皮癣房车” 小广告贴好几层 </a></h4>
+<a title="北京街边现“牛皮癣房车” 小广告贴好几层 " href="http://finance.huanqiu.com/financepic/2017-05/2870213.html"><img alt="北京街边现“牛皮癣房车” 小广告贴好几层 " src="http://himg2.huanqiu.com/attachment2010/2017/0509/09/37/20170509093730892.jpg"></a>
+<h5>北京褡裢坡地铁站附近，一辆大马路边的废旧汽车上被贴满了各式各样的房屋租售小广告，前前后后满是“牛皮癣”。</h5>
+</div>
+
+<ul class="iconBoxT14">
+	<li><a href="http://finance.huanqiu.com/chanjing/2017-05/10625633.html" title="人民日报：一带一路不是中国独角戏 重在世界共享">人民日报：一带一路不是中国独角戏 重在世界共享</a></li>
+	<li><a href="http://finance.huanqiu.com/gjcx/2017-05/10625751.html" title="全球贸易总额不断萎缩 多家中企争相收购欧洲银行">全球贸易总额不断萎缩 多家中企争相收购欧洲银行</a></li>
+	<li><a href="http://finance.huanqiu.com/gjcx/2017-05/10625577.html" title="俄海关封杀网购中国小米手机 进口关税较高水货多">俄海关封杀网购中国小米手机 进口关税较高水货多</a></li>
+	<li><a href="http://finance.huanqiu.com/jinr/2017-05/10625518.html" title="中国4月进出口回归温和增长 外界担忧复苏势头减弱 ">中国4月进出口回归温和增长 外界担忧复苏势头减弱 </a></li>
+	<li><a href="http://finance.huanqiu.com/xiaofeil/loushi/2017-05/10625412.html" title="房地产市场长效机制正在制定 完全建立或需5到10年">房地产市场长效机制正在制定 完全建立或需5到10年</a></li>
+</ul>                    </div>
+                    <!-- 财经 end-->
+
+                    <!-- 理财·股票 begin-->
+                    <div class="stock rightBox">
+                        <h3><strong><a href="http://finance.huanqiu.com/zhengq/">理财 · 股票</a></strong><em><a href="http://finance.huanqiu.com/zhengq/">更多</a></em></h3>
+                        <div class="txtArray">
+<h4><a href="http://finance.huanqiu.com/zhengq/sto/2017-05/10625387.html" title="巴菲特再谈价值投资 芒格：中国股市比美国便宜">巴菲特再谈价值投资 芒格：中国股市比美国便宜</a></h4>
+</div>
+
+<ul class="iconBoxT14">
+	<li><a href="http://finance.huanqiu.com/baoxianl/money/2017-05/10625449.html" title="神秘巨额抛盘砸晕黄金">神秘巨额抛盘砸晕黄金</a></li>
+	<li><a href="http://finance.huanqiu.com/jinr/2017-05/10625417.html" title="亚洲能否成为高收入地区">亚洲能否成为高收入地区</a></li>
+	<li><a href="http://finance.huanqiu.com/zhengq/sto/2017-05/10625594.html" title="*ST锐电二度“披星戴帽”临大考">*ST锐电二度“披星戴帽”临大考</a></li>
+	<li><a href="http://finance.huanqiu.com/zhengq/sto/2017-05/10625603.html" title="资本“玩家”遭重拳 强监管成A股主线">资本“玩家”遭重拳 强监管成A股主线</a></li>
+	<li><a href="http://finance.huanqiu.com/baoxianl/money/2017-05/10625653.html" title="最大规模网络兼职诈骗案: 万余人受骗 ">最大规模网络兼职诈骗案: 万余人受骗 </a></li>
+	<li><a href="http://finance.huanqiu.com/jinr/2017-05/10617059.html" title="银联卡在日盗刷猖獗 中国游客怎么办？">银联卡在日盗刷猖獗 中国游客怎么办？</a></li>
+	<li><a href="http://finance.huanqiu.com/jinr/2017-05/10625559.html" title="A股全国性银行中交行收益率四年垫底">A股全国性银行中交行收益率四年垫底</a></li>
+</ul>                    </div>
+                    <!-- 理财 ·股票 end-->
+
+                </div>
+                <!-- 第五部分 end-->
+
+                <!-- 广告 begin-->
+                <div class="ad" id="adBa_2">
+                    <!-- Ad Survey 广告位代码  首页通栏03-->
+                    <script type="text/javascript">AD_SURVEY_Add_AdPos("9482");</script>
+                </div>
+                <!-- 广告 end-->
+
+                <!-- 第六部分 begin-->
+                <div class="conBox">
+                    <!-- 娱乐 begin-->
+                    <div class="ent leftBox">
+                        <h3><strong><a href="http://ent.huanqiu.com/">娱乐</a></strong><em><a href="http://ent.huanqiu.com/">更多</a></em></h3>
+                        <div class="photoText">
+<h4><a href="http://ent.huanqiu.com/star/mingxing-neidi/2017-05/10623527.html" title="鹿晗受伤上跑男有替身? 邓超主动帮忙">鹿晗受伤上跑男有替身? 邓超主动帮忙</a></h4>
+<a title="鹿晗受伤上跑男有替身? 邓超主动帮忙" href="http://ent.huanqiu.com/star/mingxing-neidi/2017-05/10623527.html"><img alt="鹿晗受伤上跑男有替身? 邓超主动帮忙" src="http://himg2.huanqiu.com/attachment2010/2017/0509/00/44/20170509124410403.jpg"></a>
+<h5><p>我们所看到的视频中，&ldquo;鹿晗&rdquo;背着迪丽热巴时岸边还坐着一个鹿晗。有网友爆料称：发现第四轮背着迪丽热巴撕名牌的不是鹿晗，而是邓超!<span style="display: none">&nbsp;</span></p>
+</h5>
+</div>
+
+                        <ul class="iconBoxT14">
+<li><a href="http://ent.huanqiu.com/star/mingxing-neidi/2017-05/10623497.html" target="_blank"><span><span><span><span><span><span><span><span style="display: none"><span style="display: none">&nbsp;</span>&nbsp;</span></span></span></span></span></span></span></span><span><span><span><span><span><span><span><span>黄景瑜姐弟恋疑曝光 女方是大他6岁的单身妈妈<span style="display: none">&nbsp;</span></span><span style="display: none">&nbsp;</span><span style="display: none">&nbsp;</span></span></span></span></span></span></span></span></a><span><span><span><span><span><span><a href="javascript:void(0)/*311*/" target="_blank"><span style="display: none">&nbsp;</span></a></span></span></span></span></span></span><a href="javascript:void(0)/*311*/"><span><span><span><span><span><span style="display: none">&nbsp;</span></span></span></span></span></span></a><a href="javascript:void(0)/*311*/" target="_blank"><span style="display: none">&nbsp;</span></a></li>
+<li><a href="http://ent.huanqiu.com/star/mingxing-neidi/2017-05/10623506.html" target="_blank"><span><span><span><span><span><span>靠这招才能超长待机？王思聪女友豆得儿被曝整容</span></span></span></span></span></span></a><span><span><span><span><span><a href="http://ent.huanqiu.com/star/mingxing-neidi/2017-05/10611842.html" target="_blank"><span style="display: none">&nbsp;</span></a></span></span></span></span></span></li>
+<li><a href="http://ent.huanqiu.com/star/mingxing-neidi/2017-05/10623524.html" target="_blank"><span><span><span><span><span><span><span><span>隐婚还有6月大的孩子？俞灏明这么回应被赞机智</span></span></span></span></span></span></span></span></a><span><a href="http://ent.huanqiu.com/star/mingxing-neidi/2017-05/10623524.html" target="_blank"><span style="display: none">&nbsp;</span></a></span></li>
+<li><span><span><span><span><span style="display: none">&nbsp;</span><a href="http://ent.huanqiu.com/star/mingxing-neidi/2017-05/10623538.html" target="_blank"><span>郑爽喊话爆黑料者：不良造谣一定不会放过</span></a><span style="display: none">&nbsp;</span></span></span></span></span><span><a href="javascript:void(0)/*311*/"><span><span><span><span style="display: none">&nbsp;</span></span><span style="display: none">&nbsp;</span></span></span></a><a><span style="display: none">&nbsp;</span></a></span></li>
+<li><span><span><span><span><span style="display: none">&nbsp;</span></span></span></span></span><a href="http://ent.huanqiu.com/star/mingxing-neidi/2017-05/10623540.html" target="_blank"><span><span>妞妞直播一家四口聚餐 赵本山妻子首亮相</span></span></a><span><a href="http://ent.huanqiu.com/star/mingxing-neidi/2017-05/10614580.html" target="_blank"><span style="display: none">&nbsp;</span></a></span><span style="display: none">&nbsp;</span><a href="http://ent.huanqiu.com/star/mingxing-neidi/2017-05/10614580.html" target="_blank"><span><span><span><span><span style="display: none">&nbsp;</span></span><span style="display: none">&nbsp;</span></span><span style="display: none">&nbsp;</span></span></span></a><a href="http://ent.huanqiu.com/star/mingxing-gangtai/2017-05/10571052.html" target="_blank"><span周杰伦心疼歌迷灯牌被扔斥工作人员 span=""></span周杰伦心疼歌迷灯牌被扔斥工作人员></a></li>
+&nbsp;</ul>
+                    </div>
+                    <!-- 娱乐 end-->
+
+                    <!-- 体育 begin-->
+                    <div class="sports midBox">
+                        <h3><strong><a href="http://sports.huanqiu.com/">体育</a></strong><em><a href="http://sports.huanqiu.com/">更多</a></em></h3>
+                        <div class="photoText">
+<h4><a href="http://sports.huanqiu.com/basketball/nba/2017-05/10628276.html" title="横扫！勇士4-0爵士进西决 库里30分格林三双">横扫！勇士4-0爵士进西决 库里30分格林三双</a></h4>
+<a title="横扫！勇士4-0爵士进西决 库里30分格林三双" href="http://sports.huanqiu.com/basketball/nba/2017-05/10628276.html"><img alt="横扫！勇士4-0爵士进西决 库里30分格林三双" src="http://himg2.huanqiu.com/attachment2010/2017/0509/11/54/20170509115455543.jpg"></a>
+<h5>库里得到30分、7次助攻和5个篮板，汤普森得到21分，格林得到三双17分、11次助攻和10个篮板，他们率队三四节发力重新确立大比分优势。</h5>
+</div>
+                        <ul class="iconBoxT14">
+<li><a href="http://sports.huanqiu.com/soccer/yc/2017-05/10626350.html" target="_blank">暗示来中超?科斯塔挥手蓝军球迷疑告别</a></li>
+<li><a href="http://sports.huanqiu.com/others/zh/2017-05/10626255.html" target="_blank">国羽确定苏杯名单 “老中青”组现役最强阵容</a></li>
+<li><a href="http://sports.huanqiu.com/soccer/gn/2017-05/10621902.html" target="_blank">张剑当选国际足联理事 任期为2017-2019年</a></li>
+<li><a href="http://sports.huanqiu.com/basketball/cba/2017-05/10626698.html" target="_blank">NBA球探:中国后卫无NBA实力 郭艾伦打不了NBDL</a></li>
+<li><a href="http://sports.huanqiu.com/others/zh/2017-05/10626568.html" target="_blank">中国国家冰球队首批名单公布 主力队员月薪达4万</a></li>
+</ul>                    </div>
+                    <!-- 体育 end-->
+
+                    <!-- 美妆･护肤 begin-->
+                    <div class="woman rightBox">
+                        <h3><strong><a href="http://women.huanqiu.com/">美妆･护肤</a></strong><em><a href="http://women.huanqiu.com/">更多</a></em></h3>
+                        <ul class="picListMini">
+<li>
+<a href="http://women.huanqiu.com/beauty/2017-05/10605678.html" title="祖儿阿Sa自拍超赞"><img src="http://himg2.huanqiu.com/attachment2010/2017/0509/11/02/20170509110234544.jpg" alt="祖儿阿Sa自拍超赞"></a>
+<a title="祖儿阿Sa自拍超赞" href="http://women.huanqiu.com/beauty/2017-05/10605678.html" class="txt">祖儿阿Sa自拍超赞</a>
+</li>
+<li>
+<a href="http://women.huanqiu.com/beauty/2017-05/10622726.html" title="蒋欣减了30斤瘦几圈"><img src="http://himg2.huanqiu.com/attachment2010/2017/0509/11/02/20170509110258804.jpg" alt="蒋欣减了30斤瘦几圈"></a>
+<a title="蒋欣减了30斤瘦几圈" href="http://women.huanqiu.com/beauty/2017-05/10622726.html" class="txt">蒋欣减了30斤瘦几圈</a>
+</li>
+</ul>
+                        <ul class="iconBoxT14">
+<li><a href="http://women.huanqiu.com/beauty/2017-05/10622009.html">夏天到了做好防晒和修护至关重要</a></li>
+<li><a href="http://women.huanqiu.com/beauty/2017-05/10623899.html">毛孔堵塞怎么办 必须警惕五大误区</a></li>
+<li><a href="http://women.huanqiu.com/beauty/2017-05/10611386.html">最新双眼皮贴 周冬雨贴得真好看</a></li>
+<li><a href="http://women.huanqiu.com/beauty/2017-05/10610528.html">眼线液怎么用 首先摇晃眼线液的瓶身</a></li>
+<li><a href="http://women.huanqiu.com/beauty/2017-05/10611401.html">大阪女生的化妆包 她们的包里都有啥</a></li>
+</ul>                    </div>
+                    <!-- 美妆･护肤 end-->
+
+                </div>
+                <!-- 第六部分 end-->
+
+
+                <!-- 新加滑雪部分 begin-->
+                <div class="conBox">
+                    <!-- 跑步 begin-->
+                    <div class="run leftBox">
+                        <h3><strong><a href="http://run.huanqiu.com/">跑步</a></strong><em><a href="http://run.huanqiu.com/">更多</a></em></h3>
+                        <div class="photoText">
+    <h4><a title="奥沙利文34分钟跑10公里 因跑步与前妻离婚" href="http://huanqiu.com/a1/a-XCWEG1BF0771A1D6896096">奥沙利文34分钟跑10公里 因跑步与前妻离婚</a></h4>
+    <a title="奥沙利文34分钟跑10公里 因跑步与前妻离婚" href="http://huanqiu.com/a1/a-XCWEG1BF0771A1D6896096"><img alt="奥沙利文34分钟跑10公里 因跑步与前妻离婚" src="http://himg2.huanqiu.com/attachment2010/2017/0509/13/50/20170509015043374.jpeg"></a>
+    <h5>在2013年他的个人自传《跑者》中，他首次披露了跑步在他人生中的意义，包括让他远离酗酒、毒品以及心理疾病等。</h5>
+</div>                        <ul class="iconBoxT14">
+<li><a href="http://huanqiu.com/a1/a-XCWEG16A35313F78097005" target="_blank">夏季跑步训练单调乏味？三种妙招助盛夏开心跑</a></li>
+<li><a href="http://huanqiu.com/a1/a-XCWEG1AB6312811DB9775C" target="_blank">司机醉驾遇交警盘查弃车被抓 声称自己正在夜跑</a></li>
+<li><a href="http://huanqiu.com/a1/a-XCWEG1E6EAE2863C1DF73D" target="_blank">奥运竞走运动员走完全程马拉松 击败96%参赛者</a></li>
+<li><a href="http://huanqiu.com/a1/a-XCWED907D59AEC5172E2C9" target="_blank">从被迫跑步到爱上跑步 一男生减肥110斤成男神</a></li>
+<li><a href="http://huanqiu.com/a1/a-XCWED9A47AA9C95776C32D" target="_blank">男子马拉松破2小时失败 创非正式比赛最好成绩</a></li>
+<li><a href="http://huanqiu.com/a1/a-XCWED95B9E34BA92926EAD" target="_blank">骑车跑步散步 哪个更会增加脑供血量？</a></li>
+</ul>                    </div>
+                    <!-- 跑步 end-->
+
+                    <!-- 滑雪 begin-->
+                    <div class="ski midBox">
+                        <h3><strong><a href="http://ski.huanqiu.com/">滑雪</a></strong><em><a href="http://ski.huanqiu.com/">更多</a></em></h3>
+                        <div class="photoText">
+    <h4><a title="日本长野雪季进行时 众爱好者感受春雪美魅力" href="http://ski.huanqiu.com/news/2017-05/10617956.html">日本长野雪季进行时 众爱好者感受春雪美魅力</a></h4>
+    <a title="日本长野雪季进行时 众爱好者感受春雪美魅力" href="http://ski.huanqiu.com/news/2017-05/10617956.html"><img alt="日本长野雪季进行时 众爱好者感受春雪美魅力" src="http://himg2.huanqiu.com/attachment2010/2017/0508/10/18/20170508101846421.jpg"></a>
+    <h5>长野滑雪场迎来了想在春天里继续感受滑雪魅力的游客，众多单板与双板爱好者在雄伟的群峰之下，感受了滑春雪的魅力。</h5>
+</div>                        <ul class="iconBoxT14">
+<li><a href="http://ski.huanqiu.com/equip/2017-05/10617413.html" target="_blank">牛人自制GOPRO&ldquo;无人机&rdquo; 百元内搞定滑雪航拍</a></li>
+<li><a href="http://ski.huanqiu.com/news/2017-04/10564832.html" target="_blank">国家体育总局与吉林共建四季越野滑雪场</a></li>
+<li><a href="http://ski.huanqiu.com/view/2017-04/2868806.html" target="_blank">红牛极限腾跃滑板赛 低温水道中旋转秀技（图）</a></li>
+<li><a href="http://ski.huanqiu.com/news/2017-04/10531641.html" target="_blank">国家自由式滑雪坡面障碍技巧队成立 12人入选</a></li>
+<li><a href="http://ski.huanqiu.com/news/2017-04/10508346.html" target="_blank">备战冬奥 自由式滑雪雪上技巧国家队将进行外训</a></li>
+<li><a href="http://ski.huanqiu.com/news/2017-04/10501276.html" target="_blank">亚冬会冠军参与VR滑雪比拼 与爱好者分享滑雪经验</a></li>
+</ul>                    </div>
+                    <!-- 滑雪 end-->
+
+                    <!-- 星座 begin-->
+                    <div class="star rightBox">
+                        <h3><strong><a href="http://ent.huanqiu.com/zixun/">星座</a></strong><em><a href="http://ent.huanqiu.com/zixun/">更多</a></em></h3>
+                        <ul class="picListMini">
+    <li>
+        <a href="http://ent.huanqiu.com/astro/zixun/2017-04/10549730.html" title="爱黏在一起的星座夫妻"><img src="http://himg2.huanqiu.com/attachment2010/2017/0427/07/49/20170427074901158.jpg" alt="爱黏在一起的星座夫妻"></a>
+        <a title="爱黏在一起的星座夫妻" href="http://ent.huanqiu.com/astro/zixun/2017-04/10549730.html" class="txt">爱黏在一起的星座夫妻</a>
+    </li>
+    <li>
+        <a href="http://ent.huanqiu.com/astro/zixun/2017-04/10549744.html" title="易对剩女有感觉的星座男"><img src="http://himg2.huanqiu.com/attachment2010/2017/0427/07/49/20170427074918461.jpg" alt="易对剩女有感觉的星座男"></a>
+        <a title="易对剩女有感觉的星座男" href="http://ent.huanqiu.com/astro/zixun/2017-04/10549744.html" class="txt">易对剩女有感觉的星座男</a>
+    </li>
+    <li>
+        <a href="http://ent.huanqiu.com/astro/zixun/2017-04/10549747.html" title="恋爱前后反差大的星座"><img src="http://himg2.huanqiu.com/attachment2010/2017/0427/07/49/20170427074947208.jpg" alt="恋爱前后反差大的星座"></a>
+        <a title="恋爱前后反差大的星座" href="http://ent.huanqiu.com/astro/zixun/2017-04/10549747.html" class="txt">恋爱前后反差大的星座</a>
+    </li>
+    <li>
+        <a href="http://ent.huanqiu.com/astro/zixun/2017-04/10549714.html" title="爱上啥星座渣男后悔死"><img src="http://himg2.huanqiu.com/attachment2010/2017/0427/07/50/20170427075007868.jpg" alt="爱上啥星座渣男后悔死"></a>
+        <a title="爱上啥星座渣男后悔死" href="http://ent.huanqiu.com/astro/zixun/2017-04/10549714.html" class="txt">爱上啥星座渣男后悔死</a>
+    </li>
+ 
+</ul>                        <ul class="iconBoxT14">
+<li><a href="http://ent.huanqiu.com/astro/zixun/2017-04/10549751.html" target="_blank"><span><span><span><span style="display: none">&nbsp;</span><span style="display: none">&nbsp;</span>恋爱喜欢抬高自己的星座男</span></span></span></a><a href="javascript:void(0)/*311*/"><span><span><span><span style="display: none">&nbsp;</span></span></span></span></a></li>
+<li><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span style="display: none">&nbsp;</span><a href="http://ent.huanqiu.com/astro/zixun/2017-04/10549753.html" target="_blank"><span>绝不会跟朋友乱搞的星座</span></a></span></span></span></span></span></span></span></span></span></span></span></span></span><span><a href="http://ent.huanqiu.com/astro/zixun/2016-12/9871095.html" target="_blank"><span><span><span><span><span style="display: none">&nbsp;</span></span></span></span></span></a></span></span></li>
+</ul>                    </div>
+                    <!-- 星座 end-->
+
+                </div>
+                <!-- 新加滑雪部分 end-->
+
+                <!-- 第七部分 begin-->
+                <div class="conBox">
+                    <!-- 视频 begin-->
+                    <div class="video leftBox">
+                        <h3><strong><a href="http://v.huanqiu.com/">视频</a></strong><em><a href="http://v.huanqiu.com/">更多</a></em></h3>
+
+                        <ul class="vList">
+<li>
+<h4><em></em> <a href="http://v.huanqiu.com/observation/2017-05/10627043.html" title="中储粮万吨小麦被遗忘"><img src="http://himg2.huanqiu.com/attachment2010/2017/0509/10/50/20170509105041562.jpg"></a></h4>
+<a href="http://v.huanqiu.com/observation/2017-05/10627043.html" title="中储粮万吨小麦被遗忘" class="txt">中储粮万吨小麦被遗忘</a>
+</li>
+<li>
+<h4><em></em> <a href="http://v.huanqiu.com/observation/2017-05/10627072.html" title="广州再遭暴雨道路拥堵"><img src="http://himg2.huanqiu.com/attachment2010/2017/0509/10/51/20170509105136703.jpg"></a></h4>
+<a href="http://v.huanqiu.com/observation/2017-05/10627072.html" title="广州再遭暴雨道路拥堵" class="txt">广州再遭暴雨道路拥堵</a>
+</li>
+</ul>
+                        <ul class="iconBoxV">
+	<li><a title="玻璃栈道吓到腿软 男子趴坐被3岁儿拖走" href="http://v.huanqiu.com/observation/2017-05/10627126.html">玻璃栈道吓到腿软 男子趴坐被3岁儿拖走</a></li>
+	<li><a title="女大学生宿舍搭建微型食物链 养蛇养老鼠养虫子" href="http://v.huanqiu.com/observation/2017-05/10627172.html">女大学生宿舍搭建微型食物链 养蛇养老鼠养虫子</a></li>
+	<li><a title="电动车被大挂车拖行10米远 驾驶员拼命爬出车底" href="http://v.huanqiu.com/observation/2017-05/10627197.html">电动车被大挂车拖行10米远 驾驶员拼命爬出车底</a></li>
+	<li><a title="男子跳伞绊倒绳子 挂在飞机外高空飞翔一小时" href="http://v.huanqiu.com/observation/2017-05/10627208.html">男子跳伞绊倒绳子 挂在飞机外高空飞翔一小时</a></li>
+	<li><a title="印度籍12岁女孩智商达162 超爱因斯坦与霍金" href="http://v.huanqiu.com/observation/2017-05/10627224.html">印度籍12岁女孩智商达162 超爱因斯坦与霍金</a></li>
+</ul>                    </div>
+                    <!-- 视频 end-->
+
+                    <!-- 汽车 begin-->
+                    <div class="auto midBox">
+                        <h3><strong><a href="http://auto.huanqiu.com/">汽车</a></strong><em><a href="http://auto.huanqiu.com/">更多</a></em></h3>
+                        <div class="photoText">
+<h4><a href="http://auto.huanqiu.com/globalnews/2017-05/10620827.html" title="美式肌肉车4月美国本土战况揭晓 科迈罗胜出">美式肌肉车4月美国本土战况揭晓 科迈罗胜出</a></h4>
+<a title="美式肌肉车4月美国本土战况揭晓 科迈罗胜出" href="http://auto.huanqiu.com/globalnews/2017-05/10620827.html"><img alt="美式肌肉车4月美国本土战况揭晓 科迈罗胜出" src="http://himg2.huanqiu.com/attachment2010/2017/0509/09/27/20170509092723977.jpg"></a>
+<h5>经过两年创纪录的汽车销售，美国市场对新车的需求逐渐放缓并趋于稳定，这都是由需求和购买力决定的。不过跑车却保持了相对强劲的增长。</h5>
+</div>
+
+<ul class="iconBoxT14">
+	<li><a href="http://auto.huanqiu.com/globalnews/2017-05/10620823.html" title="雷诺押宝中国SUV市场 将在华投产卡缤车型">雷诺押宝中国SUV市场 将在华投产卡缤车型</a></li>
+	<li><a href="http://auto.huanqiu.com/globalnews/2017-05/10621933.html" title="时速达370km/h！丰田将全球最快SUV收入囊中">时速达370km/h！丰田将全球最快SUV收入囊中</a></li>
+	<li><a href="http://auto.huanqiu.com/globalnews/2017-05/10620813.html" title="捷豹路虎4月全球销量微降2.3％ 在华增长10.1%">捷豹路虎4月全球销量微降2.3％ 在华增长10.1%</a></li>
+	<li><a href="http://auto.huanqiu.com/globalnews/2017-05/10621925.html" title="大众硬顶甲壳虫/尚酷或被砍 因市场表现乏力">大众硬顶甲壳虫/尚酷或被砍 因市场表现乏力</a></li>
+	<li><a href="http://auto.huanqiu.com/globalnews/2017-05/10621918.html" title="宾利考虑扩大添越系列 新增轿跑/GT3 R版">宾利考虑扩大添越系列 新增轿跑/GT3 R版</a></li>
+</ul>                    </div>
+                    <!-- 汽车 end-->
+
+                    <!-- 右侧-第七部分 begin-->
+                    <div class="rightBox">
+                        <!-- 国际车讯 begin-->
+                        <div class="carInfo">
+                            <h3><strong><a href="http://auto.huanqiu.com/globalnews/">国际车讯</a></strong><em><a href="http://auto.huanqiu.com/globalnews/">更多</a></em></h3>
+                            <ul class="picListMini">
+<li>
+<a href="http://auto.huanqiu.com/globalnews/2017-05/10603284.html" title="福特神秘野马原型车"><img src="http://himg2.huanqiu.com/attachment2010/2017/0508/07/59/20170508075949653.jpg" alt="福特神秘野马原型车"></a>
+<a title="福特神秘野马原型车" href="http://auto.huanqiu.com/globalnews/2017-05/10603284.html" class="txt">福特神秘野马原型车</a>
+</li>
+<li>
+<a href="http://auto.huanqiu.com/globalnews/2017-05/10603507.html" title="三菱蓝瑟轿车8月停产"><img src="http://himg2.huanqiu.com/attachment2010/2017/0508/08/00/20170508080018104.jpg" alt="三菱蓝瑟轿车8月停产"></a>
+<a title="三菱蓝瑟轿车8月停产" href="http://auto.huanqiu.com/globalnews/2017-05/10603507.html" class="txt">三菱蓝瑟轿车8月停产</a>
+</li>
+</ul>
+                            <ul class="iconBoxT14">
+			<li><a title="英菲尼迪4月全球销量攀升12% 在华剧增" href="http://auto.huanqiu.com/globalnews/2017-05/10602887.html">英菲尼迪4月全球销量攀升12% 在华剧增</a></li>
+		<li><a title="通用销量降1.9% 凯迪拉克/宝骏创新高" href="http://auto.huanqiu.com/globalnews/2017-05/10602876.html">通用销量降1.9% 凯迪拉克/宝骏创新高</a></li>
+		</ul>                        </div>
+                        <!-- 国际车讯 end-->
+
+                        <!-- 广告 begin-->
+                        <div class="adRm" id="adFm_4">
+                            <!-- Ad Survey 广告位代码  首页按钮04-->
+                            <script type="text/javascript">AD_SURVEY_Add_AdPos("9488");</script>
+                        </div>
+                        <!-- 广告 end-->
+                    </div>
+                    <!-- 右侧-第七部分 end-->
+
+                </div>
+                <!-- 第七部分 end-->
+
+                <!-- 第八部分 begin-->
+                <div class="conBox">
+                    <!-- 旅游 begin-->
+                    <div class="go leftBox">
+                        <h3><strong><a href="http://go.huanqiu.com/">旅游</a></strong><em><a href="http://go.huanqiu.com/">更多</a></em></h3>
+                        <div class="photoText">
+<h4><a href="http://go.huanqiu.com/vision/2017-05/2870222.html" title="英国白金汉郡春天尾声美景 夏绿盎然">英国白金汉郡春天尾声美景 夏绿盎然</a></h4>
+<a title="英国白金汉郡春天尾声美景 夏绿盎然" href="http://go.huanqiu.com/vision/2017-05/2870222.html"><img alt="英国白金汉郡春天尾声美景 夏绿盎然" src="http://himg2.huanqiu.com/attachment2010/2017/0509/10/02/20170509100248185.jpg"></a>
+<h5>当地时间2017年5月4日，英国白金汉郡，白金汉郡春末夏初季节，绿意盎然。</h5>
+</div>
+
+                        <ul class="iconBoxT14">
+<li><a href="http://go.huanqiu.com/gograb/2017-05/10626181.html" target="_blank">无票游客闯关被拦后打人 事后送检讨书道歉</a></li>
+<li><a href="http://go.huanqiu.com/gograb/2017-05/10626566.html" target="_blank">女游客自称被男列车员“拍胸”铁路部门正调查</a></li>
+<li><a href="http://go.huanqiu.com/gograb/2017-05/10626214.html" target="_blank">蚂蜂窝旅游产品被指投诉无门 凭证仅1封邮件</a></li>
+<li><a href="http://go.huanqiu.com/gograb/2017-05/10625847.html" target="_blank">"紫禁城与海上丝绸之路展" 明清与世界的交往</a></li>
+<li><a href="http://go.huanqiu.com/gograb/2017-05/10625570.html" target="_blank">古巴遭受百年不遇干旱 约有100万人受困扰</a></li>
+</ul>                    </div>
+                    <!-- 旅游 end-->
+
+                    <!-- 留学 begin-->
+                    <div class="lx midBox">
+                        <h3><strong><a href="http://lx.huanqiu.com/">留学</a></strong><em><a href="http://lx.huanqiu.com/">更多</a></em></h3>
+                        <div class="photoText">
+<h4><a href="http://lx.huanqiu.com/dream/2017-05/10625770.html" title="学霸少女歌声如天籁：立志成为“传媒之花”">学霸少女歌声如天籁：立志成为“传媒之花”</a></h4>
+<a title="学霸少女歌声如天籁：立志成为“传媒之花”" href="http://lx.huanqiu.com/dream/2017-05/10625770.html"><img alt="学霸少女歌声如天籁：立志成为“传媒之花”" src="http://himg2.huanqiu.com/attachment2010/2017/0509/08/59/20170509085912501.jpg"></a>
+<h5><p>余文琪喜欢唱歌，尤其擅长节奏轻快柔美的“小清新”类歌曲。柔和、甜美的嗓音配上淡淡的笑容，使她的演唱别有一番清新与自然，仿佛要把听众引领到一个鸟语花香的世外桃源。</p>
+</h5>
+</div>
+
+<ul class="iconBoxT14">
+	<li><a href="http://lx.huanqiu.com/dream/2017-04/10528752.html" title="环球网留学“一人一梦”校园追梦人火热征集中">环球网留学“一人一梦”校园追梦人火热征集中</a></li>
+	<li><a href="http://lx.huanqiu.com/lxnews/2017-05/10625895.html" title="印度裔12岁女孩智商达162 比爱因斯坦还高2分">印度裔12岁女孩智商达162 比爱因斯坦还高2分</a></li>
+	<li><a href="http://lx.huanqiu.com/lxnews/2017-05/10625928.html" title="日本教师超半数达“过劳死”标准 或因新课改所致">日本教师超半数达“过劳死”标准 或因新课改所致</a></li>
+	<li><a href="http://lx.huanqiu.com/lxnews/2017-05/10618755.html" title="报告：澳移民比本土人更具商业头脑 创业比例更高">报告：澳移民比本土人更具商业头脑 创业比例更高</a></li>
+	<li><a href="http://lx.huanqiu.com/lxnews/2017-05/10619926.html" title="美15岁学生报案后向警察举玩具枪 被连开多枪击毙">美15岁学生报案后向警察举玩具枪 被连开多枪击毙</a></li>
+</ul>                    </div>
+                    <!-- 留学 end-->
+
+                    <!-- 公益 begin-->
+                    <div class="hope rightBox">
+                        <h3><strong><a href="http://hope.huanqiu.com/">公益</a></strong><em><a href="http://hope.huanqiu.com/">更多</a></em></h3>
+                        <ul class="picListMini">
+<li>
+<a href="http://hope.huanqiu.com/talk/2017-04/10557055.html" title="中国企业海外公益之路"><img src="http://himg2.huanqiu.com/attachment2010/2017/0428/16/56/20170428045656326.png" alt="中国企业海外公益之路"></a>
+<a title="中国企业海外公益之路" href="http://hope.huanqiu.com/talk/2017-04/10557055.html" class="txt">中国企业海外公益之路</a>
+</li>
+<li>
+<a href="http://www.livemaya.com/ghzjkby" title="小厨神大赛海选进行时"><img src="http://himg2.huanqiu.com/attachment2010/2017/0420/16/08/20170420040811342.jpg" alt="小厨神大赛海选进行时"></a>
+<a title="小厨神大赛海选进行时" href="http://www.livemaya.com/ghzjkby" class="txt">小厨神大赛海选进行时</a>
+</li>
+</ul>
+                        <ul class="iconBoxT14">
+			<li><a title="那些年你不得不看的好书" href="http://hope.huanqiu.com/activity/2015-12/8259489.html">那些年你不得不看的好书</a></li>
+		<li><a title="专访中国扶贫基金会执行副会长王行最" href="http://v.huanqiu.com/Worldrenowned/2017-04/10559508.html">专访中国扶贫基金会执行副会长王行最</a></li>
+		<li><a title="社会该为“空巢青年”提供什么支持？" href="http://hope.huanqiu.com/domesticnews/2017-04/10519463.html">社会该为“空巢青年”提供什么支持？</a></li>
+		<li><a title="82岁愚公曾带村民绝壁上凿出生命渠" href="http://hope.huanqiu.com/domesticnews/2017-04/10519301.html">82岁愚公曾带村民绝壁上凿出生命渠</a></li>
+		<li><a title="中国高校为何在争取募捐方面不积极" href="http://hope.huanqiu.com/domesticnews/2017-02/10134672.html">中国高校为何在争取募捐方面不积极</a></li>
+		</ul>                    </div>
+                    <!-- 公益 end-->
+
+                </div>
+                <!-- 第八部分 end-->
+
+                <!-- 广告 begin-->
+                <div class="ad" id="adBa_4">
+                    <!-- Ad Survey 广告位代码  首页通栏04-->
+                    <script type="text/javascript">AD_SURVEY_Add_AdPos("9483");</script>
+                </div>
+                <!-- 广告 end-->
+
+                <!-- 第九部分 begin-->
+                <div class="conBox">
+                    <!-- 数码 begin-->
+                    <div class="digital leftBox">
+                        <h3><strong><a href="http://tech.huanqiu.com/digi/">数码</a></strong><em><a href="http://tech.huanqiu.com/digi/">更多</a></em></h3>
+                        <div class="photoText">
+<h4><a href="http://tech.huanqiu.com/diginews/2017-05/10626119.html" title="Android设备不安全？专家称就看你更不更新">Android设备不安全？专家称就看你更不更新</a></h4>
+<a title="Android设备不安全？专家称就看你更不更新" href="http://tech.huanqiu.com/diginews/2017-05/10626119.html"><img alt="Android设备不安全？专家称就看你更不更新" src="http://himg2.huanqiu.com/attachment2010/2017/0509/09/27/20170509092753496.gif"></a>
+<h5><p>虽然谷歌为提升Android安全性做了许多工作，但其安全性能仍然不能令人满意，一个重要原因是Android设备不能及时安装更新包。</p>
+</h5>
+</div>
+
+<ul class="iconBoxT14">
+	<li><a href="http://tech.huanqiu.com/diginews/2017-05/10629222.html" title="新品：传苹果iPhone8将如期发布：10月开始发售">新品：传苹果iPhone8将如期发布：10月开始发售</a></li>
+	<li><a href="http://tech.huanqiu.com/diginews/2017-05/10625582.html" title="揭秘：五大致命因素！电视当显示器眼睛会瞎掉">揭秘：五大致命因素！电视当显示器眼睛会瞎掉</a></li>
+	<li><a href="http://tech.huanqiu.com/diginews/2017-05/10625763.html" title="市场：这个手机品牌黯然离开中国 却在美国火了">市场：这个手机品牌黯然离开中国 却在美国火了</a></li>
+	<li><a href="http://tech.huanqiu.com/diginews/2017-05/10625674.html" title="业界：苹果这款特别版机型销量最差！顾客不买账">业界：苹果这款特别版机型销量最差！顾客不买账</a></li>
+	<li><a href="http://tech.huanqiu.com/diginews/2017-05/10625829.html" title="分析：这些手机界的“经验之谈” 现在已然成了谣言">分析：这些手机界的“经验之谈” 现在已然成了谣言</a></li>
+	<li><a href="http://tech.huanqiu.com/diginews/2017-05/10625918.html" title="手机：证据确凿 三星将推出三防版S8 Active旗舰">手机：证据确凿 三星将推出三防版S8 Active旗舰</a></li>
+</ul>                    </div>
+                    <!-- 数码 end-->
+
+                    <!-- 智能 begin-->
+                    <div class="game midBox">
+                        <h3><strong><a href="http://smart.huanqiu.com/">智能</a></strong><em><a href="http://smart.huanqiu.com/">更多</a></em></h3>
+                        <div class="photoText">
+<h4><a href="http://smart.huanqiu.com/wear/2017-05/10631343.html" title="【测评】糖小猫，麻麻叫你回家吃饭 ">【测评】糖小猫，麻麻叫你回家吃饭 </a></h4>
+<a title="【测评】糖小猫，麻麻叫你回家吃饭 " href="http://smart.huanqiu.com/wear/2017-05/10631343.html"><img alt="【测评】糖小猫，麻麻叫你回家吃饭 " src="http://himg2.huanqiu.com/attachment2010/2017/0509/17/46/20170509054645318.jpg"></a>
+<h5>很快要到儿童节了，有很多同事朋友向益达咨询有没有什么好的礼物可以用来送给小朋友，近年来，随着家长对孩子的安全问题越来越重视，可定位、可通话的智能儿童手表是一个不错的选择。</h5>
+</div>
+
+<ul class="iconBoxT14">
+	<li><a href="http://smart.huanqiu.com/roll/2017-05/10629587.html" title="安全：不会游泳也不怕 带上这个项圈照样下水浪">安全：不会游泳也不怕 带上这个项圈照样下水浪</a></li>
+	<li><a href="http://tech.huanqiu.com/intelligent/2017-05/10629207.html" title="市场调查：亚马逊Alexa主导智能语音助手市场">市场调查：亚马逊Alexa主导智能语音助手市场</a></li>
+	<li><a href="http://smart.huanqiu.com/roll/2017-05/10618361.html" title="穿戴：不想当移动电源的智能手表不是好手表(动图)">穿戴：不想当移动电源的智能手表不是好手表(动图)</a></li>
+	<li><a href="http://smart.huanqiu.com/roll/2017-05/10630085.html" title="震惊：机器人不仅会“读心术” 还能画出你在想什么">震惊：机器人不仅会“读心术” 还能画出你在想什么</a></li>
+	<li><a href="http://tech.huanqiu.com/science/2017-05/10616522.html" title="酷玩：不只有钻石永流传 这支笔写出的字永不退色">酷玩：不只有钻石永流传 这支笔写出的字永不退色</a></li>
+	<li><a href="http://smart.huanqiu.com/wear/2017-05/10620292.html" title="发明：墨西哥小伙发明智能乳罩 受患癌母亲启发">发明：墨西哥小伙发明智能乳罩 受患癌母亲启发</a></li>
+</ul>                    </div>
+                    <!-- 智能 end-->
+
+                    <!-- 趣玩 begin-->
+                    <div class="fun rightBox">
+                        <h3><strong><a href="http://tech.huanqiu.com/novelty/">趣玩</a></strong><em><a href="http://tech.huanqiu.com/novelty/">更多</a></em></h3>
+                        <ul class="picListMini">
+<li>
+<a href="http://smart.huanqiu.com/roll/2017-05/10628060.html" title="神奇触控板喷漆"><img src="http://himg2.huanqiu.com/attachment2010/2017/0509/11/31/20170509113152578.gif" alt="神奇触控板喷漆"></a>
+<a title="神奇触控板喷漆" href="http://smart.huanqiu.com/roll/2017-05/10628060.html" class="txt">神奇触控板喷漆</a>
+</li>
+<li>
+<a href="http://tech.huanqiu.com/diginews/2017-05/10626222.html" title="贴心的智能药瓶"><img src="http://himg2.huanqiu.com/attachment2010/2017/0509/09/22/20170509092205656.gif" alt="贴心的智能药瓶"></a>
+<a title="贴心的智能药瓶" href="http://tech.huanqiu.com/diginews/2017-05/10626222.html" class="txt">贴心的智能药瓶</a>
+</li>
+<li>
+<a href="http://tech.huanqiu.com/diginews/2017-05/10626287.html" title="汽车座椅小工具"><img src="http://himg2.huanqiu.com/attachment2010/2017/0509/09/22/20170509092249476.gif" alt="汽车座椅小工具"></a>
+<a title="汽车座椅小工具" href="http://tech.huanqiu.com/diginews/2017-05/10626287.html" class="txt">汽车座椅小工具</a>
+</li>
+<li>
+<a href="http://tech.huanqiu.com/diginews/2017-05/10626327.html" title="超霸气的越野自行车"><img src="http://himg2.huanqiu.com/attachment2010/2017/0509/09/23/20170509092336563.gif" alt="超霸气的越野自行车"></a>
+<a title="超霸气的越野自行车" href="http://tech.huanqiu.com/diginews/2017-05/10626327.html" class="txt">超霸气的越野自行车</a>
+</li>
+</ul>
+                        <ul class="iconBoxT14">
+			<li><a title="带有磁贴的智能音响 可随意吸附" href="http://tech.huanqiu.com/diginews/2017-05/10626251.html">带有磁贴的智能音响 可随意吸附</a></li>
+		<li><a title="这房车虽然空间小 但居然是复式结构" href="http://tech.huanqiu.com/diginews/2017-05/10626272.html">这房车虽然空间小 但居然是复式结构</a></li>
+		</ul>
+                    </div>
+                    <!-- 趣玩 end-->
+
+                </div>
+                <!-- 第九部分 end-->
+
+                <!-- 第十部分 begin-->
+                <div class="conBox">
+                    <!-- 健康 begin-->
+                    <div class="health leftBox">
+                        <h3><strong><a href="http://health.huanqiu.com/">健康</a></strong><em><a href="http://health.huanqiu.com/">更多</a></em></h3>
+                        <div class="photoText">
+<h4><a href="http://health.huanqiu.com/pictorial/2017-05/2870234.html" title="美女飞行员晒高超瑜伽术 惊艳网友">美女飞行员晒高超瑜伽术 惊艳网友</a></h4>
+<a title="美女飞行员晒高超瑜伽术 惊艳网友" href="http://health.huanqiu.com/pictorial/2017-05/2870234.html"><img alt="美女飞行员晒高超瑜伽术 惊艳网友" src="http://himg2.huanqiu.com/attachment2010/2017/0509/10/02/20170509100228563.jpg"></a>
+<h5><p>金发碧眼的美女飞行员因在INS上发布工作和练瑜伽照而爆红。25岁的飞行员玛丽亚来自瑞典，喜欢在网上分享了自己或是与朋友一起做瑜伽的惊艳照片，吸引大批网友关注。</p></h5>
+</div>
+
+                        <ul class="iconBoxT14">
+<li><a href="http://health.huanqiu.com/health_promotion/2017-05/10624726.html" title="睡眠长短决定寿命 人每天应该睡多少小时">睡眠长短也能决定寿命</a> <a href="http://health.huanqiu.com/health_promotion/2017-05/10625058.html" title="睡姿不对，迟早遭罪！哪种睡觉姿势最好？原来是它">睡姿不对身体迟早要遭罪</a></li>
+<li><a href="http://health.huanqiu.com/health_promotion/2017-05/10625092.html" title="你比同龄人老得快有3个原因">为何你比同龄人老得快？</a> <a href="http://health.huanqiu.com/health_promotion/2017-05/10625057.html" title="血管一老，全身就跟着老！教你八招，轻松把它养年轻">血管一老全身就跟着老</a></li>
+<li><a href="http://health.huanqiu.com/health_promotion/2017-05/10625161.html" title="男人防癌增强生育力不能缺少4类食物">男人增强生育力别少了它们</a> <a href="http://health.huanqiu.com/health_promotion/2017-05/10624733.html" title="44岁是男人一生健康转折点">44岁是男人健康拐点</a></li>
+<li><a href="http://health.huanqiu.com/health_promotion/2017-05/10626025.html" title="一套适合懒人的“长寿法”！这样休息效果堪比运动">一套适合懒人的&ldquo;长寿法&rdquo;</a> <a href="http://health.huanqiu.com/health_promotion/2017-05/10626186.html" title="大脑在30岁开始衰老 大脑年轻才能长寿">大脑年轻才能更长寿</a></li>
+<li><a href="http://health.huanqiu.com/health_promotion/2017-05/10625137.html" title="酸奶三种喝法减肥又丰胸">酸奶这么喝才能减肥又丰胸</a> <a href="http://health.huanqiu.com/health_promotion/2017-05/10625105.html" title="吃什么让牙齿变白">吃什么能让牙齿变白</a></li>
+<li><a href="http://health.huanqiu.com/health_news/2017-05/10626354.html" title="重庆被狗咬伤男童生殖器无法接回 一天获善款逾20万">被狗咬伤男童生殖器无法接回</a> <a href="http://health.huanqiu.com/health_news/2017-05/10626233.html" title="天津免费筛查4类恶性肿瘤">天津免费筛查4类肿瘤</a></li>
+</ul>
+                    </div>
+                    <!-- 健康 end-->
+
+                    <!-- 社会 begin-->
+                    <div class="society midBox">
+                        <h3><strong><a href="http://society.huanqiu.com/">社会</a></strong><em><a href="http://society.huanqiu.com/">更多</a></em></h3>
+                        <div class="photoText">
+<h4><a href="http://society.huanqiu.com/photonew/2017-05/2870180.html" title="女大学生着古装扮“仙女”拍唯美毕业照 ">女大学生着古装扮“仙女”拍唯美毕业照 </a></h4>
+<a title="女大学生着古装扮“仙女”拍唯美毕业照 " href="http://society.huanqiu.com/photonew/2017-05/2870180.html"><img alt="女大学生着古装扮“仙女”拍唯美毕业照 " src="http://himg2.huanqiu.com/attachment2010/2017/0509/07/51/20170509075125286.jpg"></a>
+<h5>5月8日，郑州爱好古装的7名女大学生身着古装扮“七仙女”现身郑州黄河岸边，玩起了“穿越”，演绎大学时光最后的“致青春”。</h5>
+</div>
+
+<ul class="iconBoxT14">
+	<li><a href="http://society.huanqiu.com/article/2017-05/10625014.html" title="恋人协议打胎 女方违约生娃男方被判付抚养费">恋人协议打胎 女方违约生娃男方被判付抚养费</a></li>
+	<li><a href="http://society.huanqiu.com/article/2017-05/10625077.html" title="孕妇吸毒被取保候审 当天又毒驾套牌车被查 ">孕妇吸毒被取保候审 当天又毒驾套牌车被查 </a></li>
+	<li><a href="http://society.huanqiu.com/article/2017-05/10624974.html" title="广州珠宝店遭“洗劫” 宝石被洪水冲走(组图) ">广州珠宝店遭“洗劫” 宝石被洪水冲走(组图) </a></li>
+	<li><a href="http://society.huanqiu.com/article/2017-05/10624914.html" title="前女友亲了别的男生 结果11个小伙子打成一团 ">前女友亲了别的男生 结果11个小伙子打成一团 </a></li>
+	<li><a href="http://society.huanqiu.com/article/2017-05/10625028.html" title="女子“怀孕”17年 腹中取出东西都有头发和牙了 ">女子“怀孕”17年 腹中取出东西都有头发和牙了 </a></li>
+	<li><a href="http://society.huanqiu.com/article/2017-05/10625017.html" title="妈妈将孩子送派出所 因其不听话欲让民警帮吓唬 ">妈妈将孩子送派出所 因其不听话欲让民警帮吓唬 </a></li>
+</ul>                    </div>
+                    <!-- 社会 end-->
+
+                    <!-- 品鉴･收藏 begin-->
+                    <div class="feel rightBox">
+                        <h3><strong><a href="http://luxury.huanqiu.com">品鉴･收藏</a></strong><em><a href="http://luxury.huanqiu.com">更多</a></em></h3>
+                        <ul class="picListMini">
+<li>
+<a href="http://luxury.huanqiu.com/tasting/life/2017-05/10629314.html" title="李湘、沙溢晒冰箱 "><img src="http://himg2.huanqiu.com/attachment2010/2017/0509/14/55/20170509025547263.jpg" alt="李湘、沙溢晒冰箱 "></a>
+<a title="李湘、沙溢晒冰箱 " href="http://luxury.huanqiu.com/tasting/life/2017-05/10629314.html" class="txt">李湘、沙溢晒冰箱 </a>
+</li>
+<li>
+<a href="http://luxury.huanqiu.com/tasting/life/2017-05/10628992.html" title="腕表上的大日历"><img src="http://himg2.huanqiu.com/attachment2010/2017/0509/14/56/20170509025654217.jpg" alt="腕表上的大日历"></a>
+<a title="腕表上的大日历" href="http://luxury.huanqiu.com/tasting/life/2017-05/10628992.html" class="txt">腕表上的大日历</a>
+</li>
+</ul>                        <ul class="iconBoxT14">
+<li><a href="http://luxury.huanqiu.com/tasting/life/2017-05/10620429.html">把这么美的酒店做成书院 老板得多禁欲</a></li>
+<li><a href="http://luxury.huanqiu.com/tasting/life/2017-05/10620413.html">壕宅壕车壕包 小贝一家到底多好看</a></li>
+<li><a href="http://luxury.huanqiu.com/tasting/life/2017-05/10629152.html">2017年邮轮争夺战 老品牌发力中国</a></li>
+<li><a href="http://luxury.huanqiu.com/tasting/life/2017-05/10629190.html">从卷饼到鱼生 美味的美国街头小吃</a></li>
+<li><a href="http://luxury.huanqiu.com/tasting/life/2017-05/10629215.html">想选对自己要的葡萄酒，得看得懂酒标</a></li>
+</ul>                    </div>
+                    <!-- 品鉴･收藏 end-->
+
+                </div>
+                <!-- 第十部分 end-->
+
+                <!-- 第十一部分 begin-->
+                <div class="conBox">
+                    <!-- 历史 begin-->
+                    <div class="history leftBox">
+                        <h3><strong><a href="http://gteu.huanqiu.com/">欧洲版</a></strong><em><!-- <a href="http://society.huanqiu.com/anecdotes/">更多</a> --></em></h3>
+                                        <div class="photoText">
+            <h4><a title="法国警方深夜持枪封锁巴黎北站 原因不明" href="http://gteu.huanqiu.com/">法国警方深夜持枪封锁巴黎北站 原因不明</a></h4>
+            <a title="法国警方深夜持枪封锁巴黎北站 原因不明" href="http://gteu.huanqiu.com/"><img alt="法国警方深夜持枪封锁巴黎北站 原因不明" src="http://himg2.huanqiu.com/attachment2010/2017/0509/09/07/20170509090758824.jpg"></a>
+            <h5>当地时间5月8日深夜，法国巴黎北站（Gare du Nord）被荷枪实弹的警察全面搜查，该火车站已被全面疏散，车站出入口已被封闭。</h5>
+        </div> 
+                                        <ul class="iconBoxT14">
+                                                        <li><a title="调查发现欧洲半数大米类婴幼儿食品无机砷超标" href="http://gteu.huanqiu.com/focus/2017-05/10625727.html">调查发现欧洲半数大米类婴幼儿食品无机砷超标</a></li>
+                                                        <li><a title="英国涂鸦大师班克西创造“脱欧”主题大幅壁画" href="http://gteu.huanqiu.com/focus/2017-05/10625745.html">英国涂鸦大师班克西创造“脱欧”主题大幅壁画</a></li>
+                                                        <li><a title="如果一切顺利 他们将主宰欧洲创造史诗级记录！" href="http://gteu.huanqiu.com/focus/2017-05/10623898.html">如果一切顺利 他们将主宰欧洲创造史诗级记录！</a></li>
+                                                        <li><a title="绞尽脑汁促选民投票 官方公布数据：参与度28%" href="http://gteu.huanqiu.com/focus/2017-05/10615220.html">绞尽脑汁促选民投票 官方公布数据：参与度28%</a></li>
+                                                        <li><a title="欧洲进口肉便宜吃 26.2吨肉昨日“坐火车”抵蓉" href="http://gteu.huanqiu.com/focus/2017-05/10616990.html">欧洲进口肉便宜吃 26.2吨肉昨日“坐火车”抵蓉</a></li>
+                                                        <li><a title="德国房价几十年不涨？房地产网站统计打破谣言" href="http://gteu.huanqiu.com/focus/2017-05/10616902.html">德国房价几十年不涨？房地产网站统计打破谣言</a></li>
+                                                    </ul>                    </div>
+                    <!-- 历史 end-->
+
+                    <!-- 博览 begin-->
+                    <div class="lookNews midBox">
+                        <h3><strong><a href="http://look.huanqiu.com/">博览</a></strong><em><a href="http://look.huanqiu.com/">更多</a></em></h3>
+                                        <div class="photoText">
+            <h4><a title="巴西女子不惧面部胎记拍自信写真" href="http://look.huanqiu.com/article/2017-05/10618703.html">巴西女子不惧面部胎记拍自信写真</a></h4>
+            <a title="巴西女子不惧面部胎记拍自信写真" href="http://look.huanqiu.com/article/2017-05/10618703.html"><img alt="巴西女子不惧面部胎记拍自信写真" src="http://himg2.huanqiu.com/attachment2010/2017/0509/08/44/20170509084408874.jpg"></a>
+            <h5><p>巴西24岁女子玛丽安娜出生时脸上有一块巨大的胎记，很多人甚至认为这块丑陋奇怪的胎记是一种纹身，但玛丽安娜却从未以此为耻，她认为这块胎记使她与众不同。</p></h5>
+        </div> 
+                                        <ul class="iconBoxT14">
+                                                                                    <li><a title="笑翻！纽约三男子街头体验穿高跟鞋走路(视频)" href="http://look.huanqiu.com/article/2017-05/10620629.html">笑翻！纽约三男子街头体验穿高跟鞋走路(视频)</a></li>
+                                                        <li><a title="澳男子遭鲨鱼咬去一条腿 申请残疾福利被拒绝(图)" href="http://look.huanqiu.com/article/2017-05/10621099.html">澳男子遭鲨鱼咬去一条腿 申请残疾福利被拒绝(图)</a></li>
+                                                        <li><a title="巴航班一机长将任务交给实习生飞行中睡觉遭停职(图)" href="http://look.huanqiu.com/article/2017-05/10621030.html">巴航班一机长将任务交给实习生飞行中睡觉遭停职(图)</a></li>
+                                                        <li><a title="英神秘艺术家Banksy针对英国脱欧绘制巨幅壁画(图)" href="http://look.huanqiu.com/article/2017-05/10620882.html">英神秘艺术家Banksy针对英国脱欧绘制巨幅壁画(图)</a></li>
+                                                        <li><a title="美学生为参加联谊会男扮女装竟顺利入场(图)" href="http://look.huanqiu.com/article/2017-05/10618048.html">美学生为参加联谊会男扮女装竟顺利入场(图)</a></li>
+                                                        <li><a title="英渔民在爱尔兰海岸捕获680公斤重巨鲨(视频)" href="http://look.huanqiu.com/article/2017-05/10618778.html">英渔民在爱尔兰海岸捕获680公斤重巨鲨(视频)</a></li>
+                                                                                </ul>
+                    </div>
+                    <!-- 博览 end-->
+
+                    <!-- 奇闻 begin-->
+                    <div class="anecdote rightBox">
+                        <h3><strong><a href="http://bbs.huanqiu.com/">论坛</a></strong><em><a href="http://bbs.huanqiu.com/">更多</a></em></h3>
+                        <ul class="picListMini">
+		        		        		            <li>
+		                <a href="http://bbs.huanqiu.com/thread-4048338-1-1.html" title="大笑吧！让生活更美好"><img src="http://himg2.huanqiu.com/attachment2010/2017/0509/09/45/20170509094555265.jpg" alt="大笑吧！让生活更美好"></a>
+		                <a title="大笑吧！让生活更美好" href="http://bbs.huanqiu.com/thread-4048338-1-1.html" class="txt">大笑吧！让生活更美好</a>
+		            </li>
+		        		        		        		            <li>
+		                <a href="http://bbs.huanqiu.com/thread-4048333-1-1.html" title="美大萧条时期罕见彩照"><img src="http://himg2.huanqiu.com/attachment2010/2017/0509/09/46/20170509094636617.jpg" alt="美大萧条时期罕见彩照"></a>
+		                <a title="美大萧条时期罕见彩照" href="http://bbs.huanqiu.com/thread-4048333-1-1.html" class="txt">美大萧条时期罕见彩照</a>
+		            </li>
+		        		        		        		            <li>
+		                <a href="http://bbs.huanqiu.com/thread-4048330-1-1.html" title="韩国大选投票在即"><img src="http://himg2.huanqiu.com/attachment2010/2017/0509/09/47/20170509094716802.jpg" alt="韩国大选投票在即"></a>
+		                <a title="韩国大选投票在即" href="http://bbs.huanqiu.com/thread-4048330-1-1.html" class="txt">韩国大选投票在即</a>
+		            </li>
+		        		        		        		            <li>
+		                <a href="http://bbs.huanqiu.com/thread-4048335-1-1.html" title="英木匠将拖车改成房车"><img src="http://himg2.huanqiu.com/attachment2010/2017/0509/09/44/20170509094459776.jpg" alt="英木匠将拖车改成房车"></a>
+		                <a title="英木匠将拖车改成房车" href="http://bbs.huanqiu.com/thread-4048335-1-1.html" class="txt">英木匠将拖车改成房车</a>
+		            </li>
+		        		        		        		        </ul>
+		        <ul class="iconBoxT14">
+		            <li><a title="300场反“萨德”集会对韩国意味着什么" href="http://bbs.huanqiu.com/thread-4048328-1-1.html">300场反“萨德”集会对韩国意味着什么</a></li>
+		        		        		        		            <li><a title="安倍的这盘料理 装满了造谣滋事的调料" href="http://bbs.huanqiu.com/thread-4047491-1-1.html">安倍的这盘料理 装满了造谣滋事的调料</a></li>
+		        		        		        </ul>                    </div>
+                    <!-- 奇闻 end-->
+
+                </div>
+                <!-- 第十一部分 end-->
+
+
+                <!-- 环球视觉 begin -->
+                <div class="visual">
+                    <a href="http://photo.huanqiu.com/"><div class="titVisual"></div></a>
+                    <ul>
+<li class="picList1">
+		<a href="http://photo.huanqiu.com/photoview/2017-05/2870290.html"><img class="scrollLoading" src="http://himg2.huanqiu.com/attachment2010/2017/0509/16/00/20170509040038728.jpg" data-url="http://himg2.huanqiu.com/attachment2010/2017/0509/16/00/20170509040038728.jpg" alt="世界微笑日 看动物笑容中的“语言”"></a>
+<a href="http://photo.huanqiu.com/photoview/2017-05/2870290.html" title="世界微笑日 看动物笑容中的“语言”" class="txt">世界微笑日 看动物笑容中的“语言”</a></li>
+	
+<li class="picList2">
+		<a href="http://photo.huanqiu.com/picbox/2017-05/2870275.html"><img class="scrollLoading" src="http://himg2.huanqiu.com/attachment2010/2017/0509/16/00/20170509040055434.jpg" data-url="http://himg2.huanqiu.com/attachment2010/2017/0509/16/00/20170509040055434.jpg" alt="残疾母亲与儿子悬崖拍大片 画面温馨"></a>
+<a href="http://photo.huanqiu.com/picbox/2017-05/2870275.html" title="残疾母亲与儿子悬崖拍大片 画面温馨" class="txt">残疾母亲与儿子悬崖拍大片 画面温馨</a></li>
+	
+<li class="picList3">
+		<a href="http://photo.huanqiu.com/picbox/2017-05/2870227.html"><img class="scrollLoading" src="http://himg2.huanqiu.com/attachment2010/2017/0509/16/01/20170509040117629.jpg" data-url="http://himg2.huanqiu.com/attachment2010/2017/0509/16/01/20170509040117629.jpg" alt="人体艺术！丑陋伤疤巧变精美纹身"></a>
+<a href="http://photo.huanqiu.com/picbox/2017-05/2870227.html" title="人体艺术！丑陋伤疤巧变精美纹身" class="txt">人体艺术！丑陋伤疤巧变精美纹身</a></li>
+	
+<li class="picList4">
+		<a href="http://photo.huanqiu.com/photoview/2017-05/2870194.html"><img class="scrollLoading" src="http://himg2.huanqiu.com/attachment2010/2017/0509/16/01/20170509040140461.jpg" data-url="http://himg2.huanqiu.com/attachment2010/2017/0509/16/01/20170509040140461.jpg" alt="英大猩猩翩翩起舞 旋转跳跃好优雅"></a>
+<a href="http://photo.huanqiu.com/photoview/2017-05/2870194.html" title="英大猩猩翩翩起舞 旋转跳跃好优雅" class="txt">英大猩猩翩翩起舞 旋转跳跃好优雅</a></li>
+	
+<li class="picList5">
+		<a href="http://photo.huanqiu.com/photoview/2017-05/2870237.html"><img class="scrollLoading" src="http://himg2.huanqiu.com/attachment2010/2017/0509/16/01/20170509040159191.jpg" data-url="http://himg2.huanqiu.com/attachment2010/2017/0509/16/01/20170509040159191.jpg" alt="摄影师镜头记录海豚捕食三文鱼全程"></a>
+<a href="http://photo.huanqiu.com/photoview/2017-05/2870237.html" title="摄影师镜头记录海豚捕食三文鱼全程" class="txt">摄影师镜头记录海豚捕食三文鱼全程</a></li>
+	
+<li class="picList6">
+		<a href="http://photo.huanqiu.com/picbox/2017-05/2870245.html"><img class="scrollLoading" src="http://himg2.huanqiu.com/attachment2010/2017/0509/16/02/20170509040210718.jpg" data-url="http://himg2.huanqiu.com/attachment2010/2017/0509/16/02/20170509040210718.jpg" alt="镜头记录一战扭转局势的“动物战士”"></a>
+<a href="http://photo.huanqiu.com/picbox/2017-05/2870245.html" title="镜头记录一战扭转局势的“动物战士”" class="txt">镜头记录一战扭转局势的“动物战士”</a></li>
+	
+	
+</ul>                </div>
+                <!-- 环球视觉 end -->
+
+                <!-- 广告 begin-->
+                <div class="ad" id="adBa_3">
+                    <!-- Ad Survey 广告位代码  首页底部通栏-->
+                    <script type="text/javascript">AD_SURVEY_Add_AdPos("9484");</script>
+                </div>
+                <!-- 广告 end-->
+            </div>
+
+            <!-- 内容部分 end-->
+        </div>
+    </div>
+    <!-- 内容外侧 end-->
+
+    <!-- 尾巴 begin -->
+    <div class="footNew">
+        <div class="footOutNew">
+            <!-- 其他 begin -->
+            <div class="fotherNew">
+                <ul>
+                    <li class="fir">
+                        <h3>环球无线</h3>
+                        <div class="iconList">
+                            <a href="http://mobile.huanqiu.com/#paperBox">环球时报客户端</a>
+                            <a href="http://mobile.huanqiu.com/#mobileBox">手机环球网</a>
+                        </div>
+                    </li>
+                    <li class="sec">
+                        <h3>推荐服务</h3>
+                        <div class="iconList">
+                            <a href="http://www.huanqiu.com/weibo.html">环球网-官方微博</a>
+                            <a href="http://rss.huanqiu.com/">RSS订阅</a>
+                            <a href="http://dl.baofeng.com/BFVCenter/kb-huanqiu-0125.exe">环球网-桌面版</a>
+                            <a href="http://rank.huanqiu.com/">资讯排行</a>
+                        </div>
+                    </li>
+                    <li class="last">
+                        <h3>环球时报系产品</h3>
+                        <div class="iconList">
+                            <a href="http://data.huanqiu.com/">环球时报版权数据库</a>
+                            <a href="http://www.lifetimes.cn/" class="footTxtLife">生命时报</a>
+                            <a href="http://hd.globaltimes.cn/">品牌活动</a>
+                            <a href="http://www.globaltraveler.com.cn/">环球旅游周刊</a>
+                            <a href="http://gteu.huanqiu.com/">欧洲版</a>
+                            <a href="http://www.gtfoundation.cn/">环球时报公益基金会</a>
+                            <a href="http://humor.huanqiu.com/" class="footTxtLife">讽刺与幽默</a>
+                            <a href="http://www.globalsurvey.com.cn/">舆情中心</a>
+                            <a href="http://www.globaltimes.cn/">GlobalTimes</a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <!-- 其他 end -->
+
+        </div>
+
+        <!-- 链接 begin -->
+        <div class="fLink">
+            <div class="flinkMain marWidMain">
+                <a href="http://corp.huanqiu.com/about/" target="_blank">环球网简介</a>|
+                <a href="http://corp.huanqiu.com/aboutus/" target="_blank">About huanqiu.com</a>|
+                <a href="http://www.huanqiu.com/sitemap.html" target="_blank">网站地图</a>|
+                <a href="http://corp.huanqiu.com/jobs/" target="_blank">诚聘英才</a>|
+                <a href="http://corp.huanqiu.com/advertising_services/" target="_blank">广告服务</a>|
+                <a href="http://corp.huanqiu.com/contactus/" target="_blank">联系方式</a>|
+                <a href="http://corp.huanqiu.com/privacy_policy/" target="_blank">隐私政策</a>|
+                <a href="http://corp.huanqiu.com/terms/" target="_blank">服务条款</a>|
+                <a href="mailto:jubao@huanqiu.com" target="_blank">意见反馈</a>
+                <a href="http://bbs.huanqiu.com/thread-3754114-1-1.html" target="_blank" class="index-notice">公告</a>
+            </div>
+        </div>
+        <!-- 链接 end -->
+
+        <div class="copyMain">
+            <span>本站不良内容举报邮箱：<a href="mailto:jubao@huanqiu.com">jubao@huanqiu.com</a></span><em>/</em><span>举报电话：（010）52937800   （内容投诉转614、广告投诉转649、技术投诉转677、其他投诉转601或0） </span><em style="color: #5e5e5e;margin-left: 22px;font-style: normal;">© 环球网</em><a href="http://corp.huanqiu.com/copyright/" style="color: #5e5e5e;">版权所有</a>
+        </div>
+
+        <!-- 版权区 begin -->
+        <div class="copyArea">
+            <div class="copyLink">
+                <ul>
+                    <li>
+                        <dl>
+                            <dt>
+                                <a href="http://www.huanqiu.com/license/servicelicense.htm" target="_blank">互联网新闻信息服务许可证</a><br />
+                                <a href="http://www.huanqiu.com/license/icp.htm" target="_blank">电信与信息服务业务经营许可证号090455</a><br />
+                                <a href="http://www.huanqiu.com/license/culture.htm" target="_blank">网络文化经营许可证（文网文【2010】221号）</a><br />
+                                <a href="http://www.huanqiu.com/license/publish_licence.htm" target="_blank">互联网出版许可证（新出网证（京）字085号）</a><br />
+                            </dt>
+                            <dd>
+                                <a href="http://www.huanqiu.com/license/tvlicense.htm" target="_blank">广播电视节目制作经营许可证((广媒)字第179号)</a><br />
+                                <a href="http://www.huanqiu.com/license/druglicense.htm" target="_blank">互联网药品信息服务资格证书(京)-经营性-2009-0016</a><br />
+                                <a href="http://www.huanqiu.com/license/healthcare.htm" target="_blank">互联网医疗保健信息服务(京卫网审[2014]第0311号)</a><br />
+                                <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502003203" target="_blank"><img src="http://himg2.huanqiu.com/statics/www/hqnet/dist/images/beian.png" style="float:left;"/>京公网安备 11010502003203号</a><br />
+                            </dd>
+                            <dt class="las">
+                                <a href="http://www.huanqiu.com/license/vpermits.htm" target="_blank">网络传播视听节目许可证(0108322)</a><br />
+                                <a href="http://www.huanqiu.com/license/tellicense.htm" target="_blank">增值电信业务许可证 B2-20090462</a><br />
+                                <a href="http://www.miibeian.gov.cn/" target="_blank">京ICP备12013816号</a><br />
+                                <a href="http://jubao.12377.cn:13225/reportform.do" target="_blank">暴恐有害信息举报入口</a>
+                            </dt>
+                        </dl>
+                    </li>
+                    <li class="copyLogo">
+                        <a rel="nofollow" class="logoCa" title="经营性网站备案信息" target="_blank" href="http://www.hd315.gov.cn/beian/view.asp?bianhao=010202010031500016"></a>
+                        <a rel="nofollow" class="logoCb" title="网上有害信息举报专区" target="_blank" href="http://jubao.12377.cn:13225/reportsup.do"></a>
+                        <a rel="nofollow" class="logoCc" title="中国文明网传播文明" target="_blank" href="http://www.wenming.cn/"></a>
+                        <a rel="nofollow" class="logoCd" title="网络110报警服务" target="_blank" href="http://www.bj.cyberpolice.cn/index.htm"></a>
+                        <a rel="nofollow" class="logoCe" title="北京文化市场举报热线" target="_blank" href="http://www.bjwhzf.gov.cn/accuse.do"></a>
+                        <a rel="nofollow" class="logoCX" title="诚信网站" target="_blank" href="https://search.szfw.org/cert/l/CX20120917001637001708"></a>
+                        <!-- <a rel="nofollow" class="logoKx" title="可信网站" target="_blank" href="https://ss.knet.cn/verifyseal.dll?sn=e13041611010040192fy0p000000&pa=824334"></a> -->
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+        <!-- 版权区 end -->
+    </div>
+    <!-- 尾巴 end -->
+</div>
+<script src="http://himg2.huanqiu.com/statics/hq2013/js/lib/sea.js" type="text/javascript" data-main="http://himg2.huanqiu.com/statics/hq2013/allMinJs/index/index2015.js?1"></script>
+<script type="text/javascript" src="http://himg2.huanqiu.com/statics/js/adCode.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        var ie6 = !-[1,]&&!window.XMLHttpRequest;
+        if(ie6) {
+            var $tip = $(document.createElement("div"));
+            $tip
+                    .addClass("ieTips")
+                    .prependTo(".wrap")
+                    .html("<em></em>您现在使用的浏览器版本过低，页面上部分内容可能无法正常显示，建议您升级到最新版浏览器。<span><a href=\"javascript:void(0);\"></a></span>");
+            $tip.find("a").on("click",function() {
+                $tip.remove();
+            });
+        }
+    });
+
+    //
+    (function() {
+        var loc = window.location.host;
+        loc&&(loc.search(/huanqiu/ig)==-1)&&(window.location="http://www.huanqiu.com");
+    })();
+</script>
+<script>
+    $("ins[data-baidu-clb-type='dui-lian']").hide();
+</script>
+<script type="text/javascript" src="http://himg2.huanqiu.com/statics/hq2015/js/bdIndexAd.js"></script>
+<!-- Ad Survey 广告位代码  首页跨栏广告-->
+<script type="text/javascript">AD_SURVEY_Add_AdPos("9491");</script>
+<!-- Ad Survey 广告位代码  首页背投广告-->
+<script type="text/javascript">AD_SURVEY_Add_AdPos("9494");</script>
+<!-- Ad Survey 广告位代码  首页浮层广告-->
+<script type="text/javascript">AD_SURVEY_Add_AdPos("9490");</script>
+<!-- Ad Survey 广告位代码  首页对联广告-->
+<script type="text/javascript">AD_SURVEY_Add_AdPos("9492");</script>
+<script type="text/javascript" src="http://toys.m.people.cn/apps/lc/front/rs/js/performance.js"></script>
+<!-- begin PDMI代码 -->
+<script language="javascript">
+    function getCookie(c_name){
+        if (document.cookie.length>0){
+            c_start=document.cookie.indexOf(c_name + "=")
+            if (c_start!=-1){
+                c_start=c_start + c_name.length+1
+                c_end=document.cookie.indexOf(";",c_start)
+                if (c_end==-1) c_end=document.cookie.length
+                return decodeURI(document.cookie.substring(c_start,c_end))
+            }
+        }
+        return ""
+    }
+    var item_id = window.location.href.replace(window.location.protocol, '').replace('//','').split('?')[0];
+    var uid = getCookie('user[uid]');
+    var _paq = _paq || [];
+    window['_paq'] = _paq;
+    _paq.push(['appkey', 'UAR-000139_459']);
+    _paq.push(['attr', 'itemid='+item_id]);
+    _paq.push(['uid', uid, uid == ''?'':'account']);
+    _paq.push(['trackPV']);
+
+    (function() {
+        var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+        pa.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'rev.uar.hubpd.com/agent/pa.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+    })();
+</script>
+<!-- end PDMI代码-->
+</body>
+</html>

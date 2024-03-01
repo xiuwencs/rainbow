@@ -1,0 +1,1525 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html
+lang="zh_TW" XMLNS:IE><head><meta
+http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta
+http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta
+name="keywords" content="部落格,網誌,PIXNET,痞客邦,痞客幫,痞克邦,痞克幫,痞客,痞克,相簿,免費,影音,大首頁"><meta
+name="description" content="台灣最大社群網站及內容創作平台，以提供免費相簿與部落格服務為主，擁有優質的社群內容，以及與各界合作不斷推出多樣化活動，讓網友更能迅速獲得社群間流傳的發燒資訊與貼心互動。 會員服務：部落格、相簿、社群商務服務開發、應用市集、好康活動、多元頻道資訊。"><meta
+name="application-name" content="痞客邦 PIXNET"><meta
+name="msapplication-TileColor" content="#01479D"><meta
+name="msapplication-TileImage" content="http://mainpage.pixfs.net/index/images/PIXNET.png"><meta
+name="ChineseAN_verifycode" content="800D28B5FCE9AB165DFE720A3A1FD1C9" /><meta
+name="msvalidate.01" content="A0BAFD9ECD21DCC02B0402D146B1AB74" /><meta
+http-equiv="refresh" content="0;url=https://www.pixnet.net"><meta
+content="sToken" name="csrf-param"><meta
+content="6b158c7c93a18cef088325ac05e7314d" name="csrf-token"><title>痞客邦 PIXNET</title><link
+rel="stylesheet" href="//mainpage.pixfs.net/index/style/construction.min.css?v=a6326ea8e9889028ca630f7d933f7007" type="text/css"><link
+rel="stylesheet" href="//mainpage.pixfs.net/index/style/index.min.css?v=a6326ea8e9889028ca630f7d933f7007" type="text/css"><link
+rel="stylesheet" href="//front.pixfs.net/module/topbar/css/blogtopbar.min.css?v=a6326ea8e9889028ca630f7d933f7007"><link
+rel="stylesheet" href="//mainpage.pixfs.net/index/style/new-navigation.min.css?v=a6326ea8e9889028ca630f7d933f7007" type="text/css"><link
+rel="stylesheet" href="//mainpage.pixfs.net/index/style/new_guide.css?v=a6326ea8e9889028ca630f7d933f7007" type="text/css"> <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script> <script type="text/javascript">var pix=pix||{};pix.js_error_type='mainpage';pix.domain_append='';pix.libsSite="\/\/libs.pixfs.net";pix.user_name=null;</script> <script type="text/javascript" src="//s.pixfs.net/js/pix.min.js?v=a6326ea8e9889028ca630f7d933f7007"></script> <script type="text/javascript" src="//s.pixfs.net/js/pixlogger.min.js?v=a6326ea8e9889028ca630f7d933f7007"></script> <script type="text/javascript" src="//libs.pixfs.net/jquery-plugins/timers/1.1.2/jquery.timers.js"></script> <script type="text/javascript" src="//libs.pixfs.net/jquery-plugins/cookie/1.0/jquery.cookie.js"></script> <script type="text/javascript" src="//libs.pixfs.net/jquery.onappear/jquery.onAppear.min.js"></script> <script type="text/javascript">var pix=pix||{};pix.apisite='api.pixnet.cc';pix.login_name='c7fd089cc2079bc75de5a6a3804759ec';pix.server_name='www.pixnet.net';pix.visitor="";pix.openid="";pix.demo_ad_no=0;pix.demo_ad_sig=null;pix.checklogin_version=2;pix.nocache=0;</script> <script src="//api.pixnet.cc/api/checklogin.php?js=1&amp;unique=2010645464&amp;timestamp=1494335426&amp;type=3" type="text/javascript"></script> <script src="//s.pixfs.net/js/pixnet/checklogin.min.js?v=a6326ea8e9889028ca630f7d933f7007" type="text/javascript"></script><link
+rel="search" type="application/opensearchdescription+xml" href="//mainpage.pixfs.net/opensearch.xml" title="PIXNET"> <script type="text/javascript" src="//libs.pixfs.net/swfobject/1.5/swfobject.js"></script> <script type="text/javascript" src="//mainpage.pixfs.net/js/mainpage.min.js?v=a6326ea8e9889028ca630f7d933f7007"></script> <script type="text/javascript" src="//s.pixfs.net/ad/js/ad.min.js?v=a6326ea8e9889028ca630f7d933f7007"></script> <link
+rel="shortcut icon" href="/favicon.ico"><meta
+name="application-name" content="痞客邦 PIXNET"><meta
+name="msapplication-task" content="name=發表文章;action-uri=http://panel.pixnet.cc/blog/articlenew;icon-uri=http://mainpage.pixfs.net/indexicon/jumplist/favicon-b-newarticle.ico"><meta
+name="msapplication-task" content="name=上傳圖片;action-uri=http://panel.pixnet.cc/album/albumupload;icon-uri=http://mainpage.pixfs.net/indexicon/jumplist/favicon-b-uploadimage.ico"><meta
+name="msapplication-task" content="name=好友動態;action-uri=http://panel.pixnet.cc/friend/news;icon-uri=http://mainpage.pixfs.net/indexicon/jumplist/favicon-b-friend.ico"> <script type="text/javascript" src="//mainpage.pixfs.net/js/ie9.js?v=a6326ea8e9889028ca630f7d933f7007"></script> <script type="text/javascript">jQuery(function(){mainpage.initie9();});</script> </head><body
+class=""> <script type="text/javascript">_atrk_opts={atrk_acct:"H00Mh1aIE700wg",domain:"pixnet.net",dynamic:true};(function(){var as=document.createElement('script');as.type='text/javascript';as.async=true;as.src="https://d31qbv1cthcecs.cloudfront.net/atrk.js";var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as,s);})();</script> <noscript><img
+src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=H00Mh1aIE700wg" style="display:none" height="1" width="1" alt="" /></noscript><div
+id="homepage-prompt" style="display: none;">
+<button
+id="hide-homepage-prompt">x</button>
+<span>常常來這裡嗎？ 把 痞客邦 PIXNET 設為首頁吧 ?</span>
+<button
+id="add-pixnet-homepage" class="btn">好</button>
+<button
+id="cancel-homepage" class="btn">不用了，謝謝</button></div>
+<IE:HOMEPAGE ID="oHomePage" /><div
+id="navigation-wapper"><div
+id="new-navigation"><ul
+id="nav-bar"><li
+class="tab mainpage active"><a
+id="new-nav-mainpage" href="http://www.pixnet.net"><span>首頁</span></a></li><li
+class="tab blog "><a
+id="new-nav-blog" href="http://www.pixnet.net/blog"><span>部落格</span></a></li><li
+class="tab sport-group ">
+<a
+id="new-nav-sport-tab" class="tab-link" href="http://channel.pixnet.net/sport"><span>運動邦</span></a></li><li
+class="tab beauty-group ">
+<a
+class="tab-link" id="new-nav-makeup-tab" href="//styleme.pixnet.net/home?utm_source=pixnet&utm_medium=home_navbar&utm_campaign=pixnet_to_home"><span>PIXstyleMe 美妝時尚</span></a></li><li
+class="tab tech3c ">
+<a
+class="tab-link" id="new-nav-tech3c-tab" href="//tech3c.pixnet.net/?utm_source=PIXNET-index&utm_medium=desktop&utm_campaign=TOPBAR_to_tech3c"><span>3C</span></a></li><li
+class="tab movie ">
+<a
+class="tab-link" id="new-nav-movie-tab" href="//movie.pixnet.net/category/19?utm_source=PIXNET-index&utm_medium=desktop&utm_campaign=TOPBAR_to_movie"><span>電影</span></a></li><li
+class="tab travel ">
+<a
+class="tab-link" id="new-nav-travel-tab" href="//travel.pixnet.net/?utm_source=PIXNET-index&utm_medium=desktop&utm_campaign=TOPBAR_to_travel"><span>旅遊</span></a></li><li
+class="tab family ">
+<a
+class="tab-link" id="new-nav-family-tab" href="//family.pixnet.net/?utm_source=PIXNET-index&utm_medium=desktop&utm_campaign=TOPBAR_to_family"><span>親子</span></a></li><li
+class="tab food ">
+<a
+class="tab-link" id="new-nav-food-tab" href="//food.pixnet.net/?utm_source=PIXNET-index&utm_medium=desktop&utm_campaign=TOPBAR_to_food"><span>美食</span></a></li><li
+class="tab more-channel"><a
+id="new-nav-more-tab" href="#"><span>更多</span></a><ul
+class="nav-channel-list"><li
+class="service"><a
+id="new-nav-blogranking" href="https://blogranking.events.pixnet.net/"><span>社群影響力</span></a></li><li
+class="service"><a
+id="new-nav-appmarket" href="http://appmarket.pixnet.tw"><span>應用市集</span></a></li><li
+class="service"><a
+id="new-nav-mobile" href="http://www.pixnet.net/mobile"><span>手機APPS</span></a></li><li
+class="service"><a
+id="new-nav-admin-blog" href="http://admin.pixnet.net/blog"><span>站方公告</span></a></li><li
+class="service"><a
+id="new-nav-events" href="http://channel.pixnet.net/events"><span>好康活動</span></a></li><li
+class="service"><a
+id="new-nav-help" href="http://help.pixnet.tw"><span>客服中心</span></a></li><li
+class="service"><a
+id="new-nav-inpo" href="http://inpo.pixnet.net/blog"><span>公益家</span></a></li><li
+class="service"><a
+id="new-nav-pixinsight" href="//www.pixinsight.com.tw/"><span>PIXinsight</span></a></li></ul></li></ul><div
+class="topbar__nav"><div
+class="topbar__search-container"><div
+class="topbar__search__toggle-btn"></div><form
+class="topbar__search" id="topbar__search" action="//www.pixnet.net/searcharticle" target="_search">
+<input
+type="text" name="q" class="topbar__search__input topbar__search__input--large topbar__search__input--no-icon" id="topbar__search__input" placeholder="哈囉～你今天想搜尋什麼關鍵字呢？" value="" maxlength="32" tabindex="1" autocomplete="off">
+<button
+type="reset" class="topbar__search__reset">×</button><div
+class="topbar__search__btns topbar__search__btns--large">
+<button
+class="topbar__search__submit" name="search" type="submit" title="找文章" value="searcharticle" tabindex="2" data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335426&random=2135039606&check=3513852103&no_timeout=1&data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22search-articles-click%22%2C%22no_timeout%22%3Atrue%7D">找文章</button>
+<button
+class="topbar__search__submit" name="search" type="submit" title="找部落客" value="searchblog" tabindex="3" data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335426&random=1382376433&check=4023189831&no_timeout=1&data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22search-bloggers-click%22%2C%22no_timeout%22%3Atrue%7D">找部落客</button></div><ul
+class="topbar__search__suggestion"></ul></form></div><div
+class="topbar__user">
+<a
+class="topbar__user__login" id="topbar__user__login" href="https://panel.pixnet.cc/login/openid?done=https%3A%2F%2Fwww.pixnet.net%2F&amp;openid=https%3A%2F%2Fmember.pixnet.cc%2Flogin&amp;easy_login=1&amp;from_service=Blog">登入</a></div></div> <script src="//front.pixfs.net/module/topbar/js/blogtopbar.min.js" defer></script> </div></div><div
+style="display:none;"></div><div
+id="container1"><div
+id="container2"><div
+id="container3"><div
+id="header"><h1 id="pixnet">
+<a
+href="/"><span>痞客邦 PIXNET</span></a></h1><form
+action="/searcharticle" id="search">
+<input
+type="text" name="q" class="search__input" id="search__input" required
+placeholder="哈囉～你今天想搜尋什麼關鍵字呢？" value="" maxlength="32" tabindex="1" autocomplete="off"><button
+type="reset" class="search__reset">×</button><div
+class="search__btns"><div
+class="search__types">
+<button
+class="search__submit" name="search" type="submit" title="go go search" value="searcharticle" data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335426&random=2341931310&check=414800600&no_timeout=1&data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22search-articles-click%22%2C%22no_timeout%22%3Atrue%7D" tabindex="2">找文章</button>
+<button
+class="search__submit" name="search" type="submit" title="go go search" value="searchblog" data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335426&random=2066494561&check=3929467734&no_timeout=1&data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22search-bloggers-click%22%2C%22no_timeout%22%3Atrue%7D" tabindex="3">找部落客</button></div>
+<a
+href="###" class="search__switcher" id="search__switcher">選擇</a></div><div
+class="hot-tag">
+<a
+class="trace-click" href="//www.pixnet.net/searcharticle?q=%E9%80%9A%E9%9D%88%E5%B0%91%E5%A5%B3" data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335426&random=551105121&check=2242279537&no_timeout=1&data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22mainpage-hotkeywords-3262-2%22%2C%22no_timeout%22%3Atrue%7D">通靈少女</a>, <a
+class="trace-click" href="//www.pixnet.net/searcharticle?q=%E5%A0%B1%E7%A8%85" data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335426&random=2424519573&check=1152220857&no_timeout=1&data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22mainpage-hotkeywords-3262-0%22%2C%22no_timeout%22%3Atrue%7D">報稅</a>, <a
+class="trace-click" href="//www.pixnet.net/searcharticle?q=%E6%B2%96%E7%B9%A9" data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335426&random=4033830735&check=2649422709&no_timeout=1&data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22mainpage-hotkeywords-3262-1%22%2C%22no_timeout%22%3Atrue%7D">沖繩</a></div><div
+class="search__error hide">
+＊由於您的關鍵字字數過長，將僅針對您輸入的前32字進行搜尋。</div></form><ul
+id="fox"><li>
+<a
+href="http://www.pixnet.net/newdirect.php?aid=" id="fox-link1" class="fox-link" target="_blank"></a></li><li>
+<a
+href="http://www.pixnet.net/newdirect.php?aid=" id="fox-link2" class="fox-link" target="_blank"></a></li><li>
+<a
+href="http://www.pixnet.net/newdirect.php?aid=" id="fox-link3" class="fox-link" target="_blank"></a></li><li>
+<a
+href="http://www.pixnet.net/newdirect.php?aid=" id="fox-link4" class="fox-link" target="_blank"></a></li></ul></div><div
+id="release"><div
+id="info">
+<span>情報：</span></div><div
+id="announce" class="announce">
+<span>站方公告：</span>
+<a
+href="http://admin.pixnet.net/blog/post/44896549-%5b%e5%85%ac%e5%91%8a%5d-google-%e6%90%9c%e5%b0%8b%e5%95%8f%e9%a1%8c" class="announce-item" target="_blank">[公告] Google 搜尋問題</a><a
+href="http://admin.pixnet.net/blog/post/44612551-%5b%e5%85%ac%e5%91%8a%5d-%e7%97%9e%e5%ae%a2%e9%82%a6%e5%b8%b3%e8%99%9f%e8%a8%bb%e5%86%8a-%e7%99%bb%e5%85%a5%e6%b5%81%e7%a8%8b%e8%aa%bf%e6%95%b4%e4%bb%8b%e7%b4%b9" class="announce-item hide" target="_blank">[公告] 痞客邦帳號註冊/登入流程調整介紹</a><a
+href="http://admin.pixnet.net/blog/post/44606311-%5b%e5%85%ac%e5%91%8a%5d-2017%e5%b9%b4%e5%ba%a6%e8%be%b2%e6%9b%86%e6%98%a5%e7%af%80%e6%9c%9f%e9%96%93%e6%9c%8d%e5%8b%99%e5%85%ac%e5%91%8a" class="announce-item hide" target="_blank">[公告] 2017年度農曆春節期間服務公告</a><a
+href="http://admin.pixnet.net/blog/post/44587246-%5b%e5%85%ac%e5%91%8a%5d-%e6%9c%8d%e5%8b%99%e6%a2%9d%e6%ac%be%e7%95%b0%e5%8b%95%e5%85%ac%e5%91%8a" class="announce-item hide" target="_blank">[公告] 服務條款異動公告</a><a
+href="http://admin.pixnet.net/blog/post/43800091-%5b%e5%85%ac%e5%91%8a%5d-%e7%97%9e%e5%ae%a2%e9%82%a6%e7%9b%b8%e7%b0%bf%e6%9c%8d%e5%8b%99%e4%b9%8b%e3%80%8c%e9%9d%9e%e7%b6%b2%e9%a0%81%e4%b8%8a%e5%82%b3%e8%bb%9f%e9%ab%94%e3%80%8d" class="announce-item hide" target="_blank">[公告] 痞客邦相簿服務之「非網頁上傳軟體」將...</a><a
+href="http://admin.pixnet.net/blog/post/43345138-%5b%e5%85%ac%e5%91%8a%5d-%e7%97%9e%e5%ae%a2%e9%82%a6-pixnet-mib-%28money-in-blog%29-%e9%83%a8%e8%90%bd%e6%a0%bc%e5%bb%a3" class="announce-item hide" target="_blank">[公告] 痞客邦 PIXNET MIB (MONEY IN BLOG) 部...</a>        <a
+target="_blank" class="more" href="http://admin.pixnet.net/blog">+</a></div></div><div
+id="main"><div
+id="content"><div
+id="featured">
+<a
+class="trace-click"
+href="http://pixchelin.pixnet.net/blog/post/308513917"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335155&random=4280129003&check=597693744&no_timeout=1&data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22topic-19912-indexclick%22%2C%22no_timeout%22%3Atrue%7D"
+id="feature-link"
+target="_blank"><div
+id="feature-box"><ul
+id="feature-box-ul"><li
+data-title="帶媽媽吃好料！痞其林熱烈推薦，母親節秘策提案！"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335155&random=3187326275&check=2232659106&no_timeout=1&data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22topic-19912-indexclick%22%2C%22no_timeout%22%3Atrue%7D"
+data-href="http://pixchelin.pixnet.net/blog/post/308513917"
+data-countdown="0">
+<img
+src="https://s.pimg.tw/album/pixchelin/element/99890136_1493890941-839677770/zoomcrop/590x393.jpg"
+alt="帶媽媽吃好料！痞其林熱烈推薦，母親節秘策提案！"
+width="590"
+height="393" /></li><li
+data-title="搞懂底妝色號怎麼挑！SUQQU全試色全價目總整理"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335155&random=2861372060&check=57440384&no_timeout=1&data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22topic-19867-indexclick%22%2C%22no_timeout%22%3Atrue%7D"
+data-href="https://styleme.pixnet.net/post/215681321"
+data-countdown="0">
+<img
+src="https://s.pimg.tw/album/lovely/element/321928516_1493293309-1226795860/zoomcrop/590x393.jpg"
+alt="搞懂底妝色號怎麼挑！SUQQU全試色全價目總整理"
+width="590"
+height="393" /></li><li
+data-title="甜蜜到讓人直呼好想談戀愛：《喜歡你》"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335155&random=879540082&check=357249661&no_timeout=1&data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22topic-19915-indexclick%22%2C%22no_timeout%22%3Atrue%7D"
+data-href="http://applause29.pixnet.net/blog/post/341844843"
+data-countdown="0">
+<img
+src="https://s.pimg.tw/album/misspixnet/element/312591447_1494227469-437096907/zoomcrop/590x393.jpg"
+alt="甜蜜到讓人直呼好想談戀愛：《喜歡你》"
+width="590"
+height="393" /></li></ul></div><div
+id="feature-countdown"></div><div
+id="feature-title">
+<span
+id="feature-title-span">帶媽媽吃好料！痞其林熱烈推薦，母親節秘策提案！</span></div>
+</a><div
+id="feature-select">
+<a
+class="current" href=""><span></span></a>
+<a
+href=""><span></span></a>
+<a
+href=""><span></span></a></div></div><div
+class="ad" id="ad-content-1"></div><div
+class="bin" id="topic"><div
+class="bin-title"><h2><span>社群影響力</span></h2><div
+class="more">
+<a
+href="http://blogranking.events.pixnet.net">看更多</a></div></div><div
+class="bin-main"><div
+id="topic-left-switch">
+<a
+id="smartranking-star-left-switch" href="">left-switch</a></div><div
+id="topic-right-switch">
+<a
+id="smartranking-star-right-switch" href="">right-switch</a></div><div
+id="topic-list"><div ><a
+target="_blank"
+class="trace-click current"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=2595905773&amp;check=2788242621&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22topic--mainpageclick-avatar%22%2C%22no_timeout%22%3Atrue%7D"
+href="https://www.pixnet.net/blog/profile/murasakikuma"><ul
+class="topic-user-grid"><li
+class="topic-user-avator">
+<img
+src="//s9.pimg.tw/avatar/murasakikuma/0/0/resize/92x0.png?v=1402064142" width="92" height="92"></li><li
+class="topic-user-name">
+紫熊</li></ul>
+</a><a
+target="_blank"
+class="trace-click current"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=3667693225&amp;check=4177611649&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22topic--mainpageclick-avatar%22%2C%22no_timeout%22%3Atrue%7D"
+href="https://www.pixnet.net/blog/profile/john547"><ul
+class="topic-user-grid"><li
+class="topic-user-avator">
+<img
+src="//s6.pimg.tw/avatar/john547/0/0/resize/92x0.png?v=1479369115" width="92" height="92"></li><li
+class="topic-user-name">
+小約翰</li></ul>
+</a><a
+target="_blank"
+class="trace-click current"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=2827220750&amp;check=2704182286&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22topic--mainpageclick-avatar%22%2C%22no_timeout%22%3Atrue%7D"
+href="https://www.pixnet.net/blog/profile/drugs"><ul
+class="topic-user-grid"><li
+class="topic-user-avator">
+<img
+src="//s6.pimg.tw/avatar/drugs/0/0/resize/92x0.png?v=1450543523" width="92" height="92"></li><li
+class="topic-user-name">
+藥師吉米</li></ul>
+</a><a
+target="_blank"
+class="trace-click current"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=2264429125&amp;check=3769538360&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22topic--mainpageclick-avatar%22%2C%22no_timeout%22%3Atrue%7D"
+href="https://www.pixnet.net/blog/profile/jasmine0620"><ul
+class="topic-user-grid"><li
+class="topic-user-avator">
+<img
+src="//s9.pimg.tw/avatar/jasmine0620/0/0/resize/92x0.png?v=1374894789" width="92" height="92"></li><li
+class="topic-user-name">
+潔思米</li></ul>
+</a><a
+target="_blank"
+class="trace-click hide"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=477310520&amp;check=751365188&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22topic--mainpageclick-avatar%22%2C%22no_timeout%22%3Atrue%7D"
+href="https://www.pixnet.net/blog/profile/as660707"><ul
+class="topic-user-grid"><li
+class="topic-user-avator">
+<img
+src="//s8.pimg.tw/avatar/as660707/0/0/resize/92x0.png?v=1369706338" width="92" height="92"></li><li
+class="topic-user-name">
+小玉兒</li></ul>
+</a><a
+target="_blank"
+class="trace-click hide"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=2772008313&amp;check=3984745287&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22topic--mainpageclick-avatar%22%2C%22no_timeout%22%3Atrue%7D"
+href="https://www.pixnet.net/blog/profile/wenkaiin"><ul
+class="topic-user-grid"><li
+class="topic-user-avator">
+<img
+src="//s8.pimg.tw/avatar/wenkaiin/0/0/resize/92x0.png?v=1485308859" width="92" height="92"></li><li
+class="topic-user-name">
+雨立今</li></ul>
+</a><a
+target="_blank"
+class="trace-click hide"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=2936520584&amp;check=4063741251&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22topic--mainpageclick-avatar%22%2C%22no_timeout%22%3Atrue%7D"
+href="https://www.pixnet.net/blog/profile/kakakuksk"><ul
+class="topic-user-grid"><li
+class="topic-user-avator">
+<img
+src="//s6.pimg.tw/avatar/kakakuksk/0/0/resize/92x0.png?v=1433999926" width="92" height="92"></li><li
+class="topic-user-name">
+凱子凱株式會攝</li></ul>
+</a><a
+target="_blank"
+class="trace-click hide"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=4125133478&amp;check=486376212&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22topic--mainpageclick-avatar%22%2C%22no_timeout%22%3Atrue%7D"
+href="https://www.pixnet.net/blog/profile/kelsy310"><ul
+class="topic-user-grid"><li
+class="topic-user-avator">
+<img
+src="//s3.pimg.tw/avatar/kelsy310/0/0/resize/92x0.png?v=1322458532" width="92" height="92"></li><li
+class="topic-user-name">
+凱西</li></ul>
+</a></div></div></div></div></div><div
+id="side"><div
+class="box login" id="login-1"><div
+class="box-title">
+登入<a
+class="forgot-password" href="//www.pixnet.net/forgetpwd/step1?utm_source=pixnet_index&utm_medium=loginarea&utm_campaign=forgetpwd">忘記密碼？</a></div><div
+class="box-text login-box" id="loginbox-login"><form
+action="https://www.pixnet.net/login" method="POST"><input
+type="hidden" value="" name="done">
+<input
+type="hidden" value="6b158c7c93a18cef088325ac05e7314d" name="sToken"><div
+class="login-normal"><div
+class="login-bar"><div
+class="hello-block"><p>Hi，您好</p><p>歡迎使用痞客邦！</p></div>
+<a
+class="btn btn-register" href="//member.pixnet.cc/register" role="button">快速註冊</a>
+<a
+class="btn btn-login" href="https://panel.pixnet.cc/login/openid?done=https%3A%2F%2Fwww.pixnet.net&openid=https%3A%2F%2Fmember.pixnet.cc%2Flogin&easy_login=1&from_service=Blog" role="button">登入</a></div></div><div
+class="login-switch">
+<a
+class="switch-openid loginbox-switch" id="switch-openid" href="">使用社群帳號登入</a></div></form></div><div
+class="box-text login-box hide" id="loginbox-openid"><div
+class="login-openid-bar"><ul><li>
+<a
+class="loginbox-switch" href="https://panel.pixnet.cc/login/openid?done=https%3A%2F%2Fwww.pixnet.net&openid=https%3A%2F%2Fmember.pixnet.cc%2Flogin&easy_login=1&from_service=Blog" title="使用痞客邦 PIXNET 帳號登入"><img
+src="//mainpage.pixfs.net/index/images/openid-button-pixnet.png" alt="PIXNET Icon"></a></li><li>
+<a
+class="popup-login" id="popuplogin-google-500-450" href="https://panel.pixnet.cc/login/googlepluslogin?done=http%3A%2F%2Fwww.pixnet.net%2Flogin%2Fopeniddone%3Fdone%3D" title="使用 Google 帳號登入"><img
+src="//mainpage.pixfs.net/index/images/openid-button-google.png" alt="PIXNET Icon"></a></li><li>
+<a
+class="popup-login" id="popuplogin-facebook-650-650" href="https://panel.pixnet.cc/login/facebooklogin?done=http%3A%2F%2Fwww.pixnet.net%2Flogin%2Fopeniddone%3Fdone%3D&easy_login=1" title="使用 Facebook 帳號登入或註冊"><img
+src="//mainpage.pixfs.net/index/images/openid-button-facebook.png" alt="Facebook Icon"></a></li><li>
+<a
+class="popup-login" id="popuplogin-live-650-650" href="https://panel.pixnet.cc/login/livelogin?done=http%3A%2F%2Fwww.pixnet.net%2Flogin%2Fopeniddone%3Fdone%3D" title="使用 Windows Live (MSN) 帳號登入或註冊"><img
+src="//mainpage.pixfs.net/index/images/openid-button-live.png" alt="Windows Live Icon"></a></li><li>
+<a
+class="popup-login" id="popuplogin-yahoo-500-450" href="https://panel.pixnet.cc/login/openid?done=http%3A%2F%2Fwww.pixnet.net%2Flogin%2Fopeniddone%3Fdone%3D&openid=https%3A%2F%2Fme.yahoo.com%2F" title="使用 Yahoo! 帳號登入或註冊"><img
+src="//mainpage.pixfs.net/index/images/openid-button-yahoo.png" alt="Yahoo Icon"></a></li></ul></div><div
+class="login-switch">
+<a
+class="switch-normal loginbox-switch" id="switch-normal" href="">一般登入／快速註冊</a></div></div></div><div
+class="box" id="activity"><div
+class="box-title">
+<span>最新活動</span><div
+class="more">
+<a
+href="http://channel.pixnet.net/events">看更多活動</a></div></div><div
+class="box-text"><ul
+class="activity-grid"><li
+class="activity-photo">
+<a
+href="http://channel.pixnet.net/newdirect.php?type=event&amp;serial=7030&amp;url=https%3A%2F%2Fquestionnaire.pixnet.net%2Fform%2Fshow%2F1084" target="_blank"><img
+src="//pic.pimg.tw/eventblog/1494212256-1215747601.png" /></a></li><li
+class="activity-title">
+<a
+href="http://channel.pixnet.net/newdirect.php?type=event&amp;serial=7030&amp;url=https%3A%2F%2Fquestionnaire.pixnet.net%2Fform%2Fshow%2F1084" target="_blank">日本原裝玻尿酸原液</a></li><li
+class="activity-time">
+<a
+href="http://channel.pixnet.net/newdirect.php?type=event&amp;serial=7030&amp;url=https%3A%2F%2Fquestionnaire.pixnet.net%2Fform%2Fshow%2F1084" target="_blank">2017/05/08 ~ 2017/05/14</a></li><li
+class="activity-desc">
+<a
+href="http://channel.pixnet.net/newdirect.php?type=event&amp;serial=7030&amp;url=https%3A%2F%2Fquestionnaire.pixnet.net%2Fform%2Fshow%2F1084" target="_blank">【太陽社玻尿酸原液】試用招募!</a></li></ul><ul
+class="activity-grid"><li
+class="activity-photo">
+<a
+href="http://channel.pixnet.net/newdirect.php?type=event&amp;serial=7009&amp;url=https%3A%2F%2Fstyleme.events.pixnet.net%2Fmom201704%2F%3Futm_source%3DPIXNET%26utm_medium%3DIDX_event%26utm_campaign%3D2017mom" target="_blank"><img
+src="//pic.pimg.tw/lovely/1491902777-3193408855.jpg" /></a></li><li
+class="activity-title">
+<a
+href="http://channel.pixnet.net/newdirect.php?type=event&amp;serial=7009&amp;url=https%3A%2F%2Fstyleme.events.pixnet.net%2Fmom201704%2F%3Futm_source%3DPIXNET%26utm_medium%3DIDX_event%26utm_campaign%3D2017mom" target="_blank">母親節特惠整理報導</a></li><li
+class="activity-time">
+<a
+href="http://channel.pixnet.net/newdirect.php?type=event&amp;serial=7009&amp;url=https%3A%2F%2Fstyleme.events.pixnet.net%2Fmom201704%2F%3Futm_source%3DPIXNET%26utm_medium%3DIDX_event%26utm_campaign%3D2017mom" target="_blank">2017/04/10 ~ 2017/05/14</a></li><li
+class="activity-desc">
+<a
+href="http://channel.pixnet.net/newdirect.php?type=event&amp;serial=7009&amp;url=https%3A%2F%2Fstyleme.events.pixnet.net%2Fmom201704%2F%3Futm_source%3DPIXNET%26utm_medium%3DIDX_event%26utm_campaign%3D2017mom" target="_blank">投稿再抽千元美妝正貨</a></li></ul></div></div><div
+class="ad" id="ad-side-1"></div><div
+class="ad" id="ad-word"><div
+class="box-title">
+<span>熱門快訊</span></div><ul
+class="aw-list" id="ad-word-ul"></ul></div><div
+class="ad" id="ad-side-2"></div></div><div
+id="article-area"><div
+class="bin-title"><h2><span>熱門文章</span></h2><ul
+id="article-type-box" class="topic-tag"><li
+class="current">
+<a
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335427&amp;random=1292943413&amp;check=3557201879&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-type0-tab%22%2C%22no_timeout%22%3Atrue%7D"
+data-hash="#ad-pos-906"
+href="" data-systemcounter="//counter.pixplug.in/count.php?timestamp=1494335427&amp;random=3768050146&amp;check=1067805853&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22system-type0-tab%22%2C%22no_timeout%22%3Atrue%7D">今日最熱</a></li><li>
+<a
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335427&amp;random=3817588855&amp;check=3298541311&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-type2-tab%22%2C%22no_timeout%22%3Atrue%7D"
+data-hash="#ad-pos-912"
+href="" data-systemcounter="//counter.pixplug.in/count.php?timestamp=1494335427&amp;random=3690420441&amp;check=3151631278&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22system-type2-tab%22%2C%22no_timeout%22%3Atrue%7D">旅遊景點</a></li><li>
+<a
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335427&amp;random=1544202424&amp;check=2373402852&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-type3-tab%22%2C%22no_timeout%22%3Atrue%7D"
+data-hash="#ad-pos-915"
+href="" data-systemcounter="//counter.pixplug.in/count.php?timestamp=1494335427&amp;random=1875463304&amp;check=3735955281&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22system-type3-tab%22%2C%22no_timeout%22%3Atrue%7D">美食好料</a></li><li>
+<a
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335427&amp;random=3572615232&amp;check=3619215727&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-type7-tab%22%2C%22no_timeout%22%3Atrue%7D"
+data-hash="#ad-pos-960"
+href="" data-systemcounter="//counter.pixplug.in/count.php?timestamp=1494335427&amp;random=252674567&amp;check=1002078311&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22system-type7-tab%22%2C%22no_timeout%22%3Atrue%7D">圖文幻想</a></li><li>
+<a
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335427&amp;random=3067171873&amp;check=3551748585&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-type1-tab%22%2C%22no_timeout%22%3Atrue%7D"
+data-hash="#ad-pos-909"
+href="" data-systemcounter="//counter.pixplug.in/count.php?timestamp=1494335427&amp;random=921894206&amp;check=1295522379&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22system-type1-tab%22%2C%22no_timeout%22%3Atrue%7D">流行焦點</a></li><li>
+<a
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335427&amp;random=4031960793&amp;check=2922668498&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-type4-tab%22%2C%22no_timeout%22%3Atrue%7D"
+data-hash="#ad-pos-951"
+href="" data-systemcounter="//counter.pixplug.in/count.php?timestamp=1494335427&amp;random=126917800&amp;check=653509431&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22system-type4-tab%22%2C%22no_timeout%22%3Atrue%7D">溫馨媽寶</a></li><li>
+<a
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335427&amp;random=3567668639&amp;check=2266738681&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-type8-tab%22%2C%22no_timeout%22%3Atrue%7D"
+data-hash="#ad-pos-963"
+href="" data-systemcounter="//counter.pixplug.in/count.php?timestamp=1494335427&amp;random=1911859585&amp;check=2181757633&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22system-type8-tab%22%2C%22no_timeout%22%3Atrue%7D">數位生活</a></li><li>
+<a
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335427&amp;random=719732295&amp;check=651425267&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-type5-tab%22%2C%22no_timeout%22%3Atrue%7D"
+data-hash="#ad-pos-954"
+href="" data-systemcounter="//counter.pixplug.in/count.php?timestamp=1494335427&amp;random=874133110&amp;check=2198962043&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22system-type5-tab%22%2C%22no_timeout%22%3Atrue%7D">運動場上</a></li><li>
+<a
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335427&amp;random=1723788054&amp;check=563796352&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-type6-tab%22%2C%22no_timeout%22%3Atrue%7D"
+data-hash="#ad-pos-957"
+href="" data-systemcounter="//counter.pixplug.in/count.php?timestamp=1494335427&amp;random=1900186757&amp;check=701503588&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22system-type6-tab%22%2C%22no_timeout%22%3Atrue%7D">寵物日記</a></li><li
+class="expand-tag">
+<a
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335427&amp;random=2569161495&amp;check=290302662&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-column-tab-448%22%2C%22no_timeout%22%3Atrue%7D"
+href="" data-systemcounter="//counter.pixplug.in/count.php?timestamp=1494335427&amp;random=918238832&amp;check=2034541148&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22system-column-tab-448%22%2C%22no_timeout%22%3Atrue%7D">產業新知</a></li></ul></div><div
+id="article-stream"><div
+class="pane "><div
+class="article-grid article-large native-ad-0">
+<a
+href="http://goris.pixnet.net/blog/post/43592040-%e7%9c%9f%e5%bf%83%e8%a9%b1%e5%ae%8c%e6%95%b4%e5%88%86%e6%9e%90%ef%bc%81%e9%9b%85%e8%a9%a9%e8%98%ad%e9%bb%9b%e7%b2%89%e6%8c%81%e4%b9%85%e5%ae%8c%e7%be%8e%e6%8c%81%e5%a6%9d%e7%b2%89"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335155&amp;random=1617915683&amp;check=161295652&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-0-43592040-1874898%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335155&amp;random=1298911103&amp;check=2301710037&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-0-43592040-1874898%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/goris/element/322234501_1494239546-1211942407/zoomcrop/350x263.jpg" width="350" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>真心話完整分析！雅詩蘭黛粉持久完美持妝粉底VS.ARMANI完美絲絨水慕斯粉底</h2></div>
+</a></div><div
+class="article-grid article-mid ">
+<a
+href="http://chrysie.pixnet.net/blog/post/114683444"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335155&amp;random=2084202690&amp;check=3115795810&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-0-114683444-2628254%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335155&amp;random=4100726614&amp;check=3551682480&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-0-114683444-2628254%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="//imageproxy.pimg.tw/zoomcrop?url=https%3A%2F%2Fmulderkuo.smugmug.com%2FChrysie%2FBlog%2FANOVA-steak%2Fn-LLfgkd%2Fi-nJJ4Dkv%2F0%2FX3%2Fi-nJJ4Dkv-X3.jpg&amp;width=230&amp;height=263" width="230" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>老公的廚房玩具：ANOVA舒肥機零失敗煎牛排方法＋C</h2></div>
+</a></div><div
+class="article-grid article-small ">
+<a
+href="http://kevinzhoutw.pixnet.net/blog/post/437595436"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335155&amp;random=2143492085&amp;check=3748773490&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-0-437595436-4056173%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335155&amp;random=3505536907&amp;check=476577629&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-0-437595436-4056173%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/kevinzhoutw/element/202388904_1444304498-633487066/zoomcrop/170x173.jpg" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>一個原則，就搞懂化妝的先後順序！</h2></div>
+</a></div><div
+class="article-grid article-small ">
+<a
+href="http://a59407908.pixnet.net/blog/post/117262606"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335155&amp;random=3439938182&amp;check=2408514205&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-0-117262606-3001821%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335155&amp;random=2700882015&amp;check=4095372962&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-0-117262606-3001821%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="//imageproxy.pimg.tw/zoomcrop?url=https%3A%2F%2Ffarm5.staticflickr.com%2F4181%2F33722085613_8c845f0fcb_c.jpg&amp;width=170&amp;height=173" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>[嘉義東區]嘉義在地老字號牛肉麵，再熱都要吃！麵</h2></div>
+</a></div><div
+class="article-grid article-large ">
+<a
+href="http://niniblue.pixnet.net/blog/post/222376389"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335155&amp;random=826213076&amp;check=2619464757&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-0-222376389-3661910%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335155&amp;random=230066129&amp;check=26297768&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-0-222376389-3661910%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="//imageproxy.pimg.tw/zoomcrop?url=https%3A%2F%2Ffarm5.staticflickr.com%2F4180%2F34423548866_0b1964254f_b.jpg&amp;width=350&amp;height=263" width="350" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>【台中夜景餐廳】綠朵休閒農場，台中沙鹿 龍井夜景景觀餐廳，有大草皮、沙坑、...</h2></div>
+</a></div><div
+class="article-grid article-mid ">
+<a
+href="http://shuanselean.pixnet.net/blog/post/458725679"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335155&amp;random=796964676&amp;check=455524932&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-0-458725679-4220554%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335155&amp;random=1623305870&amp;check=1933049937&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-0-458725679-4220554%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/shuanselean/element/227699083_1493834674-2789763199/zoomcrop/230x263.jpg" width="230" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>◊ 蚵仔控別錯過 無名 無招牌 超神秘、超隱㶓版小</h2></div>
+</a></div><div
+class="article-grid article-small ">
+<a
+href="http://evshhips.pixnet.net/blog/post/341768937"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335155&amp;random=357161193&amp;check=1082463268&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-0-341768937-5014722%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335155&amp;random=2502384919&amp;check=2369831064&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-0-341768937-5014722%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/evshhips/element/683657589_1494141890-3933015287/zoomcrop/170x173.jpg" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>【哈比親子景觀露營地】天阿!我到底看到了什麼 這</h2></div>
+</a></div><div
+class="article-grid article-small native-ad">
+<a
+href="http://ttbbgo.pixnet.net/blog/post/148035287-%e5%ba%9c%e5%9f%8e%e5%9b%9b%e5%a4%a7%e5%90%8d%e9%a4%83%28%e9%8d%8b%e8%b2%bc%29%ef%bc%8c%e8%ae%93%e4%ba%ba%e9%ad%82%e7%89%bd%e5%a4%a2%e7%b8%88%e7%9a%84%e5%82%b3%e5%a5%87%e9%8d%8b"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335155&amp;random=463946004&amp;check=9947208&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-0-148035287-6516196%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335155&amp;random=1829767336&amp;check=1195502039&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-0-148035287-6516196%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/ttbbgo/element/99618972_1493724203-2246734803/zoomcrop/170x173.jpg" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>府城四大名餃(鍋貼)，讓人魂牽夢縈的傳奇鍋貼</h2></div>
+</a></div></div><div
+class="pane hide"><div
+class="article-grid article-large native-ad-2">
+<a
+href="http://s045488.pixnet.net/blog/post/425650136-%5b%e6%a1%83%e5%9c%92%e6%97%85%e9%81%8a%e6%99%af%e9%bb%9e%5d-%e4%b8%ad%e5%b9%b3%e8%b7%af%e6%95%85%e4%ba%8b%e9%a4%a8%e2%99%a5%e4%b8%ad%e5%a3%a2%e6%96%b0%e4%ba%ae%e9%bb%9e-"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335160&amp;random=539598031&amp;check=1649517294&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-2-425650136-4056974%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335160&amp;random=2589213504&amp;check=1888993175&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-2-425650136-4056974%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="//imageproxy.pimg.tw/zoomcrop?url=https%3A%2F%2Ffarm1.staticflickr.com%2F366%2F18378059762_6b3b893415_z.jpg&amp;width=350&amp;height=263" width="350" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>[桃園旅遊景點] 中平路故事館♥中壢新亮點/車水馬龍內隱藏著復古懷舊的日式氛圍~</h2></div>
+</a></div><div
+class="article-grid article-mid ">
+<a
+href="http://wkitty.tw/blog/post/33252214"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335160&amp;random=3695633309&amp;check=2431251979&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-2-33252214-659976%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335160&amp;random=88183612&amp;check=3077426336&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-2-33252214-659976%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/wkitty/element/295734510_1426049983-883935101/zoomcrop/230x263.jpg" width="230" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>【曼谷(12)】Red Sky Bar，曼谷一定要去的高空酒</h2></div>
+</a></div><div
+class="article-grid article-small ">
+<a
+href="http://dav0611.pixnet.net/blog/post/37540664"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335160&amp;random=3697490855&amp;check=2480147486&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-2-37540664-528802%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335160&amp;random=2487426075&amp;check=437149814&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-2-37540664-528802%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="//imageproxy.pimg.tw/zoomcrop?url=http%3A%2F%2Fi1.wp.com%2Fwww.tw-sh.com%2Fdavidwin%2Fwp-content%2Fuploads%2F2012%2F06%2Fmap_thumb.jpg%3Fresize%3D477%2C357&amp;width=170&amp;height=173" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>【上海|預告】迪士尼6/16開幕</h2></div>
+</a></div><div
+class="article-grid article-small ">
+<a
+href="http://stevenhgm.pixnet.net/blog/post/39926056-%e6%96%b0%e7%ab%b9%e5%b0%96%e7%9f%b3_%e7%be%8e%e6%a8%b9%e7%87%9f%e5%9c%b0%e8%b3%9e%e6%a5%93-%282%29"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335160&amp;random=2130039381&amp;check=1544234344&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-2-39926056-4410429%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335160&amp;random=782150675&amp;check=999148473&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-2-39926056-4410429%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/stevenhgm/element/470389413_1387894842-1217674167/zoomcrop/170x173.jpg" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>新竹尖石_美樹營地賞楓 (2)</h2></div>
+</a></div><div
+class="article-grid article-large ">
+<a
+href="http://shebw.pixnet.net/blog/post/42037225"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335160&amp;random=2319046621&amp;check=275705556&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-2-42037225-227734%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335160&amp;random=3497722103&amp;check=626510912&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-2-42037225-227734%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/shebw/element/287741185_1424876308-2475134506/zoomcrop/350x263.jpg" width="350" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>[2015東京血拚]日本正夯，連日本人都指定購買的戰利品-Panasonic EH-NA96吹風機</h2></div>
+</a></div><div
+class="article-grid article-mid ">
+<a
+href="http://tingyu6876.pixnet.net/blog/post/358591664"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335160&amp;random=1245672264&amp;check=2771344869&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-2-358591664-4421044%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335160&amp;random=4046089272&amp;check=907910346&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-2-358591664-4421044%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/tingyu6876/element/503926626_1395147703-219230251/zoomcrop/230x263.jpg" width="230" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>雲林。虎尾星巴克、虎尾鴨蛋糕、蛋糕咖啡館</h2></div>
+</a></div><div
+class="article-grid article-small ">
+<a
+href="http://mika0310.pixnet.net/blog/post/192091893"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335160&amp;random=3865548480&amp;check=134432421&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-2-192091893-3032948%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335160&amp;random=2740004226&amp;check=2896662520&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-2-192091893-3032948%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="//imageproxy.pimg.tw/zoomcrop?url=https%3A%2F%2Ffarm8.staticflickr.com%2F7498%2F15976344530_52813905f4_z.jpg&amp;width=170&amp;height=173" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>『韓國首爾』2014年首爾秋遊八天七夜自助行-推薦</h2></div>
+</a></div><div
+class="article-grid article-small native-ad">
+<a
+href="http://ironlotus168.pixnet.net/blog/post/413305447"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335160&amp;random=3971457327&amp;check=4256403828&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-2-413305447-4370301%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335160&amp;random=4207571366&amp;check=2141532255&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-2-413305447-4370301%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/ironlotus168/element/580367347_1425998136-2224006071/zoomcrop/170x173.jpg" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>日本遊．倉敷民宿Cuore Kurashiki Hostel Café&amp;Ba</h2></div>
+</a></div></div><div
+class="pane hide"><div
+class="article-grid article-large native-ad-3">
+<a
+href="http://char.tw/blog/post/42033230-%e5%8f%b0%e5%8c%97%e7%89%9b%e8%82%89%e9%ba%b5%e8%a1%97%e5%a4%a7%e6%90%9c%e6%9f%a5"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335160&amp;random=4043080934&amp;check=2079648558&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-3-42033230-1912893%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335160&amp;random=4198181482&amp;check=872948624&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-3-42033230-1912893%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/dinosaurs/element/299379039_1433950387-2262649054/zoomcrop/350x263.jpg" width="350" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>台北牛肉麵街大搜查</h2></div>
+</a></div><div
+class="article-grid article-mid ">
+<a
+href="http://mimg47.pixnet.net/blog/post/4923584"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=265831556&amp;check=3559023480&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-3-4923584-2575219%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=1055131841&amp;check=1836053232&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-3-4923584-2575219%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/mimg47/element/282087937_1412682902-2947797582/zoomcrop/230x263.jpg" width="230" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>【台南美食】叮盤美式餐館Tin Pan`s Diner：小北</h2></div>
+</a></div><div
+class="article-grid article-small ">
+<a
+href="http://anrine910070.pixnet.net/blog/post/167885829"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=358129416&amp;check=3195198930&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-3-167885829-3386592%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=2204211529&amp;check=3593910912&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-3-167885829-3386592%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/anrine910070/element/137562044_1384868447-3575285633/zoomcrop/170x173.jpg" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>【台北】：雪飛詩歐廚（Shaffer's Kitchen）♥ 鎮</h2></div>
+</a></div><div
+class="article-grid article-small ">
+<a
+href="http://colonel466.pixnet.net/blog/post/110754019"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=722192146&amp;check=4278383185&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-3-110754019-2650022%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=1144024878&amp;check=1071985285&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-3-110754019-2650022%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/colonel466/element/291268216_1432522156-3795631025/zoomcrop/170x173.jpg" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>【宅配】曾拌麵(香蔥椒麻)</h2></div>
+</a></div><div
+class="article-grid article-large ">
+<a
+href="http://ckaori66.pixnet.net/blog/post/40349560"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=304607811&amp;check=889673021&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-3-40349560-123687%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=4232056259&amp;check=4220376298&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-3-40349560-123687%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/ckaori66/element/148104162_1392107273-3919180740/zoomcrop/350x263.jpg" width="350" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>[新竹竹北中式料理+火鍋]坊間小館-銅鍋煙囪炭火燒.炭火酸菜白肉鍋</h2></div>
+</a></div><div
+class="article-grid article-mid ">
+<a
+href="http://orangeru.pixnet.net/blog/post/371918042"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=52788350&amp;check=2199864000&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-3-371918042-4379572%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=3476694396&amp;check=3712498263&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-3-371918042-4379572%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/orangeru/element/516555261_1399551479-3841305189/zoomcrop/230x263.jpg" width="230" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>桃園中壢。美食。超人氣無菜單日本料理→坐著做 す</h2></div>
+</a></div><div
+class="article-grid article-small ">
+<a
+href="http://keeat.pixnet.net/blog/post/79242124-%e5%91%b7%e4%ba%8c%e5%98%b4"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=3729467559&amp;check=271805586&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-3-79242124-3912933%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=2836595621&amp;check=2962006987&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-3-79242124-3912933%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/keeat/element/72162816_1367730518-1565433738/zoomcrop/170x173.jpg" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>夏天到了來吃冰吧-呷二嘴@大稻埕@大橋頭站</h2></div>
+</a></div><div
+class="article-grid article-small native-ad">
+<a
+href="http://nana0032458.pixnet.net/blog/post/408429844"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=1656066181&amp;check=2780666101&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-3-408429844-3977530%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=3350489856&amp;check=3907698729&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-3-408429844-3977530%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/nana0032458/element/187104462_1422848873-3763632171/zoomcrop/170x173.jpg" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>【苗栗美食。苗栗市咖啡店】自在咖啡館cozy cafe</h2></div>
+</a></div></div><div
+class="pane hide"><div
+class="article-grid article-large native-ad-7">
+<a
+href="http://ikumisa.pixnet.net/blog/post/60229537"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=1505268684&amp;check=2389856911&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-7-60229537-2400426%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=1828617142&amp;check=1532301110&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-7-60229537-2400426%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/ikumisa/element/295480710_1425615838-3816835007/zoomcrop/350x263.jpg" width="350" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>《說了愛之後》試閱-第一章（3）</h2></div>
+</a></div><div
+class="article-grid article-mid ">
+<a
+href="http://elephantwhite.pixnet.net/blog/post/59434036"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=2216179056&amp;check=335775561&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-7-59434036-2113006%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=458404578&amp;check=3443362177&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-7-59434036-2113006%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/elephantwhite/element/291841482_1417574083-4021435977/zoomcrop/230x263.jpg" width="230" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>獨立出版做自己--「簪花司命」的十年言小創作路</h2></div>
+</a></div><div
+class="article-grid article-small ">
+<a
+href="http://panex.pixnet.net/blog/post/201546541"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=2481662881&amp;check=1744820686&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-7-201546541-3084092%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=2661308230&amp;check=197415690&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-7-201546541-3084092%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/panex/element/198422916_1438032625-1710413436/zoomcrop/170x173.jpg" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>流逝的歲月</h2></div>
+</a></div><div
+class="article-grid article-small ">
+<a
+href="http://mioavian.pixnet.net/blog/post/43120039"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=3043551235&amp;check=2440832383&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-7-43120039-880858%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=3852851450&amp;check=2884157181&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-7-43120039-880858%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/mioavian/element/278530218_1395740156-2161955228/zoomcrop/170x173.jpg" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>誰說身高不是問題?</h2></div>
+</a></div><div
+class="article-grid article-large ">
+<a
+href="http://ayeah3713883.pixnet.net/blog/post/308877593"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=3212727172&amp;check=3099999753&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-7-308877593-4523286%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=1496864732&amp;check=2213919034&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-7-308877593-4523286%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/ayeah3713883/element/406366383_1384938789-1872932057/zoomcrop/350x263.jpg" width="350" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>多肉植物-玉葉 Sedum Stahlii</h2></div>
+</a></div><div
+class="article-grid article-mid ">
+<a
+href="http://book4e.pixnet.net/blog/post/104159062"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=673855654&amp;check=526214357&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-7-104159062-2807355%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=1819639153&amp;check=2255545932&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-7-104159062-2807355%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/book4e/element/312232449_1492755381-3911887609/zoomcrop/230x263.jpg" width="230" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>典藏閣不思議工作室．小說徵稿資訊 (2017/4/21更</h2></div>
+</a></div><div
+class="article-grid article-small ">
+<a
+href="http://yuzaho1014.pixnet.net/blog/post/251393146"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=3520902012&amp;check=3889531290&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-7-251393146-5428271%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=1266023976&amp;check=2731476095&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-7-251393146-5428271%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/yuzaho1014/element/568760074_1420474363-1596185382/zoomcrop/170x173.jpg" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>2015-1-5無價</h2></div>
+</a></div><div
+class="article-grid article-small native-ad">
+<a
+href="http://katelyn.pixnet.net/blog/post/30435944"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=2394114463&amp;check=1353241028&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-7-30435944-449809%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=3879872361&amp;check=2102606691&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-7-30435944-449809%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/katelyn/element/282311197_1413162591-3329763142/zoomcrop/170x173.png" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>【草莓不沾黏的上色技巧】</h2></div>
+</a></div></div><div
+class="pane hide"><div
+class="article-grid article-extralarge native-ad-1">
+<a
+href="http://goris.pixnet.net/blog/post/41315015"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=4196152737&amp;check=893802257&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-1-41315015-1874898%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=4100943763&amp;check=2511882532&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-1-41315015-1874898%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/goris/element/284210376_1404749419-3286268007/zoomcrop/350x263.jpg" width="350" height="263" alt="" /></div><div
+class="article-brief img-ok"><div
+class="img-ok-box"><h2>CHANEL完美親膚輕盈絲絨粉底VS.LANCOME/輕爽、方</h2><p>在4月份得知CHANEL即將推出這款全新粉底液後，確實是相當期待，這畢竟是繼2012年CHANEL推出完美無瑕親膚粉底液後，排除掉2013年更新升級亞洲限定的珍珠光感淨白防曬粉底液SPF30 / PA+++後，近兩年來全新的全球性粉底液新作品，畢竟2013年新升級的珍珠光感淨白防曬粉底液SPF30 / PA+++在亞洲區也沒...</p></div></div>
+</a></div><div
+class="article-grid article-small ">
+<a
+href="http://goris.pixnet.net/blog/post/41570270"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=3241912658&amp;check=3017435653&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-1-41570270-1874898%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335161&amp;random=1753167811&amp;check=100482959&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-1-41570270-1874898%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/goris/element/288372207_1411055945-2631964514/zoomcrop/170x173.jpg" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>2014新光三越台北南西店週年慶預購會攻略及注意事</h2></div>
+</a></div><div
+class="article-grid article-small ">
+<a
+href="http://brendachien.pixnet.net/blog/post/199935153"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=177988047&amp;check=3422264456&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-1-199935153-3518592%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=1253894280&amp;check=3445871078&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-1-199935153-3518592%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/brendachien/element/196411299_1434985483-3346781301/zoomcrop/170x173.jpg" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>&lt;Hair&gt; 開箱! 手殘女都能輕鬆上手的~Misstic魔杖</h2></div>
+</a></div><div
+class="article-grid article-extramid ">
+<a
+href="http://simour.pixnet.net/blog/post/30206730"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=1545242410&amp;check=2058199090&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-1-30206730-453137%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=3765513230&amp;check=842143815&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-1-30206730-453137%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/simour/element/278238472_1405568726-1301901623/zoomcrop/190x263.jpg" width="190" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>[沐浴] 茉莉控必試。Bath &amp; Bloom 泰國</h2></div>
+</a></div><div
+class="article-grid article-extramid ">
+<a
+href="http://imsandra.pixnet.net/blog/post/30746167"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=1796661997&amp;check=1358800507&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-1-30746167-1861032%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=4067743783&amp;check=2575486337&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-1-30746167-1861032%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/imsandra/element/296804730_1428169536-1649467652/zoomcrop/190x263.jpg" width="190" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>【媽媽愛漂亮】不化妝出門也漂亮！睫毛</h2></div>
+</a></div><div
+class="article-grid article-extramid spe ">
+<a
+href="http://www.loiswonderland.com/blog/post/198009111"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=3341507308&amp;check=2375846555&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-1-198009111-3551483%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=2392567511&amp;check=4134128412&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-1-198009111-3551483%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="//imageproxy.pimg.tw/zoomcrop?url=https%3A%2F%2Ffarm8.staticflickr.com%2F7725%2F17144998980_78da588395_o.jpg&amp;width=190&amp;height=263" width="190" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>【穿搭】夏天就要長洋‧三款Silver Lini</h2></div>
+</a></div><div
+class="article-grid article-small ">
+<a
+href="http://hsiaobao.pixnet.net/blog/post/61299559"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=1554689848&amp;check=3746003186&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-1-61299559-2039698%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=3524391409&amp;check=2900789966&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-1-61299559-2039698%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="//imageproxy.pimg.tw/zoomcrop?url=https%3A%2F%2Ffarm4.staticflickr.com%2F3696%2F19350053134_1b5f67ffc6_c.jpg&amp;width=170&amp;height=173" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>[化化妝] 夏天就是要藍色眼妝啊！不然要畫啥？</h2></div>
+</a></div><div
+class="article-grid article-small native-ad">
+<a
+href="http://babymamama.pixnet.net/blog/post/26250601"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=3812283969&amp;check=881077849&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-1-26250601-3058217%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=1842968415&amp;check=2836094972&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-1-26250601-3058217%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/babymamama/element/30200742_1336705793-640383133/zoomcrop/170x173.jpg" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>[敗家] 國際牌 奈米離子吹風機EH-NA30</h2></div>
+</a></div></div><div
+class="pane hide"><div
+class="article-grid article-extralarge native-ad-4">
+<a
+href="http://gier1023.pixnet.net/blog/post/44791753"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=1010523590&amp;check=683203529&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-4-44791753-635349%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=717275691&amp;check=836069915&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-4-44791753-635349%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/gier1023/element/297195234_1428993798-1591064341/zoomcrop/350x263.jpg" width="350" height="263" alt="" /></div><div
+class="article-brief img-ok"><div
+class="img-ok-box"><h2>超多用途的的費雪牌聲光健身器</h2><p>馬妞妞滿月的時候，收到安勤阿姨們合送的禮物費雪牌 古典音樂 聲光健身器經過一年的體驗，發現真的很好用呢小的時候，躺著玩  會坐了，可以坐著按鍵盤還可以跟姐姐一起玩   會站了，可以拿來墊腳，方便爬到隔壁找姊姊     哎呀...被發現啦.  其實最大的功用是....   當成桌子趴著睡覺 哈哈哈..是...</p></div></div>
+</a></div><div
+class="article-grid article-small ">
+<a
+href="http://babywt.pixnet.net/blog/post/109031635"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=873799382&amp;check=2817677728&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-4-109031635-2932364%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=2913631251&amp;check=2318507039&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-4-109031635-2932364%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/babywt/element/186854976_1422501998-4038806458/zoomcrop/170x173.jpg" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>【揪團購】超舒服保暖PLAYBOY系列細柔毛毯珊瑚絨</h2></div>
+</a></div><div
+class="article-grid article-small ">
+<a
+href="http://wowohoworkshop.pixnet.net/blog/post/262237777"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=4259854184&amp;check=911480603&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-4-262237777-4589810%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=976066211&amp;check=1571602725&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-4-262237777-4589810%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/wowohoworkshop/element/575174242_1423402532-2184921224/zoomcrop/170x173.jpg" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>童安的義賣 家家淨朗丶人人祥和　（活動結束，謝</h2></div>
+</a></div><div
+class="article-grid article-extramid ">
+<a
+href="http://bluesky525.pixnet.net/blog/post/41921161"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=3796782578&amp;check=3023108399&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-4-41921161-1918265%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=246312215&amp;check=2243804235&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-4-41921161-1918265%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/bluesky525/element/293636280_1421395070-363607795/zoomcrop/190x263.jpg" width="190" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>《育兒記錄》綠藤生機-寶貝TOUCHING沐</h2></div>
+</a></div><div
+class="article-grid article-extramid ">
+<a
+href="http://naughtyangel.pixnet.net/blog/post/22180430"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=4034584547&amp;check=815580008&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-4-22180430-860558%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=1528663745&amp;check=1039826802&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-4-22180430-860558%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/naughtyangel/element/101706200_48e2d7384d84d/zoomcrop/190x263.jpg" width="190" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>親子玩具：煮飯組</h2></div>
+</a></div><div
+class="article-grid article-extramid spe ">
+<a
+href="http://jewy75.pixnet.net/blog/post/285991927"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=642704157&amp;check=1283483324&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-4-285991927-4975714%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=3376290412&amp;check=2232613858&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-4-285991927-4975714%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/jewy75/element/593698357_1431938161-2266018030/zoomcrop/190x263.jpg" width="190" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>【育兒經】愛客薰(action)發高燒之玫瑰</h2></div>
+</a></div><div
+class="article-grid article-small ">
+<a
+href="http://taobaby99.pixnet.net/blog/post/104118412"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=742819310&amp;check=1987152987&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-4-104118412-2749472%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=1362778249&amp;check=730795313&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-4-104118412-2749472%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/taobaby99/element/174732831_1336001905-1140124054/zoomcrop/170x173.png" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>Taobaby 濤寶日記 - 好用，透氣的日本製剖腹產專</h2></div>
+</a></div><div
+class="article-grid article-small native-ad">
+<a
+href="http://rita121012.pixnet.net/blog/post/273571633"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=512247720&amp;check=4016654606&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-4-273571633-4937821%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=4052353770&amp;check=1679931142&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-4-273571633-4937821%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/rita121012/element/584288005_1427703891-1407552915/zoomcrop/170x173.jpg" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>【雙瑀。好物】Hape愛傑卡2015新品  薰衣草紫色廚</h2></div>
+</a></div></div><div
+class="pane hide"><div
+class="article-grid article-extralarge native-ad-8">
+<a
+href="http://sinko1203.pixnet.net/blog/post/376126052"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=1664958737&amp;check=1184854027&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-8-376126052-3909021%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=197645043&amp;check=1879505372&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-8-376126052-3909021%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/sinko1203/element/170089686_1405046255-3412983691/zoomcrop/350x263.jpg" width="350" height="263" alt="" /></div><div
+class="article-brief img-ok"><div
+class="img-ok-box"><h2>隨時隨地享受海量的數位書籍雜誌吧！！--Kollect</h2><p>然而愛看書愛看文章的我，有時也想待在家看看書吸收知識（外面太陽太大真的懶得出門） 而最近就在用一款頗屌的電子書APP-Kollect輯卷坊雲端電子書 這款APP軟體可以說是功能方便、書籍齊全啊！！！！！ 有時拿著ipad玩這款體可以玩上一整天～～～ 打開Kollect輯卷坊雲端電子書，首頁就是一整排的好...</p></div></div>
+</a></div><div
+class="article-grid article-small ">
+<a
+href="http://ferrari627.pixnet.net/blog/post/41530312"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=142127629&amp;check=1989187858&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-8-41530312-253079%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=1338487865&amp;check=2169759629&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-8-41530312-253079%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="//imageproxy.pimg.tw/zoomcrop?url=https%3A%2F%2Ffarm6.staticflickr.com%2F5606%2F15362775787_6474824b1e_b.jpg&amp;width=170&amp;height=173" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>Anidees 50W 6 USB ＆5 USB 桌上型充電器｜開箱、</h2></div>
+</a></div><div
+class="article-grid article-small ">
+<a
+href="http://dacota.tw/blog/post/33578410"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=74652376&amp;check=331955128&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-8-33578410-745348%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=268336474&amp;check=3726028683&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-8-33578410-745348%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/dacota/element/301356510_1438188360-4150890681/zoomcrop/170x173.jpg" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>小米Note 開箱、評測、實拍照</h2></div>
+</a></div><div
+class="article-grid article-extramid ">
+<a
+href="http://stk3c.pixnet.net/blog/post/235502128"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=3041407703&amp;check=617964613&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-8-235502128-5072450%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=1975701430&amp;check=3426549443&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-8-235502128-5072450%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/stk3c/element/557587450_1415608399-3961702857/zoomcrop/190x263.jpg" width="190" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>還在為一時手殘摔到的iPhone 6 煩惱不</h2></div>
+</a></div><div
+class="article-grid article-extramid ">
+<a
+href="http://plamc.pixnet.net/blog/post/27343278"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=1591442128&amp;check=4189559888&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-8-27343278-792635%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=826910791&amp;check=1560872063&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-8-27343278-792635%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-brief img-none"><div
+class="img-none-box"><h2>[舊文回收]北洋海軍「主砲晾衣」攏是假</h2><p>(更多、更豐富的內容，請參閱新書《橡皮推翻了滿清》，秀威資訊出版)   詳情請參考： 陳悅《北洋海軍軍艦「主炮晾衣」說考辨》http://www.beiyang.org/wenku/wenku93.htm   在此僅幫忙摘錄重點1....</p></div></div>
+</a></div><div
+class="article-grid article-extramid spe ">
+<a
+href="http://argus0815.pixnet.net/blog/post/30106549"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=1635074894&amp;check=2795199076&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-8-30106549-1968306%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=254604539&amp;check=3666528320&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-8-30106549-1968306%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/argus0815/element/168329795_c0ba8fbde7513a6bab7e071cb561f948/zoomcrop/190x263.jpg" width="190" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>浴室暖風機好處功用多多！</h2></div>
+</a></div><div
+class="article-grid article-small ">
+<a
+href="http://tel3c.tw/blog/post/191041554"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=1793329722&amp;check=3889522790&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-8-191041554-3681295%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335162&amp;random=3488579728&amp;check=1519123951&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-8-191041554-3681295%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/tu0925399900/element/187467861_1423350415-2146131345/zoomcrop/170x173.jpg" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>各大電信預付卡最新行動上網優惠懶人包(2015/2)</h2></div>
+</a></div><div
+class="article-grid article-small native-ad">
+<a
+href="http://gophone.pixnet.net/blog/post/187761531"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335163&amp;random=2970983541&amp;check=2116764438&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-8-187761531-3340058%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335163&amp;random=966677866&amp;check=1248124419&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-8-187761531-3340058%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/gophone/element/177444543_1411985039-2504552895/zoomcrop/170x173.jpg" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>10月新機速報!!!!!!!!!!!!!!!!!!!!!!</h2></div>
+</a></div></div><div
+class="pane hide"><div
+class="article-grid article-extralarge native-ad-5">
+<a
+href="http://t0076076.pixnet.net/blog/post/42367549"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=4118022542&amp;check=681119187&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-5-42367549-1947260%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=642577538&amp;check=3820681116&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-5-42367549-1947260%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/t0076076/element/300793071_1437076582-3685654193/zoomcrop/350x263.jpg" width="350" height="263" alt="" /></div><div
+class="article-brief img-ok"><div
+class="img-ok-box"><h2>2015全國測量盃慢速壘球賽實施辦法及賽程表</h2><p>2015全國測量盃慢速壘球邀請賽實施辦法      目的：為增進地政及測量同仁間感情，培養團隊精神，         及正當休閒活動、發揚慢壘健康快樂精神。   主辦單位：中華民國地籍測量學會。   共同主辦單位：桃園市政府地政局。   協辦單位： 桃園市龍馬棒壘協會、富俋建設有限公司、            亞冠...</p></div></div>
+</a></div><div
+class="article-grid article-small ">
+<a
+href="http://shoudabike.pixnet.net/blog/post/408602260"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=1067721426&amp;check=3330759340&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-5-408602260-4465248%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=2245135432&amp;check=2630197026&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-5-408602260-4465248%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/shoudabike/element/574230145_1422938659-4004458376/zoomcrop/170x173.jpg" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>2/6 自行車環島 PROPEL準備好了!!!那車主呢?.....</h2></div>
+</a></div><div
+class="article-grid article-small ">
+<a
+href="http://nox2858236.pixnet.net/blog/post/261757294"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=1867627804&amp;check=1595809650&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-5-261757294-5035038%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=478753692&amp;check=1795179629&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-5-261757294-5035038%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/nox2858236/element/629968264_1452158271-960815473/zoomcrop/170x173.jpg" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>高雄2016年1月.寒假街舞課表(1/7最新整理)</h2></div>
+</a></div><div
+class="article-grid article-extramid ">
+<a
+href="http://imbc.pixnet.net/blog/post/278245015-%e3%80%8e%e6%98%a5%e5%ad%a3%e8%b3%bd%e3%80%8f%e8%95%ad%e9%a0%86%e8%ad%b0%e7%9c%9f%e4%ba%ba%e7%89%88%e7%81%8c%e7%b1%83%e9%ab%98%e6%89%8b%ef%bc%8c%e5%8a%a9%e7%90%83%e9%9a%8a%e4%ba%8c"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=40015664&amp;check=1286672242&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-5-278245015-4562214%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=3352413746&amp;check=3559583373&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-5-278245015-4562214%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/imbc/element/588791998_1429484669-3954269407/zoomcrop/190x263.jpg" width="190" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>『春季賽』蕭順議真人版灌籃高手，助球</h2></div>
+</a></div><div
+class="article-grid article-extramid ">
+<a
+href="http://beckysxsworld.pixnet.net/blog/post/398464330-%e7%be%8e%e9%a3%9f%e5%92%8c%e5%81%a5%e8%ba%ab%ef%bc%8c%e5%85%a9%e4%ba%ba%e4%b8%8d%e5%88%86%e6%89%8b"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=4255151958&amp;check=681377843&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-5-398464330-4467071%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=2912303858&amp;check=1596000658&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-5-398464330-4467071%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/beckysxsworld/element/558930988_1416141340-2504790710/zoomcrop/190x263.jpg" width="190" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>美食和健身，兩人不分手</h2></div>
+</a></div><div
+class="article-grid article-extramid spe ">
+<a
+href="http://chuanyusports.pixnet.net/blog/post/39575976"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=871917394&amp;check=2070429840&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-5-39575976-5607940%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=2151022039&amp;check=1814648547&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-5-39575976-5607940%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/chuanyusports/element/1670092_1433079365-2300122325/zoomcrop/190x263.jpg" width="190" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>參加教練科學研習談論舉重運動對爆發力</h2></div>
+</a></div><div
+class="article-grid article-small ">
+<a
+href="http://ottocat.pixnet.net/blog/post/30451972"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=451298835&amp;check=241204061&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-5-30451972-427893%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=2025223647&amp;check=1667446562&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-5-30451972-427893%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/ottocat/element/282597937_1413734807-3278650448/zoomcrop/170x173.jpg" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>充斥著各式口罩的北京馬拉松</h2></div>
+</a></div><div
+class="article-grid article-small native-ad">
+<a
+href="http://avonlee1114.pixnet.net/blog/post/423890720"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=4199162588&amp;check=3847632535&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-5-423890720-4478806%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=3465244734&amp;check=1688480872&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-5-423890720-4478806%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/avonlee1114/element/598201648_1434273813-2501465606/zoomcrop/170x173.jpg" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>(青少棒)104年華南金控盃15U青少棒賽6/1~14in台灣</h2></div>
+</a></div></div><div
+class="pane hide"><div
+class="article-grid article-large native-ad-6">
+<a
+href="http://twmartin.pixnet.net/blog/post/42043274-martin%e7%9a%84%e8%a8%98%e4%ba%8b%e6%9c%ac%ef%bc%8dmartin%60s-note-%2315--%e7%b0%a1%e5%96%ae%ef%bc%8c%e5%b0%b1%e8%83%bd%e6%8a%8a"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=1971198157&amp;check=3605950814&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-6-42043274-1882427%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=3466982274&amp;check=689261674&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-6-42043274-1882427%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="//imageproxy.pimg.tw/zoomcrop?url=https%3A%2F%2Ffbcdn-sphotos-e-a.akamaihd.net%2Fhphotos-ak-xfa1%2Fv%2Ft1.0-9%2F10413316_959009494117250_20804599958248529_n.jpg%3Foh%3Dddff1a730f90520f96c6dadcd26e9611%26oe%3D55790AB7%26__gda__%3D1434385922_7bad4d1b591d3191e41e1306f121f316&amp;width=350&amp;height=263" width="350" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>Martin的記事本－Martin`s note #15  簡單，就能把養好（二）</h2></div>
+</a></div><div
+class="article-grid article-mid ">
+<a
+href="http://candy331204.pixnet.net/blog/post/34961753"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=3322560627&amp;check=686179343&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-6-34961753-2401149%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=1162116497&amp;check=2135196308&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-6-34961753-2401149%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/candy331204/element/179471246_1312820454-b25a82f54073f76e3ac12a327f18cbc5/zoomcrop/230x263.jpg" width="230" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>幫狗寶貝訂製一個狗樓梯吧!</h2></div>
+</a></div><div
+class="article-grid article-small ">
+<a
+href="http://meisfurkid.pixnet.net/blog/post/272593696-%e5%af%b5%e7%89%a9%e8%b3%87%e8%a8%8a%e5%88%86%e4%ba%ab--%e7%8b%97%e7%8b%97%e4%b8%8d%e5%96%9c%e6%ad%a1%e4%bd%a0%e5%81%9a%e7%9a%8410%e4%bb%b6%e4%ba%8b"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=2923067859&amp;check=2803366693&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-6-272593696-5308952%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=1647880243&amp;check=2150444847&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-6-272593696-5308952%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="//imageproxy.pimg.tw/zoomcrop?url=http%3A%2F%2Fhoootspot.com%2Fimg%2Faid379646_1.jpeg&amp;width=170&amp;height=173" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>寵物資訊分享- 狗狗不喜歡你做的10件事</h2></div>
+</a></div><div
+class="article-grid article-small ">
+<a
+href="http://chen64327.pixnet.net/blog/post/422605897"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=2150998550&amp;check=3450699659&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-6-422605897-4409461%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=3487789932&amp;check=2478956884&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-6-422605897-4409461%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/chen64327/element/591708544_1430881053-2101945121/zoomcrop/170x173.jpg" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>2015-05-01-51勞動節之二訪杉林溪【Cocker可卡】</h2></div>
+</a></div><div
+class="article-grid article-large ">
+<a
+href="http://wowokitchen.pixnet.net/blog/post/248437495-%e7%ac%a8%e7%ac%a8%e7%8b%97%e7%a8%ae-%e5%b9%be%e7%a8%ae%e8%b6%85%e7%ac%a8%e8%b6%85%e5%8f%af%e6%84%9b%e7%9a%84%e7%8b%97%e7%8b%97-%28%e7%bf%bb%e8%ad%afvet-stree"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=727480369&amp;check=1419927138&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-6-248437495-5430319%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=3276486543&amp;check=1269286873&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-6-248437495-5430319%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/wowokitchen/element/639025465_1458700518-1279727890/zoomcrop/350x263.jpg" width="350" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>笨笨狗種-幾種超笨超可愛的狗狗 (翻譯Vet Street)</h2></div>
+</a></div><div
+class="article-grid article-mid ">
+<a
+href="http://bear651009.pixnet.net/blog/post/297915551"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=975314208&amp;check=764817356&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-6-297915551-4653823%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=196547539&amp;check=757427074&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-6-297915551-4653823%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/bear651009/element/605841124_1437996540-269765923/zoomcrop/230x263.jpg" width="230" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>我的皇冠黑白種母群，我追我的夢，一直以來，最愛</h2></div>
+</a></div><div
+class="article-grid article-small ">
+<a
+href="http://dokidoki168.pixnet.net/blog/post/394648598"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=1452084891&amp;check=2812330671&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-6-394648598-4419577%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=2859659016&amp;check=1462918984&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-6-394648598-4419577%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="https://s.pimg.tw/album/dokidoki168/element/551768722_1413289453-699382749/zoomcrop/170x173.jpg" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>高雄鳳山 「S麻寵物美容院(原桑尼小舖寵物spa游泳</h2></div>
+</a></div><div
+class="article-grid article-small native-ad">
+<a
+href="http://yoyozora.pixnet.net/blog/post/32926108"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=2420334417&amp;check=338037624&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-6-32926108-710263%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=3875754172&amp;check=2537965258&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-6-32926108-710263%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="//imageproxy.pimg.tw/zoomcrop?url=http%3A%2F%2Ffarm6.static.flickr.com%2F5610%2F15445646680_fd2cfbfb73_c.jpg&amp;width=170&amp;height=173" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>《筆記本》外婆特製潔牙棒(?)</h2></div>
+</a></div></div><div
+class="pane hide"><div
+class="article-grid article-large ">
+<a
+href="http://eventblog.pixnet.net/blog/post/65436925"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=99582870&amp;check=3121857660&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-column-3322%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=3464613016&amp;check=217820033&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-column-3322%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="//imageproxy.pimg.tw/zoomcrop?url=http%3A%2F%2Fpic.pimg.tw%2Fmisspixnet%2F1493808659-976972397.jpg%3Fv%3D1493808663&amp;width=350&amp;height=263" width="350" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>花王行動環保展開跑！舉手之勞做環保</h2></div>
+</a></div><div
+class="article-grid article-mid ">
+<a
+href="http://eventblog.pixnet.net/blog/post/65405353"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=3950946028&amp;check=2495961019&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-column-3325%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=1577740117&amp;check=47099562&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-column-3325%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="//imageproxy.pimg.tw/zoomcrop?url=http%3A%2F%2Fpic.pimg.tw%2Fmisspixnet%2F1493267994-1532051064.jpg%3Fv%3D1493268024&amp;width=230&amp;height=263" width="230" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>懷舊時尚新飲品：大人的青春期-烏梅汁</h2></div>
+</a></div><div
+class="article-grid article-small ">
+<a
+href="http://eventblog.pixnet.net/blog/post/65377429"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=3825208204&amp;check=1821534681&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-column-3328%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=3195461051&amp;check=1455203322&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-column-3328%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="//imageproxy.pimg.tw/zoomcrop?url=http%3A%2F%2Fpic.pimg.tw%2Fmisspixnet%2F1493808660-970522613.jpg%3Fv%3D1493808663&amp;width=170&amp;height=173" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>奇先生妙小姐的夏日冒險</h2></div>
+</a></div><div
+class="article-grid article-small ">
+<a
+href="http://eventblog.pixnet.net/blog/post/65405971"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=1207391398&amp;check=1903762916&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-column-3331%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=2374036419&amp;check=810269936&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-column-3331%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="//imageproxy.pimg.tw/zoomcrop?url=http%3A%2F%2Fpic.pimg.tw%2Fmisspixnet%2F1493267998-1937777646.jpg%3Fv%3D1493268024&amp;width=170&amp;height=173" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>周湯豪首支飲料代言</h2></div>
+</a></div><div
+class="article-grid article-large ">
+<a
+href="http://eventblog.pixnet.net/blog/post/65396953"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=4165001422&amp;check=719668372&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-column-3334%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=1957733330&amp;check=4012612059&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-column-3334%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="//imageproxy.pimg.tw/zoomcrop?url=http%3A%2F%2Fpic.pimg.tw%2Fmisspixnet%2F1493267998-1084243748.jpg%3Fv%3D1493268024&amp;width=350&amp;height=263" width="350" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>全聯號召百人華山大草原做早餐</h2></div>
+</a></div><div
+class="article-grid article-mid ">
+<a
+href="http://eventblog.pixnet.net/blog/post/65402782"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=3710921546&amp;check=26969667&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-column-3337%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=687396099&amp;check=2201970642&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-column-3337%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="//imageproxy.pimg.tw/zoomcrop?url=http%3A%2F%2Fpic.pimg.tw%2Fmisspixnet%2F1493267999-3875479790.jpg%3Fv%3D1493268024&amp;width=230&amp;height=263" width="230" height="263" alt="" /></div><div
+class="article-brief img-ok"><h2>北非狂想，即刻開始感受慾望的顏色</h2></div>
+</a></div><div
+class="article-grid article-small ">
+<a
+href="http://eventblog.pixnet.net/blog/post/65407177"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=4087878771&amp;check=2301245300&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-column-3340%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=2584222931&amp;check=4191377931&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-column-3340%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="//imageproxy.pimg.tw/zoomcrop?url=http%3A%2F%2Fpic.pimg.tw%2Fmisspixnet%2F1493267999-1712691335.jpg%3Fv%3D1493268024&amp;width=170&amp;height=173" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>碧兒泉男仕貝克漢最新形象廣告</h2></div>
+</a></div><div
+class="article-grid article-small ">
+<a
+href="http://eventblog.pixnet.net/blog/post/65407189"
+target="_blank"
+class="trace-click"
+data-counterlink="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=1206155755&amp;check=1363606594&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-column-3343%22%2C%22no_timeout%22%3Atrue%7D"
+data-showcounter="//counter.pixplug.in/count.php?timestamp=1494335164&amp;random=2584378596&amp;check=2664196649&amp;no_timeout=1&amp;data[counter]=%7B%22tag_id%22%3A30%2C%22id%22%3A%22article-content-show-column-3343%22%2C%22no_timeout%22%3Atrue%7D"
+><div
+class="article-image">
+<img
+src="//imageproxy.pimg.tw/zoomcrop?url=http%3A%2F%2Fpic.pimg.tw%2Fmisspixnet%2F1493268000-2005795096.jpg%3Fv%3D1493268024&amp;width=170&amp;height=173" width="170" height="173" alt="" /></div><div
+class="article-brief img-ok"><h2>全新涼感丹寧Cool Jeans</h2></div>
+</a></div></div><div
+id="video" class="hide"></div><div
+id="native-ad" class="hide"></div></div></div><div
+id="bottomitem"><div
+class="ad" id="ad-content-2"></div><div
+class="ad" id="topic-channel"><div
+class="box-title">
+<span>痞客推薦</span></div><ul
+class="tc-list" id="tc-list-ul"><li
+id="tc-list-ul-left"></li><li
+id="tc-list-ul-middle"></li><li
+id="tc-list-ul-right"></li></ul></div></div></div><div
+id="footer"><p><a
+href="//member.pixnet.cc/register">免費註冊</a> | <a
+href="//www.pixnet.net/regulation">服務條款</a> | <a
+href="//www.pixnet.net/privacy">隱私權政策</a> | <a
+href="//www.pixnet.net/sitemap">網站導覽</a> | <a
+href="http://help.pixnet.tw">客服中心</a> | <a
+href="//www.pixnet.net/contact">聯絡我們</a> | <a
+href="http://emkt.pixnet.net/blog" target="_blank">行銷合作</a> | <a
+href="http://developer.pixnet.pro" target="_blank">開發人員(API)</a> | <a
+href="//www.pixnet.net/career">徵才訊息</a> | <a
+href="//www.pixnet.net/static/pdf/rule.pdf">第二類電信營業規章</a> | <a
+href="https://www.cmh.com.tw/sub_net.htm" target="_blank">城邦集團</a></p><div
+class="copyright">Copyright &copy; 2003 - 2017 <a
+href="/"><img
+src="//mainpage.pixfs.net/index/images/footer_logo.png" align="absmiddle" width="122" height="26"></a> 優像數位媒體科技(股)公司</div></div> <script type="text/javascript">if(window!==window.parent){window.location.href='https://www.pixnet.net/';}</script> <div
+id="extradiv8"></div><div
+id="extradiv7"></div><div
+id="extradiv6"></div><div
+id="extradiv5"></div></div><div
+id="extradiv4"></div><div
+id="extradiv3"></div><div
+id="extradiv2"></div><div
+id="extradiv1"></div></div></div> <script type="text/javascript">(function($){$('#ad-text').mouseover(function(){pix.ad_load(212);});pix.ad_load_func=pix.ad_load_func||[];pix.ad_load_func[207]=function(embedid){var pushdown=$('<div></div>');var ad_type=pix.ad_extra_data[207];var ad_height=200;var ad_margin=0;if(ad_type==1){ad_height=495;ad_margin='-405px';$('#entry-1 .badge').hide();$('#entry-4 .badge').hide();}else{ad_height=200;ad_margin='-110px';$('#entry-4 .badge').hide();}
+pushdown.attr('id','pushdown');$('#featured').after(pushdown);pushdown.animate({height:90},'slow');var cover=$('<div></div>');cover.attr('id',"flashcontent_cover_"+embedid);cover.css('position','absolute').css('width','950px').css('height',ad_height+'px').css('padding','0').css('margin',ad_margin+' 0 0 0').css('z-index','9999');$('#pushdown').before(cover);var swf=$('#flashcontent_'+embedid+' embed').attr('src')||$('#flashcontent_'+embedid+' object').children('param[name=movie]').val();var so=new SWFObject(swf,"flashcover_"+embedid,"950",''+ad_height,"6","high");so.addParam("wmode","transparent");so.addParam("allowScriptAccess","always");so.addParam("scale","noscale");so.addParam("salign","lb");so.addVariable('fieldid','207');so.write("flashcontent_cover_"+embedid);var swf_interval=setInterval(function(){if(100==$('#'+"flashcover_"+embedid)[0].PercentLoaded()){$('#'+"flashcover_"+embedid)[0].TGotoLabel('/','open');clearInterval(swf_interval);}},50);};pix.ad_load_func[208]=function(embedid){$('#'+embedid).height(200);$('#ad-content-1').css('height','200px');};pix.ad_load_func[212]=function(embedid){$('#'+embedid).width(590);};pix.ad_load_func[226]=function(embedid){$('#'+embedid).width(250).height(70);};pix.ad_unload_func=pix.ad_unload_func||[];pix.ad_unload_func[226]=function(embedid){$('#'+embedid).width(250).height(30);};pix.ad_unload_func[207]=function(embedid){$('#pushdown').animate({height:0},'slow').remove();$('#flashcontent_cover_'+embedid).remove();if($('#'+embedid).length){$('#'+embedid)[0].TGotoLabel('/','close');}
+$('#entry-4 .badge').show();$('#entry-1 .badge').show();};pix.ad_unload_func[208]=function(embedid){$('#'+embedid).height(90);$('#ad-content-1').css('height','90px');};pix.ad_unload_func[212]=function(embedid){$('#'+embedid).width(200);};pix.ad_load_func[788]=function(embedid){jQuery('#'+embedid).height(350);jQuery("#main").animate({top:"0px"},1000);jQuery(".announce ").animate({top:"130px"},1000);jQuery("#info").animate({top:"130px"},1000);};pix.ad_unload_func[788]=function(embedid){jQuery('#'+embedid).height(100);jQuery("#main").animate({top:"90px"},1000);jQuery(".announce ").animate({top:"221px"},1000);jQuery("#info").animate({top:"221px"},1000);};})(jQuery);</script> <script>var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-20543617-1']);_gaq.push(['_trackPageview']);</script> <script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-408650-10'],['_setDetectTitle',false],['_setDomainName','none'],['_setVar','GUEST'],['_setVar','nonVIP'],['_trackPageview',"\/index\/bigIndex"],['_trackPageLoadTime']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://':'http://')+'stats.g.doubleclick.net/dc.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script> <script src="//s.pixanalytics.com/js/c.js"></script> <script>var _type='mainpage_index_new';try{_uCount();}catch(e){}</script> <script type="text/javascript">jQuery(function(){jQuery.getScript('//falcon.pixanalytics.com/ad/js?fields[]=none,252&fields[]=%3Einfo,347&fields[]=%3Einfo,349&fields[]=%3Einfo,639&fields[]=ad-content-1,208&fields[]=ad-side-1,207&fields[]=%3Ead-word-ul,351&fields[]=%3Ead-word-ul,353&fields[]=%3Ead-word-ul,355&fields[]=ad-side-2,217&fields[]=ad-content-2,211&fields[]=tc-list-ul-left,493&fields[]=tc-list-ul-middle,495&fields[]=tc-list-ul-right,497&fields[]=video,34&fields[]=.native-ad-0,906&fields[]=.native-ad-1,909&fields[]=.native-ad-2,912&fields[]=.native-ad-3,915&fields[]=.native-ad-4,951&fields[]=.native-ad-5,954&fields[]=.native-ad-6,957&fields[]=.native-ad-7,960&fields[]=.native-ad-8,963&fields[]=native-ad,897&fields[]=extradiv7,788');});</script> <script src="//libs.pixfs.net/yepnope.js/yepnope.1.5.4-min.js"></script> <script src="//mainpage.pixfs.net/index/js/scripts.min.js?v=a6326ea8e9889028ca630f7d933f7007"></script> <script>var index_type='index',container='container1';</script> <script src="//mainpage.pixfs.net/js/reload.js?v=a6326ea8e9889028ca630f7d933f7007"></script> <script src="//mainpage.pixfs.net/js/event.js?v=a6326ea8e9889028ca630f7d933f7007"></script> <script src="//mainpage.pixfs.net/js/jquery.scrolldepth.min.js?v=a6326ea8e9889028ca630f7d933f7007"></script> <script>$.scrollDepth();</script> <script src="//mainpage.pixfs.net/js/mixpanel-init.js?v=a6326ea8e9889028ca630f7d933f7007"></script> <script>var _piq=window._piq||[];_piq.push(['setCustomVar','venue','pixnet-mainpage'],['setCustomVar','visitor_id',window.pix.visitor],['trackPageView']);(function(d,t,u,f,j){f=d.getElementsByTagName(t)[0];j=d.createElement(t);j.async=1;j.src=u;f.parentNode.insertBefore(j,f);})(document,'script','https://s.pixanalytics.com/js/pi.min.js');</script></body></html>

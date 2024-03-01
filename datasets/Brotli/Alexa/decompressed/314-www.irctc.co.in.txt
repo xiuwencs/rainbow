@@ -1,0 +1,929 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-IN"><head><!--[if IE]> <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8;"></meta> <![endif]-->
+	<title>IRCTC Next Generation eTicketing System</title>
+   		<link rel="StyleSheet" href="resources/css/mee.min,32v.css" />
+
+	
+	
+	<script type="text/javascript">
+		/*<![CDATA[*/
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		
+		ga('create', 'UA-49954655-1', 'auto', {'sampleRate': '0.75'});
+		ga('send', 'pageview');
+		/*]]>*/
+	</script>
+
+
+	
+	 <script type="text/javascript">
+	  var googletag = googletag || {};
+	  googletag.cmd = googletag.cmd || [];
+	  (function() {
+	    var gads = document.createElement('script');
+	    gads.async = true;
+	    gads.type = 'text/javascript';
+	    var useSSL = 'https:' == document.location.protocol;
+	    gads.src = (useSSL ? 'https:' : 'http:') +
+	      '//www.googletagservices.com/tag/js/gpt.js';
+	    var node = document.getElementsByTagName('script')[0];
+	    node.parentNode.insertBefore(gads, node);
+	  })();
+	</script>
+
+
+  <script type="text/javascript">
+	googletag.cmd.push(function() {
+
+		//Adslot 1 declaration
+		googletag.defineSlot('/37179215/DFP_NGET_01_HomePage_RHS_ATF_479x266_ENG', [479, 266], 'div-gpt-ad-1448013574269-0').addService(googletag.pubads());
+
+		//Adslot 2 declaration
+		googletag.defineSlot('/37179215/NGET_02_HomePage_LHS_BTF_300x250', [[300,250]],'div-gpt-ad-597399901797237433-2').addService(googletag.pubads());
+
+		//Adslot 3 declaration
+		googletag.defineSlot('/37179215/DFP_NGET_01_HomePage_RHS_ATF_478x258_Hindi', [478, 258], 'div-gpt-ad-1448013839658-0').addService(googletag.pubads());
+
+		//Adslot 4 declaration
+		googletag.defineSlot('/37179215/NGET_HND_02_HomePage_LHS_BTF_300x250', [300, 250], 'div-gpt-ad-1435227205992-0').addService(googletag.pubads());
+
+		//Tender Adslot 1 declaration
+		googletag.defineSlot('/182691292/NGET_01_HOME_PAGE_CENTER_BIG_BANNER', [970, 250], 'div-gpt-ad-1466080808457-0').addService(googletag.pubads());
+
+		//Tender Adslot 2 declaration
+		googletag.defineSlot('/182691292/NGET_02_HOME_PAGE_LEFT_UPPER', [300, 250], 'div-gpt-ad-1466080808457-1').addService(googletag.pubads());
+
+		//Tender Adslot 3 declaration
+		//googletag.defineSlot('/182691292/NGET_03_HOME_PAGE_BOTTOM', [970, 90], 'div-gpt-ad-1466080808457-2').addService(googletag.pubads());	 
+		
+
+		googletag.pubads().enableSingleRequest();
+		googletag.pubads().enableAsyncRendering();
+		googletag.enableServices();
+	});
+</script><script type="text/javascript" src="/eticketing/javax.faces.resource/jsf.js.jsf?ln=javax.faces"></script><script type="text/javascript" src="/eticketing/org.richfaces.resources/javax.faces.resource/org.richfaces.staticResource/4.2.3.Final/PackedCompressed/jquery.js"></script>
+<style type="text/css">
+html{
+	height:100%;
+}
+body {
+	height:97%;
+	background: #3665c2;
+}
+.container {
+	background-color: #FFF;
+	min-height: 99.5%;
+	margin-top: 0.5%;
+	margin-bottom: 0.5%;
+	border-radius: 15px;
+	overflow: hidden;
+}
+
+.grid_x,.grid_1,.grid_2,.grid_3,.grid_4,.grid_5,.grid_6,.grid_7,.grid_8,.grid_9,.grid_10,.grid_11,.grid_12,.grid_13,.grid_14,.grid_15,.grid_16
+	{
+	background-color: #FFF;
+}
+
+.g_padding {
+	padding: 4px;
+}
+
+.g_margin {
+	margin: 4px;
+}
+
+.g_head {
+	background-color: #3665c2;
+	font: bold 13px arial;
+	text-align: left;
+}
+
+.g_hedtext {
+	color: #FFF;
+	display: inline;
+	font: bold 13px arial;
+	text-align: left;
+}
+
+.g_box {
+	border: 1px solid #3665c2;
+}
+
+.fluidMedia {
+    overflow: hidden;    
+}
+
+#loginbutton{
+		margin-top: 5%;
+		color: #fff;
+		background-color: #3665C2;
+		border-color:#3665C2;
+		background-image: none;
+		padding: 5px;
+		font: bold 13px arial;
+		border-radius: 12px;
+}
+#loginbutton:hover{
+	font: bold 14px arial 	
+}
+</style><link type="text/css" rel="stylesheet" href="/eticketing/org.richfaces.resources/javax.faces.resource/org.richfaces.staticResource/4.2.3.Final/PackedCompressed/blueSky/skinning.css" /><script type="text/javascript" src="/eticketing/org.richfaces.resources/javax.faces.resource/org.richfaces.staticResource/4.2.3.Final/PackedCompressed/packed/packed.js"></script><link type="text/css" rel="stylesheet" href="/eticketing/org.richfaces.resources/javax.faces.resource/org.richfaces.staticResource/4.2.3.Final/PackedCompressed/blueSky/packed/packed.css" /></head><body>
+  <script type="text/javascript"> 
+/*<![CDATA[*/
+    $(document).ready(function(){
+    	var cashless = 0;
+    	var cash = false;
+    	if(cashless && !cash){
+    		;
+    		var cashlessShowTime = 30000;
+    		RichFaces.$('demon').show();
+    		setTimeout(function(){ RichFaces.$('demon').hide();},cashlessShowTime);
+    	}});
+        function closeDemonPopup(){ 
+			 RichFaces.$('demon').hide();
+		}
+/*]]>*/
+</script>
+	<script type="text/javascript" src="resources/js/script.min,88v.js"></script>
+<div class="container_16">
+<div class="container">	
+	<div class="grid_9"><img src="/eticketing/javax.faces.resource/irctc_logo_en_IN.gif.jsf?ln=images" style="border-top-left-radius: 15px;margin-left:2px;" /></div>
+	<div class="grid_7"><img src="/eticketing/javax.faces.resource/CRIS-Full_en_IN.png.jsf?ln=images" style="float: right;margin-right:0.5%;border-top-right-radius: 15px;" /></div>	
+	<div class="clear"></div>
+	<div class="grid_16">
+		<div id="NavContainer">
+			<div style="float: right">
+				<ul id="topnav">
+					<li>
+<form id="j_idt32" name="j_idt32" method="post" action="/eticketing/loginHome.jsf" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="j_idt32" value="j_idt32" />
+
+<script type="text/javascript" src="/eticketing/javax.faces.resource/jsf.js.jsf?ln=javax.faces"></script>
+<a href="#" style="background-color: #1DF2D9; padding-left: 10px; padding-right: 10px;padding-top: 2px;font: bold;color: #3665C2;border-radius: 6px;" onclick="mojarra.jsfcljs(document.getElementById('j_idt32'),{'j_idt32:j_idt33':'j_idt32:j_idt33'},'');return false">हिंदी</a><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="2841422958428874121:1935245223573852300" autocomplete="off" />
+</form>
+					</li>
+					<li><a href="/eticketing/loginHome.jsf">Home</a>
+					</li>					
+					<li><a onclick="window.open('contact.jsf','','width=480,height=450,toolbar=no,scrollbars=no,status=no,resizable=no');" tabindex="-2">Contact Us</a>
+					</li>					
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="clear"></div>
+	<div class="grid_16">
+		
+		<div style="margin-top: 0.2%;min-height: 33px;text-align: center;background: url('resources/images/bluest.gif')">
+
+	<style type="text/css">
+.bluetabsnew {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	width: 100%;
+}
+
+.bluetabsnew ul {
+	padding: 0;
+	margin: 0;
+	font: bold 12px arial;
+	list-style-type: none;
+	text-align: left;
+	width: 64%;
+	margin: 0 auto;
+}
+
+.bluetabsnew * li {
+	border: 1px solid #a8d1fa;
+	float: left;
+	margin-right: 1px;
+	position: relative;
+	display: inline;
+}
+
+.bluetabsnew a {
+	display: block;
+	text-decoration: none;
+	padding: 9px;
+	/*border-right: 1px solid #cbe3fc;*/
+	color: #2d2b2b;
+	background: url('./resources/images/bluest.gif') repeat-x;
+	white-space: nowrap
+}
+
+.bluetabsnew a:link,.bluetabsnew a:visited {
+	color: #2d2b2b;
+	text-decoration: none
+}
+
+.bluetabsnew a:hover {
+	background: url('./resources/images/bluest_hover.gif') repeat-x
+}
+
+.bluetabsnew ul ul a {
+	display: block;
+	text-decoration: none;
+	padding: 9px;
+	text-align: left;
+	color: #2d2b2b;
+	background: url('./resources/images/bluest.gif') repeat-x
+}
+
+.bluetabsnew li li {
+	width: 185px;
+	margin-top: 0;
+	display: block;
+	border: 0px;
+	margin-left: -1px;
+	border-left: 1px solid #a8d1fa;
+	border-right: 1px solid #a8d1fa;
+	border-bottom: 1px solid #a8d1fa;
+}
+
+.bluetabsnew li:hover {
+	background-color: #d8eaf8;
+}
+
+.bluetabsnew li li:hover {
+	background-color: #d8eaf8;
+}
+
+.bluetabsnew ul ul {
+	position: absolute;
+	margin-top: 1px;
+	visibility: hidden;
+}
+
+.bluetabsnew ul ul ul {
+	position: absolute;
+	left: 102%;
+	top: 2px;
+	border: solid 1px transparent*
+}
+
+.bluetabsnew li:hover>ul {
+	visibility: visible;
+	z-index: 1;
+}
+
+.bluetabsnew li:hover .sub-menu {
+	z-index: 1;
+	opacity: 1;
+}
+</style>
+<script type="text/javascript">
+/*<![CDATA[*/
+$(document).ready(function() {
+	var urlsyscan = "https://www.operations.irctc.co.in/ctcan";
+	if(urlsyscan != null && urlsyscan.trim().length > 1){
+		$("#bluemenu ul:first").append("<li><a href="+urlsyscan+" target='_blank'> <span style='position: absolute; margin-left: -5%; margin-top: -10px; float: left;'><img src='resources/images/new_navicon_en_IN.gif' style='border: none;' /></span> <span style='position: relative; margin-left: 22px'><font color='#2E64FE'>Counter Ticket Cancellation</font></span></a></li>");
+	}
+});
+/*]]>*/
+</script>
+	<div id="bluemenu" class="bluetabsnew" align="left">
+		<ul style="width: 100%">
+		
+			<li>
+				<a href="http://www.ecatering.irctc.co.in/eCatering" target="_blank"> <span style="position: absolute; margin-left: -8%; margin-top: -10px; float: left;"><img src="resources/images/new_navicon_en_IN.gif" style="border: none;" /></span> <span style="position: relative; margin-left: 22px"><font color="#2E64FE">E-Catering</font></span>
+				</a>
+			</li>
+			<li>
+				<a href="http://irctctourism.com/cgi-bin/dev1.dll/irctc/services/bedRollhome.do" target="_blank"> <span style="position: absolute; margin-left: -8%; margin-top: -10px; float: left;"><img src="resources/images/new_navicon_en_IN.gif" style="border: none;" /></span> <span style="position: relative; margin-left: 22px"><font color="#2E64FE">E-Bedroll</font></span>
+				</a>
+			</li>
+			<li>
+				<a href="http://www.irctctourism.com/cgi-bin/dev1.dll/irctc/booking/car.do?click=true&amp;screen=conciergeService" target="_blank"> <span style="position: relative;">Cab / Bus</span>
+				</a>
+			</li>
+			<li>
+				<a href="http://www.irctctourism.com/cgi-bin/dev1.dll/irctc/services/wChairhome.do" target="_blank"> <span style="position: relative;">E-Wheelchair</span>
+				</a>
+			</li>
+			<li><a href="http://air.irctc.co.in" target="_blank">Flight Tickets</a></li>
+			<li>
+			<a href="#" id="hotelsAndLounges"> Accommodations<img src="resources/images/arrow_navdown.gif" style="border: none;" />
+			</a>
+			<ul>
+				<li> <a href="http://www.irctctourism.com/cgi-bin/dev1.dll/irctc/booking/hotelplanner.do?click=true&amp;screen=fromHome&amp;city=New%20Delhi&amp;offset=0&amp;bannercode=GIN01" target="_blank">Hotels &amp; Lounge</a></li>
+				<li> <a href="http://www.rr.irctctourism.com" target="_blank">Retiring Room</a></li>
+				
+			</ul>
+			</li>
+			<li>
+				<a href="#" id="irctc_prepaid"> Mobile Apps<img src="resources/images/arrow_navdown.gif" style="border: none;" />
+				</a>
+				<ul>
+					<li><a href="http://contents.irctc.co.in/en/IRCTC_andriod_App.html" target="_blank"><span>Android<img src="resources/images/newicon.gif" style="border: none;" /></span></a></li>
+				</ul>
+			</li>
+			<li>
+				<a target="_blank" href="http://www.irctctourism.com/" id="irctc_tourism"><font color="#2E64FE">  IRCTC Tourism </font><img src="resources/images/arrow_navdown.gif" style="border: none;" />
+				</a>
+				<ul>
+					<li><a href="http://www.the-maharajas.com/" target="_blank">Maharajas' Express</a></li>
+					<li><a href="http://www.irctctourism.com/cgi-bin/dev1.dll/irctc/booking/vatplanner.do?screen=fromCity&amp;frompackage=true&amp;valid=&amp;cityName=&amp;categoryName=&amp;destinationCity=&amp;bhTirth=&amp;packagetype=3&amp;pkgcodeorname=" target="_blank">International Packages</a></li>
+					<li><a href="http://www.irctctourism.com/cgi-bin/dev1.dll/irctc/booking/vatplanner.do?screen=fromCity&amp;Submit=Search&amp;frompackage=true&amp;cityName=0&amp;bhTirth=&amp;packageCategory=AIR%20PACKAGES&amp;submitClicks=0&amp;categoryName=AIR%20PACKAGES&amp;destinationCity=&amp;packageCity=0" target="_blank">Air Packages</a></li>
+					<li><a href="http://www.irctctourism.com/cgi-bin/dev1.dll/irctc/booking/bestSellerTrains.jsp" target="_blank">Tourist Train</a>	</li>					
+					
+					<li><a href="http://www.irctctourism.com" target="_blank">Tour Packages</a></li>					
+				</ul>
+			</li>
+			<li>
+			<a href="#" id="irctc_prepaid"><span style="position: relative;">
+					IRCTC PrePaid Card</span><img src="resources/images/arrow_navdown.gif" style="border: none;" />
+				</a>
+				<ul>
+					<li><a href="https://acm.fssnet.co.in/ACM/portal/ci_hp/1_1.acm" target="_blank">UBI RUPAY Prepaid card</a></li>
+				</ul>
+			</li>
+			
+				
+			
+
+			
+			
+			
+
+			
+	
+			
+			
+			
+			
+			<li>
+				<a href="http://www.ftr.irctc.co.in" target="_blank"> <span style="position: relative;">Train/Coach Booking (FTR)</span>
+				</a>
+			</li>
+			<li><a href="http://www.nvsp.in" target="_blank">National Voter's Services Portal</a></li>
+			<li><a href="http://mahilaehaat-rmk.gov.in/" target="_blank">Mahila E-Haat</a></li>
+			<li><a href="http://contents.irctc.co.in/en/AboutEwallet.html" target="_blank">IRCTC eWallet</a></li>
+			<li><a href="http://contents.irctc.co.in/en/InsuranceTermCondition.pdf" target="_blank"> 
+				<span style="position: absolute; margin-left: -8%; margin-top: -10px; float: left;"><img src="resources/images/new_navicon_en_IN.gif" style="border: none;" /></span> <span style="position: relative; margin-left: 22px"><font color="#2E64FE">Travel Insurance</font></span> </a>
+			</li>
+			<li>
+				<a href="#" id="irctc_sbi_co_brand"><span style="position: relative;">
+					IRCTC Loyalty Program</span><img src="resources/images/arrow_navdown.gif" style="border: none;" /></a>
+				<ul>
+					<li><a href="http://contents.irctc.co.in/en/AboutSBICobrandCard.html" target="_blank">IRCTC SBI Credit Card</a></li>
+				</ul>
+			</li>
+			<li><a href="http://contents.irctc.co.in/en/StandardMenuRates.pdf" target="_blank">Standard Menu Rates</a></li>
+			<li><a href="https://play.google.com/store/apps/details?id=cris.org.in.prs.ima&amp;hl=en" target="_blank"> 
+				<span style="position: absolute; margin-left: -8%; margin-top: -10px; float: left;"><img src="resources/images/new_navicon_en_IN.gif" style="border: none;" /></span> <span style="position: relative; margin-left: 22px"><font color="#2E64FE">IRCTC Rail Connect App</font></span> </a>
+			</li>
+		</ul>
+	</div>
+		</div>
+	</div>
+	<div class="clear"></div>
+	<div class="grid_16">
+				<div style="margin-top: 0.2%;height: 28px;border: 1px solid #3665c2;width: 100%">
+					<table><tr>
+						<td align="left">
+							<span style="float:left;margin-top: -2.2%;"><img src="resources/images/launch_icon_en_IN.png" style="border:none;" /></span>
+						</td>
+					<td align="left" style="margin-left: auto">
+						<marquee scrollAmount="2" style="color:#000;"><span style="font:14px arial;font-weight:bold;"><a target="_blank" href="http://contents.irctc.co.in/en/VisaCashback.pdf"> Get Rs.50/- Cashback*, scan and pay with mVisa </a>|| <a target="_blank" href="https://pledge.cvc.nic.in">Integrity pledge</a>||<h10 style="color:blue;"style="font-size:100px">In order to help passengers and incentivise online payments,IRCTC Service charge has been waived off on booking of E-tickets & I-tickets from 23-Nov-16 to 30-Jun-17.</span>
+						</marquee>
+					</td>
+					<td align="right"><a href="https://play.google.com/store/apps/details?id=cris.org.in.prs.ima&amp;hl=en" style="float:right;margin-top:-0.4%" target="_blank">
+							<span style="float:left;"><img src="resources/images/homepage_blinker.gif" style="border:none;" /></span></a>
+					</td>
+					</tr></table>
+				</div>
+	</div>
+	<div class="clear"></div>
+	<div class="grid_6" style="margin-top: 0.2%;">
+		<div class="grid_16 g_box" style="height:290px;">
+			<div class="g_head g_padding ">
+				<div class="g_hedtext">Alerts &amp; Updates 
+					<span style="float:right"><a onclick="window.open('alertStaticMsg.jsf','','width=800,height=450,toolbar=no,scrollbars=yes,status=no,resizable=yes');" style="color: #fff" class="g_hedtext">View All</a></span>
+				</div>
+				<div class="clear"></div>					
+				<div class="grid_16 alpha" style="margin-top: 1.1%;overflow: hidden;">
+<marquee onmouseover="this.setAttribute('scrollamount', 0, 0);" onmouseout="this.setAttribute('scrollamount', 2, 0);" scrollAmount="2" direction="up" width="100%" height="217"><span style="color: #00;font-size: 11px;font-weight:normal;"><a target="_blank" href="http://contents.irctc.co.in/en/CC_46_2016.pdf"> Flexi Fare system for Rajdhani / Duronto & Shatabdi Train.</a></span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;"><h10 style="color:red;" style="font-size:50%;"> Refund in case of train late more than 3 hours: In case train is late more than 3 hours, refund is admissible as per railway refund rules only when TDR is filed by the user before the actual departure of the train at boarding station and passenger has not travelled. </h10></span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">In order to help passengers and incentivise online payments, IRCTC Service charge has been waived off on booking of E-tickets and I-tickets from 23 Nov 2016 to 30 Jun 2017.</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">IRCTC does not ask your credentials/bank OTP/password by any means. 
+Please do not share it with anyone.</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">The timings of train no. 12378 have been preponed to 17.15 hrs from originating station NOQ w.e.f 9.3.2017 for 6 months. Please check from Indian Railways before boarding.</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">"In case you are not able to find your payment bank under  Net banking or Debit Card category, Please visit  ""Multiple Payment Service""  tab to get payment bank or getting more payment options."
+</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;"><b>Aadhaar verification for getting concessional tickets for Senior Citizens. <a target="_blank" href="https://www.services.irctc.co.in/betaDoc/AadhaarAuthenticationUserGuide.pdf">Click here for details.</a></b></span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;"><a target="_blank" href="http://contents.irctc.co.in/en/AboutIRCTCLoyaltyProgram.pdf">About IRCTC Loyalty Program</a></span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">Never purchase e-ticket from unauthorized agents or persons using their personal IDs for commercial purposes.Such tickets are liable to be cancelled and forfeited without any refund of money, under section (143) of the Indian Railway Act 1989. List of authorized agents are available on www.irctc.com E-Ticket Agent Locator.</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">IRCTC Loyalty Scheme is not available on any Android , IOS & Windows Apps.</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">Loyalty Program NGeT: If you are facing issue during login, then kindly try to reset your password using <a target="_blank" href=" https://www.irctc.co.in/eticketing/forgotPassword.jsf">Forgot Password</a></span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;"> Passengers can avail Wheelchair service provided by IRCTC</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">As per Ministry of Railways, 0.5% discount in base fare of season tickets shall be granted in case of digital payment w.e.f. 01-Jan-2017.</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;"><a target="_blank"href="http://www.irctctourism.com/cgi-bin/dev1.dll/irctc/booking/car.do?click=true&screen=conciergeService"> Pickup & Drop facility with porter can be availed on IRCTC website. </a></span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">IRCTC is promoting  Self Help Groups through its website. Interested Self Help Groups may contact at 011-23345300 or send queries to shg@irctc.co.in.</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;"><b> All India Security Help line No. 182: </b> This facility enables the Railway passengers to avail immediate security related assistance from any place including Trains and Railway premises.”</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">In case of partial cancellation, diversion or short termination of trains, E-Ticket passengers are required to file TDR as per refund rules to claim the refund.</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">SMS delivery is subject to effective transmission from your mobile service operator and mobile carrier network availability. In case, you have not received Booking SMS, Please check “Booked Ticket History” before proceeding for new ticket booking.</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;"><h10 style="color:red;" style="font-size:50%;"> Travel Insurance facility is now available for Indian Railway passengers on booking their journey ticket by IRCTC website www.irctc.co.in.</h10></span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">The functionality of preponement /postponement of journey date and train is not available at present for e tickets.</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">International users should contact care@irctc.co.in for verification of their account at IRCTC after online submission of registration forms at www.irctc.co.in along with their nationality documents such as passport etc. for due verification.</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;"><b> Register for IRCTC e-Wallet. The convenient way to book tickets on IRCTC. <a target="_blank" href="http://contents.irctc.co.in/en/AboutEwallet.html">Click here to know more.</a></b></span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;"><a target="_blank"href="http://railbudget2016.indianrailways.gov.in"> Watch Rail Budget 2016.</a></span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">"In case of train cancellation on its entire run from originating station to destination station by Railways, your full ticket fare will be refunded automatically. In cancellation required by user. In other case of partial train cancellation, train diverted, train short terminated etc., TDR is required to be filed up to seventy two hours of scheduled departure of the train at passengers Boarding station. Please visit refund rule for further details."</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">An individual user can book a maximum of 6 tickets in a calendar month.</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">Passengers can change Boarding station online before 24 hours of the scheduled departure of the train w.e.f. 28th Jan 2016. <a target="_blank"href="http://contents.irctc.co.in/en/boardingPointChange.html">Click here to know more.</a>
+</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">Ticket booking through Internet is allowed from 00:20 Hrs to 23:45 Hrs.
+</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;"><a target="_blank" href="https://www.services.irctc.co.in/betaDoc/CC_71_2015%20RB.pdf"> Revision in child fare rule w.e.f  21.04.2016.</a></span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">If your pnr is not generated and payment is deducted at bank, the same will be refunded back in 3-4 working days.</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">A verification call may be made for the bookings done between 10:00 am to 10:15 am and 11:00 am to 11:15 am to verify userid, pnr, passenger mobile number and passenger details. Any misleading information may lead to cancellation of e-ticket and an appropriate legal action</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;"><a target="_blank" href="http://www.services.irctc.co.in/beta_htmls/train_canceled.html">List of Cancelled/Diverted/Short Terminated Trains.</a></span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;"><a target="_blank" href="http://www.services.irctc.co.in/beta_htmls/Special_Trains.html">Special Train.....</a></span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">Users are requested to delete browser cookies/cache if facing login problems or logout issue.
+</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">W.e.f 19/08/2015, entry of  ID card details is not required at the time of booking for tatkal scheme . One of the passengers has to produce any one of the prescribed identity in original during the journey, failing which all the passengers booked on that ticket will be treated as travelling without ticket and charged accordingly.</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;"><a target="_blank" href="http://www.services.irctc.co.in/beta_htmls/ARP.html">Advance Reservation Period (ARP) for booking in trains is increased from 60 days to 120 days w.e.f 1st April, 2015. There will be no change in case of certain day time Express trains of lower time limits of ARP.</a>
+</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">Cases of fraudulent claims of refund are liable for legal action. Users registered on irctc.co.in are requested to update their user profile with valid address, email-ID and mobile number. The registrations with invalid address, email-IDs and mobile numbers are liable to be deactivated</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">Explore the religious places of India by Pilgrim Special Tourist Trains with IRCTC</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">Internet booking is not permitted in the overseas train nos 14001,14002,14889,13108 & 13109.</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">Never purchase e-ticket from unauthorized agents or persons, using their personal IDs for commercial purposes. Such tickets are liable to be forfeited under section (143) of the Indian Railway Act 1989. List of authorized agents are available on www.irctc.com E-Ticket Agent Locator</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">E-ticket confirmed through charting at originating station or at the previous remote location cannot be cancelled. The refund of such ticket will be processed through TDR</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">Multiple logins at www.irctc.co.in are not allowed.</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">IRCTC  World class Executive Lounge available at New Delhi Railway Station.</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">"Passengers, other than natives of Arunachal Pradesh, require an inline permit (ILP) before taking up their journey to Arunachal   pradesh   through rail route."</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;"><a target="_blank" href="http://www.services.irctc.co.in/betaDoc/salient%20features%20of%20PT%20quota.pdf">Salient Features of  Premium Tatkal (PT) Quota on Dynamic Pricing</a></span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;"><a target="_blank" href="http://www.railtourismindia.com/cgi-bin/dev1.dll/irctc/services/rrhome.do">Now You Can Book Indian Railways Retiring Room Online.</a></span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;"><a target="_blank" href="https://www.services.irctc.co.in/beta_htmls/Alerts_mone_debited.html">Money debited but ticket not booked </a></span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;"><a target="_blank" href="https://www.services.irctc.co.in/betaDoc/CC_68_2012_id_proof.pdf">ERS/VRM along with any one of the ten(10) prescribed ID proofs in original and the indication of the passenger(s) name(s) in the Reservation Chart will authorize the passenger(s) to travel on train.</a></span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;"><a target="_blank" href="http://www.irctctourism.com/cgi-bin/dev1.dll/irctc/booking/bestSellerSpecialTrains.jsp">Pilgrim Special Tourist Trains</a></span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;"><a target="_blank" href="https://www.services.irctc.co.in/betaDoc/Salient%20Features%20of%20Premium%20Special%20Train%20on%20Dynamic%20Pricing.pdf">Salient Features of Premium Special Train on Dynamic Pricing</a></span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">You are allowed to do only one (1) booking in one user login session
+except for return/onward journey between 0800 and 1200 hours. To do
+another booking please logout and login again.</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">Now get meals on your seat in the train. Just call 1800-1034-139 (Toll Free) & 0120-4383892-99 or SMS MEAL &#60;PNR&#62; to 139.</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;"><b>Concession based Internet ticketing for physically challenged persons is available using the Photo Identity Cards issued by Indian Railways.<b>
+</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" /><span style="color: #00;font-size: 11px;font-weight:normal;">IRCTC-UBI prepaid card is not available and remain offline between 08 hrs to 12 hrs.</span>
+	<hr style="margin: 10px 0px 10px; height: 1px;border-style: dotted;" />
+
+</marquee>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="grid_4" style="margin-top: 0.2%;">
+  <script type="text/javascript"> 
+/*<![CDATA[*/
+    if (typeof Date.now === 'undefined') { Date.now = function () { return +new Date(); } }
+    $(document).ready(function(){
+    	deleteCookie("qbjpactive");	
+		$("#refresh").click(function(){
+			$("#cimage").attr('src','captchaImage?' + Math.random());		
+		});
+		var msg = "";
+		if(msg != null && msg != ""){
+			RichFaces.$('loginerrorpanel').show();
+			setFocus($("#loginerrorpanelok"))
+		}
+
+		$("#otpId").change(function () {
+			if($("#otpId").is(":checked")){
+				$("tr.captchacls").hide()
+				$("div.captchacls").hide()
+			}else{
+				$("tr.captchacls").show()
+				$("div.captchacls").show()
+			}
+		});
+
+		$("#usernameId").focus();
+		window.mcc = {};
+		window.mcc.c = true;
+		window.mcc.lbp = false;
+		window.mcc.j= 465;
+		window.mcc.k= 720
+		window.mcc.t = parseInt(1123);
+		window.mcc.l = parseInt(1494335601099);
+		window.mcc.cd = +Date.now();
+		window.mcc.d = window.mcc.l - window.mcc.cd;		 
+		try{
+			window.mcc.o = parseInt(6000);
+		}catch(err){}				
+		if(window.mcc.j != null && window.mcc.k !=null){
+			window.mcc.j = parseInt(window.mcc.j);
+			window.mcc.k = parseInt(window.mcc.k);
+			if(window.mcc.t < window.mcc.j || window.mcc.t >= window.mcc.k){
+				window.mcc.c = false;
+			}
+		}
+		$("#cimage").on("load",function(){
+			window.mcc.clt = +Date.now() + window.mcc.d;
+		});
+		$("#loginbutton").click(function(event){
+			window.mcc.lbp = true;
+			if(!($.trim($(".loginUserId").val()) == "" || $.trim($(".loginPassword").val()) == "" || (document.getElementById("otpId").checked==false && $.trim($(".loginCaptcha").val()) == "") )){
+				if(window.mcc.c && window.mcc.o != null){
+					window.mcc.waitT = (+Date.now() + window.mcc.d)-window.mcc.clt;
+					if(window.mcc.o > 0 && window.mcc.waitT < window.mcc.o){
+						RichFaces.$('waitOnLogINPopup').show();
+						setTimeout(function () {
+							RichFaces.$('waitOnLogINPopup').hide();
+							$('#loginbuttonW').click();
+						}, (window.mcc.o - window.mcc.waitT));
+						return false;
+					}
+				}
+				$('#loginbuttonW').click();
+				return false;
+			}
+		});	
+	});
+    function validateloginDetail(){
+    	return window.mcc.lbp;
+    }
+    function validateloginDetails(){
+    	var retVal = true;
+
+    	$("#loginsErr").html("");
+    	
+    	if($.trim($(".loginUserId").val()) == ""){
+			alert("Enter User ID");
+			setFocus($(".loginUserId"));
+    		return false;
+    	}    	
+    	if($.trim($(".loginPassword").val()) == ""){
+    		alert("Enter Password");
+    		setFocus($(".loginPassword"));
+    		return false;
+    	}    	
+    	if(document.getElementById("otpId").checked==false && $.trim($(".loginCaptcha").val()) == ""){
+    		alert("Enter the text as in captcha");
+    		setFocus($("otpId"));
+    		return false;
+    	}
+    	return retVal;
+    }
+/*]]>*/
+</script><span id="j_idt69" style="display: none;"><script type="text/javascript">new RichFaces.ui.HotKey("j_idt69",  {"key":"Esc","onkeydown":function(event){RichFaces.ui.ComponentControl.execute(event,{"selector":null,"target":["loginerrorpanel"] ,"callback":function(event,component){component['hide'].apply(component,[] );}} ); return false;}} );</script></span><div id="loginerrorpanel" style="visibility: hidden;"><div class="rf-pp-shade" id="loginerrorpanel_shade" style="z-index:100;"><button class="rf-pp-btn" id="loginerrorpanelFirstHref"></button></div><div class="rf-pp-cntr " id="loginerrorpanel_container" style="position: fixed; z-index:100; "><div class="rf-pp-shdw" id="loginerrorpanel_shadow"></div><div class="rf-pp-hdr " id="loginerrorpanel_header"><div class="rf-pp-hdr-cnt" id="loginerrorpanel_header_content">Login Error</div></div><div class="rf-pp-hdr-cntrls " id="loginerrorpanel_header_controls">
+    	<span class="close" onclick="RichFaces.$('loginerrorpanel').hide(); return false;">×</span></div><div class="rf-pp-cnt-scrlr" id="loginerrorpanel_content_scroller"><div class="rf-pp-cnt" id="loginerrorpanel_content">
+	<span id="loginsErr" class="rf-msg" style="height:16px;">
+	</span>
+	<br /><input id="loginerrorpanelok" type="button" onclick="RichFaces.$('loginerrorpanel').hide(); setFocus($('.loginUserId'));return false;window.location.href='/eticketing/loginHome.jsf'; return false;" value="OK" tabindex="1" /></div></div></div><script type="text/javascript">new RichFaces.ui.PopupPanel("loginerrorpanel",{"maxHeight":100} );</script></div><div id="waitOnLogINPopup" style="visibility: hidden;"><div class="rf-pp-shade" id="waitOnLogINPopup_shade" style="z-index:100;"><button class="rf-pp-btn" id="waitOnLogINPopupFirstHref"></button></div><div class="rf-pp-cntr " id="waitOnLogINPopup_container" style="position: fixed; z-index:100; "><div class="rf-pp-shdw" id="waitOnLogINPopup_shadow"></div><div class="rf-pp-cnt-scrlr" id="waitOnLogINPopup_content_scroller"><div class="rf-pp-cnt" id="waitOnLogINPopup_content">
+	<center>
+		<b>Please wait.... </b><br /><br /><img src="/eticketing/javax.faces.resource/ajax-loader.gif.jsf?ln=images" /><br /><br />Your request is currently being processed....
+	</center></div></div></div><script type="text/javascript">new RichFaces.ui.PopupPanel("waitOnLogINPopup",{"maxHeight":100} );</script></div>
+<form action="home" method="post" id="loginFormId">
+ <div class="grid_16 alpha g_box" style="height:290px;position: relative;">
+	<div class="g_head g_padding ">
+		<div class="g_hedtext">Login
+		</div>		
+	</div>	
+	<div class="grid_16 alpha" style="margin-top:2%;">
+		<table style="margin-top:0.5%;">
+			<tr>
+				<td class="labeltxt">User ID : 
+				</td>
+				<td><input type="text" name="j_username" id="usernameId" class="loginUserId" autocomplete="off" size="15" maxlength="35" tabindex="1" /></td>
+			</tr>
+			<tr>
+				<td class="labeltxt">Password</td>
+				<td><input type="password" name="j_password" class="loginPassword" autocomplete="off" size="15" maxlength="15" tabindex="2" /></td>
+			</tr>
+			<tr class="captchacls">
+				<td class="labeltxt">Captcha</td>
+				<td><input type="text" name="j_captcha" class="loginCaptcha" autocomplete="off" size="15" maxlength="15" tabindex="3" /></td>
+			</tr>						
+		</table>
+		<div class="labeltxt captchacls" style="display: block;margin-left:1%;margin-top:1%;color:#8A2BE2"><b>Captcha letters are case sensitive and to be entered in Upper Case only</b></div>
+		<table style="margin-top:-2.7%;">
+			<tr class="captchacls">				
+				<td>
+					
+					<img src="captchaImage" id="cimage" style="border:none;height: 40px" />
+				</td>
+				<td>
+					<a href="#" id="refresh"><img src="resources/images/refresh.gif" style="border:none;" /></a>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2" class="labeltxt"><input type="checkbox" name="otp" value="otp" id="otpId" tabindex="4" title="Please select OTP only in case of Visually impaired User" />Request OTP</td>
+			</tr>
+		</table>
+	</div>					
+	<div class="clear"></div>
+	<div style="position: absolute;bottom: 0;background-color: #E5F4FE;border-top: 1px solid #3665c2;padding: 0px; margin: 0px;width: 100%;height:80px">
+		<div class="grid_12 alpha" style="background-color: #E5F4FE;">
+			<ul style="list-style-type: none;margin: 1%  0 0 1%;padding-left: 1%;color: #3665c2;line-height: 1em;">
+				<li><a style="text-decoration: underline;color: #3665c2" href="/eticketing/forgotPassword.jsf">Forgot Password</a></li>
+				<li><a style="text-decoration: underline;color: #3665c2" href="/eticketing/userSignUp.jsf">Sign up</a></li>
+				<li><a style="text-decoration: underline;color: #3665c2" href="/eticketing/agentlogin">NGeT Agent Login</a>
+				<a style="text-decoration: underline;color: #3665c2" href="https://www.services.irctc.co.in/rtsa_home.asp">Agent Login</a></li>
+				<li><a style="text-decoration: underline;color: #3665c2" href="https://www.services.irctc.co.in/cgi-bin/bv71.dll/irctc/services/login.do" target="_blank">Mumbai Suburban Season Ticket</a></li>
+			</ul>
+		</div>
+		<input class="grid_4 pull_4 omega" id="loginbutton" type="submit" name="submit" value="Login" onclick="return validateloginDetails();" tabindex="5" />
+		<input id="loginbuttonW" type="submit" name="submit" style="display: none;" onclick="return validateloginDetail();" />		
+	</div>
+	<div class="clear"></div>	
+</div>
+<div class="clear"></div>
+<input type="hidden" name="tneg" />
+</form>
+	</div>		
+	<div class="grid_6" style="margin-top: 0.2%;">
+		<div class="grid_16 omega g_box" style="height:290px;margin-left: 1px;">			
+			<div class="g_head g_padding ">
+				<div class="g_hedtext" style="width:100%;">IRCTC Attractions
+				</div>
+			</div>	
+			
+					
+					
+					<div id="div-gpt-ad-1448013574269-0" style="height:266px; width:479px;text-align:center;">
+						<script type="text/javascript">
+						googletag.cmd.push(function() { googletag.display('div-gpt-ad-1448013574269-0'); });
+						</script>
+					</div>				
+
+		</div>
+	</div>	
+	<div class="clear"></div>	
+	<div class="grid_16">
+				<div style="margin-top: 0.2%;background: no-repeat scroll 0% 0% #E5F4FE;height: 28px;border: 1px solid #3665c2;">
+					<div style="padding:0.5% 5px 0px 5px;">				
+						<marquee scrollAmount="2" style="color:#FF0000;"><span style="font:14px arial;font-weight:bolder;"><a target="_blank" href="http://contents.irctc.co.in/en/REFUND%20RULES%20wef%2012-Nov-15.pdf"> NEW REFUND RULE 2015 w.e.f - 12-11-2015. </a> IRCTC does not ask your credentials/bank OTP/password by any means. Please do not share it with anyone. <a target="_blank" href="http://contents.irctc.co.in/en/IndicativemenuforMailExpresstrains.pdf"> Standard Food menu for Static and Mobile Units on Indian Railways.  </a>|  <font color="red"> Select “Multiple Payment Service”  on payment page to have more Net-banking payment  options. </font></span>
+						</marquee>					
+					</div>
+				</div>
+	</div>
+	<div class="clear"></div>
+	
+	<div class="grid_4" style="margin-top: 0.2%;">
+		<div class="adds">
+			<center>
+				
+					<div id="div-gpt-ad-1466080808457-1" style="height:250px; width:300px;">
+					<script type="text/javascript">
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-1466080808457-1'); });
+					</script>
+					</div>
+			</center>
+		</div>
+	</div>
+	<div class="grid_12" style="margin-top: 0.2%;">
+		<div class="adds" style="position: relative;background-color: #eff4fe;">
+		<center>
+				
+				<div id="div-gpt-ad-1466080808457-0" style="height:250px; width:970px;">
+				<script type="text/javascript">
+				googletag.cmd.push(function() { googletag.display('div-gpt-ad-1466080808457-0'); });
+				</script>
+				</div>	
+		</center>
+		</div>
+	</div>
+	<div class="clear"></div>
+	
+	<div class="grid_4" style="margin-top: 0.2%;">
+		<div class="adds" style="height:252px;">
+			<center>
+			
+				
+				<div id="div-gpt-ad-597399901797237433-2">
+					<script type="text/javascript">
+						googletag.cmd.push(function() { googletag.display('div-gpt-ad-597399901797237433-2'); });
+					</script>
+				</div>
+		</center>
+		</div>
+	</div>	
+	<div class="grid_12" style="margin-top: 0.2%;">
+      
+      <div style="width:100.8%;margin-left:-4px;">
+      	<div class="grid_8 push_8"><div id="j_idt168" class="rf-cp rf-tgp"><input id="j_idt168-value" name="j_idt168-value" type="hidden" value="false" /><script type="text/javascript">new RichFaces.ui.CollapsiblePanel("j_idt168",{"switchMode":"client","ajax":{"incId":"1"} ,"activeItem":"false"} )</script><div id="j_idt168:header" class="rf-cp-hdr rf-cp-hdr-colps"><table class="rf-cp-gr"><tbody><tr><td class="rf-cp-ico"><div class="rf-cp-ico-colps rf-ico-chevron-up-hdr"></div><div class="rf-cp-ico-exp rf-ico-chevron-down-hdr"></div></td><td class="rf-cp-lbl"><div class="rf-cp-lbl-exp">IRCTC Zone</div><div class="rf-cp-lbl-colps">IRCTC Zone</div></td></tr></tbody></table></div><div id="j_idt168:content" class="rf-cp-b" style="display:none">
+				<ul>
+						<li><a target="_blank" href="http://www.irctc.com/rti_En.jsp">RTI Information</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/jago_yatri.pdf">Jago yatri jago</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/AboutSBICobrandCard.html">IRCTC SBI Credit Card</a></li>
+						<li><a target="_blank" href="http://www.jsk.gov.in">Jansankhya Sthirata Kosh</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/Awards_Achievements.html">Awards and Achievements</a></li>
+					<li><a target="_blank" href="http://www.services.irctc.co.in/beta_htmls/irctc_menu.html">Standard Menu</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/Standard_Menu_For_Indian_Railways.pdf">Standard Food menu for Static and Mobile Units on Indian Railways</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/cyclicMenuRajdhani.html">Rajdhani Menu</a></li>
+					<li><a target="_blank" href="http://www.the-maharajas.com">Maharaja's Express</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/SMS_Services_Tender.pdf">Tender for messaging process and advertising rights for IRCTC e/i-ticket customers</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/PrepaidPaymentInstrumentIntegrationPolicy.pdf">Policy for Prepaid Payment Instrument (PPI) Integration on IRCTC Main site for e-ticketing</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/MultiplePaymentProvider.pdf">Policy for Multiple Payment Provider on IRCTC e-ticketing Website and Mobile App</a></li>			
+				</ul></div><div id="j_idt168:empty" class="rf-cp-empty" style="display:block"></div></div><div id="j_idt180" class="rf-cp rf-tgp"><input id="j_idt180-value" name="j_idt180-value" type="hidden" value="false" /><script type="text/javascript">new RichFaces.ui.CollapsiblePanel("j_idt180",{"switchMode":"client","ajax":{"incId":"1"} ,"activeItem":"false"} )</script><div id="j_idt180:header" class="rf-cp-hdr rf-cp-hdr-colps"><table class="rf-cp-gr"><tbody><tr><td class="rf-cp-ico"><div class="rf-cp-ico-colps rf-ico-chevron-up-hdr"></div><div class="rf-cp-ico-exp rf-ico-chevron-down-hdr"></div></td><td class="rf-cp-lbl"><div class="rf-cp-lbl-exp">IRCTC Prepaid</div><div class="rf-cp-lbl-colps">IRCTC Prepaid</div></td></tr></tbody></table></div><div id="j_idt180:content" class="rf-cp-b" style="display:none">
+				<ul>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/ubifaq.html">Prepaid FAQ</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/irctcprepaidtermsnconditions.html">Terms and Conditions</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/userguideubirupay.pdf">User Guide</a></li>
+					<li><a target="_blank" href="https://acm.fssnet.co.in/ACM/portal/ci_hp/1_1.acm">Prepaid Registration Link</a></li>					
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/UbiTroubleShooting.pdf">Troubleshooting Guide</a></li>
+				</ul></div><div id="j_idt180:empty" class="rf-cp-empty" style="display:block"></div></div><div id="j_idt182" class="rf-cp rf-tgp"><input id="j_idt182-value" name="j_idt182-value" type="hidden" value="false" /><script type="text/javascript">new RichFaces.ui.CollapsiblePanel("j_idt182",{"switchMode":"client","ajax":{"incId":"1"} ,"activeItem":"false"} )</script><div id="j_idt182:header" class="rf-cp-hdr rf-cp-hdr-colps"><table class="rf-cp-gr"><tbody><tr><td class="rf-cp-ico"><div class="rf-cp-ico-colps rf-ico-chevron-up-hdr"></div><div class="rf-cp-ico-exp rf-ico-chevron-down-hdr"></div></td><td class="rf-cp-lbl"><div class="rf-cp-lbl-exp">Mobile Zone</div><div class="rf-cp-lbl-colps">Mobile Zone</div></td></tr></tbody></table></div><div id="j_idt182:content" class="rf-cp-b" style="display:none">
+				<ul>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/stepstobooktktinmobile.html">IRCTC on mobile-Steps for booking rail tickets on mobile</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/ngpayindex.html">NgPay Mobile App</a></li>
+					<li><a target="_blank" href="http://www.cleartrip.com/mobile/">Cleartrip Mobile App</a></li>		
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/impshelp.html">IMPS (Interbank Mobile Payment Service)</a></li>
+					<li><a target="_blank" href="https://www.spicesafar.com/html/spicesafar.html">Spice Safar Mobile App</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/bookmytrain.html">Cash on Delivery Mobile App</a></li>
+				</ul></div><div id="j_idt182:empty" class="rf-cp-empty" style="display:block"></div></div><div id="j_idt184" class="rf-cp rf-tgp"><input id="j_idt184-value" name="j_idt184-value" type="hidden" value="false" /><script type="text/javascript">new RichFaces.ui.CollapsiblePanel("j_idt184",{"switchMode":"client","ajax":{"incId":"1"} ,"activeItem":"false"} )</script><div id="j_idt184:header" class="rf-cp-hdr rf-cp-hdr-colps"><table class="rf-cp-gr"><tbody><tr><td class="rf-cp-ico"><div class="rf-cp-ico-colps rf-ico-chevron-up-hdr"></div><div class="rf-cp-ico-exp rf-ico-chevron-down-hdr"></div></td><td class="rf-cp-lbl"><div class="rf-cp-lbl-exp">Train/Coach Booking (FTR)</div><div class="rf-cp-lbl-colps">Train/Coach Booking (FTR)</div></td></tr></tbody></table></div><div id="j_idt184:content" class="rf-cp-b" style="display:none">
+			   <ul>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/termsncondftr.html">Terms and conditions</a></li>
+				</ul></div><div id="j_idt184:empty" class="rf-cp-empty" style="display:block"></div></div><div id="j_idt186" class="rf-cp rf-tgp"><input id="j_idt186-value" name="j_idt186-value" type="hidden" value="false" /><script type="text/javascript">new RichFaces.ui.CollapsiblePanel("j_idt186",{"switchMode":"client","ajax":{"incId":"1"} ,"activeItem":"false"} )</script><div id="j_idt186:header" class="rf-cp-hdr rf-cp-hdr-colps"><table class="rf-cp-gr"><tbody><tr><td class="rf-cp-ico"><div class="rf-cp-ico-colps rf-ico-chevron-up-hdr"></div><div class="rf-cp-ico-exp rf-ico-chevron-down-hdr"></div></td><td class="rf-cp-lbl"><div class="rf-cp-lbl-exp">Agents</div><div class="rf-cp-lbl-colps">Agents</div></td></tr></tbody></table></div><div id="j_idt186:content" class="rf-cp-b" style="display:none">
+				<ul>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/IRCTC%20Authorised%20Principal%20Service%20Providers.pdf">IRCTC Authorized Service Providers</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/Class%20III%20Digital%20Certificate%20Creation%20Process.pdf">Digital Certificate Generation Process</a></li>
+				 	<li><a target="_blank" href="http://www.services.irctc.co.in/betaDoc/List%20of%20BlackListAgent.xls">Blacklist Agent</a></li>
+			    	<li><a target="_blank" href="https://www.services.irctc.co.in/cgi-bin/bv60.dll/irctc/enquiry/FindAgents.do?click=true">Find Agents</a></li>
+			    	<li><a target="_blank" href="findAgents.jsf">Find NgeT Agents</a></li>
+			    	<li>
+<form id="j_idt188" name="j_idt188" method="post" action="/eticketing/loginHome.jsf" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="j_idt188" value="j_idt188" />
+<a href="#" onclick="mojarra.jsfcljs(document.getElementById('j_idt188'),{'j_idt188:j_idt189':'j_idt188:j_idt189'},'');return false">NgeT Blacklist Agents</a><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="2841422958428874121:1935245223573852300" autocomplete="off" />
+</form></li>
+			    	<li><a target="_blank" href="http://contents.irctc.co.in/en/Rules%20&amp;%20Regulations%20for%20the%20Agents.pdf">Rules and Regulations for the Agents</a></li>			
+				</ul>
+				<ul>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/NormsforRTSA.pdf">Norms for RTSA</a> </li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/NormsforIATA.pdf">Norms for IATA</a> </li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/NormsforGSA.pdf">Norms for GSA</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/NormsforInternetCafeScheme.pdf">Norms for Internet Cafe Scheme</a></li>
+				    <li><a target="_blank" href="http://contents.irctc.co.in/en/NormsforB2B.pdf">Norms for B2B Scheme</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/NormsforB2CMobile.pdf">Norms for B2C &amp; Mobile Scheme</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/RegistrationForm.pdf">Registration Form</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/requisitionslip.JPG">Requisition Slip</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/PolicyForUTPP.pdf">Policy for UTPP for UTS System</a></li>			
+				</ul><div align="center">
+				<b><u style="color: #0078d0; font-size: 9px; text-align: center;">OPERATING MANUALS FOR NEW MIGRATED AGENTS</u></b></div>
+				<ul>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/MIGRATEDUSER.pdf">Login Manual - from old site to new site</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/GSA.pdf">Operating Manual for new e-ticketing website</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/AgentInterface.pdf">Operating Manual for Agent Interface Application</a></li>
+				</ul><div align="center">
+				<b><u style="color: #0078d0; font-size: 9px; text-align: center;">Policy</u></b></div>
+				<ul>
+					<li><a target="_blank" href="http://www.services.irctc.co.in/betaDoc/NewAgentsPolicy.pdf">New Agent Policy</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/Payment%20gateway%20policy%20for%20mobile%20apps-%20For%20Banks.pdf">Payment Gateway Policy for Mobile Apps- For Banks</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/Payment%20gateway%20policy%20for%20mobile%20apps-%20For%20Others.pdf">Payment Gateway Policy for Mobile Apps- For Others</a></li>
+				</ul>
+				<div align="center">
+				<b><u style="color: #0078d0; font-size: 9px; text-align: center;">E-Catering Policy</u></b></div>
+				<ul>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/E-catiring_Multiple_Payment_Policy.pdf">Policy for Multiple Payment Providers for E-Catering</a></li>
+				</ul></div><div id="j_idt186:empty" class="rf-cp-empty" style="display:block"></div></div><div id="j_idt197" class="rf-cp rf-tgp"><input id="j_idt197-value" name="j_idt197-value" type="hidden" value="false" /><script type="text/javascript">new RichFaces.ui.CollapsiblePanel("j_idt197",{"switchMode":"client","ajax":{"incId":"1"} ,"activeItem":"false"} )</script><div id="j_idt197:header" class="rf-cp-hdr rf-cp-hdr-colps"><table class="rf-cp-gr"><tbody><tr><td class="rf-cp-ico"><div class="rf-cp-ico-colps rf-ico-chevron-up-hdr"></div><div class="rf-cp-ico-exp rf-ico-chevron-down-hdr"></div></td><td class="rf-cp-lbl"><div class="rf-cp-lbl-exp">Advertise with us</div><div class="rf-cp-lbl-colps">Advertise with us</div></td></tr></tbody></table></div><div id="j_idt197:content" class="rf-cp-b" style="display:none">
+				<ul>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/Marketing.html">Mailers and TextLinks</a> </li>
+				    <li><a target="_blank" href="http://contents.irctc.co.in/en/adwithus.html">Advertisement Enquiries</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/Terms_condition_Mailers.pdf">Terms and Conditions_ Mailers</a></li>
+				</ul></div><div id="j_idt197:empty" class="rf-cp-empty" style="display:block"></div></div>
+      	</div>
+      	<div class="grid_8 pull_8"><div id="j_idt200" class="rf-cp rf-tgp"><input id="j_idt200-value" name="j_idt200-value" type="hidden" value="false" /><script type="text/javascript">new RichFaces.ui.CollapsiblePanel("j_idt200",{"switchMode":"client","ajax":{"incId":"1"} ,"activeItem":"false"} )</script><div id="j_idt200:header" class="rf-cp-hdr rf-cp-hdr-colps"><table class="rf-cp-gr"><tbody><tr><td class="rf-cp-ico"><div class="rf-cp-ico-colps rf-ico-chevron-up-hdr"></div><div class="rf-cp-ico-exp rf-ico-chevron-down-hdr"></div></td><td class="rf-cp-lbl"><div class="rf-cp-lbl-exp">IRCTC Official App</div><div class="rf-cp-lbl-colps">IRCTC Official App</div></td></tr></tbody></table></div><div id="j_idt200:content" class="rf-cp-b" style="display:none">
+		    	 <ul>
+				 	<li><a target="_blank" href="http://contents.irctc.co.in/en/IRCTC_andriod_App.html"><span>IRCTC Android App - IRCTC Rail Connect <img src="resources/images/newicon.gif" style="border: none;" /></span></a></li>
+				</ul></div><div id="j_idt200:empty" class="rf-cp-empty" style="display:block"></div></div><div id="j_idt202" class="rf-cp rf-tgp"><input id="j_idt202-value" name="j_idt202-value" type="hidden" value="false" /><script type="text/javascript">new RichFaces.ui.CollapsiblePanel("j_idt202",{"switchMode":"client","ajax":{"incId":"1"} ,"activeItem":"false"} )</script><div id="j_idt202:header" class="rf-cp-hdr rf-cp-hdr-colps"><table class="rf-cp-gr"><tbody><tr><td class="rf-cp-ico"><div class="rf-cp-ico-colps rf-ico-chevron-up-hdr"></div><div class="rf-cp-ico-exp rf-ico-chevron-down-hdr"></div></td><td class="rf-cp-lbl"><div class="rf-cp-lbl-exp">User Guide</div><div class="rf-cp-lbl-colps">User Guide</div></td></tr></tbody></table></div><div id="j_idt202:content" class="rf-cp-b" style="display:none">
+				<ul>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/userregistration.html">User Registration Guide</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/MSSTGUIDE.html">Booking Season Ticket</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/NGET_JP_Userguide.pdf">Next Generation e-ticketing Journey Planner User guide</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/bookEticket.html">Booking E-Ticket</a></li>	
+					<li>
+					<div>
+					<span style="text-align: left;"><a onclick="window.open('bankTxnCharge.jsf','','width=1000,height=450,toolbar=no,scrollbars=yes,status=no,resizable=yes');">Bank Transaction Charges</a></span>
+					</div></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/quickBookTicket.html">Quick Book Ticket Guide</a></li>			    
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/TatkalBooking.html">Tatkal Booking Guide</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/UserGuideforPHConcessions.html">Concession based ticketing for Disabled Passengers</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/eticketCancel.html">Canceling E-Ticket</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/browser.html">Browser Settings</a></li>   
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/User_Guide_OLD_booked_ticket_history.pdf">New site users: How to view Tickets booked at Old site</a></li>
+					<li><a target="_blank" href="https://www.services.irctc.co.in/betaDoc/AadhaarAuthenticationUserGuide.pdf">Aadhaar Authentication Service for Senior Citizen passengers</a></li>
+				 </ul></div><div id="j_idt202:empty" class="rf-cp-empty" style="display:block"></div></div><div id="j_idt207" class="rf-cp rf-tgp"><input id="j_idt207-value" name="j_idt207-value" type="hidden" value="false" /><script type="text/javascript">new RichFaces.ui.CollapsiblePanel("j_idt207",{"switchMode":"client","ajax":{"incId":"1"} ,"activeItem":"false"} )</script><div id="j_idt207:header" class="rf-cp-hdr rf-cp-hdr-colps"><table class="rf-cp-gr"><tbody><tr><td class="rf-cp-ico"><div class="rf-cp-ico-colps rf-ico-chevron-up-hdr"></div><div class="rf-cp-ico-exp rf-ico-chevron-down-hdr"></div></td><td class="rf-cp-lbl"><div class="rf-cp-lbl-exp">Enquiries</div><div class="rf-cp-lbl-colps">Enquiries</div></td></tr></tbody></table></div><div id="j_idt207:content" class="rf-cp-b" style="display:none">	
+				<ul>
+					<li><a target="_blank" href="http://www.indianrail.gov.in/index.html">Reservation Enquiries</a></li>
+					<li><a target="_blank" href="http://www.indianrail.gov.in/pnr_Enq.html">PNR Enquiry</a></li>
+					<li><a target="_blank" href="http://enquiry.indianrail.gov.in/ntes/">Train Enquiry</a></li>
+					<li><a href="http://www.indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&amp;id=0%2C1%2C304%2C366%2C537" target="_blank">Trains at a Glance</a>
+					</li>
+					<li><a target="_blank" href="http://www.indianrail.gov.in/inet_srcdest_names.html">Train/Fare Accommodation</a></li>
+					<li><a target="_blank" href="http://www.indianrail.gov.in/inet_metro_trns.html">Train Between Important Stations</a></li>
+				    <li><a target="_blank" href="http://www.indianrail.gov.in/inet_trnno_enq.html">New Train Number (w.e.f.20/12/2010)</a></li>
+				    <li><a target="_blank" href="http://contents.irctc.co.in/en/SMS139.html">Railway Enquiry-139</a></li>
+				</ul></div><div id="j_idt207:empty" class="rf-cp-empty" style="display:block"></div></div><div id="j_idt214" class="rf-cp rf-tgp"><input id="j_idt214-value" name="j_idt214-value" type="hidden" value="false" /><script type="text/javascript">new RichFaces.ui.CollapsiblePanel("j_idt214",{"switchMode":"client","ajax":{"incId":"1"} ,"activeItem":"false"} )</script><div id="j_idt214:header" class="rf-cp-hdr rf-cp-hdr-colps"><table class="rf-cp-gr"><tbody><tr><td class="rf-cp-ico"><div class="rf-cp-ico-colps rf-ico-chevron-up-hdr"></div><div class="rf-cp-ico-exp rf-ico-chevron-down-hdr"></div></td><td class="rf-cp-lbl"><div class="rf-cp-lbl-exp">General Information</div><div class="rf-cp-lbl-colps">General Information</div></td></tr></tbody></table></div><div id="j_idt214:content" class="rf-cp-b" style="display:none">
+				<ul>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/IRRules.html">Rules and Policies</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/FAQs.html">Frequently Asked Questions</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/PG_SuccessRate.pdf">Statistics</a></li>			
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/term.html">Terms And Conditions</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/Eticket_new_cancel.html">New Facilities In E-Ticket</a></li>
+			    	<li><a target="_blank" href="http://contents.irctc.co.in/en/womenconc.html">Women Sr.Citizens Concession</a></li>
+			    	<li><a target="_blank" href="http://contents.irctc.co.in/en/Waitlisted_E-Ticket.html">Scheme for issue of waitlisted E-tickets</a></li>
+			    	<li><a target="_blank" href="http://contents.irctc.co.in/en/emailAlert.html">Protect against fraudulent emails</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/Suvidha.pdf">General Guideline for SUVIDHA trains</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/currentBooking.html">Current booking Guidelines</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/vikalpTerms.html">VIKALP Scheme</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/boardingPointChange.html">Guideline for Boarding Point Change</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/InsuranceTermCondition.pdf">Travel Insurance Terms And Conditions</a></li>
+				</ul></div><div id="j_idt214:empty" class="rf-cp-empty" style="display:block"></div></div><div id="j_idt216" class="rf-cp rf-tgp"><input id="j_idt216-value" name="j_idt216-value" type="hidden" value="false" /><script type="text/javascript">new RichFaces.ui.CollapsiblePanel("j_idt216",{"switchMode":"client","ajax":{"incId":"1"} ,"activeItem":"false"} )</script><div id="j_idt216:header" class="rf-cp-hdr rf-cp-hdr-colps"><table class="rf-cp-gr"><tbody><tr><td class="rf-cp-ico"><div class="rf-cp-ico-colps rf-ico-chevron-up-hdr"></div><div class="rf-cp-ico-exp rf-ico-chevron-down-hdr"></div></td><td class="rf-cp-lbl"><div class="rf-cp-lbl-exp">Refund Rule</div><div class="rf-cp-lbl-colps">Refund Rule</div></td></tr></tbody></table></div><div id="j_idt216:content" class="rf-cp-b" style="display:none">
+				<ul>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/REFUND%20RULES%20wef%2012-Nov-15.pdf">NEW REFUND RULE 2015 w.e.f - 12-11-2015</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/Refundrule2015.pdf">Cancellation of Ticket and Refund Rules 2015 w.e.f 12-Nov-2015</a></li>
+			    	<li><a target="_blank" href="http://contents.irctc.co.in/en/CC_60_12.pdf">Service Tax Rule</a></li>
+			    	<li><a target="_blank" href="http://contents.irctc.co.in/en/suvidha%20train%20cc40.pdf">Refund Rule of Suvidha Train</a></li>
+				</ul></div><div id="j_idt216:empty" class="rf-cp-empty" style="display:block"></div></div><div id="j_idt218" class="rf-cp rf-tgp"><input id="j_idt218-value" name="j_idt218-value" type="hidden" value="false" /><script type="text/javascript">new RichFaces.ui.CollapsiblePanel("j_idt218",{"switchMode":"client","ajax":{"incId":"1"} ,"activeItem":"false"} )</script><div id="j_idt218:header" class="rf-cp-hdr rf-cp-hdr-colps"><table class="rf-cp-gr"><tbody><tr><td class="rf-cp-ico"><div class="rf-cp-ico-colps rf-ico-chevron-up-hdr"></div><div class="rf-cp-ico-exp rf-ico-chevron-down-hdr"></div></td><td class="rf-cp-lbl"><div class="rf-cp-lbl-exp">I-Ticket</div><div class="rf-cp-lbl-colps">I-Ticket</div></td></tr></tbody></table></div><div id="j_idt218:content" class="rf-cp-b" style="display:none">
+				<ul>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/iticketGuide.html">Booking I-Ticket</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/iticketcancel.html">Canceling I-Ticket</a></li>
+				    <li><a target="_blank" href="http://contents.irctc.co.in/en/term.html">Terms And Conditions I-ticket</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/Deliverypopup.html">Area Covered</a></li>
+						<li><a target="_blank" href="https://www.services.irctc.co.in/cgi-bin/bv60.dll/irctc/services/pinNarea.do?">Pin Codes Covered</a></li>
+					<li><a target="_blank" href="http://www.overnitenet.com/Customer-Service.aspx?contact=contact.aspx">Courier contact Details</a></li>
+			    </ul></div><div id="j_idt218:empty" class="rf-cp-empty" style="display:block"></div></div><div id="j_idt225" class="rf-cp rf-tgp"><input id="j_idt225-value" name="j_idt225-value" type="hidden" value="false" /><script type="text/javascript">new RichFaces.ui.CollapsiblePanel("j_idt225",{"switchMode":"client","ajax":{"incId":"1"} ,"activeItem":"false"} )</script><div id="j_idt225:header" class="rf-cp-hdr rf-cp-hdr-colps"><table class="rf-cp-gr"><tbody><tr><td class="rf-cp-ico"><div class="rf-cp-ico-colps rf-ico-chevron-up-hdr"></div><div class="rf-cp-ico-exp rf-ico-chevron-down-hdr"></div></td><td class="rf-cp-lbl"><div class="rf-cp-lbl-exp">IRCTC Loyalty Program</div><div class="rf-cp-lbl-colps">IRCTC Loyalty Program</div></td></tr></tbody></table></div><div id="j_idt225:content" class="rf-cp-b" style="display:none">
+				<ul>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/AboutSBICobrandCard.html">IRCTC SBI Credit Card</a></li>
+					<li><a target="_blank" href="http://contents.irctc.co.in/en/AboutIRCTCLoyaltyProgram.pdf">About IRCTC Loyalty Scheme</a></li>
+				</ul>
+				<ul>
+					<li><a href="#">User Guide</a></li>
+				</ul>
+				<ul>
+					<ul>
+					    <li><a target="_blank" href="http://contents.irctc.co.in/en/L_LoyalityAccountlinking.pdf">Loyalty Account Linking</a></li>
+						<li><a target="_blank" href="http://contents.irctc.co.in/en/L_SetTransactionPassword.pdf">Set Transaction Password</a></li>
+						<li><a target="_blank" href="http://contents.irctc.co.in/en/L_Accuralpoint.pdf">Accrual of Points</a></li>
+						<li><a target="_blank" href="http://contents.irctc.co.in/en/L_RedeemedLoyaltyPoints.pdf">Redeemed of Points</a></li>
+						<li><a target="_blank" href="http://contents.irctc.co.in/en/L_PurchasePoints.pdf">Purchase of Points</a></li>
+				    </ul>
+			    </ul></div><div id="j_idt225:empty" class="rf-cp-empty" style="display:block"></div></div>
+      	</div>
+      </div>
+      <div class="clearfix"></div>
+		<div style="margin-top : 0.2%;height: 90px;" class="adds" id="nget_home_bottom">			
+			<center>
+					<div>
+						<script type="text/javascript">
+						google_ad_client = "ca-pub-6685711026657277";
+						/* NGET_03_HOME_PAGE_BOTTOM_1_Optout */
+						google_ad_slot = "4117805412";
+						google_ad_width = 970;
+						google_ad_height = 90;
+						
+						</script>
+						<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+						</script>						
+					</div>
+			</center>			
+		</div>
+	</div>
+	<div class="clear"></div>	
+	<div class="grid_16">
+	<div class="irfooter">
+		<div class="irfooterborder">
+			<div id="irfooterlogo">
+			<div style="font-size: 10px;float: left;padding-top: 15px;position:absolute;margin: 5px;">    <span style="color:#fff">02-06-3</span>    </div>
+				<ul>
+					<li><a class="verisign" target="_blank" href="http://usa.visa.com/personal/security/visa_security_program/vbv/verified_by_visa_faq.html"></a>
+					</li>
+					<li><a class="masterc" target="_blank" href="http://www.mastercard.com/us/personal/en/cardholderservices/securecode/index.html"></a>
+					</li>
+					<li><a class="safekey" href="#"></a></li>
+					<li><a class="visa" href="#"></a></li>
+					<li><a class="rupay" href="#"></a></li>
+					<li><a class="maharaja" target="_blank" href="http://www.the-maharajas.com/"></a></li>
+					<li><a class="irctctourism" target="_blank" href="http://www.irctctourism.com/"></a></li>
+				</ul>
+			</div>
+			<div class="irfooterlink">
+				Copyright ©
+<script type="text/javascript">
+/*<![CDATA[*/
+var d = new Date();
+var curr_year = d.getFullYear();
+document.write(curr_year);
+/*]]>*/
+</script>
+- www.irctc.co.in. All Rights Reserved<br />Designed and Hosted by CRIS<br />
+<a target="_blank" href="http://contents.irctc.co.in/en/CompatibleBrowser.html" style="text-decoration: underline; color: #0000ff; cursor: pointer;">Compatible Browser</a>
+			</div>
+		</div>	
+	</div>
+	</div>
+	<div class="clear"></div>
+</div>
+</div>
+
+
+<script type="text/javascript" src="/eticketing/StationLinguisticNames/88v?hl=en"></script><table>
+<tbody>
+<tr>
+<td>
+<script async="async" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script></td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>

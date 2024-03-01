@@ -1,0 +1,1151 @@
+<!DOCTYPE html>
+<html lang="en" data-hatena-cookie-domain=".hatena.ne.jp">
+<head>
+<meta charset="UTF-8" />
+<title>Hatena</title><meta name="description" content="はてなが運営するポータルサイト。ブログもウェブアルバムもニュースも、はてながあればネットがさらに便利になります。">
+<meta name="keywords" content="はてな,hatena,ブログ,ウェブアルバム,ブックマーク">
+<meta name="verify-v1" content="dMI6HLQAvGFS/A1q/gvLdBpOa37cDdjfrBLWc9c0b8Q=">
+<meta name="y_key" content="a3fb177b9c8a9e0a">
+<meta name="google-site-verification" content="ttlVZ7HNF1e932JTCUzcuLsfU6KD0KgcNQJMDKFquYw">
+<meta name=viewport content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"><link rel=stylesheet href="/css/hatenaportal/portal2012.css?t=1487038420"><link rel="apple-touch-icon-precomposed" href="/images/hatenaportal/portal/common/apple-touch-icon.png" />
+  <!--[if lt IE 9]>
+  <script>
+    (function (elements) {
+      for (var i = 0, l = elements.length; i < l; ++i)
+        document.createElement(elements[i]);
+    })('abbr article aside audio bdi canvas data datalist details dialog figcaption figure footer header hgroup main mark meter nav output progress section summary template time video'.split(/\s+/));
+  </script>
+  <![endif]-->
+</head>
+<body id="hatena-www" class="is-pc">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WPVF7X"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WPVF7X');</script>
+<!-- End Google Tag Manager --><header id="header" data-track-area="portal-header">
+  <div id="header-body" itemscope itemtype="http://schema.org/Organization"><a href="/" class="header-logo for-pc" itemprop=url><img src="//www.hatena.ne.jp/images/portal/logo-portal-top2@2x.png" itemprop=logo alt="Hatena" width="150" height="30"></a>
+      <a href="/" class="touch-logo for-touch" itemprop=url><img src="/images/hatenaportal/common/logo@2x.png" itemprop=logo alt="Hatena" width="129" height="20"></a><div id="search-box">
+          <form class="gsc-search-box" method="get" action="/o/search/top" >
+            <input type="search" class="gsc-input" name="q" placeholder="はてなサイト内検索"><input type="submit" value="Search" class="gsc-search-button">
+          </form>
+        </div><ul class="service-menu"><li class=for-hatena-user><a href="//profile.hatena.ne.jp/my/" class="profile-image">
+        <img src="http://n.hatena.ne.jp/my/profile/image?size=16&amp;type=icon" alt>
+        <span id="profile-image-profile">Profile</span>
+      </a></li><li class="header-register for-guest"><a href="https://www.hatena.ne.jp/register?via=200125">Sign Up</a></li><li class="header-login for-guest"><a href="https://www.hatena.ne.jp/login?via=200125">Login</a></li><li class="for-hatena-user for-pc"><a href="/my">My Hatena</a></li><li class="for-hatena-user for-pc"><a href="/my/config">Settings</a></li><li class="for-guest for-pc"><a href="/help">Help</a></li>
+      <li class="for-hatena-user for-pc"><a href="/help/">Help</a></li><li id="langselector-button" class="for-pc" tabindex=0><span><a href="//n.hatena.ne.jp/setting/locale">English</a></span>
+        <div id="langselector">
+          <div id="langselector-title">Choose language</div>
+          <div id="langselector-body">
+            <ul><li class=""><a href="http://www.hatena.ne.jp/?locale.lang=ja" rel=alternate hreflang="ja">日本語</a><li class="selected"><a href="http://www.hatena.ne.jp/?locale.lang=en" rel=alternate hreflang="en">English</a></ul>
+          </div>
+        </div><li class="header-username for-hatena-user for-pc" id="header-username" title="Services used" data-name="" data-rkm="">
+        <span class="header-dropdown" tabindex="0"><img src="//www.hatena.ne.jp/images/header/usermenu.png" alt="Services used"></span>
+        <dl class="header-window" id="username-window"></dl><li class="header-notify for-hatena-user" id="header-notify" title="Your notifications">
+        <span class="header-dropdown" tabindex="0"><img src="/images/hatenaportal/portal/common/notify@2x.png" alt="Your notifications" width="25" height="25"><span class="notify-count"></span></span>
+        <div id="notify-window" class="header-window header-notify"></div>
+      </li>
+    </ul>
+  </div>
+</header>
+
+<script src="/js/hatenaportal/portal2013.js?t=1427082819"></script>
+
+
+
+<div id="pc-billboard-ad"></div>
+<div id="pc-billboard-ad-alt" style="display: none"></div>
+
+<div id="container"><div id="nav" data-track-area="portal-nav"><nav id="hatena-services">
+        <h2 class="title"><a class="for-pc" href="/company/service">Hatena's Online Services</a><span class="for-touch">Hatena's Online Services</span></h2>
+        
+        <ul id="servicelist"><li id="s-link-bookmark"><a href="http://b.hatena.ne.jp/?via=201002" data-touch-href="http://b.hatena.ne.jp/touch?via=201002">
+              <img src="//www.hatena.ne.jp/images/favicon/bookmark.png" alt="" class="service-favicon for-pc">
+              <img src="/images/hatenaportal/portal/2012/s-link-icon-bookmark@2x.png" alt="" class="service-favicon for-touch">
+              <span class="servicelist-title">
+                <span class="service-name" title="Hatena Bookmark"><span>Bookmark</span></span>
+                <span class="servicelist-desc for-guest for-touch">Japan's #1 social bookmarking service. Save your bookmarks online and keep track of the latest online trends and topics.</span>
+              </span>
+            </a></li><li id="s-link-blog"><a href="http://hatenablog.com?via=201002">
+              <img src="//www.hatena.ne.jp/images/favicon/blog.png" alt="" class="service-favicon for-pc">
+              <img src="/images/hatenaportal/portal/2012/s-link-icon-blog@2x.png" alt="" class="service-favicon for-touch">
+              <span class="servicelist-title">
+                <span class="service-name" title="Hatena Blog"><span>Blog</span></span>
+                <span class="servicelist-desc for-guest for-touch">Document the story of your life with Hatena's new easy to use blog service.</span>
+              </span>
+            </a></li><li id="s-link-mackerel"><a href="https://mackerel.io/?via=201002">
+              <img src="//www.hatena.ne.jp/images/favicon/mackerel.png" alt="" class="service-favicon for-pc">
+              <img src="/images/hatenaportal/portal/2012/s-link-icon-mackerel@2x.png" alt="" class="service-favicon for-touch">
+              <span class="servicelist-title">
+                <span class="service-name" title="Mackerel"><span>Mackerel</span></span>
+                <span class="servicelist-desc for-guest for-touch">The server monitoring platform we always wanted.</span>
+              </span>
+            </a></li><li id="s-link-bukkenfan"><a href="https://bukkenfan.jp/?via=201002">
+              <img src="//www.hatena.ne.jp/images/favicon/bukkenfan.png" alt="" class="service-favicon for-pc">
+              <img src="/images/hatenaportal/portal/2012/s-link-icon-bukkenfan@2x.png" alt="" class="service-favicon for-touch">
+              <span class="servicelist-title">
+                <span class="service-name" title="物件ファン"><span>物件ファン</span></span>
+                <span class="servicelist-desc for-guest for-touch">毎日面白い物件が楽しめる不動産エンターテイメントサイト</span>
+              </span>
+            </a></li><li id="s-link-kadenkaigi"><a href="https://kadenkaigi.com/?via=201002">
+              <img src="//www.hatena.ne.jp/images/favicon/kadenkaigi.png" alt="" class="service-favicon for-pc">
+              <img src="/images/hatenaportal/portal/2012/s-link-icon-kadenkaigi@2x.png" alt="" class="service-favicon for-touch">
+              <span class="servicelist-title">
+                <span class="service-name" title="家電会議"><span>家電会議</span></span>
+                <span class="servicelist-desc for-guest for-touch">カメラ・オーディオ・テレビ・パソコン・ガジェット・家電などの情報が集まるコミュニティ</span>
+              </span>
+            </a></li><li id="s-link-news"><a href="http://hatenanews.com?via=201002">
+              <img src="//www.hatena.ne.jp/images/favicon/news.png" alt="" class="service-favicon for-pc">
+              <img src="/images/hatenaportal/portal/2012/s-link-icon-news@2x.png" alt="" class="service-favicon for-touch">
+              <span class="servicelist-title">
+                <span class="service-name" title="Hatena News"><span>News</span></span>
+                <span class="servicelist-desc for-guest for-touch">ネットで旬な話題を分かりやすく紹介。地元発の京都情報、ひとこまマンガも楽しめるニュースサイト</span>
+              </span>
+            </a></li><li id="s-link-bkuma"><a href="http://bkuma.hatena.ne.jp/?via=201002">
+              <img src="//www.hatena.ne.jp/images/favicon/bkuma.png" alt="" class="service-favicon for-pc">
+              <img src="/images/hatenaportal/portal/2012/s-link-icon-bkuma@2x.png" alt="" class="service-favicon for-touch">
+              <span class="servicelist-title">
+                <span class="service-name" title="B!KUMA"><span>B!KUMA</span></span>
+                <span class="servicelist-desc for-guest for-touch">“がんばる私”に、ちょっと一息。恋愛、レシピ、おしゃれ、育児など女性が気になる話題をお届け</span>
+              </span>
+            </a></li><li id="s-link-question"><a href="http://q.hatena.ne.jp/?via=201002">
+              <img src="//www.hatena.ne.jp/images/favicon/question.png" alt="" class="service-favicon for-pc">
+              <img src="/images/hatenaportal/portal/2012/s-link-icon-question@2x.png" alt="" class="service-favicon for-touch">
+              <span class="servicelist-title">
+                <span class="service-name" title="Hatena Question"><span>Question</span></span>
+                <span class="servicelist-desc for-guest for-touch">If there's something you want to know, use this service to interact with others to find the answers.</span>
+              </span>
+            </a></li><li id="s-link-antenna"><a href="http://a.hatena.ne.jp/?via=201002">
+              <img src="//www.hatena.ne.jp/images/favicon/antenna.png" alt="" class="service-favicon for-pc">
+              <img src="/images/hatenaportal/portal/2012/s-link-icon-antenna@2x.png" alt="" class="service-favicon for-touch">
+              <span class="servicelist-title">
+                <span class="service-name" title="Hatena Antenna"><span>アンテナ</span></span>
+                <span class="servicelist-desc for-guest for-touch">A service to automatically track changes and updates of your favorite websites.</span>
+              </span>
+            </a></li><li id="s-link-keyword"><a href="http://k.hatena.ne.jp/?via=201002">
+              <img src="//www.hatena.ne.jp/images/favicon/keyword.png" alt="" class="service-favicon for-pc">
+              <img src="/images/hatenaportal/portal/2012/s-link-icon-keyword@2x.png" alt="" class="service-favicon for-touch">
+              <span class="servicelist-title">
+                <span class="service-name" title="Hatena Keyword"><span>Keyword</span></span>
+                <span class="servicelist-desc for-guest for-touch">Learn about the meanings of words and find new information by reading keywords and user comments.</span>
+              </span>
+            </a></li><li id="s-link-haiku"><a href="http://h.hatena.ne.jp/?via=201002">
+              <img src="//www.hatena.ne.jp/images/favicon/haiku.png" alt="" class="service-favicon for-pc">
+              <img src="/images/hatenaportal/portal/2012/s-link-icon-haiku@2x.png" alt="" class="service-favicon for-touch">
+              <span class="servicelist-title">
+                <span class="service-name" title="Hatena Haiku"><span>Haiku</span></span>
+                <span class="servicelist-desc for-guest for-touch">An easy to use mini blogging service. You can post pictures and draw by hand!</span>
+              </span>
+            </a></li><li id="s-link-fotolife"><a href="http://f.hatena.ne.jp/?via=201002">
+              <img src="//www.hatena.ne.jp/images/favicon/fotolife.png" alt="" class="service-favicon for-pc">
+              <img src="/images/hatenaportal/portal/2012/s-link-icon-fotolife@2x.png" alt="" class="service-favicon for-touch">
+              <span class="servicelist-title">
+                <span class="service-name" title="Hatena Fotolife"><span>Fotolife</span></span>
+                <span class="servicelist-desc for-guest for-touch">An online photo management and sharing service with unlimited storage space for your pictures and videos.</span>
+              </span>
+            </a></li></ul>
+        <div class=loading><img src="/images/hatenaportal/common/loading32.gif" alt="" /></div>
+        <div id="open-close" class="for-touch">
+          <p class="more-less view-more" onclick="document.getElementById('hatena-services').className += ' more-shown'"><span>See more services</span></p>
+          <p class="more-less view-less" onclick="(function (e) { e.className = e.className.replace(/\bmore-shown\b/, '') })(document.getElementById('hatena-services'))"><span>Close</span></p>
+        </div>
+      </nav>
+      <div id="smartphone-apps">
+        <h2 class="title">Apps for Smart-phone</h2>
+        
+        <ul id="smartphonelist"><li id="bookmark-app">
+              <a href="http://b.hatena.ne.jp/guide/app?via=201002"><img src="/images/hatenaportal/portal/2012/appicon-bookmark@2x.png"><span class="app-title"><span class="service-name"><span>Hatena Bookmark</span></span></span></a><li id="blog-app">
+              <a href="http://hatenablog.com/guide/app/ios?via=201002"><img src="/images/hatenaportal/portal/2012/appicon-blog@2x.png"><span class="app-title"><span class="service-name"><span>Hatena Blog</span></span></span></a><li id="bookmark_girls-app">
+              <a href="http://b.hatena.ne.jp/guide/bkuma_girls?via=201002"><img src="/images/hatenaportal/portal/2012/appicon-bkuma@2x.png"><span class="app-title"><span class="service-name"><span>B!KUMA Girls</span></span></span></a></ul>
+      </div>
+      <div id="chrome-apps" class="for-pc">
+        <a href="http://www.hatena.ne.jp/tool/chrome">
+          <img src="/images/hatenaportal/portal/2012/chrome-store-icon@2x.png" alt="">
+          <span class="chrome-tagline1">Chrome拡張で</span>
+          <span class="chrome-tagline2">はてなを便利に</span>
+        </a>
+      </div>
+
+      <div id="facebook-container">
+        <div id="facebook">
+          <hgroup><a href="http://www.facebook.com/hatena.jp">
+            <h2 class="title-h2">Facebook<span class="for-pc">ページ</span></h2>
+            <h3 class="title-h3">Hatena</h3>
+          </a></hgroup>
+          <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fhatena.jp&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=20&amp;appId=238685966189077" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:20px;" allowTransparency="true"></iframe>
+        </div>
+        <div id="twitter" class="for-touch">
+          <hgroup><a href="//twitter.com/hatenapr">
+            <h2 class="title-h2">Twitter</h2>
+            <h3 class="title-h3">@hatenapr</h3>
+          </a></hgroup>
+          <p><a href="https://twitter.com/hatenapr" class="twitter-follow-button" data-show-count="false">Follow @hatenapr</a></p>
+          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        </div>
+      </div>
+    </div>
+  <script>
+    var hatenadfp = hatenadfp || {};
+    hatenadfp.adUnits = hatenadfp.adUnits || [];
+    var name = /\bis-pc\b/.test(document.body.className) ? 'portal' : 'portal_sp';
+    hatenadfp.adUnits.push(
+      { unitName: name, size: [300, 250], divId: 'ad-dfp-portal-top' }
+    );
+    if (document.querySelector('body.is-touch')) {
+        hatenadfp.adUnits.push(
+          { unitName: 'htn_sp_overlay', size: [[320, 80], [320, 70], [320, 50]], divId: 'touch-footer-ad' }
+        );
+        var billboardAd = document.querySelector('#pc-billboard-ad');
+        if (billboardAd) {
+          billboardAd.style.display = 'none';
+        }
+    } else {
+        hatenadfp.adUnits.push(
+          { unitName: 'htn_pc_t_4_9725_0_no', size: [970, 250], divId: 'pc-billboard-ad' }
+        );
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        googletag.cmd.push(function () {
+          googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+            if (event.slot.getSlotElementId() === 'pc-billboard-ad' && event.isEmpty) {
+              document.querySelector('#pc-billboard-ad').style.display = 'none';
+              document.querySelector('#pc-billboard-ad-alt').style.display = 'block';
+            }
+          });
+        });
+    }
+    hatenadfp.isNGContent = false;
+    hatenadfp.centerAds = true;
+  </script>
+  <script type="text/javascript" src="//b.hatena.ne.jp/js/hatena_dfp2.js?20161005"></script>
+
+  <div id="section">
+    <div id="top-info">
+      <script type="text/javascript" src="http://red.st-hatena.com/ad?cid=649&encode=utf8" charset="utf-8"></script>
+    </div>
+    <section class="service" id="s-bookmark" data-track-area="portal-service-bookmark">
+      <h2 class="title"><a href="http://b.hatena.ne.jp/" data-touch-href="http://b.hatena.ne.jp/touch">Hatena Bookmark</a></h2>
+      <div id="p2" class="hotentry">
+        <div class="tab-menu for-pc">
+          <ul class="inline-list">            <li class="selected" data-class=hotentry>人気</li>            <li data-class=social>世の中</li>            <li data-class=economics>政治と経済</li>            <li data-class=life>暮らし</li>            <li data-class=knowledge>学び</li>            <li data-class=entertainment>エンタメ</li>            <li data-class=girls>ガールズ</li>            <li data-class=kadenkaigi>家電</li>          </ul>
+        </div>
+        <div class="hotentry box selected">
+          <ul class=list><li class="js-bookmark-item"><a href="http://appmarketinglabo.net/insta-mercari/" title="インスタは「妄想の検索エンジン」メルカリは「通販の検索エンジン」としてつかう。女子大生が教えてくれたスマホで「ビキニ」を買うまでの心理と経路。 | アプリマーケティング研究所
+女子大生の方に「スマホで買い物する過程」を詳しく聞いてみました。インスタで妄想してからメルカリでモノを買う...？？まず「インスタ検索」で妄想を膨らませる。スマホをつかって「最近買ったモノ」って何かありますか？ どういう経緯で買ったのかも知...インスタは「妄想の検索エンジン」メルカリは「通販の検索エンジン」としてつかう。女子大生が教えてくれたスマホで「ビキニ」を買うまでの心理と経路。 女子大生の..." target=_blank class="list-img for-touch"><img src="http://cdn.image.st-hatena.com/image/square/6c96c8019e39e9b3d3f5f6a937f0bba8d3dd39f9/height=65;version=1;width=100/http%3A%2F%2Fcdn-ak.b.st-hatena.com%2Fentryimage%2F336592792-1494293404.jpg" alt="インスタは「妄想の検索エンジン」メルカリは「通販の検索エンジン」としてつかう。女子大生が教えてくれたスマホで「ビキニ」を買うまでの心理と経路。 | アプリマーケティング研究所の画像" /></a><span class="list-main has-img">
+                  <a class="js-bookmark-target" href="http://appmarketinglabo.net/insta-mercari/" title="インスタは「妄想の検索エンジン」メルカリは「通販の検索エンジン」としてつかう。女子大生が教えてくれたスマホで「ビキニ」を買うまでの心理と経路。 | アプリマーケティング研究所
+女子大生の方に「スマホで買い物する過程」を詳しく聞いてみました。インスタで妄想してからメルカリでモノを買う...？？まず「インスタ検索」で妄想を膨らませる。スマホをつかって「最近買ったモノ」って何かありますか？ どういう経緯で買ったのかも知...インスタは「妄想の検索エンジン」メルカリは「通販の検索エンジン」としてつかう。女子大生が教えてくれたスマホで「ビキニ」を買うまでの心理と経路。 女子大生の..." target=_blank class=list-link>
+                    <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fappmarketinglabo.net%2Finsta-mercari%2F" alt class=favicon><span class="list-title-inner">インスタは「妄想の検索エンジン」メルカリは「通販の...</span></span>
+                    <span class="list-text for-touch">女子大生の方に「スマホで買い物する過程」を詳しく聞いてみました。インスタで妄想してからメルカリでモノを買う...？？まず「インスタ検索」で妄想を膨らませる。スマホをつかって「最近買ったモノ」って何かありますか？ どういう経緯で買ったのかも知...インスタは「妄想の検索エンジン」メルカリは「通販の検索エンジン」としてつかう。女子大生が教えてくれたスマホで「ビキニ」を買うまでの心理と経路。 女子大生の...</span>
+                  </a>
+                  <a href="http://b.hatena.ne.jp/entry/appmarketinglabo.net/insta-mercari/" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://appmarketinglabo.net/insta-mercari/"></a>
+                </span>
+              </li><li class="js-bookmark-item"><a href="http://dktkyk.hatenablog.com/entry/2017/05/08/215219" title="電通の人たちとカラオケに行った話 - 雑記
+2017 - 05 - 08 電通の人たちとカラオケに行った話 ５年ほど前、コピーライターになったろうと、「 宣伝会議 コピーライター養成講座 専門コース 山本高史 クラス」というものに通っていた。 山本高史 というのは、 オリンパス のCMで 宮崎あおい が言っている「ココロとカラダ、にんげんのぜんぶ」というコピーをはじめ、コピーライター界ではスーパースター的な位置にいる御方だ（ちなみに 糸井重..." target=_blank class="list-img for-touch"><img src="http://cdn.image.st-hatena.com/image/square/de10fd727523ff6f0054a12ab76cca250244d78c/height=65;version=1;width=100/http%3A%2F%2Fcdn-ak.b.st-hatena.com%2Fentryimage%2F336471743-1494255638.jpg" alt="電通の人たちとカラオケに行った話 - 雑記の画像" /></a><span class="list-main has-img">
+                  <a class="js-bookmark-target" href="http://dktkyk.hatenablog.com/entry/2017/05/08/215219" title="電通の人たちとカラオケに行った話 - 雑記
+2017 - 05 - 08 電通の人たちとカラオケに行った話 ５年ほど前、コピーライターになったろうと、「 宣伝会議 コピーライター養成講座 専門コース 山本高史 クラス」というものに通っていた。 山本高史 というのは、 オリンパス のCMで 宮崎あおい が言っている「ココロとカラダ、にんげんのぜんぶ」というコピーをはじめ、コピーライター界ではスーパースター的な位置にいる御方だ（ちなみに 糸井重..." target=_blank class=list-link>
+                    <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fdktkyk.hatenablog.com%2Fentry%2F2017%2F05%2F08%2F215219" alt class=favicon><span class="list-title-inner">電通の人たちとカラオケに行った話 - 雑記</span></span>
+                    <span class="list-text for-touch">2017 - 05 - 08 電通の人たちとカラオケに行った話 ５年ほど前、コピーライターになったろうと、「 宣伝会議 コピーライター養成講座 専門コース 山本高史 クラス」というものに通っていた。 山本高史 というのは、 オリンパス のCMで 宮崎あおい が言っている「ココロとカラダ、にんげんのぜんぶ」というコピーをはじめ、コピーライター界ではスーパースター的な位置にいる御方だ（ちなみに 糸井重...</span>
+                  </a>
+                  <a href="http://b.hatena.ne.jp/entry/dktkyk.hatenablog.com/entry/2017/05/08/215219" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://dktkyk.hatenablog.com/entry/2017/05/08/215219"></a>
+                </span>
+              </li><li class="js-bookmark-item"><span class="list-main">
+                  <a class="js-bookmark-target" href="http://anond.hatelabo.jp/20170509135136" title="解散解散～ いい年した大人がこぞってチラシ裏の落書きに親身になっててう..
+解散解散～ いい年した大人がこぞってチラシ裏の落書きに親身になっててうける。 どうせ幻想ですよ。仰る通りちょっとつらい現実を突きつけられたから逃げ場所を探しているだけ。 大体僕が何をしたっていうんだよ。会社の行事に引きずり出されて、やりたくもないことからも逃げずに向き合ってただけじゃん。 真面目に生きて人には親身に寄り添って、人を騙したり人をバカにしたりもせず自分と一生懸命に向き合って、親の面倒見..." target=_blank class=list-link>
+                    <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fanond.hatelabo.jp%2F20170509135136" alt class=favicon><span class="list-title-inner">解散解散～ いい年した大人がこぞってチラシ裏の落書き...</span></span>
+                    <span class="list-text for-touch">解散解散～ いい年した大人がこぞってチラシ裏の落書きに親身になっててうける。 どうせ幻想ですよ。仰る通りちょっとつらい現実を突きつけられたから逃げ場所を探しているだけ。 大体僕が何をしたっていうんだよ。会社の行事に引きずり出されて、やりたくもないことからも逃げずに向き合ってただけじゃん。 真面目に生きて人には親身に寄り添って、人を騙したり人をバカにしたりもせず自分と一生懸命に向き合って、親の面倒見...</span>
+                  </a>
+                  <a href="http://b.hatena.ne.jp/entry/anond.hatelabo.jp/20170509135136" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://anond.hatelabo.jp/20170509135136"></a>
+                </span>
+              </li><li class="js-bookmark-item"><span class="list-main">
+                  <a class="js-bookmark-target" href="https://naruhodo-aojiru.com/lp/furofushi/" title="不老不死専用の掲示板「永遠ちゃんねる」
+このサイトは、不老不死だけが 集まった総合掲示板です。 1,000年以上生きている方は 入場してください。" target=_blank class=list-link>
+                    <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fnaruhodo-aojiru.com%2Flp%2Ffurofushi%2F" alt class=favicon><span class="list-title-inner">不老不死専用の掲示板「永遠ちゃんねる」</span></span>
+                    <span class="list-text for-touch">このサイトは、不老不死だけが 集まった総合掲示板です。 1,000年以上生きている方は 入場してください。</span>
+                  </a>
+                  <a href="http://b.hatena.ne.jp/entry/s/naruhodo-aojiru.com/lp/furofushi/" class="users"><img src="http://b.hatena.ne.jp/entry/image/https://naruhodo-aojiru.com/lp/furofushi/"></a>
+                </span>
+              </li><li class="js-bookmark-item"><a href="http://pc.watch.impress.co.jp/docs/news/1058606.html" title="UPQ製スマホ発火、原因はバッテリ。消費者庁への報告が遅れ厳重注意 ～対応は5月下旬に案内 - PC Watch
+「UPQ Phone A01X」 　株式会社UPQは9日、同社製スマートフォン「UPQ Phone A01X」が過熱、焼損した事故について、充電時のバッテリが焼損元であることが確認できたと発表した。 　焼損事故は2016年9月29日に発生。ユーザーからの連絡で発覚した。この事故を同社が認識したのは2017年4月17日で、その件について消費者庁への報告提出期限は4月26日だったが、同社が報告を行なっ..." target=_blank class="list-img for-touch"><img src="http://cdn.image.st-hatena.com/image/square/b4589e84d0c8c3b39ed5aee99644282fe51f2164/height=65;version=1;width=100/http%3A%2F%2Fcdn-ak.b.st-hatena.com%2Fentryimage%2F336627528-1494310603.jpg" alt="UPQ製スマホ発火、原因はバッテリ。消費者庁への報告が遅れ厳重注意 ～対応は5月下旬に案内 - PC Watchの画像" /></a><span class="list-main has-img">
+                  <a class="js-bookmark-target" href="http://pc.watch.impress.co.jp/docs/news/1058606.html" title="UPQ製スマホ発火、原因はバッテリ。消費者庁への報告が遅れ厳重注意 ～対応は5月下旬に案内 - PC Watch
+「UPQ Phone A01X」 　株式会社UPQは9日、同社製スマートフォン「UPQ Phone A01X」が過熱、焼損した事故について、充電時のバッテリが焼損元であることが確認できたと発表した。 　焼損事故は2016年9月29日に発生。ユーザーからの連絡で発覚した。この事故を同社が認識したのは2017年4月17日で、その件について消費者庁への報告提出期限は4月26日だったが、同社が報告を行なっ..." target=_blank class=list-link>
+                    <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fpc.watch.impress.co.jp%2Fdocs%2Fnews%2F1058606.html" alt class=favicon><span class="list-title-inner">UPQ製スマホ発火、原因はバッテリ。消費者庁への報告が...</span></span>
+                    <span class="list-text for-touch">「UPQ Phone A01X」 　株式会社UPQは9日、同社製スマートフォン「UPQ Phone A01X」が過熱、焼損した事故について、充電時のバッテリが焼損元であることが確認できたと発表した。 　焼損事故は2016年9月29日に発生。ユーザーからの連絡で発覚した。この事故を同社が認識したのは2017年4月17日で、その件について消費者庁への報告提出期限は4月26日だったが、同社が報告を行なっ...</span>
+                  </a>
+                  <a href="http://b.hatena.ne.jp/entry/pc.watch.impress.co.jp/docs/news/1058606.html" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://pc.watch.impress.co.jp/docs/news/1058606.html"></a>
+                </span>
+              </li><li id="bookmark-red" class="js-bookmark-item" style="display:none;">
+                <span class="list-main">
+                  <script type="text/javascript" src="http://red.st-hatena.com/ad?cid=811&encode=utf8" charset="utf-8"></script>
+                  <a class="users"></a>
+                </span>
+              </li>
+          </ul>
+          <p class="more" id="hotentry_list_link"><a href="http://b.hatena.ne.jp/hotentry" data-touch-href="http://b.hatena.ne.jp/hotentry.touch" data-touch-text="<span>See more in Hatena Bookmark</span>">See more</a></p>
+        </div><div class="social box">
+            <ul class="list"><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="http://twitter.com/bazilbuildgamo/status/861734988118491136" title="Bazilさんのツイート: &quot;なんと、「私 日本人でよかった」のモデルの人は、日本人ではなかった。 https://t.co/KaJce9CwqW https://t.co/mJ6765Xqe7&quot; ツイートに位置情報を追加する 位置情報と一緒にツイートした場合、Twitterはその位置情報も保存します。 毎回ツイートする際に、位置情報を付加する/付加しないを選択することができ、いつでも過去の位置情報を全て削除することも可能です。 詳細はこちら" target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Ftwitter.com%2Fbazilbuildgamo%2Fstatus%2F861734988118491136"><span class="list-title-inner">Bazilさんのツイート: &quot;なんと、「私 日本人でよかった...</span></span>
+                    </a>
+                    <a href="http://b.hatena.ne.jp/entry/twitter.com/bazilbuildgamo/status/861734988118491136" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://twitter.com/bazilbuildgamo/status/861734988118491136"></a>
+                  </span>
+                </li><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="http://www.asahi.com/articles/ASK59229VK59UHBI001.html" title="「マクロン氏辞めろ」仏で大規模デモ　大統領選一夜明け：朝日新聞デジタル フランス大統領選の決選投票から一夜明けた８日、次期大統領に決まったエマニュエル・マクロン氏に反対する大規模なデモがパリ市内であった。デモでは就任辞退を求める声もあり、今後の政権運営の厳しさをうかがわせた。 デモは左派系の市民団体などが呼びかけた。パリ中心部のレピュブリック広場からバスチーユ広場まで、約１・５キロメートルの大通りいっぱいに並んで行進した参加者は「１日で十分。マクロン氏は辞めろ」「７日..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fwww.asahi.com%2Farticles%2FASK59229VK59UHBI001.html"><span class="list-title-inner">「マクロン氏辞めろ」仏で大規模デモ　大統領選一夜明...</span></span>
+                    </a>
+                    <a href="http://b.hatena.ne.jp/entry/www.asahi.com/articles/ASK59229VK59UHBI001.html" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://www.asahi.com/articles/ASK59229VK59UHBI001.html"></a>
+                  </span>
+                </li><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="https://www.buzzfeed.com/tatsunoritokushige/poster" title="ネットで話題の「私、日本人でよかった」ポスターのモデル、実は中国人？ 神社本庁は把握せず ポスターを製作したのは、神社本庁。伊勢神宮を本宗と仰ぐ全国約8万社の神社を包括する宗教団体だ。 BuzzFeed Newsの取材に答えた同団体の教化広報部教化課によれば、ポスターの製作は2011年。6万枚が作られ、依頼のあった全国の神社に無償で配られている。 ポスターの文言から一部でナショナリズムを煽ると言われているが「何ともいえないですが、そういうものを啓発するのが目的ではない」とし、製作の目的..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fwww.buzzfeed.com%2Ftatsunoritokushige%2Fposter"><span class="list-title-inner">ネットで話題の「私、日本人でよかった」ポスターのモ...</span></span>
+                    </a>
+                    <a href="http://b.hatena.ne.jp/entry/s/www.buzzfeed.com/tatsunoritokushige/poster" class="users"><img src="http://b.hatena.ne.jp/entry/image/https://www.buzzfeed.com/tatsunoritokushige/poster"></a>
+                  </span>
+                </li><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="http://japanese.engadget.com/2017/05/09/upq/" title="速報：UPQの燃えるスマホ、原因はバッテリー（更新中） - Engadget 日本版 何かと話題にことかかない家電ベンチャー UPQですが、2016年9月に充電中に燃えると報告があったスマートフォン「UPQ Phone A01X」について、原因はバッテリーにあると明らかにしました。5月9日時点で4件の事故報告があり、このうち重大製品事故にあたる報告は2件としています。 UPQによると現在、消費者庁と経産省、販売店などと対応を協議中。5月下旬にもなんからの対応を明らかにする方針を示し..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fjapanese.engadget.com%2F2017%2F05%2F09%2Fupq%2F"><span class="list-title-inner">速報：UPQの燃えるスマホ、原因はバッテリー（更新中）...</span></span>
+                    </a>
+                    <a href="http://b.hatena.ne.jp/entry/japanese.engadget.com/2017/05/09/upq/" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://japanese.engadget.com/2017/05/09/upq/"></a>
+                  </span>
+                </li><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="http://www.jcp.or.jp/akahata/aik17/2017-05-09/2017050901_04_1.html" title="財務省が貿易統計操作/斉藤議員に回答　企業の要望反映 財務省が長年、企業の依頼をもとに「貿易統計」の数字を操作していたことが日本共産党の斉藤和子衆院議員の調べで分かりました。日本の輸出入の状況を示す貿易統計は環太平洋連携協定（ＴＰＰ）や日米経済対話といった通商交渉の前提にもなります。「現在を映す鏡」といわれる統計の恣意（しい）的操作は、政策決定を誤らせる危険な情報操作です。 貿易統計は、貿易の実態を正確に把握することで、国の政策決定や企業の経済活動に..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fwww.jcp.or.jp%2Fakahata%2Faik17%2F2017-05-09%2F2017050901_04_1.html"><span class="list-title-inner">財務省が貿易統計操作/斉藤議員に回答　企業の要望反映</span></span>
+                    </a>
+                    <a href="http://b.hatena.ne.jp/entry/www.jcp.or.jp/akahata/aik17/2017-05-09/2017050901_04_1.html" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://www.jcp.or.jp/akahata/aik17/2017-05-09/2017050901_04_1.html"></a>
+                  </span>
+                </li></ul>
+            <p class="more" id="hotentry_list_link">
+              <a href="http://b.hatena.ne.jp/hotentry/social">See more</a>
+            </p>
+          </div><div class="economics box">
+            <ul class="list"><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="http://www.itmedia.co.jp/business/articles/1705/09/news042.html" title="アクセルと踏み間違えない「左ブレーキ」が、普及しない理由 (1/4) - ITmedia ビジネスオンライン 高齢者がアクセルとブレーキを踏み間違えて、事故を引き起こすケースが相次いでいる。30年ほど前から「AT車の場合、左ブレーキにすれば踏み間違うことはない」といった議論が出ているが、なぜ普及しないのか。 スピン経済の歩き方： 日本ではあまり馴染みがないが、海外では政治家や企業が自分に有利な情報操作を行うことを「スピンコントロール」と呼ぶ。企業戦略には実はこの「スピン」という視点が欠かすことができない。..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fwww.itmedia.co.jp%2Fbusiness%2Farticles%2F1705%2F09%2Fnews042.html"><span class="list-title-inner">アクセルと踏み間違えない「左ブレーキ」が、普及しな...</span></span>
+                    </a>
+                    <a href="http://b.hatena.ne.jp/entry/www.itmedia.co.jp/business/articles/1705/09/news042.html" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://www.itmedia.co.jp/business/articles/1705/09/news042.html"></a>
+                  </span>
+                </li><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="https://mainichi.jp/articles/20170509/k00/00m/010/120000c" title="答弁書：逃げが３割　現政権のゼロ回答・一般論急増 - 毎日新聞 質問主意書に「意味するところが不明」 政府が国会議員の質問主意書に対して閣議決定する答弁書で、質問内容に対し「意味するところが必ずしも明らかではない」と留保する文言が急増している。２０００年以降の答弁書約１万２５００件を調べると、同様の言い回しがあったのは約１３００件。このうち第２次安倍内閣以降が６割超の約８６０件を占めた。なぜこの言葉が使われるのか。 「お尋ねの『団体・イベント等』の意味するとこ..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fmainichi.jp%2Farticles%2F20170509%2Fk00%2F00m%2F010%2F120000c"><span class="list-title-inner">答弁書：逃げが３割　現政権のゼロ回答・一般論急増 - ...</span></span>
+                    </a>
+                    <a href="http://b.hatena.ne.jp/entry/s/mainichi.jp/articles/20170509/k00/00m/010/120000c" class="users"><img src="http://b.hatena.ne.jp/entry/image/https://mainichi.jp/articles/20170509/k00/00m/010/120000c"></a>
+                  </span>
+                </li><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="http://toyokeizai.net/articles/-/170856" title="日本にとって人手不足はどれほど深刻なのか | 国内経済 | 東洋経済オンライン | 経済ニュースの新基準 最近、人手不足が日本経済の制約要因になりつつあるとの見方が増えている。 失業率は完全雇用とされる3％程度での推移が続いていたが、2017年2月には2.8％と1994年12月以来の2％台に低下、3月も2.8%だった。また、有効求人倍率は2013年11月以降、求人数と求職者数が一致する1倍を上回り続け、2017年3月には1.45倍と約26年ぶりの水準まで上昇している。 日銀短観2017年3月調査では、..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Ftoyokeizai.net%2Farticles%2F-%2F170856"><span class="list-title-inner">日本にとって人手不足はどれほど深刻なのか | 国内経済...</span></span>
+                    </a>
+                    <a href="http://b.hatena.ne.jp/entry/toyokeizai.net/articles/-/170856" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://toyokeizai.net/articles/-/170856"></a>
+                  </span>
+                </li><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="http://www.asahi.com/articles/ASK4X4522K4XULOB00B.html" title="帰るまで上司が見届け→残業２割減った　横須賀市が試行：朝日新聞デジタル 職員の残業を減らそうと、神奈川県の横須賀市がある取り組みを試した。すると、月によっては前年比で２割ほど減らすことに成功した。その策とは――。 市によると、職員の時間外勤務は近年増加傾向だった。係長以下の約２８００人の市職員の時間外勤務は、２０１５年度は計４１万２２００時間、市が支払った手当などは約１１億４千万円にのぼった。単純計算では「時給約２７００円」になる。 １人あたりでは月平均１２・２時間。..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fwww.asahi.com%2Farticles%2FASK4X4522K4XULOB00B.html"><span class="list-title-inner">帰るまで上司が見届け→残業２割減った　横須賀市が試行...</span></span>
+                    </a>
+                    <a href="http://b.hatena.ne.jp/entry/www.asahi.com/articles/ASK4X4522K4XULOB00B.html" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://www.asahi.com/articles/ASK4X4522K4XULOB00B.html"></a>
+                  </span>
+                </li><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="http://www.afpbb.com/articles/-/3127569" title="「カエルのペペ」永眠…極右象徴にされた漫画キャラ、作者が死なす　写真1枚　国際ニュース：AFPBB News 【5月9日 AFP】極右主義者らに乗っ取られ、人種憎悪の象徴になった漫画キャラクター「カエルのペペ（ Pepe the Frog ）」が、現状を憂いた作者自身の手で「殺され」た。 ペペはマット・フュリー（ Matt Furie ）氏のインターネット漫画「ボーイズ・クラブ（ Boy's Club ）」に2005年に登場。漫画の中ではたわいないキャラクターだったが、その後、白人至上主義者や極右の憎悪集..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fwww.afpbb.com%2Farticles%2F-%2F3127569"><span class="list-title-inner">「カエルのペペ」永眠…極右象徴にされた漫画キャラ、作...</span></span>
+                    </a>
+                    <a href="http://b.hatena.ne.jp/entry/www.afpbb.com/articles/-/3127569" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://www.afpbb.com/articles/-/3127569"></a>
+                  </span>
+                </li></ul>
+            <p class="more" id="hotentry_list_link">
+              <a href="http://b.hatena.ne.jp/hotentry/economics">See more</a>
+            </p>
+          </div><div class="life box">
+            <ul class="list"><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="http://anond.hatelabo.jp/20170509135136" title="解散解散～ いい年した大人がこぞってチラシ裏の落書きに親身になっててう.. 解散解散～ いい年した大人がこぞってチラシ裏の落書きに親身になっててうける。 どうせ幻想ですよ。仰る通りちょっとつらい現実を突きつけられたから逃げ場所を探しているだけ。 大体僕が何をしたっていうんだよ。会社の行事に引きずり出されて、やりたくもないことからも逃げずに向き合ってただけじゃん。 真面目に生きて人には親身に寄り添って、人を騙したり人をバカにしたりもせず自分と一生懸命に向き合って、親の面倒見..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fanond.hatelabo.jp%2F20170509135136"><span class="list-title-inner">解散解散～ いい年した大人がこぞってチラシ裏の落書き...</span></span>
+                    </a>
+                    <a href="http://b.hatena.ne.jp/entry/anond.hatelabo.jp/20170509135136" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://anond.hatelabo.jp/20170509135136"></a>
+                  </span>
+                </li><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="http://dktkyk.hatenablog.com/entry/2017/05/08/215219" title="電通の人たちとカラオケに行った話 - 雑記 2017 - 05 - 08 電通の人たちとカラオケに行った話 ５年ほど前、コピーライターになったろうと、「 宣伝会議 コピーライター養成講座 専門コース 山本高史 クラス」というものに通っていた。 山本高史 というのは、 オリンパス のCMで 宮崎あおい が言っている「ココロとカラダ、にんげんのぜんぶ」というコピーをはじめ、コピーライター界ではスーパースター的な位置にいる御方だ（ちなみに 糸井重..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fdktkyk.hatenablog.com%2Fentry%2F2017%2F05%2F08%2F215219"><span class="list-title-inner">電通の人たちとカラオケに行った話 - 雑記</span></span>
+                    </a>
+                    <a href="http://b.hatena.ne.jp/entry/dktkyk.hatenablog.com/entry/2017/05/08/215219" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://dktkyk.hatenablog.com/entry/2017/05/08/215219"></a>
+                  </span>
+                </li><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="http://anond.hatelabo.jp/20170509064248" title="東京都民は、独りになりたい時ってどこへいくの？ 独りぼっちで外歩きながら考え事したいときってあると思うんだけど、東京ってどこへいっても誰かしら道歩いてるよね。 渋谷とか新宿みたいな繁華街の話ではなく、それこそ三鷹とか永福町あたりとかでも。 奥多摩のほうへ行けば、人が居ないかな？と思っていったけど、都心から遊びにきている観光客ばかりで逆効果だった。 地方では夜になると殆ど人歩いてない事が多く、田舎なんかは昼間でも殆ど人通りがなく落ち着いて考え事で..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fanond.hatelabo.jp%2F20170509064248"><span class="list-title-inner">東京都民は、独りになりたい時ってどこへいくの？</span></span>
+                    </a>
+                    <a href="http://b.hatena.ne.jp/entry/anond.hatelabo.jp/20170509064248" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://anond.hatelabo.jp/20170509064248"></a>
+                  </span>
+                </li><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="http://anond.hatelabo.jp/20170509105344" title="なんかはてなって殴る蹴るの制裁ありの本物の体育関係知らない人多そうだ.. なんかはてなって殴る蹴るの制裁ありの本物の体育関係知らない人多そうだなって思った" target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fanond.hatelabo.jp%2F20170509105344"><span class="list-title-inner">なんかはてなって殴る蹴るの制裁ありの本物の体育関係...</span></span>
+                    </a>
+                    <a href="http://b.hatena.ne.jp/entry/anond.hatelabo.jp/20170509105344" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://anond.hatelabo.jp/20170509105344"></a>
+                  </span>
+                </li><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="https://togetter.com/li/1108487" title="運転免許証を「お財布に入れておく」という人がいてビックリした - Togetterまとめ リンク twitter.com 1 シロマ (@whitemage) | Twitter The latest Tweets from シロマ (@whitemage). ガールスカウト、FFXI&amp;14、アマチュア無線をしている生命体 5618 です。コールサインは JO3KPS です。2010年春にオートバイの免許を取り BMW R1200RT を買って無線機つけて乗っています。山歩きや遠くにお..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Ftogetter.com%2Fli%2F1108487"><span class="list-title-inner">運転免許証を「お財布に入れておく」という人がいてビ...</span></span>
+                    </a>
+                    <a href="http://b.hatena.ne.jp/entry/s/togetter.com/li/1108487" class="users"><img src="http://b.hatena.ne.jp/entry/image/https://togetter.com/li/1108487"></a>
+                  </span>
+                </li></ul>
+            <p class="more" id="hotentry_list_link">
+              <a href="http://b.hatena.ne.jp/hotentry/life">See more</a>
+            </p>
+          </div><div class="knowledge box">
+            <ul class="list"><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="http://motcho.hateblo.jp/entry/2017/05/08/211615" title="『数学ガール』著者、結城浩氏が第五回ロマンティック数学ナイトで出した問題に感激した - アジマティクス 2017 - 05 - 08 『数学ガール』著者、結城浩氏が第五回ロマンティック数学ナイトで出した問題に感激した まだまだ寒さの残る2017年４月１日、渋谷の 東京カルチャーカルチャー というイベントホールにおいて第五回「ロマンティック数学ナイト」が開催されました。 株式会社和から 主催のこのイベントは、2016年４月に第一回が開催されて以来、２〜４ヶ月程度の間をおいて継続的に開催される人気イベン..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fmotcho.hateblo.jp%2Fentry%2F2017%2F05%2F08%2F211615"><span class="list-title-inner">『数学ガール』著者、結城浩氏が第五回ロマンティック...</span></span>
+                    </a>
+                    <a href="http://b.hatena.ne.jp/entry/motcho.hateblo.jp/entry/2017/05/08/211615" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://motcho.hateblo.jp/entry/2017/05/08/211615"></a>
+                  </span>
+                </li><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="http://wired.jp/2017/05/09/how-life-began/" title="「生命の起源」ついに明らかに？ その想像以上にシンプルなメカニズム｜WIRED.jp INSIGHT 2017.05.09 TUE 08:00 「生命の起源」ついに明らかに？ その想像以上にシンプルなメカニズム 原始の地球で最初の細胞が誕生した仕組みを明らかにする、新発見がもたらされた。1924年以来、長らく忘れ去られていた進化史上の仮説に再び、注目が集まっている。 TEXT BY NATALIE WOLCHOVER WIRED(US) IMAGE:Rostislav Zatons..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fwired.jp%2F2017%2F05%2F09%2Fhow-life-began%2F"><span class="list-title-inner">「生命の起源」ついに明らかに？ その想像以上にシンプ...</span></span>
+                    </a>
+                    <a href="http://b.hatena.ne.jp/entry/wired.jp/2017/05/09/how-life-began/" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://wired.jp/2017/05/09/how-life-began/"></a>
+                  </span>
+                </li><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="http://www.gizmodo.jp/2017/05/komodo-dragon-antibiotics-drgn-1.html" title="我が体内で病と闘うドラゴンの血…？ コモドドラゴンの血液から新種の抗生物質発見か。その名も「DRGN-1」｜ギズモード・ジャパン オレには、ドラゴンの血が流れている…まで余裕で妄想。 The Sydney Morning Herald によると、アメリカのジョージ・メイソン大学の研究者が先日、新種の 抗生物質 を発見した可能性があると発表しました。その発見もとっていうのがまた、恐竜の生き残りかと思わんばかりの体と、単為生殖も可能という生命力から、ある意味「 地球上最強 」とも謳われる コモドドラゴン の血液中。加えて、その名..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fwww.gizmodo.jp%2F2017%2F05%2Fkomodo-dragon-antibiotics-drgn-1.html"><span class="list-title-inner">我が体内で病と闘うドラゴンの血…？ コモドドラゴンの...</span></span>
+                    </a>
+                    <a href="http://b.hatena.ne.jp/entry/www.gizmodo.jp/2017/05/komodo-dragon-antibiotics-drgn-1.html" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://www.gizmodo.jp/2017/05/komodo-dragon-antibiotics-drgn-1.html"></a>
+                  </span>
+                </li><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="http://www.yomiuri.co.jp/science/20170509-OYT1T50002.html" title="ストラディバリウス負けた！聴衆は現代製に軍配 : 科学・ＩＴ : 読売新聞（YOMIURI ONLINE） 【ワシントン＝三井誠】数億円の値段がつくバイオリンの名器「ストラディバリウス」と、現代のバイオリンの演奏を聴衆に聞かせると、聴衆は現代のバイオリンの方を好むとする実験結果を、仏パリ大などの研究チームがまとめた。 論文が近く、米科学アカデミー紀要に掲載される。 このチームは５年前、ストラディバリウスと現代の楽器を弾いた演奏家でも、音の評価に大きな差がなかったとする研究を同紀要で発表している。チームは..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fwww.yomiuri.co.jp%2Fscience%2F20170509-OYT1T50002.html"><span class="list-title-inner">ストラディバリウス負けた！聴衆は現代製に軍配 : 科学...</span></span>
+                    </a>
+                    <a href="http://b.hatena.ne.jp/entry/www.yomiuri.co.jp/science/20170509-OYT1T50002.html" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://www.yomiuri.co.jp/science/20170509-OYT1T50002.html"></a>
+                  </span>
+                </li><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="http://shiropen.com/2017/05/09/24742" title="カーネギーメロン大学、スプレー塗料を吹きかけた物体をタッチパッドにする低コストの技術を発表。ほぼ全ての形状/表面のオブジェクトが変換可能。ギター、ステアリング、スマートフ カーネギーメロン大学、スプレー塗料を吹きかけた物体をタッチパッドにする低コストの技術を発表。ほぼ全ての形状/表面のオブジェクトが変換可能。ギター、ステアリング、スマートフォンの裏など 2017.05.09 論文 カーネギーメロン大学の研究者らは、「Electrick」と呼ぶスプレー塗料を物体に吹きかけ、その物体を全てタッチパッドにする技術を論文にて 発表しました。 Electrickは、多種多様な..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fshiropen.com%2F2017%2F05%2F09%2F24742"><span class="list-title-inner">カーネギーメロン大学、スプレー塗料を吹きかけた物体...</span></span>
+                    </a>
+                    <a href="http://b.hatena.ne.jp/entry/shiropen.com/2017/05/09/24742" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://shiropen.com/2017/05/09/24742"></a>
+                  </span>
+                </li></ul>
+            <p class="more" id="hotentry_list_link">
+              <a href="http://b.hatena.ne.jp/hotentry/knowledge">See more</a>
+            </p>
+          </div><div class="entertainment box">
+            <ul class="list"><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="http://news.livedoor.com/article/detail/13036882/" title="くわばたりえが猛批判した医師の発言「病院は100％治せるわけではない」 - ライブドアニュース &gt; &gt; &gt; &gt; 2017年5月9日 11時51分 ざっくり言うと くわばたりえが8日の番組で、医師の発言に対して猛批判した 医師は、病院は100％病気を治せるわけではなく、最善を尽くす立場と語った くわばたは「それを病院が言ったらアカンちゃうの？」と噛み付いた くわばたりえが猛批判した医師の発言「100％病気を治せるわけではない」 病院は100%治せない 発言に批判 2017年5月9日 11時51..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fnews.livedoor.com%2Farticle%2Fdetail%2F13036882%2F"><span class="list-title-inner">くわばたりえが猛批判した医師の発言「病院は100％治せ...</span></span>
+                    </a>
+                    <a href="http://b.hatena.ne.jp/entry/news.livedoor.com/article/detail/13036882/" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://news.livedoor.com/article/detail/13036882/"></a>
+                  </span>
+                </li><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="https://headlines.yahoo.co.jp/hl?a=20170509-00050002-yom-sci" title="ストラディバリウス負けた！聴衆は現代製に軍配 （読売新聞） - Yahoo!ニュース 【ワシントン＝三井誠】数億円の値段がつくバイオリンの名器「ストラディバリウス」と、現代のバイオリンの演奏を聴衆に聞かせると、聴衆は現代のバイオリンの方を好むとする実験結果を、仏パリ大などの研究チームがまとめた。 論文が近く、米科学アカデミー紀要に掲載される。 このチームは５年前、ストラディバリウスと現代の楽器を弾いた演奏家でも、音の評価に大きな差がなかったとする研究を同紀要で発表している。チームは..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fheadlines.yahoo.co.jp%2Fhl%3Fa%3D20170509-00050002-yom-sci"><span class="list-title-inner">ストラディバリウス負けた！聴衆は現代製に軍配 （読売...</span></span>
+                    </a>
+                    <a href="http://b.hatena.ne.jp/entry/s/headlines.yahoo.co.jp/hl?a=20170509-00050002-yom-sci" class="users"><img src="http://b.hatena.ne.jp/entry/image/https://headlines.yahoo.co.jp/hl?a=20170509-00050002-yom-sci"></a>
+                  </span>
+                </li><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="http://blog.livedoor.jp/hollywoodfx/archives/1644695.html" title="ドラゴンボールエボリューション　記憶から消し去りたい映画のお仕事　その１ : 片桐裕司ハリウッド映画のお仕事 １０年ほど前の仕事のお話。 ADI というスタジオから、面白い仕事がいっぱい始まるから来てくれと呼ばれました。 詳細は口を濁して教えてくれず、しかし丁度タイミングも良かったということもあり、何の仕事かわからないままそこで仕事をすることになりました。 そして 初日に知りました。 今度の仕事は何とあのドラゴンボールの実写版だというではありませんか！　 少年ジャンプで連載が始まった時から夢中になって読ん..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fblog.livedoor.jp%2Fhollywoodfx%2Farchives%2F1644695.html"><span class="list-title-inner">ドラゴンボールエボリューション　記憶から消し去りた...</span></span>
+                    </a>
+                    <a href="http://b.hatena.ne.jp/entry/blog.livedoor.jp/hollywoodfx/archives/1644695.html" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://blog.livedoor.jp/hollywoodfx/archives/1644695.html"></a>
+                  </span>
+                </li><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="http://blog.livedoor.jp/hollywoodfx/archives/1644729.html" title="ドラゴンボールエボリューション　記憶から消し去りたい映画のお仕事　その２ : 片桐裕司ハリウッド映画のお仕事 パート１ からの続き 結局私はオザールのデザインをいくつかすることになりました。 悟空が変身するかっこいいエイリアン。 名前は Oozaru にして大猿にあらず。 禅問答なのか？ そこにいる誰にも理解されない矛盾を心に抱え、 記憶から消し去りたい日々がいよいよ始まる、、、 これほど気持ちが乗らない大作ってかつてあっただろうか！？   ( オザールの造形。これは Jordu Shell というアーテ..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fblog.livedoor.jp%2Fhollywoodfx%2Farchives%2F1644729.html"><span class="list-title-inner">ドラゴンボールエボリューション　記憶から消し去りた...</span></span>
+                    </a>
+                    <a href="http://b.hatena.ne.jp/entry/blog.livedoor.jp/hollywoodfx/archives/1644729.html" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://blog.livedoor.jp/hollywoodfx/archives/1644729.html"></a>
+                  </span>
+                </li><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="https://japan.cnet.com/article/35100861/" title="カセットテープを挟む1軸だけの携帯プレーヤー「Elbow」--テープの大部分が露出 - CNET Japan すでに過去の音楽メディアとなったはずのカセットテープだが、アナログレコードと同じように人気が復活している。ファッションアイテムとして認識されているのか、カセット型テーブル「 TAYBLES 」なども登場した。 そんなカセットプレーヤーの全盛時代には、「ウォークマン」に代表される携帯プレーヤーの種類も数え切れないほどあった。なかには、カセットテープより小さく、カセットテープを挟み込んで再生するプレー..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fjapan.cnet.com%2Farticle%2F35100861%2F"><span class="list-title-inner">カセットテープを挟む1軸だけの携帯プレーヤー「Elbow...</span></span>
+                    </a>
+                    <a href="http://b.hatena.ne.jp/entry/s/japan.cnet.com/article/35100861/" class="users"><img src="http://b.hatena.ne.jp/entry/image/https://japan.cnet.com/article/35100861/"></a>
+                  </span>
+                </li></ul>
+            <p class="more" id="hotentry_list_link">
+              <a href="http://b.hatena.ne.jp/hotentry/entertainment">See more</a>
+            </p>
+          </div><div class="girls box">
+            <ul class="list"><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="http://maeharakazuhiro.com/packing-bag/" title="そろそろスーツケースで海外旅行をやめてみない？肩掛けバッグで海外旅行に行く13個の自分の工夫を集めてみた - あしたはもっと遠くへいこう そろそろ海外旅行に行くための荷物入れ、スーツケースからショルダーバッグに変えてみませんか？こんにちは。ミニマリストでもないのに、海外旅行に行く時はショルダーバッグだけで行ってるまえちゃん@Maechan0502です。さて海外旅行に行くとなるそろそろ海外旅行に行くための荷物入れ、スーツケースからショルダーバッグに変えてみませんか？ こんにちは。ミニマリストでもないのに、海外旅行に行く時はショルダーバ..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fmaeharakazuhiro.com%2Fpacking-bag%2F"><span class="list-title-inner">そろそろスーツケースで海外旅行をやめてみない？肩掛...</span></span>
+                    </a>
+                    <a href="http://bkuma.hatena.ne.jp/entry/maeharakazuhiro.com/packing-bag/" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://maeharakazuhiro.com/packing-bag/"></a>
+                  </span>
+                </li><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="http://www.e-aidem.com/ch/jimocoro/entry/dango06" title="あえて高校に行かず15歳で「コーヒーショップ」を構えた少年 - イーアイデムの地元メディア「ジモコロ」 2017 - 05 - 01 あえて高校に行かず15歳で「コーヒーショップ」を構えた少年 2017年4月、群馬県桐生市にコーヒーショップ「HORIZON LABO」がオープンしました。店主は15歳の焙煎士・岩野響さん。彼は高校へ行かず、洋服店「リップル洋品店」を営む両親の手助けを受けて自分の店を持ちました。独学ながら「伊東屋珈琲」と「大坊珈琲店」大坊勝次さんに焙煎の手ほどきも受けています。響さんが..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fwww.e-aidem.com%2Fch%2Fjimocoro%2Fentry%2Fdango06"><span class="list-title-inner">あえて高校に行かず15歳で「コーヒーショップ」を構え...</span></span>
+                    </a>
+                    <a href="http://bkuma.hatena.ne.jp/entry/www.e-aidem.com/ch/jimocoro/entry/dango06" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://www.e-aidem.com/ch/jimocoro/entry/dango06"></a>
+                  </span>
+                </li><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="https://www.jalan.net/news/article/162292/" title="この夏こそ、一面に広がる向日葵が見たい！絶景すぎる「ひまわりスポット」全国28選 @jalannet 青空に映える、鮮やかな向日葵（ヒマワリ）の花。 一度はやってみたいひまわり迷路や、見渡す限りに広がるひまわり畑♪ フォトジェニックな夏の絶景は必見です！ 7～8月に見頃を迎える場所が多いですが、地域によっては10月に咲くという穴場スポットも！ ※紹介施設はじゃらんnet観光ガイドから抜粋しました ※掲載されている情報や写真については最新の情報とは限りません。必ずご自身で事前にご確認の上、ご利用くだ..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=https%3A%2F%2Fwww.jalan.net%2Fnews%2Farticle%2F162292%2F"><span class="list-title-inner">この夏こそ、一面に広がる向日葵が見たい！絶景すぎる...</span></span>
+                    </a>
+                    <a href="http://bkuma.hatena.ne.jp/entry/s/www.jalan.net/news/article/162292/" class="users"><img src="http://b.hatena.ne.jp/entry/image/https://www.jalan.net/news/article/162292/"></a>
+                  </span>
+                </li><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="http://www.namtyu.com/entry/family" title="なぜ夫は家庭内で”指示待ち人間”になるのか - Still blank 2017 - 05 - 06 なぜ夫は家庭内で”指示待ち人間”になるのか Twitter Google Pocket どうも、なむちゅうです。 先日、ふと妻にこう言われました。 「●●君（私の名前）、なんで男性って 家庭内で指示待ち人間になる人が多いと思う？」 その時、 私は「お風呂掃除をして～」と妻に言われたので、 ゴロゴロしているところから、 お風呂掃除に取り掛かるところでした。 恐らく、妻の..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fwww.namtyu.com%2Fentry%2Ffamily"><span class="list-title-inner">なぜ夫は家庭内で”指示待ち人間”になるのか - Still bl...</span></span>
+                    </a>
+                    <a href="http://bkuma.hatena.ne.jp/entry/www.namtyu.com/entry/family" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://www.namtyu.com/entry/family"></a>
+                  </span>
+                </li><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="http://www.rinsimpl.com/entry/2017/05/08/071716" title="簡単な作り置きレシピ！　甘酢煮・野菜のピクルス・切り干し大根 - Rinのシンプルライフ 2017 - 05 - 08 簡単な作り置きレシピ！　甘酢煮・野菜のピクルス・切り干し大根 料理 シェアする Twitter Google+ Pocket 広告 ▼断捨離とは？断捨離のコツと効果【服・本・キッチン（食器）】 ▼収納・片付けのやり方・ステップ１～４ ▼IKEA雑貨お気に入り２０点公開！カーテン・照明・雑貨 ▼【無印良品週間】お勧め収納雑貨・服：家具など一挙公開 ミニマリストにはなれな..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fwww.rinsimpl.com%2Fentry%2F2017%2F05%2F08%2F071716"><span class="list-title-inner">簡単な作り置きレシピ！　甘酢煮・野菜のピクルス・切...</span></span>
+                    </a>
+                    <a href="http://bkuma.hatena.ne.jp/entry/www.rinsimpl.com/entry/2017/05/08/071716" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://www.rinsimpl.com/entry/2017/05/08/071716"></a>
+                  </span>
+                </li></ul>
+            <p class="more" id="hotentry_list_link">
+              <a href="http://bkuma.hatena.ne.jp/">See more</a>
+            </p>
+          </div><div class="kadenkaigi box">
+            <ul class="list"><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="http://www.moguravr.com/palmer-luckey-interview/" title="【独占インタビュー】Oculusを作った男が語る 半裸コスプレのワケと日本のVR開発への想い（前編） | Mogura VR - 国内外のVR最新情報 2016年にOculus RiftやPlayStation VRなどが発売されて以来、VRという言葉を目にすることが多くなりました。VRの一般化とも言える今回の流れの発端となったのは遡ること5年、2012年のことです。 2012年8月、Oculus2016年にOculus RiftやPlayStation VRなどが発売されて以来、VRという言葉を目にすることが多くなりました。VRの一般化とも言え..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fwww.moguravr.com%2Fpalmer-luckey-interview%2F"><span class="list-title-inner">【独占インタビュー】Oculusを作った男が語る 半裸コス...</span></span>
+                    </a>
+                    <a href="http://b.hatena.ne.jp/entry/www.moguravr.com/palmer-luckey-interview/" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://www.moguravr.com/palmer-luckey-interview/"></a>
+                  </span>
+                </li><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="http://blog.gururimichi.com/entry/2017/05/09/193842" title="知識がなくてもド迫力で楽しい『ミュシャ展』と、カメラを通した芸術鑑賞 - ぐるりみち。 2017 - 05 - 09 知識がなくてもド迫力で楽しい『ミュシャ展』と、カメラを通した芸術鑑賞 お出かけ お出かけ-お出かけスポット 国立新美術館 で開催中の企画展 『ミュシャ展』 に行ってきました。 ここしばらく美術館に行けておらず、いつ以来になるのかなー……とブログを振り返ってみたら、昨年夏の 『ルーヴルNo.9』 （現在は福岡アジア美術館で開催中） が最後だった模様。いやー、思っていた以..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fblog.gururimichi.com%2Fentry%2F2017%2F05%2F09%2F193842"><span class="list-title-inner">知識がなくてもド迫力で楽しい『ミュシャ展』と、カメ...</span></span>
+                    </a>
+                    <a href="http://b.hatena.ne.jp/entry/blog.gururimichi.com/entry/2017/05/09/193842" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://blog.gururimichi.com/entry/2017/05/09/193842"></a>
+                  </span>
+                </li><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="http://www.itmedia.co.jp/mobile/articles/1705/09/news133.html" title="ドコモの「P-smart ケータイ P-01J」、アップデートでテザリングに対応 - ITmedia Mobile NTTドコモは、5月9日にパナソニック モバイルコミュニケーションズ製のAndroidフィーチャーフォン「P-smart ケータイ P-01J」をアップデートした。 これより、当初は非対応だったWi-Fiテザリング機能に対応。また、まれに発信者番号通知が有効とならない場合がある不具合も改善する。 端末本体（Wi-Fi、Xi／FOMA）の更新時間は約6分。あらかじめ設定した時間での自動ダウンロード、..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fwww.itmedia.co.jp%2Fmobile%2Farticles%2F1705%2F09%2Fnews133.html"><span class="list-title-inner">ドコモの「P-smart ケータイ P-01J」、アップデートで...</span></span>
+                    </a>
+                    <a href="http://b.hatena.ne.jp/entry/www.itmedia.co.jp/mobile/articles/1705/09/news133.html" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://www.itmedia.co.jp/mobile/articles/1705/09/news133.html"></a>
+                  </span>
+                </li><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="http://hulu-japan.jp/newhulu/info.html" title="新しいHuluへ | リニューアルに伴うお知らせ 5月17日（水）のリニューアルに伴い、皆様にお願いとお知らせがございます。 スムーズに新しいHuluをお使いいただけるよう、あらかじめご確認をお願いいたします。 5月9日追加   アプリのアップデート、または新規インストールのお願い リニューアルに伴い、テレビ・ゲーム機・スマートフォンなどでアプリをお使いの方は、 アプリのアップデート、または新規インストールが必要になります。 ご利用の機器ごとの対..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fhulu-japan.jp%2Fnewhulu%2Finfo.html"><span class="list-title-inner">新しいHuluへ | リニューアルに伴うお知らせ</span></span>
+                    </a>
+                    <a href="http://b.hatena.ne.jp/entry/hulu-japan.jp/newhulu/info.html" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://hulu-japan.jp/newhulu/info.html"></a>
+                  </span>
+                </li><li class="js-bookmark-item">
+                  <span class="list-main">
+                    <a class="js-bookmark-target" href="http://ascii.jp/elem/000/001/480/1480418/" title="ASCII.jp：なぜ東大では1000台超のMacBook Proが一瞬で売れるのか みなさま、こんばんは。ASCII（週刊アスキー+ASCII.jp）編集部の吉田ヒロでございます。タイトルでもうネタバレなんですが、東京大学の駒場キャンパスでは毎年春先になると、あり得ないぐらいの量のMacBook Proが一瞬で売れていることをご存じでしょうか。まあ、ご存じではないと思います。 1000台以上のMacが導入されている東京大学の駒場キャンパス。実は学生が購入するパソコンもMacが多数..." target=_blank class=link>
+                      <span class=list-title><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fascii.jp%2Felem%2F000%2F001%2F480%2F1480418%2F"><span class="list-title-inner">ASCII.jp：なぜ東大では1000台超のMacBook Proが一瞬で...</span></span>
+                    </a>
+                    <a href="http://b.hatena.ne.jp/entry/ascii.jp/elem/000/001/480/1480418/" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://ascii.jp/elem/000/001/480/1480418/"></a>
+                  </span>
+                </li></ul>
+            <p class="more" id="hotentry_list_link">
+              <a href="https://kadenkaigi.com/">See more</a>
+            </p>
+          </div><script>
+          var bookmarkBox = document.getElementById('p2');
+          var menu = bookmarkBox.querySelector('.tab-menu');
+          var menuItems = menu.getElementsByTagName('li');
+          var boxes = bookmarkBox.querySelectorAll('.box');
+          menu.onclick = function (ev) {
+            ev = ev || window.event;
+            var e = ev.target || ev.srcElement;
+            var className = e.getAttribute('data-class') || e.parentNode.getAttribute('data-class');
+            if (!className)
+              return false;
+
+            for (var i = 0; i < menuItems.length; i++) {
+              menuItems[i].className = menuItems[i].className.replace(/\bselected\b/g, '');
+            }
+            e.className += ' selected';
+
+            for (var i = 0; i < boxes.length; i++) {
+              if (boxes[i].className.indexOf(className) > -1) {
+                boxes[i].className += ' selected';
+              } else {
+                boxes[i].className = boxes[i].className.replace(/\bselected\b/g, '');
+              }
+            }
+            return false;
+          };
+        </script>
+      </div>
+    </section>
+
+    <div class="news-wrapper">
+      <section id="s-hatenanews" data-track-area=portal-service-bookmarknews><h2 class="title"><a href="http://hatenanews.com/?via=201028" data-touch-href="http://hatenanews.com/touch?via=201028">Hatena News</a></h2><ul class=list><li class="js-bookmark-item">
+            <a href="http://hatenanews.com/articles/2017/04/27/112533" title="はてなブックマークの「タグ」に注目した連載「はてなブックマークタグ紀行」をお送りします。「映画」「京都」「あとで読む」など、ブックマークしたページを分類するために自分で設定できるこれらのタグ。時には、ブックマークするだけでなく、タグそのものをさかのぼってみるとおもしろい発見があるかもしれません。最終回は、ネット上のあちこちで見かける顔文字「＼(^o^)／」。この顔からどんな感情を読み取りますか？ ▽ タグ「＼(^o^)／」を検索 - はてなブックマーク日本のネット文化で独自の進化を続けてきた顔文字。アクセントとして添えられるものから感情を代弁するものまで、その使い道はさまざまです。タグにもなっ…" class="list-img for-touch"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/h/hatenanews/20170215/20170215102446.png" alt="はてなブックマークタグ紀行　最終回「＼(^o^)／」の画像" /></a>
+            <span class="list-main">
+              <a class="list-link js-bookmark-target" href="http://hatenanews.com/articles/2017/04/27/112533" title="はてなブックマークタグ紀行　最終回「＼(^o^)／」
+はてなブックマークの「タグ」に注目した連載「はてなブックマークタグ紀行」をお送りします。「映画」「京都」「あとで読む」など、ブックマークしたページを分類するために自分で設定できるこれらのタグ。時には、ブックマークするだけでなく、タグそのものをさかのぼってみるとおもしろい発見があるかもしれません。最終回は、ネット上のあちこちで見かける顔文字「＼(^o^)／」。この顔からどんな感情を読み取りますか？ ▽ タグ「＼(^o^)／」を検索 - はてなブックマーク日本のネット文化で独自の進化を続けてきた顔文字。アクセントとして添えられるものから感情を代弁するものまで、その使い道はさまざまです。タグにもなっ…">
+                <span class="list-title"><span class="list-date">04/27</span><span class="list-title-inner">はてなブックマークタグ紀行　最終回「＼(^o^)／」</span></span>
+                <span class="list-text for-touch">はてなブックマークの「タグ」に注目した連載「はてなブックマークタグ紀行」をお送りします。「映画」「京都」「あとで読む」など、ブックマークしたページを分類するために自分で設定できるこれらのタグ。時には、ブックマークするだけでなく、タグそのものをさかのぼってみるとおもしろい発見があるかもしれません。最終回は、ネット上のあちこちで見かける顔文字「＼(^o^)／」。この顔からどんな感情を読み取りますか？ ▽ タグ「＼(^o^)／」を検索 - はてなブックマーク日本のネット文化で独自の進化を続けてきた顔文字。アクセントとして添えられるものから感情を代弁するものまで、その使い道はさまざまです。タグにもなっ…</span>
+              </a>
+              <a href="http://b.hatena.ne.jp/entry/hatenanews.com/articles/2017/04/27/112533" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://hatenanews.com/articles/2017/04/27/112533"></a>
+            </span>
+          </li><li class="js-bookmark-item">
+            <a href="http://hatenanews.com/articles/2017/04/25/113428" title="「はてなエンジニアの愛用キーボード調査」後編では、アンケートで特に人気だった上位3機種「Happy Hacking Keyboard」「MacBook Pro内蔵キーボード」「kinesis（Contoured Keyboard）」を愛用中のエンジニアに取材。各機種の使い心地や一押しポイントを聞きました！ ■ 前編で発表したアンケート結果をおさらい 前編では、はてなエンジニアに向けて実施したキーボードについてのアンケート結果を発表しました。「仕事用にメインで使っているキーボード」を尋ねたところ、「Happy Hacking Keyboard」と「MacBook Pro内蔵キーボード」が同率1位…" class="list-img for-touch"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/h/hatenanews/20170414/20170414181846.jpg" alt="はてなエンジニアの愛用キーボード調査（後編）　人気3機種の愛用者に使い心地を聞いてみましたの画像" /></a>
+            <span class="list-main">
+              <a class="list-link js-bookmark-target" href="http://hatenanews.com/articles/2017/04/25/113428" title="はてなエンジニアの愛用キーボード調査（後編）　人気3機種の愛用者に使い心地を聞いてみました
+「はてなエンジニアの愛用キーボード調査」後編では、アンケートで特に人気だった上位3機種「Happy Hacking Keyboard」「MacBook Pro内蔵キーボード」「kinesis（Contoured Keyboard）」を愛用中のエンジニアに取材。各機種の使い心地や一押しポイントを聞きました！ ■ 前編で発表したアンケート結果をおさらい 前編では、はてなエンジニアに向けて実施したキーボードについてのアンケート結果を発表しました。「仕事用にメインで使っているキーボード」を尋ねたところ、「Happy Hacking Keyboard」と「MacBook Pro内蔵キーボード」が同率1位…">
+                <span class="list-title"><span class="list-date">04/25</span><span class="list-title-inner">はてなエンジニアの愛用キーボード調査（後編）　...</span></span>
+                <span class="list-text for-touch">「はてなエンジニアの愛用キーボード調査」後編では、アンケートで特に人気だった上位3機種「Happy Hacking Keyboard」「MacBook Pro内蔵キーボード」「kinesis（Contoured Keyboard）」を愛用中のエンジニアに取材。各機種の使い心地や一押しポイントを聞きました！ ■ 前編で発表したアンケート結果をおさらい 前編では、はてなエンジニアに向けて実施したキーボードについてのアンケート結果を発表しました。「仕事用にメインで使っているキーボード」を尋ねたところ、「Happy Hacking Keyboard」と「MacBook Pro内蔵キーボード」が同率1位…</span>
+              </a>
+              <a href="http://b.hatena.ne.jp/entry/hatenanews.com/articles/2017/04/25/113428" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://hatenanews.com/articles/2017/04/25/113428"></a>
+            </span>
+          </li><li class="js-bookmark-item">
+            <a href="http://hatenanews.com/articles/2017/04/25/113153" title="エンジニアにとって、重要な仕事道具の一つであるキーボード。キーの配列や打ち心地など、人によってさまざまなこだわりがあります。はてなニュースは今回、「はてなエンジニアの愛用キーボード調査」を実施！ はてなエンジニアに、キーボード選びで譲れないこだわり、メインで使用中の機種を選んだ理由やお気に入りポイントなどについて聞きました。前後編にわたってお送りします！ ■ キーボード選びのこだわりは？ アンケートは、京都・東京両オフィスのWebアプリケーションエンジニア、iPhone・Androidアプリエンジニア、Webオペレーションエンジニア、セールスエンジニアに向けて実施。まずは「キーボードを選ぶ際に…" class="list-img for-touch"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/h/hatenanews/20170417/20170417112726.jpg" alt="はてなエンジニアの愛用キーボード調査（前編）　HHKB、Kinesis……人気上位は意外な結果に!?の画像" /></a>
+            <span class="list-main">
+              <a class="list-link js-bookmark-target" href="http://hatenanews.com/articles/2017/04/25/113153" title="はてなエンジニアの愛用キーボード調査（前編）　HHKB、Kinesis……人気上位は意外な結果に!?
+エンジニアにとって、重要な仕事道具の一つであるキーボード。キーの配列や打ち心地など、人によってさまざまなこだわりがあります。はてなニュースは今回、「はてなエンジニアの愛用キーボード調査」を実施！ はてなエンジニアに、キーボード選びで譲れないこだわり、メインで使用中の機種を選んだ理由やお気に入りポイントなどについて聞きました。前後編にわたってお送りします！ ■ キーボード選びのこだわりは？ アンケートは、京都・東京両オフィスのWebアプリケーションエンジニア、iPhone・Androidアプリエンジニア、Webオペレーションエンジニア、セールスエンジニアに向けて実施。まずは「キーボードを選ぶ際に…">
+                <span class="list-title"><span class="list-date">04/26</span><span class="list-title-inner">はてなエンジニアの愛用キーボード調査（前編）　H...</span></span>
+                <span class="list-text for-touch">エンジニアにとって、重要な仕事道具の一つであるキーボード。キーの配列や打ち心地など、人によってさまざまなこだわりがあります。はてなニュースは今回、「はてなエンジニアの愛用キーボード調査」を実施！ はてなエンジニアに、キーボード選びで譲れないこだわり、メインで使用中の機種を選んだ理由やお気に入りポイントなどについて聞きました。前後編にわたってお送りします！ ■ キーボード選びのこだわりは？ アンケートは、京都・東京両オフィスのWebアプリケーションエンジニア、iPhone・Androidアプリエンジニア、Webオペレーションエンジニア、セールスエンジニアに向けて実施。まずは「キーボードを選ぶ際に…</span>
+              </a>
+              <a href="http://b.hatena.ne.jp/entry/hatenanews.com/articles/2017/04/25/113153" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://hatenanews.com/articles/2017/04/25/113153"></a>
+            </span>
+          </li></ul>
+      <p class="more"><a href="http://hatenanews.com/?via=201028" data-touch-href="http://hatenanews.com/touch?via=201028" data-touch-text="<span>See more in Hatena News</span>">See more</a></p>
+    </section>
+
+    </div><div id="ad-image-center-1" class="ad-image-center">
+      <script src="http://red.st-hatena.com/ad?cid=510&encode=utf8" charset="utf-8"></script>
+      <script>
+        (function(img) {
+          if (!img) return;
+          img.removeAttribute('width');
+          img.removeAttribute('height');
+        })(document.querySelector('#ad-image-center-1 img'));
+      </script>
+      <noscript><iframe src="http://red.st-hatena.com/adframe?cid=510&encode=utf8" height="115" width="475" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" frameborder="0" scrolling="no"></iframe></noscript>
+    </div>
+
+    <section id="s-blog" data-track-area=portal-service-blog><h2 class=title><a href="http://hatenablog.com/?via=201028">Hatena Blog</a></h2>
+      <div class="write-blog-link for-pc">
+        <a href="http://blog.hatena.ne.jp/my/?fragment=edit&amp;via=200193">ブログを書く</a>
+      </div>
+      <div class="top-news for-pc">
+          <a class="js-bookmark-target" href="http://motcho.hateblo.jp/entry/2017/05/08/211615">
+            <img src="http://cdn.image.st-hatena.com/image/square/8a58d275e74270b6624dac19ed6398f9b829263b/height=65;version=1;width=100/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fm%2Fmotcho%2F20170422%2F20170422050331.jpg" alt="『数学ガール』著者、結城浩氏が第五回ロマンティック数学ナイトで出した問題に感激したの画像" class="top-news-img">
+          </a>
+          <div class="top-news-content js-bookmark-item">
+            <time>05/08</time>
+            <span class="top-news-author">
+              <a href="//profile.hatena.ne.jp/motcho/">id:motcho</a>
+            </span>
+            <p>
+              <a class="js-bookmark-target" href="http://motcho.hateblo.jp/entry/2017/05/08/211615"><img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fmotcho.hateblo.jp%2Fentry%2F2017%2F05%2F08%2F211615">『数学ガール』著者、結城浩氏が第五回ロマンティック数学ナイトで出した問題に感激した</a>
+              <a href="http://b.hatena.ne.jp/entry/motcho.hateblo.jp/entry/2017/05/08/211615" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://motcho.hateblo.jp/entry/2017/05/08/211615"></a>
+            </p>
+          </div></div>
+      <ul class=list>
+        <li class="js-bookmark-item"><a href="http://halfway.hatenablog.com/entry/2017/05/09/115003" title="ブクマと、メルカリ カウルの考察
+本のフリマアプリ「ブクマ」を運営している id:mocchicc です。 昨日、メルカリ カウルが出ました..." target=_blank class="list-img for-touch"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/mocchicc/20170509/20170509112140.png" alt="ブクマと、メルカリ カウルの考察の画像" /></a><span class="list-main has-img">
+            <a class="js-bookmark-target list-link" href="http://halfway.hatenablog.com/entry/2017/05/09/115003" title="ブクマと、メルカリ カウルの考察
+本のフリマアプリ「ブクマ」を運営している id:mocchicc です。 昨日、メルカリ カウルが出ました。 実は..." target=_blank>
+              <span class=list-title>
+                <img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fhalfway.hatenablog.com%2Fentry%2F2017%2F05%2F09%2F115003" class="favicon"><span class="list-title-inner">ブクマと、メルカリ カウルの考察</span>
+              </span>
+              <span class="list-text for-touch">本のフリマアプリ「ブクマ」を運営している id:mocchicc です。 昨日、メルカリ カウルが出ました。 実は今年１月の時点で、進太郎さんから直接「うちもデータベースを持つフリマ、とくに本をやることになりそう」と聞いていて、競合する可能性がありながらも紳士的に教えてくれていました。もっちくんを応援したいのだけど、なんかごめんね、とまで言ってもらえて懐の大きさに惚れました。 昨年夏のIVS Launch Padで初めて「ブク...</span></a>
+            <a href="http://b.hatena.ne.jp/entry/halfway.hatenablog.com/entry/2017/05/09/115003" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://halfway.hatenablog.com/entry/2017/05/09/115003"></a>
+          </span>
+        </li>
+        <li class="js-bookmark-item"><a href="http://naoyamatsushima.hatenablog.com/entry/2017/05/08/121936" title="ENJOY KYOTO Issue22 宇治特集号をセルフレビューします 〜その2〜　「朝日焼　作為しない作為という極意について」
+さて、ENJOY KYOTO初のエリア特集として宇治をフィーチャーするにあたって最初に考えたことは、巻..." target=_blank class="list-img for-touch"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/f/fu-wa/20170503/20170503094726.jpg" alt="ENJOY KYOTO Issue22 宇治特集号をセルフレビューします 〜その2〜　「朝日焼　作為しない作為という極意について」の画像" /></a><span class="list-main has-img">
+            <a class="js-bookmark-target list-link" href="http://naoyamatsushima.hatenablog.com/entry/2017/05/08/121936" title="ENJOY KYOTO Issue22 宇治特集号をセルフレビューします 〜その2〜　「朝日焼　作為しない作為という極意について」
+さて、ENJOY KYOTO初のエリア特集として宇治をフィーチャーするにあたって最初に考えたことは、巻頭を飾る..." target=_blank>
+              <span class=list-title>
+                <img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fnaoyamatsushima.hatenablog.com%2Fentry%2F2017%2F05%2F08%2F121936" class="favicon"><span class="list-title-inner">ENJOY KYOTO Issue22 宇治特集号をセルフレビューします...</span>
+              </span>
+              <span class="list-text for-touch">さて、ENJOY KYOTO初のエリア特集として宇治をフィーチャーするにあたって最初に考えたことは、巻頭を飾る特集を何にするかということでした。個人的に知っているところや既に評価の定まったさまざまなお茶にまつわる人々だけでもかなりの候補があり、選考には編集部のメンバーはもちろん、お茶の京都に関わっていらっしゃる京都府や京都コンベンションビューローの方々のご意見なんかにも耳を傾けながら、最終的にはぼく自身の判...</span></a>
+            <a href="http://b.hatena.ne.jp/entry/naoyamatsushima.hatenablog.com/entry/2017/05/08/121936" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://naoyamatsushima.hatenablog.com/entry/2017/05/08/121936"></a>
+          </span>
+        </li>
+        <li class="js-bookmark-item"><a href="http://sanamooniland.hatenablog.com/entry/2017/05/09/213722" title="シアタークリエに東京B少年を見に行ってきたよ
+◾︎ （こっちにくる...まってまってまってこないでこないでやだやだ.....えっ可愛い...お願い...い..." target=_blank class="list-img for-touch"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/mooniland/20170509/20170509214202.jpg" alt="シアタークリエに東京B少年を見に行ってきたよの画像" /></a><span class="list-main has-img">
+            <a class="js-bookmark-target list-link" href="http://sanamooniland.hatenablog.com/entry/2017/05/09/213722" title="シアタークリエに東京B少年を見に行ってきたよ
+◾︎ （こっちにくる...まってまってまってこないでこないでやだやだ.....えっ可愛い...お願い...いまだけ....." target=_blank>
+              <span class=list-title>
+                <img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fsanamooniland.hatenablog.com%2Fentry%2F2017%2F05%2F09%2F213722" class="favicon"><span class="list-title-inner">シアタークリエに東京B少年を見に行ってきたよ</span>
+              </span>
+              <span class="list-text for-touch">◾︎ （こっちにくる...まってまってまってこないでこないでやだやだ.....えっ可愛い...お願い...いまだけ...いや30秒だけでいい私の顔を本田つばさの顔にさせて...！いや本田つばさの顔の仮面作ってくればよかった！うちわはダメだけど仮面はダメだって書いてなかった気が...あああなんで整形してこなかったんだろう...いま整形しよう！？？いやむしろミジンコになりたい...ミジンコって名義作れなくない？それはダメだしミジンコ...</span></a>
+            <a href="http://b.hatena.ne.jp/entry/sanamooniland.hatenablog.com/entry/2017/05/09/213722" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://sanamooniland.hatenablog.com/entry/2017/05/09/213722"></a>
+          </span>
+        </li>
+        <li class="js-bookmark-item"><a href="http://junmitani.hatenablog.com/entry/2017/05/08/232349" title="アニメ「正解するカド」に登場する球体折り紙
+東映のアニメ「正解するカド」が話題となっているようです。 seikaisuru-kado.com 私もAmazon プ..." target=_blank class="list-img for-touch"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/J/JunMitani/20170508/20170508225408.jpg" alt="アニメ「正解するカド」に登場する球体折り紙の画像" /></a><span class="list-main has-img">
+            <a class="js-bookmark-target list-link" href="http://junmitani.hatenablog.com/entry/2017/05/08/232349" title="アニメ「正解するカド」に登場する球体折り紙
+東映のアニメ「正解するカド」が話題となっているようです。 seikaisuru-kado.com 私もAmazon プライムで..." target=_blank>
+              <span class=list-title>
+                <img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fjunmitani.hatenablog.com%2Fentry%2F2017%2F05%2F08%2F232349" class="favicon"><span class="list-title-inner">アニメ「正解するカド」に登場する球体折り紙</span>
+              </span>
+              <span class="list-text for-touch">東映のアニメ「正解するカド」が話題となっているようです。 seikaisuru-kado.com 私もAmazon プライムで初回から見てきていて、そのストーリー展開の面白さから、毎回の放映を楽しみにしています。 フラクタル図形がメインに位置づけられていて、幾何学好きには嬉しい設定です。 これまでの話の展開として、無限の電力を生成できる謎の球体「ワム」が登場するのですが、つい先日に放映された第5話では、そのワムの製造を紙を折る...</span></a>
+            <a href="http://b.hatena.ne.jp/entry/junmitani.hatenablog.com/entry/2017/05/08/232349" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://junmitani.hatenablog.com/entry/2017/05/08/232349"></a>
+          </span>
+        </li>
+        <li class="js-bookmark-item"><span class="list-main">
+            <a class="js-bookmark-target list-link" href="http://dktkyk.hatenablog.com/entry/2017/05/08/215219" title="電通の人たちとカラオケに行った話
+５年ほど前、コピーライターになったろうと、「宣伝会議コピーライター養成講座 専門コース 山本高史クラ..." target=_blank>
+              <span class=list-title>
+                <img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fdktkyk.hatenablog.com%2Fentry%2F2017%2F05%2F08%2F215219" class="favicon"><span class="list-title-inner">電通の人たちとカラオケに行った話</span>
+              </span>
+              <span class="list-text for-touch">５年ほど前、コピーライターになったろうと、「宣伝会議コピーライター養成講座 専門コース 山本高史クラス」というものに通っていた。山本高史というのは、オリンパスのCMで宮﨑あおいが言っている「ココロとカラダ、にんげんのぜんぶ」というコピーをはじめ、コピーライター界ではスーパースター的な位置にいる御方だ（ちなみに糸井重里さんはレジェンド的な位置にいる）。広告業界には師弟制みたいな文化があるとの情報を鵜呑...</span></a>
+            <a href="http://b.hatena.ne.jp/entry/dktkyk.hatenablog.com/entry/2017/05/08/215219" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://dktkyk.hatenablog.com/entry/2017/05/08/215219"></a>
+          </span>
+        </li>
+        <li class="js-bookmark-item"><span class="list-main">
+            <a class="js-bookmark-target list-link" href="http://delete-all.hatenablog.com/entry/2017/05/08/190000" title="会社のヤバい兆候をまとめてみた。
+昨年末に怨恨退職をした会社が僕が在籍していたときよりも酷い状況に陥っているらしい。元同僚たちも悲惨..." target=_blank>
+              <span class=list-title>
+                <img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fdelete-all.hatenablog.com%2Fentry%2F2017%2F05%2F08%2F190000" class="favicon"><span class="list-title-inner">会社のヤバい兆候をまとめてみた。</span>
+              </span>
+              <span class="list-text for-touch">昨年末に怨恨退職をした会社が僕が在籍していたときよりも酷い状況に陥っているらしい。元同僚たちも悲惨な目に遭っているようだ。僕に力を貸してくれなかった方々が滅びようとも知ったことではない。笑いをこらえるのに必死、ザマーミロな気分だ。だが、そのような悪態ばかりついていると地獄に堕ちてしまうので良い行いをしてバランスを取りたい。具体的には皆様のために僕が目撃してきたヤバい会社の兆候を列挙する。ひとつで...</span></a>
+            <a href="http://b.hatena.ne.jp/entry/delete-all.hatenablog.com/entry/2017/05/08/190000" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://delete-all.hatenablog.com/entry/2017/05/08/190000"></a>
+          </span>
+        </li>
+        <li class="js-bookmark-item"><span class="list-main">
+            <a class="js-bookmark-target list-link" href="http://miurayoshitaka.hatenablog.com/entry/2017/05/09/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E4%BC%81%E6%A5%AD%E7%B5%8C%E5%96%B6%E8%80%85%E3%81%AFDV%E5%8A%A0%E5%AE%B3%E8%80%85%E3%81%AB%E4%BC%BC%E3%81%A6%E3%81%84%E3%82%8B" title="ブラック企業経営者はDV加害者に似ている
+離婚と労働事件は、いずれも私が比較的よく扱っている分野だ。 DV・モラハラ加害者が「二人で話し合えば解..." target=_blank>
+              <span class=list-title>
+                <img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fmiurayoshitaka.hatenablog.com%2Fentry%2F2017%2F05%2F09%2F%25E3%2583%2596%25E3%2583%25A9%25E3%2583%2583%25E3%2582%25AF%25E4%25BC%2581%25E6%25A5%25AD%25E7%25B5%258C%25E5%2596%25B6%25E8%2580%2585%25E3%2581%25AFDV%25E5%258A%25A0%25E5%25AE%25B3%25E8%2580%2585%25E3%2581%25AB%25E4%25BC%25BC%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B" class="favicon"><span class="list-title-inner">ブラック企業経営者はDV加害者に似ている</span>
+              </span>
+              <span class="list-text for-touch">離婚と労働事件は、いずれも私が比較的よく扱っている分野だ。 DV・モラハラ加害者が「二人で話し合えば解決したのに弁護士が入ったから話がこじれた」と主張する率は異常。 https://t.co/kFFlQSVJys — ystk (@lawkus) 2017年5月2日 先日このツイートをしたら、けっこう反響があった。 ところでこのようなDV加害者と同じ特徴が、ブラック企業経営者にもよくみられる。 こっちが弁護士をつけて権利主張をする段階に至っているのに...</span></a>
+            <a href="http://b.hatena.ne.jp/entry/miurayoshitaka.hatenablog.com/entry/2017/05/09/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E4%BC%81%E6%A5%AD%E7%B5%8C%E5%96%B6%E8%80%85%E3%81%AFDV%E5%8A%A0%E5%AE%B3%E8%80%85%E3%81%AB%E4%BC%BC%E3%81%A6%E3%81%84%E3%82%8B" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://miurayoshitaka.hatenablog.com/entry/2017/05/09/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E4%BC%81%E6%A5%AD%E7%B5%8C%E5%96%B6%E8%80%85%E3%81%AFDV%E5%8A%A0%E5%AE%B3%E8%80%85%E3%81%AB%E4%BC%BC%E3%81%A6%E3%81%84%E3%82%8B"></a>
+          </span>
+        </li>
+        <li class="js-bookmark-item"><span class="list-main">
+            <a class="js-bookmark-target list-link" href="http://blog.hatenablog.com/entry/2017/05/08/130000" title="今週のはてなブログランキング〔2017年5月第1週〕
+はてなブックマーク数による人気記事のランキング。4月30日（日）から5月6日（土）〔2017年5月第1週〕のト..." target=_blank>
+              <span class=list-title>
+                <img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Fblog.hatenablog.com%2Fentry%2F2017%2F05%2F08%2F130000" class="favicon"><span class="list-title-inner">今週のはてなブログランキング〔2017年5月第1週〕</span>
+              </span>
+              <span class="list-text for-touch">はてなブックマーク数による人気記事のランキング。4月30日（日）から5月6日（土）〔2017年5月第1週〕のトップ30です*1。 # タイトル／著者とブックマーク 1 弁護士が車に轢かれた結果を晒してみる - 弁護士三浦義隆のブログ by id:miurayoshitaka 2 【画像45枚あり】フーリエ変換を宇宙一わかりやすく解説してみる - ロボット・IT雑食日記 by id:McG 3 錦鯉の放流は何故「絶対に」あってはならないのか - MistiRoom by id:Mistcl...</span></a>
+            <a href="http://b.hatena.ne.jp/entry/blog.hatenablog.com/entry/2017/05/08/130000" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://blog.hatenablog.com/entry/2017/05/08/130000"></a>
+          </span>
+        </li>
+        <li class="js-bookmark-item"><a href="http://oystersauce.hatenablog.com/entry/2017/05/09/202303" title="「関ジャニ’sエンターテインメント」DVD特典について綴る。
+【Disc3／ツアーメイキング映像】 大倉くんに優しいんだかそうじゃないんだかよくわからない錦戸..." target=_blank class="list-img for-touch"><img src="https://images-fe.ssl-images-amazon.com/images/I/41SlntS70GL._SL160_.jpg" alt="「関ジャニ’sエンターテインメント」DVD特典について綴る。の画像" /></a><span class="list-main has-img">
+            <a class="js-bookmark-target list-link" href="http://oystersauce.hatenablog.com/entry/2017/05/09/202303" title="「関ジャニ’sエンターテインメント」DVD特典について綴る。
+【Disc3／ツアーメイキング映像】 大倉くんに優しいんだかそうじゃないんだかよくわからない錦戸兄ちゃん…..." target=_blank>
+              <span class=list-title>
+                <img src="http://cdn-ak.favicon.st-hatena.com/?url=http%3A%2F%2Foystersauce.hatenablog.com%2Fentry%2F2017%2F05%2F09%2F202303" class="favicon"><span class="list-title-inner">「関ジャニ’sエンターテインメント」DVD特典について綴...</span>
+              </span>
+              <span class="list-text for-touch">【Disc3／ツアーメイキング映像】 大倉くんに優しいんだかそうじゃないんだかよくわからない錦戸兄ちゃん…まるちゃんの挨拶中メンバーが薄ら笑いなのが気になるｗすばるくんプロテイン飲んでる？まる腹やばいな（2回目）上脱いだり下脱いだり肌見せが多いグループやなすばるくん楽屋でストパーあててる？！キングオブ男の安田くんまじ漢まるちゃんと大倉くん本当に仲良しだねﾌﾞﾙｰｽﾘ(ｮ)ｰ出た大倉くんが楽屋であの日の札幌の状況を...</span></a>
+            <a href="http://b.hatena.ne.jp/entry/oystersauce.hatenablog.com/entry/2017/05/09/202303" class="users"><img src="http://b.hatena.ne.jp/entry/image/http://oystersauce.hatenablog.com/entry/2017/05/09/202303"></a>
+          </span>
+        </li></ul>
+      <p class="more"><a href="http://hatenablog.com/?via=201028" data-touch-text="<span>See more in Hatena Blog</span>">See more</a></p>
+    </section><div id="ad-image-center-2" class="ad-image-center">
+      <script src="http://red.st-hatena.com/ad?cid=759&encode=utf8" charset="utf-8"></script>
+      <script>
+        (function(img) {
+          if (!img) return;
+          img.removeAttribute('width');
+          img.removeAttribute('height');
+        })(document.querySelector('#ad-image-center-2 img'));
+      </script>
+      <noscript><iframe src="http://red.st-hatena.com/adframe?cid=759&encode=utf8" height="60" width="475" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" frameborder="0" scrolling="no"></iframe></noscript>
+    </div>
+
+    
+    <section id="s-question" data-track-area=portal-service-space>
+      <h2 class=title><a href=http://q.hatena.ne.jp/?_via=250001>Hatena Question</a></h2>
+      <ul class=list>
+        <template id=space-template>
+          <li><span class="list-main"><a>
+            <img class="list-question-image" src="" alt="">
+            <span class="list-question-title list-title-inner"></span>
+          </a></span></li>
+        </template>
+      </ul>
+      <script>
+        (function () {
+          var list = document.querySelector('#s-question ul');
+          var tmpl = document.querySelector('#space-template');
+          tmpl = 'content' in tmpl ? tmpl.content : tmpl.querySelector('li');
+          function truncate (str, len) {
+            return str.length > len ? str.substring(0, len) + '...'
+                                    : str;
+          }
+          window.PortalQuestionCallback = function (data) {
+            for (var i = 0, l = data.questions.length; i < l; ++i) {
+              var question = data.questions[i];
+              var li = tmpl.cloneNode(true);
+              li.querySelector('a').href = question.url;
+              li.querySelector('.list-question-image').setAttribute('src', question.questioner.profile_icon.replace('profile_s.gif', 'profile.gif'));
+              li.querySelector('.list-question-title').appendChild(document.createTextNode(truncate(question.content, 32)));
+              list.appendChild(li);
+            }
+
+            (function (undef) {
+                window.PortalQuestionCallback = undef;
+                try {
+                    delete window.PortalQuestionCallback;
+                } catch(e) {}
+            })();
+          };
+          var j = document.createElement('script');
+          j.async = true;
+          j.src = 'http://q.hatena.ne.jp/api/hotlist?_via=250002&cnt=8&callback=PortalQuestionCallback&_=' + (new Date).getTime();
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(j, s);
+        })();
+      </script>
+      <p class=more>
+        <a href=http://q.hatena.ne.jp/?_via=250001 data-touch-text="<span>See more in Hatena Question</span>">See more</a>
+      </p>
+    </section>
+
+  </div>
+
+
+  <aside id="aside">
+    
+    
+      
+      
+      
+      <h3 class="guest-new-feature-title for-pc">おすすめ新機能</h3>
+      <div class="guest-new-feature-inner for-pc">
+        
+  <ul class="new-feature">
+    
+    
+    <li>
+      <a href="http://bookmark.hatenastaff.com/entry/2017/04/05/172149">
+        
+        <h4>はてなブックマークプラス（有料プラン）の提供を終了しました</h4>
+        <p class="new-feature-meta"><img src="http://www.hatena.ne.jp/images/favicon/bookmark.png" alt="はてなブックマーク" />はてなブックマーク</p>
+      </a>
+    </li>
+    
+    
+    
+    <li>
+      <a href="http://staff.hatenablog.com/entry/2017/04/25/152000">
+        
+          <img src="http://cdn.image.st-hatena.com/image/square/9d4d0cc29fc2653805f956bc6544de4518acf636/height=65;version=1;width=65/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fh%2Fhatenablog%2F20170425%2F20170425150702.png" alt="" class="new-feature-thumb"/>
+        
+        <h4>記事の管理画面から編集履歴を確認し、以前の状態に戻せるようにしました</h4>
+        <p class="new-feature-meta"><img src="//www.hatena.ne.jp/images/favicon/blog.png" alt="はてなブログ" />はてなブログ</p>
+      </a>
+    </li>
+    
+  </ul>
+        <p class="new-feature-moreuse"><span>ユーザー登録して便利に使おう</span></p>
+      </div>
+      <div class="guest-button for-guest for-pc" data-track-area="portal-guest-button">
+        <a href="https://www.hatena.ne.jp/register?via=200124" class="side_register"><img src="//www.hatena.ne.jp/images/guest-button.png" alt="Sign Up (Free)" class="btn" /></a>
+      </div>
+      
+      
+    
+
+    
+    <div id="ad-dfp-portal-top" data-track-area="portal-ad-aside"></div>
+
+    
+    <section class="bukkenfan" data-track-area=portal-service-bukkenfan>
+      <div class="sidebar-right-inner">
+        <h2 class="sidebar-right-title">
+          <a href="https://bukkenfan.jp">
+            物件ファン
+            <small>不動産情報エンターテーメントサイト</small>
+          </a>
+        </h3>
+        <ul class="bukkenfan-content sidebar-right-list"><li>
+            <a class="entry" href="https://bukkenfan.jp/e/6077898741870756016" title="この間取り図からヒシヒシ伝わって来ると思います&#xa;家って、作る側からすると沢山あるうちの一つで、
+住む人からすると、（ほとんどの場合）たった一つの家な...">
+              <img class="thumbnail" src="https://photo.roomhub.jp/v1/image/roomhubusercontent/316971525882943909.jpg" alt="">
+              <span class="bukkenfan-entry-title">この間取り図からヒシヒシ伝わって来ると思います</span>
+            </a>
+            <span class="bukkenfan-entry-data"><a href="http://b.hatena.ne.jp/entry/s/bukkenfan.jp/e/6077898741870756016" class="users"><img src="http://b.hatena.ne.jp/entry/image/https://bukkenfan.jp/e/6077898741870756016"></a></span>
+          </li><li>
+            <a class="entry" href="https://bukkenfan.jp/e/6077898741870755960" title="ゆっくり露天風呂に浸かったあとは、本でいっぱいの離れで読書する暮らし&#xa;最初ですね、ここマンションの1階の共有部かと思って、和風だけどモダンで素敵だなあ、と思ってたんですよ...">
+              <img class="thumbnail" src="https://photo.roomhub.jp/v1/image/roomhubusercontent/316971517104608993.jpg" alt="">
+              <span class="bukkenfan-entry-title">ゆっくり露天風呂に浸かったあとは、本でいっぱいの離れで読書する暮らし</span>
+            </a>
+            <span class="bukkenfan-entry-data"><a href="http://b.hatena.ne.jp/entry/s/bukkenfan.jp/e/6077898741870755960" class="users"><img src="http://b.hatena.ne.jp/entry/image/https://bukkenfan.jp/e/6077898741870755960"></a></span>
+          </li><li>
+            <a class="entry" href="https://bukkenfan.jp/e/6077898741870755950" title="そっと風が出入り、爽やか3面採光。&#xa;日中は日差しが強くなってきましたね！今年初めて食べました、冷奴。ひんやりしたお豆腐と、少しの薬味。...">
+              <img class="thumbnail" src="https://photo.roomhub.jp/v1/image/roomhubusercontent/302457954711238780.jpg" alt="">
+              <span class="bukkenfan-entry-title">そっと風が出入り、爽やか3面採光。</span>
+            </a>
+            <span class="bukkenfan-entry-data"><a href="http://b.hatena.ne.jp/entry/s/bukkenfan.jp/e/6077898741870755950" class="users"><img src="http://b.hatena.ne.jp/entry/image/https://bukkenfan.jp/e/6077898741870755950"></a></span>
+          </li><li>
+            <a class="entry" href="https://bukkenfan.jp/e/6077898741870755959" title="伝説の風呂が部屋、部屋が風呂。&#xa;以前にも売買物件でご紹介させていただいた、
+伝説の湘南の…というか江ノ島の正面の物件です。
+
+何が伝説...">
+              <img class="thumbnail" src="https://photo.roomhub.jp/v1/image/roomhubusercontent/316971508513860503.jpg" alt="">
+              <span class="bukkenfan-entry-title">伝説の風呂が部屋、部屋が風呂。</span>
+            </a>
+            <span class="bukkenfan-entry-data"><a href="http://b.hatena.ne.jp/entry/s/bukkenfan.jp/e/6077898741870755959" class="users"><img src="http://b.hatena.ne.jp/entry/image/https://bukkenfan.jp/e/6077898741870755959"></a></span>
+          </li></ul>
+      </div>
+      <p class="more" id="bukkenfan-list-link"><a href="https://bukkenfan.jp" data-touch-text="<span>物件ファンで見る</span>">See more</a></p>
+    </section>
+
+    <section id="hotkeyword" data-track-area="portal-service-hotkeyword">
+      <div id="hotkeyword-inner" class="sidebar-right-inner">
+        <h2 class="title sidebar-right-title">
+          <a href="http://d.hatena.ne.jp/hotkeyword"
+             data-touch-href="http://d.hatena.ne.jp/keywordtouch/"><time class="en-time">{{month}} {{day}}</time>Today's Hot Keywords</a>
+        </h2>
+        <ol class="sidebar-right-list list">
+          <template id=hotkeyword-template>
+            <li><a></a></li>
+          </template>
+        </ol>
+      </div>
+      <script>
+        (function () {
+            var pcUrl = 'http://d.hatena.ne.jp/keyword/';
+            var touchUrl = 'http://d.hatena.ne.jp/keywordtouch/';
+
+            var today = new Date();
+            var hotkeyword_time = document.querySelector('#hotkeyword time');
+
+            var month = today.getMonth()+1;
+            var day = today.getDate();
+
+            if (hotkeyword_time.className === "en-time") {
+                var month_table = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+                month = month_table[today.getMonth()];
+            }
+
+            var template_time = hotkeyword_time.innerHTML;
+            hotkeyword_time.innerHTML = template_time.replace(/{{month}}/, month).replace(/{{day}}/, day);
+
+            var list = document.querySelector('#hotkeyword ol');
+            var tmplParent = document.querySelector('#hotkeyword-template');
+            var limit = 3;
+            var tmpl = 'content' in tmplParent ? tmplParent.content : tmplParent.querySelector('li');
+
+            window.HotkeywordCallBack = function (data) {
+                var isTouch = /\bis-touch\b/.test(document.body.className);
+                for (var i = 0; i < limit; i++) {
+                    var keyword = data[i].word;
+                    var enword = data[i].enword;
+                    var li = tmpl.cloneNode(true);
+                    var a = li.querySelector('a');
+                    a.appendChild(document.createTextNode(keyword));
+                    a.href = (isTouch ? touchUrl : pcUrl) + enword;
+                    a.setAttribute('data-touch-href', touchUrl + enword);
+                    a.setAttribute('data-pc-href', pcUrl + enword);
+                    list.appendChild(li);
+                }
+
+                (function (undef) {
+                    window.HotkeywordCallBack = undef;
+                    try {
+                        delete window.HotkeywordCallBack;
+                    } catch(e) {}
+                })();
+
+                tmplParent.parentNode.removeChild(tmplParent);
+            };
+
+            var j = document.createElement('script');
+            j.async = true;
+            j.src = 'http://k.hatena.ne.jp/api/hotkeyword.json?' + [
+                'limit=' + limit,
+                'callback=HotkeywordCallBack',
+                '_=' + (new Date()).getTime()
+            ].join('&');
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(j, s);
+        })();
+      </script>
+      <p class="more">
+        <a href="http://d.hatena.ne.jp/hotkeyword"
+           data-touch-text="<span>See more in Hatena Keyword</span>"
+           data-touch-href="http://d.hatena.ne.jp/keywordtouch/">See more</a>
+      </p>
+    </section>
+
+  </aside>
+  <!-- body -->
+</div>
+<!-- container -->
+
+<footer id="footer" data-track-area="portal-footer">
+  <div id="footer-container">
+    <div class="footer-box" id="information">
+      <h2 class="title"><a href="http://hatenacorp.jp/news" title="Information and News">Information and News</a></h2>
+      <ul class="list"><li><a class="list-link" href="http://d.hatena.com/hatena/20160303/14569863" title="As was recently announced here: http://d.hatena.com/hatena/20160204/145455216 , the Hatena user agreement and privacy policy have been revised.
+
+The revised user agreement can be viewed via the link below.
+-http://www.hatena.com/rule/rule?locale.country=us&amp;locale.lang=en
+-http://www.hatena.com/rule/privacypolicy?locale.country=us&amp;locale.lang=en">
+            <span class="list-title" data-title="Revisions have been made to the Hatena user agreement and privacy policy"><span class="list-date">Mar 03</span><span class="list-title-inner">Revisions have been m...</span></span>
+        </a></li><li><a class="list-link" href="http://d.hatena.com/hatena/20160204/145455216" title="On March 3rd, revisions will be made to the Hatena user agreement and privacy policy.
+Until now, our user agreement varied from region to region, but because the main services of the international version have already been discontinued, we have decided to adopt a single, unified user agreement based on the Japanese version. 
+The revised user agreement has been made public and can be viewed via the link below.
+-Pre-revision: 
+--http://www.hatena.com/rule/rule?locale.country=us&amp;locale.lang=en
+--http...">
+            <span class="list-title" data-title="Regarding revisions to Hatena’s user agreement and privacy policy"><span class="list-date">Feb 04</span><span class="list-title-inner">Regarding revisions t...</span></span>
+        </a></li><li><a class="list-link" href="http://d.hatena.com/hatena/20130611/137935455" title="The URLs for displaying user profiles on Hatena's online services, known as &quot;My Hatena&quot;, have been changed.
+
+Starting today, profiles will no longer be displayed on www.hatena.com and will appear on profile.hatena.com instead.
+
+-Click here to see how your profile is displayed: Profile
+
+Profiles were formerly accessed at URLs with the following format:
+&gt;|
+http://www.hatena.com/HatenaID/
+||
+http://profile.hatena.com/HatenaID/
+|&lt;
+
+Users who access the old profile URL, will automatically be re...">
+            <span class="list-title" data-title="URLs for user profiles on Hatena's online services have been changed"><span class="list-date">Jun 11</span><span class="list-title-inner">URLs for user profile...</span></span>
+        </a></li><li><a class="list-link" href="http://d.hatena.com/hatena/20130524/136936764" title="Due to the upcoming closure of the Flipnote Hatena service, we will be performing system maintenance on May 31, 2013 (Friday) from 11:00 am to 6:00 pm (JST). 
+
+During this time Hatena's online services will still function, however since this is a major update, some services may be intermittently unstable while undergoing maintenance.
+
+- Time zone convertor
+-- Kyoto, Japan (JST): May 31, 2013 (Friday), from approximately 11:00 am - 6:00 pm
+-- Los Angeles, USA (PDT): From approximately 7:00 pm on M...">
+            <span class="list-title" data-title="System maintenance due to the closure of the Flipnote Hatena service on May 31, 2013"><span class="list-date">May 24</span><span class="list-title-inner">System maintenance du...</span></span>
+        </a></li><li><a class="list-link" href="http://d.hatena.com/hatena/20120330/13338165" title="
+As we previously announced, starting from 30 March, 2012 at 11:00 JST Hatena Color Stars removed from entries can no longer be reused. 
+
+For more information about the reason for this change please see our previous announcements at the URLs below:
+
+http://d.hatena.com/flipnotehatena/20120316/133187945
+
+We look forward to your continued enjoyment of Hatena's online services.
+">
+            <span class="list-title" data-title="Color Stars that have been removed from entries can no longer be reused "><span class="list-date">Mar 30</span><span class="list-title-inner">Color Stars that have...</span></span>
+        </a></li><li><a class="list-link" href="http://d.hatena.com/hatena/20120316/1331877923" title="Starting on 3/30/2012 Hatena Color Stars that have been removed from entries can no longer be reused.
+
+Currently Hatena Color Stars that are removed from entries (such as Flipnotes and comments) are credited back to user accounts and can be reused. After 3/30/2012 Hatena Color Stars that have been removed from entries can no longer be reused.
+
+The reason for this change is to prevent Hatena Color Stars from being used in ways other than their original intended purposes. There have been some problem...">
+            <span class="list-title" data-title="Starting on 3/30/2012 Hatena Color Stars that have been removed from entries can no longer be reused."><span class="list-date">Mar 16</span><span class="list-title-inner">Starting on 3/30/2012...</span></span>
+        </a></li><li><a class="list-link" href="http://d.hatena.com/hatena/20111125/132221465" title="Hatena will be performing system maintenance on Tuesday November 29 from 5:30 am to 6:00 am (JST). It will be possible to use Hatena's services during this time, but it will be difficult to connect and error messages may appear.
+
+- Maintenance time
+-- Kyoto - Nov. 29, 2011 (Tue.): 5:30 am - 6:00 am
+-- New York - Nov. 28. 2011 (Mon.): 3:30 pm - 4:00 pm
+-- Los Angeles - Nov. 28. 2011 (Mon.): 12:30 pm - 1:00 pm
+-- London - Nov. 28. 2011 (Mon.): 8:30 pm - 9:00 pm
+-- Berlin - Nov. 28. 2011 (Mon.): 9:...">
+            <span class="list-title" data-title="(Completed) (Nov. 29) Hatena System Maintenance Information"><span class="list-date">Nov 25</span><span class="list-title-inner">(Completed) (Nov. 29)...</span></span>
+        </a></li></ul>
+      <p class="more for-touch"><a href="http://www.hatena.ne.jp/info/" class="icon-arrow"><span>See more</span></a></p>
+    </div>
+    <div class="footer-box for-pc">
+      <h2><a href="http://hatenacorp.jp/" title="Company">Company</a></h2>
+      <ul class="menu list">
+        <li><a href="http://hatenacorp.jp/">Company</a></li>
+        <li><a href="http://hatenacorp.jp/ir/">IR情報</a></li>
+        <li><a href="http://hatenacorp.jp/press/">広報室</a></li>
+        <li><a href="http://hatenacorp.jp/recruit/">求人情報</a></li>
+        <li><a href="http://hatenacorp.jp/press/release">プレスリリース</a></li>
+        <li><a href="http://developer.hatena.ne.jp/">技術者向け情報</a></li>
+        <li><a href="http://hatenacorp.jp/ads">広告掲載について</a></li>
+      </ul>
+    </div>
+    <div class="footer-box for-pc">
+      <h2>Around Hatena</h2>
+      <ul class="menu list">
+        <li><a href="http://hatenacorp.jp/information/">サービス概要</a></li>
+        <li><a href="http://hatelabo.jp/">はてラボ</a></li>
+        <li><a href="https://hatena.stores.jp/">はてなグッズ・アイテム紹介</a></li>
+        <li><a href="/maintenance">障害情報</a></li>
+        <li><a href="http://magazine.hatenastaff.com/">メールマガジン</a></li>
+        <li><a href="http://d.hatena.ne.jp/diarylist?mode=staff">スタッフ日記</a></li>
+      </ul>
+    </div>
+    <div class="footer-box for-pc">
+      <h2>Need Help?</h2>
+      <ul class="menu list">
+        <li><a href="/rule/rule">Terms of Use</a></li>
+        <li><a href="/rule/privacypolicy">Privacy Policy</a></li>
+        <li><a href="/help/link">Contact us</a></li>
+        <li><a href="http://hatenacorp.jp/tokutei">Displayed as required by the Japanese Act on Specified Commercial Transactions</a></li>
+        <li><a href="http://hatenacorp.jp/shikin">Displayed as required by the Fund Settlement Act.</a></li>
+        <li><a href="http://developer.hatena.ne.jp/ja/documents/security">セキュリティに関するお問い合わせ</a></li>
+      </ul>
+    </div>
+
+    <div id="touch-footer" class="for-touch">
+      <ul>
+        <li><a href="/my">MyHatena</a></li>
+        <li><a href="/help/link">Contact us</a></li>
+        <li><a href="http://hatenacorp.jp/">Company</a></li>
+      </ul>
+    </div><div id="footer-banner-container" class="for-pc">
+      <div class="footer-banner">
+        <script type="text/javascript" src="http://red.st-hatena.com/ad?cid=511&encode=utf8" charset="utf-8"></script>
+        <noscript><iframe src="http://red.st-hatena.com/adframe?cid=511&encode=utf8" height="70" width="225" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" frameborder="0" scrolling="no"></iframe></noscript>
+      </div>
+      <div class="footer-banner">
+        <script type="text/javascript" src="http://red.st-hatena.com/ad?cid=512&encode=utf8" charset="utf-8"></script>
+        <noscript><iframe src="http://red.st-hatena.com/adframe?cid=512&encode=utf8" height="70" width="225" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" frameborder="0" scrolling="no"></iframe></noscript>
+      </div>
+      <div class="footer-banner">
+        <script type="text/javascript" src="http://red.st-hatena.com/ad?cid=513&encode=utf8" charset="utf-8"></script>
+        <noscript><iframe src="http://red.st-hatena.com/adframe?cid=513&encode=utf8" height="70" width="225" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" frameborder="0" scrolling="no"></iframe></noscript>
+      </div>
+      <div class="footer-banner">
+        <script type="text/javascript" src="http://red.st-hatena.com/ad?cid=514&encode=utf8" charset="utf-8"></script>
+        <noscript><iframe src="http://red.st-hatena.com/adframe?cid=514&encode=utf8" height="70" width="225" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" frameborder="0" scrolling="no"></iframe></noscript>
+      </div>
+    </div>
+    <div id="copyright">
+      <div id="copyright-inner">
+        <small>&copy; Hatena</small>
+        <ul id="logout">
+          <li>
+              <form class="for-hatena-user"
+                  action="/logout" method=post
+                  onsubmit="return confirm(this.getAttribute('data-confirm-text'))"
+                  data-confirm-text="Do you want to logout?">
+                <button type=submit class=link>Logout</button>
+              </form>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <script language='javascript'>
+    if (document.querySelector('body.is-touch')) {
+      var footer = document.getElementById('footer');
+
+      var footerAdElem = document.createElement('div');
+      footerAdElem.id = 'touch-footer-ad';
+      footer.appendChild(footerAdElem);
+
+      var footerAdPlaceholderElem = document.createElement('div');
+      footerAdPlaceholderElem.id = 'touch-footer-ad-placeholder';
+      footer.appendChild(footerAdPlaceholderElem);
+    }
+  </script>
+</footer><script src="/js/hatenaportal/track.js?20130708"></script>
+</body>
+</html>

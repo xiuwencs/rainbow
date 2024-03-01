@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=x-sjis">
+ 
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta name="Description" CONTENT="「ハッキング」から「今晩のおかず」までを手広くカバーする巨大掲示板群『２ちゃんねる』へようこそ！">
+<meta name="KeyWords" CONTENT="２ちゃんねる, 掲示板, 2ch, BBS">
+<meta name="Author" CONTENT="２ちゃんねる">
+ 
+<title>２ちゃんねる掲示板へようこそ</title>
+<style type="text/css" media="all">@import url(2ch_top.css);</style>
+</head>
+<body>
+<div id="wrapper">
+<div id="header">
+<div id="header_inside">
+<div class="header_left">
+<a href="http://www2.2ch.net/2ch.html"><img src="http://www.2ch.net/images/2ch_logo.gif" width="151" height="40" alt="２ちゃんねる" align="middle" border="0"/><a href="http://www2.2ch.net/2ch.html">掲示板</a>｜
+<a href="http://itest.2ch.net/">スマホ版テスト中。</a>｜
+<a href="http://c.2ch.net/">imode</a>
+<div style="display: inline; margin-left: 2.0em;">
+<form method="GET" action="//find.2ch.net/search" accept-charset="UTF-8" style="display: inline;"><input type=text name="q" style="width: 16em; height: 1.00em;"><button type="submit">スレタイ検索</button></form>
+ 
+</div>
+</div> 
+</div> 
+</div> 
+<div id="under_header">
+<a href="http://premium.2ch.net/">プレミアム浪人</a> | <a href="http://newsnavi.2ch.net/">ニュース</a>｜<a href="http://headline.2ch.net/">総合の人気スレ</a> | <a href="http://headline.2ch.net/bbynews/">ヘッドライン</a>｜<a href="http://www.2ch.net/kakolog.html">過去ログ倉庫</a>
+</div>
+<div id="main">
+<a href="http://www2.2ch.net/2ch.html"><img src="http://www.2ch.net/2ch-logo.gif"></a>
+<br>
+</div> 
+<div id="footer_menu">
+<div class="guide">
+<a href="http://info.2ch.net/guide/">使い方＆注意</a>｜<a href="http://qb5.2ch.net/saku2ch/">削除ガイドライン</a>｜<a href="http://www2.2ch.net/2ch2.html">拡張版メニュー</a>｜<a href="http://senden.tv/infospace.html">広告のご案内</a>
+</div>
+<div class="banner">  
+<A href="http://www.bb-chat.tv/?2ch_t" target=_blank><IMG height=60 src="http://img.bbchat.tv/images/bannar/46860-3.gif" width=468 border=0></A><br>
+</div>
+<div class="banner">  
+<div style="width:100%;clear:both;">
+<div style="text-align:right;width:50%;float:left">
+<div style="float:right;text-align:right;padding-right:10px;">
+ 
+<iframe src='//stab.thench.net/toppage/rectangle_left' frameborder='0' scrolling='no' width='300' height='250'></iframe>
+ 
+</div>
+</div>
+<div style="text-align:left;width:49%;float:left">
+<div style="float:left;text-align:left;padding-left:10px;">
+ 
+<iframe src='//stab.thench.net/toppage/rectangle_right' frameborder='0' scrolling='no' width='300' height='250'></iframe>
+ 
+</div>
+</div>
+<div style="clear:both;"></div>
+</div>
+</div>
+<div class="banner" style="width:600px;text-align:left;margin: 0 auto;">
+２ちゃんねるに関わる全ての皆様へ<br><br>
+一部の報道で伝えられているとおり、西村博之氏は、世界知的所有権機関（WIPO）の調停仲裁センターに「2ch.net」のドメインの移転を求める申立てをしておりましたが、２０１６年７月２８日付けで、同申立てを棄却するとの裁定が出ました。<br><br>
+これにより、西村博之氏の、同ドメインが違法に乗っ取られたとの従前からの主張が真実ではないことが明らかになりました。なお、同裁定において、Race Queen, Inc は2ch.netのドメインの使用について正当な利益を有する旨が認定されています。（the Panel is of the opinion that the Respondent's use of the Disputed Domain Name constitutes legitimate use under the Policy.）<br><br>
+したがいまして、Race Queen, Inc による2ch.netの管理運営の適法性・正当性が、かかる裁定をもって、正式に認められました。<br>
+２ちゃんねるに関わる全ての皆様は、これまでとおり、Race Queen, Incの管理のもとで安全かつ快適に２ちゃんねるをご利用いただけます。<br><br>
+同時に、西村博之氏によるこれまでの一連の主張は全くもって虚偽であり、2ch.scの運営を含む同氏の言動は、Race Queen, Inc による2ch.netの管理運営を妨害する違法行為に他なりません。今後厳正に対応していく所存です。<br><br>
+Race Queen, Inc<br>
+Cityland 10, Tower 1 Suite 2303<br>
+Makati NCR 1226 PH<br>
+Phone: +63.28943848<br>
+Fax: +63.28121343<br>
+</div>
+<div class="condition">
+２ちゃんねるのご利用は利用者各位のご判断にお任せしています｜
+<br>
+2ch.netにおけるコンテンツの権利はRace Queen, Inc. に帰属します。<br><br>
+コンテンツの無断複写、転載を禁じます。<br>
+<a href="https://www.2ch.net/matome.html">２ちゃんねるまとめブログ運営者の皆さまへ</a><br>
+</div>
+</div> 
+<div id="footer">
+<div class="footer_left">
+</div>
+<div class="footer_right">
+</div>
+</div> 
+</div> 
+</body>
+</html>

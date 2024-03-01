@@ -1,0 +1,4489 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><script language="javascript" type="text/javascript"> var CUI = CUI || {};(function (window, undefined) {CUI.appPath = 'xfinity.com';}(window)); </script>
+
+    <script type="text/javascript">CUI.wwwPath = "www." + CUI.appPath;</script>
+    <title>
+	XFINITY® TV, Internet, Phone & Home Security Services by Comcast
+</title><link rel="canonical" href="https://www.xfinity.com/" >
+<meta name="Keywords" content="comcast, xfinity, comcast home page, cable tv" />
+    <meta name="Description" content="Save on Comcast Digital Cable TV, High-Speed Internet and Home Phone Services. Enjoy entertainment your way with great deals on XFINITY® by Comcast." />
+    <meta name="Robots" content="index, follow" />
+    
+
+<link href="//cdn.pdc.comcast.com/includes/ngbf_comcast_com/css/bundles/bundle6?v=9DHIGfM8kshKpzK2M4RKca5t94jf79HCbOxe7L592xw1" rel="stylesheet" type="text/css" media="screen" />
+
+    <link href="//cdn.comcast.com/~/Media/www_comcast_com/Includes/CSS/batch2/batch2mods.css?rev=1c69b05c-6453-423c-bbdc-30554358210d" media="screen" rel="stylesheet" />
+    <link type="text/css" rel="stylesheet" media="all" href="//cdn.comcast.com/~/Media/Common/GlobalNavigation/styles/comcastglobalnavigation.css?rev=49f4913a-b8a6-40f6-998c-00aba6e5f1f7" />
+    <link rel=”alternate” href=“https://www.xfinity.com/m” />
+<meta name="msvalidate.01" content="C3246A23FE839E19F7AF25ACDCC47912">
+<meta name="google-site-verification" content="jbytp59dW82AQqr9wK5V9-uZhr0wXrCJ7n9U3mUilQg" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Global Elements -->
+<link href='//cdn.comcast.com/~/Media/Stylesheets/global-elements_facelift.css?rev=656adcbc-9897-4985-90aa-66a233223f87' rel='stylesheet' type='text/css'>
+
+<!-- Temporary bandage styles for Gig offer -->
+<style>
+.gig-bandage {
+  display: block;
+  width: 160px;
+  float: right;
+  font-size: 16px;
+        text-align: center;
+}
+
+.gig-bandage-number {
+  font-weight: bold;
+}
+</style>
+
+<!-- hide protection for internet&voice and smart&feature for voice and protection&email for internet-->
+<style>
+
+table.internet-voice th.online_protection, 
+table.internet-voice td.online_protection {
+    display: none;
+}
+
+table.package-list th.smarter-voicemail,
+table.package-list th.calling-features,
+table.package-list td.smarter-voicemail,
+table.package-list td.calling-features {
+  display: none;
+}
+
+table.internet .online_protection,
+table.internet th.email_more,
+table.internet td.email-more {
+  display: none;
+}
+    
+</style>
+
+<style>
+.swipe-carousel, .swipe-carousel div {
+    transition: none;
+}
+</style>
+
+<style> 
+
+/* Call buttons in offer finder */
+
+[data-offer-id*="206075"] .btn.btn-yellow span {
+    margin-top: 50px;
+}
+
+.deal-finder-results .home-security-plans [data-offer-id*="206075"] .price-container .btn-yellow {
+    position: static;
+}
+
+.deal-finder-results .home-security-plans [data-offer-id*="206075"] .btn span {
+    background: #ccc;
+    color: #fff;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+/* XH Overlay for Offer */ 
+
+.overlay-content .icon-stop {
+    background-image: none;
+}
+
+ .overlay-internet-requirement .overlay-viewport h3 {
+    text-align: center;
+    margin: 0px 0 30px;
+    color: #fff;
+    font-weight: 400;
+} 
+
+.two-column-overlay .content > div strong {
+    font-size: 16px;
+    line-height: 20px;
+    color: #fff;
+    font-weight: 400;
+}
+#overlay-localize .validation-errorheader {
+  top: 120px !important;
+}
+.two-column-overlay .content .sub-head, .two-column-overlay .content .callout {
+    color: #fff;
+    font-weight: 100;
+}
+
+.two-column-overlay .or {
+  display: none;
+}
+
+.overlay-internet-requirement .content .callout {
+  border: 0px;
+}
+
+.two-column-overlay .content .callout h4, .two-column-overlay .content .callout b {
+    color: #fff;
+    font-weight: 400;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.overlay-internet-requirement .content .btn-gray span {
+    width: 200px !important;
+    height: 35px;
+    padding: 0 !important;
+}
+
+.two-column-overlay .content .btn {
+    position: absolute;
+    bottom: 14px;
+}
+
+.two-column-overlay .content .right-column .btn span {
+    padding: 0;
+}
+
+.overlay-internet-requirement .content .left-column {
+   width: 48%;
+}   
+
+.deal-finder-red .deal-finder-header span {
+   display: none;
+}
+
+.deal-finder-black-wrapper .offer-information, 
+.deal-finder-red .offer-information {
+    display: block;
+}
+
+.wrapper {
+    width: 100%
+}
+
+.landing {
+    max-width: 1280px;
+    margin: 0 auto 40px;
+}
+
+.landing h2 {
+    height: auto;
+    margin: 0 auto;
+    display: block;
+    font-size: 42px;
+    font-weight: 100;
+    text-align: center;
+    -webkit-font-smoothing: antialiased;
+}
+
+.offer-information {
+    width: 100%;
+    margin: 30px auto 0px auto;
+    display: block;
+    text-align: center;
+}
+
+.offer-information a {
+   font-weight: 400;
+}
+
+.inner {
+    margin: 0 auto;
+    max-width: 1280px;
+
+}
+
+.deal-finder-red .featured-new-customer-offers, 
+.deal-finder-black-wrapper .featured-new-customer-offers { /* specific to homepage deal-finder */
+    position: static;
+}
+
+.deal-finder-black-wrapper .offer-information, 
+.deal-finder-red .offer-information { /* specific to homepage deal-finder */
+    top: -180px;
+}
+
+.deal-finder-red .deal-finder-header { /* specific to homepage deal-finder */
+  padding: 0;
+}
+
+/* Formats Deal Finder for XFINITY HOME LOB */
+
+.deal-finder-red .lob-option {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-right: 20px;
+}
+
+.deal-finder-red .deal-finder-options {
+    max-width: 980px;
+}
+
+.deal-finder-red .four-lobs .lob-option {
+    width: 18.3%;
+    max-width: 25.3%;
+    padding: 20px 20px 15px;
+}
+
+.deal-finder-red .four-lobs .deal-finder-controls {
+   margin-top: 0;
+}
+
+.home-security-plans .features li {
+    height: 30px;
+    width: 240px;
+    margin-bottom: 20px;
+    padding: 5px 0 0 40px;
+    font-weight: bold;
+    line-height: 20px;
+    text-align: left;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.home-security-plans b {
+    font-weight: bold;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.home-security-plans .equipment ul {
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.home-security-plans .equipment {
+    width: 300px;
+}
+
+.home-security-plans .equipment li {
+    margin-bottom: 7px;
+    font-size: 14px;
+    font-weight: 200;
+    margin-bottom: 15px;
+}
+
+.home-security-plans .installation {
+    width: 260px;
+} 
+
+.package-list td .inludes li {
+    margin: 5px 0 5px 15px;
+    line-height: 20px;
+    font-size: 14px;
+    font-weight: 200;
+}
+
+.package-list .home-security-plans p {
+  font-size: 14px;
+
+}
+
+.home-security-plans .price div, 
+.home-security-plans .price .btnStartShopping {
+    margin: 0 !important;
+}
+
+.home-security-plans .column ul.offer-details-list {
+    width: 360px;
+}
+
+.home-security-plans .column {
+    float: left;
+    width: 360px;
+}
+
+.home-security-plans .column .offer-details-list li {
+    width: 360px;
+}
+
+/* END of Formats Deal Finder for XFINITY HOME LOB */
+
+/* Slider */
+
+.slick-slider {
+    position: relative;
+    display: block;
+    -moz-box-sizing: border-box;
+         box-sizing: border-box;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+    -webkit-touch-callout: none;
+    -khtml-user-select: none;
+    -ms-touch-action: pan-y;
+        touch-action: pan-y;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.slick-list {
+    position: relative;
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+.swipe-carousel:focus,
+.slick-list:focus {
+    outline: none;
+}
+
+.slick-list.dragging {
+    cursor: pointer;
+    cursor: hand;
+}
+
+.slick-slider .slick-track,
+.slick-slider .slick-list {
+    -webkit-transform: translate3d(0, 0, 0);
+       -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0);
+         -o-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+}
+
+.slick-track {
+    position: relative;
+    top: 0;
+    left: 0;
+    display: block;
+}
+
+.slick-track:before,
+.slick-track:after {
+    display: table;
+    content: '';
+}
+
+.slick-track:after {
+    clear: both;
+}
+
+.slick-slide {
+    opacity: 0;
+    float: left;
+    height: 100%;
+    min-height: 1px;
+}
+
+[dir='rtl'] .slick-slide {
+    float: right;
+}
+
+.slick-slide.dragging img {
+    pointer-events: none;
+}
+
+.slick-loading .slick-slide {
+    opacity: 0;
+}
+
+.slick-vertical .slick-slide {
+    display: block;
+    height: auto;
+    border: 1px solid transparent;
+}
+
+.slick-arrow.slick-hidden {
+    display: none;
+}
+
+/* Arrows */
+
+.slick-prev:hover,
+.slick-prev:focus,
+.slick-next:hover,
+.slick-next:focus {
+    color: transparent;
+    outline: none;
+    background: transparent;
+    cursor: pointer;
+}
+
+.slick-prev:hover:before,
+.slick-prev:focus:before,
+.slick-next:hover:before,
+.slick-next:focus:before {
+    opacity: 1;
+}
+
+.slick-prev.slick-disabled:before,
+.slick-next.slick-disabled:before {
+    opacity: .25;
+}
+
+.slick-prev:before,
+.slick-prev:after {
+    content: '';
+    display: block;
+    position: absolute;
+    background: #666;
+    width: 2px;
+    height: 24px;
+    top: 0px;
+    left: 13px;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.slick-prev:after {
+    top: 16px;
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+
+.slick-next:before, 
+.slick-next:after {
+    content: '';
+    display: block;
+    position: absolute;
+    background: #666;
+    width: 2px;
+    height: 24px;
+    top: 0px;
+    right: 13px;
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+
+.slick-next:after {
+    top: 16px;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+/* Dots */
+
+.slick-dots {
+    width: 100%;
+    list-style: none;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+}
+
+.slick-dots li {
+    position: relative;
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin: 0 5px;
+    padding: 0;
+    cursor: pointer;
+}
+
+.slick-dots li button {
+    font-size: 0;
+    line-height: 0;
+    display: block;
+    width: 10px;
+    height: 10px;
+    padding: 5px;
+    cursor: pointer;
+    color: transparent;
+    border: 0;
+    outline: none;
+    background: transparent;
+}
+
+.slick-dots li button:hover,
+.slick-dots li button:focus {
+    outline: none;
+    cursor: pointer;
+}
+
+.slick-dots li button:hover:before,
+.slick-dots li button:focus:before {
+    opacity: 1;
+}
+
+.slick-dots li button:before {
+    content: '';
+    line-height: 10px;
+    position: absolute;
+    bottom: 2px;
+    left: 2px;
+    width: 8px;
+    height: 8px;
+    opacity: .25;
+    background: #666;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+}
+
+.slick-dots li.slick-active button:before {
+    opacity: .75;
+}
+
+/* Carousel CSS */
+
+.swipe-carousel {
+    background: #fff;
+}
+
+#slider { 
+    width: 100%; 
+    z-index: 1;
+}
+
+.swipe {
+    overflow: hidden;
+    visibility: hidden;
+    position: relative;
+}
+
+.swipe-wrap {
+    overflow: hidden;
+    position: relative;
+    margin: 0 0 60px;
+    height: 640px;
+}
+
+.swipe-wrap:focus {
+    outline: none;
+}
+
+.swipe-wrap > div {
+    float: left;
+    width: 100%;
+    position: relative;
+}
+
+.swipe-wrap .inner {
+    padding: 20px;
+    height: 580px;
+    position: relative;
+    z-index: 3;
+}
+
+p#carouselDescription {
+    display: none;
+}
+
+.slick-prev { 
+    left: 20px; 
+}
+
+.slick-next {
+    right: 20px; 
+}
+
+.slick-prev, 
+.slick-next {
+    width: 30px;
+    height: 40px;
+    top: 260px;
+    z-index: 20;
+    position: absolute;
+    cursor: pointer;
+    border: none;
+    font-size: 0;
+    padding: 0;
+    background: transparent;
+}
+
+.global-wrapper a.button {
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    background: #0272B6;
+    border: 2px solid #0272B6;
+    color: #fff;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    padding: 15px;
+    display: block;
+    margin: 20px auto;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 25px;
+}
+
+.global-wrapper a.pricing-info {
+    text-align: center; 
+    margin: 10px 0;
+    display: block; 
+    font-size: 12px;
+    font-weight: 400;
+}
+
+span.terms strong {
+    display: block;
+}
+
+.offerInfo {
+    position: absolute;
+    z-index: 5;
+    bottom: 60px;
+    right: 220px;
+    font-size: 0;
+    height: 50px;
+    color: #313131;
+}
+
+.swipe-wrap h2 {
+    font-size: 38px;
+    line-height: 44px;
+    font-weight: 300;
+    letter-spacing: -.03em;
+}
+
+.swipe-wrap .details-restrictions-tooltip {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    clear: none;
+    float: none;
+    margin: 0 auto;
+    display: block;
+    padding: 10px;
+    text-align: right;
+    z-index: 2;
+    width: auto;
+    height: 40px;
+    line-height: 20px;
+}
+
+.swipe-wrap .disclaimer {
+    position: absolute;
+    bottom: 0;
+    right: 120px;
+    color: #666;
+    font-size: 10px;
+    font-style: italic;
+    width: auto;
+    text-align: right;
+    padding: 10px;
+    z-index: 3;
+    height: 40px;
+    line-height: 20px;
+}
+
+.swipe-wrap h3 {
+    line-height: 22px;
+    padding: 10px 20px 10px 5px;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #fff;
+}
+
+.swipe-wrap span.price {
+    padding: 0 15px;
+    border-left: 1px solid #fff;
+    font-size: 48px;
+    line-height: 45px;
+    font-weight: 100;
+    color: #fff;
+}
+
+.swipe-wrap span.terms {
+    font-size: 12px;
+    font-weight: 400;
+    height: 45px;
+    line-height: 20px;
+    padding: 0 15px 0 0;
+    border-right: 1px solid #fff;
+    color: #fff;
+}
+
+.swipe-wrap span.value {
+    display: block;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    text-transform: none;
+}
+
+.global-wrapper .swipe-wrap a.button {
+    height: 45px;
+    width: 165px;
+    margin: 0 0 0 15px;
+    padding: 12px;
+}
+
+.swipe-wrap h5 {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin: 0 0 10px;
+    color: #888;
+}
+
+.global-wrapper .swipe-wrap a.button,
+.swipe-wrap h3,
+.swipe-wrap span.price,
+.swipe-wrap span.terms {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.swipe-wrap .inner img {
+    display: block;
+    margin: 0 auto;
+}
+
+.fore,
+.back {
+    position: absolute;
+    width: 100%;
+    height: 600px;
+    top: 0;
+}
+
+.fore {
+    z-index: 3;
+}
+
+.back {
+    z-index: 2;
+}
+
+/*Triple Play*/
+   .tpcar .back {
+    background: url('//cdn.comcast.com/~/Media/2017/Home page/Carousel/April/AprilRefresh/TP/TP-HP-Bg (1).aspx') no-repeat center;
+    height: 580px;
+    background-size: cover;
+
+}
+.tpcar .whiterectangle {
+    background: #fff;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.06);
+    border-radius: 2px;
+    z-index: 1;
+    width: 400px;
+    height: 383px;
+    margin-top: 28px;
+    margin-left: 40px;
+   font-weight: 300;
+    border: 1px solid #EBEEF0;
+    background-color: #FFFFFF;
+}
+.swipe-wrap .tpcar .inner img.specialofferbadgenetflix {
+    margin: -1px 0px 0px 287px;
+    position: absolute;
+}
+.swipe-wrap .tpcar h2 {
+    text-align: left;
+    position: relative;
+    margin: 31px 0px 46px 25px;
+    float: left;
+    font-family: 'XFINITY-sans', 'Open Sans', sans-serif !important;
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: .75px;
+    color: #191919;
+}
+
+.swipe-wrap .tpcar h3 {
+    margin: -50px 39px 79px 18px;
+    font-family: 'XFINITY-sans', 'Open Sans', sans-serif !important;
+    font-size: 40px;
+    font-weight: 200;
+    letter-spacing: -0.0125px;
+    line-height: 55px;
+    text-transform: none;
+    color: #191919;
+    width: 351px;
+    z-index: 2;
+}
+p.blastspeeds{
+    font-size: 18px;
+    color: #191919;
+    font-weight: 200;
+    margin: -74px 0px 0px 28px;
+}
+.tpcar .offerInfo {
+    z-index: 5;
+    top: -114px;
+    right: 85px;
+    font-size: 0;
+    position: relative;
+    color: #191919;
+}
+.swipe-wrap .tpcar span.price {
+    padding: 5px 0px 4px 65px;
+    font-family: 'XFINITY-sans', 'Open Sans', sans-serif;
+    font-size: 50px;
+    line-height: 42px;
+    font-weight: 400;
+    border-left: 1px solid transparent;
+    color: #191919;
+    margin: 30px 18px 0px 47px;
+    letter-spacing: -2px;
+}
+.swipe-wrap .tpcar span.terms {
+    border-left: 1px solid transparent;
+    border-right: 1px solid transparent;
+    color: #191919;
+    font-size: 12px;
+    font-weight: 300;
+    height: 45px;
+    line-height: 14px;
+    padding: 0 11px 0 0;
+    font-family: 'XFINITY-sans', 'Open Sans', sans-serif;
+    margin: -56px 0px -8px 220px;
+    width: 156px;
+}
+
+.tpcar sup {
+    line-height: 47px;
+    font-size: 20px;
+    letter-spacing: 0.1px;
+    vertical-align: top;
+    font-weight: 300;
+padding-left:2px;
+}
+
+.global-wrapper .swipe-wrap .tpcar a.button {
+   display: inline-block;
+    vertical-align: middle;
+    margin-top: 18px;
+    margin-left: 114px;
+    background: #0272B6;
+    border: 2px solid #0272B6;
+}
+.swipe-wrap .tpcar .details-restrictions-tooltip {
+    position: relative;
+    top: -5px;
+    right: 7px;
+    clear: none;
+    float: none;
+    margin: 0 auto;
+    display: block;
+    padding: 10px;
+    text-align: right;
+    z-index: 2;
+    width: auto;
+    height: 40px;
+    line-height: 20px;
+    width: 140px;
+    color: #0272B6;
+}
+.tpcar .details-restrictions-tooltip .linkText {
+    color: #0272B6;
+}
+
+/* Double Play */
+.dpcar .back {
+    background: url('//cdn.comcast.com/~/Media/2017/Home page/Carousel/April/AprilRefresh/DP/DP-HP-Bg_mini.aspx') no-repeat center;
+    height: 580px;
+    background-size: cover;
+}
+.dpcar .fore {
+
+}
+.dpcar .whiterectangle {
+    background: #fff;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.06);
+    border-radius: 2px;
+    z-index: 1;
+    width: 400px;
+    height: 450px;
+    margin-top: 12px;
+    margin-left: 70px;
+    opacity: .95;
+   font-weight: 300;
+   border: 1px solid #EBEEF0;
+}
+
+.swipe-wrap .dpcar .inner img.specialofferbadgenetflix {
+    margin: -1px 0px 0px 287px;
+    position: absolute;
+}
+
+.swipe-wrap .dpcar h2 {
+    text-align: left;
+    position: relative;
+    margin: 31px 0px 46px 25px;
+    float: left;
+    font-family: 'XFINITY-sans', 'Open Sans', sans-serif !important;
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: .75px;
+    color: #000;
+}
+
+.swipe-wrap .dpcar h3 {
+    margin: -48px 39px 79px 18px;
+    font-family: 'XFINITY-sans', 'Open Sans', sans-serif !important;
+    font-size: 40px;
+    font-weight: 200;
+    line-height: 55px;
+    text-transform: none;
+    color: #000;
+    width: 351px;
+    z-index: 2;
+    letter-spacing: 0;
+}
+p.blastspeeds{
+    font-size: 18px;
+    color: #000;
+    font-weight: 200;
+    margin: -74px 0px 0px 28px;
+}
+.dpcar .offerInfo {
+    z-index: 5;
+    top: -116px;
+    right: 89px;
+    font-size: 0;
+    position: relative;
+    color: #000;
+}
+.swipe-wrap .dpcar span.price {
+    padding: 5px 0px 4px 65px;
+    font-family: 'XFINITY-sans', 'Open Sans', sans-serif;
+    font-size: 50px;
+    line-height: 42px;
+    font-weight: 400;
+    border-left: 1px solid transparent;
+    color: #000;
+    margin: 30px 18px 0px 47px;
+    letter-spacing: -2px;
+}
+.swipe-wrap .dpcar span.terms {
+    border-left: 1px solid transparent;
+    border-right: 1px solid transparent;
+    color: #000;
+    font-size: 12px;
+    font-weight: 300;
+    height: 45px;
+    line-height: 14px;
+    padding: 0 11px 0 0;
+    font-family: 'XFINITY-sans', 'Open Sans', sans-serif;
+    margin: -56px 0px -8px 220px;
+    width: 170px;
+}
+
+.dpcar sup {
+    line-height: 47px;
+    font-size: 20px;
+    letter-spacing: 0.1px;
+    vertical-align: top;
+    font-weight: 300;
+padding-left:2px;
+}
+
+.global-wrapper .swipe-wrap .dpcar a.button {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 10px;
+    margin-left: 113px;
+    background: #0272B6;
+    border: 2px solid #0272B6;
+}
+.swipe-wrap .dpcar .details-restrictions-tooltip {
+    position: relative;
+    top: -7px;
+    right: 9px;
+    clear: none;
+    float: none;
+    margin: 0 auto;
+    display: block;
+    padding: 10px;
+    text-align: right;
+    z-index: 2;
+    width: auto;
+    height: 40px;
+    line-height: 20px;
+    width: 140px;
+    color: #0272B6;
+}
+.dpcar .details-restrictions-tooltip .linkText {
+    color: #0272B6;
+}
+.dpcar hr{
+    margin-top: 18px;
+    width: 350px;
+    border-top: 0px solid #d5d5d5;
+    margin-left: 23px;
+}
+.swipe-wrap .inner img.X1logo{
+    margin: 15px 0px 0px 30px;
+    width: 50px;
+}
+p.yesremote{
+    color: #44484C;
+    font-size: 14px;
+    line-height: 21px;
+    margin: -30px 0px 0px 95px;
+    width: 277px;
+}
+
+/* Internet*/
+.hsdcar .back {
+    background: url('//cdn.comcast.com/~/Media/2017/Home page/Carousel/April/AprilRefresh/HSD/HSD-HP-Bg_mini.aspx') no-repeat center;
+    height: 580px;
+    background-size: cover;
+
+}
+.hsdcar .whiterectangle {
+    background: #fff;
+ 	box-shadow: 0 2px 4px 0 rgba(0,0,0,0.06);
+    border-radius: 2px;
+    z-index: 1;
+    width: 400px;
+    height: 433px;
+    margin-top: 28px;
+    margin-left: 40px;
+   font-weight: 300;
+	border: 1px solid #EBEEF0;
+	background-color: #FFFFFF;
+}
+.swipe-wrap .hsdcar .inner img.onlineexclusivebanner {
+    margin: -1px 0px 0px 277px;
+    position: absolute;
+}
+.swipe-wrap .hsdcar h2 {
+    text-align: left;
+    position: relative;
+    margin: 31px 0px 46px 25px;
+    float: left;
+    font-family: 'XFINITY-sans', 'Open Sans', sans-serif !important;
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: .75px;
+    color: #191919;
+}
+
+.swipe-wrap .hsdcar h3 {
+    margin: -59px 39px 79px 18px;
+    font-family: 'XFINITY-sans', 'Open Sans', sans-serif !important;
+    font-size: 40px;
+    font-weight: 200;
+    letter-spacing: -0.0125px;
+    line-height: 53px;
+    text-transform: none;
+    color: #191919;
+    width: 351px;
+    z-index: 2;
+}
+
+.hsdcar .offerInfo {
+    z-index: 5;
+    top: -114px;
+    right: 89px;
+    font-size: 0;
+    position: relative;
+    color: #191919;
+}
+.swipe-wrap .hsdcar span.price {
+    padding: 5px 0px 4px 65px;
+    font-family: 'XFINITY-sans', 'Open Sans', sans-serif;
+    font-size: 50px;
+    line-height: 42px;
+    font-weight: 400;
+    border-left: 1px solid transparent;
+    color: #191919;
+    margin: 30px 18px 0px 47px;
+    letter-spacing: -2px;
+}
+.swipe-wrap .hsdcar span.terms {
+    border-left: 1px solid transparent;
+    border-right: 1px solid transparent;
+    color: #191919;
+    font-size: 12px;
+    font-weight: 300;
+    height: 45px;
+    line-height: 14px;
+    padding: 0 11px 0 0;
+    font-family: 'XFINITY-sans', 'Open Sans', sans-serif;
+    margin: -56px 0px -8px 220px;
+    width: 156px;
+}
+
+.hsdcar sup {
+    line-height: 47px;
+    font-size: 20px;
+    letter-spacing: 0.1px;
+    vertical-align: top;
+    font-weight: 300;
+padding-left:2px;
+}
+
+.global-wrapper .swipe-wrap .hsdcar a.button {
+   display: inline-block;
+    vertical-align: middle;
+    margin-top: -98px;
+    margin-left: 27px;
+    background: #0272B6;
+    border: 2px solid #0272B6;
+}
+.swipe-wrap .hsdcar .details-restrictions-tooltip {
+    position: relative;
+    top: -36px;
+    right: 94px;
+    clear: none;
+    float: none;
+    margin: 0 auto;
+    display: block;
+    padding: 10px;
+    text-align: right;
+    z-index: 2;
+    width: auto;
+    height: 40px;
+    line-height: 20px;
+    width: 140px;
+    color: #0272B6;
+}
+.hsdcar .details-restrictions-tooltip .linkText {
+    color: #0272B6;
+}
+
+/*TV*/
+   .tvcar .back {
+    background: url('//cdn.comcast.com/~/Media/2017/Home page/Carousel/April/AprilRefresh/TV/TV-HP-Bg_mini.aspx') no-repeat center;
+    height: 580px;
+    background-size: cover;
+
+}
+.tvcar .whiterectangle {
+    background: #fff;
+ 	box-shadow: 0 2px 4px 0 rgba(0,0,0,0.06);
+    border-radius: 2px;
+    z-index: 1;
+    width: 400px;
+    height: 378px;
+    margin-top: 28px;
+    margin-left: 40px;
+   font-weight: 300;
+	border: 1px solid #EBEEF0;
+	background-color: #FFFFFF;
+}
+.swipe-wrap .tvcar .inner img.specialofferbadgenetflix {
+    margin: -1px 0px 0px 287px;
+    position: absolute;
+}
+.swipe-wrap .tvcar h2 {
+    text-align: left;
+    position: relative;
+    margin: 31px 0px 46px 25px;
+    float: left;
+    font-family: 'XFINITY-sans', 'Open Sans', sans-serif !important;
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: .75px;
+    color: #191919;
+}
+
+.swipe-wrap .tvcar h3 {
+    margin: -50px 39px 79px 18px;
+    font-family: 'XFINITY-sans', 'Open Sans', sans-serif !important;
+    font-size: 40px;
+    font-weight: 200;
+    letter-spacing: -0.0125px;
+    line-height: 55px;
+    text-transform: none;
+    color: #191919;
+    width: 351px;
+    z-index: 2;
+}
+p.blastspeeds{
+    font-size: 18px;
+    color: #191919;
+    font-weight: 200;
+    margin: -74px 0px 0px 28px;
+}
+.tvcar .offerInfo {
+    z-index: 5;
+    top: -114px;
+    right: 85px;
+    font-size: 0;
+    position: relative;
+    color: #191919;
+}
+.swipe-wrap .tvcar span.price {
+    padding: 5px 0px 4px 65px;
+    font-family: 'XFINITY-sans', 'Open Sans', sans-serif;
+    font-size: 50px;
+    line-height: 42px;
+    font-weight: 400;
+    border-left: 1px solid transparent;
+    color: #191919;
+    margin: 30px 18px 0px 47px;
+    letter-spacing: -2px;
+}
+.swipe-wrap .tvcar span.terms {
+    border-left: 1px solid transparent;
+    border-right: 1px solid transparent;
+    color: #191919;
+    font-size: 12px;
+    font-weight: 300;
+    height: 45px;
+    line-height: 14px;
+    padding: 0 11px 0 0;
+    font-family: 'XFINITY-sans', 'Open Sans', sans-serif;
+    margin: -56px 0px -8px 220px;
+    width: 156px;
+}
+
+.tvcar sup {
+    line-height: 47px;
+    font-size: 20px;
+    letter-spacing: 0.1px;
+    vertical-align: top;
+    font-weight: 300;
+padding-left:2px;
+}
+
+.global-wrapper .swipe-wrap .tvcar a.button {
+   display: inline-block;
+    vertical-align: middle;
+    margin-top: 18px;
+    margin-left: 114px;
+    background: #0272B6;
+    border: 2px solid #0272B6;
+}
+.swipe-wrap .tvcar .details-restrictions-tooltip {
+    position: relative;
+    top: -5px;
+    right: 7px;
+    clear: none;
+    float: none;
+    margin: 0 auto;
+    display: block;
+    padding: 10px;
+    text-align: right;
+    z-index: 2;
+    width: auto;
+    height: 40px;
+    line-height: 20px;
+    width: 140px;
+    color: #0272B6;
+}
+.tvcar .details-restrictions-tooltip .linkText {
+    color: #0272B6;
+}
+
+
+/* Deals */
+.dealscar .back {
+    background: url('//cdn.comcast.com/~/Media/2017/Home page/Carousel/April/AprilRefresh/Deals/DealsHPBg 2mini.aspx') no-repeat center;
+    height: 580px;
+    background-size: cover;
+
+}
+.dealscar .whiterectangle {
+    background: #fff;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.06);
+    border-radius: 2px;
+    z-index: 1;
+    width: 400px;
+    height: 433px;
+    margin-top: 28px;
+    margin-left: 40px;
+   font-weight: 300;
+    border: 1px solid #EBEEF0;
+    background-color: #FFFFFF;
+}
+.swipe-wrap .dealscar .inner img.onlineexclusivebanner {
+    margin: -1px 0px 0px 277px;
+    position: absolute;
+}
+.swipe-wrap .dealscar h2 {
+    text-align: left;
+    position: relative;
+    margin: 31px 0px 46px 25px;
+    float: left;
+    font-family: 'XFINITY-sans', 'Open Sans', sans-serif !important;
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: .75px;
+    color: #191919;
+}
+
+.swipe-wrap .dealscar h3 {
+    margin: -59px 39px 79px 18px;
+    font-family: 'XFINITY-sans', 'Open Sans', sans-serif !important;
+    font-size: 40px;
+    font-weight: 200;
+    letter-spacing: -0.0125px;
+    line-height: 53px;
+    text-transform: none;
+    color: #191919;
+    width: 365px;
+    z-index: 2;
+}
+
+.dealscar .offerInfo {
+    z-index: 5;
+    top: -114px;
+    right: 89px;
+    font-size: 0;
+    position: relative;
+    color: #191919;
+}
+.swipe-wrap .dealscar span.price {
+    padding: 5px 0px 4px 65px;
+    font-family: 'XFINITY-sans', 'Open Sans', sans-serif;
+    font-size: 50px;
+    line-height: 42px;
+    font-weight: 400;
+    border-left: 1px solid transparent;
+    color: #191919;
+    margin: 30px 18px 0px 47px;
+    letter-spacing: -2px;
+}
+.swipe-wrap .dealscar span.terms {
+    border-left: 1px solid transparent;
+    border-right: 1px solid transparent;
+    color: #191919;
+    font-size: 12px;
+    font-weight: 300;
+    height: 45px;
+    line-height: 14px;
+    padding: 0 11px 0 0;
+    font-family: 'XFINITY-sans', 'Open Sans', sans-serif;
+    margin: -56px 0px -8px 220px;
+    width: 156px;
+}
+
+.dealscar sup {
+    line-height: 47px;
+    font-size: 20px;
+    letter-spacing: 0.1px;
+    vertical-align: top;
+    font-weight: 300;
+padding-left:2px;
+}
+
+.global-wrapper .swipe-wrap .dealscar a.button {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 12px;
+    margin-left: 114px;
+    background: #0272B6;
+    border: 2px solid #0272B6;
+}
+.swipe-wrap .dealscar .details-restrictions-tooltip {
+    position: relative;
+    top: -4px;
+    right: 9px;
+    clear: none;
+    float: none;
+    margin: 0 auto;
+    display: block;
+    padding: 10px;
+    text-align: right;
+    z-index: 2;
+    width: auto;
+    height: 40px;
+    line-height: 20px;
+    width: 140px;
+    color: #0272B6;
+}
+.dealscar .details-restrictions-tooltip .linkText {
+    color: #0272B6;
+}
+
+
+/* X1 Module */
+
+.x1 {
+    /*background: url('//cdn.comcast.com/~/Media/2016/Home Page/x1-bg.aspx') no-repeat center top;*/
+    background: #fff;
+    margin: 0;
+    background-size: cover;
+    width: 100%;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    position: relative;
+}
+
+.x1 .inner {
+    padding: 55px 0px 0px 0px;
+    font-size: 0px;
+   max-width: 100%;
+     border-bottom: 1px solid #d0d0d0;
+}
+
+h1 {
+    text-align: center;
+    font-size: 48px;
+    font-weight: 100;
+    margin: 0 0 30px;
+    -webkit-font-smoothing: antialiased;
+    color: #3b3b3b;
+}
+
+.x1 span {
+    margin: 0 0 10px;
+    font-size: 30px;
+    line-height: 36px;
+    font-weight: 100;
+    color: #3b3b3b;
+    display: block;
+    text-align: center;
+}
+.x1 .competition span {
+  text-align: left;
+}
+.x1 p {
+    font-size: 18px;
+    color: #3b3b3b;
+    line-height: 24px;
+    text-align: left;
+    width: 61%;
+    margin: 30px auto 15px;
+    font-family: 'XFINITY-sans', 'Open Sans', sans-serif;
+    font-weight: 100;
+}
+
+.x1 .left,
+.x1 .right {
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+    padding: 20px;
+    position: relative;
+}
+
+.x1 .left {
+    border-right: 1px solid #d0d0d0;
+    height: 547px;
+}
+
+.x1 .left img,
+.x1 .right img {
+    display: block;
+    margin: 0 auto;
+}
+
+.x1 .right img {
+    margin: -23px auto 0px;
+    width: 100%;
+    max-width: 477px;
+}
+.x1 .left img {
+    width: 100%;
+    max-width: 343px;
+}
+.x1 a {
+    font-weight: 400;
+    font-size: 16px;
+    position: relative;
+    display: block;
+    text-align: center;
+    margin: 10px auto 0;
+}
+
+.x1 .left a {
+    width: 120px;
+    top: 16px;
+}
+
+.x1 .right a {
+    width: 130px;
+}
+
+.x1 a:before, 
+.x1 a:after {
+    content: '';
+    background: #2B9CD8;
+    width: 2px;
+    height: 10px;
+    position: absolute;
+    right: -10px;
+    top: 3px;
+    transform: rotate(120deg);
+}
+
+.x1 a:after {
+    transform: rotate(60deg);
+    top: 8px;
+}
+
+.x1 a.watch {
+    position: absolute;
+    top: 88px;
+    right: -webkit-calc(50% - 223px);
+    right: -moz-calc(50% - 223px);
+    right: calc(50% - 223px);
+    z-index: 4;
+    background: rgba(0, 0, 0, 0.4);
+    width: 446px;
+    height: 252px;
+    padding: 106px 132px;
+    font-weight: 400;
+}
+
+.x1 a.watch:before, 
+.x1 a.watch:after {
+    display: none;
+}
+
+.x1 a.watch:hover {
+    text-decoration: none;
+}
+
+.x1 .watch p {
+    color: #fff;
+    display: inline-block;
+    vertical-align: top;
+    padding: 6px 0 6px 10px;
+    font-size: 16px;
+    margin: 0;
+}
+
+.hero-video-wrapper {
+    position: relative;
+    margin: 40px auto 5px;
+    border: 2px solid #585858;
+    box-shadow: 0 0 20px #666;
+    background: #000;
+    border-bottom: 5px solid #282828;
+    max-width: 450px;
+}
+
+.videoOverlay {
+    position: absolute;
+    z-index: -1;
+    width: 1300px;
+    top: 50px;
+    opacity: 0;
+    font-size: 0;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+
+.videoOverlay.active {
+    opacity: 1;
+    z-index: 999;
+}
+
+.videoOverlay video {
+    width: 1150px;
+    margin: 0 auto;
+    display: block;
+    position: relative;
+}
+video {
+    width: 100% !important;
+    height: auto !important;
+}
+.return {
+    position: absolute;
+    width: 1120px;
+    left: -webkit-calc(50% - 560px);
+    left: -moz-calc(50% - 560px);
+    left: calc(50% - 560px);
+}
+
+.return a {
+    position: absolute;
+    right: 0;
+    width: 50px;
+    height: 50px;
+    z-index: 99;
+}
+
+.return a:before, 
+.return a:after {
+    content: "";
+    display: block;
+    width: 2px;
+    height: 30px;
+    background: #fff;
+    position: absolute;
+    top: 15px;
+    right: 0px;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.return a:after {
+    -webkit-transform: rotate(135deg);
+    -moz-transform: rotate(135deg);
+    transform: rotate(135deg);
+}
+
+.playbg {
+    background: #2B9CD8;
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+}
+
+.play {
+    border-top: 8px solid transparent;
+    border-left: 12px solid #fff;
+    border-bottom: 8px solid transparent;
+    position: absolute;
+    left: 16px;
+    top: 12px;
+}
+
+/* LOB Module */
+
+.lob {
+    font-size: 0px;
+}
+
+.halfBlock {
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    width: 50%;
+    height: 400px;
+    padding: 30px;
+    border-right: 1px solid #d0d0d0;
+    border-bottom: 1px solid #d0d0d0;
+}
+
+.halfBlock.voice, 
+.halfBlock.home {
+    height: 260px;
+}
+
+.halfBlock.myaccount, 
+.halfBlock.movers {
+    height: 260px;
+}
+
+.halfBlock:nth-child(even) {
+    border-right: none;
+}
+
+.halfBlock h2 {
+    font-size: 24px;
+    font-weight: 400;
+    text-align: center;
+    margin: 0 0 20px;
+}
+
+.halfBlock span {
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    font-weight: 100;
+    margin: 0 0 2px;
+    display: block;
+}
+
+.halfBlock.triple span, 
+.halfBlock.double span {
+    margin: 0 auto 20px;
+    width: 60%;
+}
+
+.halfBlock img {
+    display: block;
+    margin: 10px auto;
+    max-height: 225px;
+}
+
+.halfBlock.home img {
+    padding: 7px 0;
+}
+
+.global-wrapper .halfBlock a {
+    font-weight: 400;
+    font-size: 16px;
+    position: absolute;
+    left: calc(50% - 60px);
+    bottom: 20px;
+}
+
+.global-wrapper .bottomModules .halfBlock.movers a {
+    position: absolute;
+}
+
+.halfBlock a:before,
+.halfBlock a:after {
+    content: '';
+    background: #2B9CD8;
+    width: 2px;
+    height: 8px;
+    position: absolute;
+    right: -10px;
+    top: 2px;
+    transform: rotate(120deg);
+}
+
+.halfBlock a:after {
+    transform: rotate(60deg);
+    top: 6px;
+}
+
+.bottomModules {
+    font-size: 0px;
+}
+
+.halfBlock.myaccount ul {
+    width: 310px;
+    margin: 0 auto;
+    font-size: 0px;
+    padding: 20px 0;
+}
+
+.halfBlock.myaccount ul li {
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+    margin: 0 0 15px;
+    padding: 5px 0 5px 40px;
+}
+
+.global-wrapper .halfBlock.myaccount a {
+    position: relative;
+    left: auto;
+    bottom: auto;
+    display: inline;
+}
+
+.halfBlock.myaccount li.maTV {
+    background: url('//cdn.comcast.com/~/Media/2016/Home Page/ma-tv.aspx') no-repeat left;
+}
+
+.halfBlock.myaccount li.maEmail {
+    background: url('//cdn.comcast.com/~/Media/2016/Home Page/ma-mail.aspx') no-repeat left;
+}
+
+.halfBlock.myaccount li.maHome {
+    background: url('//cdn.comcast.com/~/Media/2016/Home Page/ma-home.aspx') no-repeat left;
+}
+
+.halfBlock.myaccount li.maAccount {
+    background: url('//cdn.comcast.com/~/Media/2016/Home Page/ma-acct.aspx') no-repeat left;
+}
+
+.competition, 
+.guarantee {
+    display: inline-block;
+    vertical-align: top;
+    background: #f1f1f1;
+    width: 50%;
+    padding: 35px;
+}
+
+.competition {
+    border-right: 1px solid #d0d0d0;
+}
+
+.competition span {
+    width: 475px;
+    margin: 0 auto;
+    display: block;
+    padding: 0 0 0 80px;
+    background: url('//cdn.comcast.com/~/Media/2016/Home Page/vs.aspx') no-repeat left;
+text-align: left;
+}
+
+.guarantee span {
+    width: 440px;
+    margin: 0 auto;
+    display: block;
+    padding: 0 0 0 85px;
+    background: url('//cdn.comcast.com/~/Media/2016/Home Page/SeptemberRefresh2016/XFINITY_CustomerCommitment_seal_sm (1).aspx') no-repeat left;
+    text-align: left;
+}
+
+.bottomModules strong {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0 0 8px;
+    display: block;
+}
+
+.bottomModules p {
+    font-size: 16px;
+    margin: 0 0 16px;
+}
+
+.global-wrapper .bottomModules a {
+    font-size: 16px;
+    font-weight: 400;
+    position: relative;
+}
+
+.bottomModules a:before, 
+.bottomModules a:after {
+    content: '';
+    background: #2B9CD8;
+    width: 2px;
+    height: 8px;
+    position: absolute;
+    right: -10px;
+    top: 1px;
+    -webkit-transform: rotate(120deg);
+    -moz-transform: rotate(120deg);
+    transform: rotate(120deg);
+}
+
+.bottomModules a:after {
+    -webkit-transform: rotate(60deg);
+    -moz-transform: rotate(60deg);
+    transform: rotate(60deg);
+    top: 5px;
+}
+</style>
+<!--[if lte IE 8]>
+<style>
+.global-wrapper {
+    max-width: 1200px;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+}
+
+.subheader-nav-bg {
+    border: 1px solid #ccc;
+}
+
+.global-wrapper table.package-list {
+    width: 99%;
+}
+
+.slick-prev:before,
+.slick-prev:after,
+.slick-next:before,
+.slick-next:after {
+    width: 20px;
+}
+
+body .global-header a.seo-logo {
+    background: none;
+}
+
+body .global-header .logo img {
+    display: block;
+}
+
+</style>
+<![endif]-->
+
+<style>
+
+/* FED Assist - Do Not Remove */
+
+.bottomModules a:before, 
+.bottomModules a:after {
+    content: '';
+    background: #2B9CD8;
+    width: 2px;
+    height: 8px;
+    position: absolute;
+    right: -10px;
+    top: 3px;
+    -webkit-transform: rotate(120deg);
+    -moz-transform: rotate(120deg);
+    transform: rotate(120deg);
+}
+
+.bottomModules a:after {
+    -webkit-transform: rotate(60deg);
+    -moz-transform: rotate(60deg);
+    transform: rotate(60deg);
+    top: 7px;
+}
+
+#footer-container #footer-share li {
+    display: inline-block;
+    width: 25%;
+    border: none;
+    height: auto;
+    float: none;
+    background-image: url('//cdn.comcast.com/~/Media/2016/Buy Flow Redesign/sprite-footer--white.png?rev=1074109f-b758-4a8d-a742-3804ac494055');
+}
+
+#footer-container #footer-share li#footer-comcast {
+    background-image: none;
+}
+
+#footer-container #footer-share li#footer-comcast span {
+    background-image: url('//cdn.comcast.com/~/Media/2016/Buy Flow Redesign/sprite-footer--white.png?rev=1074109f-b758-4a8d-a742-3804ac494055');
+}
+
+.content, 
+#deal_finder_container, 
+#package-details, 
+#package-details .package-list, 
+.deal-finder-results .package-list, 
+#more_offer, .deal-finder-results .more-offer {
+  max-width: 100%;
+}
+
+/* Responsive */
+
+@media screen and (max-width: 1300px) { 
+
+.deal-finder-red .deal-finder-results {
+    margin: 0 auto;
+}
+
+.halfBlock.triple img,
+.halfBlock.home img {
+    max-width: 390px;
+    height: auto;
+}
+}
+
+
+
+@media screen and (max-width: 980px) {
+
+}
+
+.home-security-plans .price .total-price {
+  top: 35px;
+}
+.deal-finder-results .home-security-plans .price-container .btn-yellow {
+  /*top: 40px;*/
+}
+
+
+
+
+@media screen and (max-width: 1440px) {
+
+}
+
+@media screen and (max-width: 1366px) {
+/*1366 Triple Play*/
+
+
+
+/*1366 Internet*/
+
+
+
+/*1366 TV*/
+
+
+/*1366 Deals*/
+
+}
+
+@media screen and (max-width: 1280px) {
+
+/*1280 Triple Play*/
+
+
+
+/*1280 Double Play */
+
+
+/*1280 Internet*/
+
+
+/*1280 TV*/
+
+
+/*1280 Deals*/
+
+}
+
+@media screen and (max-width: 1024px) {
+.halfBlock.triple span, .halfBlock.double span {
+    margin: 0 auto 20px;
+    width: 84%;
+}
+
+.localization_addr .find_local_offers.right_col {
+  right: 26px !important;
+}
+.halfBlock.double span {
+    margin: 0 auto 20px;
+    width: 83%;
+}
+
+.global-wrapper .swipe-wrap a.button {
+    height: 45px;
+    width: 165px;
+    margin: 0px 0 0 35px;
+    padding: 12px;
+    background: #0272B6;
+    border: 2px solid #0272B6;
+}
+
+/*1024 Triple Play*/
+
+
+/*1024 Double Play */
+
+
+/*1024 Internet*/
+
+
+
+/*1024 TV*/
+
+
+
+/*1024 Deals */
+
+}
+
+#overlay-localize .validation-errorheader {
+   top: 120px !important;
+}
+
+@media screen and (max-width: 768px) {
+
+.deal-finder-black-wrapper .offer-information, 
+.deal-finder-red .offer-information {
+  width:auto !important;
+  top: -250px;
+  left: 100px;
+}
+.localization_addr .find_local_offers.right_col {
+  top: -190px;
+  border-left: none;
+  right: 250px !important;
+
+}
+.x1 a.watch {
+    position: absolute;
+    top: 88px;
+    right: calc(50% - 223px);
+    z-index: 4;
+    background: rgba(0, 0, 0, 0);
+    width: 446px;
+    height: 252px;
+    padding: 106px 132px;
+    font-weight: 400;
+}
+
+.halfBlock.triple img {
+    max-width: 372px;
+    height: auto;
+    margin-left: -28px;
+}
+
+.halfBlock.double span {
+    margin: 0 auto 20px;
+    width: 100%;
+}
+
+.halfBlock.internet img {
+    display: block;
+    margin: 10px -22px;
+    max-height: 225px;
+    width: 376px;
+}
+
+.halfBlock.tv img {
+    display: block;
+    margin: 10px auto;
+    max-height: 225px;
+    width: 304px;
+}
+
+.halfBlock.movers img {
+    display: block;
+    margin: 5px auto;
+    max-height: 225px;
+}
+
+.halfBlock span {
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    font-weight: 100;
+    margin: 0 0px 2px -19px;
+    display: block;
+}
+
+
+/*768 Triple Play*/
+
+
+/*768 Double Play */
+
+
+/*768 Internet*/
+
+
+/*768 TV*/
+
+
+/*768 Deals*/
+
+
+}
+
+
+</style>
+
+<!-- OVER RIDE FOR VOICE SLIDE -->
+<style>
+.tpcar .offerInfo {
+ /*  height: auto !important;*/
+/*    bottom: 160px;*/
+}
+
+.swipe-wrap .tpcar .details-restrictions-tooltip {
+  bottom: -10px !important;
+}
+
+.deal-finder-results tbody .inetVoice {
+    width: 16%;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 0 40px;
+    text-align: center;
+    line-height: 1.3;
+}
+
+.inetVoice div div {
+  font-weight: 400 !important;
+  padding: 10px;
+}
+
+.right_col.find_local_offers {
+  display: block;
+} 
+.localization_addr {
+  margin-left: 40px;
+}
+
+.deal-finder-black-wrapper .localization_addr .offer-information, 
+.deal-finder-red .localization_addr .offer-information {
+  width: 65%;
+}
+
+.localization_addr .find_local_offers.right_col {
+  right: 216px;
+}
+.deal-finder-black-wrapper .localization_addr .offer-information p, 
+.deal-finder-red .localization_addr .offer-information p, 
+#mainform .content .localization_addr .offer-information p {
+  padding: 0 0 0 6px;
+}
+#overlay-login {
+  display: none !important;
+  visibility: hidden;
+}
+.video-overlay._active {
+    background: rgba(0, 0, 0, 0.8) none repeat scroll 0 0;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
+</style>
+
+<!-- Evergreen styles for new modules FEDCM -->
+<link href="//cdn.comcast.com/~/Media/2017/Home page/Evergreen/January2017/style/evergreen.css?rev=2fd0af15-6348-4bc4-b502-b39cf48f53c2" rel='stylesheet' type='text/css'>
+<script src="//cdn.pdc.comcast.com/includes/ngbf_comcast_com/js/bundles/jquery?v=N25ZWUvnK3O6G3jNES87C3YgNtfK9mb8ZQmr-or43DI1"></script>
+
+
+
+
+
+	<script type="text/javascript">
+	    window.targetPageParams = function() {
+	        return ["accountType=",
+                "alert_appointment=",
+                "alert_ondemand=",
+                "authGUID=",
+                "bill_due_type=",
+                "billPayType=",
+                "city=Fremont",
+                "currentMRC=",
+                "customer_cookie=F",
+                "daySinceLastLogin=",
+                "Delinquent=",
+                "division=WEST DIVISION",
+                "existing_customer=F",
+                "franchise=0",
+                "hasContactEmail=",
+                "hasMobilePhone=",
+                "hasPendingMobilePhoneActivation=",
+                "isp=",
+                "isp_comcast=F",
+                "late_bill_thisyear=",
+                "lob_owned=",
+                "localized=F",
+                "market=8918",
+                "payment_type=",
+                "products_owned=",
+                "profile.customer_cookie=F",
+                "profile.isp=",
+                "profile.isp_comcast=F",
+                "profile.localized=F",
+                "region=11493",
+                "selfServiceTransaction=",
+                "start_date=",
+                "state=CA",
+                "tier_owned=",
+                "userGUID=",
+                "zip=94536"];
+	    };
+	</script>
+ 
+    <script src="//cdn.comcast.com/~/Media/www_comcast_com/Includes/Javascripts/AAM/AAMTnT.js?rev=c708b252-711d-43cd-aed7-a9dfff9adbe9"></script>
+    <script src="//cdn.comcast.com/~/Media/Javascripts/Omniture/visitorAPI.js?rev=53396bc1-6018-4528-957b-e68c2b101fd6"></script>
+    <script src="//cdn.comcast.com/~/Media/Javascripts/Omniture/Mbox.js?rev=ed615c72-63d3-483d-a532-625284cedc7c"></script>
+    <script src="//comcast.demdex.net/event?d_stuff=1&d_dst=1&d_rtbd=json&d_cts=1&d_cb=aam_tnt_cb"></script>
+    
+    <script src="//cdn.pdc.comcast.com/includes/ngbf_comcast_com/js/bundles/jsbundle8?v=qYENux6Sh9fLSarjQZofWn7Qu0azp02F21-1300Cvi01"></script>
+<script src="//assets.adobedtm.com/43896e740dcedef854392e0be6ea80deb8eb2ba5/satelliteLib-bd182aaf0efd2bc4e149f200af461e0eb894c523.js" ></script><link id="AlertMessagingCSS" rel="stylesheet" type="text/css" href="//cdn.comcast.com/~/media/Alert-Messaging/notifications-styles.css" /></head>
+
+<!--[if lte IE 7]><body class="ie7 batch2"><![endif]-->
+<!--[if IE 8]><body class="ie8 batch2"><![endif]-->
+<!--[if IE 9]><body class="ie9 batch2"><![endif]-->
+<!--[if IE 10]><body class="ie10 batch2"><![endif]-->
+<!--[if (gte IE 11)|!(IE)]><!-->
+<body class="batch2">
+    <!--<![endif]-->
+
+    
+	<div class="mboxDefault"></div>
+	<script type="text/javascript">
+		mboxCreate("comcast_global",
+			"isp_comcast=F",
+			"profile.isp_comcast=F",
+			"customer_cookie=F",
+			"profile.customer_cookie=F",
+			"market=8918",
+			"division=WEST DIVISION",
+			"zip=94536",
+			"lob_owned=",
+			"tier_owned=",
+            "isp=",
+			"profile.isp=",
+            "localized=F",
+	        "profile.localized=F");
+	</script>
+
+	<div class="mboxDefault"></div>
+	<script type="text/javascript">
+		mboxCreate("home_top",
+			"isp_comcast=F",
+			"profile.isp_comcast=F",
+			"customer_cookie=F",
+			"profile.customer_cookie=F",
+			"division=WEST DIVISION",
+			"region=11493",
+			"market=8918",
+			"franchise=0",
+			"state=CA",
+			"city=Fremont",
+			"zip=94536",
+            "existing_customer=F",
+            "isp=",
+			"profile.isp=",
+            "localized=F",
+		    "profile.localized=F");
+	</script>
+
+	<div class="mboxDefault"></div>
+	<script type="text/javascript">
+		mboxCreate("home_top_2");
+	</script>
+
+
+
+	<div id="tnt_comcast_customer_data"></div>
+	<script type="text/javascript" language="javascript">
+	    //mboxDefine("tnt_comcast_customer_data1","comcast_customer_data");	
+	    mboxCreate("comcast_customer_data",
+            "lob_owned=",
+            "x1_customer=",
+            "tier_owned=",
+            "equipment_owned=",
+            "addons=");
+    </script>
+
+
+
+    
+
+
+<!-- close button -->
+<div class="global-navigation-drawer">
+	<span class="top-capture" tabindex="0"></span>
+    <button class="menu-item menu-close" type="button" data-role="none">
+        Close Menu<i class="icon-close">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.938 25">
+				<polygon fill="#FFFFFF" points="21.063,0 24.938,3.813 16.688,12.5 24.938,21 21.188,25 12.313,16.438 3.813,25 0,21.313 8.5,12.188 0,3.75 3.813,0 12.469,8.313 " />
+			</svg>
+		</i>
+    </button>
+    <button type="button" class="menu-item menu-back" data-role="none">
+        <i class="icon-back">
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20.5 33.375">
+                <polygon fill="#FFFFFF" points="8.063,16.688 20.5,29.75 16.375,33.375 0,16.375 15.938,0 20.5,3.938 	" />
+            </svg>
+        </i>Back<i class="icon-close"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.938 25">
+            <polygon fill="#FFFFFF" points="21.063,0 24.938,3.813 16.688,12.5 24.938,21 21.188,25 12.313,16.438 3.813,25 0,21.313 8.5,12.188 0,3.75 3.813,0 12.469,8.313 " />
+        </svg></i>
+    </button>
+
+    <!-- Mobile Menu Level 1 -->
+    <ul class="menu-mobile-home menu-tier">
+        
+                <li id="navigationplaceholder_0_ctl00_MobileMenu_MobileMenuListItem_0" class="menu-item"><button data-childmenu="" type="button" aria-haspopup="true" data-role="none"></button></li>
+            
+                <li id="navigationplaceholder_0_ctl00_MobileMenu_MobileMenuListItem_1" class="menu-item"><a href="/" target="_self">XFINITY by Comcast</a></li>
+            
+                <li id="navigationplaceholder_0_ctl00_MobileMenu_MobileMenuListItem_2" class="menu-item"><a href="/checkout/myorder.aspx" target="_self">Cart</a></li>
+            
+    </ul>
+
+    <!-- mobile menu level 2 -->
+    
+            <ul class="menu- menu-tier menu-child">
+                
+                        <li class="menu-item"><a href="//www.xfinity.com/Corporate/shop/productoverview.html" target="_self">XFINITY Deals</a></li>
+                    
+                        <li class="menu-item"><a href="#" target="_self">XFINITY Products</a></li>
+                    
+                        <li class="menu-item"><a href="#" target="_self">My Account</a></li>
+                    
+                        <li class="menu-item"><a href="//www.xfinity.com/move-transfer" target="_self">Moving to a new home?</a></li>
+                    
+                        <li class="menu-item"><a href="http://my.xfinity.com/" target="_self">My XFINITY</a></li>
+                    
+                        <li class="menu-item"><a href="//customer.xfinity.com/service-center-locations" target="_self">Store Locator</a></li>
+                    
+                        <li class="menu-item"><a href="http://xfinitytv.comcast.net/apps?INTCMP=ILC:SAL:GEN:GEN544ff16174949" target="_self">Download XFINITY Apps</a></li>
+                    
+                        <li class="menu-item"><a href="https://business.comcast.com/triple-play-bundle?utm_source=dotcom&utm_campaign=HamburgerA&utm_medium=dotcom" target="_self">Comcast Business</a></li>
+                    
+                        <li class="menu-item"><a href="//es.xfinity.com/m" target="_self">Español</a></li>
+                    
+            </ul>
+        
+	<span class="bottom-capture" tabindex="0"></span>
+</div>
+
+<!-- Global Header -->
+<div class="global-header header-authenticated" id="globalHeader">
+    <div class="content" role="navigation">
+        <button class="triptych-activator" type="button" aria-haspopup="true" data-role="none">
+            <i class="triptych-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29.962 24.015">
+                    <rect fill="#FFFFFF" width="29.962" height="4.848" />
+                    <rect y="9.583" fill="#FFFFFF" width="29.962" height="4.848" />
+                    <rect y="19.167" fill="#FFFFFF" width="29.962" height="4.848" />
+                </svg>
+                <span class="accessibly-hidden">Xfinity Navigation</span>
+            </i>
+        </button>
+        
+                <a class="logo seo-logo" href="https://www.xfinity.com" target="_self" title="XFINITY by Comcast">
+					<img src="/~/Media/Common/GlobalNavigation/images/XFINITY_r" alt="Comcast Xfinity" />
+                    <span class="accessibly-hidden">Go to Comcast XFINITY Home Page</span>
+                </a>
+            
+        <ul class="main-navigation">
+            
+                    <li id="navigationplaceholder_0_ctl00_DesktopMenu_DesktopMenuListItem_0" class="item item-active">
+                        <a class="link" href="https://www.xfinity.com/learn/offers#/" target="_self">Shop<span class="accessibly-hidden"> XFINITY Services</span></a>
+                    </li>
+                
+                    <li id="navigationplaceholder_0_ctl00_DesktopMenu_DesktopMenuListItem_1" class="item">
+                        <a class="link" href="https://customer.xfinity.com/#/" target="_self">My Account<span class="accessibly-hidden"> Access</span></a>
+                    </li>
+                
+                    <li id="navigationplaceholder_0_ctl00_DesktopMenu_DesktopMenuListItem_2" class="item">
+                        <a class="link" href="https://www.xfinity.com/support/" target="_self">Support<span class="accessibly-hidden"> Xfinity Products</span></a>
+                    </li>
+                
+                    <li id="navigationplaceholder_0_ctl00_DesktopMenu_DesktopMenuListItem_3" class="item">
+                        <a class="link" href="http://my.xfinity.com/?cid=dotcom_topnav_myxfn" target="_self">My XFINITY<span class="accessibly-hidden"> Experience</span></a>
+                    </li>
+                
+        </ul>
+        <div class="user-panel" role="complementary">
+            <p class="services">
+                
+                        <a href="https://tv.xfinity.com/" target="_self">TV<span class="accessibly-hidden"> </span></a>
+                    
+                        <a href="http://my.xfinity.com/?cid=cust" target="_self">Email<span class="accessibly-hidden"> </span></a>
+                    
+            </p>
+            
+            <p id="navigationplaceholder_0_ctl00_pAuthentication" class="authentication">
+                <a href="http://my.xfinity.com/oauth/login?continue=http%3A%2F%2Fmy.xfinity.com%2F%3Fcid%3Dcust%26amcid%3DSEG_MYACCOUNT" id="navigationplaceholder_0_ctl00_aSignLink" class="link sign-in">Sign In<span class='accessibly-hidden' ></span></a>
+            </p>
+            <p class="business-portal">
+                
+                        <a class="link" href="https://business.comcast.com/triple-play-bundle?utm_source=dotcom&utm_campaign=Right-Side&utm_medium=dotcom" target="_self">Comcast Business<span class="accessibly-hidden"> </span></a>
+                    
+            </p>
+        </div>
+        
+    </div>
+</div>
+
+<!-- Javascript - Global Navigation -->
+<script type="text/javascript" src="/~/Media/Common/GlobalNavigation/scripts/comcastglobalnavigation"></script>
+
+     <div class="subheader-container">
+		    <div class="subheader">
+             <h2>
+                
+               </h2>
+			    <ul class="subheader-nav-list dropdown-header" data-component="subnavigation" role="navigation" aria-label="Shop/Upgrade Menu">
+    
+        <li>
+    
+            <a class="sub-header-visual" tabindex="-1" href="javascript:void(0);">Products</a>
+            <a id="menuItemProducts" class="acc-helper acc-hidden sub-header" href="#" aria-owns="menuProducts" aria-controls="menuProducts" aria-haspopup="true" aria-expanded="false">Products</a>
+    
+        <div class="subheader-nav-bg">
+			<ul id="menuProducts" role="group" aria-expanded="false" aria-labelledby="menuItemProducts">
+    
+        <li><a href="https://www.xfinity.com/Corporate/Learn/DigitalCable/digitalcable.html" >XFINITY TV</a></li>
+    
+        <li><a href="https://www.xfinity.com/learn/internet-service" >XFINITY Internet</a></li>
+    
+        <li><a href="https://www.xfinity.com/home-phone-service.html" >XFINITY Voice</a></li>
+    
+        <li><a href="https://www.xfinity.com/home-security.html" >XFINITY Home</a></li>
+    
+        <li><a href="https://www.xfinity.com/x1" >XFINITY on X1</a></li>
+    
+        <li><a href="https://www.xfinity.com/xfinity-vs-competition" >XFINITY vs. the Competition</a></li>
+    
+        <li><a href="https://business.comcast.com/triple-play-bundle?utm_source=dotcom&utm_campaign=Product-Shop&utm_medium=dotcom" >Business Services</a></li>
+    
+       </ul>
+		 </div>
+   
+     </li>
+    
+        <li>
+    
+            <a class="sub-header-visual" tabindex="-1" href="javascript:void(0);">Bundles & Deals</a>
+            <a id="menuItemBundlesDeals" class="acc-helper acc-hidden sub-header" href="#" aria-owns="menuBundlesDeals" aria-controls="menuBundlesDeals" aria-haspopup="true" aria-expanded="false">Bundles & Deals</a>
+    
+        <div class="subheader-nav-bg">
+			<ul id="menuBundlesDeals" role="group" aria-expanded="false" aria-labelledby="menuItemBundlesDeals">
+    
+        <li><a href="https://www.xfinity.com/learn/offers#/" >All XFINITY Deals</a></li>
+    
+        <li><a href="https://www.xfinity.com/Corporate/Learn/Bundles/bundles.html" >XFINITY Triple Play</a></li>
+    
+        <li><a href="https://www.xfinity.com/cable-internet-packages.html" >XFINITY Double Play</a></li>
+    
+        <li><a href="https://www.xfinity.com/parami" >XFINITY Latino Packages</a></li>
+    
+       </ul>
+		 </div>
+   
+     </li>
+    
+        <li>
+    
+            <a class="sub-header-visual" tabindex="-1" href="javascript:void(0);">Programming</a>
+            <a id="menuItemProgramming" class="acc-helper acc-hidden sub-header" href="#" aria-owns="menuProgramming" aria-controls="menuProgramming" aria-haspopup="true" aria-expanded="false">Programming</a>
+    
+        <div class="subheader-nav-bg">
+			<ul id="menuProgramming" role="group" aria-expanded="false" aria-labelledby="menuItemProgramming">
+    
+        <li><a href="https://tv.xfinity.com/" >On Demand Highlights</a></li>
+    
+        <li><a href="https://www.xfinity.com/sports.html" >Sports</a></li>
+    
+        <li><a href="https://www.xfinity.com/pay-per-view.html" >Pay Per View Events</a></li>
+    
+        <li><a href="https://www.xfinity.com/learn/channel-lineup/" >Channel Lineup</a></li>
+    
+        <li><a href="https://www.xfinity.com/corporate/Programming/international-programming.html" >International Programming</a></li>
+    
+       </ul>
+		 </div>
+   
+     </li>
+    
+        <li>
+    
+            <a class="sub-header-visual" tabindex="-1" href="javascript:void(0);">Customers</a>
+            <a id="menuItemCustomers" class="acc-helper acc-hidden sub-header" href="#" aria-owns="menuCustomers" aria-controls="menuCustomers" aria-haspopup="true" aria-expanded="false">Customers</a>
+    
+        <div class="subheader-nav-bg">
+			<ul id="menuCustomers" role="group" aria-expanded="false" aria-labelledby="menuItemCustomers">
+    
+        <li><a href="https://customer.xfinity.com/#/" >My Account</a></li>
+    
+        <li><a href="https://www.xfinity.com/buy/plan/myplan" >Add Services</a></li>
+    
+        <li><a href="https://www.xfinity.com/moving" >Move or Transfer Services</a></li>
+    
+        <li><a href="https://www.xfinity.com/support/service-center-locations/" >Store Locator</a></li>
+    
+        <li><a href="https://www.xfinity.com/support/" >Customer Support</a></li>
+    
+        <li><a href="http://store.xfinity.com/?Ecid=PRF-CMC-100000&PA=PRF-CMC-100000" >Accessories</a></li>
+    
+        <li><a href="https://www.xfinity.com/policies" >Customer Agreements/Policies</a></li>
+    
+        <li><a href="https://experience.xfinity.com/" >Customer Guarantee</a></li>
+    
+       </ul>
+		 </div>
+   
+     </li>
+    
+        </ul>
+	       <script src="//cdn.pdc.comcast.com/includes/ngbf_comcast_com/js/bundles/searchsuggest?v=TpG1-RYYPT8co0pDF8bBU9v783QOCYoADw3y_k655CM1"></script>
+
+
+
+
+
+<div class="subheader-search-container">
+                        <span id='cartVisible' style='display:none'>false</span>
+						<a href="#" id="anchorShoppingCart" class="cart-inactive"><span class="accessibly-hidden">Your Cart</span></a>
+						<div class ="search-header">
+							<div class="subheader-search">
+							                            
+                            <label class="acc-hidden" for="shop-search-textbox">Search</label>
+                            <input id="shop-search-textbox" type="text"  name="q" onfocus = "clearDefault(this);"/>
+                            </div>
+                            
+							<div>
+								<input id="shop-search-submit" type="submit" role="button" />
+							</div>
+						</div>
+                        
+                            <a id="hyperlinkMP" href="http://es.xfinity.com/"
+                                onclick="return switchLanguage('es');
+                                function switchLanguage(lang) {
+                                MP.SrcUrl=decodeURIComponent('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';MP.init();
+	                                MP.switchLanguage(MP.UrlLang==lang?'en':lang);
+	                                return false;
+                                }" 
+                            ><span style="font-size:13px;">En Español</span></a>
+                           						
+</div>
+
+<script type="text/javascript" id="mpelid" src="//es.comcast.com/mpel/mpel.js"></script>
+					
+				</div><!-- end of #subheader -->
+		</div>
+    
+
+<link id="navigationplaceholder_1_notificationsStyleLink" rel="stylesheet" type="text/css"></link>
+<div id="alert-messaging" aria-live="polite"></div>
+
+    <form method="post" action="/" id="mainform">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="fzIlOQ0zAzJ9PcwYrxSSav94JZXTcqrZV71a1D6Ke1GKuhfeNwznDwkMa9ArcNHI1X7UQZ1hd8asuTtuNx9j/dax2/LZjQupXurQNYxFaNryXrrWftpCh4CsYdzIztmXWD5sRTvDge4lS+yofqeZdlol9Wuxtdo3vhFxkkAXmw3TQit+PpyxVZD5eJCGWlS1xDvWtvaJGIIVdnO2DgpZPxaZ3imBvuhMjZXXjaHzMwysjAXVRq4JzLAIJ9HCaZDOHnT1Mh5HeFsOObXgCepz4wQ7lrg/+sRKYZkIINGkhrMa1ga434PlFVvPJgqgJMfc61EKZc3KPyCILK5xarwZ2TyBQQmLc0UMSI3EOL+fqK+kV6y0MtRk6NodDcpDzN+toRnMdzS+WkT4yvuUmtXM3SJvqH8CJkfDz4Ozm3O9Es16YohV2u3rD0lOE/YWqRKLnvTcKAsE8v6kzf95jkwNjk9x4DNjpPg1GW5Flyhy9FosrL0xX8Z1VDFsMUjczcoLRFrVQMnyZlAxHznr7lrr/U7SzfBpO92UB1FE+BWH51X0VZoX1Qzl+Js9hiqj43CmCex7XLQF7Aqb4kbh2t8OcjmfeajYypXyCTUJlTumfh39oLtbqZRbtpwOU9ljcS6mG3rNSw==" />
+</div>
+
+<script type='text/javascript'>window.alertMessagingApiUrl  = '//www.xfinity.com/xapi/notifications'</script><script type='text/javascript'>window.alertMessagingHostUri  = 'www.xfinity.com'</script>
+<script type="text/javascript">
+//<![CDATA[
+var localize = new Localize('localize','contentplaceholder_2__streetNameTxt','contentplaceholder_2__aptNumberTxt','contentplaceholder_2__zipCodeTxt','Street address is required','ZIP is required','Apartment is required','A valid Street Address is required.','Please enter 5-digit ZIP Code.','We have determined that there may be multiple units in your building. Please enter your unit or apartment number below.','Ex. 123 Main Street','','','A valid Phone Number is required.','Last 4 digits of Social Security Number required.','A valid Phone Number and last four digits of Social Security Number are required.','The phone number and the last 4 digits of the social security number do not match.  Please try again.','contentplaceholder_2__rememberInformationChk','false');localize.SetPostSignInRedirect('');var localizeAddressCompletion = new AddressCompletion('contentplaceholder_2__streetNameTxt','/','0');//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="79F3913B" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="cALjZjNW3teYF6LE4/sriLK7zpCNpJASB1jUFirX/b6w+X0HaYPcBqI0MfhhHkmIV8XnRLyb5Ts3X890xvRF0xKuLn5N831yBtgCQeFxcCH6xMR4FmupdHp2qV0uyWnbrK8ClC3PYsQ98nBhrn01r9zjWmtL4t4zlXWRtpRXef6BPaH6JY1l0PRvyVcaZ98YZ6+k78kMxpdLl61ylPNaenONIxBCXI29fe+bk7mG8U3SSMpbg1KjxiRAuVgOhEbXqIjoVan7z7PvoLd4qkMTTdNHw6ljAWainT+0Qoj0QGQZSgZh" />
+</div>
+        <div id="urlContentPanel">
+	
+            
+
+<!--Start of content-->
+<div class="global-wrapper">
+    <!-- Top -->
+    <!-- West Pro Saver BAU May Carousel -->
+
+<html prefix="og: http://ogp.me/ns#">
+<meta property="og:type" content="product" /> 
+<meta property="og:url" content="http://www.xfinity.com/" /> 
+<meta property="og:title" content="XFINITY by Comcast" /> 
+<meta property="og:description" content="Save on Comcast Digital Cable TV, High-Speed Internet and Home Phone Services. Enjoy entertainment your way with great deals on XFINITY® by Comcast." /> 
+<meta property="og:image" content="https://www.xfinity.com//cdn.comcast.com/~/Media/Common/GlobalNavigation/images/XFINITY_r" /> 
+<meta property="product:brand"  content="XFINITY " /> 
+<meta property="product:price:currency" content="USD" /> 
+ <link rel="alternate" href="https://www.xfinity.com/m" />
+
+<style>
+/*Deals*/
+.dealscar .whiterectangle {
+    height: 450px;
+}
+.swipe-wrap .dealscar .disclaimer1 {
+    position: absolute;
+    bottom: 32px;
+    right: 6px;
+    color: #fff;
+    font-size: 12px;
+    font-style: initial;
+    text-align: right;
+    padding: 10px;
+    z-index: 3;
+    line-height: 18px;
+    width: 300px;
+    background-color: rgba(0,0,0,0.7);
+    padding-top: 3px;
+    height: 24px;
+}
+.swipe-wrap .dealscar .disclaimer2 {
+    position: absolute;
+    bottom: 5px;
+    right: 6px;
+    color: #fff;
+    font-size: 12px;
+    font-style: initial;
+    text-align: right;
+    padding: 10px;
+    z-index: 3;
+    line-height: 18px;
+    width: 277px;
+    background-color: rgba(0,0,0,0.7);
+    padding-top: 3px;
+    height: 24px;
+}
+/*Triple Play*/
+.tpcar .whiterectangle {
+    height: 465px;
+}
+.swipe-wrap .tpcar h3 {
+    width: 370px;
+}
+.swipe-wrap .tpcar span.terms {
+    width: 175px;
+}
+
+/*Double Play*/
+.global-wrapper .swipe-wrap .dpcar a.button {
+    margin-top: 15px;
+}
+.dpcar .whiterectangle {
+    height: 440px;
+}
+
+/*TV*/
+.swipe-wrap .tvcar .disclaimer {
+    position: absolute;
+    bottom: 4px;
+    right: 6px;
+    color: #fff;
+    font-size: 12px;
+    font-style: initial;
+    text-align: right;
+    padding: 10px;
+    z-index: 3;
+    line-height: 18px;
+    width: 217px;
+    background-color: rgba(0,0,0,0.7);
+    padding-top: 3px;
+    height: 24px;
+}
+
+</style>
+
+
+
+<div class="swipe-carousel" tabindex="0" aria-describedby="carouselDescription">
+    <p id="carouselDescription" class="ux-acc-hidden">This is a carousel with several xfinity product offers.</p>
+    <div class="swipe-wrap">
+
+
+        <!-- Deals -->
+        <div>
+            <div class='dealscar'>
+                <div class="fore"></div> 
+                <div class="inner"> 
+                   <div class="whiterectangle">
+     <!--      <img class="specialofferbadgenetflix" src="//cdn.comcast.com/~/Media/2017/Home page/Carousel/April/AprilRefresh/TV/Call-Out-Netflix.png?rev=e69ad34d-e548-437a-8923-9aaac6f4542d" alt="Special Offers Badge Netflix"> -->
+                    <h2>INTERNET PLUS CHOICE</h2>
+                       <h3>Fast speeds to stream your favorite HBO<sup class="netflixsup">&reg;</sup> shows and more</h3>       
+                               <div class="offerInfo">
+                          <span class="price"><sup>$</sup>49<sup>99</sup></span>
+                       <span class="terms">a month for a 12 months<br>1 year agreement</span>
+               
+                     <a class='button' href='/internet-service.html?INTCMP=ILCCOMCOMHS165216' title="XFINITY TV and Internet Bundles">Start shopping</a> 
+                   <a class="details-restrictions-tooltip" href="#dr_9776101965" data-offer-id='9776101965' data-details-overlay-enabled='true' data-cuitooltip-delay='3000'><span class="linkText">Pricing & Other Info.</span></a>
+                    <div id="dr_9776101965" class="accessibly-hidden" aria-hidden="true">Offer ends 06/05/17. Restrictions apply. Not available in all areas. New residential customers only. Limited to Internet Plus 25 with Limited Basic TV, HBO, Streampix, and Performance 25 Internet service. 1-year minimum term agreement required. Early termination fee applies if all XFINITY services are cancelled during the agreement term. Equipment, installation, taxes and fees, including Broadcast TV Fee (up to $7/mo.), Regional Sports Fee (up to $5/mo.) and other applicable charges extra, and subject to change during and after the promo. After applicable promo, or if any service is cancelled or downgraded, regular rates apply. Comcast’s monthly service charge for Internet Plus 25, ranges based on area, from $67.95 to $72.95, and for upgrading from Performance 25 to Performance Pro is $15.00 more per month (subject to change). TV and Internet Service limited to a single outlet. May not be combined with other offers. TV: Limited Basic Service subscription required to receive other levels of service. Internet: Actual speeds vary and are not guaranteed. Compares XFINITY Gigabit service and fastest available download/upload speeds from competitive providers. WiFi claim based on XFINITY Gigabit service, router coverage and speed on 5 GHz band. XFINITY hotspots included with XFINITY tier with download speeds of 25 Mbps or above only. Available in select areas. Requires compatible WiFi enabled laptop or mobile device. 30-Day Money-Back Guarantee applies to one month's recurring service charge and standard installation up to $500. Call for restrictions and complete details. ©2017 Comcast. All rights reserved. All trademarks are the property of their respective owners.
+ </div>
+</div>
+
+</div>            
+     </div>  
+       <p class="disclaimer1">The Voice available on NBC on XFINITY Stream app</p> 
+       <p class="disclaimer2">Empire available on FOX on XFINITY Stream app</p> 
+                <div class="back"></div>
+            </div>
+        </div>
+
+
+
+
+       <!-- Triple Play -->
+        <div>
+            <div class='tpcar'>
+                <div class="fore"></div> 
+                <div class="inner"> 
+                   <div class="whiterectangle">
+      <img class="specialofferbadgenetflix" src="//cdn.comcast.com/~/Media/2017/Home page/Carousel/April/AprilRefresh/TV/Call-Out-Netflix.png?rev=e69ad34d-e548-437a-8923-9aaac6f4542d" alt="Special Offers Badge Netflix"> 
+                    <h2>XFINITY X1 TRIPLE PLAY</h2>
+                       <h3>Stay connected to stream & download your favorite shows and more</h3>       
+                               <div class="offerInfo">
+                          <span class="price"><sup>$</sup>99<sup>99</sup></span>
+                       <span class="terms">a month for a 12 months<br>1 year agreement</span>             
+                     <a class='button' href='/Corporate/Learn/Bundles/bundles.html' title="XFINITY TV and Internet Bundles">Start shopping</a> 
+                   <a class="details-restrictions-tooltip" href="#dr_9777151121" data-offer-id='9777151121' data-details-overlay-enabled='true' data-cuitooltip-delay='3000'><span class="linkText">Pricing & Other Info.</span></a>
+                    <div id="dr_9777151121" class="accessibly-hidden" aria-hidden="true">Offer ends 6/21/17. Restrictions apply. Not available in all areas. New residential customers only. Limited to X1 Saver Triple Play with Digital Starter TV, Streampix®, Performance 25 Internet and XFINITY® Voice – Unlimited Saver service. 1-year minimum term agreement required. Early termination fee applies if all XFINITY services are cancelled during the agreement term. Equipment, installation, taxes and fees, including Broadcast TV Fee (up to $7/mo.), Regional Sports Fee (up to $5/mo.) and other applicable charges extra, and subject to change during and after the promo. After applicable promo, or if any service is cancelled or downgraded, regular rates apply. Comcast's monthly service charge for X1 Saver Triple Play is $120.00, HD Technology Fee is $10.00, and AnyRoom DVR service is $9.95 (subject to change). TV and Internet Service limited to a single outlet. May not be combined with other offers. TV: Limited Basic Service subscription required to receive other levels of service. On Demand™ selections subject to charge indicated at time of purchase. Not all programming available in all areas. Availability of top 100 shows varies based on service level. Internet: Actual speeds vary and are not guaranteed. Compares XFINITY Gigabit service and fastest available download/upload speeds from competitive providers. WiFi claim based on XFINITY Gigabit service, router coverage and speed on 5 GHz band. XFINITY hotspots included with XFINITY tier with download speeds of 25 Mbps or above only. Available in select areas. Requires compatible Wi-Fi enabled laptop or mobile device. Voice: $29.95 activation fee may apply. If there is a power outage or network issue, calling including to 911 may be unavailable. 30-Day Money-Back Guarantee applies to one month's recurring service charge and standard installation up to $500. Call for restrictions and complete details. ©2017 Comcast. All rights reserved. All trademarks are the property of their respective owners.
+ </div>
+</div>
+
+</div>            
+     </div>  
+
+                <div class="back"></div>
+            </div>
+        </div>
+
+
+<!-- Double Play -->
+        <div>
+            <div class='dpcar'>
+                <div class="fore"></div> 
+                <div class="inner"> 
+                   <div class="whiterectangle">
+           <img class="specialofferbadgenetflix" src="//cdn.comcast.com/~/Media/2017/Home page/Carousel/April/AprilRefresh/TV/Call-Out-Netflix.png?rev=e69ad34d-e548-437a-8923-9aaac6f4542d" alt="Special Offers Badge Netflix">
+                    <h2>XFINITY X1 DOUBLE PLAY</h2>
+                       <h3>Catch your favorite MLB team with X1</h3>       
+                               <div class="offerInfo">
+                          <span class="price"><sup>$</sup>79<sup>99</sup></span>
+                       <span class="terms">a month for a 12 months<br>1 year agreement</span>  
+                     <a class='button' href='/cable-internet-packages.html?INTCMP=ILCCOMCOMDP165214' title="XFINITY TV and Internet Bundles">Start shopping</a> 
+                   <a class="details-restrictions-tooltip" href="#dr_9776101572" data-offer-id='9776101572' data-details-overlay-enabled='true' data-cuitooltip-delay='3000'><span class="linkText">Pricing & Other Info.</span></a>
+                    <div id="dr_9776101572" class="accessibly-hidden" aria-hidden="true">Offer ends 6/21/17. Restrictions apply. Not available in all areas. New residential customers only. Limited to X1 Saver Double Play with Digital Starter TV, Streampix®, and Performance 25 Internet service. 1-year minimum term agreement required. Early termination fee applies if all XFINITY services are cancelled during the agreement term. Equipment, installation, taxes and fees, including Broadcast TV Fee (up to $7/mo.), Regional Sports Fee (up to $5/mo.) and other applicable charges extra, and subject to change during and after the promo. Additional outlet service fee applies for multi-room viewing. After applicable promo, or if any service is cancelled or downgraded, regular rates apply. Comcast's monthly service charge for X1 Saver Double Play is $100.00, HD Technology Fee is $10.00, and AnyRoom DVR service is $9.95 (subject to change). TV and Internet Service limited to a single outlet. May not be combined with other offers. TV: Limited Basic Service subscription required to receive other levels of service. On Demand™ selections subject to charge indicated at time of purchase. Not all programming available in all areas. Availability of top 100 shows varies based on service level. Internet: Actual speeds vary and are not guaranteed. Compares XFINITY Gigabit service and fastest available download/upload speeds from competitive providers. WiFi claim based on XFINITY Gigabit service, router coverage and speed on 5 GHz band. XFINITY hotspots included with XFINITY tier with download speeds of 25 Mbps or above only. Available in select areas. Requires compatible Wi-Fi enabled laptop or mobile device. 30-Day Money-Back Guarantee applies to one month's recurring service charge and standard installation up to $500. Call for restrictions and complete details. ©2017 Comcast. All rights reserved. All trademarks are the property of their respective owners.
+ </div>
+</div>
+
+<hr>
+     <img class="X1logo" src="//cdn.comcast.com/~/Media/2017/Home page/Carousel/April/AprilRefresh/DP/X1logo.png?rev=14874463-4466-4be5-9ced-cdb52a686ca4" alt="X1 Logo">
+       <p class="yesremote">Say It and See It with the X1 Voice Remote</p>
+
+</div>            
+     </div>  
+
+                <div class="back"></div>
+            </div>
+        </div>
+
+
+        <!-- Internet -->
+        <div>
+            <div class="hsdcar">
+           <div class="fore"></div>
+                <div class="inner"> 
+                   <div class="whiterectangle">
+        <!--   <img class="onlineexclusivebanner" src="//cdn.comcast.com/~/Media/2017/Home page/Carousel/April/AprilRefresh/HSD/Call-Out-OnlineExclusive (1).png?rev=08ab5392-3483-412a-81dd-a735b70122c4" alt="Call Out Online Exclusive Banner"> -->
+                      <h2>PERFORMANCE PLUS</h2>
+                     <h3>Speeds to stream and surf with the best in-home WiFi</h3>
+                    <div class="offerInfo">
+                <span class="price"><sup>$</sup>29<sup>99</sup></span> 
+                <span class="terms">per month for 12 months<br>1 year agreement</span>  
+                  </div> 
+                   </span> <a class='button' href='/internet-service.html?INTCMP=ILCCOMCOMHS165216' title="XFINITY Internet">Start shopping</a> 
+            <a class="details-restrictions-tooltip" href="#dr_9626100440" data-offer-id='9626100440' data-details-overlay-enabled='true' data-cuitooltip-delay='3000'><span class="linkText">Pricing & Other Info.</span></a>
+                    <div id="dr_9626100440" class="accessibly-hidden" aria-hidden="true">Offer ends 06/05/17. Restrictions apply. Not available in all areas. New residential customers only. Limited to Performance 25 Internet service. 1-year minimum term agreement required. Early termination fee applies if all XFINITY services are cancelled during the agreement term. Equipment, installation, taxes and fees, and other applicable charges extra, and subject to change during and after the promo. After applicable promo, or if any service is cancelled or downgraded, regular rates apply. Comcast's monthly service charge for Performance 25, ranges based on area, from $59.95 to $64.95 (subject to change). Service limited to a single outlet. May not be combined with other offers. Actual speeds vary and are not guaranteed. WiFi claim based on March 2016 study by Allion Test Labs, Inc. of router performance. XFINITY hotspots included with XFINITY tier with download speeds of 25 Mbps or above only. Available in select areas. Requires compatible WiFi enabled laptop or mobile device. 30-Day Money-Back Guarantee applies to one month's recurring service charge and standard installation up to $500. Call for restrictions and complete details. ©2017 Comcast. All rights reserved.</div>
+                 <!--      <p class="disclaimer"><em style="font-size: 12px;">Chicago Med</em> on NBC available with XFINITY Stream app</p> -->
+                </div>
+                </div>
+                <div class="back"> </div> 
+            </div>
+        </div>
+
+        <!-- TV -->
+        <div>
+            <div class='tvcar'>
+                <div class="fore"></div> 
+                <div class="inner"> 
+                   <div class="whiterectangle">
+   <!--        <img class="specialofferbadgenetflix" src="//cdn.comcast.com/~/Media/2017/Home page/Carousel/April/AprilRefresh/TV/Call-Out-Netflix.png?rev=e69ad34d-e548-437a-8923-9aaac6f4542d" alt="Special Offers Badge Netflix"> -->
+                    <h2>XFINITY TV</h2>
+                       <h3>Stream live TV on any device</h3>    
+                    <div class="offerInfo">
+                          <span class="price"><sup>$</sup>49<sup>99</sup></span>
+                       <span class="terms">a month for a 12 months<br>1 year agreement</span>           
+                     <a class='button' href='/Corporate/Learn/DigitalCable/digitalcable.html' title="XFINITY TV and Internet Bundles">Start shopping</a> 
+                   <a class="details-restrictions-tooltip" href="#dr_9625110303" data-offer-id='9625110303' data-details-overlay-enabled='true' data-cuitooltip-delay='3000'><span class="linkText">Pricing & Other Info.</span></a>
+                    <div id="dr_9625110303" class="accessibly-hidden" aria-hidden="true">Offer ends 6/21/17. Restrictions apply. Not available in all areas. New residential customers only. Limited to Digital Starter TV service. 1-year minimum term agreement required. Early termination fee applies if all XFINITY services are cancelled during the agreement term. Equipment, installation, taxes and fees, including Broadcast TV Fee (up to $7/mo.), Regional Sports Fee (up to $5/mo.) and other applicable charges extra, and subject to change during and after the promo. After applicable promo, or if any service is cancelled or downgraded, regular rates apply. Comcast's monthly service charge for Digital Starter TV, ranges based on area, from $52.49 to $75.49 (subject to change). Service limited to a single outlet. May not be combined with other offers. Limited Basic Service subscription required to receive other levels of service. On Demand™ selections subject to charge indicated at time of purchase. Not all programming available in all areas. Availability of top 100 shows varies based on service level. 30-Day Money-Back Guarantee applies to one month's recurring service charge and standard installation up to $500. Call for restrictions and complete details. ©2017 Comcast. All rights reserved.
+ </div>
+</div>
+</div>            
+     </div>  
+                        <p class="disclaimer">Taken available at xfinity.com/stream</p> 
+                <div class="back"></div>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+
+    <!-- Top -->
+    <!-- Middle -->
+    <div class="main-content upgrade-center">
+        <div class="content">
+            
+
+            <!-- Deal Finder Header and Localization -->
+<div class="wrapper">
+  <div class="landing">
+<h2>What are you shopping for?</h2>
+</div>
+</div>
+
+<!-- <div class="wrapper">
+  <div class="offer-information">
+<h2>​in Fremont, CA</h2>                							
+<p>Not Your Location? <a href="javascript:void(0);" id="change_location" class="offer-links customer-info-change-link" onclick="javaScript:localize.Show(null,window.location.href);">Change Location</a></p>
+<p>Current Customer? <a id="contentplaceholder_0_middle_0__offerFinderControl__litLocalizationSeeOffersLink_0" class="offer-links" href="/-/cima-login?continue=/Cima/login.aspx">See Offers</a></p>                            
+</div>
+</div> -->
+
+<div id="contentplaceholder_0_middle_1_offerResponsePlc">
+	
+			
+                <div class="deal-finder-red deals-wrapper">
+		            <fieldset>
+            
+                <!-- Start Red Deal Finder -->
+				<legend><span class="deal-finder-header"><span>What are you shopping for?</span></span></legend>
+				<div class="deal-container">
+					<ul id="_lobList" class="deal-finder-options group-list four-lobs">
+						<li class="lob-option tv-option">
+							<label class="lob-name" for="_tvLobHtmlInputCheckBox">
+								<input name="contentplaceholder_0$middle_1$_offerFinderControl$ctl01$_tvLobHtmlInputCheckBox" type="checkbox" id="_tvLobHtmlInputCheckBox" class="checkbox custom-form" data-lob="tv" />
+								Television
+							</label>
+							<p class="lob-description">
+								Cable TV and On Demand
+							</p>
+                            <span class="accessibly-hidden" id="accTVLobShortDescription">Cable TV and On Demand</span>
+						</li>
+						<li class="lob-option internet-option">
+							<label class="lob-name" for="_internetLobHtmlInputCheckBox">
+								<input name="contentplaceholder_0$middle_1$_offerFinderControl$ctl01$_internetLobHtmlInputCheckBox" type="checkbox" id="_internetLobHtmlInputCheckBox" class="checkbox custom-form" data-lob="internet" />
+								Internet
+							</label>
+							<p class="lob-description">
+								The fastest speeds online
+							</p>
+                            <span class="accessibly-hidden" id="accInternetLobShortDescription">The fastest speeds online</span>
+						</li>
+						<li class="lob-option voice-option">
+							<label class="lob-name" for="_voiceLobHtmlInputCheckBox">
+								<input name="contentplaceholder_0$middle_1$_offerFinderControl$ctl01$_voiceLobHtmlInputCheckBox" type="checkbox" id="_voiceLobHtmlInputCheckBox" class="checkbox custom-form" data-lob="voice" />
+								Phone
+							</label>
+							<p class="lob-description">
+								Local & long distance plans
+							</p>
+                            <span class="accessibly-hidden" id="accPhoneLobShortDescription">Local & long distance plans</span>
+						</li>
+						
+						    <li class="lob-option home-option">
+							    <label class="lob-name" for="_homeLobHtmlInputCheckBox">
+								    <input name="contentplaceholder_0$middle_1$_offerFinderControl$ctl01$_homeLobHtmlInputCheckBox" type="checkbox" id="_homeLobHtmlInputCheckBox" class="checkbox custom-form" data-lob="home" />Home
+							    </label>
+							    <p class="lob-description">
+                                    Security, control and more
+                                </p>
+                                 <span class="accessibly-hidden" id="accHomeLobShortDescriptionLit">Security, control and more</span>
+						    </li>
+					    
+					<li class="deal-finder-controls">
+						<p class="localization">
+							Your ZIP:
+							<span class="zip-code">94536 </span>
+							<a href="javascript:void(0);" class="localize-btn" onclick="javaScript:localize.Show(null,window.location.href);">Change</a>
+						</p>
+						<button class="inactive-button" disabled ><span>See Offers</span></button>
+						<button class="btn btn-yellow show-offers-button" scriptclass='DealFinder' scriptmethod='GetAvailableOffers'>See Offers</button>
+					</li>
+				</ul>
+                <!-- End Deal Finder -->
+			
+				<div class="deal-finder-results">
+				
+					<div class="featured-new-customer-offers group h_clearfix localization_addr">
+						<div class="offer-information left_col">
+							<h2>New Customer Offers in Fremont, CA 94536</h2>
+                            <p>
+                                </p>
+                            <p>Current Customer?&nbsp;<a id="contentplaceholder_0_middle_1__offerFinderControl__litSeeOffersLink_0" class="offer-links" href="/-/cima-login?continue=/Cima/login.aspx">See Offers</a></p>
+                        </div>
+
+						<div class="find_local_offers right_col">
+							<h3>Find the best deals in your area</h3>
+							<a href="javascript:void(0);" id="enter_address" onclick="javaScript:localize.Show(null,window.location.href);" class="enter-address overlay" rel="localize">Enter Address</a>
+							<p>Enter your address to view local offers and pricing</p>
+						</div>
+					</div>
+				
+		<div class="content-path offer-meta-hidden">/sitecore/content/ngbf_comcast_com/Content/Common/Offer Finder 2-HP</div>
+        <div class="offer-source offer-meta-hidden">SCMS</div>
+		
+		
+</div>
+
+</div>
+
+</fieldset></div>
+  <div class="page-name offer-meta-hidden">home|comcast - nextgen - home</div> 
+<div class="deal-finder-name offer-meta-hidden"></div> 
+<div id="agreementText" class="offer-meta-hidden">
+	The offer you selected requires a minimum term agreement and is subject to an early termination fee if all XFINITY services are cancelled during the agreement term. A copy of the agreement will be sent to the mail or email address you provided. You have the option to cancel the minimum term agreement within 30 days of the date the services under the offer are installed/activated without incurring an early termination fee.  If you wish to cancel the agreement, you must contact Comcast by calling 1-800-XFINITY.  If you cancel the agreement during the 30 day period, the charges for your remaining services may increase to the non-term contract rate.  If you do not cancel the minimum term agreement within the 30 day period, the terms of the minimum term agreement will automatically apply.
+<br><br>
+Acceptance of these terms will occur at checkout.
+</div>
+<span id="offerMarketId" class="offer-meta-hidden">8918</span>
+<span id="offerTargetId" class="offer-meta-hidden">00000000-0000-0000-0000-000000000000</span>
+<span id="includedTargetId" class="offer-meta-hidden"></span>
+<span id="excludedTargetId" class="offer-meta-hidden"></span>
+<span id="adhocOfferIds" class="offer-meta-hidden">110087</span>
+<div class="overlay-gray" id="overlay-terms">
+	<div class="overlay-top">
+		<span class="overlay-close-btn"><a href="#">Close</a></span>
+	</div>
+	<div class="overlay-body">
+		<div class="shadow-left">
+		</div>
+		<div class="shadow-right">
+		</div>
+		<div class="overlay-content">
+			<h2>
+				<span class="icon-terms"></span>
+				<span id="overlay-heading">Details &amp; Restrictions</span>
+			</h2>
+			<div class="overlay-viewport">
+				<div class="view">
+					<div id="overlay-terms-content">
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="overlay-footer">
+		<div class="overlay-footer-corner">
+		</div>
+	</div>
+</div>
+</div>
+<!-- video min css -->
+<link href="//cdn.comcast.com/~/Media/FED/video-assets/video-style.css?rev=e718d151-1afa-4da4-aea9-9785de3f88d4" rel='stylesheet' type='text/css'>
+<!-- video sprite css -->
+<link href="//cdn.comcast.com/~/Media/FED/video-assets/video-sprite-ngbf.css?rev=f986c947-7a34-46d9-9e99-0ea7222708a4" rel='stylesheet' type='text/css'>
+<!-- Video min override -->
+<style>
+.x-content-banner {
+  position: relative;
+  height: 100%;
+  border-top: 0;
+  margin-bottom: 0;
+  display: block;
+}
+
+[data-video].x-player-overlay {
+  background-color: #141414;
+}
+
+fieldset {
+  border: none;
+}
+
+.learnmoreStream {
+	float: left;
+    margin: 20px 0 0 0;
+    padding: 3px 3px 0 0;
+    font-family: XFINITY-sans, "Open Sans", sans-serif;
+    font-size: 18px;
+    font-weight: normal !important;
+}
+
+.dtv-module-txt .dtv-module-link {
+	float:left;
+	margin: 20px 0 0;
+}
+.dtv-module-link:after {
+	content: '' !important;
+
+}
+</style>
+<!-- Stream TV Module styles -->
+<link href="//cdn.comcast.com/~/Media/2017/Home page/Stream Module/styles/stream-tv.css?rev=90b4eacf-7d5d-41fb-8df2-3a9c1b4cc073" rel='stylesheet' type='text/css'>
+<!-- Stream TV Module -->
+<div class="dtv-module x-content-banner">
+	<div class="x-player-overlay" data-video data-video-props='{"poster":"","autoplay":true,"loop":false,"muted":false,"controls":"custom","urls": [{"src": "http://odol-atsec-pan-09.cim-prog.top.comcast.net/CDNFan03/OPUS_Marketing/1023/915/QCOM88250GH_Web%20&%20XF%20Zone_XF%20Stream%20Short-opt%20.mp4","type": "video/mp4"}],"captions": [] }'></div>
+	<div class="dtv-module-container">
+		<div class="dtv-module-txt">
+			<h2 class="dtv-module-heading">TV everywhere</h2>
+			<span class="dtv-module-subheading">Only XFINITY gives you more to stream to any screen.</span>
+                        <div class="dtv-module-options-container">
+			    <ul class="dtv-module-options">
+				<li>
+					<div class="dtv-module-options-img">
+						<img src="//cdn.comcast.com/~/Media/2017/Home page/Stream Module/StreamingModule_HP_TVIcon.png?rev=66b79408-1ec9-4733-87ef-2bbdca5d6476" alt="">
+					</div>
+					<span class="dtv-module-options-txt">Watch on TV</span>
+				</li>
+				<li>
+					<div class="dtv-module-options-img">
+						<img src="//cdn.comcast.com/~/Media/2017/Home page/Stream Module/StreamingModule_HP_iPhoneIcon.png?rev=9048238d-e1b7-45b9-bc3c-a5a2d1fc02c5" alt="">
+					</div>
+					<span class="dtv-module-options-txt">Watch on <br> the go</span>
+				</li>
+				<li>
+					<div class="dtv-module-options-img">
+						<img src="//cdn.comcast.com/~/Media/2017/Home page/Stream Module/StreamingModule_HP_ComputerIcon.png?rev=0b13d75e-ed86-4883-b583-afe7f4676ea7" alt="">
+					</div>
+					<span class="dtv-module-options-txt">Watch on the computer</span>
+				</li>
+			    </ul>
+                        </div>
+			<button type="button" class="dtv-module-link vidLink" data-component="x-video-launch" data-trigger="link-tracking" data-destination="Homepage XTV App Module Click">Watch it work</button>
+            <a class="learnmoreStream" href="/get-stream"> &nbsp;|&nbsp; Learn More</a>
+		</div>
+		<div class="dtv-module-img">
+			<img src="//cdn.comcast.com/~/Media/2017/Home page/Stream Module/auto-play/iPad.jpg?rev=2c1c0c67-99a6-43da-88ea-0bc73d70e639" alt=Stream On Ipad"">
+                        <video aria-hidden="true" class="dtv-module-img-video" autoplay loop muted poster="//cdn.comcast.com/~/Media/2017/Home page/Stream Module/auto-play/iPad_PosterImage.jpg?rev=33095950-3c10-45bb-903a-7d1c8d17795e">
+                             <source src="http://odol-atsec-pan-32.cim-prog.top.comcast.net/CDNFan03/OPUS_Marketing/469/643/V12%20TV%20App.mp4" type="video/mp4">
+                        </video>
+		</div>
+	</div>
+</div>
+
+<!-- Stream TV Module ends-->
+
+
+<script language="JavaScript" type="text/javascript">
+jQuery(function ($) {
+    $('[data-trigger="link-tracking"]').on('click', function (e) {
+        TrackLink(this, $(e.target).data('destination') , e, null, true);
+    });
+});
+(function() {
+/* This is an attempt to fix the fact that the video player tries to center the video 
+     * but generally has the wrong layout information when doing so (since the page is)
+     * only responsive due to the javascript it is built on.
+     *
+     * To use it, add the vidLink class to the link you want the listener attached to. If 
+     * there is more than one link present on the page, append a number in order after the
+     * class name. Example: vidLink1, vidLink2, vidLink3, and so on.
+     */
+
+    /* Create an object to hold the link references */
+    var videoLinks = {};
+    /* When a link is clicked, we repeatedly check for an element with the visible class,
+     * and scroll to it if/when it appears.
+     */
+    var videoClickHandler = function videoClickHandler() {
+        var videoTimeout = 0;
+        var vidCheckHandler = function vidCheckHandler() {
+            var activeVideo = document.querySelector('.x-video--visible');
+            if (activeVideo) {
+                activeVideo.scrollIntoView();
+                var $el = $(activeVideo),
+                    elOffset = $el.offset().top,
+                    elHeight = $el.height(),
+                    windowHeight = $(window).height(),
+                    offset;
+                if (elHeight < windowHeight) {
+                     offset = elOffset - ((windowHeight / 2) - (elHeight / 2));
+                }
+                 else {
+                     offset = elOffset;
+                }
+                $('html, body').animate({scrollTop:offset}, 0);
+                return;
+            }
+            videoTimeout++;
+            if (videoTimeout < 200) {
+                setTimeout(vidCheckHandler, 100);
+            }
+        };
+        vidCheckHandler();
+    };
+
+    var videoLinkInit = function videoLinkInit(linkCount) {
+        /* Links are numbered 1-X, we dynamically generate the references based on link count */
+        if (linkCount > 1 && linkCount !== undefined) {
+            for (var i=linkCount; i>0; i--) {
+                videoLinks['link' + i] = document.querySelector('.vidLink' + i);
+                videoLinks['link' + i].addEventListener('click', videoClickHandler, true);
+                videoLinks['link' + i].addEventListener('touchend', videoClickHandler, true);
+            }
+        } else {
+            videoLinks.link = document.querySelector('.vidLink');
+            videoLinks.link.addEventListener('click', videoClickHandler, true);
+            videoLinks.link.addEventListener('touchend', videoClickHandler, true);
+        }
+    };
+
+    $(window).on('load', function(){
+        videoLinkInit();
+    });
+})();
+</script>
+
+
+<!--Main heading starts-->
+            <div class="eg-heading-module">
+                <h1 class="eg-heading">XFINITY&reg; from Comcast</h1>
+            </div>
+            <!--Main heading ends-->
+<!-- First Row section -->
+        <section class="x-content-banner">
+            <div class="x-player-overlay" data-video data-video-props='{"poster":"","autoplay":true,"loop":false,"muted":false,"controls":"custom","urls": [{"src": "http://odol-atsec-pan-03.cim-prog.top.comcast.net/CDNFan03/OPUS_Marketing/633/63/X1_Hero_v25_720.mp4","type": "video/mp4"}],"captions": [] }'></div>
+            <div class="eg-row eg-row--grey">
+                <div class="eg-row-container">
+                    <div class="eg-flex-container">
+                        <div class="eg-card eg-card--center eg-card-x1" >
+                            <h2 class="eg-card-heading  eg-card-heading--center">XFINITY X1 will change the way you experience TV</h2>
+                            <div class="eg-card-img eg-card-img--center tv-player" data-component="x-video-launch" tabindex="0">
+                                <img src="//cdn.comcast.com/~/Media/2017/Home page/Evergreen/January2017/img/x1-tv.jpg?rev=e0ccfde7-c932-42c0-b96b-7a72fa0608b4" alt="XFINITY X1">
+                                <span class="accessibly-hidden">Watch the video</span>
+                            </div>
+                            <a class="eg-card-link eg-card-link--center right-caret" href="/x1" data-trigger="link-tracking" data-destination="x1 page">What is XFINITY&reg; X1?</a>
+                        </div>
+                        <div class="eg-card eg-card--center eg-card-comepte">
+                            <h2 class="eg-card-heading  eg-card-heading--center">X1 vs. the Competition</h2>
+                            <p class="eg-card-compete-submod">85% of people prefer XFINITY X1 to their current TV experience.*</p>                            
+                            <div class="eg-card-img eg-card-img--center">
+                                <img src="//cdn.comcast.com/~/Media/2017/Home page/Evergreen/January2017/img/x1-bus (1).png?rev=96de7105-fb8b-4362-b522-2e2ab6798a6e" alt="X1 Bus">
+                            </div>
+                            <p class="eg-card-compete-txt--small">*Based on consumers who specified a preference as part of a June 2016 study </p>
+                            <a class="eg-card-link eg-card-link--center right-caret" href="/compare/comcast-xfinity-vs-centurylink" data-trigger="link-tracking" data-destination="x1 vs competition">See for yourself why so many people prefer X1</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+       </section>
+            <!-- First Row section ends-->
+<!-- Second Row section -->
+            <div class="eg-row eg-row--grey">
+                <div class="eg-row-container">
+                    <div class="eg-flex-container">
+                        <div class="eg-card eg-card-tp">
+                            <h2 class="eg-card-heading">XFINITY&reg; X1 Triple Play</h2>
+                            <span class="eg-card-subheading">The best in entertainment</span>
+                            <a class="eg-card-link right-caret" href="/Corporate/Learn/Bundles/bundles" data-trigger="link-tracking" data-destination="triple play module">Shop XFINITY Triple Play</a>
+                            <div class="eg-card-img">
+                                <img src="//cdn.comcast.com/~/Media/2017/Home page/Evergreen/January2017/img/tripleplay.jpg?rev=837afb9d-41a3-4a6f-85a2-196536aed935" alt="XFINITY Triple Play">
+                            </div>
+                        </div>
+                        <div class="eg-card eg-card-dp">
+                            <h2 class="eg-card-heading">XFINITY&reg; Double Play</h2>
+                            <span class="eg-card-subheading">Packages that meet your needs</span>
+                            <a class="eg-card-link right-caret" href="/cable-internet-packages" data-trigger="link-tracking" data-destination="double play module">Shop XFINITY Double Play</a>
+                            <div class="eg-card-img">
+                                <img src="//cdn.comcast.com/~/Media/2017/Home page/Evergreen/January2017/img/doubleplay.jpg?rev=4d5f4528-883e-4718-a7ec-e29f7f13c01a" alt="XFINITY Double Play">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Second Row section ends-->
+<!-- Third Row section -->
+            <div class="eg-row eg-row--grey">
+                <div class="eg-row-container">
+                    <div class="eg-flex-container">
+                        <div class="eg-card eg-card-internet">
+                            <h2 class="eg-card-heading">XFINITY&reg; Internet</h2>
+                         <!--   <span class="eg-card-subheading">The fastest, most reliable in-home WiFi</span> -->
+                            <a class="eg-card-link right-caret" href="/internet-service" data-trigger="link-tracking" data-destination="internet module">Shop XFINITY Internet</a>
+                            <div class="eg-card-img eg-card-img-internet">
+                                <img src="//cdn.comcast.com/~/Media/2017/Home page/Evergreen/January2017/img/internet.jpg?rev=bf0bdacf-dec2-4c1d-a071-e030963533b2" alt="XFINITY Internet">
+                            </div>
+                        </div>
+                        <div class="eg-card eg-card-tv">
+                            <h2 class="eg-card-heading">XFINITY&reg; TV</h2>
+                            <span class="eg-card-subheading">Enjoy movies and shows instantly on any screen!</span>
+                            <a class="eg-card-link right-caret" href="Corporate/Learn/DigitalCable/digitalcable" data-trigger="link-tracking" data-destination="tv module">Shop XFINITY TV</a>
+                            <div class="eg-card-img eg-card-img-tv">
+                                <img src="//cdn.comcast.com/~/Media/2017/Home page/Evergreen/January2017/img/tv.jpg?rev=5d701e4e-5e4f-4074-b87d-fcb1256151bb" alt="XFINITY TV">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Third Row section ends-->
+<!-- Fourth Row section -->
+            <div class="eg-row eg-row--grey">
+                <div class="eg-row-container">
+                    <div class="eg-flex-container">
+                        <div class="eg-card eg-card-voice">
+                            <h2 class="eg-card-heading">XFINITY&reg; Voice</h2>
+                            <span class="eg-card-subheading">More ways to connect with friends and family</span>
+                            <a class="eg-card-link right-caret" href="/home-phone-service" data-trigger="link-tracking" data-destination="voice module">Shop XFINITY Voice</a>
+                        </div>
+                        <div class="eg-card eg-card-home">
+                            <h2 class="eg-card-heading">XFINITY&reg; Home</h2>
+                            <span class="eg-card-subheading">A total home security solution</span>
+                            <a class="eg-card-link right-caret" href="/home-security" data-trigger="link-tracking" data-destination="xfinity home module">Shop XFINITY Home</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Fourth Row section ends-->
+<!-- Fifth Row section -->
+            <div class="eg-row eg-row--grey eg-row--last">
+                <div class="eg-row-container">
+                    <div class="eg-flex-container--large">
+                         <div class="eg-features">
+                            <div class="eg-features-logo">
+                                <img src="//cdn.comcast.com/~/Media/2017/Home page/Evergreen/January2017/img/moving.png?rev=778fe6a8-29bc-48a1-aa06-443b454a50dd" alt="Movers Edge Logo">
+                            </div>
+                            <h2 class="eg-features-heading">Moving?</h2>
+                            <span class="eg-features-subheading">Transfer your XFINITY services to your new home</span>
+                            <a class="eg-features-link right-caret" href="/moving" data-trigger="link-tracking" data-destination="movers module">Explore Mover's Edge</a>
+                        </div>
+                        <div class="eg-features">
+                            <div class="eg-features-logo">
+                                <img src="//cdn.comcast.com/~/Media/2017/Home page/Evergreen/January2017/img/vs.png?rev=99d0a02d-b182-4b5e-b1ab-d04a33c11f6f" alt="Versus Logo">
+                            </div>
+                            <h2 class="eg-features-heading">XFINITY vs. The Competition</h2>
+                            <span class="eg-features-subheading">Reliably fast speeds, and the most TV shows and movies On Demand</span>
+                            <a class="eg-features-link right-caret" href="/compare/comcast-xfinity-vs-verizon-fios" data-trigger="link-tracking" data-destination="competitive module">See how XFINITY beats the competition</a>
+                        </div>
+                         <div class="eg-features">
+                            <div class="eg-features-logo">
+                                <img src="//cdn.comcast.com/~/Media/2017/Home page/Evergreen/January2017/img/guarantee.png?rev=77d66be7-078a-4d0b-8b6f-07a2be588dc7" alt="Customer Guarantee Logo">
+                            </div>
+                            <h2 class="eg-features-heading">Customer Guarantee</h2>
+                            <span class="eg-features-subheading">Our customer guarantee is our promise to you</span>
+                            <a class="eg-features-link right-caret" href="/Corporate/Customers/CustomerGuarantee" data-trigger="link-tracking" data-destination="guarantee module">Read the Customer Guarantee</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Fifth Row section ends-->
+<!--customer options module starts-->
+            <div class="eg-exist">
+                <div class="eg-exist-container">
+                    <h3 class="eg-exist-heading">Already an XFINITY Customer?</h3>
+                    <span class="eg-exist-subheading">Sign in to manage your bill, check email and upgrade service</span>
+                    <div class="eg-exist-service">
+                        <a href="https://customer.xfinity.com/Secure" class="eg-exist-service-account" data-trigger="link-tracking" data-destination="my account">My Account</a>
+                        <a href="http://tvgo.xfinity.com" class="eg-exist-service-tv" data-trigger="link-tracking" data-destination="my tv">My TV</a>
+                        <a href="https://login.comcast.net/login?s=wnamp&ts=c5b6acae" class="eg-exist-service-email" data-trigger="link-tracking" data-destination="my email">My Email</a>
+                        <a href="xhportal" class="eg-exist-service-home" data-trigger="link-tracking" data-destination="my home">My Home</a>
+                    </div>
+                </div>
+            </div>
+            <!--customer options module ends-->
+
+
+            
+        </div>
+    </div>
+    <!-- Middle -->
+    <!-- Bottom -->
+    
+    <!-- Bottom -->
+</div>
+<!--End of content-->
+
+
+
+<div id="overlayContainer" class="overlay-gray overlay-equipment-details overlay-wrapper" 
+    style="position: absolute; z-index: 200; display: none; visibility: visible;">
+    
+</div>
+
+<div id="overlay-localize" class="overlay-gray overlay-localize" role="dialog" tabindex="-1" aria-labelledby="overlay-title">
+    <span class="top-capture" tabindex="0"></span>
+    <div class="overlay-top">
+        <a href="#" class="overlay-close-btn"><span>Close</span></a>
+    </div>
+    <div class="overlay-body">
+        <div class="shadow-left"></div>
+        <div class="shadow-right"></div>
+
+        <!-- Content of the overlay -->
+        <div class="overlay-content">
+            <h2 id="overlay-title">
+                <span class="icon-house"></span>
+                Check availability
+                
+                
+                    <a href="/localize/localizetnssn?mode=PASMODE" class="link">
+                
+                    Existing Customer? Sign in
+                </a>
+            </h2>
+            <div class="overlay-viewport overlay-existing">
+                <p>
+                    Enter your address below to find offers and promotions available in your area.
+                </p>
+                <span id="errorSummaryMessage" style="display:none;" class="validation-errorheader"></span>
+                <div id="form" class="form-area">
+                    <fieldset>
+                        <legend class="acc-hidden">Enter Address</legend>
+                        <div class="form-row">
+                            <div class="form-field">
+                                <label for="contentplaceholder_2__streetNameTxt" id="contentplaceholder_2__streetNameLbl">Street Address</label>
+                                <input name="contentplaceholder_2$_streetNameTxt" type="text" id="contentplaceholder_2__streetNameTxt" class="text input-1 inputClear" autocomplete="off" title="Ex. 123 Main Street" onkeydown="localizeAddressCompletion.Initialize();" onkeyup="localizeAddressCompletion.Initialize();" />
+                                <span style="display:none;" id="streetAddressError" class="validation-error">street address required</span>
+                                <div id="addressCompleteContainer"></div>
+                            </div>
+                            <div class="form-field">
+                                <label for="contentplaceholder_2__aptNumberTxt" id="contentplaceholder_2__aptNumberLbl">Apartment</label>
+                                <input name="contentplaceholder_2$_aptNumberTxt" type="text" id="contentplaceholder_2__aptNumberTxt" class="text input-5" autocomplete="off" />
+                                <span>
+                                    (if applicable)
+                                </span>
+                                <span style="display:none;" id="aptError" class="validation-error">apt required</span>
+                            </div>
+
+                            <div class="form-field">
+                                <label for="contentplaceholder_2__zipCodeTxt" id="contentplaceholder_2__zipCodeLbl">ZIP</label>
+                                <input name="contentplaceholder_2$_zipCodeTxt" type="text" maxlength="5" id="contentplaceholder_2__zipCodeTxt" class="text input-5" onfocus="this.maxLength = 5;" onblur="this.maxLength = 5;" onkeypress="AllowOnlyNumericCharacters(event)" autocomplete="off" />
+                                <span style="display:none;" id="zipError" class="validation-error">zip required</span>
+                            </div>
+                        </div>
+                    </fieldset>
+                    <div class="form-footer">
+                        <div class="form-checkbox">
+                            <span class="standardCheckbox"><input id="contentplaceholder_2__rememberInformationChk" type="checkbox" name="contentplaceholder_2$_rememberInformationChk" /></span>
+                            <label for="contentplaceholder_2__rememberInformationChk" id="contentplaceholder_2__rememberInformationLbl">Remember this information</label>
+                        </div>
+                        <div class="btn btn-yellow">
+                            <input type="submit" name="contentplaceholder_2$_submitIbtn" value="Continue" onclick="return localize.OnSubmit();" id="contentplaceholder_2__submitIbtn" class="submit" />
+                        </div>
+                        <div id="loadText"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="overlay-footer">
+        <div class="overlay-footer-corner"></div>
+    </div>
+    <span class="bottom-capture" tabindex="0"></span>
+</div>
+
+<div id="overlay-login" class="overlay-gray overlay-login" role="dialog" tabindex="-1" aria-labelledby="overlay-title">
+    <span class="top-capture" tabindex="0"></span>
+    <div class="overlay-top">
+    
+        <a href="javascript:void(0)" class="overlay-close-btn"><span>Close</span></a>
+    
+    </div>
+    <div class="overlay-body">
+        <div class="shadow-left">
+        </div>
+        <div class="shadow-right">
+        </div>
+        <div class="overlay-content">
+            <h2 id="overlay-title">
+                Already have an account?
+                <a id="contentplaceholder_2__notACustomerLink" class="link" onclick="javascript:localize.ShowNewCustomerView();" href="javascript:void(0);">Not a Customer?</a>
+            </h2>
+            <div class="overlay-viewport overlay-existing">
+                <div class="col-center">
+                    <h3>
+                                Current Customers</h3>
+                            <p>
+                                <!--Enter the phone number and the last four digits of the account holder's Social Security
+                                Number or --><a href='javascript:void(0);' onclick="javascript:localize.SignInYourAccountLink('https://www.xfinity.com/-/cima-login?continue=/Cima/login.aspx');">Sign in to your account</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="overlay-footer">
+        <div class="overlay-footer-corner">
+        </div>
+    </div>
+    <span class="bottom-capture" tabindex="0"></span>
+</div>
+
+
+<div id="contentplaceholder_3__divGeneric">
+	<div id="overlay-waiting" class="overlay-noheader overlay-waiting">
+		<div class="spinner">
+            <div class="bounce1"></div>
+            <div class="bounce2"></div>
+            <div class="bounce3"></div>
+		</div>        
+    </div>
+</div>
+<div id="contentplaceholder_3__divTnSSN">
+    <div id="overlay-TnSsnSignIn" class="overlay-noheader overlay-messaging">
+        <img class="loader" alt="loading" src="//cdn.comcast.com/~/Media/ngbf_comcast_com/Products/Common/Images/Comcast-loading_12_05_03_Variation_3_1.gif?rev=c67f8a72-945e-4545-8283-6c76f25bfb1c" />
+        <div class="message"></div>
+    </div>
+</div>
+
+
+
+
+         
+</div>
+        
+
+
+	<div id="tnt_comcast_customer_data"></div>
+	<script type="text/javascript" language="javascript">
+	    //mboxDefine("tnt_comcast_customer_data1","comcast_customer_data");	
+	    mboxCreate("comcast_customer_data",
+            "lob_owned=",
+            "x1_customer=",
+            "tier_owned=",
+            "equipment_owned=",
+            "addons=");
+    </script>
+
+
+               
+                
+    
+<script type='text/javascript' src='//cdn.comcast.com/~/media/Alert-Messaging/notifications-script.js' ></script></form>
+
+    <!--Footer Section-->
+    
+<div id="footer-container">
+<ul id="footer-share">
+		<li id="footer-comcast"><a href="https://www.xfinity.com" alt="Comcast home page"><span>Comcast</span></a></li>
+		<li id="footer-twitter"><a href="https://twitter.com/XFINITY" target="_blank">Follow us for exclusive deals</a></li>
+		<li id="footer-youtube"><a href="https://www.youtube.com/user/xfinity?feature=results_main" target="_blank">Find tutorials and demos</a></li>
+		<li id="footer-facebook" style="padding-left:45px !important;">
+			<a style="padding-right: 10px;" href="https://www.facebook.com/xfinity" target="_blank">Connect on Facebook</a>
+		</li>
+	</ul>
+<div id="footer-links-container">
+
+     <ul id="footer-links">
+     
+      <li>
+    
+        <h3>Shop&nbsp;</h3>
+    
+	    <ul>
+     
+		<li><a href="https://www.xfinity.com/learn/offers#/" >Bundles & Promotions</a></li>
+     
+		<li><a href="https://www.xfinity.com/Corporate/Learn/DigitalCable/digitalcable.html" >TV</a></li>
+     
+		<li><a href="https://www.xfinity.com/learn/internet-service" >Internet</a></li>
+     
+		<li><a href="https://www.xfinity.com/home-phone-service.html" >Voice</a></li>
+     
+		<li><a href="https://www.xfinity.com/home-security.html" >Home</a></li>
+     
+		<li><a href="https://business.comcast.com/" >Business</a></li>
+     
+		<li><a href="https://www.xfinity.com" >XFINITY Home Page</a></li>
+     
+		</ul>
+     
+      </li>
+     
+      <li>
+    
+        <h3>&nbsp;</h3>
+    
+	    <ul>
+     
+		<li><a href="https://experience.xfinity.com/" >Customer Guarantee</a></li>
+     
+		<li><a href="https://www.xfinity.com/compare/comcast-xfinity-vs-verizon-fios.html" >Compare the Competition</a></li>
+     
+		<li><a href="http://store.xfinity.com/?Ecid=PRF-CMC-100000&PA=PRF-CMC-100000" >Accessories</a></li>
+     
+		<li><a href="https://www.xfinity.com/locations/in-my-area.html" >Service in My Area</a></li>
+     
+		</ul>
+     
+      </li>
+     
+      <li>
+    
+        <h3>My Account&nbsp;</h3>
+    
+	    <ul>
+     
+		<li><a href="https://www.xfinity.com/bill-pay.html" >Pay Bill</a></li>
+     
+		<li><a href="https://customer.xfinity.com/#/" >Manage My Account</a></li>
+     
+		<li><a href="https://www.xfinity.com/alerts.aspx" >Manage Users & Alerts</a></li>
+     
+		<li><a href="https://www.xfinity.com/moving" >Move Your Services</a></li>
+     
+		<li><a href="https://www.xfinity.com/constantguard" >Constant Guard</a></li>
+     
+		<li><a href="https://www.xfinity.com/policies" >Customer Agreements & Policies</a></li>
+     
+		</ul>
+     
+      </li>
+     
+      <li>
+    
+        <h3>My Services&nbsp;</h3>
+    
+	    <ul>
+     
+		<li><a href="http://parents.xfinity.com/" >Parental Controls</a></li>
+     
+		<li><a href="https://login.comcast.net" >Check Email</a></li>
+     
+		<li><a href="http://redir.comcast.net/redirect/voicemail" >Check Voicemail</a></li>
+     
+		</ul>
+     
+      </li>
+     
+      <li>
+    
+        <h3>Support&nbsp;</h3>
+    
+	    <ul>
+     
+		<li><a href="https://www.xfinity.com/support/" >Comcast Customer Service</a></li>
+     
+		<li><a href="https://www.xfinity.com/support/billing/" >Bill & Payments</a></li>
+     
+		<li><a href="https://www.xfinity.com/support/cable-tv/" >TV Help</a></li>
+     
+		<li><a href="https://www.xfinity.com/support/internet/" >Internet Help</a></li>
+     
+		<li><a href="https://www.xfinity.com/support/phone/" >Voice Help</a></li>
+     
+		<li><a href="https://www.xfinity.com/support/home-security/" >Home Help</a></li>
+     
+		</ul>
+     
+      </li>
+     
+      <li>
+    
+        <h3>&nbsp;</h3>
+    
+	    <ul>
+     
+		<li><a href="https://www.xfinity.com/support/service-center-locations/" >Store Locator</a></li>
+     
+		<li><a href="https://www.xfinity.com/support/contact-us/" >Contact Us</a></li>
+     
+		<li><a href="http://forums.xfinity.com/" >Support Forums</a></li>
+     
+		</ul>
+     
+      </li>
+     
+      <li>
+    
+        <h3>Info&nbsp;</h3>
+    
+	    <ul>
+     
+		<li><a href="https://www.xfinity.com/sitemap.html" >Sitemap</a></li>
+     
+		<li><a href="http://corporate.comcast.com" >About Us</a></li>
+     
+		<li><a href="http://corporate.comcast.com/comcast-voices" >Corporate Blog</a></li>
+     
+		<li><a href="http://corporate.comcast.com/news-information/news-feed" >Press Room</a></li>
+     
+		<li><a href="http://jobs.comcast.com/" >Careers</a></li>
+     
+		<li><a href="http://corporate.comcast.com/our-values" >Social Responsibility</a></li>
+     
+		<li><a href="javascript:void openExtTextWindow('https://www.xfinity.com/corporate/legal/privacyStatement.html','Popup','500','400','yes');" >Privacy Statement</a></li>
+     
+		<li><a href="javascript:void openExtTextWindow('https://www.xfinity.com/corporate/legal/visitorAgreement.html','Popup','500','400','yes');" >Visitor Agreement</a></li>
+     
+		<li><a href="https://www.xfinity.com/Corporate/Customers/Policies/CAVoiceDisclosure.html" >XFINITY Voice: Use of Personal Info</a></li>
+     
+		</ul>
+     
+      </li>
+    
+        </ul>
+    
+<div id="footer-general">
+<span>©&nbsp;<a href="https://www.xfinity.com" style="background-image:none;padding-left:0px;float:none;">Comcast</a>&nbsp;2017</span>
+</div>
+</div>
+</div>
+
+
+
+<script src="//cdn.comcast.com/~/Media/Javascripts/Omniture/s_code.ashx" language="JavaScript" type="text/javascript"></script>
+
+ <!--to hold the value of channel field in omniture section -->
+
+<script language="JavaScript" type="text/javascript"> 
+    s.linkTrackVars='prop5';s.prop5='SCMS';s.eVar86='unauthenticated|ip recognized';s.eVar44='DesktopNextGen';s.prop35='nextgen: home';s.pageName='comcast – nextgen – home';s.event15Required='1';s.prop34='nextgen';s.channel='nextgen';s.eVar38='buyflow:nextgen:en';s.eVar37='comcast - home';s.prop44='DesktopNextGen';s.server='7DC-PDC12';s.prop50='e1203e5d-c588-43bf-85e1-d108fc5566dc';s.eVar50='c6594802-b143-4e4e-9eb9-56f3cd9ee6cf';s.prop4='94536';s.prop43='9:14 AM - Tuesday';s.eVar43='9:14 AM - Tuesday';s.eVar67='state';s.eVar68='state:CA';s.eVar72=' ';s.prop7='';s.eVar7='';s.eVar10='';s.eVar63='';s.eVar4='';s.events='';s.prop31='';s.prop36='';s.prop32='';s.eVar31='';s.eVar32='';s.prop11='';s.prop55='';s.eVar1='new';s.prop45='new';
+    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+    var s_code = s.t(); if (s_code) document.write(s_code)
+    
+    </script>
+    <script language="JavaScript" type="text/javascript" xmlns="" xmlns:msxsl="http://www.w3.org/1999/xhtml">
+        if (navigator.appVersion.indexOf('MSIE') != -1) document.write(unescape('%3C') + '\!-' + '-')
+        /* DO NOT REMOVE */
+        /* End SiteCatalyst code version: H.14. */
+        if (navigator.appVersion.indexOf('MSIE') != -1) document.write('--' + unescape('%3E'))
+</script>
+
+
+    <script src="//cdn.pdc.comcast.com/includes/ngbf_comcast_com/js/bundles/jsbundle12?v=mmoSgzS0czDxv5Zke_h4JZ0mmleYsfKbksFILWk0ERg1"></script>
+
+    
+    
+    <script src="//cdn.pdc.comcast.com/includes/ngbf_comcast_com/js/bundles/tooltip?v=j_81os9wOghzdpXn-sEJQZxH8m055LZchKAyS8dCg1Y1"></script>
+
+
+    <script src="//cdn.pdc.comcast.com/includes/ngbf_comcast_com/js/bundles/jsbundle13?v=Y3kffWn-0TLx8-o9MydIfwgq_H4sTR67j2Gbz_hxOng1"></script>
+
+    
+<!-- Homepage Website, CableOrSatelliteService, and Corporation Schema -->
+
+<script type="application/ld+json">
+{
+  	"@context": "http://schema.org/",
+  	"@type": "OfferCatalog",
+  	"name": "Xfinity by Comcast",
+  	"image": "https://www.xfinity.com//cdn.comcast.com/~/Media/Common/GlobalNavigation/images/XFINITY_r",
+	"url": "http://www.xfinity.com/",
+  	"description": "Find the best cable TV and Internet packages with the XFINITY® Double Play from Comcast. Bundle Cable, Internet and Phone Service for a great deal!",
+	"itemListElement": [
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Product",
+        "name": "XFINITY X1 Triple Play",
+        "brand": "XFINITY",
+        "description": "Shop the best deals on Internet, cable and phone bundles. The XFINITY® Triple Play package from Comcast offers you the most savings and entertainment."
+      }
+    },
+    {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Product",
+        "name": "XFINITY Double Play",
+        "brand": "XFINITY",
+        "description": "Find the best cable TV and Internet packages with the XFINITY® Double Play from Comcast. Bundle Cable, Internet and Phone Service for a great deal!"
+        }
+      },
+          {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Product",
+        "name": "XFINITY Home",
+        "brand": "XFINITY",
+        "description": "XFINITY® Home from Comcast is a complete home security system that helps protect your family. Access online security monitoring and more!"
+      }
+    },
+              {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Product",
+        "name": "XFINITY Internet",
+        "brand": "XFINITY",
+        "description": "Find great deals on high-speed Internet service with XFINITY® Internet by Comcast. High-speed Internet has arrived with the nation's fastest in-home WiFi."
+      }
+    },
+                  {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Product",
+        "name": "XFINITY Voice",
+        "brand": "XFINITY",
+        "description": "Save on local and long-distance land line home phone service with XFINITY® Voice by Comcast. Sign up online for XFINITY® Voice and get free activation!"
+      }
+    },
+                      {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Product",
+        "name": "XFINITY TV",
+        "brand": "XFINITY",
+        "description": "Save on Digital Cable TV service with XFINITY® TV from Comcast. Enjoy crystal-clear HDTV and On Demand from the most dependable TV service provider."
+      }
+    }
+  ]
+}
+}
+</script>
+
+<script type="application/ld+json"> 
+{
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "XFINITY",
+    "url": "http://www.xfinity.com/",
+    "potentialAction": {
+        "@type": "SearchAction",
+        "target": "http://www.xfinity.com/search#q={search_term}",
+        "query-input": "required name=search_term"
+    },
+    "about": {	
+        "@type":"CableOrSatelliteService",
+        "name": "XFINITY",
+        "url": "http://www.xfinity.com/",
+        "provider": {
+            "@type": "Corporation",
+            "name": "Comcast",
+            "url": "http://www.xfinity.com/",
+            "brand": ["XFINITY", "Comcast"],
+            "owns": ["XFINITY", "XFINITY Home", "XFINITY TV", "XFINITY Internet",  "XFINITY Voice", "Comcast", "My XFINITY", "TV Go", "NBC", "Universal Motion Pictures", "Universal Studios"],
+        	"sameAs" : [
+           	 "http://www.facebook.com/xfinity",
+           	 "http://www.twitter.com/XFINITY",
+           	 "http://plus.google.com/+xfinity",
+           	 "https://www.youtube.com/user/xfinity"
+        ],
+            "tickerSymbol": " CMCSA"
+        }
+    }
+}
+</script>
+
+<!-- New Loader -->
+
+<script>
+
+$(document).ready(function(){
+    $("#overlay-waiting").html("<div class='spinner'><div class='bounce1'></div><div class='bounce2'></div><div class='bounce3'></div></div>");
+});
+
+</script>
+
+<!-- Channel Lineup -->
+
+
+<script>
+jQuery(function ($) {
+
+    $('.tpcar a.button').on('click', function (e) {
+      TrackLink(this, 'carousel tp button : ', e, null, true);
+    });
+
+    $('.dpcar a.button').on('click', function (e) {
+      TrackLink(this, 'carousel dp button : ', e, null, true);
+    });
+
+    $('.hsdcar a.button').on('click', function (e) {
+      TrackLink(this, 'carousel hsd button : ', e, null, true);
+    });
+
+    $('.tvcar a.button').on('click', function (e) {
+      TrackLink(this, 'carousel tv button : ', e, null, true);
+    });
+
+    $('.dealscar a.button').on('click', function (e) {
+      TrackLink(this, 'carousel deals button : ', e, null, true);
+    });
+
+    $('.btn.btn-yellow').on('click', function (e) {
+      TrackLink(this, 'dealfinder atc : ', e, null, true);
+    });
+
+    $('.btn.btn-yellow.show-offers-button').on('click', function (e) {
+      TrackLink(this, 'show offers : ', e, null, true);
+    });
+
+    $('#more_tv_offers_btn').on('click', function (e) {
+      TrackLink(this, 'more offers : ', e, null, true);
+    });
+
+    $('#x1Module').on('click', function (e) {
+      TrackLink(this, 'x1 page : ', e, null, true);
+    });
+
+    $('#tpModule').on('click', function (e) {
+      TrackLink(this, 'triple play module : ', e, null, true);
+    });
+
+    $('#dpModule').on('click', function (e) {
+      TrackLink(this, 'double play module : ', e, null, true);
+    });
+
+    $('#xhModule').on('click', function (e) {
+      TrackLink(this, 'xfinity home module : ', e, null, true);
+    });
+
+    $('#hsdModule').on('click', function (e) {
+      TrackLink(this, 'internet module : ', e, null, true);
+    });
+
+    $('#tvModule').on('click', function (e) {
+      TrackLink(this, 'tv module : ', e, null, true);
+    });
+
+    $('#voiceModule').on('click', function (e) {
+      TrackLink(this, 'voice module : ', e, null, true);
+    });
+
+    $('#maTV').on('click', function (e) {
+      TrackLink(this, 'my tv : ', e, null, true);
+    });
+
+    $('#maEmail').on('click', function (e) {
+      TrackLink(this, 'my email : ', e, null, true);
+    });
+
+    $('#maHome').on('click', function (e) {
+      TrackLink(this, 'my home : ', e, null, true);
+    });
+
+    $('#maAccount').on('click', function (e) {
+      TrackLink(this, 'my account : ', e, null, true);
+    });
+
+    $('#moversModule').on('click', function (e) {
+      TrackLink(this, 'movers module : ', e, null, true);
+    });
+
+    $('#compareModule').on('click', function (e) {
+      TrackLink(this, 'competitive module : ', e, null, true);
+    });
+
+    $('#guaranteeModule').on('click', function (e) {
+      TrackLink(this, 'guarantee module : ', e, null, true);
+    });
+
+    $('button.slick-next').on('click', function (e) {
+      TrackLink(this, 'carousel next arrow : ', e, null, true);
+    });
+
+    $('button.slick-prev').on('click', function (e) {
+      TrackLink(this, 'carousel previous arrow : ', e, null, true);
+    });
+
+    $('.slick-dots li button').on('click', function (e) {
+      TrackLink(this, 'carousel dots : ', e, null, true);
+    });
+
+    $('#change_location').on('click', function (e) {
+      TrackLink(this, 'change location : ', e, null, true);
+    });
+
+    $('#contentplaceholder_0_middle_0__offerFinderControl__litLocalizationSeeOffersLink_0').on('click', function (e) {
+      TrackLink(this, 'existing customer see offers : ', e, null, true);
+    });
+
+    $('#enter_address').on('click', function (e) {
+      TrackLink(this, 'unrecognized customer enter address : ', e, null, true);
+    });
+
+  });
+</script>
+
+<!-- Slick Slider Scripts -->
+
+<script src="//cdn.comcast.com/~/Media/FED/slick POC/slick.min.js?rev=3d0dff8f-870a-4c99-8628-e96fb798754f"></script>
+
+<script>
+$(document).ready(function(){
+  $('.swipe-wrap').slick({
+    dots: true,
+    infinite: true,
+    autoplay: true,
+    autoplaySpeed: 9000,
+    speed: 500,
+    fade: true,
+    accessibility: false,
+    cssEase: 'linear'
+  });
+});
+
+(function() {
+	'use strict'
+
+	var $heroSlider = $('.swipe-wrap'),
+		$doc = $(document),
+		priceInfo = '.details-restrictions-tooltip',
+		InfoCloseBtn = '#overlay-offerdetails .overlay-close-btn';
+
+	function focusOut() {
+		var timerId,
+			intervalTime = 1000;
+
+		setTimeout(function() {
+	       	$(InfoCloseBtn).focus();
+	    }, 0);
+
+	    if(!$(InfoCloseBtn).is(':focus')) {
+			timerId = setTimeout(focusOut, intervalTime);
+		}
+	}
+
+	function stopSlider() {
+		//pause slider
+		$heroSlider.slick('slickPause');
+		
+		//focus closebtn
+		focusOut();
+	}
+
+	function resumeSlider() {
+		$heroSlider.slick('slickPlay');
+	}
+
+	$doc.on('click', priceInfo, stopSlider);
+	$doc.on('click', InfoCloseBtn, resumeSlider);
+
+})();
+</script>
+
+
+
+<script>
+$('.deal-finder-results .home-security-plans [data-offer-id*="206075"] .btn span').html('Call 1-877-591-2488');
+</script>
+
+<!-- gig bandage desktop -->
+<script>
+(function() {
+  'use strict';
+
+  function updateMarkup(selector, newMarkup) {
+
+    var $element = $(selector);
+    if ($element.length === 1) {
+
+      var $atcButton = $element.find('.btn-yellow');
+      if ($atcButton.length === 1) {
+        $atcButton.replaceWith(newMarkup);
+      }
+    }
+  }
+
+  function throttle(fn, threshhold, scope) {
+    threshhold || (threshhold = 250);
+    var last,
+      deferTimer;
+    return function() {
+      var context = scope || this;
+      var now = +new Date,
+        args = arguments;
+
+      if (last && now < last + threshhold) {
+        // hold on to it
+        clearTimeout(deferTimer);
+        deferTimer = setTimeout(function() {
+          last = now;
+          fn.apply(context, args);
+        }, threshhold);
+      } else {
+        last = now;
+        fn.apply(context, args);
+      }
+    };
+  }
+
+  function gigProBandage() {
+    var bandageMarkup = '<p class="gig-bandage">Call <span class="gig-bandage-number">800-XFINITY</span> to order</p>';
+
+    //Centra
+    updateMarkup('.offer_row[index*=9626100375]', bandageMarkup);
+
+    //NED
+    updateMarkup('.offer_row[index*=9626100376]', bandageMarkup);
+    updateMarkup('.offer_row[index*=1626100025]', bandageMarkup);
+
+    //WEST
+    updateMarkup('.offer_row[index*=9626100374]', bandageMarkup);
+
+    // epic offer ids below
+    //Centra
+    updateMarkup('tr.[data-offer-id="202542"]', bandageMarkup);
+
+    //NED
+    updateMarkup('tr.[data-offer-id="210234"]', bandageMarkup);
+    updateMarkup('tr.[data-offer-id="210370"]', bandageMarkup);
+
+    //WEST
+    updateMarkup('tr.[data-offer-id="210239"]', bandageMarkup);
+  }
+
+  function gigBandage() {
+    var bandageMarkup;
+
+    //Central Gig 70 offer
+    bandageMarkup = '<a class="btn btn-yellow" href="/xfinity-one-gig-signup" ><span>Learn More</span></a>';
+    updateMarkup('.offer_row[index*=9626100373]', bandageMarkup);
+
+    //West Gig 70 offer
+    bandageMarkup = '<p class="gig-bandage">Call <span class="gig-bandage-number">800-XFINITY</span> to order</p>';
+    updateMarkup('.offer_row[index*=9626100549]', bandageMarkup);
+
+    //Gig EDP offer
+    bandageMarkup = '<a class="btn btn-yellow" href="/xfinity-one-gig-signup" ><span>Learn More</span></a>';
+    updateMarkup('.offer_row[index*=9626100372]', bandageMarkup);
+
+    //West
+    bandageMarkup = '<p class="gig-bandage">Call <span class="gig-bandage-number">800-XFINITY</span> to order</p>';
+    updateMarkup('.offer_row[index*=9626100550]', bandageMarkup);
+
+    bandageMarkup = '<p class="gig-bandage">Call <span class="gig-bandage-number">800-XFINITY</span> to order</p>';
+    updateMarkup('.offer_row[index*=9626100548]', bandageMarkup);
+
+    bandageMarkup = '<p class="gig-bandage">Call <span class="gig-bandage-number">800-XFINITY</span> to order</p>';
+    updateMarkup('.offer_row[index*=9626100555]', bandageMarkup);
+
+    //epic offer ids belo
+    //Central Gig 70 offer
+    bandageMarkup = '<a class="btn btn-yellow" href="/xfinity-one-gig-signup" ><span>Learn More</span></a>';
+    updateMarkup('tr.[data-offer-id="210294"]', bandageMarkup);
+
+    //West
+    bandageMarkup = '<p class="gig-bandage">Call <span class="gig-bandage-number">800-XFINITY</span> to order</p>';
+    updateMarkup('tr.[data-offer-id="210378"]', bandageMarkup);
+
+    //Gig EDP offer
+    bandageMarkup = '<a class="btn btn-yellow" href="/xfinity-one-gig-signup" ><span>Learn More</span></a>';
+    updateMarkup('tr.[data-offer-id="210296"]', bandageMarkup);
+  }
+
+  //triggering event on scroll since home page may not have show more offer button
+  $(window).on('scroll load', throttle(function() {
+    gigProBandage();
+    gigBandage();
+  }, 1000));
+
+  $(document).on('click', '.sprite, .show-offers-button', function() { 
+    setInterval(function(){ 
+      gigProBandage();
+      gigBandage();
+    }, 2000);
+  });
+
+})();
+</script>
+
+
+<script>
+
+var $trigger =  $('.watch'),
+    $closeButton = $('#video-close'),
+    $overlay = $('.video-overlay'),
+     activeClass = '_active';
+
+   $trigger.on('click', function(){$overlay.addClass(activeClass)});
+   $closeButton.on('click', function(){$overlay.removeClass(activeClass)});
+
+    
+</script>
+
+<!-- video player template -->
+<script type="text/template" data-video-controls-template>
+          <div class="x-player-notification-container {{device}}">
+              <div class="x-player-notification {{device}} x-player-notification--play">
+                  <i class="x-icon"></i>
+              </div>
+          </div>
+          <button class="x-player-close-btn" type="button">
+              <span class="x--vh">Close Video: X</span>
+          </button>
+          <div data-component="x-video-controls" class="x-player-controls {{device}}">
+              <div class="x-accessibility-info x--vh" aria-live="polite"></div>
+              <div class="x-controls-row">
+                  <div class="x-controls-group x-player-controls__togglePlay">
+                      <button class="x-controls-button x-controls-button--play" type="button">
+                          <span class="x--vh">Play: P</span>
+                      </button>
+                      <button class="x-controls-button x-controls-button--pause" type="button">
+                          <span class="x--vh">Pause: P</span>
+                      </button>
+                  </div>
+
+                  <div class="x-controls-group x-controls-seekbar">
+                      <input type="range" class="x-controls-hidden-range x-controls-hidden-range--seek x--vh" value="0" step="2" role="slider" aria-label="Time">
+                      <p class="x-controls-currenttime">0:00</p>
+                      <p class="x-controls-duration">0:00</p>
+                      <div class="x-range-control">
+                          <div class="x-range-control-thermometer">
+                              <div class="x-range-control-handle">
+                                  <input class="x-controls-inputtime" type="text" placeholder="--:--" maxlength="5" title="Input time" aria-label="Input time">
+                              </div>
+                              <div class="x-range-control-fill"></div>
+                          </div>
+                      </div>
+                  </div>
+
+                  <div class="x-controls-group x-controls-volume-group {{device}}">
+                      <div class="x-controls-toggle-mute">
+                          <button class="x-controls-button x-controls-button--mute" type="button">
+                              <span class="x--vh">Mute: M</span>
+                          </button>
+                          <button class="x-controls-button x-controls-button--unmute" type="button">
+                              <span class="x--vh">Unmute: M</span>
+                          </button>
+                      </div>
+
+                      <div class="x-controls-volume-bar">
+                          <input type="range" class="x-controls-hidden-range x-controls-hidden-range--volume x--vh" role="slider" aria-valuetext="Volume 100%" min="0" max="1" step="0.1" value="1">
+                          <div class="x-range-control">
+                              <div class="x-range-control-thermometer">
+                                  <div class="x-range-control-handle" style="left: 100%;"></div>
+                                  <div class="x-range-control-fill" style="width: 100%;"></div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+
+                  <div class="x-controls-group x-controls-captions-group">
+                      <button class="x-controls-button x-controls-button--captionon" type="button">
+                          <span class="x--vh">Show Closed Captions: C</span>
+                      </button>
+                      <button class="x-controls-button x-controls-button--captionoff" type="button">
+                          <span class="x--vh">Hide Closed Captions: C</span>
+                      </button>
+                  </div>
+                  <div class="x-controls-group x-controls-shortcuts-group {{device}}">
+                      <button class="x-controls-button x-controls-button--shortcuts" type="button">
+                          <span class="x--vh">Show List of Keyboard Shortcuts: Question</span>
+                      </button>
+                  </div>
+                  <div class="x-controls-group">
+                      <button class="x-controls-button x-controls-button--fullscreenon" type="button">
+                          <span class="x--vh">Enter fullscreen: F</span>
+                      </button>
+                      <button class="x-controls-button x-controls-button--fullscreenoff" type="button">
+                          <span class="x--vh">Exit fullscreen: F</span>
+                      </button>
+                  </div>
+              </div>
+          </div>
+          <div class="x-player-shortcuts-container" role="dialog" aria-describedby="shortcuts_desc">
+              <div class="x-shortcuts-info">
+                <button class="x-shortcuts-close-btn" type="button">
+                    <span class="x--vh">Close shortcuts info</span>
+                </button>
+                <div role="document" tabindex="0">
+                  <h4>Player Shortcuts</h4>
+                  <ul>
+                    <li>Show List of Keyboard Shortcuts
+                      <span class="x--vh">,</span>
+                      <span aria-hidden="true">?</span>
+                      <span class="x--vh">Question</span>
+                    </li>
+                    <li>Play/Pause
+                      <span class="x--vh">,</span>
+                      <span>P or Spacebar</span>
+                    </li>
+                    <li>Skip Ahead 15 seconds
+                      <span class="x--vh">,</span>
+                      <span aria-hidden="true">&rarr;</span>
+                      <span class="x--vh">Right Arrow</span>
+                    </li>
+                    <li>Skip Ahead 60 seconds
+                      <span class="x--vh">,</span>
+                      <span aria-hidden="true">Shift + &rarr;</span>
+                      <span class="x--vh">Shift + Right Arrow</span>
+                    </li>
+                    <li>Skip Back 15 seconds
+                      <span class="x--vh">,</span>
+                      <span aria-hidden="true">&larr;</span>
+                      <span class="x--vh">Left Arrow</span>
+                    </li>
+                    <li>Skip Back 60 seconds
+                      <span class="x--vh">,</span>
+                      <span aria-hidden="true">Shift + &larr;</span>
+                      <span class="x--vh">Shift + Left Arrow</span>
+                    </li>
+                  </ul>
+                  <ul>
+                    <li>Volume Up
+                      <span class="x--vh">,</span>
+                      <span aria-hidden="true">&uarr;</span>
+                      <span class="x--vh">Up Arrow</span>
+                    </li>
+                    <li>Volume Down
+                      <span class="x--vh">,</span>
+                      <span aria-hidden="true">&darr;</span>
+                      <span class="x--vh">Down Arrow</span>
+                    </li>
+                    <li>Toggle Mute
+                      <span class="x--vh">,</span>
+                      <span>M</span>
+                    </li>
+                    <li class="full-screen-shortcut-title">Toggle Full Screen
+                      <span class="x--vh">,</span>
+                      <span>F</span>
+                    </li>
+                    <li>Toggle Closed Captions
+                      <span class="x--vh">,</span>
+                      <span>C</span>
+                    </li>
+                    <li>Jump to the Time Input
+                      <span class="x--vh">,</span>
+                      <span>J</span>
+                    </li>
+                    <li>Exit Full Screen; Close Overlay Player
+                      <span class="x--vh">,</span>
+                      <span>Esc</span>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+          </div>
+</script>
+
+<!-- Video Vendor Code -->
+<script src="//cdn.comcast.com/~/Media/FED/video-assets/video-vendor.js?rev=5ee29f1d-ec07-436b-8a54-9328ecbc597e" type="text/javascript"></script>
+
+<!-- Video Module Code -->
+<script src="//cdn.comcast.com/~/Media/FED/video-assets/video-components.js?rev=a399049b-d988-4592-9f7b-24a50ce35855" type="text/javascript"></script>
+
+<script>
+if ( $('#central-countdown-clock').length)
+{
+function getTimeRemaining(endtime) {
+  var t = Date.parse(endtime) - Date.parse(new Date());
+  var seconds = Math.floor((t / 1000) % 60);
+  var minutes = Math.floor((t / 1000 / 60) % 60);
+  var hours = Math.floor((t / (1000 * 60 * 60)) % 24);
+  var days = Math.floor(t / (1000 * 60 * 60 * 24));
+  return {
+    'total': t,
+    'days': days,
+    'hours': hours,
+    'minutes': minutes,
+    'seconds': seconds
+  };
+}
+ 
+function initializeClock(id, endtime) {
+  var clock = document.getElementById(id),
+   daysSpan = clock.querySelector('.days');
+ 
+  function updateClock() {
+    var t = getTimeRemaining(endtime),
+           d_expired = false,
+           h_expired = false,
+            m_expired = false;
+    daysSpan.innerHTML = ('0' + t.days);
+ 
+    if (t.total <= 0) {
+      clearInterval(timeinterval);
+     
+      if($message === true){
+        messageSpan.innerHTML = endText;
+        leadSpan.className = '_hidden';
+      }
+    }
+  }
+ 
+  updateClock();
+  var timeinterval = setInterval(updateClock, 1000);
+}
+ 
+var deadline = new Date("March 23, 2017 00:00:00");
+    $message = false;
+   
+initializeClock('central-countdown-clock', deadline);
+}
+ 
+if ( $('#central-countdown-clock-2').length)
+{
+function getTimeRemaining(endtime) {
+  var t = Date.parse(endtime) - Date.parse(new Date());
+  var seconds = Math.floor((t / 1000) % 60);
+  var minutes = Math.floor((t / 1000 / 60) % 60);
+  var hours = Math.floor((t / (1000 * 60 * 60)) % 24);
+  var days = Math.floor(t / (1000 * 60 * 60 * 24));
+  return {
+    'total': t,
+    'days': days,
+    'hours': hours,
+    'minutes': minutes,
+    'seconds': seconds
+  };
+}
+ 
+ 
+function initializeClock2(id, endtime) {
+  var clock = document.getElementById(id),
+   daysSpan = clock.querySelector('.days2');
+ 
+  function updateClock() {
+    var t = getTimeRemaining(endtime),
+           d_expired = false,
+            h_expired = false,
+            m_expired = false;
+    daysSpan.innerHTML = ('0' + t.days);
+ 
+    if (t.total <= 0) {
+      clearInterval(timeinterval);
+     
+      if($message === true){
+        messageSpan.innerHTML = endText;
+        leadSpan.className = '_hidden';
+      }
+    }
+  }
+ 
+  updateClock();
+  var timeinterval = setInterval(updateClock, 1000);
+}
+ 
+ 
+ 
+ 
+var deadline = new Date("March 23, 2017 00:00:00");
+    $message = false;
+   
+initializeClock2('central-countdown-clock-2', deadline);
+}
+ 
+if ( $('#central-countdown-clock-3').length)
+{
+function getTimeRemaining(endtime) {
+  var t = Date.parse(endtime) - Date.parse(new Date());
+  var seconds = Math.floor((t / 1000) % 60);
+  var minutes = Math.floor((t / 1000 / 60) % 60);
+  var hours = Math.floor((t / (1000 * 60 * 60)) % 24);
+  var days = Math.floor(t / (1000 * 60 * 60 * 24));
+  return {
+    'total': t,
+    'days': days,
+    'hours': hours,
+    'minutes': minutes,
+    'seconds': seconds
+  };
+}
+ 
+function initializeClock3(id, endtime) {
+  var clock = document.getElementById(id),
+   daysSpan = clock.querySelector('.days3');
+ 
+ 
+  function updateClock() {
+    var t = getTimeRemaining(endtime),
+           d_expired = false,
+            h_expired = false,
+            m_expired = false;
+    daysSpan.innerHTML = ('0' + t.days);
+ 
+    if (t.total <= 0) {
+      clearInterval(timeinterval);
+     
+      if($message === true){
+        messageSpan.innerHTML = endText;
+        leadSpan.className = '_hidden';
+      }
+    }
+  }
+ 
+  updateClock();
+  var timeinterval = setInterval(updateClock, 1000);
+}
+ 
+ 
+var deadline = new Date("March 23, 2017 00:00:00");
+    $message = false;
+   
+initializeClock3('central-countdown-clock-3', deadline);
+}
+</script>
+
+
+<!-- Hover Text module -->
+<script src="//cdn.comcast.com/~/Media/2017/FED/Script/hover.js?rev=674ac504-b77c-4e2b-8ef7-1cdb305ad2b9"></script>
+
+ 
+
+    <script src="//cdn.pdc.comcast.com/includes/ngbf_comcast_com/js/bundles/bootstrap?v=WnX0UVcPhnqe6HtF6Fm5mNjWoJJIWcEIF9aii0TpidM1"></script>
+
+    <script src="//cdn.pdc.comcast.com/includes/ngbf_comcast_com/js/bundles/omniture?v=BHuIYvGOM2dCuMJPZr6ZE9dSVLhrELJwqqT1HpuXB8E1"></script>
+
+    
+
+    <script type="text/javascript">
+var comcast = comcast || {};
+comcast.federatedExperienceManager = comcast.federatedExperienceManager || {};
+
+(function (namespace) {
+    namespace.helper = (function () {
+        "use strict";
+		
+		var self = this,
+		IsBeaconScriptInjected = false,
+		Interval = 100,
+        StartDateTime = null,
+        EndDateTime = null,
+        FxmApi = "//{hostName}/-/fxm/web/",
+		GetCookie = function(cname)
+		{
+						var name = cname + "=";
+						var ca = document.cookie.split(';');
+						for(var i=0; i<ca.length; i++) {
+										var c = ca[i];
+										while (c.charAt(0)==' ') c = c.substring(1);
+										if (c.indexOf(name) == 0) return c.substring(name.length, c.length);
+						}
+						return "";
+		},
+		InjectBeaconScript = function()
+		{
+						try{
+										var script = document.createElement("script");
+										script.type = "text/javascript";			
+										FxmApi = FxmApi.replace("{hostName}",document.location.hostname.replace("www","xapi"));
+										script.src = FxmApi;
+										document.head.appendChild(script);
+										IsBeaconScriptInjected = true;
+						}
+						catch(e){IsBeaconScriptInjected = false;}        
+		},
+		TryInjectBeaconScript = function()
+		{               
+						if(IsBeaconScriptInjected)return;
+						if(typeof(StartDateTime) == "undefined" || StartDateTime =="undefined" || StartDateTime == null) StartDateTime = new Date();
+						EndDateTime = new Date();
+						if(EndDateTime - StartDateTime >= 10000) 
+						{
+										StartDateTime = null;
+										return;
+						}
+						else
+						{
+										if(GetCookie('aam_sitecore') !='')
+										{
+														InjectBeaconScript();
+										}
+										else
+										{                                                               
+														setTimeout(function(){TryInjectBeaconScript()}, Interval);
+										}
+						}
+		}
+        return { TryInjectBeaconScript: TryInjectBeaconScript };
+    }(jQuery));
+}(comcast.federatedExperienceManager));
+comcast.federatedExperienceManager.helper.TryInjectBeaconScript();
+</script>                        <script src="//cdn.comcast.com/~/Media/appdynamics/clu.js?rev=9cd4a4d4-6eb8-444d-a9a2-eaabdba66902"></script>
+
+
+
+<script>
+   if(_satellite !== undefined){
+      _satellite.pageBottom();
+   }
+</script>
+     
+
+</body>
+
+</html>
